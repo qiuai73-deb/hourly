@@ -145,21 +145,21 @@ def load_bbc_rss():
 # 抓取Google News外媒聚合RSS
 def load_media_google_rss():
     media_list = [
-        ("Reuters", "site:reuters.com+china"),
-        ("Bloomberg", "site:bloomberg.com+china"),
-        ("AP", "site:apnews.com+china"),
-        ("Nikkei Asia", "site:asia.nikkei.com+china"),
-        ("Financial Times", "site:ft.com+china"),
-        ("New York Times", "site:nytimes.com+china"),
-        ("CNN", "site:cnn.com+china"),
-        ("AFP", "site:afp.com+china"),
-        ("The Economist", "site:economist.com+china"),
-        ("The Guardian", "site:theguardian.com+china"),
-        ("VOA News", "site:voanews.com+china"),
-        ("EurAsian Times", "site:eurasiantimes.com+china"),
-        ("Nature", "site:nature.com+china"),
-        ("The Lancet", "site:thelancet.com+china"),
-        ("NEJM", "site:nejm.org+china"),
+        ("Reuters", "site:reuters.com+china+when:1d"),
+        ("Bloomberg", "site:bloomberg.com+china+when:1d"),
+        ("AP", "site:apnews.com+china+when:1d"),
+        ("Nikkei Asia", "site:asia.nikkei.com+china+when:1d"),
+        ("Financial Times", "site:ft.com+china+when:1d"),
+        ("Wall Street Journal", "site:wsj.com+china+when:1d"),
+        ("CNBC", "site:cnbc.com+china+when:1d"),
+        ("New York Times", "site:nytimes.com+china+when:1d"),
+        ("CNN", "site:cnn.com+china+when:1d"),
+        ("AFP", "site:afp.com+china+when:1d"),
+        ("The Economist", "site:economist.com+china+when:1d"),
+        ("The Guardian", "site:theguardian.com+china+when:1d"),
+        ("VOA News", "site:voanews.com+china+when:1d"),
+        ("The Lancet", "site:thelancet.com+china+when:1d"),
+        ("NEJM", "site:nejm.org+china+when:1d"),
     ]
     for src, q in media_list:
         try:
