@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>外媒涉华新闻聚合站</title>
+    <style>
+        * {margin:0; padding:0; box-sizing:border-box; font-family:system-ui, -apple-system, "Microsoft Yahei", sans-serif;}
+        body {background:#f5f7fa; color:#222; padding:20px max-width:1400px; margin:0 auto;}
+        header {background:#fff; border-radius:12px; padding:24px; margin-bottom:20px; box-shadow:0 2px 10px #0000000a;}
+        h1 {font-size:26px; margin-bottom:10px; color:#1a365d;}
+        .meta-info {color:#666; font-size:14px; line-height:1.8;}
+        .source-stats {margin-top:12px; display:flex; flex-wrap:wrap; gap:8px;}
+        .tag {background:#e6f0ff; color:#0056b3; padding:4px 10px; border-radius:20px; font-size:13px;}
+        .media-block {background:#fff; border-radius:12px; padding:20px; margin-bottom:16px; box-shadow:0 2px 8px #00000008;}
+        .media-title {font-size:18px; font-weight:600; margin-bottom:14px; color:#112948; border-left:4px solid #0066cc; padding-left:12px;}
+        .news-item {border-bottom:1px solid #eee; padding:14px 8px; cursor:pointer; transition:background 0.2s;}
+        .news-item:hover {background:#f0f7ff;}
+        .cn-title {font-size:16px; font-weight:500; margin-bottom:4px; color:#111;}
+        .en-title {font-size:13px; color:#666; line-height:1.5;}
+        .pub-time {font-size:12px; color:#888; margin-top:6px;}
+        .loading {text-align:center; padding:60px; font-size:18px; color:#555;}
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🌍 境外媒体涉华新闻聚合</h1>
+        <div class="meta-info">
+            <div id="update-time">加载中...</div>
+            <div id="total-count"></div>
+            <div class="source-stats" id="stats-container"></div>
+        </div>
+    </header>
+    <main id="news-container">
+        <div class="loading">正在拉取最新新闻数据，请稍候...</div>
+    </main>
+
+    <script>
+        async function loadNews() {
+            try {
+                const res = await fetch("./news.json");
+                const data = await res.json();
+                if(data.error) {
+                    document.getElementById("news-container").innerHTML = `<div style="color:red;text-align:center;padding:40px;">采集出错：${data.error}</div>`;
+                    return;
+                }
+                // 顶部统计信息
+                document.getElementById("update-time").innerText = `最后自动更新：${data.update_time}`;
+                document.getElementById("total-count").innerText = `当前新闻总数：${data.total} 条`;
+                // 来源标签
+                const statsBox = document.getElementById("stats-container");
+                statsBox.innerHTML = "";
+                Object.entries(data.source_stats).forEach(([src, cnt])=>{
+                    const tag = document.createElement("span");
+                    tag.className = "tag";
+                    tag.innerText = `${src}：${cnt}条`;
+                    statsBox.appendChild(tag);
+                })
+                // 按媒体分组新闻
+                const groupMap = {};
+                data.news_list.forEach(item=>{
+                    if(!groupMap[item.source]) groupMap[item.source] = [];
+                    groupMap[item.source].push(item);
+                })
+                const mainBox = document.getElementById("news-container");
+                mainBox.innerHTML = "";
+                // 遍历每个媒体区块
+                Object.entries(groupMap).forEach(([media, newsArr])=>{
+                    const block = document.createElement("div");
+                    block.className = "media-block";
+                    block.innerHTML = `<div class="media-title">${media}（${newsArr.length}条）</div>`;
+                    newsArr.forEach(news=>{
+                        const itemDom = document.createElement("div");
+                        itemDom.className = "news-item";
+                        itemDom.innerHTML = `
+                            <div class="cn-title">${news.title_cn}</div>
+                            <div class="en-title">原文：${news.title_en}</div>
+                            <div class="pub-time">发布时间：${news.pub_sort}</div>
+                        `;
+                        // 点击跳转原文
+                        itemDom.onclick = ()=> window.open(news.url, "_blank");
+                        block.appendChild(itemDom);
+                    })
+                    mainBox.appendChild(block);
+                })
+            } catch (err) {
+                document.getElementById("news-container").innerHTML = `<div style="color:red;text-align:center;padding:40px;">数据加载失败：${err.message}</div>`;
+            }
+        }
+        window.onload = loadNews;
+    </script>
+</body>
+</html>
