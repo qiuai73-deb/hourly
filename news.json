@@ -1,19 +1,28 @@
 {
-  "update_cst": "2026-08-04 22:56:06 北京时间",
-  "total_count": 53,
+  "update_cst": "2026-08-04 23:04:04 北京时间",
+  "total_count": 48,
   "source_stat": {
-    "Reuters": 11,
-    "Bloomberg": 15,
+    "Reuters": 10,
+    "Bloomberg": 10,
     "AP": 1,
     "Nikkei Asia": 5,
     "Financial Times": 6,
     "Wall Street Journal": 5,
-    "CNBC": 5,
+    "CNBC": 6,
     "New York Times": 1,
     "CNN": 1,
     "The Economist": 3
   },
   "news": [
+    {
+      "source": "CNBC",
+      "title_en": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves - CNBC",
+      "title_cn": "“Baby iPhone”和苹果供应商泄密事件如何解释中国最近的供应链动向 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MZnduc3hSRWxBQU5SakxMVVBGNFpaV3BUNjFhQ1hJZlpNRi1ibHZOeHpESjROc1JzRGIzTkw2OTUyVVpkSVg4WGo2NVlSM1d3TWlMSnV6N1E5VzFyRzNJX2NjN3pFYm9ucVhsTThlN3VFQVpXanlsNlFwNNIBgAFBVV95cUxNWmEzVF9hMlJCYUFDT3MwWk5VTm9zd3RDekZZQ3ZEQXVweUFueE5TMEdqZFhxZkNQdmVQeGl0VTVXLWJCMVhJSmVTREY1Vk9FMms5VlBTMGdLd1VOd1d0R3IwZE5hbzczQVN1ZmpOeGtwR2JVREhYM0FEcmh5OEVFQw?oc=5",
+      "summary": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves&nbsp;&nbsp;CNBC",
+      "pub_raw": "Tue, 04 Aug 2026 14:35:06 GMT",
+      "pub_sort_dt": "2026-08-04 14:35:06 UTC"
+    },
     {
       "source": "Reuters",
       "title_en": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky - Reuters",
@@ -67,15 +76,6 @@
       "summary": "Sands China as World's First Integrated Tourism and Leisure Enterprise to Achieve ISO 14001:2026 Certification for Environmental Management – Company Announcement - FT.com&nbsp;&nbsp;Financial Times",
       "pub_raw": "Tue, 04 Aug 2026 12:40:00 GMT",
       "pub_sort_dt": "2026-08-04 12:40:00 UTC"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Zhang Xin, China Shipbuilding Industry Group Power Co Ltd: Profile and Biography - Bloomberg.com",
-      "title_cn": "中国船舶重工集团动力有限公司张欣：简介和传记 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XSnNaWTltVUgxc2ZaeHlyNzR2bmlaMTcwMC1ndnluaUVINzhOMk54QlBRR2NFVVBaMHZtWUMwQ3pTVGNoSDJCTGNEWU9BTnNxR0NKNVBpRExVaE91ZWc?oc=5",
-      "summary": "Zhang Xin, China Shipbuilding Industry Group Power Co Ltd: Profile and Biography&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Tue, 04 Aug 2026 12:35:51 GMT",
-      "pub_sort_dt": "2026-08-04 12:35:51 UTC"
     },
     {
       "source": "New York Times",
@@ -132,24 +132,6 @@
       "pub_sort_dt": "2026-08-04 10:56:03 UTC"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "South Africa Wins Chinese Backing for Power-Expansion Plans - Bloomberg.com",
-      "title_cn": "南非电力扩张计划赢得中国支持 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXJVaGc4VDRLaGVxbnZnckItX0NBNDRoMDYza2M0YmhsMFY5OGhDRksyMkxjTi03UUx5Y3pNcFRkdWtJenAxNFFJYTdsd0dyY2JxV1pGTDN0MnZtbHZxYjEwLUowZ2lkeDZkS1M4U0lTT3BiNGZVOXJSZ3Y1ZWFQN1NkUGhQZjNmcVlHS2g2dEVlWFJWV3U5dFAxb0N3WkIyR1FoVnBIX2VhYUtqQkgw?oc=5",
-      "summary": "South Africa Wins Chinese Backing for Power-Expansion Plans&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Tue, 04 Aug 2026 10:43:10 GMT",
-      "pub_sort_dt": "2026-08-04 10:43:10 UTC"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Kimberly-Clark Earnings: Outlook Trimmed on Depot Fire, China Quality Claims - Bloomberg.com",
-      "title_cn": "金佰利 (Kimberly-Clark) 盈利：因仓库火灾和中国质量索赔而下调前景 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFVoaFdMN01jNHdsYmxndHU5dFRQMU5BMVprdHJuNm5PRXphc0g0NktVY2Y5bVJMVzI2alNhM1Qxb1NDM0J3X3pMeXhDVldOWHp2b3Z5bWdFQ2xhd2ZxLW9fb0hqNzlQYTVpSFB0ZkU0TzFqQU5oZ0c2TjF4dzN0UjZuNnIydDhaVkRDTW1qXzlLZ1drcDFCZnVZbEtWRGdNbHZDaFg2RFNsVksyRzZmNF84ekc?oc=5",
-      "summary": "Kimberly-Clark Earnings: Outlook Trimmed on Depot Fire, China Quality Claims&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Tue, 04 Aug 2026 10:30:00 GMT",
-      "pub_sort_dt": "2026-08-04 10:30:00 UTC"
-    },
-    {
       "source": "Financial Times",
       "title_en": "Sisram Medical Powers Up China EBD Growth Engine with Flagship \"黑金牛奶光\" Launch – Company Announcement - Financial Times",
       "title_cn": "Sisram Medical推出旗舰产品“黑金奶光”，助力中国EBD增长引擎 – 公司公告 - 金融时报",
@@ -187,10 +169,10 @@
     },
     {
       "source": "CNBC",
-      "title_en": "Luxury vs mass market: Julius Baer's take on understanding the U.S.-China AI race - cnbc.com",
-      "title_cn": "奢侈品市场与大众市场：瑞士宝盛对中美人工智能竞赛的看法 - cnbc.com",
+      "title_en": "Luxury vs mass market: Julius Baer's take on understanding the U.S.-China AI race - CNBC",
+      "title_cn": "奢侈品市场与大众市场：瑞士宝盛对中美人工智能竞赛的看法 - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVW1wSzd6cGpIRHRoVHV3dDZHbnB2LWxYWWxSSUhMNk5QNmRJdG9xbjlBMWNkUUJxV2tTN3hoNGtHLS14ekJiQ1FycFhNWXVDVWVNS0YwdTQ0SzFBLTNxbDNQdEQ5T2RyRUlmR1M0djRBekw4NmFtT3BJOXktSW1fM0Z3X09vZ1pSNkNveFRoYzEtYl93XzViQUtvck5rVE9qVW9FT2t5QmxseERwVUxzVnR6SmViZ3l6Q2pz?oc=5",
-      "summary": "Luxury vs mass market: Julius Baer's take on understanding the U.S.-China AI race&nbsp;&nbsp;cnbc.com",
+      "summary": "Luxury vs mass market: Julius Baer's take on understanding the U.S.-China AI race&nbsp;&nbsp;CNBC",
       "pub_raw": "Tue, 04 Aug 2026 07:39:00 GMT",
       "pub_sort_dt": "2026-08-04 07:39:00 UTC"
     },
@@ -241,10 +223,10 @@
     },
     {
       "source": "CNBC",
-      "title_en": "China's open-source AI models will push the U.S. to compete at lower end of the value chain: AEI - cnbc.com",
-      "title_cn": "中国开源人工智能模型将推动美国在价值链低端竞争：AEI - cnbc.com",
+      "title_en": "China's open-source AI models will push the U.S. to compete at lower end of the value chain: AEI - CNBC",
+      "title_cn": "中国的开源人工智能模型将推动美国在价值链低端竞争：AEI - CNBC",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMThsUUwzeWpOZHVNWDh3QnNTNWFBTWZObnFfRnNxT3lpZkVDa251ekFFQkRSRy1ZRGVaZkMwTGMyTG8wWWpQbHVXUmF3a0xCRDRhZHcwRUwtVjlUdUQ5WThSVnpWYm54X2VuUzhwdVJKUDVISVBBMmhaaExFNlBlNnBVb1lnZVBYeDJ3dkMzNlRkQUNoYXVlcndhMEhrM1R0SjRGeDd6SnIwc1l4V3c?oc=5",
-      "summary": "China's open-source AI models will push the U.S. to compete at lower end of the value chain: AEI&nbsp;&nbsp;cnbc.com",
+      "summary": "China's open-source AI models will push the U.S. to compete at lower end of the value chain: AEI&nbsp;&nbsp;CNBC",
       "pub_raw": "Tue, 04 Aug 2026 05:49:16 GMT",
       "pub_sort_dt": "2026-08-04 05:49:16 UTC"
     },
@@ -339,15 +321,6 @@
       "pub_sort_dt": "2026-08-04 00:33:00 UTC"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "Watch China Anxious About Mythos Ahead of Trump-Xi Meeting - Bloomberg.com",
-      "title_cn": "特朗普与习近平会面前，中国对神话感到焦虑 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlV1d1BXWGZnWXpwaXR4R2dVc0w3eVhfa01YeVItbnUzcTdhV0J2TkFTZkV5MXJiZlpqbFluWk9DMkZQNTk0T1ExTlY5ajV4SHRqN04xN3lXUkxLN1RzYjJwT0U1eXk5STVPemY4Z2F3OW9vYmtGbVFNLTVNc2liNEZvNXV2X1p6aDlNMHJTWVc3bVo3aF9mbXJaN0dPZ2c3QW5Tci13dm93WFk?oc=5",
-      "summary": "Watch China Anxious About Mythos Ahead of Trump-Xi Meeting&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Tue, 04 Aug 2026 00:00:00 GMT",
-      "pub_sort_dt": "2026-08-04 00:00:00 UTC"
-    },
-    {
       "source": "Reuters",
       "title_en": "Chinese copper foil giant Londian Wason eyes $1.7 billion valuation in US IPO - Reuters",
       "title_cn": "中国铜箔巨头Londian Wason计划在美国IPO估值17亿美元 - 路透中文网",
@@ -358,10 +331,10 @@
     },
     {
       "source": "CNBC",
-      "title_en": "CNBC's The China Connection newsletter: AI wins come with an old investor risk - cnbc.com",
-      "title_cn": "CNBC 的《中国连线》时事通讯：人工智能的胜利伴随着老投资者的风险 - cnbc.com",
+      "title_en": "CNBC's The China Connection newsletter: AI wins come with an old investor risk - CNBC",
+      "title_cn": "CNBC 的《The China Connection》时事通讯：人工智能的胜利伴随着老投资者的风险 - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHJzeWxSdnhERlBLQVh0dXVRMEV5RHB5OWdhYnp0VWc0eXFVVHBVUTE5ZEpTX0ZVbHQzZy1NbkFZTm9wWmxiNmU5Yk03ZVpBNi1CU25NeFRoazBRQnV2VFRPcVhuZ3pTbVVNSktlZUlIN3JuZnh5ZXdYNFZxT1AwWTBnQndJdFFuZVh2OV91RWx5UDNQRG51Q1R1ZGFua0RTaFZQSmtONNIBrAFBVV95cUxPWHNXM0p2NEpuM3NGcUQ0YWxobnFNbVg3OEY2UlBaRGRLU0tvc1pUeS1NMVUxSUt2SVVINzR1NlV4NUFvZ1lOR1B6eUdUZDBkMVlzU0d5dzU3SFR2NHVDUFBEdTZBMW8xSkJFQ2tVZ0R2VWFIemRJZEZwcHA3SHFVMUZOenpBMjViQksyTWVvcDl1Q3BteTJ6QzFHSHAyRXVRNEZrTFFSZndVMWg4?oc=5",
-      "summary": "CNBC's The China Connection newsletter: AI wins come with an old investor risk&nbsp;&nbsp;cnbc.com",
+      "summary": "CNBC's The China Connection newsletter: AI wins come with an old investor risk&nbsp;&nbsp;CNBC",
       "pub_raw": "Mon, 03 Aug 2026 23:00:01 GMT",
       "pub_sort_dt": "2026-08-03 23:00:01 UTC"
     },
@@ -373,15 +346,6 @@
       "summary": "China Is Getting More Anxious About Mythos Before Trump Meets Xi&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Mon, 03 Aug 2026 23:00:00 GMT",
       "pub_sort_dt": "2026-08-03 23:00:00 UTC"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "TikTok settling three teen social media lawsuits ahead of trial - Reuters",
-      "title_cn": "TikTok 在审判前解决三起青少年社交媒体诉讼 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGg5Q2I4bXpIX1BXMHVNRldYNWtjbzdtRWxkeFlOQnFVUm9MV0d4Ri1FTDZRMnIwR2tvNzNoODJaQy1LSDNINlloczJCM3BXZnQyOHZlbFZSbUpINEVxX05mbVE4WmNtckdvVmFmN09vMF9GYWRaQWlVazVYVDdKeHNuUDQ1ODJ5SE1xQmhWTXR2X3o3SkRtaUJ5QTdyb0ZHdGJJNlJMRmU?oc=5",
-      "summary": "TikTok settling three teen social media lawsuits ahead of trial&nbsp;&nbsp;Reuters",
-      "pub_raw": "Mon, 03 Aug 2026 22:40:27 GMT",
-      "pub_sort_dt": "2026-08-03 22:40:27 UTC"
     },
     {
       "source": "Nikkei Asia",
@@ -403,10 +367,10 @@
     },
     {
       "source": "CNBC",
-      "title_en": "Is China winning the AI race against the U.S.? - cnbc.com",
-      "title_cn": "中国在与美国的人工智能竞赛中获胜吗？ - cnbc.com",
+      "title_en": "Is China winning the AI race against the U.S.? - CNBC",
+      "title_cn": "中国在与美国的人工智能竞赛中获胜吗？ - 美国全国广播公司财经频道",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcW5VdVlpMTFObzYyeWhMWmR1N0RHekVRVGZidUxFVlJXTXRlcVN4NnZERmNiYjJXTEVKNEJKeDBjUmI3VHVTbVVPeFpnMWtSNkM4ZzkwRUZSWW5uQXQyUmtoZmFDX2JfcE9jUU9Vdmp0N2JPWkItdy1faEZyRVFodjdqWm1Ub011THpERkY1SQ?oc=5",
-      "summary": "Is China winning the AI race against the U.S.?&nbsp;&nbsp;cnbc.com",
+      "summary": "Is China winning the AI race against the U.S.?&nbsp;&nbsp;CNBC",
       "pub_raw": "Mon, 03 Aug 2026 21:12:48 GMT",
       "pub_sort_dt": "2026-08-03 21:12:48 UTC"
     },
@@ -418,15 +382,6 @@
       "summary": "China missile test shakes Pacific islands' anti-nuclear unity&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Mon, 03 Aug 2026 18:59:00 GMT",
       "pub_sort_dt": "2026-08-03 18:59:00 UTC"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "TikTok Finalizing Trio of Settlements Over Addiction Claims - Bloomberg.com",
-      "title_cn": "TikTok 就成瘾索赔达成三项和解协议 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDk1bGN1UnpUaVFLMHpQU1BzUkdZZTNGRWtQWkVnZE5WWGZuWUpSSTFpUXlfUkllbzA5YjlyMS1xal9DY1lwMEN0cmtKN01BQ1BvN3Zya0hNZGlDLVFKSW15dVlTbHBaQkhGQi0wY2hMdHQwY1ZHVkdmaEVmNGJoUGFQRnlhVmNKX011UmJPSWZPbmxvTUxBUUR4NF8zMk11X0N0ZXMtb0RkU1ROd0p2R2NB?oc=5",
-      "summary": "TikTok Finalizing Trio of Settlements Over Addiction Claims&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Mon, 03 Aug 2026 18:25:58 GMT",
-      "pub_sort_dt": "2026-08-03 18:25:58 UTC"
     },
     {
       "source": "Bloomberg",
@@ -484,10 +439,10 @@
     },
     {
       "source": "CNBC",
-      "title_en": "Hugging Face CEO says China is winning the AI race and dominating on open models - cnbc.com",
-      "title_cn": "Hugging Face首席执行官表示中国正在赢得人工智能竞赛并在开放模型上占据主导地位 - cnbc.com",
+      "title_en": "Hugging Face CEO says China is winning the AI race and dominating on open models - CNBC",
+      "title_cn": "Hugging Face 首席执行官表示，中国正在赢得人工智能竞赛并在开放模型上占据主导地位 - CNBC",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZEdhN3psNkdrQ09mOFh4dU5Zek1FZFF4OU5VZl9iR2M2djJuRFFSY041ZV9yWFZHbnBIdDFHM0lQNXZJVmZmdDhXcTFNc0w0bG1WZ1lqQ19uRGFaVzR3QjA1dU1oT1ZiUGNrT0c2MmV2MWNqRXdFYkFyeHBheTZKNNIBhgFBVV95cUxNNFg3UDZnOXVtWjFkdHpjWnFNTlYxQ0lROEk5aUFSdE0tbEQ1VVk4STFfMnE1VTBZc1hoQktSWHVOanNuUU54bkwyUUdKX1h6WXk0WkJhMlM2VjU4aHZsd2U3cFY0QnFCS3o0c3F5UnM3YXdLdWx0WmVwQm1mbkxUdWdfRmpvUQ?oc=5",
-      "summary": "Hugging Face CEO says China is winning the AI race and dominating on open models&nbsp;&nbsp;cnbc.com",
+      "summary": "Hugging Face CEO says China is winning the AI race and dominating on open models&nbsp;&nbsp;CNBC",
       "pub_raw": "Mon, 03 Aug 2026 15:49:38 GMT",
       "pub_sort_dt": "2026-08-03 15:49:38 UTC"
     }
