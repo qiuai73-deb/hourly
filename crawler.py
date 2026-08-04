@@ -9,7 +9,7 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36"}
-MAX_PER_SOURCE = 15  # 每家媒体最多15条
+MAX_PER_SOURCE = 10  # 每家媒体最多10条
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=4)
 
 # 涉华过滤关键词
@@ -156,9 +156,9 @@ def load_media_google_rss():
         ("CNN", "site:cnn.com+china+when:1d"),
         ("AFP", "site:afp.com+china+when:1d"),
         ("The Economist", "site:economist.com+china+when:1d"),
-        ("The Guardian", "site:theguardian.com+china+when:1d"),
+        ("New York Times","site:nytimes.com+china+when:1d"),
         ("VOA News", "site:voanews.com+china+when:1d"),
-        ("The Lancet", "site:thelancet.com+china+when:1d"),
+        ("The BBC", "site:BBC.com+china+when:1d"),
         ("NEJM", "site:nejm.org+china+when:1d"),
     ]
     for src, q in media_list:
