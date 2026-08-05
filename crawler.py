@@ -9,7 +9,7 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36"}
-MAX_PER_SOURCE = 10  # 每家媒体最多10条
+MAX_PER_SOURCE = 5  # 每家媒体最多5条
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=4)
 
 # 涉华过滤关键词
