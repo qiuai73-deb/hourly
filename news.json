@@ -1,19 +1,90 @@
 {
-  "update_cst": "2026-08-04 23:04:04 北京时间",
-  "total_count": 48,
+  "update_cst": "2026-08-05 08:55:55 北京时间",
+  "total_count": 41,
   "source_stat": {
     "Reuters": 10,
     "Bloomberg": 10,
-    "AP": 1,
-    "Nikkei Asia": 5,
+    "Nikkei Asia": 3,
     "Financial Times": 6,
-    "Wall Street Journal": 5,
-    "CNBC": 6,
-    "New York Times": 1,
+    "Wall Street Journal": 4,
+    "CNBC": 5,
     "CNN": 1,
-    "The Economist": 3
+    "AFP": 1,
+    "The Economist": 1
   },
   "news": [
+    {
+      "source": "Nikkei Asia",
+      "title_en": "Bain Capital to buy Taiwan-originated Gong Cha chain for over $635m - Nikkei Asia",
+      "title_cn": "贝恩资本将以逾 6.35 亿美元收购台湾贡茶连锁店 - 日经亚洲",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjRtNzltUWxsRWdpQ3B5UDVnS3VuRUF2bmRMbVBRWl9WZ1AtNFRKM1duTmhqSzdGcXNPTEtsVFloWXhoZVU5NVh4dHU2ZlJCRGpBd3JjX2FoMW5PZHpGcWVZT0UzZlhrQV9MZ3RudmVlQ1FDT0ZFLVpkWkhtZDM2S2xzLURCSFlqT25ocmx6bmZqQkJqcEN1bnNqRmEtNEhiai1sMEMyVUFwSkk1YVNSRmluS3o?oc=5",
+      "summary": "Bain Capital to buy Taiwan-originated Gong Cha chain for over $635m&nbsp;&nbsp;Nikkei Asia",
+      "pub_raw": "Wed, 05 Aug 2026 00:26:00 GMT",
+      "pub_sort_dt": "2026-08-05 00:26:00 UTC"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "EXCLUSIVE: US weighs polysilicon price floor, tariffs to counter China in solar and chips - Reuters",
+      "title_cn": "独家：美国权衡多晶硅价格下限和关税以对抗中国太阳能和芯片 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHMyc0hjQmFKeG1UQ240cmpVNmxXMFV2QUlvOTQ3MGhsaDJzRFAtS0E2QmJxWk4xNDFCTThDZlNqeGhfYjFsc2lqV1dOa2lNUmxHWHdDRUlnSFE3UExGN1hQbnZSc0Ytd3ljRnNIVFM0RTYwZTAybjg2blg3QmkwdHFicjc3LVlua2VEUW94ODdBeXlmc0NEeFA5c1FQcWtCLTJmb3RmaW1uS0ZqYk11UnpCWFRiQQ?oc=5",
+      "summary": "EXCLUSIVE: US weighs polysilicon price floor, tariffs to counter China in solar and chips&nbsp;&nbsp;Reuters",
+      "pub_raw": "Tue, 04 Aug 2026 22:07:29 GMT",
+      "pub_sort_dt": "2026-08-04 22:07:29 UTC"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "US cannot ‘stay isolated’ from Chinese EV competition, warns Lucid CEO - Financial Times",
+      "title_cn": "Lucid首席执行官警告称，美国不能“孤立”于中国电动汽车竞争 - 金融时报",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjYyOENqUURFMXJLN0R6SzlTajBqSVdlQ19mSDRVU2JvVHdZZnVlb0Etam1wdDZPbUp2R1BUMFBqb1QwZkNrdTZ4ektDMlNEd3pFV0o5TURQaVVlWWJReEZGUUhBV3NEbVBtWjU1NkJFTEVhRTJvdjEzMWw3Mk1rTGFKWjc?oc=5",
+      "summary": "US cannot ‘stay isolated’ from Chinese EV competition, warns Lucid CEO&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Tue, 04 Aug 2026 20:10:49 GMT",
+      "pub_sort_dt": "2026-08-04 20:10:49 UTC"
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Optical names up on China ban report - CNBC",
+      "title_cn": "中国禁令报告中提及光学器件 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0hYVS1ZcHB3a0ZaaXFJRkxIREgzUlY5cnZ3em9OaUt4bGFBc3luWnktUzl5dWhGQXZkZHJoRkwtUVM3WmJ0akJHZnYwbW9kZlIycWhGczJTYzMwUmE1ZWFTT1lkeUIzblJ3aFl1a3FXaElTYmRNeTBObkNWdDRmNEt3NHVzQQ?oc=5",
+      "summary": "Optical names up on China ban report&nbsp;&nbsp;CNBC",
+      "pub_raw": "Tue, 04 Aug 2026 16:30:45 GMT",
+      "pub_sort_dt": "2026-08-04 16:30:45 UTC"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Abercrombie Is Said to Seek Fresh Backers for China Business - Bloomberg.com",
+      "title_cn": "据称，Abercrombie 正在为中国业务寻找新的支持者 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb1VKOWFBQTVsM09HRDc0UG4zTGN5YVZJU0dHZEZVdldLZzdnZW9xX2NlVk90ajByX3pBcV9DcmdvLUsyaFVRRGtJV080d1RHaFZseVE4dEZfekEzTGl0V3hsa1RMeFRMajlkNkJtM2RQNF92YU92UWJ6cGFoc0R0SGNaYUZfTEdmVngtcUJqUjJ6RjFCZ3NudUJxOEFQXzV6TFM5Yk9VOXlQZXdTUGVxeQ?oc=5",
+      "summary": "Abercrombie Is Said to Seek Fresh Backers for China Business&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Tue, 04 Aug 2026 16:06:20 GMT",
+      "pub_sort_dt": "2026-08-04 16:06:20 UTC"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "EXCLUSIVE: Shein targets $30 billion to $40 billion Hong Kong IPO valuation this month, sources say - Reuters",
+      "title_cn": "独家报道：消息人士称，Shein 本月香港 IPO 估值目标为 300 亿至 400 亿美元 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3NieXJtWmw4S21GUWJYMHAycnA0RmZaeWJKMnVCT19OUDdGQkNLZnVwRDQ0Ukc2cDZCV0FBczAzQlBsbnFUVFhqV2dSb3I2VVpnT0ZFMXRnbGpvSEdNMWxtS1BVeHJuNUV0X1JkX1F6UGpWQW9fQkptZzRiY3hkWWRIMXNUTHFGa3hQQ3VxVk53djFFUEJxdzR1V2NHZXVTODZvRDlnekQzUU56WmlsZUxMdTZiSHQtWE1yTmcxOHhtdw?oc=5",
+      "summary": "EXCLUSIVE: Shein targets $30 billion to $40 billion Hong Kong IPO valuation this month, sources say&nbsp;&nbsp;Reuters",
+      "pub_raw": "Tue, 04 Aug 2026 15:51:36 GMT",
+      "pub_sort_dt": "2026-08-04 15:51:36 UTC"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky - Reuters",
+      "title_cn": "在 SpaceX 潜在合并之前，特斯拉中国业务的剥离可能会变得棘手 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORi1DRjNPSDg1UmFoYnJYQ0VWamF2QmdLVXNrdzk2c0FUS3RkQWU0WkhIUHdCNGlNckMyRlM5SEs4S2hQWlhLUFNGcjU3OXM4bTlxckRGRDRQZUZydldJMnJXVUprczJFU0dGbUVIeWVCdjMya0dVa0RBREJJSDNiUVRSYUg3NGEtbTk3VTljcTVfNTJoRmJEdWxXLXJJTjA5dnNVV3RyTTZOT0hoa3JRS29aV2syOExfcVE?oc=5",
+      "summary": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky&nbsp;&nbsp;Reuters",
+      "pub_raw": "Tue, 04 Aug 2026 15:45:35 GMT",
+      "pub_sort_dt": "2026-08-04 15:45:35 UTC"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "Hong Kong’s retail therapy - The Economist",
+      "title_cn": "香港的购物疗法 - 《经济学人》",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sN25BRjAwMEpuRWtqQnAtZ1FTOFl3OURwWlluLXRlX3BTWDZBVnk2aE5Uemx6TldxZVZEd1NwTEJnanEycFI4VzJQRU9keEkwQnc0UHl0bzJtRmVDWnRHWDJ4UlE5enNFV0NHdXFqTy01T1VqVWJoNGZISQ?oc=5",
+      "summary": "Hong Kong’s retail therapy&nbsp;&nbsp;The Economist",
+      "pub_raw": "Tue, 04 Aug 2026 15:39:20 GMT",
+      "pub_sort_dt": "2026-08-04 15:39:20 UTC"
+    },
     {
       "source": "CNBC",
       "title_en": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves - CNBC",
@@ -24,13 +95,31 @@
       "pub_sort_dt": "2026-08-04 14:35:06 UTC"
     },
     {
+      "source": "CNBC",
+      "title_en": "China's swagger after India's iPhone 18 leak - CNBC",
+      "title_cn": "印度 iPhone 18 泄露后，中国表现得神气十足 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDNtYzJ2VWtMeW9yUDJyRkJNSDVLcjFBcVJCTlVtZFduWXU0cDZYc1B2SEw5U1FvTHY1MFZ6bTZSTWE0eFNRLUtxSk5KRUFfSU5qYjJ4S0l0MXMxcGlmR216dDM4Vm1VaUtrUnozRm9yVHhMUU5qSUs3ZS1HWkdMeG5GMzVVT3VVZ1B6c2tR?oc=5",
+      "summary": "China's swagger after India's iPhone 18 leak&nbsp;&nbsp;CNBC",
+      "pub_raw": "Tue, 04 Aug 2026 14:35:00 GMT",
+      "pub_sort_dt": "2026-08-04 14:35:00 UTC"
+    },
+    {
       "source": "Reuters",
-      "title_en": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky - Reuters",
-      "title_cn": "在 SpaceX 潜在合并之前，特斯拉中国业务的剥离可能会变得棘手 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORi1DRjNPSDg1UmFoYnJYQ0VWamF2QmdLVXNrdzk2c0FUS3RkQWU0WkhIUHdCNGlNckMyRlM5SEs4S2hQWlhLUFNGcjU3OXM4bTlxckRGRDRQZUZydldJMnJXVUprczJFU0dGbUVIeWVCdjMya0dVa0RBREJJSDNiUVRSYUg3NGEtbTk3VTljcTVfNTJoRmJEdWxXLXJJTjA5dnNVV3RyTTZOT0hoa3JRS29aV2syOExfcVE?oc=5",
-      "summary": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky&nbsp;&nbsp;Reuters",
-      "pub_raw": "Tue, 04 Aug 2026 14:21:11 GMT",
-      "pub_sort_dt": "2026-08-04 14:21:11 UTC"
+      "title_en": "Kimberly-Clark cuts annual forecasts as China quality claims hurt diaper sales - Reuters",
+      "title_cn": "由于中国质量声明影响尿布销售，金佰利下调年度预测 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWnN5eGdfSHJfR1JqbGtSMHVVaWppSmNsd3haNjFEdFB3TWhWa1R4cGd5NGE4NjNOaHR3WFd0akxkR18wbEhnT0RlVWxMZ0pIVmFrMTBzM3VUMmpnZ2U1d3ozN3lYRTY3enNpb1ZBeTQ4cDFaYnViVjU2RmtrWFNHSW0tWDR1WXREZEpUejd2RURRQXVyYUZRamdDVWJ3UC1OMk9vTktHWVhGR3Y2dGRJY0c0TGdjSW84MTliYnRnY3IyUnB4YVpWOHZOOHYyMXpaejBZY0huWnR2OVktclE?oc=5",
+      "summary": "Kimberly-Clark cuts annual forecasts as China quality claims hurt diaper sales&nbsp;&nbsp;Reuters",
+      "pub_raw": "Tue, 04 Aug 2026 14:27:02 GMT",
+      "pub_sort_dt": "2026-08-04 14:27:02 UTC"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Japan Defense Report Warns On China, Russia, NK Military Links - Bloomberg.com",
+      "title_cn": "日本防务报告对中国、俄罗斯和朝鲜的军事联系发出警告 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXNjaW9CalN3eV9abFY3XzQtY0w0VXgwN3hHNi1OZXAwTlkxM0dGV2J5eXA4aTNXS3hZdlR0aFpzLTdTQWUxNnJseURKbzk5cE9GUDgzT0c4dzFDX2Vhb1BKbUpEenpEaUxlMjNNUXVkbW5RdTlDRUUxWEIwQllTYUoyRUYyMVRKMW1jRXZMZGNOOXBIMS04bWRTZnQ2QTFXeDVTMXlNVmg1RW9KWW1HWg?oc=5",
+      "summary": "Japan Defense Report Warns On China, Russia, NK Military Links&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Tue, 04 Aug 2026 13:53:52 GMT",
+      "pub_sort_dt": "2026-08-04 13:53:52 UTC"
     },
     {
       "source": "Reuters",
@@ -40,24 +129,6 @@
       "summary": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say&nbsp;&nbsp;Reuters",
       "pub_raw": "Tue, 04 Aug 2026 13:53:44 GMT",
       "pub_sort_dt": "2026-08-04 13:53:44 UTC"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "Opinion | China’s Non-Plan for the Economy - WSJ",
-      "title_cn": "意见 |中国的非计划经济 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU0h6VUd0Nk8xNlYxak5PTGlJXzBScEpCYXBCbDhZb2p1MU9iRDhIUEl2NEk1dTZHd1FmZFU3NllwSURlSDJJbkI5Y3FuLWVESmNITEtrbjRobzI5aWRJak1XYWJaeU1EZ2ZQc3lCS3Q2ME5LU3NXUk5yTEFnUS14eXMtTQ?oc=5",
-      "summary": "Opinion | China’s Non-Plan for the Economy&nbsp;&nbsp;WSJ",
-      "pub_raw": "Tue, 04 Aug 2026 13:40:26 GMT",
-      "pub_sort_dt": "2026-08-04 13:40:26 UTC"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "EXCLUSIVE: Shein targets $30 billion to $40 billion Hong Kong IPO valuation this month, sources say - Reuters",
-      "title_cn": "独家报道：消息人士称，Shein 本月香港 IPO 估值目标为 300 亿至 400 亿美元 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3NieXJtWmw4S21GUWJYMHAycnA0RmZaeWJKMnVCT19OUDdGQkNLZnVwRDQ0Ukc2cDZCV0FBczAzQlBsbnFUVFhqV2dSb3I2VVpnT0ZFMXRnbGpvSEdNMWxtS1BVeHJuNUV0X1JkX1F6UGpWQW9fQkptZzRiY3hkWWRIMXNUTHFGa3hQQ3VxVk53djFFUEJxdzR1V2NHZXVTODZvRDlnekQzUU56WmlsZUxMdTZiSHQtWE1yTmcxOHhtdw?oc=5",
-      "summary": "EXCLUSIVE: Shein targets $30 billion to $40 billion Hong Kong IPO valuation this month, sources say&nbsp;&nbsp;Reuters",
-      "pub_raw": "Tue, 04 Aug 2026 13:32:35 GMT",
-      "pub_sort_dt": "2026-08-04 13:32:35 UTC"
     },
     {
       "source": "Wall Street Journal",
@@ -76,15 +147,6 @@
       "summary": "Sands China as World's First Integrated Tourism and Leisure Enterprise to Achieve ISO 14001:2026 Certification for Environmental Management – Company Announcement - FT.com&nbsp;&nbsp;Financial Times",
       "pub_raw": "Tue, 04 Aug 2026 12:40:00 GMT",
       "pub_sort_dt": "2026-08-04 12:40:00 UTC"
-    },
-    {
-      "source": "New York Times",
-      "title_en": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises - The New York Times",
-      "title_cn": "安迪·伯纳姆就任英国首相的第一周：TikTok、播客和承诺 - 纽约时报中文网",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWV3NWc4N0NIWlFmTkZxNmZMV09IOXdHRE9qSGtaVGRrOHFtWk9QTHdHdjNxekdIOFVBMHlYUDFMcWtnc1dFODhCOFJnUHdIS0xER2xtVzFzTGRJRXRseFUzQ2EwN0xWMDNyb0ZKVng5cWt2ZVJZdmZoT2xySDFGY05sUUQ2VlFjTVlF?oc=5",
-      "summary": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Tue, 04 Aug 2026 12:06:43 GMT",
-      "pub_sort_dt": "2026-08-04 12:06:43 UTC"
     },
     {
       "source": "Reuters",
@@ -107,11 +169,20 @@
     {
       "source": "Wall Street Journal",
       "title_en": "Huggies Stumble in China After Social-Media Firestorm - WSJ",
-      "title_cn": "社交媒体风暴过后，好奇公司在中国陷入困境 - 华尔街日报",
+      "title_cn": "社交媒体风波过后，好奇公司在中国陷入困境 - 华尔街日报",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaEZtdWEzYVFaVi1PNHVMNnFKUDM1bVBJLXI5LWJnM2doU1JwOC1EbjRBU29rbjlJVGxDSWE3Zm9DTjdReFBOeUNsa2hOZEdDMHFqRndiaUE5dHh6c0tQbTVMbkxYa2c2TXJTei1VQzA5UTJHLW45WWFKNEktNldBbWg0TS03Qjg4VGY0YkkxVWFyeUk?oc=5",
       "summary": "Huggies Stumble in China After Social-Media Firestorm&nbsp;&nbsp;WSJ",
       "pub_raw": "Tue, 04 Aug 2026 11:44:00 GMT",
       "pub_sort_dt": "2026-08-04 11:44:00 UTC"
+    },
+    {
+      "source": "AFP",
+      "title_en": "China draws up safety rules for autonomous vehicles - www-pp.afp.com",
+      "title_cn": "中国制定自动驾驶汽车安全规则 - www-pp.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LeFV3R3VvanNVdVRvVWg0NFV6T2JXTk9Bc2NDWGRtMGtjdHZlSmdmQ25UbGJ4ZzY4VW5USEpOLU00aUs4WGhyMXl5RXV1OEphemw2U2FuQjZ6cTQyNW5TOWs5NE1CZEtnNUxMOWplRDJmaXN2T1NqT3RB?oc=5",
+      "summary": "China draws up safety rules for autonomous vehicles&nbsp;&nbsp;www-pp.afp.com",
+      "pub_raw": "Tue, 04 Aug 2026 11:28:23 GMT",
+      "pub_sort_dt": "2026-08-04 11:28:23 UTC"
     },
     {
       "source": "Reuters",
@@ -128,8 +199,17 @@
       "title_cn": "习近平想要一个看起来强大的人民币。中国经济持续低迷。 - 华尔街日报",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFg3MUc4eW9TWE5pVzJIeHo1V0xwNWlmQWx6N3Ryb3NkVU1jRGFfNm5LWHFfME5JeDFNZmRCTTExbS1XbllHWEJJY25zVnFBUmYyZWRhX3BDSFlnSEdmNnh5NkF3d0FLUG1PWlpzX2t4Tm1SWlJxa1JuaF9rRGQyd3BwcjMwYWNxMkg5dnBwU3lMNV8zQVJGTWdWb1U4UENnVXhQR0lrdnhIYmx3?oc=5",
       "summary": "Xi Wants a Strong-Looking Yuan. China’s Economy Keeps Holding It Down.&nbsp;&nbsp;WSJ",
-      "pub_raw": "Tue, 04 Aug 2026 10:56:03 GMT",
-      "pub_sort_dt": "2026-08-04 10:56:03 UTC"
+      "pub_raw": "Tue, 04 Aug 2026 10:55:00 GMT",
+      "pub_sort_dt": "2026-08-04 10:55:00 UTC"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Kimberly-Clark Earnings: Outlook Trimmed on Depot Fire, China Quality Claims - Bloomberg.com",
+      "title_cn": "金佰利 (Kimberly-Clark) 盈利：因仓库火灾和中国质量索赔而下调前景 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFVoaFdMN01jNHdsYmxndHU5dFRQMU5BMVprdHJuNm5PRXphc0g0NktVY2Y5bVJMVzI2alNhM1Qxb1NDM0J3X3pMeXhDVldOWHp2b3Z5bWdFQ2xhd2ZxLW9fb0hqNzlQYTVpSFB0ZkU0TzFqQU5oZ0c2TjF4dzN0UjZuNnIydDhaVkRDTW1qXzlLZ1drcDFCZnVZbEtWRGdNbHZDaFg2RFNsVksyRzZmNF84ekc?oc=5",
+      "summary": "Kimberly-Clark Earnings: Outlook Trimmed on Depot Fire, China Quality Claims&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Tue, 04 Aug 2026 10:30:00 GMT",
+      "pub_sort_dt": "2026-08-04 10:30:00 UTC"
     },
     {
       "source": "Financial Times",
@@ -148,6 +228,15 @@
       "summary": "Volvo Car Sales Slip 4% on China Weakness&nbsp;&nbsp;WSJ",
       "pub_raw": "Tue, 04 Aug 2026 08:49:00 GMT",
       "pub_sort_dt": "2026-08-04 08:49:00 UTC"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "China dismisses Philippine education concerns as 'political provocation' - Reuters",
+      "title_cn": "中国驳斥菲律宾教育问题，称其为“政治挑衅” - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnk0dXJNb0NDLV9IbWtKWHEzUmZoUW1OWm5UWlpsbzJLTXR4X1V2aTREN1F2UkFKR0lIRHI1MmFEeEU5cm9OMlVPY0hRb3h2WXktZzAyWnlZYUQ0WmFUWUV5cGZmTFB0VXZyU1dXNnVIYkVweHBfNlNUaXpENEU2ZGtjeWdOZkNmR05QXzFEQXdqTjlrWkdjLWh6WnVXZWdhWUNmTnNoRzVKYkNjbGtTVVZWVkR5dw?oc=5",
+      "summary": "China dismisses Philippine education concerns as 'political provocation'&nbsp;&nbsp;Reuters",
+      "pub_raw": "Tue, 04 Aug 2026 08:43:25 GMT",
+      "pub_sort_dt": "2026-08-04 08:43:25 UTC"
     },
     {
       "source": "Reuters",
@@ -197,7 +286,7 @@
     {
       "source": "Financial Times",
       "title_en": "Amundi MSCI Emerging Ex China UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
-      "title_cn": "东方汇理 MSCI 新兴中国 UCITS ETF Acc：资产净值 – 公司公告 - 金融时报",
+      "title_cn": "Amundi MSCI 新兴中国 UCITS ETF Acc：资产净值 – 公司公告 - 金融时报",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWJhWnFGYUdHeElTemJlU3kyZmJtUkdBMlQ0SzJ5MFNtRHdMZ1YxQXN0UUpsclpwZlFrOGZoNkNWUWtiZEVMcnI3Uks1UWs0MVFITUdPbGcxZWFwNjdnZ1VxTkZOS0doQmdRY29FSUxEWVYtWjlnOEEwWEhyNzI5cDRwQU1tNkJ0dHJHY1pqaUMxWU5oa1BvYjFtSElOMFJySGpxd1FDMzNKdW8?oc=5",
       "summary": "Amundi MSCI Emerging Ex China UCITS ETF Acc: Net Asset Value(s) – Company Announcement&nbsp;&nbsp;Financial Times",
       "pub_raw": "Tue, 04 Aug 2026 07:09:00 GMT",
@@ -211,6 +300,15 @@
       "summary": "Huawei’s Top Scientist Warns of Chip Limit Nvidia Will Soon Face&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Tue, 04 Aug 2026 06:52:00 GMT",
       "pub_sort_dt": "2026-08-04 06:52:00 UTC"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Chinese Startup AI² Robotics Is Said to Consider Hong Kong IPO - Bloomberg.com",
+      "title_cn": "据称中国初创公司 AI² Robotics 考虑在香港 IPO - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb01ZbVV5TERudC1JVXBJX0ZzcGpCLVVTSU12ZS05V1VQc1FtRTdPWW5PUGRuclRlbnJDRkF0U281X2I4aTdoOHRZdktLM1RWYzJTSzh1Q2UydTh3TlJEY2xtcXcyeHBZQkkyWmJUNVJReG50cmJTUVFtVm1TSW5qckd0WWY1TmRtZGZpdXZMblBhaUZTVmRXTklVVm9xWG5rUk11MTZISE1FbTRqOHBIRmdn?oc=5",
+      "summary": "Chinese Startup AI² Robotics Is Said to Consider Hong Kong IPO&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Tue, 04 Aug 2026 06:19:00 GMT",
+      "pub_sort_dt": "2026-08-04 06:19:00 UTC"
     },
     {
       "source": "Nikkei Asia",
@@ -259,39 +357,12 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "Japan Defense Report Warns On China, Russia, NK Military Links - Bloomberg.com",
-      "title_cn": "日本防务报告警告中国、俄罗斯和朝鲜的军事联系 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXNjaW9CalN3eV9abFY3XzQtY0w0VXgwN3hHNi1OZXAwTlkxM0dGV2J5eXA4aTNXS3hZdlR0aFpzLTdTQWUxNnJseURKbzk5cE9GUDgzT0c4dzFDX2Vhb1BKbUpEenpEaUxlMjNNUXVkbW5RdTlDRUUxWEIwQllTYUoyRUYyMVRKMW1jRXZMZGNOOXBIMS04bWRTZnQ2QTFXeDVTMXlNVmg1RW9KWW1HWg?oc=5",
-      "summary": "Japan Defense Report Warns On China, Russia, NK Military Links&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Tue, 04 Aug 2026 02:53:00 GMT",
-      "pub_sort_dt": "2026-08-04 02:53:00 UTC"
-    },
-    {
-      "source": "Bloomberg",
       "title_en": "China Mobile Is Said to Mull Stake Sale in Thailand’s True - Bloomberg.com",
       "title_cn": "据称中国移动正在考虑出售泰国 True 的股份 - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbU5hbnV2RzMyXzRGWGZQNVltUVZrSmk0dDFOeXFrUndac1BvcEJ6WTA4YnZQNlUwME1fVUVXWEpsUUMzZ1drdUFMMG01SENWMnFDc1ZvalR5OHhuVVhoejFjdzQ3ZmxPU0NNLVBMY3V6cHNFOTFpbWk4OW5HMEpkZ1ZKT21wNnZuSnVFX1lWaXJBb3dsRkdCRV9yRV96OEpTSTdxODA1WlhDLVVTUGhpbC1FcWlyUQ?oc=5",
       "summary": "China Mobile Is Said to Mull Stake Sale in Thailand’s True&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Tue, 04 Aug 2026 02:45:00 GMT",
       "pub_sort_dt": "2026-08-04 02:45:00 UTC"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Pathos AI to license experimental breast cancer drug from China's Jiangsu Alphamab Biopharmaceutical - Reuters",
-      "title_cn": "Pathos AI 获得中国江苏康宁杰瑞生物制药的实验性乳腺癌药物许可 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUmhPcm45emUzcVUtZm9FZlIxYndWQ2JoUFktTUtjWE0ydjRlYlZLekRYUHhsX1ZmbjFjRkZaalhwQjNuVmcyUjJadmFCSllzRHB1U0JVMF85UERTLWNpbml6eG5ZQTJKYjhncnMzTS04MVVqUU1HczU3Q04zeWtxY0hCU21BZFc4U2VuWXcwdFVNdWhDa2lWWFM1VE1QQzFyenRLRGRZXzhwNkNNT2s5NVZxUnUxb0w3SHFsSUxad1N2VzNn?oc=5",
-      "summary": "Pathos AI to license experimental breast cancer drug from China's Jiangsu Alphamab Biopharmaceutical&nbsp;&nbsp;Reuters",
-      "pub_raw": "Tue, 04 Aug 2026 02:38:00 GMT",
-      "pub_sort_dt": "2026-08-04 02:38:00 UTC"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Alibaba-Backed 3D-Modeling Startup Vast Is Said to Weigh HK IPO - Bloomberg.com",
-      "title_cn": "据称阿里巴巴支持的 3D 建模初创公司 Vast 正在考虑香港 IPO - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmVaV3EzM2xhbEZaSzB2bHY5RlN2bVB0YmwwTlAxNjRXdFFvTGVNSDlicVowbHlJT2FpSXNuTXFlMDItZWppVFJmamNoSXRSM20xZWNoM2xYRTNuTUo1Q1lqSG45dHFRNklpN2hROHJ4V0o4a2ZmdTRVOFZ5bmtfZ3NuREt3NEEtTHNZN2JVMzZpaFd4MXNrZEhqeS12cThtSFdqNFlJWld6clJDS0VJVHoxQjU?oc=5",
-      "summary": "Alibaba-Backed 3D-Modeling Startup Vast Is Said to Weigh HK IPO&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Tue, 04 Aug 2026 01:55:00 GMT",
-      "pub_sort_dt": "2026-08-04 01:55:00 UTC"
     },
     {
       "source": "Nikkei Asia",
@@ -303,148 +374,13 @@
       "pub_sort_dt": "2026-08-04 01:46:00 UTC"
     },
     {
-      "source": "Financial Times",
-      "title_en": "InnoCare Announces Orelabrutinib in Combination with Mesutoclax Granted Breakthrough Therapy Designation in China – Company Announcement - FT.com - Financial Times",
-      "title_cn": "诺诚健华宣布奥布替尼联合Mesutoclax在中国获得突破性疗法认定 – 公司公告 - FT.com - 英国金融时报",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZUg3dFo4Z2NWWDZfYzNoOXdXMlFrdnRYemltZ1ZQbS1jeHhzZmFoUE9zUThoUlMwWnNWUV81ekpnUGVKTEp1TUllQTZpV2hyMlQtb2RVcmE1RnB0ZWZpVTdoQ1dranYzaGEzSi1VbDBXVnNQQzRnYmF6TXNGNnhELUY3OUc4aHRKLXZqak5aazVIWExIcmFN?oc=5",
-      "summary": "InnoCare Announces Orelabrutinib in Combination with Mesutoclax Granted Breakthrough Therapy Designation in China – Company Announcement - FT.com&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Tue, 04 Aug 2026 00:48:23 GMT",
-      "pub_sort_dt": "2026-08-04 00:48:23 UTC"
-    },
-    {
       "source": "Bloomberg",
-      "title_en": "Alibaba Adds to China AI Breakthroughs With New Qwen Model - Bloomberg.com",
-      "title_cn": "阿里巴巴通过新的 Qwen 模型为中国人工智能带来突破 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjlHM1ZsVFZ2VWZiRG4xcTd3aWdrU2U2SEwySXh3RWxPYWhBSlM0MTU2M2M3dlVDTnN5TDVUUkJvUGw5WXczVlB0ZzBPMk5NTjhOWkwwcGRHYWk4MGVUdjhRNUc5NXFkN1BFSHdrVnJtM0ZXSDNwM3phcnA5WE1LWjMwbUVhRHV2YUl2SmFBUVZUbXNTQ0EtZVBXRHhoSjlobzJuOWk4SnJvalVfZTdaWkVtRHdjN21v?oc=5",
-      "summary": "Alibaba Adds to China AI Breakthroughs With New Qwen Model&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Tue, 04 Aug 2026 00:33:00 GMT",
-      "pub_sort_dt": "2026-08-04 00:33:00 UTC"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Chinese copper foil giant Londian Wason eyes $1.7 billion valuation in US IPO - Reuters",
-      "title_cn": "中国铜箔巨头Londian Wason计划在美国IPO估值17亿美元 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTzgtblZ6aEV2QkhMMExaNWl3TGw1bnhzU0drbWxHaWQ0Ylh3b2RTeEpzQnpOOWwwWFl1UVVuX2haZlVkSDVycExDeDA3RDNoV1VoOXJ1M0cxaS10WVUxUnZIelVtRF9KWlAzLXR5RU5yMW0zZ1hwRkV6M2dBaktWWG93VTR1elJUbFB3Vnk1cEhlRmhXVmI3XzVoaVFoOWNNOUlsRWtBcGZvQ2tEWm1xNmg5SnVaVEFmUUVxZ1lxcnZZc2NiRFE?oc=5",
-      "summary": "Chinese copper foil giant Londian Wason eyes $1.7 billion valuation in US IPO&nbsp;&nbsp;Reuters",
-      "pub_raw": "Mon, 03 Aug 2026 23:16:04 GMT",
-      "pub_sort_dt": "2026-08-03 23:16:04 UTC"
-    },
-    {
-      "source": "CNBC",
-      "title_en": "CNBC's The China Connection newsletter: AI wins come with an old investor risk - CNBC",
-      "title_cn": "CNBC 的《The China Connection》时事通讯：人工智能的胜利伴随着老投资者的风险 - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHJzeWxSdnhERlBLQVh0dXVRMEV5RHB5OWdhYnp0VWc0eXFVVHBVUTE5ZEpTX0ZVbHQzZy1NbkFZTm9wWmxiNmU5Yk03ZVpBNi1CU25NeFRoazBRQnV2VFRPcVhuZ3pTbVVNSktlZUlIN3JuZnh5ZXdYNFZxT1AwWTBnQndJdFFuZVh2OV91RWx5UDNQRG51Q1R1ZGFua0RTaFZQSmtONNIBrAFBVV95cUxPWHNXM0p2NEpuM3NGcUQ0YWxobnFNbVg3OEY2UlBaRGRLU0tvc1pUeS1NMVUxSUt2SVVINzR1NlV4NUFvZ1lOR1B6eUdUZDBkMVlzU0d5dzU3SFR2NHVDUFBEdTZBMW8xSkJFQ2tVZ0R2VWFIemRJZEZwcHA3SHFVMUZOenpBMjViQksyTWVvcDl1Q3BteTJ6QzFHSHAyRXVRNEZrTFFSZndVMWg4?oc=5",
-      "summary": "CNBC's The China Connection newsletter: AI wins come with an old investor risk&nbsp;&nbsp;CNBC",
-      "pub_raw": "Mon, 03 Aug 2026 23:00:01 GMT",
-      "pub_sort_dt": "2026-08-03 23:00:01 UTC"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "China Is Getting More Anxious About Mythos Before Trump Meets Xi - Bloomberg.com",
-      "title_cn": "在特朗普会见习近平之前，中国对神话变得更加焦虑 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEhFU0MwaXpUTjJqbnltNk9wTVRqS1RCRUNXT2JoM2E3SGZQQzV4R0VsOTF5YnFtR3BMMWk5SWJrVDlqLVhXd3N0YmpGRi02NVppZkJYcFNTYm1JaFFxdHc2Nk5WM01ZUHNxMDU4VklJdnRoYkRHakxLaWJFc0NDN09RTU5FYVJtM05RN3Nvd3J3UHJQR2trenl0QnI0c01HTXFqbzRyOFlXVnp5Q2NKU2pDZWhOZw?oc=5",
-      "summary": "China Is Getting More Anxious About Mythos Before Trump Meets Xi&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Mon, 03 Aug 2026 23:00:00 GMT",
-      "pub_sort_dt": "2026-08-03 23:00:00 UTC"
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "China's 'silver economy' draws Japan nursing care equipment retailers - Nikkei Asia",
-      "title_cn": "中国的“银发经济”吸引日本护理设备零售商 - 日经亚洲",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMEdMZ2dhbXo5Nmc3ajZFSlp0aGJEczUtRndvRkxlTGtKcktEdm9jTGxmVWFHZEt4Mkx1VDlTVlJ2V0N6SW9nNUdmdEZkaTUwT1BsM0pPMGcxbThEYll0cGJMTUh0ZkFsVUJBdjFTTmNxMGh1TDIzbWdNZmRNcUpnVmI3ajQ1SEhhX1dZQkM2UFBWdWd4S3VDYzZ3VURXWDhqTzdMYy03MWZnYm8?oc=5",
-      "summary": "China's 'silver economy' draws Japan nursing care equipment retailers&nbsp;&nbsp;Nikkei Asia",
-      "pub_raw": "Mon, 03 Aug 2026 21:51:00 GMT",
-      "pub_sort_dt": "2026-08-03 21:51:00 UTC"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "China’s economy - The Economist",
-      "title_cn": "中国经济 - 经济学人",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQckNieEE2TjFFOERBYkZXVWlmNGV0RF8wUzN4d21xTmRUb0VLdExUOThFWkpiS1F4YVpqUjRPOVlUZlpLZDJvNmVrRmMybHljem41dTNDVFpWeWxybkR1SmZRUEJfTnVkNG90MDIyb01aYVNPOTUwZV9CZXRXZHJQd2I4X3VzTkZWUm9Ocjg5eHFLOFMt?oc=5",
-      "summary": "China’s economy&nbsp;&nbsp;The Economist",
-      "pub_raw": "Mon, 03 Aug 2026 21:46:53 GMT",
-      "pub_sort_dt": "2026-08-03 21:46:53 UTC"
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Is China winning the AI race against the U.S.? - CNBC",
-      "title_cn": "中国在与美国的人工智能竞赛中获胜吗？ - 美国全国广播公司财经频道",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcW5VdVlpMTFObzYyeWhMWmR1N0RHekVRVGZidUxFVlJXTXRlcVN4NnZERmNiYjJXTEVKNEJKeDBjUmI3VHVTbVVPeFpnMWtSNkM4ZzkwRUZSWW5uQXQyUmtoZmFDX2JfcE9jUU9Vdmp0N2JPWkItdy1faEZyRVFodjdqWm1Ub011THpERkY1SQ?oc=5",
-      "summary": "Is China winning the AI race against the U.S.?&nbsp;&nbsp;CNBC",
-      "pub_raw": "Mon, 03 Aug 2026 21:12:48 GMT",
-      "pub_sort_dt": "2026-08-03 21:12:48 UTC"
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "China missile test shakes Pacific islands' anti-nuclear unity - Nikkei Asia",
-      "title_cn": "中国导弹试验动摇了太平洋岛国的反核团结 - 日经亚洲",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd2lSYjhubEF4UmlOQ1ZIWjQ0cmlnNm11MnAxSGZuRU4zbEtRd3pvN2FuWnZUTkVMdEk3VXFvWGxWU0tuZS1RT2ZxZVMyM0lwS2tsM2lXVnZjb1JDSmtvN2g2Q0tON1gyOFJUTUpYYUxsVlhmZjcwTHBrUGdWNXpLTmloZkYwV0I3RUQtcU9IcWlaMFFPc0xEVnBzSElzbDRTeTRMeHY2QUR0d0FMcjI1UE54eXk4MjBF?oc=5",
-      "summary": "China missile test shakes Pacific islands' anti-nuclear unity&nbsp;&nbsp;Nikkei Asia",
-      "pub_raw": "Mon, 03 Aug 2026 18:59:00 GMT",
-      "pub_sort_dt": "2026-08-03 18:59:00 UTC"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Peru’s New Foreign Minister Is Fujimori’s Clearest Nod to US Over China Yet - Bloomberg.com",
-      "title_cn": "秘鲁新任外长是藤森在中国问题上对美国最明确的认可 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY1dOR1YwcHNGdVZjODVXalFBdU5fWXVSajFGOFl2M0hhdUNjWE1IU1JlcVR1RDlkelZsN2J4MGpjMWp4RnBkLXhJQk5PbWo3MDV0WnpIWkNJMlNRNlZzMEp5OEdZNEJOb0diVVo4T1FqU2lhTjFYemg5Nkt4V2p0VkZIMEJpc3pLSDZRVlFPWnJJeC1OLTZ1b1paVENMcGtwSnpUNjcwaEVBd1pXZlJXSGdXa2V3UQ?oc=5",
-      "summary": "Peru’s New Foreign Minister Is Fujimori’s Clearest Nod to US Over China Yet&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Mon, 03 Aug 2026 17:40:10 GMT",
-      "pub_sort_dt": "2026-08-03 17:40:10 UTC"
-    },
-    {
-      "source": "AP",
-      "title_en": "US companies are stepping up to cut reliance on China for critical minerals used in key weapons - AP News",
-      "title_cn": "美国公司正在加紧努力减少对中国关键武器中使用的关键矿物的依赖 - 美联社新闻",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXlhalFIVUFKQVFKRnBZMlpzMkpXSkd2dFVtUGFjQzRET3MtV2hybUZXaTAxdm1OU05Md1pNaUpoY3B2LU9iUzFjeWhQTXpqb0JibFRmYTZRRVAtX3AtT2x1M2tSSmx2emM1a1lzS0F1WWZjeUR1N0tQNzJvaVFEQ3lKbmx6M3NfeGZPY1d5cjJDR2RpalFMcUVFWjFoMzhzakdabzlYZ2t5UQ?oc=5",
-      "summary": "US companies are stepping up to cut reliance on China for critical minerals used in key weapons&nbsp;&nbsp;AP News",
-      "pub_raw": "Mon, 03 Aug 2026 17:27:00 GMT",
-      "pub_sort_dt": "2026-08-03 17:27:00 UTC"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "China won’t apologise for overcapacity - The Economist",
-      "title_cn": "《经济学人》：中国不会为产能过剩道歉",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXZLcTE0TDFST3djQnlwdDRnTmxhV3dQRlAtd05oQ3l4V3pfRlFVbVNGcHNKUlJoMFRCeEs5TmlTOThEU1FDS2N5R01OMWJyUFFfcVB6Z0x2TFFIYW9Dc3JadnRQbnd4c3JySnpIUy0wNmlQd00wdTYtanhqME5TM2gwQlJ2WTA?oc=5",
-      "summary": "China won’t apologise for overcapacity&nbsp;&nbsp;The Economist",
-      "pub_raw": "Mon, 03 Aug 2026 17:16:49 GMT",
-      "pub_sort_dt": "2026-08-03 17:16:49 UTC"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "How China gets better bang for its buck than America in AI - The Economist",
-      "title_cn": "中国如何在人工智能领域比美国更物有所值 - 《经济学人》",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW9LcWRuZ05SMk9RSUxGdkY0a29uQ1ZJVUg0eEpnYjAtTnl2ekRQUWQ1YUM4c0VyVnJlZURGbnN1SmJaTGdDNVBlTGd1ZVFDTFhMcXlVT3FFV0ppYWpYX2RtS1BhV1JIMkxhSHZoSUc5QnV4d18telBNUlRkV0NjbzUtd0pUaUdlQ0dIQ2xNT2JtWUpxSGZ5ZFEzQTF6dGVadkZfZGNnZTZPR0hfbTZBMjNjVzNhaTBy?oc=5",
-      "summary": "How China gets better bang for its buck than America in AI&nbsp;&nbsp;The Economist",
-      "pub_raw": "Mon, 03 Aug 2026 17:15:13 GMT",
-      "pub_sort_dt": "2026-08-03 17:15:13 UTC"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "EXCLUSIVE: Chinese state traders make large US soybean purchases - Reuters",
-      "title_cn": "独家：中国国营贸易商大量采购美国大豆 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdlRFUlRNYmhiWm43dF9CNm11VVM2a3VNeVBMeE16bFRMM0NXWmctM3hTZEQ5T2lOV2UzX2I0Vk04N2xtUGFpWGM2WXNVVDJBdkxvaWNfN1c4aktsaXp1bzAyOGZoalVESks4M3QyeTl2Q2Z0VlYxTzJQWHctMWFHaUowejYtbmNhSURVR3IzWWJzT0NZZkZXdW9oamVWdjZNRGVnM2VzSVAyZnh0NU50M1hsVQ?oc=5",
-      "summary": "EXCLUSIVE: Chinese state traders make large US soybean purchases&nbsp;&nbsp;Reuters",
-      "pub_raw": "Mon, 03 Aug 2026 16:53:56 GMT",
-      "pub_sort_dt": "2026-08-03 16:53:56 UTC"
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "US and China AI demand drives copper prices to near-record highs - Nikkei Asia",
-      "title_cn": "美国和中国的人工智能需求推动铜价升至接近历史高位 - 日经亚洲",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQejN4LWowVGEteEJCNVFGakdkQXNyUkhLS0xWblpRZXBnZENlMmt2SExPeXNNMmpILWk2ZVlySjJ6aXdUd0V2SFUzeXExaVpxaHNrWWtWR1pyOWNSSXBORV95cGYyREU1UGNvdHRqZHkwUV9KMWxOa3hON1hpaWNrTTFmRFlERkM5dldsVGRKUDQ5SjhrdFB5TlAwQzRBVF9RQVJlWGNVYjVhU0lDRWNvMzY4NWxJRGIx?oc=5",
-      "summary": "US and China AI demand drives copper prices to near-record highs&nbsp;&nbsp;Nikkei Asia",
-      "pub_raw": "Mon, 03 Aug 2026 16:34:00 GMT",
-      "pub_sort_dt": "2026-08-03 16:34:00 UTC"
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Hugging Face CEO says China is winning the AI race and dominating on open models - CNBC",
-      "title_cn": "Hugging Face 首席执行官表示，中国正在赢得人工智能竞赛并在开放模型上占据主导地位 - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZEdhN3psNkdrQ09mOFh4dU5Zek1FZFF4OU5VZl9iR2M2djJuRFFSY041ZV9yWFZHbnBIdDFHM0lQNXZJVmZmdDhXcTFNc0w0bG1WZ1lqQ19uRGFaVzR3QjA1dU1oT1ZiUGNrT0c2MmV2MWNqRXdFYkFyeHBheTZKNNIBhgFBVV95cUxNNFg3UDZnOXVtWjFkdHpjWnFNTlYxQ0lROEk5aUFSdE0tbEQ1VVk4STFfMnE1VTBZc1hoQktSWHVOanNuUU54bkwyUUdKX1h6WXk0WkJhMlM2VjU4aHZsd2U3cFY0QnFCS3o0c3F5UnM3YXdLdWx0WmVwQm1mbkxUdWdfRmpvUQ?oc=5",
-      "summary": "Hugging Face CEO says China is winning the AI race and dominating on open models&nbsp;&nbsp;CNBC",
-      "pub_raw": "Mon, 03 Aug 2026 15:49:38 GMT",
-      "pub_sort_dt": "2026-08-03 15:49:38 UTC"
+      "title_en": "China LGFV Says It Can Repay Debt Even as Bond Sale Hits Snag - Bloomberg.com",
+      "title_cn": "中国地方政府融资平台表示，即使债券发行遇到困难，它仍能偿还债务 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzlOamFzSnRPYm1yRVVmUURFaV9xdzNhOTA0cGZ0WWNNR2pPVTdvUHVYZzhtdVVOaTVNX3FoampKTFYzT25oMVF0Yno3eE9hbi1GUV9JMDlDZlFPT1phRmRWRWxKUHhybFN5ZndpMW5EVWtOWjBIazQxUW02UnQ4cUMtOHBudXFZSG9Gei0xVm5uRHBhcTcwWUlDbV93bmp6b0hIYVBlSDdkQndlVE9VTEpB?oc=5",
+      "summary": "China LGFV Says It Can Repay Debt Even as Bond Sale Hits Snag&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Tue, 04 Aug 2026 01:16:00 GMT",
+      "pub_sort_dt": "2026-08-04 01:16:00 UTC"
     }
   ]
 }
