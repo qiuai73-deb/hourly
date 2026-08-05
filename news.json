@@ -1,13 +1,13 @@
 {
-  "update_cst": "2026-08-05 11:58:15 北京时间",
-  "total_count": 47,
+  "update_cst": "2026-08-05 12:07:38 北京时间",
+  "total_count": 49,
   "source_stat": {
     "Reuters": 10,
     "Bloomberg": 10,
     "AP": 3,
     "Nikkei Asia": 3,
-    "Financial Times": 6,
-    "Wall Street Journal": 5,
+    "Financial Times": 9,
+    "Wall Street Journal": 4,
     "CNBC": 6,
     "New York Times": 1,
     "CNN": 1,
@@ -16,13 +16,49 @@
   },
   "news": [
     {
+      "source": "Financial Times",
+      "title_en": "China courts global investors with bond market tweaks - Financial Times",
+      "title_cn": "中国通过债券市场调整吸引全球投资者 - 英国《金融时报》",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3pUcUFkOWRibzlxS2swRWhkX1dnRm9yLUhXMUtNNndVc2J3RHgzcDRTQ2V1XzB5akNCNjZRU1Zvc2Vaa3czTGN6Z3VOODN4UkUxdnhLTFRCb0psMmdBNE1wZ2NaLTJFQlQzaU1odXVKdDBiNmlndUlPQmhLdVpndjcwX00?oc=5",
+      "summary": "China courts global investors with bond market tweaks&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Wed, 05 Aug 2026 04:00:48 GMT",
+      "pub_sort_dt": "2026-08-05 12:00:48"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "China launches global tax hunt going back decades - Financial Times",
+      "title_cn": "中国发起数十年前的全球征税行动 - 英国《金融时报》",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYUgtMFBqdTdOR0lsNWVLOFhVU2E0V0FWeG9NVmRUUW11dG81VHVfVjVLUm5naGZmVVRUb3NxM1Q5ZFBOLXdIS2t0OXVlb05iS1IzOUUxUkZiZDk2OUZPbnB6YmEyOUxXVkZfdXZGemFJcS04VURQU1Zkd3hzTFdWRktNSFU?oc=5",
+      "summary": "China launches global tax hunt going back decades&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Wed, 05 Aug 2026 04:00:22 GMT",
+      "pub_sort_dt": "2026-08-05 12:00:22"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "European carmakers turn to Chinese rivals to fill factory floors - Financial Times",
+      "title_cn": "欧洲汽车制造商转向中国竞争对手来填补工厂车间 - 金融时报",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWENMWnN5N1lfMjFtVDlNMTR4cUFPMVhNTENCSnBWdUo1cDhYV1p1NkRwUU9TR1VhQjdUOFFCY3o2S1ZRVnlqTF9aVVRqSlVseXRQRU94ekkwU3R0NkJneEJxQ0wwOUNFLVpyY2tOU24wd3o3Qi1Nb2Q4NmhraWlGR0lUSHg?oc=5",
+      "summary": "European carmakers turn to Chinese rivals to fill factory floors&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Wed, 05 Aug 2026 04:00:11 GMT",
+      "pub_sort_dt": "2026-08-05 12:00:11"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Taiwan launches major war games to test command flexibility - Reuters",
+      "title_cn": "台湾举行大型兵棋推演测试指挥灵活性 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDZTVDVpUk5LTEl1NmJueDZtSkNwUlllcm1rZmFNUnY4Ml9hb1MzUHRaQ1Z4N1pFUXhyQjJ1YmRaa3hNLThUMEFNOGVkS0RZbmxzZ3pWUDdlM2pSTnN1RGdpZGRvQjNwbzFEVnVRXy03WWNkVjRwV2sta0gyQnhIWWNXN2tHYUNETTdUSDFtTFAwbU5zQ0w0WDFXZktxaENEdmFtWWZiUQ?oc=5",
+      "summary": "Taiwan launches major war games to test command flexibility&nbsp;&nbsp;Reuters",
+      "pub_raw": "Wed, 05 Aug 2026 03:02:00 GMT",
+      "pub_sort_dt": "2026-08-05 11:02:00"
+    },
+    {
       "source": "Reuters",
       "title_en": "EXCLUSIVE: Samsung, SK Hynix test Chinese chip tools as hedge against US risks - Reuters",
       "title_cn": "独家：三星、SK海力士测试中国芯片工具以对冲美国风险 - 路透中文网",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeU9NVTFKTDhzZ3Rxa3dWbk9vSktaSE5xd3p3TG5KTlpNRFpLY0IyNEZuRzVTWFV0LWx0LURCdkRvcjdCVE9pU3lGSktXampPUUtZWExRSlNLZ0pzU2thX2pXQWRDLVBUd2JYRGh5RGplLWdsb0tOek8zdXk5elBiZlZwbTd2X0dDSU5hWFRKWHBLZkUteDBSR2VndEpxREMwYTUzY1pJcllRSUZPci1vOQ?oc=5",
       "summary": "EXCLUSIVE: Samsung, SK Hynix test Chinese chip tools as hedge against US risks&nbsp;&nbsp;Reuters",
       "pub_raw": "Wed, 05 Aug 2026 02:02:00 GMT",
-      "pub_sort_dt": "2026-08-05 02:02:00 UTC"
+      "pub_sort_dt": "2026-08-05 10:02:00"
     },
     {
       "source": "Reuters",
@@ -31,7 +67,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1dRTlJ3dWthcTVkQnd1NFVJTFZSeHV4TXNiZlZOaVlNa1lSNFVnQWZxZkxEQkV2NGZ3YV8wZ21mbjhRYUg3Z05nci1Ua3o1M0FyTGxIT0VLXzhYUlFpajhQVEEwYmFuZnhZNjZPdjdPcFh2elVnNlFvdVZjYlVTNWU5M21VempmYUVMSzNNMURjeEtwcFFUa2NvY2MwYVE1M0k2RDVpTFR1V0VGUVBBNHNaRkQ3UzlhX2FMUDJFNXpOX1RVU2ZZRQ?oc=5",
       "summary": "China AI hardware stocks slump after news US plans to ban imports of Chinese components&nbsp;&nbsp;Reuters",
       "pub_raw": "Wed, 05 Aug 2026 01:42:00 GMT",
-      "pub_sort_dt": "2026-08-05 01:42:00 UTC"
+      "pub_sort_dt": "2026-08-05 09:42:00"
     },
     {
       "source": "AP",
@@ -39,8 +75,8 @@
       "title_cn": "尽管中国有“民族团结”法，一些藏人仍接受母语 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeW5yMGNqcS03RkRKYS1OV1BkSDdOUExpZWtNMzhBTjRzbGxaNmVUb19nY1BOSjkySUdINkZxd1RQNTh3cE5jRk9UUGhUWE9Ic2RvdlpJeTRPSVUzM0NDYXZBQy1jcHdzSzdmSTFmb0twSGc2VUhiRm44Zl9HMmYzdzJ6TjlZemxQbG9rdkFRMmRwLWxtNUpBRVJ6Qy1tTFZ4WHRKVFNoc1NYTm1mWG43OXI3MkJSR3VZdlZhenZrSlduUjI0UkE?oc=5",
       "summary": "Some Tibetans embrace native language despite China’s ‘ethnic unity’ law&nbsp;&nbsp;AP News",
-      "pub_raw": "Wed, 05 Aug 2026 01:04:15 GMT",
-      "pub_sort_dt": "2026-08-05 01:04:15 UTC"
+      "pub_raw": "Wed, 05 Aug 2026 01:05:43 GMT",
+      "pub_sort_dt": "2026-08-05 09:05:43"
     },
     {
       "source": "AP",
@@ -49,16 +85,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQME54OGkzWlRiNS1EWDlhZFZEU1RRX2k4YU5FSWI1M3hkTGk0dmUtY1pjRFEzb0V1UjdCS1dORWlOajJIQTNJYl94bnA0SndFa1hjclFIbGVzRWgtdzdOYnI5V21EZUVtS3hHZk1NMUl3M1RwV3pSdDNvTWtJYjI4czB3SFp1SG5Ga2U0VnhZVmZnNDQ1emh6djZvSzJ0cGVZ?oc=5",
       "summary": "In Tibet, some embrace their native language even under China's sweeping new 'ethnic unity' law&nbsp;&nbsp;AP News",
       "pub_raw": "Wed, 05 Aug 2026 01:04:00 GMT",
-      "pub_sort_dt": "2026-08-05 01:04:00 UTC"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "The Race to Build an American Alternative to Cheap AI From China - WSJ",
-      "title_cn": "打造美国替代品以取代中国廉价人工智能的竞赛 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw?oc=5",
-      "summary": "The Race to Build an American Alternative to Cheap AI From China&nbsp;&nbsp;WSJ",
-      "pub_raw": "Wed, 05 Aug 2026 01:01:14 GMT",
-      "pub_sort_dt": "2026-08-05 01:01:14 UTC"
+      "pub_sort_dt": "2026-08-05 09:04:00"
     },
     {
       "source": "CNBC",
@@ -67,7 +94,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWNoMWFEVkVpeTUtUWFGU2w1UnhvSFVIdXF6Z3RGUWF6X3BQdkZKSkNidmtRcUxjc3pZcG84NlRIZ21tOXBTRUFmc2lTV0V2SENOaHFjZ0UzcTVfYU5CLTd5aTNYRWJpZUx3Ni13NjF3SG12QVpTVmVneF9XVmZfODBkdnpxVjFHNF9jS2pBNExqeGk0VHlGMmg0QkVvNTNPcTg2S0tPRmt1WDDSAbABQVVfeXFMUDhMb09nY21zS1Zsdk1OMmtxRFFHVjJEeGRvYUFCRXBCWG9yV2lTN1JxanBCVk5BWDYzRWtkZ2l2MTV6alE1YklXSHVjeWZDeWQ5M1VXeFJZbnI5QnFKcm5zaUpROTc0MW9YekdUd1RnVzJ1b3BfUHN0R1hlbTFiNTlRT0ZYcS1OUUE0eXpxYmVqLTdYRUQwcUlBSHRHTXAwTm9OUFZWWGVQR3pPdmNIMF8?oc=5",
       "summary": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts&nbsp;&nbsp;CNBC",
       "pub_raw": "Wed, 05 Aug 2026 00:32:00 GMT",
-      "pub_sort_dt": "2026-08-05 00:32:00 UTC"
+      "pub_sort_dt": "2026-08-05 08:32:00"
     },
     {
       "source": "Nikkei Asia",
@@ -76,7 +103,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjRtNzltUWxsRWdpQ3B5UDVnS3VuRUF2bmRMbVBRWl9WZ1AtNFRKM1duTmhqSzdGcXNPTEtsVFloWXhoZVU5NVh4dHU2ZlJCRGpBd3JjX2FoMW5PZHpGcWVZT0UzZlhrQV9MZ3RudmVlQ1FDT0ZFLVpkWkhtZDM2S2xzLURCSFlqT25ocmx6bmZqQkJqcEN1bnNqRmEtNEhiai1sMEMyVUFwSkk1YVNSRmluS3o?oc=5",
       "summary": "Bain Capital to buy Taiwan-originated Gong Cha chain for over $635m&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Wed, 05 Aug 2026 00:26:00 GMT",
-      "pub_sort_dt": "2026-08-05 00:26:00 UTC"
+      "pub_sort_dt": "2026-08-05 08:26:00"
     },
     {
       "source": "Bloomberg",
@@ -85,7 +112,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVcxV0tmQ0xNb3ZuUmtYX1FKQVhVczBFcHc2UEYteXRjN3k2a3FVQkNkZ0JHT1ROU0tvZVN4THBGZUZJRUpfb3ZXXzltanNJVHpUZVF2UG9Bb010N2d5ZXdGT3cxZHNDX1BPX3ZuMURUQ1BXVkZScWZuLXZLNjl6U0lhNlIxTURRZnN5T19YblVyYjNUSFJBWXR3U2swUEFBb0xWZ1B2R2Z1OEIzbURrMFlPbw?oc=5",
       "summary": "China’s Open-Weight Models Will Be Spared US Safety Tests&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Wed, 05 Aug 2026 00:11:00 GMT",
-      "pub_sort_dt": "2026-08-05 00:11:00 UTC"
+      "pub_sort_dt": "2026-08-05 08:11:00"
     },
     {
       "source": "Bloomberg",
@@ -94,7 +121,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGF1NHlWR184eDR3V2VON0U3TjRHc0JCdl9kYkplTWdFbXBpX3Nzd0M3azZQS1RsQ0VYZ3UtdGVCV2hLZlFyRlhZeUgxdTRCcjVJcTJrZEpfcWxtVVFyOHdaR3VLenpUOVp5SUZjRnRVY2prRERQbVFwNHhxUmVSeS1wSEJ0b25XbEFpU3JkRVVtMjh0YWJWdHpBbzFERnMzbkYxMlUzU0UzSEl1OFZpWUdaYw?oc=5",
       "summary": "China’s Quant Curbs Sap Volatility and Turnover: Equity Insight&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Wed, 05 Aug 2026 00:10:00 GMT",
-      "pub_sort_dt": "2026-08-05 00:10:00 UTC"
+      "pub_sort_dt": "2026-08-05 08:10:00"
     },
     {
       "source": "Nikkei Asia",
@@ -103,7 +130,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ29lUjkxYWdCQjBsYjQtazJ5WlRxdEgxN1g5MFBoS0Z0R18tYlFMZ3A0cDJudXk1VVNTWUQyMTJxOFgzOU5aRGVmeHNTMUM4QWtaV3FiSVBIakJLTUlkVVk5Z1F0Z1hwRGtzT28xcXBpT24yRkxzdnNKVzRwM2ozYXJkUQ?oc=5",
       "summary": "Japan-China tensions&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Tue, 04 Aug 2026 22:33:24 GMT",
-      "pub_sort_dt": "2026-08-04 22:33:24 UTC"
+      "pub_sort_dt": "2026-08-05 06:33:24"
     },
     {
       "source": "Reuters",
@@ -112,7 +139,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHMyc0hjQmFKeG1UQ240cmpVNmxXMFV2QUlvOTQ3MGhsaDJzRFAtS0E2QmJxWk4xNDFCTThDZlNqeGhfYjFsc2lqV1dOa2lNUmxHWHdDRUlnSFE3UExGN1hQbnZSc0Ytd3ljRnNIVFM0RTYwZTAybjg2blg3QmkwdHFicjc3LVlua2VEUW94ODdBeXlmc0NEeFA5c1FQcWtCLTJmb3RmaW1uS0ZqYk11UnpCWFRiQQ?oc=5",
       "summary": "EXCLUSIVE: US weighs polysilicon price floor, tariffs to counter China in solar and chips&nbsp;&nbsp;Reuters",
       "pub_raw": "Tue, 04 Aug 2026 22:07:29 GMT",
-      "pub_sort_dt": "2026-08-04 22:07:29 UTC"
+      "pub_sort_dt": "2026-08-05 06:07:29"
     },
     {
       "source": "AP",
@@ -121,7 +148,7 @@
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE14cmpvQUJHVjlsSjVVdzJUM0J1eXhnTU1ZLVRkS1IzOGRsOGRwaG5ER2ZITExjOTJ2MjI3Qk94V3J5QQ?oc=5",
       "summary": "China&nbsp;&nbsp;AP News",
       "pub_raw": "Tue, 04 Aug 2026 20:36:05 GMT",
-      "pub_sort_dt": "2026-08-04 20:36:05 UTC"
+      "pub_sort_dt": "2026-08-05 04:36:05"
     },
     {
       "source": "Financial Times",
@@ -130,7 +157,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjYyOENqUURFMXJLN0R6SzlTajBqSVdlQ19mSDRVU2JvVHdZZnVlb0Etam1wdDZPbUp2R1BUMFBqb1QwZkNrdTZ4ektDMlNEd3pFV0o5TURQaVVlWWJReEZGUUhBV3NEbVBtWjU1NkJFTEVhRTJvdjEzMWw3Mk1rTGFKWjc?oc=5",
       "summary": "US cannot ‘stay isolated’ from Chinese EV competition, warns Lucid CEO&nbsp;&nbsp;Financial Times",
       "pub_raw": "Tue, 04 Aug 2026 20:10:49 GMT",
-      "pub_sort_dt": "2026-08-04 20:10:49 UTC"
+      "pub_sort_dt": "2026-08-05 04:10:49"
     },
     {
       "source": "Bloomberg",
@@ -139,7 +166,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTEQ5Umx5WFBxYVR5cHJCaEgweGhFQkNHX2RrbGJtcnJJZ3l4RVROYjZHZHhSbU4tLWVYMFBkVmR4MXhEOUhLUHItb3I0SUhBYTJ3bEtSZ0ttUkZsdDBnNWs3UkNUZ2xZVWdFTko0UFBXa1hBZTl5R0JKVFJneGs5NjVjWXpmNlgxZHkxNXJETHlhWllxYXVkMDBtYkFaVWVENUZnNXlaMjlNLUVzZVdiYmhB?oc=5",
       "summary": "Data Centers Exposed US Carriers to China Hack, House Panel Says&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Tue, 04 Aug 2026 19:22:51 GMT",
-      "pub_sort_dt": "2026-08-04 19:22:51 UTC"
+      "pub_sort_dt": "2026-08-05 03:22:51"
     },
     {
       "source": "CNBC",
@@ -148,7 +175,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0hYVS1ZcHB3a0ZaaXFJRkxIREgzUlY5cnZ3em9OaUt4bGFBc3luWnktUzl5dWhGQXZkZHJoRkwtUVM3WmJ0akJHZnYwbW9kZlIycWhGczJTYzMwUmE1ZWFTT1lkeUIzblJ3aFl1a3FXaElTYmRNeTBObkNWdDRmNEt3NHVzQQ?oc=5",
       "summary": "Optical names up on China ban report&nbsp;&nbsp;CNBC",
       "pub_raw": "Tue, 04 Aug 2026 16:30:45 GMT",
-      "pub_sort_dt": "2026-08-04 16:30:45 UTC"
+      "pub_sort_dt": "2026-08-05 00:30:45"
     },
     {
       "source": "Bloomberg",
@@ -157,7 +184,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb1VKOWFBQTVsM09HRDc0UG4zTGN5YVZJU0dHZEZVdldLZzdnZW9xX2NlVk90ajByX3pBcV9DcmdvLUsyaFVRRGtJV080d1RHaFZseVE4dEZfekEzTGl0V3hsa1RMeFRMajlkNkJtM2RQNF92YU92UWJ6cGFoc0R0SGNaYUZfTEdmVngtcUJqUjJ6RjFCZ3NudUJxOEFQXzV6TFM5Yk9VOXlQZXdTUGVxeQ?oc=5",
       "summary": "Abercrombie Is Said to Seek Fresh Backers for China Business&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Tue, 04 Aug 2026 16:06:20 GMT",
-      "pub_sort_dt": "2026-08-04 16:06:20 UTC"
+      "pub_sort_dt": "2026-08-05 00:06:20"
     },
     {
       "source": "Reuters",
@@ -166,7 +193,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORi1DRjNPSDg1UmFoYnJYQ0VWamF2QmdLVXNrdzk2c0FUS3RkQWU0WkhIUHdCNGlNckMyRlM5SEs4S2hQWlhLUFNGcjU3OXM4bTlxckRGRDRQZUZydldJMnJXVUprczJFU0dGbUVIeWVCdjMya0dVa0RBREJJSDNiUVRSYUg3NGEtbTk3VTljcTVfNTJoRmJEdWxXLXJJTjA5dnNVV3RyTTZOT0hoa3JRS29aV2syOExfcVE?oc=5",
       "summary": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky&nbsp;&nbsp;Reuters",
       "pub_raw": "Tue, 04 Aug 2026 15:45:35 GMT",
-      "pub_sort_dt": "2026-08-04 15:45:35 UTC"
+      "pub_sort_dt": "2026-08-04 23:45:35"
     },
     {
       "source": "The Economist",
@@ -175,7 +202,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sN25BRjAwMEpuRWtqQnAtZ1FTOFl3OURwWlluLXRlX3BTWDZBVnk2aE5Uemx6TldxZVZEd1NwTEJnanEycFI4VzJQRU9keEkwQnc0UHl0bzJtRmVDWnRHWDJ4UlE5enNFV0NHdXFqTy01T1VqVWJoNGZISQ?oc=5",
       "summary": "Hong Kong’s retail therapy&nbsp;&nbsp;The Economist",
       "pub_raw": "Tue, 04 Aug 2026 15:39:20 GMT",
-      "pub_sort_dt": "2026-08-04 15:39:20 UTC"
+      "pub_sort_dt": "2026-08-04 23:39:20"
     },
     {
       "source": "CNBC",
@@ -184,7 +211,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MZnduc3hSRWxBQU5SakxMVVBGNFpaV3BUNjFhQ1hJZlpNRi1ibHZOeHpESjROc1JzRGIzTkw2OTUyVVpkSVg4WGo2NVlSM1d3TWlMSnV6N1E5VzFyRzNJX2NjN3pFYm9ucVhsTThlN3VFQVpXanlsNlFwNNIBgAFBVV95cUxNWmEzVF9hMlJCYUFDT3MwWk5VTm9zd3RDekZZQ3ZEQXVweUFueE5TMEdqZFhxZkNQdmVQeGl0VTVXLWJCMVhJSmVTREY1Vk9FMms5VlBTMGdLd1VOd1d0R3IwZE5hbzczQVN1ZmpOeGtwR2JVREhYM0FEcmh5OEVFQw?oc=5",
       "summary": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves&nbsp;&nbsp;CNBC",
       "pub_raw": "Tue, 04 Aug 2026 14:35:06 GMT",
-      "pub_sort_dt": "2026-08-04 14:35:06 UTC"
+      "pub_sort_dt": "2026-08-04 22:35:06"
     },
     {
       "source": "CNBC",
@@ -193,16 +220,16 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDNtYzJ2VWtMeW9yUDJyRkJNSDVLcjFBcVJCTlVtZFduWXU0cDZYc1B2SEw5U1FvTHY1MFZ6bTZSTWE0eFNRLUtxSk5KRUFfSU5qYjJ4S0l0MXMxcGlmR216dDM4Vm1VaUtrUnozRm9yVHhMUU5qSUs3ZS1HWkdMeG5GMzVVT3VVZ1B6c2tR?oc=5",
       "summary": "China's swagger after India's iPhone 18 leak&nbsp;&nbsp;CNBC",
       "pub_raw": "Tue, 04 Aug 2026 14:35:00 GMT",
-      "pub_sort_dt": "2026-08-04 14:35:00 UTC"
+      "pub_sort_dt": "2026-08-04 22:35:00"
     },
     {
       "source": "Bloomberg",
       "title_en": "Japan Defense Report Warns On China, Russia, NK Military Links - Bloomberg.com",
-      "title_cn": "日本防务报告对中国、俄罗斯和朝鲜的军事联系发出警告 - Bloomberg.com",
+      "title_cn": "日本防务报告警告中国、俄罗斯和朝鲜的军事联系 - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXNjaW9CalN3eV9abFY3XzQtY0w0VXgwN3hHNi1OZXAwTlkxM0dGV2J5eXA4aTNXS3hZdlR0aFpzLTdTQWUxNnJseURKbzk5cE9GUDgzT0c4dzFDX2Vhb1BKbUpEenpEaUxlMjNNUXVkbW5RdTlDRUUxWEIwQllTYUoyRUYyMVRKMW1jRXZMZGNOOXBIMS04bWRTZnQ2QTFXeDVTMXlNVmg1RW9KWW1HWg?oc=5",
       "summary": "Japan Defense Report Warns On China, Russia, NK Military Links&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Tue, 04 Aug 2026 13:53:52 GMT",
-      "pub_sort_dt": "2026-08-04 13:53:52 UTC"
+      "pub_sort_dt": "2026-08-04 21:53:52"
     },
     {
       "source": "Wall Street Journal",
@@ -211,7 +238,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1ZERJdGZvS3V2VXd2YzZnLVFQZ3dGQ3B2d09vbEhiNVNMNlR0YnVxZ3V2WnhXd3l6Q2Y0Z0J6Tk4wZ3NESHV3XzB6SGZCYXREeV80NURPSkJ3RG9STnhaMDc2THpET0hnQkdIbk1DSjh6WVhBb1ozQVlBQXkydw?oc=5",
       "summary": "Deep U.S. Ties With Taiwan Are Surviving Pressure From China—and Trump&nbsp;&nbsp;WSJ",
       "pub_raw": "Tue, 04 Aug 2026 13:28:00 GMT",
-      "pub_sort_dt": "2026-08-04 13:28:00 UTC"
+      "pub_sort_dt": "2026-08-04 21:28:00"
     },
     {
       "source": "Financial Times",
@@ -220,16 +247,16 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMV81VEE4MlVEbDNmLUd2WC1hYnZQay1wS0VrdlpjQ3hSUjhHUHVVdUJJbnl4MGV4ekd4aTFUTGU5bnlEM1RmSlZOaHhncWg2WWZKS0l4Y3dWclNNb2ZqRmI5STBERUtlZ0I3MkpiN25oWTRyd1JtdlRuZGdkV2hLR0pYN2pmUDUyVWJybEQ3NW00UTNPamtqbA?oc=5",
       "summary": "Sands China as World's First Integrated Tourism and Leisure Enterprise to Achieve ISO 14001:2026 Certification for Environmental Management – Company Announcement - FT.com&nbsp;&nbsp;Financial Times",
       "pub_raw": "Tue, 04 Aug 2026 12:40:00 GMT",
-      "pub_sort_dt": "2026-08-04 12:40:00 UTC"
+      "pub_sort_dt": "2026-08-04 20:40:00"
     },
     {
       "source": "New York Times",
-      "title_en": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises - The New York Times",
-      "title_cn": "安迪·伯纳姆就任英国首相的第一周：TikTok、播客和承诺 - 纽约时报中文网",
+      "title_en": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises - nytimes.com",
+      "title_cn": "安迪·伯纳姆就任英国首相的第一周：TikTok、播客和承诺 - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWV3NWc4N0NIWlFmTkZxNmZMV09IOXdHRE9qSGtaVGRrOHFtWk9QTHdHdjNxekdIOFVBMHlYUDFMcWtnc1dFODhCOFJnUHdIS0xER2xtVzFzTGRJRXRseFUzQ2EwN0xWMDNyb0ZKVng5cWt2ZVJZdmZoT2xySDFGY05sUUQ2VlFjTVlF?oc=5",
-      "summary": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises&nbsp;&nbsp;The New York Times",
+      "summary": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises&nbsp;&nbsp;nytimes.com",
       "pub_raw": "Tue, 04 Aug 2026 12:06:43 GMT",
-      "pub_sort_dt": "2026-08-04 12:06:43 UTC"
+      "pub_sort_dt": "2026-08-04 20:06:43"
     },
     {
       "source": "Reuters",
@@ -238,7 +265,7 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2huWXltQ2pZM3ZsdXhLQjFfZUszdDZ4M3Y0cUZJZTJySGlzckhablQyRS0xOV91c0VlUmstVERBcDkxaW90VXI2RFNmV3BCeXpOWE84YmR6Ql9hWmxHYkhKaFhtRDVzTGVYTXA1emFyMDJNYkZmeEdQdzltblIzaEFJUDh4VFNUOWlibm1laWZ3OGw3Z0hmYnNNbHluMzRWRm5tNlg4VjdYeHl5cjVuMVBRM2MzRl8xdkZIWHQ1UldmSmdR?oc=5",
       "summary": "China's EV export boom is starting to show up in the gasoline market&nbsp;&nbsp;Reuters",
       "pub_raw": "Tue, 04 Aug 2026 12:01:04 GMT",
-      "pub_sort_dt": "2026-08-04 12:01:04 UTC"
+      "pub_sort_dt": "2026-08-04 20:01:04"
     },
     {
       "source": "Reuters",
@@ -247,16 +274,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdWQ0cDdfTVhmYVAtcVVHNWxVa2tSZFk4Q2RPNkRTY01zV21Pc3dlR0d3aUJkX21IV1hXQ1pHRXlBQURabWprYzJQY0Q0Q3FEQkd0cFZjMHBLdnhycjJiX0R5T2xHTGxoN3FaWUxESVpHbHhzV2dfZEFicHNfN1gtTEdTTXBxd1Fwcy1nZk5FTW04cGRLX0k2ak1wTWk5NEN0aG1ZOA?oc=5",
       "summary": "Tesla's July China-made EV sales rise 37.8% y/y&nbsp;&nbsp;Reuters",
       "pub_raw": "Tue, 04 Aug 2026 11:51:46 GMT",
-      "pub_sort_dt": "2026-08-04 11:51:46 UTC"
+      "pub_sort_dt": "2026-08-04 19:51:46"
     },
     {
       "source": "Wall Street Journal",
       "title_en": "Huggies Stumble in China After Social-Media Firestorm - WSJ",
-      "title_cn": "社交媒体风波过后，好奇公司在中国陷入困境 - 华尔街日报",
+      "title_cn": "社交媒体风暴过后，好奇公司在中国陷入困境 - 华尔街日报",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaEZtdWEzYVFaVi1PNHVMNnFKUDM1bVBJLXI5LWJnM2doU1JwOC1EbjRBU29rbjlJVGxDSWE3Zm9DTjdReFBOeUNsa2hOZEdDMHFqRndiaUE5dHh6c0tQbTVMbkxYa2c2TXJTei1VQzA5UTJHLW45WWFKNEktNldBbWg0TS03Qjg4VGY0YkkxVWFyeUk?oc=5",
       "summary": "Huggies Stumble in China After Social-Media Firestorm&nbsp;&nbsp;WSJ",
       "pub_raw": "Tue, 04 Aug 2026 11:44:00 GMT",
-      "pub_sort_dt": "2026-08-04 11:44:00 UTC"
+      "pub_sort_dt": "2026-08-04 19:44:00"
     },
     {
       "source": "AFP",
@@ -265,16 +292,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LeFV3R3VvanNVdVRvVWg0NFV6T2JXTk9Bc2NDWGRtMGtjdHZlSmdmQ25UbGJ4ZzY4VW5USEpOLU00aUs4WGhyMXl5RXV1OEphemw2U2FuQjZ6cTQyNW5TOWs5NE1CZEtnNUxMOWplRDJmaXN2T1NqT3RB?oc=5",
       "summary": "China draws up safety rules for autonomous vehicles&nbsp;&nbsp;www-pp.afp.com",
       "pub_raw": "Tue, 04 Aug 2026 11:28:23 GMT",
-      "pub_sort_dt": "2026-08-04 11:28:23 UTC"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Chinese robot maker Unitree seen worth over $7.4 billion yuan after IPO, Citic says - Reuters",
-      "title_cn": "中信证券表示，中国机器人制造商Unitree在IPO后估值超过74亿元人民币 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5",
-      "summary": "Chinese robot maker Unitree seen worth over $7.4 billion yuan after IPO, Citic says&nbsp;&nbsp;Reuters",
-      "pub_raw": "Tue, 04 Aug 2026 11:11:57 GMT",
-      "pub_sort_dt": "2026-08-04 11:11:57 UTC"
+      "pub_sort_dt": "2026-08-04 19:28:23"
     },
     {
       "source": "Wall Street Journal",
@@ -283,7 +301,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFg3MUc4eW9TWE5pVzJIeHo1V0xwNWlmQWx6N3Ryb3NkVU1jRGFfNm5LWHFfME5JeDFNZmRCTTExbS1XbllHWEJJY25zVnFBUmYyZWRhX3BDSFlnSEdmNnh5NkF3d0FLUG1PWlpzX2t4Tm1SWlJxa1JuaF9rRGQyd3BwcjMwYWNxMkg5dnBwU3lMNV8zQVJGTWdWb1U4UENnVXhQR0lrdnhIYmx3?oc=5",
       "summary": "Xi Wants a Strong-Looking Yuan. China’s Economy Keeps Holding It Down.&nbsp;&nbsp;WSJ",
       "pub_raw": "Tue, 04 Aug 2026 10:55:00 GMT",
-      "pub_sort_dt": "2026-08-04 10:55:00 UTC"
+      "pub_sort_dt": "2026-08-04 18:55:00"
     },
     {
       "source": "Bloomberg",
@@ -292,7 +310,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXJVaGc4VDRLaGVxbnZnckItX0NBNDRoMDYza2M0YmhsMFY5OGhDRksyMkxjTi03UUx5Y3pNcFRkdWtJenAxNFFJYTdsd0dyY2JxV1pGTDN0MnZtbHZxYjEwLUowZ2lkeDZkS1M4U0lTT3BiNGZVOXJSZ3Y1ZWFQN1NkUGhQZjNmcVlHS2g2dEVlWFJWV3U5dFAxb0N3WkIyR1FoVnBIX2VhYUtqQkgw?oc=5",
       "summary": "South Africa Wins Chinese Backing for Power-Expansion Plans&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Tue, 04 Aug 2026 10:43:10 GMT",
-      "pub_sort_dt": "2026-08-04 10:43:10 UTC"
+      "pub_sort_dt": "2026-08-04 18:43:10"
     },
     {
       "source": "Bloomberg",
@@ -301,7 +319,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFVoaFdMN01jNHdsYmxndHU5dFRQMU5BMVprdHJuNm5PRXphc0g0NktVY2Y5bVJMVzI2alNhM1Qxb1NDM0J3X3pMeXhDVldOWHp2b3Z5bWdFQ2xhd2ZxLW9fb0hqNzlQYTVpSFB0ZkU0TzFqQU5oZ0c2TjF4dzN0UjZuNnIydDhaVkRDTW1qXzlLZ1drcDFCZnVZbEtWRGdNbHZDaFg2RFNsVksyRzZmNF84ekc?oc=5",
       "summary": "Kimberly-Clark Earnings: Outlook Trimmed on Depot Fire, China Quality Claims&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Tue, 04 Aug 2026 10:30:00 GMT",
-      "pub_sort_dt": "2026-08-04 10:30:00 UTC"
+      "pub_sort_dt": "2026-08-04 18:30:00"
     },
     {
       "source": "Reuters",
@@ -310,7 +328,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZEFjZDdmMzAxM2tTaHIwTWpFMHVCUldHdGs3Y3hTejI2ajRQeTVWUFU4RThDRGlIUmhXM0duczgySG5xUExONFhPMmtZR2liTVVJR19JcVhBYndwTjBURk1qM0lvOU1sTnlGYVd3VUxLQTJBQklmZjlsSmdUd0p1bVpGRElVSlp5NHl3YTBnSmhrMUpfSl9ld0NmLVhDdTF0MXg1enZIcXE0aEpFQTJDRWxYUUdRdw?oc=5",
       "summary": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say&nbsp;&nbsp;Reuters",
       "pub_raw": "Tue, 04 Aug 2026 10:06:00 GMT",
-      "pub_sort_dt": "2026-08-04 10:06:00 UTC"
+      "pub_sort_dt": "2026-08-04 18:06:00"
     },
     {
       "source": "Financial Times",
@@ -319,7 +337,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSE5iZXBtdTl0bTFXcmw5TmtuRVBoVHduQ0FOQmlnX1lkR0JXbWNTNG1qV0pTWmxsT3otYVhhdDRxWklDQlI3SHpxckN4RzFaRVlpZVhmcF9mdkZXSWE2aW5IVXlvTi1UanhLTEU4NWlSZzkxNVNROElIRU53Zm9TSUJCaEdpenNMUjlTTWhyRW53R0RUZVRoYg?oc=5",
       "summary": "Sisram Medical Powers Up China EBD Growth Engine with Flagship \"黑金牛奶光\" Launch – Company Announcement&nbsp;&nbsp;Financial Times",
       "pub_raw": "Tue, 04 Aug 2026 08:57:00 GMT",
-      "pub_sort_dt": "2026-08-04 08:57:00 UTC"
+      "pub_sort_dt": "2026-08-04 16:57:00"
     },
     {
       "source": "Wall Street Journal",
@@ -328,7 +346,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRE9xcUxsQUt1NzhGNHNGQW5LT282bXJscE5NTi1FSk1fSG5IbHQ2cl92VEFDYTc5bTZ0bTAzckNqWktnLXJid3d1SGVkeXdWQXVyMzJ5TUlGVTZuMUktLVNRbE9wUS1Fd3N0OWlwUzQ1b2hxVWV4aXdkZW1NMTk1eU4zdlZBandfSWhDOV8zVE0?oc=5",
       "summary": "Volvo Car Sales Slip 4% on China Weakness&nbsp;&nbsp;WSJ",
       "pub_raw": "Tue, 04 Aug 2026 08:49:00 GMT",
-      "pub_sort_dt": "2026-08-04 08:49:00 UTC"
+      "pub_sort_dt": "2026-08-04 16:49:00"
     },
     {
       "source": "Reuters",
@@ -337,7 +355,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRVZRdTNOTzRfYVlvOTdBM3I5WDJSNndyTk44TkMtaTVOR0t3cVpraHE2SEMtYnNmeU91WnAyWlRSZUl6dXB0Yk8xa291WGg4RU9GUGQ0aEc4VHhGMkNNdzRJLVY2NHU2dG5lOXdtRGtieXRJODFNVHRxRndDcm5BUTZaNV91NVJvc1NpOUZOOEZLRDZCblJjSXhYY212NmxIZGhkNmdRVlZXQ2RCQWNwLVRPaHR3cTJoTUxXWVRwcHp2cDFJM0JjNEtR?oc=5",
       "summary": "Prestige beauty outpaces high-end bags as China's luxury spending evolves&nbsp;&nbsp;Reuters",
       "pub_raw": "Tue, 04 Aug 2026 08:40:58 GMT",
-      "pub_sort_dt": "2026-08-04 08:40:58 UTC"
+      "pub_sort_dt": "2026-08-04 16:40:58"
     },
     {
       "source": "Bloomberg",
@@ -346,7 +364,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWVMLThGa3ZHbWFBOUhvLXo2MUNraFBrQU9JRFpkdE5wN1MwWGRkWk5EeUZTRWlMQldLR2VaM3ZGS25IZ1dMd1NyU1FuMmQ1eEN6dGh0V0NsendEU1lwZHJuc01US0JSc3FWODVuUlotTDloR1JuVC16MDlNbWRXWFc2czNYYkw1Mk9MSDBqTWhtQmFOR2F3cUV6QUlMMnFxWnlWUWZIVV8xODA1RlcyS1ZVUVY?oc=5",
       "summary": "China's CXMT Narrows Gap With SK Hynix and Samsung in Smartphone Memory&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Tue, 04 Aug 2026 08:40:41 GMT",
-      "pub_sort_dt": "2026-08-04 08:40:41 UTC"
+      "pub_sort_dt": "2026-08-04 16:40:41"
     },
     {
       "source": "CNBC",
@@ -355,7 +373,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVW1wSzd6cGpIRHRoVHV3dDZHbnB2LWxYWWxSSUhMNk5QNmRJdG9xbjlBMWNkUUJxV2tTN3hoNGtHLS14ekJiQ1FycFhNWXVDVWVNS0YwdTQ0SzFBLTNxbDNQdEQ5T2RyRUlmR1M0djRBekw4NmFtT3BJOXktSW1fM0Z3X09vZ1pSNkNveFRoYzEtYl93XzViQUtvck5rVE9qVW9FT2t5QmxseERwVUxzVnR6SmViZ3l6Q2pz?oc=5",
       "summary": "Luxury vs mass market: Julius Baer's take on understanding the U.S.-China AI race&nbsp;&nbsp;CNBC",
       "pub_raw": "Tue, 04 Aug 2026 07:39:00 GMT",
-      "pub_sort_dt": "2026-08-04 07:39:00 UTC"
+      "pub_sort_dt": "2026-08-04 15:39:00"
     },
     {
       "source": "Financial Times",
@@ -364,7 +382,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjZXX3E0Smk1UFR6Zl9odEhhTlFfeU5Bd1RJSHhHVkRkSnJUN3ZzemF1NGdkb092ZVlLZTRMVHQ2bm9hMkxtRGN3Ymd4SVhFaVR1MnhnWDlyZklCNXNGSVZXXzVROFF2NFg4SHZjSnJPbEc0dGFselZsaC1VZ1NZSm81MFVvX2pDd0R0U2ViMHM5YW5Fc21Id04wT0ZTY01vS0V2ekY1dEdYTkk?oc=5",
       "summary": "Amundi MSCI China ESG Selection Extra UCITS ETF Acc: Net Asset Value(s) – Company Announcement&nbsp;&nbsp;Financial Times",
       "pub_raw": "Tue, 04 Aug 2026 07:09:00 GMT",
-      "pub_sort_dt": "2026-08-04 07:09:00 UTC"
+      "pub_sort_dt": "2026-08-04 15:09:00"
     },
     {
       "source": "Financial Times",
@@ -373,16 +391,25 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2hfU2xzeVUtMUh2RTR6ZmtHd1lyTkVDU05YX0xHRHZ6UTRoenFIR09FTGozQURQVHJuakZzOG1FVEQ4Tko3OVJVTFRpUkZJQW82ODVkVjNWeG9DU0dYTEs2cE9IZlk0VWRYTWk5dW11V2psX0NfRVVPYVBzWVZlYVV3bXo1SjZtUk1oRDhIS2wtdTc5Zy1hVVFIZGE3ZXVTMHRydzlUdVlKMjg?oc=5",
       "summary": "Amundi MSCI Emerging Ex China ESG Selection UCITS ETF Acc: Net Asset Value(s) – Company Announcement&nbsp;&nbsp;Financial Times",
       "pub_raw": "Tue, 04 Aug 2026 07:09:00 GMT",
-      "pub_sort_dt": "2026-08-04 07:09:00 UTC"
+      "pub_sort_dt": "2026-08-04 15:09:00"
     },
     {
       "source": "Financial Times",
       "title_en": "Amundi MSCI Emerging Ex China UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
-      "title_cn": "Amundi MSCI 新兴中国 UCITS ETF Acc：资产净值 – 公司公告 - 金融时报",
+      "title_cn": "东方汇理 MSCI 新兴中国 UCITS ETF Acc：资产净值 – 公司公告 - 金融时报",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWJhWnFGYUdHeElTemJlU3kyZmJtUkdBMlQ0SzJ5MFNtRHdMZ1YxQXN0UUpsclpwZlFrOGZoNkNWUWtiZEVMcnI3Uks1UWs0MVFITUdPbGcxZWFwNjdnZ1VxTkZOS0doQmdRY29FSUxEWVYtWjlnOEEwWEhyNzI5cDRwQU1tNkJ0dHJHY1pqaUMxWU5oa1BvYjFtSElOMFJySGpxd1FDMzNKdW8?oc=5",
       "summary": "Amundi MSCI Emerging Ex China UCITS ETF Acc: Net Asset Value(s) – Company Announcement&nbsp;&nbsp;Financial Times",
       "pub_raw": "Tue, 04 Aug 2026 07:09:00 GMT",
-      "pub_sort_dt": "2026-08-04 07:09:00 UTC"
+      "pub_sort_dt": "2026-08-04 15:09:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Huawei’s Top Scientist Warns of Chip Limit Nvidia Will Soon Face - Bloomberg.com",
+      "title_cn": "华为首席科学家警告英伟达很快将面临芯片限制 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGV6Q2dzSzhXeEZ3NXJWaVl5eHk5Z1Rjd054bTQtZERDd3dac1hhd18wZWltZWQ0WWJzRnVWdjhDZlM1VUxvaWtjQm0xdkJpTUpCMGFZdm1JU3ZQS1FnRFZ0T2phVi1JTTRpNDdZSGNvNHBfQlVfdWpuUlpWTHhZbkVQaGQ2TWxETTFLd2QxRTZXaXBYczBLZGU4cGNSSlVaTU5PRWpRWWxYZlZ2T09YSGRwblV3Zw?oc=5",
+      "summary": "Huawei’s Top Scientist Warns of Chip Limit Nvidia Will Soon Face&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Tue, 04 Aug 2026 06:52:00 GMT",
+      "pub_sort_dt": "2026-08-04 14:52:00"
     },
     {
       "source": "Nikkei Asia",
@@ -391,7 +418,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbjBYS0I2cUhjLUdzNk5zU0FHbV9HUHFUN0otc2pSYzVSMlZKdWg2OVIzYTR4THRnSU9wUUV2eXgxVFRDRjBQb29hWE5BVHNPWjlHOXZBb1BIT2F3YnVDMV95S1R4ZGlKZ3NwamxJNGpyU0RzZXowRXpRV25veklqbGlLU3l1ZXZCZWJleTl4eXF0TEk5Z25pZUREY21Fc25JTmhFRGE2V2MyRXk3U3hQaklKanFBcm5QYzROTUhZVnRmSWN1T2lmYzQzcUZrMHV4LTFyWkxBaGl6Z1p4?oc=5",
       "summary": "Taiwan braces for annual Han Kuang anti-invasion drills with new twists&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Tue, 04 Aug 2026 06:02:00 GMT",
-      "pub_sort_dt": "2026-08-04 06:02:00 UTC"
+      "pub_sort_dt": "2026-08-04 14:02:00"
     },
     {
       "source": "CNBC",
@@ -400,7 +427,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMThsUUwzeWpOZHVNWDh3QnNTNWFBTWZObnFfRnNxT3lpZkVDa251ekFFQkRSRy1ZRGVaZkMwTGMyTG8wWWpQbHVXUmF3a0xCRDRhZHcwRUwtVjlUdUQ5WThSVnpWYm54X2VuUzhwdVJKUDVISVBBMmhaaExFNlBlNnBVb1lnZVBYeDJ3dkMzNlRkQUNoYXVlcndhMEhrM1R0SjRGeDd6SnIwc1l4V3c?oc=5",
       "summary": "China's open-source AI models will push the U.S. to compete at lower end of the value chain: AEI&nbsp;&nbsp;CNBC",
       "pub_raw": "Tue, 04 Aug 2026 05:49:16 GMT",
-      "pub_sort_dt": "2026-08-04 05:49:16 UTC"
+      "pub_sort_dt": "2026-08-04 13:49:16"
     },
     {
       "source": "CNN",
@@ -409,16 +436,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY29PVHh4SHhLZTQ0cGFJcUpNM2VRWlc5Y2JfTHhWNDZNRWJiLUdZYUZUUERHSWJ1S2hfR1BTckNHMUU5RDhxU1NMTnJtOVY3VEZOVFN3NGFYNHhnSG9YdTJoQjhEYl9ZVlNnWS1PZzBhSUlxbGV6X3YyUFNJQ0tGX0EwZklIZlNXVV9SNjRrN0tkRl8yakdHSHlzZzhrR0xvX19LUXdJeWF1YjI4QzNwd1pn?oc=5",
       "summary": "Japan outlines its military build-up plan, citing threats from China, Russia and North Korea&nbsp;&nbsp;CNN",
       "pub_raw": "Tue, 04 Aug 2026 05:07:05 GMT",
-      "pub_sort_dt": "2026-08-04 05:07:05 UTC"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Chinese Dip-Buying Bolsters Gold as Prices Find Floor at $4,000 - Bloomberg.com",
-      "title_cn": "中国逢低买盘提振金价，金价触及 4,000 美元 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVlczOW5CcktBbEJUU2hST2lyQktZbVlteWM0X2U4R1o2bFJSbFNhX0NOYU4tXzljQmZTdXAzNkFXSWdSYU12bm9IS0ZJR2F0YUxMampjSDZESWtuSlhKRlZvb1RHcUp6eGlsVkl3Um1oNHBXeGtveXNSNS1sR3NKcE9yd3pKSWxFQ3k5RndoallMSUVheDhYdmdIRVVFN3BMN0xpeUZxbGExWTlHOU1XWDFyZw?oc=5",
-      "summary": "Chinese Dip-Buying Bolsters Gold as Prices Find Floor at $4,000&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Tue, 04 Aug 2026 04:42:00 GMT",
-      "pub_sort_dt": "2026-08-04 04:42:00 UTC"
+      "pub_sort_dt": "2026-08-04 13:07:05"
     },
     {
       "source": "Bloomberg",
@@ -427,7 +445,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTNSMlpYc01vYXl0SENzTVVTYThoYjA1ZDlkOGtyb1djUlBfV3MxbTR6MjZXUGc4bmN5anFzRXF1UXZNMlhEeFRidDN0ejg0MnoyM3dwSlR6bTNOUy15dG9JTm9semZVYXI5QkNaUlRhNXNtaXEyQmVLYldKdHpjeVRLTEVoU1FudTdZcWZaX09aUC1wQlpxLXhxc1kwQVNGYTJpVnZESjBxYVZBQXdXQjNn?oc=5",
       "summary": "China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Tue, 04 Aug 2026 04:38:00 GMT",
-      "pub_sort_dt": "2026-08-04 04:38:00 UTC"
+      "pub_sort_dt": "2026-08-04 12:38:00"
     },
     {
       "source": "Reuters",
@@ -436,7 +454,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3NieXJtWmw4S21GUWJYMHAycnA0RmZaeWJKMnVCT19OUDdGQkNLZnVwRDQ0Ukc2cDZCV0FBczAzQlBsbnFUVFhqV2dSb3I2VVpnT0ZFMXRnbGpvSEdNMWxtS1BVeHJuNUV0X1JkX1F6UGpWQW9fQkptZzRiY3hkWWRIMXNUTHFGa3hQQ3VxVk53djFFUEJxdzR1V2NHZXVTODZvRDlnekQzUU56WmlsZUxMdTZiSHQtWE1yTmcxOHhtdw?oc=5",
       "summary": "EXCLUSIVE: Shein targets $30 billion to $40 billion Hong Kong IPO valuation this month, sources say&nbsp;&nbsp;Reuters",
       "pub_raw": "Tue, 04 Aug 2026 04:09:00 GMT",
-      "pub_sort_dt": "2026-08-04 04:09:00 UTC"
+      "pub_sort_dt": "2026-08-04 12:09:00"
     }
   ]
 }
