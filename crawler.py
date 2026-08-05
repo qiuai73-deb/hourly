@@ -188,7 +188,9 @@ def main():
     cn_title_list = batch_translate(en_title_list)
     for idx, item in enumerate(news_pool):
         item["title_cn"] = cn_title_list[idx]
-        item["pub_sort_dt"] = item["pub_sort_dt"].strftime("%Y-%m-%d %H:%M:%S UTC")
+        # UTC时间 +8小时转为北京时间
+        bj_dt = item["pub_sort_dt"] + timedelta(hours=8)
+        item["pub_sort_dt"] = bj_dt.strftime("%Y-%m-%d %H:%M:%S")
 
     # 4. 输出极简新闻清单json（仅前端展示需要的字段）
     output = {
