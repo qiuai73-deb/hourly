@@ -2,7 +2,7 @@ name: Auto Crawl Foreign China News
 # 定时：北京时间6:00-23:00每小时整点；同时支持手动触发
 on:
   schedule:
-    - cron: '0 15-22 * * *'
+    - cron: '0 6-23 * * *'
       timezone: Asia/Shanghai
   workflow_dispatch:
 
