@@ -135,7 +135,7 @@ async function loadNews() {
                     <div class="top-cn-title">${news.title_cn || "无中文标题"}</div>
                     <div class="top-meta-row">
                         <span>来源：${news.source}</span>
-                        <span>${utcToBeijing(news.pub_sort_dt || news.pub_raw)}</span>
+                        <span>${news.pub_sort_dt || news.pub_raw || "未知时间"}</span>
                     </div>
                 `;
                 if (news.url) itemDom.onclick = ()=> window.open(news.url, "_blank");
@@ -161,7 +161,7 @@ async function loadNews() {
                 itemDom.innerHTML = `
                     <div class="cn-title">${news.title_cn || "无中文标题"}</div>
                     <div class="en-title">原文：${news.title_en || "无标题"}</div>
-                    <div class="pub-time">发布时间：${utcToBeijing(news.pub_sort_dt || news.pub_raw)}</div>
+                    <div class="pub-time">发布时间：${news.pub_sort_dt || news.pub_raw || "未知时间"}</div>
                 `;
                 if (news.url) itemDom.onclick = ()=> window.open(news.url, "_blank");
                 block.appendChild(itemDom);
