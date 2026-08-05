@@ -1,19 +1,74 @@
 {
-  "update_cst": "2026-08-05 23:55:08 北京时间",
-  "total_count": 36,
+  "update_cst": "2026-08-06 06:49:42 北京时间",
+  "total_count": 45,
   "source_stat": {
     "Reuters": 5,
     "Bloomberg": 5,
     "AP": 3,
     "Nikkei Asia": 4,
     "Financial Times": 5,
-    "Wall Street Journal": 1,
-    "CNBC": 5,
-    "New York Times": 4,
-    "CNN": 3,
-    "The Economist": 1
+    "Wall Street Journal": 4,
+    "CNBC": 4,
+    "New York Times": 5,
+    "CNN": 4,
+    "AFP": 3,
+    "The Economist": 3
   },
   "news": [
+    {
+      "source": "The Economist",
+      "title_en": "A glimpse from China of AI’s future - The Economist",
+      "title_cn": "中国人工智能的未来一瞥 - 《经济学人》",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcHUxYUxGSTd2QzREQ2kxYlpGcEpjdmNZLVBleHp6MXEyZmxMd3plZmxGSzRfTGZpaTVJWGZKNC1CTjk2OHNJTV9lYmpZN3hVc1R5cWlkSjZxVlNvcERSYVRaSXVRWXlxTGw5SVlwcVQyTi0xblVLZ2M4TlZxajF6U1pvby0xWFE?oc=5",
+      "summary": "A glimpse from China of AI’s future&nbsp;&nbsp;The Economist",
+      "pub_raw": "Wed, 05 Aug 2026 22:04:06 GMT",
+      "pub_sort_dt": "2026-08-06 06:04:06"
+    },
+    {
+      "source": "New York Times",
+      "title_en": "How China’s A.I. Is Surging Across Africa - The New York Times",
+      "title_cn": "中国的人工智能如何发展席卷非洲 - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVQ1M5U0I4dTItenBoZDVJVkxORWpNSnJ2X2V1SmhGQmstOGtydWxKTWQxMHFUVUVaMnhxUV9VQlhIa0Q0djB5VkFMUU1FX0ZILU0yMU5sa3VGU1VRZUVUOFZGY19FdlZrbnBaSkpOakVaWWt1?oc=5",
+      "summary": "How China’s A.I. Is Surging Across Africa&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Wed, 05 Aug 2026 20:41:15 GMT",
+      "pub_sort_dt": "2026-08-06 04:41:15"
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "Analysis: Xi Jinping shows signs of worry ahead of Beidaihe meeting - Nikkei Asia",
+      "title_cn": "分析：习近平在北戴河会议前表现出担忧迹象​​ - 日经亚洲",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHBueXV4QXZzcks5ckkyWmZhODlUazlIczNLdWJYUERfOXpoYmFMeG1VaW4ydkpSc3FEc0dPWXRKaHUyU0Z0YVdoSGFtVGh6b0VHTWVIN0piTC1BVkRyeEE4UFhNanVHTFd5VDVwVVNkallRcjJ1dmVyY2dSa29vR1FNd2dCcVo2NVdfS25Va0pBSVFpUU1wQUpDSm1yMFJ4YnJHb0xRS2N5U0RaMGk4LUFQS2NyNm4xX0VTZw?oc=5",
+      "summary": "Analysis: Xi Jinping shows signs of worry ahead of Beidaihe meeting&nbsp;&nbsp;Nikkei Asia",
+      "pub_raw": "Wed, 05 Aug 2026 19:00:00 GMT",
+      "pub_sort_dt": "2026-08-06 03:00:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia - Reuters",
+      "title_cn": "独家报道：在帕特尔的领导下，联邦调查局与中国、俄罗斯建立了前所未有的执法关系 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWpCMFNYSzRIWWQzeExhSXl5RFdsYUNSSGZkcnlwblpJMjg3Nno4c0Y0UlNabThLdy1EbzdySG1pNTdUcVBxRWJHX2RxT251Vnk2aGhoYkM2dW8xdHpCVV8wamt5WW93NnJ6LWpHdkRhVWNPRzZlUmZFV3paQ29YSG5MRndac0V6ZlZwOVNpcDhWT1RROHl6NzBRTVlCVHhOdWxIcG9iT2l4ekdhbWxtRGlvbXIwVG1FOEx3bnpXekI?oc=5",
+      "summary": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia&nbsp;&nbsp;Reuters",
+      "pub_raw": "Wed, 05 Aug 2026 18:29:58 GMT",
+      "pub_sort_dt": "2026-08-06 02:29:58"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "Catch up: SpaceX’s shares (and rocket parts) drop; China retaliates against America - The Economist",
+      "title_cn": "赶上：SpaceX 的股价（和火箭零部件）下跌；中国对美国进行报复 - 经济学人",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVRESm9PNm9LcFFGbi0wcWVvOUdEQmRtVGhFVW5qMnZKdmZwT09zWkxvR2t5eUJfZU9XOGNOWnhUSXFKT3d0dGJjSmZfWTd5YnhFQ25QelJFRGNTQjI0aTFHX1VoWEZUaGpsSVh0QlRyN3BMa2ZBYzhnN0Q5TWtTaW90Z2pmcE5MeUhmVlcxc19lWFVKRmpn?oc=5",
+      "summary": "Catch up: SpaceX’s shares (and rocket parts) drop; China retaliates against America&nbsp;&nbsp;The Economist",
+      "pub_raw": "Wed, 05 Aug 2026 16:38:14 GMT",
+      "pub_sort_dt": "2026-08-06 00:38:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Argentina Renews $19 Billion China Swap for Another Five Years - Bloomberg.com",
+      "title_cn": "阿根廷将190亿美元的中国互换协议续签五年 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPblNuZ0U5R2p6bG5PYTR6dXFGTnQ3UExPNVZuUzlKaHVrN3ZYRXdsR00zNUdjZ3pvSjlRQlZTWF9XenY0M2xPNkhyWTE4dUctNWk0bHFlWVJUbFRBUmZIUVJKN01hU29CZUFzQzZCdUM0VF9PbXA1dVhtek9USjRpbi0xMS1IQXlCSVJTNGhDWXlHNmMtRS1UeXdlaHdJaF9PdDJkV215OFgzTVpJUkRJam93?oc=5",
+      "summary": "Argentina Renews $19 Billion China Swap for Another Five Years&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Wed, 05 Aug 2026 16:24:10 GMT",
+      "pub_sort_dt": "2026-08-06 00:24:10"
+    },
     {
       "source": "Reuters",
       "title_en": "Prudential shares tumble on report China will tax offshore insurance returns - Reuters",
@@ -33,13 +88,31 @@
       "pub_sort_dt": "2026-08-05 22:16:23"
     },
     {
-      "source": "New York Times",
-      "title_en": "China’s A.I. Is Surging Across Africa. That Should Worry Silicon Valley. - The New York Times",
-      "title_cn": "中国的人工智能风靡整个非洲。这应该让硅谷担心。 - 纽约时报",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVQ1M5U0I4dTItenBoZDVJVkxORWpNSnJ2X2V1SmhGQmstOGtydWxKTWQxMHFUVUVaMnhxUV9VQlhIa0Q0djB5VkFMUU1FX0ZILU0yMU5sa3VGU1VRZUVUOFZGY19FdlZrbnBaSkpOakVaWWt1?oc=5",
-      "summary": "China’s A.I. Is Surging Across Africa. That Should Worry Silicon Valley.&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Wed, 05 Aug 2026 14:12:56 GMT",
-      "pub_sort_dt": "2026-08-05 22:12:56"
+      "source": "Wall Street Journal",
+      "title_en": "Taiwan Tests War Plans to Thwart Chinese Invasion - WSJ",
+      "title_cn": "台湾测试阻止中国入侵的战争计划 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONldnN0liNjFSYkZSYU5yZWczcU1LM1lCaGluVlhseEpYeXk3STU0WTVmenpXUkd2ZXFzOEk4WUxLVnRJU0ZBOWItRlljT3JEYnpFMi1tck40ZHo4Zm5QaTZEbnEzVXJhQkpSei1hYnVVd3ZfR3lVSXc1VkJlc28tOGV3eUE1SXRBMjJTSV9uWXlRanM0?oc=5",
+      "summary": "Taiwan Tests War Plans to Thwart Chinese Invasion&nbsp;&nbsp;WSJ",
+      "pub_raw": "Wed, 05 Aug 2026 13:54:00 GMT",
+      "pub_sort_dt": "2026-08-05 21:54:00"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "China hits back at US with sanctions and tighter drone export rules - ft.com",
+      "title_cn": "中国通过制裁和更严格的无人机出口规则回击美国 - FT.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG5rcW5PalpobUFkZTRLVnlMRk5qelZHM3NmaDl6NzcwemotbjRLRGM4WnAtY1ZacG5CMXVrN1JZc0NrOWMzVGVUbW9BM1lHRGsyU2IzTnN4QXJpWWUyZDhSVGZ2Qmd1TVIyOUN6RGU4WGduWG1LMURjY2JNanZmeXRIQkM?oc=5",
+      "summary": "China hits back at US with sanctions and tighter drone export rules&nbsp;&nbsp;ft.com",
+      "pub_raw": "Wed, 05 Aug 2026 13:23:08 GMT",
+      "pub_sort_dt": "2026-08-05 21:23:08"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "U.S. to Halt Key Metal Waste Exports in Push to Break China Reliance - WSJ",
+      "title_cn": "美国将停止主要金属废物出口以打破对中国的依赖 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODNtOWt0NHRrcjZ5cWdjRVhhOUZKUG1JMWpocWx1ejVkREowUUtBeWtMTXVZcXFJMEJianFBVGJtYWhSRXVWRnZmdVpBR19DYlY5RWVYYkN4SUFUVkxxRG1pekRxSk5ONHYteW1fZjZSVlJhaWx3aW5aM2ItM25fWmhWbTBNMGp2OWNQRXYxQlQ2czRQZV9qeDl2MHI?oc=5",
+      "summary": "U.S. to Halt Key Metal Waste Exports in Push to Break China Reliance&nbsp;&nbsp;WSJ",
+      "pub_raw": "Wed, 05 Aug 2026 12:30:00 GMT",
+      "pub_sort_dt": "2026-08-05 20:30:00"
     },
     {
       "source": "CNN",
@@ -49,6 +122,15 @@
       "summary": "Disney and TikTok strike deal to let creators make videos with its famous characters&nbsp;&nbsp;CNN",
       "pub_raw": "Wed, 05 Aug 2026 11:56:23 GMT",
       "pub_sort_dt": "2026-08-05 19:56:23"
+    },
+    {
+      "source": "CNN",
+      "title_en": "Mexican TikTok influencer shot dead during live stream - CNN",
+      "title_cn": "墨西哥 TikTok 网红在直播中被枪杀 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFdYWF91aHpGeFFxN0NwYUk3cGg1U3B4ekFENXRhTmdxQWVKck9NWGxLRXlSNG9URkxOdEJKRW5VNnNtUjYxSnRQaVpXcENqanRNQ0dXcDBxMXJxaTV4UUdJbkxxaEdzLVQyN01uczRFRjd3dG1uMGw5RkNYemdSTE5nWHNqcEkzbmNQdXRmelpSZw?oc=5",
+      "summary": "Mexican TikTok influencer shot dead during live stream&nbsp;&nbsp;CNN",
+      "pub_raw": "Wed, 05 Aug 2026 11:34:10 GMT",
+      "pub_sort_dt": "2026-08-05 19:34:10"
     },
     {
       "source": "Nikkei Asia",
@@ -78,15 +160,6 @@
       "pub_sort_dt": "2026-08-05 19:08:58"
     },
     {
-      "source": "Reuters",
-      "title_en": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia - Reuters",
-      "title_cn": "独家报道：在帕特尔的领导下，联邦调查局与中国、俄罗斯建立了前所未有的执法关系 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWpCMFNYSzRIWWQzeExhSXl5RFdsYUNSSGZkcnlwblpJMjg3Nno4c0Y0UlNabThLdy1EbzdySG1pNTdUcVBxRWJHX2RxT251Vnk2aGhoYkM2dW8xdHpCVV8wamt5WW93NnJ6LWpHdkRhVWNPRzZlUmZFV3paQ29YSG5MRndac0V6ZlZwOVNpcDhWT1RROHl6NzBRTVlCVHhOdWxIcG9iT2l4ekdhbWxtRGlvbXIwVG1FOEx3bnpXekI?oc=5",
-      "summary": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia&nbsp;&nbsp;Reuters",
-      "pub_raw": "Wed, 05 Aug 2026 10:36:46 GMT",
-      "pub_sort_dt": "2026-08-05 18:36:46"
-    },
-    {
       "source": "Nikkei Asia",
       "title_en": "China hits back at US FCC bans with sanctions and drone curbs - Nikkei Asia",
       "title_cn": "中国通过制裁和无人机限制回击美国联邦通信委员会禁令 - 日经亚洲",
@@ -103,6 +176,42 @@
       "summary": "China announces countermeasures against Washington, including controls on drone exports to the US&nbsp;&nbsp;AP News",
       "pub_raw": "Wed, 05 Aug 2026 10:28:00 GMT",
       "pub_sort_dt": "2026-08-05 18:28:00"
+    },
+    {
+      "source": "New York Times",
+      "title_en": "Disney+ Cracks Open the Door to TikTok Creator Videos - The New York Times",
+      "title_cn": "Disney+ 破解为 TikTok 创作者视频打开大门 - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2VBYjVNQV9ZNFVkNWx1cm5Oa3VMYkVPU3JTMVRUbEd0UF9ZSU43SUxQTWRzZUwzWnd0cWtpT0l5UVZOcHBEMGs0Tl9rbTBEVWFERk16em5IS2V0MVBFUGxtTmhPMkowcHBwT3pxVmZRSzFFRjRfRW1KQTRGOXowYQ?oc=5",
+      "summary": "Disney+ Cracks Open the Door to TikTok Creator Videos&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Wed, 05 Aug 2026 10:00:15 GMT",
+      "pub_sort_dt": "2026-08-05 18:00:15"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "Earendil Hits Regulatory Hurdle as It Seeks Hong Kong IPO - WSJ",
+      "title_cn": "Earendil 寻求香港 IPO 时遇到监管障碍 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWJEdmlIVUhFVnJrQVo0Ym1XX2Q0dXBrQ3EzWmRCS1JNOEhidmZ1R2g4dW13dHpiVU13WEJhVkd2eDFfTWRBSXdkdThvVHl4eGRVdXZGOWZqcmhBZjl0SjA1S09kQ0VBVzZST1p3dWVWVzI0N2tmUkRTNjNpSEhCbUp5VzFLVDFqMjNoZEpHTnI2V1l1VTF3OVdjWWhTeXZ2?oc=5",
+      "summary": "Earendil Hits Regulatory Hurdle as It Seeks Hong Kong IPO&nbsp;&nbsp;WSJ",
+      "pub_raw": "Wed, 05 Aug 2026 09:50:00 GMT",
+      "pub_sort_dt": "2026-08-05 17:50:00"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "INTCO Medical Recognized in S&P Global Sustainability Yearbook (China Edition) 2025 for ESG Progress - Financial Times",
+      "title_cn": "英科医疗因 ESG 进展获《2025 年标准普尔全球可持续发展年鉴（中国版）》认可 - 英国《金融时报》",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGg5dzJtb1d6MXZZRDBaQjJwc0tiS1FjbF9lZy1KODR4aWZjWkpoZXBQazFMNl9EYVAxRUhqZGhyNjRVY3ZrSzliS2VweHJBV094OHNMU19wVWY4eHlPdDIza3RlZDhCQU0tZmJtZjNhRENkaENkTEN4UVdISE9fZVo5SWV2WnhUVDhSMFBYTWktS3BCVlc2SA?oc=5",
+      "summary": "INTCO Medical Recognized in S&P Global Sustainability Yearbook (China Edition) 2025 for ESG Progress&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Wed, 05 Aug 2026 09:36:00 GMT",
+      "pub_sort_dt": "2026-08-05 17:36:00"
+    },
+    {
+      "source": "AFP",
+      "title_en": "Taiwan begins military drills as China pressure grows - www-pp.afp.com",
+      "title_cn": "随着中国压力加大，台湾开始军事演习 - www-pp.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52a1hGdlctdms3TXBmLWNQQlhZQ0dqVG5wZXRhRG83NHRtUml3RjhSOHJNa2R3cTU5bHBuN1Z1YU9lOVR1Y3NjS1ZUNFRTa00?oc=5",
+      "summary": "Taiwan begins military drills as China pressure grows&nbsp;&nbsp;www-pp.afp.com",
+      "pub_raw": "Wed, 05 Aug 2026 09:31:42 GMT",
+      "pub_sort_dt": "2026-08-05 17:31:42"
     },
     {
       "source": "CNN",
@@ -133,19 +242,19 @@
     },
     {
       "source": "New York Times",
-      "title_en": "The Tibetan Who Set Himself on Fire in Manhattan - The New York Times",
-      "title_cn": "曼哈顿自焚藏人 - 纽约时报中文网",
+      "title_en": "In Death, a Tibetan Activist Finally Got the World’s Attention - The New York Times",
+      "title_cn": "西藏活动人士之死终于引起世界关注 - 纽约时报中文网",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVWZWZ3VxZUI0WTNUT2pZdERoWEotdjhWMmhWOW5ybkFwaTdlRFdIUExIWWF0Z3loZGUwNXpZZTZOSDFwT21ZVzBwaEhBLWhQdWNSVV92RzRrLUwwdTRPbGk0cW5LMGI5aml4R1FweGlVVFpVTjNiTVB5cGVycUFwb2RwVEJvQ0E2a0xqRVp0VUM3YlQzaXc?oc=5",
-      "summary": "The Tibetan Who Set Himself on Fire in Manhattan&nbsp;&nbsp;The New York Times",
+      "summary": "In Death, a Tibetan Activist Finally Got the World’s Attention&nbsp;&nbsp;The New York Times",
       "pub_raw": "Wed, 05 Aug 2026 09:01:56 GMT",
       "pub_sort_dt": "2026-08-05 17:01:56"
     },
     {
       "source": "CNN",
-      "title_en": "Why US fast food chains are growing in China | CNN Business - CNN",
-      "title_cn": "为什么美国快餐连锁店在中国发展壮大？ CNN 商业 - CNN",
+      "title_en": "Why US fast food chains are growing in China - CNN",
+      "title_cn": "为什么美国快餐连锁店在中国发展壮大 - CNN",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMnFjendVT1lBMjBlUG8zYW55TEY0QURTbHVlcHRvQTd6V0xCQXFCaUZkWGtmYmVhdUpzaTF2Snk5Uy02VXM4aFNhWUxiazVOVU10YWFzOGhyZkpKRHhyYlFkTXpOYWsyMDQxd252eldYWFNLb2JtVDI3QjNQUGI3U2NKMWV5TWJWWmJsVHdJdG9OR1EyMklBdi1tczNRdE91OVg4UHNWdU1jR25FbWR3eG1XR09DQXJhR3c?oc=5",
-      "summary": "Why US fast food chains are growing in China | CNN Business&nbsp;&nbsp;CNN",
+      "summary": "Why US fast food chains are growing in China&nbsp;&nbsp;CNN",
       "pub_raw": "Wed, 05 Aug 2026 08:50:00 GMT",
       "pub_sort_dt": "2026-08-05 16:50:00"
     },
@@ -166,6 +275,24 @@
       "summary": "Hong Kong retail recovery: Fortune REIT occupancy hits post-covid high&nbsp;&nbsp;CNBC",
       "pub_raw": "Wed, 05 Aug 2026 08:12:00 GMT",
       "pub_sort_dt": "2026-08-05 16:12:00"
+    },
+    {
+      "source": "AFP",
+      "title_en": "China - www-pp.afp.com",
+      "title_cn": "中国 - www-pp.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41VzFXSlE2QkJBLUEwdFpKUGN3ODcxN2NUb21qeF9uV1d5OHZINmlROWhVZFVNODhFanAyaUM4ZmhrNkttcVFLcw?oc=5",
+      "summary": "China&nbsp;&nbsp;www-pp.afp.com",
+      "pub_raw": "Wed, 05 Aug 2026 07:58:27 GMT",
+      "pub_sort_dt": "2026-08-05 15:58:27"
+    },
+    {
+      "source": "AFP",
+      "title_en": "Taiwan probes 17 China-funded firms over high-tech talent poaching - www-pp.afp.com",
+      "title_cn": "台湾调查17家中资企业挖角高科技人才 - www-pp.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIUWZFMUk1NWxHdGFLSkhZeUM3eC1Ib25pOTRzVXRaYjFHVWtUSUtkX0lUVE9vb180cnRWczNLd29lS3dXdlVkNHNfa19kNlk?oc=5",
+      "summary": "Taiwan probes 17 China-funded firms over high-tech talent poaching&nbsp;&nbsp;www-pp.afp.com",
+      "pub_raw": "Wed, 05 Aug 2026 07:43:04 GMT",
+      "pub_sort_dt": "2026-08-05 15:43:04"
     },
     {
       "source": "CNBC",
@@ -196,39 +323,30 @@
     },
     {
       "source": "Financial Times",
-      "title_en": "Shares in Chinese AI darlings slide on US ban fears - Financial Times",
-      "title_cn": "因美国禁令担忧，中国人工智能宠儿股价下跌 - 英国《金融时报》",
+      "title_en": "Shares in Chinese AI darlings slide on US ban fears - ft.com",
+      "title_cn": "因美国禁令担忧，中国人工智能宠儿股价下滑 - FT.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMnVPR045R2NMYUhzWDRLZTRIRG0zeS1TY1BYOGhGa0dGRkdxQzdhSnVUQjRDcjhpN3N6NmNXYmVLOTFvZUFidVdqNXJ2OG8xQmRQbWRUZ3ZUVUxneVlONi1Ib0lNcEI2QjlrbEw1NEFrRXlhRnpKLXJIcERYSU1VMVZ4cl8?oc=5",
-      "summary": "Shares in Chinese AI darlings slide on US ban fears&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Wed, 05 Aug 2026 04:18:02 GMT",
-      "pub_sort_dt": "2026-08-05 12:18:02"
+      "summary": "Shares in Chinese AI darlings slide on US ban fears&nbsp;&nbsp;ft.com",
+      "pub_raw": "Wed, 05 Aug 2026 04:15:39 GMT",
+      "pub_sort_dt": "2026-08-05 12:15:39"
     },
     {
       "source": "Financial Times",
-      "title_en": "European carmakers turn to Chinese rivals to fill factory floors - Financial Times",
-      "title_cn": "欧洲汽车制造商转向中国竞争对手来填补工厂车间 - 金融时报",
+      "title_en": "European carmakers turn to Chinese rivals to fill factory floors - ft.com",
+      "title_cn": "欧洲汽车制造商转向中国竞争对手来填补工厂车间 - ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWENMWnN5N1lfMjFtVDlNMTR4cUFPMVhNTENCSnBWdUo1cDhYV1p1NkRwUU9TR1VhQjdUOFFCY3o2S1ZRVnlqTF9aVVRqSlVseXRQRU94ekkwU3R0NkJneEJxQ0wwOUNFLVpyY2tOU24wd3o3Qi1Nb2Q4NmhraWlGR0lUSHg?oc=5",
-      "summary": "European carmakers turn to Chinese rivals to fill factory floors&nbsp;&nbsp;Financial Times",
+      "summary": "European carmakers turn to Chinese rivals to fill factory floors&nbsp;&nbsp;ft.com",
       "pub_raw": "Wed, 05 Aug 2026 04:05:46 GMT",
       "pub_sort_dt": "2026-08-05 12:05:46"
     },
     {
       "source": "Financial Times",
-      "title_en": "China launches global tax hunt going back decades - Financial Times",
-      "title_cn": "中国发起数十年前的全球征税行动 - 英国《金融时报》",
+      "title_en": "China launches global tax hunt going back decades - ft.com",
+      "title_cn": "中国发起数十年前的全球征税行动 - FT.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYUgtMFBqdTdOR0lsNWVLOFhVU2E0V0FWeG9NVmRUUW11dG81VHVfVjVLUm5naGZmVVRUb3NxM1Q5ZFBOLXdIS2t0OXVlb05iS1IzOUUxUkZiZDk2OUZPbnB6YmEyOUxXVkZfdXZGemFJcS04VURQU1Zkd3hzTFdWRktNSFU?oc=5",
-      "summary": "China launches global tax hunt going back decades&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Wed, 05 Aug 2026 04:03:21 GMT",
-      "pub_sort_dt": "2026-08-05 12:03:21"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "China courts global investors with bond market tweaks - Financial Times",
-      "title_cn": "中国通过债券市场调整吸引全球投资者 - 英国《金融时报》",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3pUcUFkOWRibzlxS2swRWhkX1dnRm9yLUhXMUtNNndVc2J3RHgzcDRTQ2V1XzB5akNCNjZRU1Zvc2Vaa3czTGN6Z3VOODN4UkUxdnhLTFRCb0psMmdBNE1wZ2NaLTJFQlQzaU1odXVKdDBiNmlndUlPQmhLdVpndjcwX00?oc=5",
-      "summary": "China courts global investors with bond market tweaks&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Wed, 05 Aug 2026 04:00:11 GMT",
-      "pub_sort_dt": "2026-08-05 12:00:11"
+      "summary": "China launches global tax hunt going back decades&nbsp;&nbsp;ft.com",
+      "pub_raw": "Wed, 05 Aug 2026 04:00:22 GMT",
+      "pub_sort_dt": "2026-08-05 12:00:22"
     },
     {
       "source": "New York Times",
@@ -301,42 +419,6 @@
       "summary": "Taiwanese war games begin&nbsp;&nbsp;The Economist",
       "pub_raw": "Wed, 05 Aug 2026 00:00:00 GMT",
       "pub_sort_dt": "2026-08-05 08:00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Chinese Telecom Hack Exposed Data Centers, House Report to Say - Bloomberg.com",
-      "title_cn": "众议院报告称中国电信数据中心遭黑客攻击 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTEQ5Umx5WFBxYVR5cHJCaEgweGhFQkNHX2RrbGJtcnJJZ3l4RVROYjZHZHhSbU4tLWVYMFBkVmR4MXhEOUhLUHItb3I0SUhBYTJ3bEtSZ0ttUkZsdDBnNWs3UkNUZ2xZVWdFTko0UFBXa1hBZTl5R0JKVFJneGs5NjVjWXpmNlgxZHkxNXJETHlhWllxYXVkMDBtYkFaVWVENUZnNXlaMjlNLUVzZVdiYmhB?oc=5",
-      "summary": "Chinese Telecom Hack Exposed Data Centers, House Report to Say&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Tue, 04 Aug 2026 23:06:51 GMT",
-      "pub_sort_dt": "2026-08-05 07:06:51"
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Japan-China tensions - Nikkei Asia",
-      "title_cn": "日中紧张局势 - 日经亚洲",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ29lUjkxYWdCQjBsYjQtazJ5WlRxdEgxN1g5MFBoS0Z0R18tYlFMZ3A0cDJudXk1VVNTWUQyMTJxOFgzOU5aRGVmeHNTMUM4QWtaV3FiSVBIakJLTUlkVVk5Z1F0Z1hwRGtzT28xcXBpT24yRkxzdnNKVzRwM2ozYXJkUQ?oc=5",
-      "summary": "Japan-China tensions&nbsp;&nbsp;Nikkei Asia",
-      "pub_raw": "Tue, 04 Aug 2026 22:33:24 GMT",
-      "pub_sort_dt": "2026-08-05 06:33:24"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "US cannot ‘stay isolated’ from Chinese EV competition, warns Lucid CEO - Financial Times",
-      "title_cn": "Lucid首席执行官警告称，美国不能“孤立”于中国电动汽车竞争 - 金融时报",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjYyOENqUURFMXJLN0R6SzlTajBqSVdlQ19mSDRVU2JvVHdZZnVlb0Etam1wdDZPbUp2R1BUMFBqb1QwZkNrdTZ4ektDMlNEd3pFV0o5TURQaVVlWWJReEZGUUhBV3NEbVBtWjU1NkJFTEVhRTJvdjEzMWw3Mk1rTGFKWjc?oc=5",
-      "summary": "US cannot ‘stay isolated’ from Chinese EV competition, warns Lucid CEO&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Tue, 04 Aug 2026 20:10:49 GMT",
-      "pub_sort_dt": "2026-08-05 04:10:49"
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Optical names up on China ban report - CNBC",
-      "title_cn": "中国禁令报告中提及光学器件 - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0hYVS1ZcHB3a0ZaaXFJRkxIREgzUlY5cnZ3em9OaUt4bGFBc3luWnktUzl5dWhGQXZkZHJoRkwtUVM3WmJ0akJHZnYwbW9kZlIycWhGczJTYzMwUmE1ZWFTT1lkeUIzblJ3aFl1a3FXaElTYmRNeTBObkNWdDRmNEt3NHVzQQ?oc=5",
-      "summary": "Optical names up on China ban report&nbsp;&nbsp;CNBC",
-      "pub_raw": "Tue, 04 Aug 2026 16:30:00 GMT",
-      "pub_sort_dt": "2026-08-05 00:30:00"
     }
   ]
 }
