@@ -1,18 +1,74 @@
 {
-  "update_cst": "2026-08-05 08:55:55 北京时间",
-  "total_count": 41,
+  "update_cst": "2026-08-05 11:43:28 北京时间",
+  "total_count": 47,
   "source_stat": {
     "Reuters": 10,
     "Bloomberg": 10,
+    "AP": 3,
     "Nikkei Asia": 3,
     "Financial Times": 6,
-    "Wall Street Journal": 4,
-    "CNBC": 5,
+    "Wall Street Journal": 5,
+    "CNBC": 6,
+    "New York Times": 1,
     "CNN": 1,
     "AFP": 1,
     "The Economist": 1
   },
   "news": [
+    {
+      "source": "Reuters",
+      "title_en": "EXCLUSIVE: Samsung, SK Hynix test Chinese chip tools as hedge against US risks - Reuters",
+      "title_cn": "独家：三星、SK海力士测试中国芯片工具以对冲美国风险 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeU9NVTFKTDhzZ3Rxa3dWbk9vSktaSE5xd3p3TG5KTlpNRFpLY0IyNEZuRzVTWFV0LWx0LURCdkRvcjdCVE9pU3lGSktXampPUUtZWExRSlNLZ0pzU2thX2pXQWRDLVBUd2JYRGh5RGplLWdsb0tOek8zdXk5elBiZlZwbTd2X0dDSU5hWFRKWHBLZkUteDBSR2VndEpxREMwYTUzY1pJcllRSUZPci1vOQ?oc=5",
+      "summary": "EXCLUSIVE: Samsung, SK Hynix test Chinese chip tools as hedge against US risks&nbsp;&nbsp;Reuters",
+      "pub_raw": "Wed, 05 Aug 2026 02:02:00 GMT",
+      "pub_sort_dt": "2026-08-05 02:02:00 UTC"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - Reuters",
+      "title_cn": "美国计划禁止进口中国零部件的消息传出后，中国人工智能硬件股暴跌 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1dRTlJ3dWthcTVkQnd1NFVJTFZSeHV4TXNiZlZOaVlNa1lSNFVnQWZxZkxEQkV2NGZ3YV8wZ21mbjhRYUg3Z05nci1Ua3o1M0FyTGxIT0VLXzhYUlFpajhQVEEwYmFuZnhZNjZPdjdPcFh2elVnNlFvdVZjYlVTNWU5M21VempmYUVMSzNNMURjeEtwcFFUa2NvY2MwYVE1M0k2RDVpTFR1V0VGUVBBNHNaRkQ3UzlhX2FMUDJFNXpOX1RVU2ZZRQ?oc=5",
+      "summary": "China AI hardware stocks slump after news US plans to ban imports of Chinese components&nbsp;&nbsp;Reuters",
+      "pub_raw": "Wed, 05 Aug 2026 01:42:00 GMT",
+      "pub_sort_dt": "2026-08-05 01:42:00 UTC"
+    },
+    {
+      "source": "AP",
+      "title_en": "Some Tibetans embrace native language despite China’s ‘ethnic unity’ law - AP News",
+      "title_cn": "尽管中国有“民族团结”法，一些藏人仍接受母语 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeW5yMGNqcS03RkRKYS1OV1BkSDdOUExpZWtNMzhBTjRzbGxaNmVUb19nY1BOSjkySUdINkZxd1RQNTh3cE5jRk9UUGhUWE9Ic2RvdlpJeTRPSVUzM0NDYXZBQy1jcHdzSzdmSTFmb0twSGc2VUhiRm44Zl9HMmYzdzJ6TjlZemxQbG9rdkFRMmRwLWxtNUpBRVJ6Qy1tTFZ4WHRKVFNoc1NYTm1mWG43OXI3MkJSR3VZdlZhenZrSlduUjI0UkE?oc=5",
+      "summary": "Some Tibetans embrace native language despite China’s ‘ethnic unity’ law&nbsp;&nbsp;AP News",
+      "pub_raw": "Wed, 05 Aug 2026 01:04:15 GMT",
+      "pub_sort_dt": "2026-08-05 01:04:15 UTC"
+    },
+    {
+      "source": "AP",
+      "title_en": "In Tibet, some embrace their native language even under China's sweeping new 'ethnic unity' law - AP News",
+      "title_cn": "在西藏，即使在中国全面实施新的“民族团结”法的情况下，一些人仍然拥抱自己的母语 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQME54OGkzWlRiNS1EWDlhZFZEU1RRX2k4YU5FSWI1M3hkTGk0dmUtY1pjRFEzb0V1UjdCS1dORWlOajJIQTNJYl94bnA0SndFa1hjclFIbGVzRWgtdzdOYnI5V21EZUVtS3hHZk1NMUl3M1RwV3pSdDNvTWtJYjI4czB3SFp1SG5Ga2U0VnhZVmZnNDQ1emh6djZvSzJ0cGVZ?oc=5",
+      "summary": "In Tibet, some embrace their native language even under China's sweeping new 'ethnic unity' law&nbsp;&nbsp;AP News",
+      "pub_raw": "Wed, 05 Aug 2026 01:04:00 GMT",
+      "pub_sort_dt": "2026-08-05 01:04:00 UTC"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "The Race to Build an American Alternative to Cheap AI From China - WSJ",
+      "title_cn": "打造美国替代品以取代中国廉价人工智能的竞赛 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw?oc=5",
+      "summary": "The Race to Build an American Alternative to Cheap AI From China&nbsp;&nbsp;WSJ",
+      "pub_raw": "Wed, 05 Aug 2026 01:01:14 GMT",
+      "pub_sort_dt": "2026-08-05 01:01:14 UTC"
+    },
+    {
+      "source": "CNBC",
+      "title_en": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts - cnbc.com",
+      "title_cn": "北京突然对离岸信托征税，中国超级富豪“震惊”并寻找现金 - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWNoMWFEVkVpeTUtUWFGU2w1UnhvSFVIdXF6Z3RGUWF6X3BQdkZKSkNidmtRcUxjc3pZcG84NlRIZ21tOXBTRUFmc2lTV0V2SENOaHFjZ0UzcTVfYU5CLTd5aTNYRWJpZUx3Ni13NjF3SG12QVpTVmVneF9XVmZfODBkdnpxVjFHNF9jS2pBNExqeGk0VHlGMmg0QkVvNTNPcTg2S0tPRmt1WDDSAbABQVVfeXFMUDhMb09nY21zS1Zsdk1OMmtxRFFHVjJEeGRvYUFCRXBCWG9yV2lTN1JxanBCVk5BWDYzRWtkZ2l2MTV6alE1YklXSHVjeWZDeWQ5M1VXeFJZbnI5QnFKcm5zaUpROTc0MW9YekdUd1RnVzJ1b3BfUHN0R1hlbTFiNTlRT0ZYcS1OUUE0eXpxYmVqLTdYRUQwcUlBSHRHTXAwTm9OUFZWWGVQR3pPdmNIMF8?oc=5",
+      "summary": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts&nbsp;&nbsp;cnbc.com",
+      "pub_raw": "Wed, 05 Aug 2026 00:32:00 GMT",
+      "pub_sort_dt": "2026-08-05 00:32:00 UTC"
+    },
     {
       "source": "Nikkei Asia",
       "title_en": "Bain Capital to buy Taiwan-originated Gong Cha chain for over $635m - Nikkei Asia",
@@ -21,6 +77,33 @@
       "summary": "Bain Capital to buy Taiwan-originated Gong Cha chain for over $635m&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Wed, 05 Aug 2026 00:26:00 GMT",
       "pub_sort_dt": "2026-08-05 00:26:00 UTC"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "China’s Open-Weight Models Will Be Spared US Safety Tests - Bloomberg.com",
+      "title_cn": "中国的开放式重量模型将免于美国安全测试 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVcxV0tmQ0xNb3ZuUmtYX1FKQVhVczBFcHc2UEYteXRjN3k2a3FVQkNkZ0JHT1ROU0tvZVN4THBGZUZJRUpfb3ZXXzltanNJVHpUZVF2UG9Bb010N2d5ZXdGT3cxZHNDX1BPX3ZuMURUQ1BXVkZScWZuLXZLNjl6U0lhNlIxTURRZnN5T19YblVyYjNUSFJBWXR3U2swUEFBb0xWZ1B2R2Z1OEIzbURrMFlPbw?oc=5",
+      "summary": "China’s Open-Weight Models Will Be Spared US Safety Tests&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Wed, 05 Aug 2026 00:11:00 GMT",
+      "pub_sort_dt": "2026-08-05 00:11:00 UTC"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "China’s Quant Curbs Sap Volatility and Turnover: Equity Insight - Bloomberg.com",
+      "title_cn": "中国的量化投资抑制了波动性和成交量：股票洞察 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGF1NHlWR184eDR3V2VON0U3TjRHc0JCdl9kYkplTWdFbXBpX3Nzd0M3azZQS1RsQ0VYZ3UtdGVCV2hLZlFyRlhZeUgxdTRCcjVJcTJrZEpfcWxtVVFyOHdaR3VLenpUOVp5SUZjRnRVY2prRERQbVFwNHhxUmVSeS1wSEJ0b25XbEFpU3JkRVVtMjh0YWJWdHpBbzFERnMzbkYxMlUzU0UzSEl1OFZpWUdaYw?oc=5",
+      "summary": "China’s Quant Curbs Sap Volatility and Turnover: Equity Insight&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Wed, 05 Aug 2026 00:10:00 GMT",
+      "pub_sort_dt": "2026-08-05 00:10:00 UTC"
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "Japan-China tensions - Nikkei Asia",
+      "title_cn": "日中紧张局势 - 日经亚洲",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ29lUjkxYWdCQjBsYjQtazJ5WlRxdEgxN1g5MFBoS0Z0R18tYlFMZ3A0cDJudXk1VVNTWUQyMTJxOFgzOU5aRGVmeHNTMUM4QWtaV3FiSVBIakJLTUlkVVk5Z1F0Z1hwRGtzT28xcXBpT24yRkxzdnNKVzRwM2ozYXJkUQ?oc=5",
+      "summary": "Japan-China tensions&nbsp;&nbsp;Nikkei Asia",
+      "pub_raw": "Tue, 04 Aug 2026 22:33:24 GMT",
+      "pub_sort_dt": "2026-08-04 22:33:24 UTC"
     },
     {
       "source": "Reuters",
@@ -32,6 +115,15 @@
       "pub_sort_dt": "2026-08-04 22:07:29 UTC"
     },
     {
+      "source": "AP",
+      "title_en": "China - AP News",
+      "title_cn": "中国 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE14cmpvQUJHVjlsSjVVdzJUM0J1eXhnTU1ZLVRkS1IzOGRsOGRwaG5ER2ZITExjOTJ2MjI3Qk94V3J5QQ?oc=5",
+      "summary": "China&nbsp;&nbsp;AP News",
+      "pub_raw": "Tue, 04 Aug 2026 20:36:05 GMT",
+      "pub_sort_dt": "2026-08-04 20:36:05 UTC"
+    },
+    {
       "source": "Financial Times",
       "title_en": "US cannot ‘stay isolated’ from Chinese EV competition, warns Lucid CEO - Financial Times",
       "title_cn": "Lucid首席执行官警告称，美国不能“孤立”于中国电动汽车竞争 - 金融时报",
@@ -41,11 +133,20 @@
       "pub_sort_dt": "2026-08-04 20:10:49 UTC"
     },
     {
+      "source": "Bloomberg",
+      "title_en": "Data Centers Exposed US Carriers to China Hack, House Panel Says - Bloomberg.com",
+      "title_cn": "众议院小组称数据中心使美国运营商面临中国黑客攻击 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTEQ5Umx5WFBxYVR5cHJCaEgweGhFQkNHX2RrbGJtcnJJZ3l4RVROYjZHZHhSbU4tLWVYMFBkVmR4MXhEOUhLUHItb3I0SUhBYTJ3bEtSZ0ttUkZsdDBnNWs3UkNUZ2xZVWdFTko0UFBXa1hBZTl5R0JKVFJneGs5NjVjWXpmNlgxZHkxNXJETHlhWllxYXVkMDBtYkFaVWVENUZnNXlaMjlNLUVzZVdiYmhB?oc=5",
+      "summary": "Data Centers Exposed US Carriers to China Hack, House Panel Says&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Tue, 04 Aug 2026 19:22:51 GMT",
+      "pub_sort_dt": "2026-08-04 19:22:51 UTC"
+    },
+    {
       "source": "CNBC",
-      "title_en": "Optical names up on China ban report - CNBC",
-      "title_cn": "中国禁令报告中提及光学器件 - CNBC",
+      "title_en": "Optical names up on China ban report - cnbc.com",
+      "title_cn": "中国禁令报告中列出了光学公司的名字 - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0hYVS1ZcHB3a0ZaaXFJRkxIREgzUlY5cnZ3em9OaUt4bGFBc3luWnktUzl5dWhGQXZkZHJoRkwtUVM3WmJ0akJHZnYwbW9kZlIycWhGczJTYzMwUmE1ZWFTT1lkeUIzblJ3aFl1a3FXaElTYmRNeTBObkNWdDRmNEt3NHVzQQ?oc=5",
-      "summary": "Optical names up on China ban report&nbsp;&nbsp;CNBC",
+      "summary": "Optical names up on China ban report&nbsp;&nbsp;cnbc.com",
       "pub_raw": "Tue, 04 Aug 2026 16:30:45 GMT",
       "pub_sort_dt": "2026-08-04 16:30:45 UTC"
     },
@@ -57,15 +158,6 @@
       "summary": "Abercrombie Is Said to Seek Fresh Backers for China Business&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Tue, 04 Aug 2026 16:06:20 GMT",
       "pub_sort_dt": "2026-08-04 16:06:20 UTC"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "EXCLUSIVE: Shein targets $30 billion to $40 billion Hong Kong IPO valuation this month, sources say - Reuters",
-      "title_cn": "独家报道：消息人士称，Shein 本月香港 IPO 估值目标为 300 亿至 400 亿美元 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3NieXJtWmw4S21GUWJYMHAycnA0RmZaeWJKMnVCT19OUDdGQkNLZnVwRDQ0Ukc2cDZCV0FBczAzQlBsbnFUVFhqV2dSb3I2VVpnT0ZFMXRnbGpvSEdNMWxtS1BVeHJuNUV0X1JkX1F6UGpWQW9fQkptZzRiY3hkWWRIMXNUTHFGa3hQQ3VxVk53djFFUEJxdzR1V2NHZXVTODZvRDlnekQzUU56WmlsZUxMdTZiSHQtWE1yTmcxOHhtdw?oc=5",
-      "summary": "EXCLUSIVE: Shein targets $30 billion to $40 billion Hong Kong IPO valuation this month, sources say&nbsp;&nbsp;Reuters",
-      "pub_raw": "Tue, 04 Aug 2026 15:51:36 GMT",
-      "pub_sort_dt": "2026-08-04 15:51:36 UTC"
     },
     {
       "source": "Reuters",
@@ -87,48 +179,30 @@
     },
     {
       "source": "CNBC",
-      "title_en": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves - CNBC",
-      "title_cn": "“Baby iPhone”和苹果供应商泄密事件如何解释中国最近的供应链动向 - CNBC",
+      "title_en": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves - cnbc.com",
+      "title_cn": "“婴儿iPhone”和苹果供应商泄密事件如何解释中国最近的供应链动向 - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MZnduc3hSRWxBQU5SakxMVVBGNFpaV3BUNjFhQ1hJZlpNRi1ibHZOeHpESjROc1JzRGIzTkw2OTUyVVpkSVg4WGo2NVlSM1d3TWlMSnV6N1E5VzFyRzNJX2NjN3pFYm9ucVhsTThlN3VFQVpXanlsNlFwNNIBgAFBVV95cUxNWmEzVF9hMlJCYUFDT3MwWk5VTm9zd3RDekZZQ3ZEQXVweUFueE5TMEdqZFhxZkNQdmVQeGl0VTVXLWJCMVhJSmVTREY1Vk9FMms5VlBTMGdLd1VOd1d0R3IwZE5hbzczQVN1ZmpOeGtwR2JVREhYM0FEcmh5OEVFQw?oc=5",
-      "summary": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves&nbsp;&nbsp;CNBC",
+      "summary": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves&nbsp;&nbsp;cnbc.com",
       "pub_raw": "Tue, 04 Aug 2026 14:35:06 GMT",
       "pub_sort_dt": "2026-08-04 14:35:06 UTC"
     },
     {
       "source": "CNBC",
-      "title_en": "China's swagger after India's iPhone 18 leak - CNBC",
-      "title_cn": "印度 iPhone 18 泄露后，中国表现得神气十足 - CNBC",
+      "title_en": "China's swagger after India's iPhone 18 leak - cnbc.com",
+      "title_cn": "印度 iPhone 18 泄露后，中国大张旗鼓 - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDNtYzJ2VWtMeW9yUDJyRkJNSDVLcjFBcVJCTlVtZFduWXU0cDZYc1B2SEw5U1FvTHY1MFZ6bTZSTWE0eFNRLUtxSk5KRUFfSU5qYjJ4S0l0MXMxcGlmR216dDM4Vm1VaUtrUnozRm9yVHhMUU5qSUs3ZS1HWkdMeG5GMzVVT3VVZ1B6c2tR?oc=5",
-      "summary": "China's swagger after India's iPhone 18 leak&nbsp;&nbsp;CNBC",
+      "summary": "China's swagger after India's iPhone 18 leak&nbsp;&nbsp;cnbc.com",
       "pub_raw": "Tue, 04 Aug 2026 14:35:00 GMT",
       "pub_sort_dt": "2026-08-04 14:35:00 UTC"
     },
     {
-      "source": "Reuters",
-      "title_en": "Kimberly-Clark cuts annual forecasts as China quality claims hurt diaper sales - Reuters",
-      "title_cn": "由于中国质量声明影响尿布销售，金佰利下调年度预测 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWnN5eGdfSHJfR1JqbGtSMHVVaWppSmNsd3haNjFEdFB3TWhWa1R4cGd5NGE4NjNOaHR3WFd0akxkR18wbEhnT0RlVWxMZ0pIVmFrMTBzM3VUMmpnZ2U1d3ozN3lYRTY3enNpb1ZBeTQ4cDFaYnViVjU2RmtrWFNHSW0tWDR1WXREZEpUejd2RURRQXVyYUZRamdDVWJ3UC1OMk9vTktHWVhGR3Y2dGRJY0c0TGdjSW84MTliYnRnY3IyUnB4YVpWOHZOOHYyMXpaejBZY0huWnR2OVktclE?oc=5",
-      "summary": "Kimberly-Clark cuts annual forecasts as China quality claims hurt diaper sales&nbsp;&nbsp;Reuters",
-      "pub_raw": "Tue, 04 Aug 2026 14:27:02 GMT",
-      "pub_sort_dt": "2026-08-04 14:27:02 UTC"
-    },
-    {
       "source": "Bloomberg",
       "title_en": "Japan Defense Report Warns On China, Russia, NK Military Links - Bloomberg.com",
-      "title_cn": "日本防务报告对中国、俄罗斯和朝鲜的军事联系发出警告 - Bloomberg.com",
+      "title_cn": "日本防务报告警告中国、俄罗斯和朝鲜的军事联系 - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXNjaW9CalN3eV9abFY3XzQtY0w0VXgwN3hHNi1OZXAwTlkxM0dGV2J5eXA4aTNXS3hZdlR0aFpzLTdTQWUxNnJseURKbzk5cE9GUDgzT0c4dzFDX2Vhb1BKbUpEenpEaUxlMjNNUXVkbW5RdTlDRUUxWEIwQllTYUoyRUYyMVRKMW1jRXZMZGNOOXBIMS04bWRTZnQ2QTFXeDVTMXlNVmg1RW9KWW1HWg?oc=5",
       "summary": "Japan Defense Report Warns On China, Russia, NK Military Links&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Tue, 04 Aug 2026 13:53:52 GMT",
       "pub_sort_dt": "2026-08-04 13:53:52 UTC"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say - Reuters",
-      "title_cn": "独家：消息人士称，特朗普政府正在起草针对中国数据中心设备的禁令 - 路透",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZEFjZDdmMzAxM2tTaHIwTWpFMHVCUldHdGs3Y3hTejI2ajRQeTVWUFU4RThDRGlIUmhXM0duczgySG5xUExONFhPMmtZR2liTVVJR19JcVhBYndwTjBURk1qM0lvOU1sTnlGYVd3VUxLQTJBQklmZjlsSmdUd0p1bVpGRElVSlp5NHl3YTBnSmhrMUpfSl9ld0NmLVhDdTF0MXg1enZIcXE0aEpFQTJDRWxYUUdRdw?oc=5",
-      "summary": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say&nbsp;&nbsp;Reuters",
-      "pub_raw": "Tue, 04 Aug 2026 13:53:44 GMT",
-      "pub_sort_dt": "2026-08-04 13:53:44 UTC"
     },
     {
       "source": "Wall Street Journal",
@@ -147,6 +221,15 @@
       "summary": "Sands China as World's First Integrated Tourism and Leisure Enterprise to Achieve ISO 14001:2026 Certification for Environmental Management – Company Announcement - FT.com&nbsp;&nbsp;Financial Times",
       "pub_raw": "Tue, 04 Aug 2026 12:40:00 GMT",
       "pub_sort_dt": "2026-08-04 12:40:00 UTC"
+    },
+    {
+      "source": "New York Times",
+      "title_en": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises - The New York Times",
+      "title_cn": "安迪·伯纳姆就任英国首相的第一周：TikTok、播客和承诺 - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWV3NWc4N0NIWlFmTkZxNmZMV09IOXdHRE9qSGtaVGRrOHFtWk9QTHdHdjNxekdIOFVBMHlYUDFMcWtnc1dFODhCOFJnUHdIS0xER2xtVzFzTGRJRXRseFUzQ2EwN0xWMDNyb0ZKVng5cWt2ZVJZdmZoT2xySDFGY05sUUQ2VlFjTVlF?oc=5",
+      "summary": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Tue, 04 Aug 2026 12:06:43 GMT",
+      "pub_sort_dt": "2026-08-04 12:06:43 UTC"
     },
     {
       "source": "Reuters",
@@ -169,7 +252,7 @@
     {
       "source": "Wall Street Journal",
       "title_en": "Huggies Stumble in China After Social-Media Firestorm - WSJ",
-      "title_cn": "社交媒体风波过后，好奇公司在中国陷入困境 - 华尔街日报",
+      "title_cn": "社交媒体风暴过后，好奇公司在中国陷入困境 - 华尔街日报",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaEZtdWEzYVFaVi1PNHVMNnFKUDM1bVBJLXI5LWJnM2doU1JwOC1EbjRBU29rbjlJVGxDSWE3Zm9DTjdReFBOeUNsa2hOZEdDMHFqRndiaUE5dHh6c0tQbTVMbkxYa2c2TXJTei1VQzA5UTJHLW45WWFKNEktNldBbWg0TS03Qjg4VGY0YkkxVWFyeUk?oc=5",
       "summary": "Huggies Stumble in China After Social-Media Firestorm&nbsp;&nbsp;WSJ",
       "pub_raw": "Tue, 04 Aug 2026 11:44:00 GMT",
@@ -204,12 +287,30 @@
     },
     {
       "source": "Bloomberg",
+      "title_en": "South Africa Wins Chinese Backing for Power-Expansion Plans - Bloomberg.com",
+      "title_cn": "南非电力扩张计划赢得中国支持 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXJVaGc4VDRLaGVxbnZnckItX0NBNDRoMDYza2M0YmhsMFY5OGhDRksyMkxjTi03UUx5Y3pNcFRkdWtJenAxNFFJYTdsd0dyY2JxV1pGTDN0MnZtbHZxYjEwLUowZ2lkeDZkS1M4U0lTT3BiNGZVOXJSZ3Y1ZWFQN1NkUGhQZjNmcVlHS2g2dEVlWFJWV3U5dFAxb0N3WkIyR1FoVnBIX2VhYUtqQkgw?oc=5",
+      "summary": "South Africa Wins Chinese Backing for Power-Expansion Plans&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Tue, 04 Aug 2026 10:43:10 GMT",
+      "pub_sort_dt": "2026-08-04 10:43:10 UTC"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "Kimberly-Clark Earnings: Outlook Trimmed on Depot Fire, China Quality Claims - Bloomberg.com",
       "title_cn": "金佰利 (Kimberly-Clark) 盈利：因仓库火灾和中国质量索赔而下调前景 - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFVoaFdMN01jNHdsYmxndHU5dFRQMU5BMVprdHJuNm5PRXphc0g0NktVY2Y5bVJMVzI2alNhM1Qxb1NDM0J3X3pMeXhDVldOWHp2b3Z5bWdFQ2xhd2ZxLW9fb0hqNzlQYTVpSFB0ZkU0TzFqQU5oZ0c2TjF4dzN0UjZuNnIydDhaVkRDTW1qXzlLZ1drcDFCZnVZbEtWRGdNbHZDaFg2RFNsVksyRzZmNF84ekc?oc=5",
       "summary": "Kimberly-Clark Earnings: Outlook Trimmed on Depot Fire, China Quality Claims&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Tue, 04 Aug 2026 10:30:00 GMT",
       "pub_sort_dt": "2026-08-04 10:30:00 UTC"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say - Reuters",
+      "title_cn": "独家：消息人士称，特朗普政府正在起草针对中国数据中心设备的禁令 - 路透",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZEFjZDdmMzAxM2tTaHIwTWpFMHVCUldHdGs3Y3hTejI2ajRQeTVWUFU4RThDRGlIUmhXM0duczgySG5xUExONFhPMmtZR2liTVVJR19JcVhBYndwTjBURk1qM0lvOU1sTnlGYVd3VUxLQTJBQklmZjlsSmdUd0p1bVpGRElVSlp5NHl3YTBnSmhrMUpfSl9ld0NmLVhDdTF0MXg1enZIcXE0aEpFQTJDRWxYUUdRdw?oc=5",
+      "summary": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say&nbsp;&nbsp;Reuters",
+      "pub_raw": "Tue, 04 Aug 2026 10:06:00 GMT",
+      "pub_sort_dt": "2026-08-04 10:06:00 UTC"
     },
     {
       "source": "Financial Times",
@@ -231,15 +332,6 @@
     },
     {
       "source": "Reuters",
-      "title_en": "China dismisses Philippine education concerns as 'political provocation' - Reuters",
-      "title_cn": "中国驳斥菲律宾教育问题，称其为“政治挑衅” - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnk0dXJNb0NDLV9IbWtKWHEzUmZoUW1OWm5UWlpsbzJLTXR4X1V2aTREN1F2UkFKR0lIRHI1MmFEeEU5cm9OMlVPY0hRb3h2WXktZzAyWnlZYUQ0WmFUWUV5cGZmTFB0VXZyU1dXNnVIYkVweHBfNlNUaXpENEU2ZGtjeWdOZkNmR05QXzFEQXdqTjlrWkdjLWh6WnVXZWdhWUNmTnNoRzVKYkNjbGtTVVZWVkR5dw?oc=5",
-      "summary": "China dismisses Philippine education concerns as 'political provocation'&nbsp;&nbsp;Reuters",
-      "pub_raw": "Tue, 04 Aug 2026 08:43:25 GMT",
-      "pub_sort_dt": "2026-08-04 08:43:25 UTC"
-    },
-    {
-      "source": "Reuters",
       "title_en": "Prestige beauty outpaces high-end bags as China's luxury spending evolves - Reuters",
       "title_cn": "随着中国奢侈品消费的发展，名牌美容品超越高端包袋 - 路透中文网",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRVZRdTNOTzRfYVlvOTdBM3I5WDJSNndyTk44TkMtaTVOR0t3cVpraHE2SEMtYnNmeU91WnAyWlRSZUl6dXB0Yk8xa291WGg4RU9GUGQ0aEc4VHhGMkNNdzRJLVY2NHU2dG5lOXdtRGtieXRJODFNVHRxRndDcm5BUTZaNV91NVJvc1NpOUZOOEZLRDZCblJjSXhYY212NmxIZGhkNmdRVlZXQ2RCQWNwLVRPaHR3cTJoTUxXWVRwcHp2cDFJM0JjNEtR?oc=5",
@@ -258,10 +350,10 @@
     },
     {
       "source": "CNBC",
-      "title_en": "Luxury vs mass market: Julius Baer's take on understanding the U.S.-China AI race - CNBC",
-      "title_cn": "奢侈品市场与大众市场：瑞士宝盛对中美人工智能竞赛的看法 - CNBC",
+      "title_en": "Luxury vs mass market: Julius Baer's take on understanding the U.S.-China AI race - cnbc.com",
+      "title_cn": "奢侈品市场与大众市场：瑞士宝盛对中美人工智能竞赛的看法 - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVW1wSzd6cGpIRHRoVHV3dDZHbnB2LWxYWWxSSUhMNk5QNmRJdG9xbjlBMWNkUUJxV2tTN3hoNGtHLS14ekJiQ1FycFhNWXVDVWVNS0YwdTQ0SzFBLTNxbDNQdEQ5T2RyRUlmR1M0djRBekw4NmFtT3BJOXktSW1fM0Z3X09vZ1pSNkNveFRoYzEtYl93XzViQUtvck5rVE9qVW9FT2t5QmxseERwVUxzVnR6SmViZ3l6Q2pz?oc=5",
-      "summary": "Luxury vs mass market: Julius Baer's take on understanding the U.S.-China AI race&nbsp;&nbsp;CNBC",
+      "summary": "Luxury vs mass market: Julius Baer's take on understanding the U.S.-China AI race&nbsp;&nbsp;cnbc.com",
       "pub_raw": "Tue, 04 Aug 2026 07:39:00 GMT",
       "pub_sort_dt": "2026-08-04 07:39:00 UTC"
     },
@@ -286,29 +378,11 @@
     {
       "source": "Financial Times",
       "title_en": "Amundi MSCI Emerging Ex China UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
-      "title_cn": "Amundi MSCI 新兴中国 UCITS ETF Acc：资产净值 – 公司公告 - 金融时报",
+      "title_cn": "东方汇理 MSCI 新兴中国 UCITS ETF Acc：资产净值 – 公司公告 - 金融时报",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWJhWnFGYUdHeElTemJlU3kyZmJtUkdBMlQ0SzJ5MFNtRHdMZ1YxQXN0UUpsclpwZlFrOGZoNkNWUWtiZEVMcnI3Uks1UWs0MVFITUdPbGcxZWFwNjdnZ1VxTkZOS0doQmdRY29FSUxEWVYtWjlnOEEwWEhyNzI5cDRwQU1tNkJ0dHJHY1pqaUMxWU5oa1BvYjFtSElOMFJySGpxd1FDMzNKdW8?oc=5",
       "summary": "Amundi MSCI Emerging Ex China UCITS ETF Acc: Net Asset Value(s) – Company Announcement&nbsp;&nbsp;Financial Times",
       "pub_raw": "Tue, 04 Aug 2026 07:09:00 GMT",
       "pub_sort_dt": "2026-08-04 07:09:00 UTC"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Huawei’s Top Scientist Warns of Chip Limit Nvidia Will Soon Face - Bloomberg.com",
-      "title_cn": "华为首席科学家警告英伟达很快将面临芯片限制 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGV6Q2dzSzhXeEZ3NXJWaVl5eHk5Z1Rjd054bTQtZERDd3dac1hhd18wZWltZWQ0WWJzRnVWdjhDZlM1VUxvaWtjQm0xdkJpTUpCMGFZdm1JU3ZQS1FnRFZ0T2phVi1JTTRpNDdZSGNvNHBfQlVfdWpuUlpWTHhZbkVQaGQ2TWxETTFLd2QxRTZXaXBYczBLZGU4cGNSSlVaTU5PRWpRWWxYZlZ2T09YSGRwblV3Zw?oc=5",
-      "summary": "Huawei’s Top Scientist Warns of Chip Limit Nvidia Will Soon Face&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Tue, 04 Aug 2026 06:52:00 GMT",
-      "pub_sort_dt": "2026-08-04 06:52:00 UTC"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Chinese Startup AI² Robotics Is Said to Consider Hong Kong IPO - Bloomberg.com",
-      "title_cn": "据称中国初创公司 AI² Robotics 考虑在香港 IPO - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb01ZbVV5TERudC1JVXBJX0ZzcGpCLVVTSU12ZS05V1VQc1FtRTdPWW5PUGRuclRlbnJDRkF0U281X2I4aTdoOHRZdktLM1RWYzJTSzh1Q2UydTh3TlJEY2xtcXcyeHBZQkkyWmJUNVJReG50cmJTUVFtVm1TSW5qckd0WWY1TmRtZGZpdXZMblBhaUZTVmRXTklVVm9xWG5rUk11MTZISE1FbTRqOHBIRmdn?oc=5",
-      "summary": "Chinese Startup AI² Robotics Is Said to Consider Hong Kong IPO&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Tue, 04 Aug 2026 06:19:00 GMT",
-      "pub_sort_dt": "2026-08-04 06:19:00 UTC"
     },
     {
       "source": "Nikkei Asia",
@@ -321,10 +395,10 @@
     },
     {
       "source": "CNBC",
-      "title_en": "China's open-source AI models will push the U.S. to compete at lower end of the value chain: AEI - CNBC",
-      "title_cn": "中国的开源人工智能模型将推动美国在价值链低端竞争：AEI - CNBC",
+      "title_en": "China's open-source AI models will push the U.S. to compete at lower end of the value chain: AEI - cnbc.com",
+      "title_cn": "中国开源人工智能模型将推动美国在价值链低端竞争：AEI - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMThsUUwzeWpOZHVNWDh3QnNTNWFBTWZObnFfRnNxT3lpZkVDa251ekFFQkRSRy1ZRGVaZkMwTGMyTG8wWWpQbHVXUmF3a0xCRDRhZHcwRUwtVjlUdUQ5WThSVnpWYm54X2VuUzhwdVJKUDVISVBBMmhaaExFNlBlNnBVb1lnZVBYeDJ3dkMzNlRkQUNoYXVlcndhMEhrM1R0SjRGeDd6SnIwc1l4V3c?oc=5",
-      "summary": "China's open-source AI models will push the U.S. to compete at lower end of the value chain: AEI&nbsp;&nbsp;CNBC",
+      "summary": "China's open-source AI models will push the U.S. to compete at lower end of the value chain: AEI&nbsp;&nbsp;cnbc.com",
       "pub_raw": "Tue, 04 Aug 2026 05:49:16 GMT",
       "pub_sort_dt": "2026-08-04 05:49:16 UTC"
     },
@@ -356,31 +430,13 @@
       "pub_sort_dt": "2026-08-04 04:38:00 UTC"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "China Mobile Is Said to Mull Stake Sale in Thailand’s True - Bloomberg.com",
-      "title_cn": "据称中国移动正在考虑出售泰国 True 的股份 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbU5hbnV2RzMyXzRGWGZQNVltUVZrSmk0dDFOeXFrUndac1BvcEJ6WTA4YnZQNlUwME1fVUVXWEpsUUMzZ1drdUFMMG01SENWMnFDc1ZvalR5OHhuVVhoejFjdzQ3ZmxPU0NNLVBMY3V6cHNFOTFpbWk4OW5HMEpkZ1ZKT21wNnZuSnVFX1lWaXJBb3dsRkdCRV9yRV96OEpTSTdxODA1WlhDLVVTUGhpbC1FcWlyUQ?oc=5",
-      "summary": "China Mobile Is Said to Mull Stake Sale in Thailand’s True&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Tue, 04 Aug 2026 02:45:00 GMT",
-      "pub_sort_dt": "2026-08-04 02:45:00 UTC"
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "SpaceX's pursuit of a China-free supply chain - Nikkei Asia",
-      "title_cn": "SpaceX 追求无中国供应链 - 日经亚洲",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjAwd1Zyb1pEVmZjWWFXc1hVbVI0YjJGMGFQY2ZaVmhfZVlkTTVwcUVXbmlCc0ZSMmgyLWp4OGtEOEZyWkhKWjQ3TlVMcVRpWHR0a01mcmhwakFiTWhpaUlyUHBaelVMaDMtV0xoX3FFYUJmcHlXNThSQmN1Wm5CbDFnUmtDOHhGNzItVDl6aFJzelZEU1pkMzZ2aG9YQ05lN0hKMHRoVVp0NVd3?oc=5",
-      "summary": "SpaceX's pursuit of a China-free supply chain&nbsp;&nbsp;Nikkei Asia",
-      "pub_raw": "Tue, 04 Aug 2026 01:46:00 GMT",
-      "pub_sort_dt": "2026-08-04 01:46:00 UTC"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "China LGFV Says It Can Repay Debt Even as Bond Sale Hits Snag - Bloomberg.com",
-      "title_cn": "中国地方政府融资平台表示，即使债券发行遇到困难，它仍能偿还债务 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzlOamFzSnRPYm1yRVVmUURFaV9xdzNhOTA0cGZ0WWNNR2pPVTdvUHVYZzhtdVVOaTVNX3FoampKTFYzT25oMVF0Yno3eE9hbi1GUV9JMDlDZlFPT1phRmRWRWxKUHhybFN5ZndpMW5EVWtOWjBIazQxUW02UnQ4cUMtOHBudXFZSG9Gei0xVm5uRHBhcTcwWUlDbV93bmp6b0hIYVBlSDdkQndlVE9VTEpB?oc=5",
-      "summary": "China LGFV Says It Can Repay Debt Even as Bond Sale Hits Snag&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Tue, 04 Aug 2026 01:16:00 GMT",
-      "pub_sort_dt": "2026-08-04 01:16:00 UTC"
+      "source": "Reuters",
+      "title_en": "EXCLUSIVE: Shein targets $30 billion to $40 billion Hong Kong IPO valuation this month, sources say - Reuters",
+      "title_cn": "独家报道：消息人士称，Shein 本月香港 IPO 估值目标为 300 亿至 400 亿美元 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3NieXJtWmw4S21GUWJYMHAycnA0RmZaeWJKMnVCT19OUDdGQkNLZnVwRDQ0Ukc2cDZCV0FBczAzQlBsbnFUVFhqV2dSb3I2VVpnT0ZFMXRnbGpvSEdNMWxtS1BVeHJuNUV0X1JkX1F6UGpWQW9fQkptZzRiY3hkWWRIMXNUTHFGa3hQQ3VxVk53djFFUEJxdzR1V2NHZXVTODZvRDlnekQzUU56WmlsZUxMdTZiSHQtWE1yTmcxOHhtdw?oc=5",
+      "summary": "EXCLUSIVE: Shein targets $30 billion to $40 billion Hong Kong IPO valuation this month, sources say&nbsp;&nbsp;Reuters",
+      "pub_raw": "Tue, 04 Aug 2026 04:09:00 GMT",
+      "pub_sort_dt": "2026-08-04 04:09:00 UTC"
     }
   ]
 }
