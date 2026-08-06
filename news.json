@@ -1,17 +1,18 @@
 {
-  "update_cst": "2026-08-06 07:49:33 北京时间",
-  "total_count": 42,
+  "update_cst": "2026-08-06 09:30:13 北京时间",
+  "total_count": 41,
   "source_stat": {
     "Reuters": 5,
     "Bloomberg": 5,
     "AP": 3,
-    "Nikkei Asia": 4,
+    "Nikkei Asia": 3,
     "Financial Times": 5,
     "Wall Street Journal": 4,
-    "CNBC": 4,
+    "CNBC": 3,
     "New York Times": 5,
     "CNN": 4,
-    "The Economist": 3
+    "AFP": 2,
+    "The Economist": 2
   },
   "news": [
     {
@@ -20,8 +21,26 @@
       "title_cn": "中国人工智能的未来一瞥 - 《经济学人》",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcHUxYUxGSTd2QzREQ2kxYlpGcEpjdmNZLVBleHp6MXEyZmxMd3plZmxGSzRfTGZpaTVJWGZKNC1CTjk2OHNJTV9lYmpZN3hVc1R5cWlkSjZxVlNvcERSYVRaSXVRWXlxTGw5SVlwcVQyTi0xblVLZ2M4TlZxajF6U1pvby0xWFE?oc=5",
       "summary": "A glimpse from China of AI’s future&nbsp;&nbsp;The Economist",
-      "pub_raw": "Wed, 05 Aug 2026 22:04:06 GMT",
-      "pub_sort_dt": "2026-08-06 06:04:06"
+      "pub_raw": "Thu, 06 Aug 2026 00:58:43 GMT",
+      "pub_sort_dt": "2026-08-06 08:58:43"
+    },
+    {
+      "source": "New York Times",
+      "title_en": "TikTok Is Laying Off 250 Employees in Its Nashville Office - nytimes.com",
+      "title_cn": "TikTok 将在纳什维尔办事处裁员 250 名员工 - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVhBemtrRGppVG5qcWg4aWlIcjV3dm0zT1k2cjNWcWJZWFE0ck9tYWtZOFZxNGxnNVB1TTZac04yRDJpU0xld0J5RXlEVnZ1VlQ0M2xFMldIVFRVbE10akp5cWJxeHF4Z2MyUDRPS051OG5xcGdLUmlKM01CbUVEcw?oc=5",
+      "summary": "TikTok Is Laying Off 250 Employees in Its Nashville Office&nbsp;&nbsp;nytimes.com",
+      "pub_raw": "Thu, 06 Aug 2026 00:24:06 GMT",
+      "pub_sort_dt": "2026-08-06 08:24:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "China’s Cheap AI Is Shifting Investors’ Focus to Internet Stocks - Bloomberg.com",
+      "title_cn": "中国廉价的人工智能正在将投资者的注意力转向互联网股票 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTZ0NG53RkwyOU9zUHFFS0k4c3o0eElRa1MyWjhpMElMeUJQWTdmRWJuNEloZzJMdElXTElYR3lHSV9US2J3QVhvWHNTRHNBM1QxcmRlX2tvdTVLbnBtTkZnbDd5b0hnNHMyalJtbWFLRHlNYXVBOWxvMk4tdmFuTk9FS3E2VkdSbGpmb1BDaTNDdjE5QVZOTmJhcXQybXRxdC1Xa0tnakVIX0lhRXVhYVBLeWM?oc=5",
+      "summary": "China’s Cheap AI Is Shifting Investors’ Focus to Internet Stocks&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Wed, 05 Aug 2026 23:00:00 GMT",
+      "pub_sort_dt": "2026-08-06 07:00:00"
     },
     {
       "source": "Reuters",
@@ -34,21 +53,30 @@
     },
     {
       "source": "New York Times",
-      "title_en": "China’s A.I. Is Surging Across Africa. That Should Worry Silicon Valley. - The New York Times",
-      "title_cn": "中国的人工智能风靡整个非洲。这应该让硅谷担心。 - 纽约时报",
+      "title_en": "China’s A.I. Is Surging Across Africa. That Should Worry Silicon Valley. - nytimes.com",
+      "title_cn": "中国的人工智能风靡整个非洲。这应该让硅谷担心。 - 纽约时报.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVQ1M5U0I4dTItenBoZDVJVkxORWpNSnJ2X2V1SmhGQmstOGtydWxKTWQxMHFUVUVaMnhxUV9VQlhIa0Q0djB5VkFMUU1FX0ZILU0yMU5sa3VGU1VRZUVUOFZGY19FdlZrbnBaSkpOakVaWWt1?oc=5",
-      "summary": "China’s A.I. Is Surging Across Africa. That Should Worry Silicon Valley.&nbsp;&nbsp;The New York Times",
+      "summary": "China’s A.I. Is Surging Across Africa. That Should Worry Silicon Valley.&nbsp;&nbsp;nytimes.com",
       "pub_raw": "Wed, 05 Aug 2026 20:41:15 GMT",
       "pub_sort_dt": "2026-08-06 04:41:15"
     },
     {
       "source": "Nikkei Asia",
-      "title_en": "Analysis: Xi Jinping shows signs of worry ahead of Beidaihe meeting - asia.nikkei.com",
-      "title_cn": "分析：习近平在北戴河会议前表现出担忧迹象​​ - asia.nikkei.com",
+      "title_en": "Analysis: Xi Jinping shows signs of worry ahead of Beidaihe meeting - Nikkei Asia",
+      "title_cn": "分析：习近平在北戴河会议前表现出担忧迹象​​ - 日经亚洲",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHBueXV4QXZzcks5ckkyWmZhODlUazlIczNLdWJYUERfOXpoYmFMeG1VaW4ydkpSc3FEc0dPWXRKaHUyU0Z0YVdoSGFtVGh6b0VHTWVIN0piTC1BVkRyeEE4UFhNanVHTFd5VDVwVVNkallRcjJ1dmVyY2dSa29vR1FNd2dCcVo2NVdfS25Va0pBSVFpUU1wQUpDSm1yMFJ4YnJHb0xRS2N5U0RaMGk4LUFQS2NyNm4xX0VTZw?oc=5",
-      "summary": "Analysis: Xi Jinping shows signs of worry ahead of Beidaihe meeting&nbsp;&nbsp;asia.nikkei.com",
+      "summary": "Analysis: Xi Jinping shows signs of worry ahead of Beidaihe meeting&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Wed, 05 Aug 2026 19:00:00 GMT",
       "pub_sort_dt": "2026-08-06 03:00:00"
+    },
+    {
+      "source": "New York Times",
+      "title_en": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan - nytimes.com",
+      "title_cn": "曼哈顿自焚的西藏活动人士洛嘎让增 (Lobga Rangzen) - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVWZWZ3VxZUI0WTNUT2pZdERoWEotdjhWMmhWOW5ybkFwaTdlRFdIUExIWWF0Z3loZGUwNXpZZTZOSDFwT21ZVzBwaEhBLWhQdWNSVV92RzRrLUwwdTRPbGk0cW5LMGI5aml4R1FweGlVVFpVTjNiTVB5cGVycUFwb2RwVEJvQ0E2a0xqRVp0VUM3YlQzaXc?oc=5",
+      "summary": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan&nbsp;&nbsp;nytimes.com",
+      "pub_raw": "Wed, 05 Aug 2026 18:56:38 GMT",
+      "pub_sort_dt": "2026-08-06 02:56:38"
     },
     {
       "source": "Reuters",
@@ -115,10 +143,10 @@
     },
     {
       "source": "Financial Times",
-      "title_en": "China hits back at US with sanctions and tighter drone export rules - Financial Times",
-      "title_cn": "中国通过制裁和更严格的无人机出口规则回击美国 - 英国《金融时报》",
+      "title_en": "China hits back at US with sanctions and tighter drone export rules - ft.com",
+      "title_cn": "中国通过制裁和更严格的无人机出口规则回击美国 - FT.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG5rcW5PalpobUFkZTRLVnlMRk5qelZHM3NmaDl6NzcwemotbjRLRGM4WnAtY1ZacG5CMXVrN1JZc0NrOWMzVGVUbW9BM1lHRGsyU2IzTnN4QXJpWWUyZDhSVGZ2Qmd1TVIyOUN6RGU4WGduWG1LMURjY2JNanZmeXRIQkM?oc=5",
-      "summary": "China hits back at US with sanctions and tighter drone export rules&nbsp;&nbsp;Financial Times",
+      "summary": "China hits back at US with sanctions and tighter drone export rules&nbsp;&nbsp;ft.com",
       "pub_raw": "Wed, 05 Aug 2026 13:23:08 GMT",
       "pub_sort_dt": "2026-08-05 21:23:08"
     },
@@ -151,10 +179,10 @@
     },
     {
       "source": "Nikkei Asia",
-      "title_en": "Disney and TikTok strike short-form video-sharing deal - asia.nikkei.com",
-      "title_cn": "迪士尼和 TikTok 达成短视频共享协议 - asia.nikkei.com",
+      "title_en": "Disney and TikTok strike short-form video-sharing deal - Nikkei Asia",
+      "title_cn": "迪士尼和 TikTok 达成短视频共享协议 - 日经亚洲",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVGw0LVJxczh5OHAyd2ZBVXprbE5QeTBkWVc4Sm9NYkZyQWJfSG1qTEw0UllVUXJvMGhtTnVGZmxlUWpsSGFXQ0M4NnQ5V094TW9iNE8yNlY2cmJoNVdTb3lSeFZaTURiRmw1bW5FaERhWWhDdFR4aTVCOHRVNGlGSmdRUGJSMlVWV1BIWllhakFHWllPdkdRamh3MlNid0NsaHFVWQ?oc=5",
-      "summary": "Disney and TikTok strike short-form video-sharing deal&nbsp;&nbsp;asia.nikkei.com",
+      "summary": "Disney and TikTok strike short-form video-sharing deal&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Wed, 05 Aug 2026 11:17:00 GMT",
       "pub_sort_dt": "2026-08-05 19:17:00"
     },
@@ -178,10 +206,10 @@
     },
     {
       "source": "Nikkei Asia",
-      "title_en": "China hits back at US FCC bans with sanctions and drone curbs - asia.nikkei.com",
-      "title_cn": "中国通过制裁和无人机限制回击美国联邦通信委员会禁令 - Asia.nikkei.com",
+      "title_en": "China hits back at US FCC bans with sanctions and drone curbs - Nikkei Asia",
+      "title_cn": "中国通过制裁和无人机限制回击美国联邦通信委员会禁令 - 日经亚洲",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV3J3MWNHUGZiZjVXZzl5Qkl5V2tBdGhWYk4tejdKZFlWRUtnZGh1ODN2NmtocmJKVzZBZ25TTHRqSWdIdXRQQmRPbjJHeFFYbHhQWUFiWHJXelRlSXlWdmxtSU9USHFBeWdMX241QmRRZklXWmd2WTFFeTVJdlFYVkZReTJ3aDNyanFLTjJGSzg2cEwtNHk3bC1ESTlTMXV4WU5TWUhKR1BOX0tMbV83ZERMZVAtWTFIdmttT3c4cXMxSEQ4dEJIemdzZ09sUHAwS1E?oc=5",
-      "summary": "China hits back at US FCC bans with sanctions and drone curbs&nbsp;&nbsp;asia.nikkei.com",
+      "summary": "China hits back at US FCC bans with sanctions and drone curbs&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Wed, 05 Aug 2026 10:36:00 GMT",
       "pub_sort_dt": "2026-08-05 18:36:00"
     },
@@ -193,15 +221,6 @@
       "summary": "China announces countermeasures against Washington, including controls on drone exports to the US&nbsp;&nbsp;AP News",
       "pub_raw": "Wed, 05 Aug 2026 10:28:00 GMT",
       "pub_sort_dt": "2026-08-05 18:28:00"
-    },
-    {
-      "source": "New York Times",
-      "title_en": "Disney+ Cracks Open the Door to TikTok Creator Videos - The New York Times",
-      "title_cn": "Disney+ 破解为 TikTok 创作者视频打开大门 - 纽约时报中文网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2VBYjVNQV9ZNFVkNWx1cm5Oa3VMYkVPU3JTMVRUbEd0UF9ZSU43SUxQTWRzZUwzWnd0cWtpT0l5UVZOcHBEMGs0Tl9rbTBEVWFERk16em5IS2V0MVBFUGxtTmhPMkowcHBwT3pxVmZRSzFFRjRfRW1KQTRGOXowYQ?oc=5",
-      "summary": "Disney+ Cracks Open the Door to TikTok Creator Videos&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Wed, 05 Aug 2026 10:00:15 GMT",
-      "pub_sort_dt": "2026-08-05 18:00:15"
     },
     {
       "source": "Wall Street Journal",
@@ -220,6 +239,15 @@
       "summary": "INTCO Medical Recognized in S&P Global Sustainability Yearbook (China Edition) 2025 for ESG Progress&nbsp;&nbsp;Financial Times",
       "pub_raw": "Wed, 05 Aug 2026 09:36:00 GMT",
       "pub_sort_dt": "2026-08-05 17:36:00"
+    },
+    {
+      "source": "AFP",
+      "title_en": "Taiwan begins military drills as China pressure grows - www-pp.afp.com",
+      "title_cn": "随着中国压力加大，台湾开始军事演习 - www-pp.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52a1hGdlctdms3TXBmLWNQQlhZQ0dqVG5wZXRhRG83NHRtUml3RjhSOHJNa2R3cTU5bHBuN1Z1YU9lOVR1Y3NjS1ZUNFRTa00?oc=5",
+      "summary": "Taiwan begins military drills as China pressure grows&nbsp;&nbsp;www-pp.afp.com",
+      "pub_raw": "Wed, 05 Aug 2026 09:31:42 GMT",
+      "pub_sort_dt": "2026-08-05 17:31:42"
     },
     {
       "source": "CNN",
@@ -241,21 +269,12 @@
     },
     {
       "source": "New York Times",
-      "title_en": "‘Center Stage’: A Star of Shanghai’s 1930s Heyday Is (Re)Born - The New York Times",
-      "title_cn": "《舞台中央》：上海 30 年代鼎盛时期的明星（重）诞生 - 纽约时报中文网",
+      "title_en": "‘Center Stage’: A Star of Shanghai’s 1930s Heyday Is (Re)Born - nytimes.com",
+      "title_cn": "《舞台中央》：上海 1930 年代鼎盛时期的明星（重）诞生 - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2VKaHNDUzN5U3l2Q2x6TmxKVGFDa2s5WW5kTE5XNnRQdkhNQm5SLTI1a0hYQTlMaVFkbl84bXBaRFRTT0lkTDZmSVV2MWgwczZReHRwc3V5NEhBTHU3WmxmOUVHVHlLaG9WdVBoX3hxUzYxSnE1RTk5czQwN0R5dlZJa2FjSDREQVVqOElCeXpkX2ktcEZyQWhPbHA4ekdPdjlFNE5B?oc=5",
-      "summary": "‘Center Stage’: A Star of Shanghai’s 1930s Heyday Is (Re)Born&nbsp;&nbsp;The New York Times",
+      "summary": "‘Center Stage’: A Star of Shanghai’s 1930s Heyday Is (Re)Born&nbsp;&nbsp;nytimes.com",
       "pub_raw": "Wed, 05 Aug 2026 09:02:16 GMT",
       "pub_sort_dt": "2026-08-05 17:02:16"
-    },
-    {
-      "source": "New York Times",
-      "title_en": "In Death, a Tibetan Activist Finally Got the World’s Attention - The New York Times",
-      "title_cn": "西藏活动人士之死终于引起世界关注 - 纽约时报中文网",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVWZWZ3VxZUI0WTNUT2pZdERoWEotdjhWMmhWOW5ybkFwaTdlRFdIUExIWWF0Z3loZGUwNXpZZTZOSDFwT21ZVzBwaEhBLWhQdWNSVV92RzRrLUwwdTRPbGk0cW5LMGI5aml4R1FweGlVVFpVTjNiTVB5cGVycUFwb2RwVEJvQ0E2a0xqRVp0VUM3YlQzaXc?oc=5",
-      "summary": "In Death, a Tibetan Activist Finally Got the World’s Attention&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Wed, 05 Aug 2026 09:01:56 GMT",
-      "pub_sort_dt": "2026-08-05 17:01:56"
     },
     {
       "source": "CNN",
@@ -283,6 +302,15 @@
       "summary": "Hong Kong retail recovery: Fortune REIT occupancy hits post-covid high&nbsp;&nbsp;CNBC",
       "pub_raw": "Wed, 05 Aug 2026 08:12:00 GMT",
       "pub_sort_dt": "2026-08-05 16:12:00"
+    },
+    {
+      "source": "AFP",
+      "title_en": "Taiwan probes 17 China-funded firms over high-tech talent poaching - www-pp.afp.com",
+      "title_cn": "台湾调查17家中资企业挖角高科技人才 - www-pp.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIUWZFMUk1NWxHdGFLSkhZeUM3eC1Ib25pOTRzVXRaYjFHVWtUSUtkX0lUVE9vb180cnRWczNLd29lS3dXdlVkNHNfa19kNlk?oc=5",
+      "summary": "Taiwan probes 17 China-funded firms over high-tech talent poaching&nbsp;&nbsp;www-pp.afp.com",
+      "pub_raw": "Wed, 05 Aug 2026 07:43:04 GMT",
+      "pub_sort_dt": "2026-08-05 15:43:04"
     },
     {
       "source": "CNBC",
@@ -313,37 +341,37 @@
     },
     {
       "source": "Financial Times",
-      "title_en": "Shares in Chinese AI darlings slide on US ban fears - Financial Times",
-      "title_cn": "因美国禁令担忧，中国人工智能宠儿股价下跌 - 金融时报",
+      "title_en": "Shares in Chinese AI darlings slide on US ban fears - ft.com",
+      "title_cn": "因美国禁令担忧，中国人工智能宠儿股价下滑 - FT.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMnVPR045R2NMYUhzWDRLZTRIRG0zeS1TY1BYOGhGa0dGRkdxQzdhSnVUQjRDcjhpN3N6NmNXYmVLOTFvZUFidVdqNXJ2OG8xQmRQbWRUZ3ZUVUxneVlONi1Ib0lNcEI2QjlrbEw1NEFrRXlhRnpKLXJIcERYSU1VMVZ4cl8?oc=5",
-      "summary": "Shares in Chinese AI darlings slide on US ban fears&nbsp;&nbsp;Financial Times",
+      "summary": "Shares in Chinese AI darlings slide on US ban fears&nbsp;&nbsp;ft.com",
       "pub_raw": "Wed, 05 Aug 2026 04:15:39 GMT",
       "pub_sort_dt": "2026-08-05 12:15:39"
     },
     {
       "source": "Financial Times",
-      "title_en": "China launches global tax hunt going back decades - Financial Times",
-      "title_cn": "中国发起数十年前的全球征税行动 - 英国《金融时报》",
+      "title_en": "China launches global tax hunt going back decades - ft.com",
+      "title_cn": "中国发起数十年前的全球征税行动 - FT.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYUgtMFBqdTdOR0lsNWVLOFhVU2E0V0FWeG9NVmRUUW11dG81VHVfVjVLUm5naGZmVVRUb3NxM1Q5ZFBOLXdIS2t0OXVlb05iS1IzOUUxUkZiZDk2OUZPbnB6YmEyOUxXVkZfdXZGemFJcS04VURQU1Zkd3hzTFdWRktNSFU?oc=5",
-      "summary": "China launches global tax hunt going back decades&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Wed, 05 Aug 2026 04:03:21 GMT",
-      "pub_sort_dt": "2026-08-05 12:03:21"
+      "summary": "China launches global tax hunt going back decades&nbsp;&nbsp;ft.com",
+      "pub_raw": "Wed, 05 Aug 2026 04:00:22 GMT",
+      "pub_sort_dt": "2026-08-05 12:00:22"
     },
     {
       "source": "Financial Times",
-      "title_en": "European carmakers turn to Chinese rivals to fill factory floors - Financial Times",
-      "title_cn": "欧洲汽车制造商转向中国竞争对手来填补工厂车间 - 金融时报",
+      "title_en": "European carmakers turn to Chinese rivals to fill factory floors - ft.com",
+      "title_cn": "欧洲汽车制造商转向中国竞争对手来填补工厂车间 - ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWENMWnN5N1lfMjFtVDlNMTR4cUFPMVhNTENCSnBWdUo1cDhYV1p1NkRwUU9TR1VhQjdUOFFCY3o2S1ZRVnlqTF9aVVRqSlVseXRQRU94ekkwU3R0NkJneEJxQ0wwOUNFLVpyY2tOU24wd3o3Qi1Nb2Q4NmhraWlGR0lUSHg?oc=5",
-      "summary": "European carmakers turn to Chinese rivals to fill factory floors&nbsp;&nbsp;Financial Times",
+      "summary": "European carmakers turn to Chinese rivals to fill factory floors&nbsp;&nbsp;ft.com",
       "pub_raw": "Wed, 05 Aug 2026 04:00:11 GMT",
       "pub_sort_dt": "2026-08-05 12:00:11"
     },
     {
       "source": "New York Times",
-      "title_en": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time - The New York Times",
-      "title_cn": "中国不吸烟者试图消除误会，一次一场对抗 - 纽约时报中文网",
+      "title_en": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time - nytimes.com",
+      "title_cn": "中国不吸烟者试图消除误会，一次一场对抗 - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84RUJweURJWGRCU19zMVAzLUY1VGRSQm9FbTd3eE1QVzhONnR2d0JQVU5nRl9OQzFRaElIVGxPWDRVWFdlMVpwaG9EdGtTZmpMRVhiUnBrOGYxQ3d2YVNNSW8zaFN0c21kZXVPODlIeVpEdXdIQzlGUWFWRVR1S1U?oc=5",
-      "summary": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time&nbsp;&nbsp;The New York Times",
+      "summary": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time&nbsp;&nbsp;nytimes.com",
       "pub_raw": "Wed, 05 Aug 2026 04:00:05 GMT",
       "pub_sort_dt": "2026-08-05 12:00:05"
     },
@@ -355,42 +383,6 @@
       "summary": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.&nbsp;&nbsp;CNBC",
       "pub_raw": "Wed, 05 Aug 2026 02:30:00 GMT",
       "pub_sort_dt": "2026-08-05 10:30:00"
-    },
-    {
-      "source": "CNBC",
-      "title_en": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts - CNBC",
-      "title_cn": "北京突然对离岸信托征税，中国超级富豪“震惊”并寻找现金 - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWNoMWFEVkVpeTUtUWFGU2w1UnhvSFVIdXF6Z3RGUWF6X3BQdkZKSkNidmtRcUxjc3pZcG84NlRIZ21tOXBTRUFmc2lTV0V2SENOaHFjZ0UzcTVfYU5CLTd5aTNYRWJpZUx3Ni13NjF3SG12QVpTVmVneF9XVmZfODBkdnpxVjFHNF9jS2pBNExqeGk0VHlGMmg0QkVvNTNPcTg2S0tPRmt1WDDSAbABQVVfeXFMUDhMb09nY21zS1Zsdk1OMmtxRFFHVjJEeGRvYUFCRXBCWG9yV2lTN1JxanBCVk5BWDYzRWtkZ2l2MTV6alE1YklXSHVjeWZDeWQ5M1VXeFJZbnI5QnFKcm5zaUpROTc0MW9YekdUd1RnVzJ1b3BfUHN0R1hlbTFiNTlRT0ZYcS1OUUE0eXpxYmVqLTdYRUQwcUlBSHRHTXAwTm9OUFZWWGVQR3pPdmNIMF8?oc=5",
-      "summary": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts&nbsp;&nbsp;CNBC",
-      "pub_raw": "Wed, 05 Aug 2026 00:32:00 GMT",
-      "pub_sort_dt": "2026-08-05 08:32:00"
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Bain Capital to buy Taiwan-originated Gong Cha chain for over $635m - asia.nikkei.com",
-      "title_cn": "贝恩资本将以超过 6.35 亿美元收购台湾贡茶连锁店 - asia.nikkei.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjRtNzltUWxsRWdpQ3B5UDVnS3VuRUF2bmRMbVBRWl9WZ1AtNFRKM1duTmhqSzdGcXNPTEtsVFloWXhoZVU5NVh4dHU2ZlJCRGpBd3JjX2FoMW5PZHpGcWVZT0UzZlhrQV9MZ3RudmVlQ1FDT0ZFLVpkWkhtZDM2S2xzLURCSFlqT25ocmx6bmZqQkJqcEN1bnNqRmEtNEhiai1sMEMyVUFwSkk1YVNSRmluS3o?oc=5",
-      "summary": "Bain Capital to buy Taiwan-originated Gong Cha chain for over $635m&nbsp;&nbsp;asia.nikkei.com",
-      "pub_raw": "Wed, 05 Aug 2026 00:26:00 GMT",
-      "pub_sort_dt": "2026-08-05 08:26:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "China’s Open-Weight Models Will Be Spared US Safety Tests - Bloomberg.com",
-      "title_cn": "中国的开放式重量模型将免于美国安全测试 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVcxV0tmQ0xNb3ZuUmtYX1FKQVhVczBFcHc2UEYteXRjN3k2a3FVQkNkZ0JHT1ROU0tvZVN4THBGZUZJRUpfb3ZXXzltanNJVHpUZVF2UG9Bb010N2d5ZXdGT3cxZHNDX1BPX3ZuMURUQ1BXVkZScWZuLXZLNjl6U0lhNlIxTURRZnN5T19YblVyYjNUSFJBWXR3U2swUEFBb0xWZ1B2R2Z1OEIzbURrMFlPbw?oc=5",
-      "summary": "China’s Open-Weight Models Will Be Spared US Safety Tests&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Wed, 05 Aug 2026 00:11:00 GMT",
-      "pub_sort_dt": "2026-08-05 08:11:00"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "Taiwanese war games begin - The Economist",
-      "title_cn": "台湾战争游戏开始 - 经济学人",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ09DRmNVZ0pOS3ZzVHp6bnV3YzVheG1BUy11RERDaGlrRkU5NU9NZ2FVMnFKS3lDV2kwRXZ1dnJxOURlZGpzTWZfVHVXTlFyQ0lrVWxMYjJ1OHZpRk1IbE1WdDN1SW1jbHlrWkw0TFlQYjN2MmtLcU03cTN1TnhOeEQ5R1JreWs0OFVyelJveDRrZWV4eXVF?oc=5",
-      "summary": "Taiwanese war games begin&nbsp;&nbsp;The Economist",
-      "pub_raw": "Wed, 05 Aug 2026 00:00:00 GMT",
-      "pub_sort_dt": "2026-08-05 08:00:00"
     }
   ]
 }
