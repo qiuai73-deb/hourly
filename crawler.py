@@ -124,7 +124,7 @@ def load_media_google_rss():
         ("New York Times","site:nytimes.com+china+when:1d"),
         ("BBC", "site:BBC.com+china+when:1d"),
         ("DW", "site:DW.com+china+when:1d"),
-        ("RFI", "site:RFI.FR+china+when:1d"),
+        ("半岛", "site:aljazeera+china+when:1d"),
         ("yahoo", "site:yahoo+china+when:1d"),   
            
     ]
