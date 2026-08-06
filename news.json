@@ -1,6 +1,6 @@
 {
-  "update_cst": "2026-08-06 14:07:04 北京时间",
-  "total_count": 41,
+  "update_cst": "2026-08-06 14:44:16 北京时间",
+  "total_count": 43,
   "source_stat": {
     "Reuters": 5,
     "Bloomberg": 5,
@@ -13,9 +13,20 @@
     "CNN": 4,
     "AFP": 3,
     "The Economist": 2,
-    "The BBC": 1
+    "BBC": 1,
+    "DW": 1,
+    "RFI": 1
   },
   "news": [
+    {
+      "source": "Financial Times",
+      "title_en": "Insurance and bank stocks slide amid China tax crackdown fears - Financial Times",
+      "title_cn": "保险股和银行股因中国税收打击担忧而下滑 - 金融时报",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzc5YzA3ZXEyVnczV29WNmtPSVlSUGdLQ2N6djBJMHZpYzV4UFVERTlSUTdUd2pVS09RWVR2dVVESlVnejVxR29DQmRlcGl6dUpjYTV0TWpRYnNseE95c25lSS1lcVN2LWRPV2hNUVV1bGUtUWZ1ZmNNaWxETDNHbHpJaTk?oc=5",
+      "summary": "Insurance and bank stocks slide amid China tax crackdown fears&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Thu, 06 Aug 2026 05:07:49 GMT",
+      "pub_sort_dt": "2026-08-06 13:07:49"
+    },
     {
       "source": "Wall Street Journal",
       "title_en": "China Closes the Satellite Gap in Space Race With the U.S. - WSJ",
@@ -51,15 +62,6 @@
       "summary": "For Taiwan's tech suppliers, space economy could be next growth spark&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Thu, 06 Aug 2026 02:27:00 GMT",
       "pub_sort_dt": "2026-08-06 10:27:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Chinese Renewable Energy Giant Envision Launches Data Center - Bloomberg.com",
-      "title_cn": "中国可再生能源巨头远景集团推出数据中心 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUFfN2FySzFxdm5uSi1SYmhEVVpHdWpicFB3dm5fbkpFUmp1NDAtaGJzMU1zblgxY08teGxWNy1KWGR2bDZFVV9kS2ZFRTFSdFlhd2lrWWtQTU41M0V6WnU3UkMwdkI5M0ppbjJ5TW4zN3B0Y1JiZDhzNURrazg3MmQ5aU5HYWF0YnhjSk5ZX1d6LVJTa3dwTXI3WWxIOWItVXc0dURLREs4TlhROVpwcA?oc=5",
-      "summary": "Chinese Renewable Energy Giant Envision Launches Data Center&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Thu, 06 Aug 2026 01:46:00 GMT",
-      "pub_sort_dt": "2026-08-06 09:46:00"
     },
     {
       "source": "AP",
@@ -107,7 +109,7 @@
       "pub_sort_dt": "2026-08-06 07:00:00"
     },
     {
-      "source": "The BBC",
+      "source": "BBC",
       "title_en": "AI or real? BBC analyses viral China disaster videos - BBC",
       "title_cn": "人工智能还是真实的？ BBC 分析病毒式传播的中国灾难视频 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00ZGxLZWtuci1qRjRvMkRZNDNsLXJ6R09XR3lTVFYzWU5WS3BMR29DbzFOMFVzRV8wUl9NNnVZdkdkb0hHdE9DbW5WTmF0bUwxV0dUSFhTRQ?oc=5",
@@ -134,15 +136,6 @@
       "pub_sort_dt": "2026-08-06 03:00:00"
     },
     {
-      "source": "New York Times",
-      "title_en": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan - The New York Times",
-      "title_cn": "曼哈顿自焚的西藏活动人士洛嘎让增 (Lobga Rangzen) - 纽约时报中文网",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVWZWZ3VxZUI0WTNUT2pZdERoWEotdjhWMmhWOW5ybkFwaTdlRFdIUExIWWF0Z3loZGUwNXpZZTZOSDFwT21ZVzBwaEhBLWhQdWNSVV92RzRrLUwwdTRPbGk0cW5LMGI5aml4R1FweGlVVFpVTjNiTVB5cGVycUFwb2RwVEJvQ0E2a0xqRVp0VUM3YlQzaXc?oc=5",
-      "summary": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Wed, 05 Aug 2026 18:56:38 GMT",
-      "pub_sort_dt": "2026-08-06 02:56:38"
-    },
-    {
       "source": "Reuters",
       "title_en": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia - Reuters",
       "title_cn": "独家报道：在帕特尔的领导下，联邦调查局与中国、俄罗斯建立了前所未有的执法关系 - 路透中文网",
@@ -159,6 +152,24 @@
       "summary": "Catch up: SpaceX’s shares (and rocket parts) drop; China retaliates against America&nbsp;&nbsp;The Economist",
       "pub_raw": "Wed, 05 Aug 2026 16:38:14 GMT",
       "pub_sort_dt": "2026-08-06 00:38:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Argentina Renews $19 Billion China Swap for Another Five Years - Bloomberg.com",
+      "title_cn": "阿根廷将190亿美元的中国互换协议续签五年 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPblNuZ0U5R2p6bG5PYTR6dXFGTnQ3UExPNVZuUzlKaHVrN3ZYRXdsR00zNUdjZ3pvSjlRQlZTWF9XenY0M2xPNkhyWTE4dUctNWk0bHFlWVJUbFRBUmZIUVJKN01hU29CZUFzQzZCdUM0VF9PbXA1dVhtek9USjRpbi0xMS1IQXlCSVJTNGhDWXlHNmMtRS1UeXdlaHdJaF9PdDJkV215OFgzTVpJUkRJam93?oc=5",
+      "summary": "Argentina Renews $19 Billion China Swap for Another Five Years&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Wed, 05 Aug 2026 16:24:10 GMT",
+      "pub_sort_dt": "2026-08-06 00:24:10"
+    },
+    {
+      "source": "RFI",
+      "title_en": "Bincike ya bankaɗo safarar Uranium tan dubu 5 a asirce daga Congo zuwa China - RFI",
+      "title_cn": "Bincike ya Bankaɗo safarar Uranium tan dubu 5 a asirce daga 刚果 zuwa 中国 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYzVnN18tOHhfc2R5MDJCaExPajJoSDU5THc4VDBua1lrM0dDTGRiNTRaNUUyUEdQSHE4T09PTkFZREZNUEM1RmRsWUphUURBMDZGeWVONXhBMUlsMlZoenJ4QXNqMHBlMVB3VDBXTE1lendzM3c1YW80UkM4bWxQaWYyWmt3bkNmMGRuSENybzFOMk5CNXV6TlUyYkFuV3V5Z29FTzE1bHdoOEJoZnZRdU5PN0tMR1lQTm9j?oc=5",
+      "summary": "Bincike ya bankaɗo safarar Uranium tan dubu 5 a asirce daga Congo zuwa China&nbsp;&nbsp;RFI",
+      "pub_raw": "Wed, 05 Aug 2026 15:57:04 GMT",
+      "pub_sort_dt": "2026-08-05 23:57:04"
     },
     {
       "source": "Reuters",
@@ -224,6 +235,15 @@
       "pub_sort_dt": "2026-08-05 19:34:10"
     },
     {
+      "source": "DW",
+      "title_en": "TikTok influencer shot dead during livestream in Mexico - DW.com",
+      "title_cn": "TikTok 网红在墨西哥直播时被枪杀 - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTEloWUFJeTJLcTNnUU12djlLYU9RS0dHZFVXVUVuZnlQSU1JeVQ5MjNqdlU2MDBENXR0WXU1T3RmQWJ4dW9tZGtlLWlBaFBGTTlXZWUwSVoxa3NWZ0M3MkpNT2Z4X2NvdElaM2pTcVdsQmdYZUV2YnZ3T3BvN0N3V3hCWWZhQzBSZ2NFbmF4cnAwQdIBkgFBVV95cUxNTEloWUFJeTJLcTNnUU12djlLYU9RS0dHZFVXVUVuZnlQSU1JeVQ5MjNqdlU2MDBENXR0WXU1T3RmQWJ4dW9tZGtlLWlBaFBGTTlXZWUwSVoxa3NWZ0M3MkpNT2Z4X2NvdElaM2pTcVdsQmdYZUV2YnZ3T3BvN0N3V3hCWWZhQzBSZ2NFbmF4cnAwQQ?oc=5",
+      "summary": "TikTok influencer shot dead during livestream in Mexico&nbsp;&nbsp;DW.com",
+      "pub_raw": "Wed, 05 Aug 2026 11:23:39 GMT",
+      "pub_sort_dt": "2026-08-05 19:23:39"
+    },
+    {
       "source": "Bloomberg",
       "title_en": "Prudential, HSBC Shares Tumble on China Insurance Tax Report - Bloomberg.com",
       "title_cn": "中国保险税报告影响保诚集团和汇丰银行股价暴跌 - Bloomberg.com",
@@ -287,6 +307,15 @@
       "pub_sort_dt": "2026-08-05 17:36:00"
     },
     {
+      "source": "AFP",
+      "title_en": "Taiwan begins military drills as China pressure grows - www-pp.afp.com",
+      "title_cn": "随着中国压力加大，台湾开始军事演习 - www-pp.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52a1hGdlctdms3TXBmLWNQQlhZQ0dqVG5wZXRhRG83NHRtUml3RjhSOHJNa2R3cTU5bHBuN1Z1YU9lOVR1Y3NjS1ZUNFRTa00?oc=5",
+      "summary": "Taiwan begins military drills as China pressure grows&nbsp;&nbsp;www-pp.afp.com",
+      "pub_raw": "Wed, 05 Aug 2026 09:31:42 GMT",
+      "pub_sort_dt": "2026-08-05 17:31:42"
+    },
+    {
       "source": "CNN",
       "title_en": "China hits US with sanctions, drone export curbs ahead of Xi visit - CNN",
       "title_cn": "习近平访问前，中国对美国实施制裁和无人机出口限制 - CNN",
@@ -314,6 +343,15 @@
       "pub_sort_dt": "2026-08-05 17:02:16"
     },
     {
+      "source": "New York Times",
+      "title_en": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan - The New York Times",
+      "title_cn": "曼哈顿自焚的西藏活动人士洛嘎让增 (Lobga Rangzen) - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVWZWZ3VxZUI0WTNUT2pZdERoWEotdjhWMmhWOW5ybkFwaTdlRFdIUExIWWF0Z3loZGUwNXpZZTZOSDFwT21ZVzBwaEhBLWhQdWNSVV92RzRrLUwwdTRPbGk0cW5LMGI5aml4R1FweGlVVFpVTjNiTVB5cGVycUFwb2RwVEJvQ0E2a0xqRVp0VUM3YlQzaXc?oc=5",
+      "summary": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Wed, 05 Aug 2026 09:01:56 GMT",
+      "pub_sort_dt": "2026-08-05 17:01:56"
+    },
+    {
       "source": "CNN",
       "title_en": "Why US fast food chains are growing in China - CNN",
       "title_cn": "为什么美国快餐连锁店在中国发展壮大 - CNN",
@@ -330,15 +368,6 @@
       "summary": "A rare glimpse into Tibet, where some hope to preserve language and customs despite China's new law&nbsp;&nbsp;AP News",
       "pub_raw": "Wed, 05 Aug 2026 08:41:00 GMT",
       "pub_sort_dt": "2026-08-05 16:41:00"
-    },
-    {
-      "source": "AFP",
-      "title_en": "Taiwan begins military drills as China pressure grows - www-pp.afp.com",
-      "title_cn": "随着中国压力加大，台湾开始军事演习 - www-pp.afp.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWpOQng5X2pRQTVjYzJ5WEJaWURjNlpmRVp1QzEzWFJXdE9jQzdMMHZRN1JLUF8tUjA4eFNtajE0cEpjTGR3RVo2YVNtdnk3UUstMnRnRlV2V3J0ZExaamJKOEpmNS1uREhTVEl0OGo3ZE0zemZPRFp1eWZhdHJxS0hB?oc=5",
-      "summary": "Taiwan begins military drills as China pressure grows&nbsp;&nbsp;www-pp.afp.com",
-      "pub_raw": "Wed, 05 Aug 2026 08:26:13 GMT",
-      "pub_sort_dt": "2026-08-05 16:26:13"
     },
     {
       "source": "CNBC",
@@ -375,15 +404,6 @@
       "summary": "AI Kill Switch Act's open-source exemption hints at U.S. dilemma over Chinese AI: Analyst&nbsp;&nbsp;CNBC",
       "pub_raw": "Wed, 05 Aug 2026 07:21:00 GMT",
       "pub_sort_dt": "2026-08-05 15:21:00"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "Amundi MSCI Emerging Ex China ESG Selection UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
-      "title_cn": "Amundi MSCI Emerging Ex China ESG Selection UCITS ETF Acc：资产净值 – 公司公告 - 金融时报",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEp3THQwQXVnSzd1eTdja2ZPQ3VIcjVkandCY19mS3E3Qy1CM2VsOGVseUJlY1lnSURFTzhvaUtacXI4OUNBbVplc3hDZWNNR1BGallCWWxkelVTbk1qQW9ra2dJcjFPTFE3V0ZWd0xMbWNtY0RBdkFKZTZWNjZOVVkwU1RTSExiaS1tMnp0ZzkzTnpGcEpTSnhJV29Ra01GTjJ2cFZ5eWx5Q2s?oc=5",
-      "summary": "Amundi MSCI Emerging Ex China ESG Selection UCITS ETF Acc: Net Asset Value(s) – Company Announcement&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Wed, 05 Aug 2026 07:03:00 GMT",
-      "pub_sort_dt": "2026-08-05 15:03:00"
     }
   ]
 }
