@@ -1,21 +1,92 @@
 {
-  "update_cst": "2026-08-06 20:27:19 北京时间",
-  "total_count": 38,
+  "update_cst": "2026-08-06 22:41:15 北京时间",
+  "total_count": 41,
   "source_stat": {
     "Reuters": 5,
     "Bloomberg": 5,
-    "AP": 2,
-    "Nikkei Asia": 4,
+    "AP": 4,
+    "Nikkei Asia": 5,
     "Financial Times": 5,
     "Wall Street Journal": 4,
     "CNBC": 3,
     "New York Times": 3,
     "CNN": 1,
-    "The Economist": 4,
-    "BBC": 1,
-    "DW": 1
+    "The Economist": 5,
+    "BBC": 1
   },
   "news": [
+    {
+      "source": "The Economist",
+      "title_en": "Lessons from Chinese AI - The Economist",
+      "title_cn": "中国人工智能的教训 - 经济学人",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RU42T0FJazFlaFNVMmc0djFkYUsyZU5XSXpfb0w5S3NSSGhsRkM5T0s4TTRvNkZRVEx5b0FJRlhiYUFWZjhCOFFoS0FfWGJuR0hlYWxPME1wSWZBeWVV?oc=5",
+      "summary": "Lessons from Chinese AI&nbsp;&nbsp;The Economist",
+      "pub_raw": "Thu, 06 Aug 2026 14:33:37 GMT",
+      "pub_sort_dt": "2026-08-06 22:33:37"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "China’s Factory Activity Gauge Unexpectedly Signals Contraction - WSJ",
+      "title_cn": "中国工厂活动指标意外显示收缩信号 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGZxUEYxMm52eUJRX0szZEd0SmRreWhGbkxlQlFjaG9WZDhNRjNUakNPMmVIZ0pqXzRaUmg4Y1I5X1c2eERRNVZWdmZvMkYxbVY3VU9rcVBvNzdVbnh6VHVtQkhNUG5jeHFXSnJEbWlRcE03cVUtd09yeVIwM3ZoRVEwYjRoanBVeGFEUmVCMWQ5Ykd5TnZybE1Cd2RNcUdJ?oc=5",
+      "summary": "China’s Factory Activity Gauge Unexpectedly Signals Contraction&nbsp;&nbsp;WSJ",
+      "pub_raw": "Thu, 06 Aug 2026 14:32:41 GMT",
+      "pub_sort_dt": "2026-08-06 22:32:41"
+    },
+    {
+      "source": "New York Times",
+      "title_en": "TikTok Lays Off 250 Employees in Office That Includes Content Moderation - The New York Times",
+      "title_cn": "TikTok 解雇 250 名办公室员工，其中包括内容审核 - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVhBemtrRGppVG5qcWg4aWlIcjV3dm0zT1k2cjNWcWJZWFE0ck9tYWtZOFZxNGxnNVB1TTZac04yRDJpU0xld0J5RXlEVnZ1VlQ0M2xFMldIVFRVbE10akp5cWJxeHF4Z2MyUDRPS051OG5xcGdLUmlKM01CbUVEcw?oc=5",
+      "summary": "TikTok Lays Off 250 Employees in Office That Includes Content Moderation&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Thu, 06 Aug 2026 13:14:00 GMT",
+      "pub_sort_dt": "2026-08-06 21:14:00"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "China’s superstitious mayors - The Economist",
+      "title_cn": "《经济学人》：中国迷信的市长",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pMzA2UTJwSjRpMGMwekJHNmZQVVdRdFliQTZldURKamtGaVB5QXZKMkNRTzdPaWJnaU9pWmRqajZPSVkycUotSnJ2VEQ0QXI0andvYkJORXpsc0dfcWNKTXR5WWIteU5vakczM2RCR09Sai1OcDQweWtB?oc=5",
+      "summary": "China’s superstitious mayors&nbsp;&nbsp;The Economist",
+      "pub_raw": "Thu, 06 Aug 2026 13:00:25 GMT",
+      "pub_sort_dt": "2026-08-06 21:00:25"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Thousands evacuated in northwest China after heavy rains, flooding - Reuters",
+      "title_cn": "中国西北地区暴雨洪水后数千人撤离 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHBINXZ3TWx4dktiUHJ5RW95NnBZVmYydElWeVZ3c1JSaXdXVURGMmd5NFlyTVBzRUVDWW8weG5vMS1jN3JGOTY3cmV4d1Jwb1RuQXR1ZC1mRGZJR0V6V19Kb0t4ZTJpczUtd09zd0NHR2J4eUpQVk5TUjhoam1DR19LUk5KT2Jzdi1uV2lFWWpWM1pKZm9sNzhtQW9oOGlZNDdOQ19tUEtNS24ydGFYUS1STE8xdEs2cnY0?oc=5",
+      "summary": "Thousands evacuated in northwest China after heavy rains, flooding&nbsp;&nbsp;Reuters",
+      "pub_raw": "Thu, 06 Aug 2026 12:47:38 GMT",
+      "pub_sort_dt": "2026-08-06 20:47:38"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "Asahi Kasei Enters First License Agreement for Production and Sale of Acetolyte™ Novel Electrolyte in China - Financial Times",
+      "title_cn": "旭化成签订首份在中国生产和销售 Acetolyte™ 新型电解质的许可协议 - 金融时报",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEpOMXhiTTU4LUt3cEs5VU5BZlhaQ3lvdWo2VXdJbDY0M3gzN3VzdTR5cWtzWWdWRHhHUnk3Q1FjM1hWY2VLQ1V6bXFQdnZZRURmbHJpSUd5ZG5nOTdqdWIwd202T3E2ekFnbk9CcUd2RzFtVE92RjQ4UzhvU2diMjJ0WVNfS01FVk1fUi15V0pleEtCTGtNVC1LeHZXYVBUX0ExNVRR?oc=5",
+      "summary": "Asahi Kasei Enters First License Agreement for Production and Sale of Acetolyte™ Novel Electrolyte in China&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Thu, 06 Aug 2026 12:30:00 GMT",
+      "pub_sort_dt": "2026-08-06 20:30:00"
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "AI becomes bigger headache than tariffs for China camera maker Insta360 - Nikkei Asia",
+      "title_cn": "对于中国相机制造商Insta360来说，人工智能成为比关税更令人头疼的问题 - 日经亚洲",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR1ZXR3VJZlFZRVVRY3RkMGgzZEVyQ0tSc0sybHVQNFpQazNTWGtLYkJCd2xxV3hibUtWbE5HUjZncGliQUdncVhFNU9tX2l6Rnl5akVRVVFqYV9nQ1NhalByVk1xOWpMS05USFpnalpMalBjeGt2cHIyazAxOWhLLWVqZDdIQXhlaWFPS0lkQlVzNlg2NDNrWUUtVjgxQ2xTVW9GYnBaQTZTajBYbkJjNHlrbFN4UQ?oc=5",
+      "summary": "AI becomes bigger headache than tariffs for China camera maker Insta360&nbsp;&nbsp;Nikkei Asia",
+      "pub_raw": "Thu, 06 Aug 2026 12:29:00 GMT",
+      "pub_sort_dt": "2026-08-06 20:29:00"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "The Morning Risk Report: U.S. to Halt Key Metal Waste Exports in Push to Break China Reliance - WSJ",
+      "title_cn": "早间风险报告：美国将停止主要金属废物出口，以打破对中国的依赖 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNmxXbGU1RGZpYjBMTHl5TEZseWpKVjh3N1d3cDdaTFFlUGFPb0xpWEdYLWdKbWRMVnc5YmtqS1ZSV3htdXN1bkRGQ3F3MW1jUGEtMi1RZUpYRWUxdmFtcEEycHVNN3VmNVpiWWEyTGUzU2ZBR1l5Nkk5ZjNnaFhDM3RsQXYzclBfSlM5bDJhRTJxMnJmWHZDV25TdXBOMy1uRXNWYkFST3pfQ3ZSNVNvRGRRekd2XzlyYnc1RGctc2RubUNRQW5Lb1pEdng?oc=5",
+      "summary": "The Morning Risk Report: U.S. to Halt Key Metal Waste Exports in Push to Break China Reliance&nbsp;&nbsp;WSJ",
+      "pub_raw": "Thu, 06 Aug 2026 11:18:00 GMT",
+      "pub_sort_dt": "2026-08-06 19:18:00"
+    },
     {
       "source": "Wall Street Journal",
       "title_en": "Xi Wants a Strong-Looking Yuan. China’s Economy Keeps Holding It Down. - WSJ",
@@ -26,22 +97,31 @@
       "pub_sort_dt": "2026-08-06 18:56:56"
     },
     {
+      "source": "AP",
+      "title_en": "A Tibetan studies conference is canceled in Nepal at the request of officials - AP News",
+      "title_cn": "应官员要求，尼泊尔取消西藏研究会议 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWWVVVFZ4aW41TkxhQkVxajgzS3pwQ0dtX0RPbVk3Y2ZFanRaWWx2amxUOHdzN0hzckhqSE4xTU13YTBkNjdFdDdtZnVxWUlNMFI4Yl9ZWk1YMDRYdlJqalFUcm01NWhlOURhbE5Rd2FHRHc4eVgtY00wNlZOSzJCeVhUMjRHZE54cGJjOTZpWGhXS1RFVV9tREhwX0ZoZ0I0Zk1PLXpWOU8?oc=5",
+      "summary": "A Tibetan studies conference is canceled in Nepal at the request of officials&nbsp;&nbsp;AP News",
+      "pub_raw": "Thu, 06 Aug 2026 10:39:00 GMT",
+      "pub_sort_dt": "2026-08-06 18:39:00"
+    },
+    {
       "source": "Financial Times",
       "title_en": "Both Trump and young Americans are warming to China - Financial Times",
-      "title_cn": "特朗普和美国年轻人都对中国升温 - 英国《金融时报》",
+      "title_cn": "特朗普和美国年轻人都对中国产生好感 - 英国《金融时报》",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByUFFiZENfY1V0RGRGV1NZU3Y4cmlRWDBXR2lVT2dxVmtuZWpFM2VMMnE0N1Q4U1VIbk80MnlJblFSbW05STRyX3VENUNwREhJRWpLbTRyQnkzQkpNZU9RbU5vWm91QVVBdndYREQtUTE?oc=5",
       "summary": "Both Trump and young Americans are warming to China&nbsp;&nbsp;Financial Times",
       "pub_raw": "Thu, 06 Aug 2026 10:31:44 GMT",
       "pub_sort_dt": "2026-08-06 18:31:44"
     },
     {
-      "source": "The Economist",
-      "title_en": "A glimpse from China of AI’s future - The Economist",
-      "title_cn": "中国人工智能的未来一瞥 - 《经济学人》",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcHUxYUxGSTd2QzREQ2kxYlpGcEpjdmNZLVBleHp6MXEyZmxMd3plZmxGSzRfTGZpaTVJWGZKNC1CTjk2OHNJTV9lYmpZN3hVc1R5cWlkSjZxVlNvcERSYVRaSXVRWXlxTGw5SVlwcVQyTi0xblVLZ2M4TlZxajF6U1pvby0xWFE?oc=5",
-      "summary": "A glimpse from China of AI’s future&nbsp;&nbsp;The Economist",
-      "pub_raw": "Thu, 06 Aug 2026 10:04:27 GMT",
-      "pub_sort_dt": "2026-08-06 18:04:27"
+      "source": "AP",
+      "title_en": "Taiwan’s military drills suggest deeper alignment with the US - AP News",
+      "title_cn": "台湾军演表明与美国更深层次的结盟 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZklLSTVHR0d2aG55dGtmNWRpVlBjYndGcmhuU3lRSVA2bTZuNzQ4VVdpM09CV0FkNVFxVmw0bHVJSVYxZ0RKc1pqb1o0MTdZY19fcENaX2hMSldDZlU5WFI2MTZVaFRXWko1ZWNlYkprRTNMTFJrU3pBeWs2R3lmLWVjYjhMd0tRblFHNlVUUFhWTklmTm5VTUd0QkVuLUE?oc=5",
+      "summary": "Taiwan’s military drills suggest deeper alignment with the US&nbsp;&nbsp;AP News",
+      "pub_raw": "Thu, 06 Aug 2026 10:19:00 GMT",
+      "pub_sort_dt": "2026-08-06 18:19:00"
     },
     {
       "source": "Bloomberg",
@@ -74,7 +154,7 @@
       "source": "CNN",
       "title_en": "Airport apologizes for security clash with Chinese tourists - CNN",
       "title_cn": "机场就与中国游客发生安全冲突道歉 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGdPYW9MTzVXdUlOVzBBQ2xIeFBfRnRIYmJselEySklEVTZkaUhrQktxTGtLMFZmZGtHSFVEMk54cjRmd3ZCbWNzYlZlbm5wMVZ2cGtaSnQ0RjBsSkt1Y3o2dUtuUXNpaHlqZTVTUGJ0NnlYcU5rUFlwZ2J0TzBVZjV1T21FM0Z0UVdYRUtScENfVnJONlJCU3RnQVR2TFpIZjkwTHk1WmR3OG5SWXFMdA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnFIbTFOT1ZHVUJmNkMyNjRqTWNwQXVScUQ5ZEw4aXI1NXUwUmNHUFVsblpQejZwWTRnSm9pU2FqbmJBSTBHWWFycTRxYmdNWDd1eWtMTVpjZFllV3Z2VENpOEphcUhPLU1vcUF1YThKX2FJNllBS0hzcTNxWjJvSUVFM0dfSkpUcFIxTVZQajlacldCQnlUZ0dRNldCd3MxcU9YaFQ2LTBiMXM?oc=5",
       "summary": "Airport apologizes for security clash with Chinese tourists&nbsp;&nbsp;CNN",
       "pub_raw": "Thu, 06 Aug 2026 08:52:00 GMT",
       "pub_sort_dt": "2026-08-06 16:52:00"
@@ -89,11 +169,20 @@
       "pub_sort_dt": "2026-08-06 16:30:34"
     },
     {
+      "source": "Reuters",
+      "title_en": "In Taiwan drill, armoured carrier takes president to command centre - Reuters",
+      "title_cn": "台军演练装甲车载总统前往指挥中心 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDV2MzIwS0NJWE13dDJXNW9GR2x5R3BySnZzZUZvU3NkdzVfazlzQWdhX2pDaDNLSG9keXUtaTVTanlXbEhuX0p4LUZQQjUxclhaVHliQ1drblBYZWhxWHBGVnJmZzBYREpKU2Z1bTlTNTlROUhCYVBtTlg4MEFvWmJZZllFWlVwQUFmYTNCcGxtLTJURFJ6ajNZaE5EeEtOTGFGWk9SWi1vZlVo?oc=5",
+      "summary": "In Taiwan drill, armoured carrier takes president to command centre&nbsp;&nbsp;Reuters",
+      "pub_raw": "Thu, 06 Aug 2026 08:19:43 GMT",
+      "pub_sort_dt": "2026-08-06 16:19:43"
+    },
+    {
       "source": "The Economist",
-      "title_en": "China’s AI drive threatens to the world’s largest workforce - The Economist",
-      "title_cn": "《经济学人》：中国的人工智能驱动力威胁着全球最大的劳动力市场",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObU0yZVNaRGNNX05qVmN1WlRxUFhYcC04a3EyZFAyMXFOOTg1QmQ2OGdzTy1MQ1kyYUVHa1p1RzR4aUQtcks5T0F3cHFWS3doTE12RlhfR3BxS29ENnBrSF93RFNPTVZTUzJBejZoU3VzUDM5cXBHejN4Q210dVV5OTVudy1vbkg3elViSUEyT0FWY0E1UWN4TXJRSWxQVVBlblpacHln?oc=5",
-      "summary": "China’s AI drive threatens to the world’s largest workforce&nbsp;&nbsp;The Economist",
+      "title_en": "China’s AI drive threatens the world’s largest workforce - The Economist",
+      "title_cn": "《经济学人》：中国的人工智能驱动力威胁着世界上最大的劳动力",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlA2QWV6MUtSLUxhZU90bHJ6M3NnSmNvN2N1bm1Nbi1rVzYySUVOclZRbTBXbFlDbWE0b1I0Vll6SjRkaHpJOUtMRk8yVHRRT1B5ZEM5anBBVWNFSkxNdlhDODdiUjlOTnVZM08zdEx3QnFsZFZKb3hjRzRyc1N5cEFUZU5BeVhRZmxFXzBiTU1nSjlEZ2Jac0Zya1BXNEJFNHc?oc=5",
+      "summary": "China’s AI drive threatens the world’s largest workforce&nbsp;&nbsp;The Economist",
       "pub_raw": "Thu, 06 Aug 2026 08:17:04 GMT",
       "pub_sort_dt": "2026-08-06 16:17:04"
     },
@@ -103,8 +192,8 @@
       "title_cn": "中国 Unitree IPO 将全球机器人竞赛和地缘政治置于焦点 - CNBC",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHJwd1ZsN3J1UExLX0hId3RDTl9OWkRvY2RPdERmX2tMQ0RLTzhNdUFJSFUwNWF2dEhqQy1oNkh5aXNmRGdCY3o3Zk4wbFZoZ2RyOW16RVIwSUZjMjR6Tm5jM3RicE5lSGRqSERfZVlSR2Q1M1h3V1pDNzVXSmxUdzhLblFJUVdWNjY4SHl1MGVyaWpkVWZHc1hWVTFaX2t3Vi1xdDRiWG5XY2phTFY1QWd3?oc=5",
       "summary": "China's Unitree IPO puts global robotics race and geopolitics in focus&nbsp;&nbsp;CNBC",
-      "pub_raw": "Thu, 06 Aug 2026 08:15:22 GMT",
-      "pub_sort_dt": "2026-08-06 16:15:22"
+      "pub_raw": "Thu, 06 Aug 2026 08:13:00 GMT",
+      "pub_sort_dt": "2026-08-06 16:13:00"
     },
     {
       "source": "AP",
@@ -116,6 +205,15 @@
       "pub_sort_dt": "2026-08-06 15:47:00"
     },
     {
+      "source": "Reuters",
+      "title_en": "China's CMRG tells some steel mills to halt talks with Rio Tinto, sources say - Reuters",
+      "title_cn": "消息人士称，中国CMRG要求一些钢厂停止与力拓的谈判 - 路透",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXRXN1dla1VaLU1TU3FKSzRDdW9qUkRHNUNaRzJqSW9hNllTdEhlS25GVHBhdkRib1VKVzJvWlRteXBRSUhKSTEtOGRic0FjNkdXcVJqZEtlLU56ZjJHV2E5cHpySEtjSWxxSFE0VEVOSVcwSUtaMDYzS1JsNEFwNmgzT1FTYmxXTnhNbTlUVm1PcTIzZ0tEOEtEdXFmWjUzb2wwdmhWUVhORXZvQzBJNUpBdGpYOEJyYnRYYnpDU0dfMUh0Zzhn?oc=5",
+      "summary": "China's CMRG tells some steel mills to halt talks with Rio Tinto, sources say&nbsp;&nbsp;Reuters",
+      "pub_raw": "Thu, 06 Aug 2026 07:39:04 GMT",
+      "pub_sort_dt": "2026-08-06 15:39:04"
+    },
+    {
       "source": "Financial Times",
       "title_en": "Amundi MSCI China ESG Selection UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
       "title_cn": "东方汇理 MSCI 中国 ESG 选择 UCITS ETF Acc：资产净值 – 公司公告 - 金融时报",
@@ -123,15 +221,6 @@
       "summary": "Amundi MSCI China ESG Selection UCITS ETF Acc: Net Asset Value(s) – Company Announcement&nbsp;&nbsp;Financial Times",
       "pub_raw": "Thu, 06 Aug 2026 07:08:00 GMT",
       "pub_sort_dt": "2026-08-06 15:08:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "China's CMRG tells some steel mills to halt talks with Rio Tinto, sources say - Reuters",
-      "title_cn": "消息人士称，中国CMRG要求一些钢厂停止与力拓的谈判 - 路透",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXRXN1dla1VaLU1TU3FKSzRDdW9qUkRHNUNaRzJqSW9hNllTdEhlS25GVHBhdkRib1VKVzJvWlRteXBRSUhKSTEtOGRic0FjNkdXcVJqZEtlLU56ZjJHV2E5cHpySEtjSWxxSFE0VEVOSVcwSUtaMDYzS1JsNEFwNmgzT1FTYmxXTnhNbTlUVm1PcTIzZ0tEOEtEdXFmWjUzb2wwdmhWUVhORXZvQzBJNUpBdGpYOEJyYnRYYnpDU0dfMUh0Zzhn?oc=5",
-      "summary": "China's CMRG tells some steel mills to halt talks with Rio Tinto, sources say&nbsp;&nbsp;Reuters",
-      "pub_raw": "Thu, 06 Aug 2026 06:55:00 GMT",
-      "pub_sort_dt": "2026-08-06 14:55:00"
     },
     {
       "source": "Financial Times",
@@ -154,7 +243,7 @@
     {
       "source": "Financial Times",
       "title_en": "Insurance and bank stocks slide amid China tax crackdown fears - Financial Times",
-      "title_cn": "保险股和银行股因中国税收打击担忧而下滑 - 英国《金融时报》",
+      "title_cn": "保险股和银行股因中国税收打击担忧而下滑 - 金融时报",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzc5YzA3ZXEyVnczV29WNmtPSVlSUGdLQ2N6djBJMHZpYzV4UFVERTlSUTdUd2pVS09RWVR2dVVESlVnejVxR29DQmRlcGl6dUpjYTV0TWpRYnNseE95c25lSS1lcVN2LWRPV2hNUVV1bGUtUWZ1ZmNNaWxETDNHbHpJaTk?oc=5",
       "summary": "Insurance and bank stocks slide amid China tax crackdown fears&nbsp;&nbsp;Financial Times",
       "pub_raw": "Thu, 06 Aug 2026 05:07:49 GMT",
@@ -168,24 +257,6 @@
       "summary": "Taiwan kicks off annual military drills to counter a potential Chinese attack&nbsp;&nbsp;AP News",
       "pub_raw": "Thu, 06 Aug 2026 04:36:00 GMT",
       "pub_sort_dt": "2026-08-06 12:36:00"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "China Closes the Satellite Gap in Space Race With the U.S. - WSJ",
-      "title_cn": "中国缩小与美国在太空竞赛中的卫星差距 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdTA3MjFhMnMyOTE4Q25rVG5PWTEtSE1aUy0wd25XalJUWndjZkZEd3NwNVhMS0Yxa2syMVdDR0V2SkJpd1EwYzFRemswMGRDX1J5cmhMZVZHa21MRHNQc0xRRWR6MV9JbndMbmk3aUhuUmpYeFNCU1FaRkpGUjRsMk1ZellBT2pQd2pfSnRzTEotdDB4eEk5SHJDM3VYbTA?oc=5",
-      "summary": "China Closes the Satellite Gap in Space Race With the U.S.&nbsp;&nbsp;WSJ",
-      "pub_raw": "Thu, 06 Aug 2026 04:31:56 GMT",
-      "pub_sort_dt": "2026-08-06 12:31:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "In Taiwan drill, armoured carrier takes president to command centre - Reuters",
-      "title_cn": "台湾演习装甲车载总统前往指挥中心 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDV2MzIwS0NJWE13dDJXNW9GR2x5R3BySnZzZUZvU3NkdzVfazlzQWdhX2pDaDNLSG9keXUtaTVTanlXbEhuX0p4LUZQQjUxclhaVHliQ1drblBYZWhxWHBGVnJmZzBYREpKU2Z1bTlTNTlROUhCYVBtTlg4MEFvWmJZZllFWlVwQUFmYTNCcGxtLTJURFJ6ajNZaE5EeEtOTGFGWk9SWi1vZlVo?oc=5",
-      "summary": "In Taiwan drill, armoured carrier takes president to command centre&nbsp;&nbsp;Reuters",
-      "pub_raw": "Thu, 06 Aug 2026 04:09:00 GMT",
-      "pub_sort_dt": "2026-08-06 12:09:00"
     },
     {
       "source": "Bloomberg",
@@ -225,10 +296,10 @@
     },
     {
       "source": "Reuters",
-      "title_en": "Hong Kong insurers' shares slump on report China to tax offshore insurance income - Reuters",
-      "title_cn": "有报道称中国将对离岸保险收入征税，香港保险公司股价暴跌 - 路透中文网",
+      "title_en": "Hong Kong insurers' shares drop as Beijing taxes offshore insurance income - Reuters",
+      "title_cn": "北京对离岸保险收入征税，香港保险公司股价下跌 - 路透中文网",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdER1bHRmMHBUQXZTaWpjV1lQd2pxcUdyV0N4dTI1RXlNcWVLOTRpQXByMThNYmxHUnVEU3QwSUhCajJwVEI4T3pqR3hVQlNlRmZYdV9aMWtXaXk1c0ZGSllsV3FtRDc1eXJsVDJJdUxtMGFGZGJjVTZEZHVESHI2TlBxZlBQT0VjQkJvUmlVWmQ0V00za2VYUUpwbXVhN3kwV19kWV9rWTAwVTZobC1lelRtXzZ3eUVUd282NEt4WFBkM25xRGc?oc=5",
-      "summary": "Hong Kong insurers' shares slump on report China to tax offshore insurance income&nbsp;&nbsp;Reuters",
+      "summary": "Hong Kong insurers' shares drop as Beijing taxes offshore insurance income&nbsp;&nbsp;Reuters",
       "pub_raw": "Thu, 06 Aug 2026 01:34:00 GMT",
       "pub_sort_dt": "2026-08-06 09:34:00"
     },
@@ -240,15 +311,6 @@
       "summary": "China’s Cheap AI Is Shifting Investors’ Focus to Internet Stocks&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Thu, 06 Aug 2026 01:28:00 GMT",
       "pub_sort_dt": "2026-08-06 09:28:00"
-    },
-    {
-      "source": "New York Times",
-      "title_en": "TikTok Is Laying Off 250 Employees in Its Nashville Office - The New York Times",
-      "title_cn": "TikTok 将在纳什维尔办事处裁员 250 名员工 - 纽约时报中文网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVhBemtrRGppVG5qcWg4aWlIcjV3dm0zT1k2cjNWcWJZWFE0ck9tYWtZOFZxNGxnNVB1TTZac04yRDJpU0xld0J5RXlEVnZ1VlQ0M2xFMldIVFRVbE10akp5cWJxeHF4Z2MyUDRPS051OG5xcGdLUmlKM01CbUVEcw?oc=5",
-      "summary": "TikTok Is Laying Off 250 Employees in Its Nashville Office&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Thu, 06 Aug 2026 00:24:06 GMT",
-      "pub_sort_dt": "2026-08-06 08:24:06"
     },
     {
       "source": "Bloomberg",
@@ -307,7 +369,7 @@
     {
       "source": "Bloomberg",
       "title_en": "China Is Beating Europe to the Next Billion Drivers - Bloomberg.com",
-      "title_cn": "中国正在击败欧洲，争取下一个十亿司机 - Bloomberg.com",
+      "title_cn": "中国正在击败欧洲，创造下一个十亿司机 - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZjJEaVkycVFBdG84VmJiLTNuNU11T3U4MjdZZGR2T1dqaEswR0wwamFoT3o1UlA0V0RJTUZoU0J1Y0VfNTJFclppMDhIVk9mSm92VFhlLXN3dnN2Wnp0VXNGb1ZqREFRMlJaN2t4cHlpY1dwMm1pRlNoRVJ6WVA5TUJuTE5mNEhXck50RzJEbGs4ZW1USXFqNTZ4NG5tWm9leWtvUVNtRE8?oc=5",
       "summary": "China Is Beating Europe to the Next Billion Drivers&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Wed, 05 Aug 2026 18:00:16 GMT",
@@ -321,42 +383,6 @@
       "summary": "Catch up: SpaceX’s shares (and rocket parts) drop; China retaliates against America&nbsp;&nbsp;The Economist",
       "pub_raw": "Wed, 05 Aug 2026 16:38:14 GMT",
       "pub_sort_dt": "2026-08-06 00:38:14"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Prudential shares tumble on report China will tax offshore insurance returns - Reuters",
-      "title_cn": "有报道称中国将对离岸保险收益征税，保诚股价暴跌 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX25HTklwWF9LQXhQcmZQekd3bXR0Vkg3UjktSVVyRE1HOTBJd3Atb2tTS00tMlVSdmVEN1FqeGFRQUtsalNyeHdpZjRxNS12X1NxYWE3QnQ4QzlySlNBNm1mNlF6LVNTZHpIQ19RZUZDRmRvdnVId082WHh6c19BSV9oS3hUM3lqcy1MSW9wVTdaOVBXX0hBNE9VMVRwZmwyb19nMkRtYmpzTGkydlhmY2x3?oc=5",
-      "summary": "Prudential shares tumble on report China will tax offshore insurance returns&nbsp;&nbsp;Reuters",
-      "pub_raw": "Wed, 05 Aug 2026 14:24:00 GMT",
-      "pub_sort_dt": "2026-08-05 22:24:00"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "Taiwan Tests War Plans to Thwart Chinese Invasion - WSJ",
-      "title_cn": "台湾测试阻止中国入侵的战争计划 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONldnN0liNjFSYkZSYU5yZWczcU1LM1lCaGluVlhseEpYeXk3STU0WTVmenpXUkd2ZXFzOEk4WUxLVnRJU0ZBOWItRlljT3JEYnpFMi1tck40ZHo4Zm5QaTZEbnEzVXJhQkpSei1hYnVVd3ZfR3lVSXc1VkJlc28tOGV3eUE1SXRBMjJTSV9uWXlRanM0?oc=5",
-      "summary": "Taiwan Tests War Plans to Thwart Chinese Invasion&nbsp;&nbsp;WSJ",
-      "pub_raw": "Wed, 05 Aug 2026 13:54:00 GMT",
-      "pub_sort_dt": "2026-08-05 21:54:00"
-    },
-    {
-      "source": "DW",
-      "title_en": "China: Landslide buries buildings, traps people - DW.com",
-      "title_cn": "中国：山体滑坡掩埋建筑物、人员被困 - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmRrVTdCNFZSM1lMTTBjSVJhU3RsQkJzdVE2RmpiQ1ZwOUg1eExfZkRoUDRhaWhHZUFvbTZ1bGRRbDJjNVFZMHdtRjZsRWVZZXBHcDhENE5hUzdneTk3bXZDVlk0MWtwaXRuZkVMNzVSWGc4UGZUc1BtVVBoNTI1S0Z5NnrSAYQBQVVfeXFMUDgtUjZKVndvd2dNQ0xLMzdrM0dOWFBXOHdqZTQzdXBYNllYWjRaSXhUMGlENVNmMGw5YXN0alBNT3Z0U3hYbXpGeDg4bFBVcF96SlJLaWNjUDhFaEVIa1ZFcVpYT0czSG1IanRHMm9jTDJwcmRNUENESUJjbUNzT2g1NHM0?oc=5",
-      "summary": "China: Landslide buries buildings, traps people&nbsp;&nbsp;DW.com",
-      "pub_raw": "Wed, 05 Aug 2026 13:37:59 GMT",
-      "pub_sort_dt": "2026-08-05 21:37:59"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "China hits back at US with sanctions and tighter drone export rules - Financial Times",
-      "title_cn": "中国通过制裁和更严格的无人机出口规则回击美国 - 英国《金融时报》",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG5rcW5PalpobUFkZTRLVnlMRk5qelZHM3NmaDl6NzcwemotbjRLRGM4WnAtY1ZacG5CMXVrN1JZc0NrOWMzVGVUbW9BM1lHRGsyU2IzTnN4QXJpWWUyZDhSVGZ2Qmd1TVIyOUN6RGU4WGduWG1LMURjY2JNanZmeXRIQkM?oc=5",
-      "summary": "China hits back at US with sanctions and tighter drone export rules&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Wed, 05 Aug 2026 13:23:08 GMT",
-      "pub_sort_dt": "2026-08-05 21:23:08"
     }
   ]
 }
