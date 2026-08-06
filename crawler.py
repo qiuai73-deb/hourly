@@ -107,41 +107,6 @@ def add_news(source_name: str, title_en: str, url: str, summary: str, pub_raw: s
     source_counter[source_name] = source_counter.get(source_name, 0) + 1
     return True
 
-# 抓取政府RSS源
-def load_gov_rss():
-    feeds = [
-        {"name": "US State Dept", "url": "https://www.state.gov/press-releases/feed/", "kw": ["China","Taiwan","South China Sea"]},
-        {"name": "US DoD", "url": "https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=20", "kw": ["China","PLA","Taiwan"]},
-        {"name": "EU EEAS", "url": "https://www.eeas.europa.eu/eeas/taxonomy/term/397/feed", "kw": ["China","Beijing","Taiwan"]},
-        {"name": "UK FCDO", "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office.atom", "kw": ["China","Hong Kong","Taiwan"]},
-    ]
-    for feed in feeds:
-        try:
-            xml = fetch(feed["url"])
-            items = parse_rss(xml)
-            for it in items:
-                full_text = it["title"] + " " + it["desc"]
-                if any(k.lower() in full_text.lower() for k in feed["kw"]):
-                    add_news(feed["name"], it["title"], it["link"], it["desc"], it["pub"])
-        except Exception:
-            continue
-
-# 抓取BBC直连RSS
-def load_bbc_rss():
-    bbc_urls = [
-        "https://feeds.bbci.co.uk/news/world/asia/china/rss.xml",
-        "https://feeds.bbci.co.uk/news/world/asia/rss.xml"
-    ]
-    for link in bbc_urls:
-        try:
-            xml = fetch(link)
-            items = parse_rss(xml)
-            for it in items:
-                if is_cn(it["title"] + it["desc"]):
-                    add_news("BBC", it["title"], it["link"], it["desc"], it["pub"])
-        except Exception:
-            continue
-
 # 抓取Google News外媒聚合RSS
 def load_media_google_rss():
     media_list = [
@@ -157,9 +122,11 @@ def load_media_google_rss():
         ("AFP", "site:afp.com+china+when:1d"),
         ("The Economist", "site:economist.com+china+when:1d"),
         ("New York Times","site:nytimes.com+china+when:1d"),
-        ("VOA News", "site:voanews.com+china+when:1d"),
-        ("The BBC", "site:BBC.com+china+when:1d"),
-        ("NEJM", "site:nejm.org+china+when:1d"),
+        ("BBC", "site:BBC.com+china+when:1d"),
+        ("DW", "site:DW.com+china+when:1d"),
+        ("RFI", "site:RFI.FR+china+when:1d"),
+        ("yahoo", "site:yahoo+china+when:1d"),   
+           
     ]
     for src, q in media_list:
         try:
@@ -175,8 +142,6 @@ def load_media_google_rss():
 
 def main():
     # 1. 加载全部新闻源
-    load_gov_rss()
-    load_bbc_rss()
     load_media_google_rss()
 
     # 2. 全局按发布时间倒序排序
