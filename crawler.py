@@ -164,7 +164,7 @@ def load_media_google_rss():
     for src, q in media_list:
         try:
             time.sleep(1)
-            rss_url = f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
+            rss_url = f"https://news.google.com/rss/search?q={q}"
             xml = fetch(rss_url)
             items = parse_rss(xml)
             for it in items:
