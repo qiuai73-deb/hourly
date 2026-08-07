@@ -1,29 +1,65 @@
 {
-  "update_cst": "2026-08-07 12:35:06 北京时间",
-  "total_count": 46,
+  "update_cst": "2026-08-07 15:58:00 北京时间",
+  "total_count": 49,
   "source_stat": {
     "Reuters": 5,
     "Bloomberg": 5,
-    "AP": 5,
+    "AP": 4,
     "Nikkei Asia": 5,
     "Financial Times": 5,
-    "Wall Street Journal": 3,
-    "CNBC": 4,
+    "Wall Street Journal": 4,
+    "CNBC": 5,
     "New York Times": 3,
-    "CNN": 2,
-    "AFP": 1,
+    "CNN": 3,
+    "AFP": 2,
     "The Economist": 5,
     "BBC": 3
   },
   "news": [
     {
-      "source": "The Economist",
-      "title_en": "Lessons from Chinese AI - The Economist",
-      "title_cn": "中国人工智能的教训 - 经济学人",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RU42T0FJazFlaFNVMmc0djFkYUsyZU5XSXpfb0w5S3NSSGhsRkM5T0s4TTRvNkZRVEx5b0FJRlhiYUFWZjhCOFFoS0FfWGJuR0hlYWxPME1wSWZBeWVV?oc=5",
-      "summary": "Lessons from Chinese AI&nbsp;&nbsp;The Economist",
-      "pub_raw": "Fri, 07 Aug 2026 04:22:28 GMT",
-      "pub_sort_dt": "2026-08-07 12:22:28"
+      "source": "AFP",
+      "title_en": "Spanish authorities refute false claims of adopting Chinese currency over dollars - AFP Fact Check",
+      "title_cn": "西班牙当局驳斥采用人民币取代美元的虚假说法 - 法新社事实核查",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CdlY1YmlLU29hSnd3T2hlUkRPeGxZS0FyaWJzaF9oWThvRFRsYml1cWk4akxqLWFFMlI3LWlnc0dZdWdBR1N5WnFMa3RiaWNJcmljeHpaclo?oc=5",
+      "summary": "Spanish authorities refute false claims of adopting Chinese currency over dollars&nbsp;&nbsp;AFP Fact Check",
+      "pub_raw": "Fri, 07 Aug 2026 07:22:44 GMT",
+      "pub_sort_dt": "2026-08-07 15:22:44"
+    },
+    {
+      "source": "CNBC",
+      "title_en": "China's EV market is no longer the fastest growing: Southeast Asia scales up - CNBC",
+      "title_cn": "中国电动汽车市场不再是增长最快的：东南亚规模扩大 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVaXpXWEJTdVpUNnExZ0UxMU9EdlV4dWgxNVpuU3U5U1dfOUdQRmktTHdRLWhvRWRESGxJajNpVk5nbDY2WTY5LVJvNk5PTXhGdXdzeWhQNE1QQi0yc1hwM0dndHBzLUYzWU0wUGFGN3dTRnpH?oc=5",
+      "summary": "China's EV market is no longer the fastest growing: Southeast Asia scales up&nbsp;&nbsp;CNBC",
+      "pub_raw": "Fri, 07 Aug 2026 07:03:14 GMT",
+      "pub_sort_dt": "2026-08-07 15:03:14"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "Three Things to Know About China’s Export Boom - WSJ",
+      "title_cn": "关于中国出口繁荣需要了解的三件事 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYVp3cE0xNEZtODBTSTRWaHRyZXBKVzQ3eTZqNUtocmp2eDZBN0tuWVN4cld3N1c3Wko1WXNqVWd3dmM2b3Y2cHU1TmFhc252N2hIQkFlTVNlVTlwd25MLUJrWE0xcWNSc2I2RkpFZjI4X1FFSDFYT0Rxc1VuRmJ1c0cyajkwZWIyUzI5d1NucUhNSThDVnhCV1lHaU85czdabDhVWTU0U3BESG8?oc=5",
+      "summary": "Three Things to Know About China’s Export Boom&nbsp;&nbsp;WSJ",
+      "pub_raw": "Fri, 07 Aug 2026 06:44:00 GMT",
+      "pub_sort_dt": "2026-08-07 14:44:00"
+    },
+    {
+      "source": "CNN",
+      "title_en": "Taiwan’s leader boards armored vehicle to escape mock ‘decapitation strike’ - CNN",
+      "title_cn": "台湾领导人登上装甲车躲避模拟“斩首袭击” - CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pc2hPRG9WSW56V2RPaW95bWVuSDB2M0huQ09laDJqd3RVUDZ3OHRkT1JMNUh4MUpBdTZESVRmTWdCNHZtQUlXd0tCS2E5QUFRREFuOW1zWGJiZXFGMnAyVkJDcUFMT251T0FnLUNaY2pRNEVvajVsRDAzQzNvQjg?oc=5",
+      "summary": "Taiwan’s leader boards armored vehicle to escape mock ‘decapitation strike’&nbsp;&nbsp;CNN",
+      "pub_raw": "Fri, 07 Aug 2026 06:42:51 GMT",
+      "pub_sort_dt": "2026-08-07 14:42:51"
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Hormuz closure clouds China's crude imports after they hit a 3-month high in July - CNBC",
+      "title_cn": "霍尔木兹海峡关闭令中国原油进口量在 7 月份触及三个月高位后蒙上阴影 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGxBOHo3Um1FRjJsOG5KLWJhdUI4QlZ6eXQ5SWRnV0J5aVhOZTFCZUs3M092SktsUkdndS0zemgyWUtLb2I5VGM4TDBDR0o0SjNuTUVsY2JrSU16TmljQlVUc2hvOEVPT1NMM1B5b09OVGtZNTh1RGhoNkw2clBTNDFpUDfSAYoBQVVfeXFMT08yT01SazVJWlI5Sm81YVBvRDhzQUNRTUdxellKbXJwVXhVY0IyVzJqMGxKQ0NsM2NkZ1p0NlJVVzhmS2NaVGNnTWZSMldyLWc5V29DRzJYWVlyZDA4YkJPMzNtY3VZek43Z2QxUHhNeTBiX08xWDlTd1ctVHRGa2ZiZnFDVG1UQi1n?oc=5",
+      "summary": "Hormuz closure clouds China's crude imports after they hit a 3-month high in July&nbsp;&nbsp;CNBC",
+      "pub_raw": "Fri, 07 Aug 2026 05:55:34 GMT",
+      "pub_sort_dt": "2026-08-07 13:55:34"
     },
     {
       "source": "Financial Times",
@@ -31,8 +67,53 @@
       "title_cn": "英国《金融时报》7月中国出口增长近四分之一",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWVYUHlPSVV1QXhXVmtzV1RHSTlUM29VQkFNenphTWlNaS1SQno3TXhwMVBTa1BXRmVyeXVFMkZiYXdWZWN5SWhaVGZYaDhSUzRHa0xHSEw3RHBLenpCV3FxRTNGRzU0ZEtxa2twQUE0RHJPTGh4MnRsRG81WEZaS0ZUOFQ?oc=5",
       "summary": "China’s exports jump almost a quarter in July&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Fri, 07 Aug 2026 03:01:18 GMT",
-      "pub_sort_dt": "2026-08-07 11:01:18"
+      "pub_raw": "Fri, 07 Aug 2026 05:52:42 GMT",
+      "pub_sort_dt": "2026-08-07 13:52:42"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Taiwan troops rehearse sealing off key bridge at strategic chokepoint during war games - Reuters",
+      "title_cn": "台军在军演期间演练封锁战略要道的关键桥梁 - 路透",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkxSbHNYMXcyQlAzdW5IX0EtSUxHRG83WHBpeTRNbkkwUmtNWXE4aGlxRHRJM0pBNmFrZ0RJUjFKMVI4dGRsempoZXJkZXJOaVhOUTdYM3pMNkNaVHd3ZDd1UjJvRzZzaWp6ei1uWUFBb2V5U1NVb19FNml5U2ZISUs5TUkxVWthZFpZd1BDdGFjMVVyWFdDZzR5a1dYdXA2Yjlxc1hIOFBtUU1LTVo3ajF1Rzd6YjRoN3NSdDFmRmJJT1E?oc=5",
+      "summary": "Taiwan troops rehearse sealing off key bridge at strategic chokepoint during war games&nbsp;&nbsp;Reuters",
+      "pub_raw": "Fri, 07 Aug 2026 05:24:31 GMT",
+      "pub_sort_dt": "2026-08-07 13:24:31"
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "Weak yen boosts Japan automaker profits, easing Middle East, China stress - Nikkei Asia",
+      "title_cn": "日元疲软提振日本汽车制造商利润，缓解中东和中国压力 - 日经亚洲",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2hjRzlEb0psNzZONmhOcDVLSTZXQXNKblpmWk9Pc2ZqQmxIdDg3aHlCVUVlWUVXSjgyS1k0RndMMWZQcHBtbXRSaURxaHRlbklOU0ZBakFaY3k3M3dHZmM2eXlSRFlOWGJTc01DREthaElOV3NzUm9MWlFQU2VucGdHRGl5THUxNU5wRDJXaEg1NmhLT1dyeThXQ2VnTFVkWUR6TTREVGZUNGpZRWJUc1JZdnljSGs?oc=5",
+      "summary": "Weak yen boosts Japan automaker profits, easing Middle East, China stress&nbsp;&nbsp;Nikkei Asia",
+      "pub_raw": "Fri, 07 Aug 2026 04:58:00 GMT",
+      "pub_sort_dt": "2026-08-07 12:58:00"
+    },
+    {
+      "source": "BBC",
+      "title_en": "Why was Taiwan’s president evacuated in a military drill overnight? - BBC",
+      "title_cn": "台湾总统为何连夜军演撤离？ - 英国广播公司",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JbWNQLXR4QzN6VWhkX2pzYjd6OGd5MFdXMTRQWEpNY3hXaTZSZWJQSTItbDFVVzNtVi0zUDNGWlRnRUhicWJocGxnTzRoVnNrWUVKVnBEYw?oc=5",
+      "summary": "Why was Taiwan’s president evacuated in a military drill overnight?&nbsp;&nbsp;BBC",
+      "pub_raw": "Fri, 07 Aug 2026 04:52:19 GMT",
+      "pub_sort_dt": "2026-08-07 12:52:19"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "China Exports, Imports Post Double-Digit Gains But Growth Slows - Bloomberg.com",
+      "title_cn": "中国出口、进口实现两位数增长，但增速放缓 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWYwcWF2bmV2bTRraDh0b3JhdDVhWmR4MHdHZ2VlY3pyZXQxM25Gdk5rTEs3TThncEtsYTBXaEpsWjZvb1QwcXlzRFkwZVRkVmlKcG1NeENvUVYyUnAzY3RXMHVCMEVzUmFGVUZZVEk5czEzdXQzNGRMOVVrbnZqRGtvUklhM0k4eEVUaHo0cjZNR0ZoZTlJREVjM2ktU0ZRc0VFY2VXaGhILThQTWxLSU9ndw?oc=5",
+      "summary": "China Exports, Imports Post Double-Digit Gains But Growth Slows&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Fri, 07 Aug 2026 04:43:00 GMT",
+      "pub_sort_dt": "2026-08-07 12:43:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "China Confirms First Deaths in South China Sea Clash in Decades - Bloomberg.com",
+      "title_cn": "中国确认南海冲突数十年来首例死亡 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQm1ZQy1fVGdzbmw4RE16TjF2NFpjeVNUUXlOSnVvVGdGc0JTcW00azRRVXNEWGt6ZGpESE1KdmNoV3gycjlNTXk1UnR2S3EtczFscEtZNUtIUzlJTlowN2N6cV9JSVl3eHQ5MzNVdl9vbDZlb0E0eVZxQUhaSGhtSHNoQUZkVFU3aWtSeUFxcnd1bU1yYmdTa0lQM0ttTkNWQ1N5d3FrM1hKVGkxTExhR2d0TTA?oc=5",
+      "summary": "China Confirms First Deaths in South China Sea Clash in Decades&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Fri, 07 Aug 2026 03:17:35 GMT",
+      "pub_sort_dt": "2026-08-07 11:17:35"
     },
     {
       "source": "Wall Street Journal",
@@ -44,31 +125,31 @@
       "pub_sort_dt": "2026-08-07 11:00:00"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "China Exports, Imports Post Double-Digit Gains But Growth Slows - Bloomberg",
-      "title_cn": "中国出口、进口实现两位数增长，但增速放缓 - 彭博社",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWYwcWF2bmV2bTRraDh0b3JhdDVhWmR4MHdHZ2VlY3pyZXQxM25Gdk5rTEs3TThncEtsYTBXaEpsWjZvb1QwcXlzRFkwZVRkVmlKcG1NeENvUVYyUnAzY3RXMHVCMEVzUmFGVUZZVEk5czEzdXQzNGRMOVVrbnZqRGtvUklhM0k4eEVUaHo0cjZNR0ZoZTlJREVjM2ktU0ZRc0VFY2VXaGhILThQTWxLSU9ndw?oc=5",
-      "summary": "China Exports, Imports Post Double-Digit Gains But Growth Slows&nbsp;&nbsp;Bloomberg",
-      "pub_raw": "Fri, 07 Aug 2026 02:47:00 GMT",
-      "pub_sort_dt": "2026-08-07 10:47:00"
-    },
-    {
       "source": "CNBC",
-      "title_en": "China's exports jump 23% in July, beating estimates; imports cool - CNBC",
-      "title_cn": "中国7月份出口增长23%，超出预期；进口酷 - CNBC",
+      "title_en": "China's exports growth beats estimates in July, as AI-driven shipments surge - CNBC",
+      "title_cn": "人工智能驱动的出货量激增，中国 7 月份出口增长超出预期 - CNBC",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWVtbGZySFBPQjJKY3VOaTJyQU0wZTVfaDYzdEtHWDBJVUZ6amxGODd3YVpuT2plOHZock5mbk5fbE9pS3d3VndMM21zMjdtRG9aRG5KRm1zQ3o2ZGpCMTNzQVBobkR3TlgwTThXUzZWelF6TGRxQkpGRlZCRDhHLW04R0xwaXNOQjNBMkVFb3c4VnJkZUJXakFsZUnSAaIBQVVfeXFMTlM3M2l3d3lCZFA5MWRtVjV5M3puckl3NG9Lc2ctVzU0RldzMGI4d0MtbHZpRWxrOWJYYXJ5WlNmd08zTXBZZ0ZVWVh6bkotTXpvNFljUURlenNRRTlQaEFZRTh0QlVlM3g2RjRvcHQ1N3kyMGtPRnZ1eUN6dWFlN1F4dmFVOHppTG9kRlNJV0NWbzBubFFaT2hQeGY0bWdVTm93?oc=5",
-      "summary": "China's exports jump 23% in July, beating estimates; imports cool&nbsp;&nbsp;CNBC",
+      "summary": "China's exports growth beats estimates in July, as AI-driven shipments surge&nbsp;&nbsp;CNBC",
       "pub_raw": "Fri, 07 Aug 2026 02:47:00 GMT",
       "pub_sort_dt": "2026-08-07 10:47:00"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "China’s Unitree Seeks $904 Million in First Mainland Robotic IPO - Bloomberg",
-      "title_cn": "中国Unitree首次在内地机器人IPO中寻求融资9.04亿美元 - 彭博社",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFFXb1JsNU1MbXlVOFh1NGItVmRoZ3lPNVEyVmxBZ1NZWmZQSlowVmR0NndYX0R5aUItSEQ2R241TVNCR2V4OXdfUTNNU1g4MEtOZHhOU0M5a05QV2NnM05wRWJIRzR5M2ZFZkVfVDR1WW5GcEpYdzJ5RHQ3R1hzLXVlWW9zZ3lVN1Y1TjQ1V3R6REFVbU03ZTJoOHAyVVl5V3hYWXBwd1YtbUpIWnc3MW1KMXo?oc=5",
-      "summary": "China’s Unitree Seeks $904 Million in First Mainland Robotic IPO&nbsp;&nbsp;Bloomberg",
-      "pub_raw": "Fri, 07 Aug 2026 02:17:00 GMT",
-      "pub_sort_dt": "2026-08-07 10:17:00"
+      "source": "Reuters",
+      "title_en": "AI demand keeps China's export engine humming, but risks loom - Reuters",
+      "title_cn": "人工智能需求使中国出口引擎保持运转，但风险迫在眉睫 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmhJQUR2QVh5SHpuWDZ2ZFk3RWdCbDlINEY1MEZuc0tRbkJQT3FuRmQ1WDdtd2owTmhJeDdIU09EYkFiNEJpTnA3cWhQQ1dnWUpkWDJPVENiZDIzTXlNUlRNenF2VlRXM29EbFFJelBiTUhuU1cycU5EV3RvaVhIbU4yc0pNWDM2aGlCaGtSTG5ySGx3aXhFcTNRTkZ4cFlva3k0cA?oc=5",
+      "summary": "AI demand keeps China's export engine humming, but risks loom&nbsp;&nbsp;Reuters",
+      "pub_raw": "Fri, 07 Aug 2026 02:42:00 GMT",
+      "pub_sort_dt": "2026-08-07 10:42:00"
+    },
+    {
+      "source": "AP",
+      "title_en": "China rebukes US over Huawei dispute as Argentina's Milei balances ties with Washington and Beijing - AP News",
+      "title_cn": "China rebukes US over Huawei dispute as Argentina's Milei balances ties with Washington and Beijing - AP News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWmNobXRadG1wY3F1N1l3MXBDRkxfQW9PX1VWb0VsQjhEQkpwNXRROGpWMmpSZ2h4cDVwdWhBekVzSU1MWDRkb044NmVEWFM0LXRPZllzQ0JocFRENXVjaWVIckEtc2lDcVVPZEwtWFNubzB3UW4tcmp6a2ZFd2pPZktyMEtXSG5tbHlUNG5ueEM3Rzc5YWRiaVhBTnZYX0xzd1lQT0xST3g3bHNFYTAxcGxaV1FkZGVFTnRNOXhJaVRlVkI3RW9jSUlRVUctT0JKVUE?oc=5",
+      "summary": "China rebukes US over Huawei dispute as Argentina's Milei balances ties with Washington and Beijing&nbsp;&nbsp;AP News",
+      "pub_raw": "Fri, 07 Aug 2026 02:39:55 GMT",
+      "pub_sort_dt": "2026-08-07 10:39:55"
     },
     {
       "source": "AFP",
@@ -82,7 +163,7 @@
     {
       "source": "Nikkei Asia",
       "title_en": "DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO - Nikkei Asia",
-      "title_cn": "DeepSeek 和国有石油巨头支持人形机器人制造商 Unitree 9 亿美元的 IPO - 日经亚洲",
+      "title_cn": "DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO - Nikkei Asia",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdXBWVF8zeGZ6emVGSDlZNUhPYXNlTDVsUlhFMFFfbUdSelhPZnZzVk43WGRSaXRaOEk1NFVGT1NCSmNweV9KYmhaNWZpRmlIYVFidGdqemdDSkJJNVpNcGxBMlRMREs0ZkE3Nmk5dl93U3g5aVVDRVpuTFJkU3NybTM4RVJ5c2hqNXJaaW80VWR5d3h5Y25HTE1yS1JKUFJ2bVpfd1lxMFNoMmgxWXc5TmNhYzQ?oc=5",
       "summary": "DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Fri, 07 Aug 2026 02:10:00 GMT",
@@ -98,6 +179,15 @@
       "pub_sort_dt": "2026-08-07 09:36:00"
     },
     {
+      "source": "AP",
+      "title_en": "Taiwan’s military drills suggest deeper alignment with the US - AP News",
+      "title_cn": "台湾军演表明与美国更深层次的结盟 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZklLSTVHR0d2aG55dGtmNWRpVlBjYndGcmhuU3lRSVA2bTZuNzQ4VVdpM09CV0FkNVFxVmw0bHVJSVYxZ0RKc1pqb1o0MTdZY19fcENaX2hMSldDZlU5WFI2MTZVaFRXWko1ZWNlYkprRTNMTFJrU3pBeWs2R3lmLWVjYjhMd0tRblFHNlVUUFhWTklmTm5VTUd0QkVuLUE?oc=5",
+      "summary": "Taiwan’s military drills suggest deeper alignment with the US&nbsp;&nbsp;AP News",
+      "pub_raw": "Fri, 07 Aug 2026 01:12:00 GMT",
+      "pub_sort_dt": "2026-08-07 09:12:00"
+    },
+    {
       "source": "BBC",
       "title_en": "Trump imposes 15% tariff on key chip material to counter China - BBC",
       "title_cn": "特朗普对关键芯片材料征收15%关税以对抗中国 - BBC",
@@ -108,10 +198,10 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "China Central Bank Adds Gold in Hong Kong to Support Trading Hub - Bloomberg",
-      "title_cn": "中国央行在香港增设黄金以支持交易中心 - 彭博社",
+      "title_en": "China Central Bank Adds Gold in Hong Kong to Support Trading Hub - Bloomberg.com",
+      "title_cn": "中国央行在香港增设黄金以支持交易中心 - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNellUYlUwMVZuTFZpY0htUHRvZkVkT0ZHeTVIRnFwOTd2SGFvVlE2V0MyVEpieUY5Y2VsR0Q2SHNKa0FDNk9qcXJ1N2lOOEl1V19VZWxpRE41ZmNQbWQ3RnBRcl9PTXFBelF1aTF2M0NKUzBkdEdjeWFDY0ZuZm5kVDhvM21uWWRTV3NtemxoZ3JlU2VPR3hUSnZJZmJuNzNoYUtsclV1NnJ6cHNkZ3NVdnFpU0RCdw?oc=5",
-      "summary": "China Central Bank Adds Gold in Hong Kong to Support Trading Hub&nbsp;&nbsp;Bloomberg",
+      "summary": "China Central Bank Adds Gold in Hong Kong to Support Trading Hub&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Fri, 07 Aug 2026 01:01:00 GMT",
       "pub_sort_dt": "2026-08-07 09:01:00"
     },
@@ -125,29 +215,20 @@
       "pub_sort_dt": "2026-08-07 08:13:00"
     },
     {
-      "source": "AP",
-      "title_en": "China rebukes US over Huawei dispute as Argentina's Milei balances ties with Washington and Beijing - AP News",
-      "title_cn": "阿根廷米雷平衡与华盛顿和北京的关系，中国就华为争端斥责美国 - 美联社新闻",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWmNobXRadG1wY3F1N1l3MXBDRkxfQW9PX1VWb0VsQjhEQkpwNXRROGpWMmpSZ2h4cDVwdWhBekVzSU1MWDRkb044NmVEWFM0LXRPZllzQ0JocFRENXVjaWVIckEtc2lDcVVPZEwtWFNubzB3UW4tcmp6a2ZFd2pPZktyMEtXSG5tbHlUNG5ueEM3Rzc5YWRiaVhBTnZYX0xzd1lQT0xST3g3bHNFYTAxcGxaV1FkZGVFTnRNOXhJaVRlVkI3RW9jSUlRVUctT0JKVUE?oc=5",
-      "summary": "China rebukes US over Huawei dispute as Argentina's Milei balances ties with Washington and Beijing&nbsp;&nbsp;AP News",
-      "pub_raw": "Thu, 06 Aug 2026 23:46:00 GMT",
-      "pub_sort_dt": "2026-08-07 07:46:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Chinese Banks Expand Direct Settlement to Aid Yuan’s Global Role - Bloomberg",
-      "title_cn": "中国银行扩大直接结算以帮助人民币发挥全球作用 - 彭博社",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDgzWXVnTnJUcW1rWW1fV0dneG8wTXVfLXRZblZtRU5wZE8wUWt3YTRfMVphbWppNlQwejdPMVpiVGM4SDZQSFNKd0ltWG10eFdVcjNHS0FDTlFkUmR3N3U3ZGRsSWZNcHo2SEhud0xHX0E4OVFVVnJFYjBwZDJQWDhfa1VUX3FtakZVd0RnS1JseVc5OXlNMnJEdW9MZ1R5SFN0c3FuWDBMLWdNbVZhTF9YQUJtdw?oc=5",
-      "summary": "Chinese Banks Expand Direct Settlement to Aid Yuan’s Global Role&nbsp;&nbsp;Bloomberg",
-      "pub_raw": "Thu, 06 Aug 2026 23:00:07 GMT",
-      "pub_sort_dt": "2026-08-07 07:00:07"
+      "source": "Financial Times",
+      "title_en": "Alibaba’s latest AI model puts it back in the great game - Financial Times",
+      "title_cn": "阿里巴巴最新的人工智能模型让它重新回到这场伟大的游戏中 - 英国《金融时报》",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUtoZ0x3NVNLSEZsYVFjc0poMlJ2NmN1UGJWR2FicFFhX2ZMMGowYWtUSUNFbjg0dzVubXdmbUNkYkJIaldJdDZPU3JhWDFjVXBPaDdUanBpWHdhR3VvUERkdEhvbTJtUkh4SUNoSF9pX0FYcGFkRlJMUm5Lak5tUWlkZm8?oc=5",
+      "summary": "Alibaba’s latest AI model puts it back in the great game&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Thu, 06 Aug 2026 23:00:03 GMT",
+      "pub_sort_dt": "2026-08-07 07:00:03"
     },
     {
       "source": "Reuters",
-      "title_en": "Pacific ministers to discuss issuing a joint statement on China missile test - Reuters",
-      "title_cn": "太平洋地区部长将讨论就中国导弹试验发表联合声明 - 路透中文网",
+      "title_en": "Pacific ministers fail to agree on China missile response - Reuters",
+      "title_cn": "太平洋地区部长未能就中国导弹反应达成一致 - 路透中文网",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeVJaNldQMjdyaFZsN2otZlNUUnhubkVTTF9EOGd5Ny1ZczZSVHZ3dnc2Tnl5U2VYMmx5STZyeWs3aGM2Y2lnR1JLS3pKX3VXM3lZaGNuTHkyOGk2Z2M5YzlQZmhIaEFpaTFFV21ybzF0cG1iczVuck4yVmxhNjBBNVBZN18yWmlvUGIwZl9hRWFmNU9GR2hVQllHM3E?oc=5",
-      "summary": "Pacific ministers to discuss issuing a joint statement on China missile test&nbsp;&nbsp;Reuters",
+      "summary": "Pacific ministers fail to agree on China missile response&nbsp;&nbsp;Reuters",
       "pub_raw": "Thu, 06 Aug 2026 22:33:00 GMT",
       "pub_sort_dt": "2026-08-07 06:33:00"
     },
@@ -159,24 +240,6 @@
       "summary": "US imposes 15% tariff on polysilicon in pushback against China&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Thu, 06 Aug 2026 22:04:00 GMT",
       "pub_sort_dt": "2026-08-07 06:04:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "US telecoms regulator chief says curbs on Chinese tech imports aim to spur production, counter security risks - Reuters",
-      "title_cn": "美国电信监管机构负责人表示，限制中国技术进口旨在刺激生产、应对安全风险 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTlRYmdoeTUxMG1LOVYzNFFoYXR5SFcxUzh3emtVbE5kWk1NdkY0SzExRFMwci1uSGdYMDFndkpKNVg1Y3hwWHF6eHNjdFRDOVZ0MGZ0dVdpRHZhT0VQUW9FYVdOQWRoY3ZVYmM3WS1JQ1VwbGZ5cE5KdWxEWjdpRG1paEphTDZOcmtBcTlWeE1icVZ5dmNRVkhSdW12T2R3dFJ4eEUzaHNhQQ?oc=5",
-      "summary": "US telecoms regulator chief says curbs on Chinese tech imports aim to spur production, counter security risks&nbsp;&nbsp;Reuters",
-      "pub_raw": "Thu, 06 Aug 2026 21:13:05 GMT",
-      "pub_sort_dt": "2026-08-07 05:13:05"
-    },
-    {
-      "source": "New York Times",
-      "title_en": "Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26 - The New York Times",
-      "title_cn": "在 TikTok 上记录自己癌症经历的西德尼·托勒 (Sydney Towle) 去世，享年 26 岁 - 纽约时报中文网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnM05QV2ZLVWROTWs3Z3VuMC15WXNCWXE2cnMzeVVna2tYU2NFekQwbjlEYzdMeUFlY0JObXFQWEZCLUcyUjJaVzdXaFZWWU5DUkJsNDc4V0gxbjdmSEZJYVZ6cC1HelNDMFRNd2dMank?oc=5",
-      "summary": "Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Thu, 06 Aug 2026 21:00:52 GMT",
-      "pub_sort_dt": "2026-08-07 05:00:52"
     },
     {
       "source": "Reuters",
@@ -204,6 +267,15 @@
       "summary": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26&nbsp;&nbsp;BBC",
       "pub_raw": "Thu, 06 Aug 2026 19:17:39 GMT",
       "pub_sort_dt": "2026-08-07 03:17:39"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Taiwan’s Biggest Threat May Not Be China’s Military - Bloomberg.com",
+      "title_cn": "台湾最大的威胁可能不是中国军队 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ29QajJZeU1MUE5iU2tTY25PMWYtbUlrOG5vUmZXRHdVNHZVRGU3S0p6Smd0a2RndW4zb0g5YzZyb0ZJNm5nNDk1Rm5OR0N5TlBfaWlBZDZOMDcxWEtERlpMNHhRa3hMY01ZcmF0V0wtaXlKaXJjVmVjTXp0aWdwOXNpejJEd0lYNWlfRkJRc05LUGVsQ2N3VHI5RC0wX3BCNUNoZEFXX2k?oc=5",
+      "summary": "Taiwan’s Biggest Threat May Not Be China’s Military&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Thu, 06 Aug 2026 19:00:16 GMT",
+      "pub_sort_dt": "2026-08-07 03:00:16"
     },
     {
       "source": "Reuters",
@@ -247,8 +319,26 @@
       "title_cn": "中国Unitree定价IPO，押注投资者已为人形机器人做好准备 - 纽约时报中文网",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LbkJPUnUyQXIzRHQ0MXhIenM5M3d2SFlQZllBTngyWUUyT3lhYXdONERXUVNOOW4ydDQwQlBrcW5hTUtydmtObmt1aU9HTG1IVUNBWDZzR1VjRENaSjZrR2tSVGg3Mk5ZX1lmdUhOZXJVWjNocjVGR3VYSW0?oc=5",
       "summary": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Thu, 06 Aug 2026 14:51:22 GMT",
-      "pub_sort_dt": "2026-08-06 22:51:22"
+      "pub_raw": "Thu, 06 Aug 2026 13:58:49 GMT",
+      "pub_sort_dt": "2026-08-06 21:58:49"
+    },
+    {
+      "source": "New York Times",
+      "title_en": "Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26 - The New York Times",
+      "title_cn": "在 TikTok 上记录自己癌症经历的西德尼·托勒 (Sydney Towle) 去世，享年 26 岁 - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnM05QV2ZLVWROTWs3Z3VuMC15WXNCWXE2cnMzeVVna2tYU2NFekQwbjlEYzdMeUFlY0JObXFQWEZCLUcyUjJaVzdXaFZWWU5DUkJsNDc4V0gxbjdmSEZJYVZ6cC1HelNDMFRNd2dMank?oc=5",
+      "summary": "Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Thu, 06 Aug 2026 13:50:21 GMT",
+      "pub_sort_dt": "2026-08-06 21:50:21"
+    },
+    {
+      "source": "AP",
+      "title_en": "A Tibetan studies conference is canceled in Nepal at the request of officials - AP News",
+      "title_cn": "应官员要求，尼泊尔取消西藏研究会议 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWWVVVFZ4aW41TkxhQkVxajgzS3pwQ0dtX0RPbVk3Y2ZFanRaWWx2amxUOHdzN0hzckhqSE4xTU13YTBkNjdFdDdtZnVxWUlNMFI4Yl9ZWk1YMDRYdlJqalFUcm01NWhlOURhbE5Rd2FHRHc4eVgtY00wNlZOSzJCeVhUMjRHZE54cGJjOTZpWGhXS1RFVV9tREhwX0ZoZ0I0Zk1PLXpWOU8?oc=5",
+      "summary": "A Tibetan studies conference is canceled in Nepal at the request of officials&nbsp;&nbsp;AP News",
+      "pub_raw": "Thu, 06 Aug 2026 13:37:32 GMT",
+      "pub_sort_dt": "2026-08-06 21:37:32"
     },
     {
       "source": "New York Times",
@@ -261,6 +351,15 @@
     },
     {
       "source": "The Economist",
+      "title_en": "Why ever fewer young Chinese study abroad - The Economist",
+      "title_cn": "为什么中国年轻人出国留学越来越少 - 经济学人",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXVXNE1tUHNWMGJSQkdaM2tJTmw0aGdsd1hVMnNiZ0piajJIV2pCaFFYQlZNS3Z3WDBXVGxXSFhwN0tqeF9RbTBtVjUwVlpRemV2cFQ5Y0JKOTVpcDhDSVZhSUxDVVZEMGExZUJ1eEhXZHBxNHZsSkFzVUg5SnAzVFdHU1Y1Ty1tbG1IeQ?oc=5",
+      "summary": "Why ever fewer young Chinese study abroad&nbsp;&nbsp;The Economist",
+      "pub_raw": "Thu, 06 Aug 2026 13:00:25 GMT",
+      "pub_sort_dt": "2026-08-06 21:00:25"
+    },
+    {
+      "source": "The Economist",
       "title_en": "China’s superstitious mayors - The Economist",
       "title_cn": "《经济学人》：中国迷信的市长",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pMzA2UTJwSjRpMGMwekJHNmZQVVdRdFliQTZldURKamtGaVB5QXZKMkNRTzdPaWJnaU9pWmRqajZPSVkycUotSnJ2VEQ0QXI0andvYkJORXpsc0dfcWNKTXR5WWIteU5vakczM2RCR09Sai1OcDQweWtB?oc=5",
@@ -270,21 +369,12 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "Ford ‘Fathom’ Truck to Vie With China’s EVs at Sub-$30,000 Price - Bloomberg",
-      "title_cn": "福特“Fathom”卡车将以低于 30,000 美元的价格与中国电动汽车竞争 - 彭博社",
+      "title_en": "Ford ‘Fathom’ Truck to Vie With China’s EVs at Sub-$30,000 Price - Bloomberg.com",
+      "title_cn": "福特“Fathom”卡车将以低于 30,000 美元的价格与中国电动汽车竞争 - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3NvSG1rT0NGdV81VzlWZkVacklIU0ZoUl9Va0t0TEFkT1htOFM0Z0lVLUM5RmR3VFRSY240dkF0aXYyS2JtNkdQRDB5VThGNUMxMFVPT3liNzVWc1ZxdXZocUxEWERnNVJmVmk3UW9TbFcyR2ZHWmZ1ODJVTTNPdnJhU2EweGp4YW1lYjF2SzVGcWFPOTFVV211ZFZnM01IOGJ4Y2hoMFBYMzc5emxRdkhB?oc=5",
-      "summary": "Ford ‘Fathom’ Truck to Vie With China’s EVs at Sub-$30,000 Price&nbsp;&nbsp;Bloomberg",
+      "summary": "Ford ‘Fathom’ Truck to Vie With China’s EVs at Sub-$30,000 Price&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Thu, 06 Aug 2026 13:00:00 GMT",
       "pub_sort_dt": "2026-08-06 21:00:00"
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "AI becomes bigger headache than tariffs for China camera maker Insta360 - Nikkei Asia",
-      "title_cn": "对于中国相机制造商Insta360来说，人工智能成为比关税更令人头疼的问题 - 日经亚洲",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR1ZXR3VJZlFZRVVRY3RkMGgzZEVyQ0tSc0sybHVQNFpQazNTWGtLYkJCd2xxV3hibUtWbE5HUjZncGliQUdncVhFNU9tX2l6Rnl5akVRVVFqYV9nQ1NhalByVk1xOWpMS05USFpnalpMalBjeGt2cHIyazAxOWhLLWVqZDdIQXhlaWFPS0lkQlVzNlg2NDNrWUUtVjgxQ2xTVW9GYnBaQTZTajBYbkJjNHlrbFN4UQ?oc=5",
-      "summary": "AI becomes bigger headache than tariffs for China camera maker Insta360&nbsp;&nbsp;Nikkei Asia",
-      "pub_raw": "Thu, 06 Aug 2026 12:29:00 GMT",
-      "pub_sort_dt": "2026-08-06 20:29:00"
     },
     {
       "source": "Wall Street Journal",
@@ -292,35 +382,17 @@
       "title_cn": "早间风险报告：美国将停止主要金属废物出口，以打破对中国的依赖 - 华尔街日报",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNmxXbGU1RGZpYjBMTHl5TEZseWpKVjh3N1d3cDdaTFFlUGFPb0xpWEdYLWdKbWRMVnc5YmtqS1ZSV3htdXN1bkRGQ3F3MW1jUGEtMi1RZUpYRWUxdmFtcEEycHVNN3VmNVpiWWEyTGUzU2ZBR1l5Nkk5ZjNnaFhDM3RsQXYzclBfSlM5bDJhRTJxMnJmWHZDV25TdXBOMy1uRXNWYkFST3pfQ3ZSNVNvRGRRekd2XzlyYnc1RGctc2RubUNRQW5Lb1pEdng?oc=5",
       "summary": "The Morning Risk Report: U.S. to Halt Key Metal Waste Exports in Push to Break China Reliance&nbsp;&nbsp;WSJ",
-      "pub_raw": "Thu, 06 Aug 2026 11:18:00 GMT",
-      "pub_sort_dt": "2026-08-06 19:18:00"
-    },
-    {
-      "source": "AP",
-      "title_en": "A Tibetan studies conference is canceled in Nepal at the request of officials - AP News",
-      "title_cn": "应官员要求，尼泊尔取消西藏研究会议 - 美联社新闻",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWWVVVFZ4aW41TkxhQkVxajgzS3pwQ0dtX0RPbVk3Y2ZFanRaWWx2amxUOHdzN0hzckhqSE4xTU13YTBkNjdFdDdtZnVxWUlNMFI4Yl9ZWk1YMDRYdlJqalFUcm01NWhlOURhbE5Rd2FHRHc4eVgtY00wNlZOSzJCeVhUMjRHZE54cGJjOTZpWGhXS1RFVV9tREhwX0ZoZ0I0Zk1PLXpWOU8?oc=5",
-      "summary": "A Tibetan studies conference is canceled in Nepal at the request of officials&nbsp;&nbsp;AP News",
-      "pub_raw": "Thu, 06 Aug 2026 10:39:00 GMT",
-      "pub_sort_dt": "2026-08-06 18:39:00"
+      "pub_raw": "Thu, 06 Aug 2026 11:20:28 GMT",
+      "pub_sort_dt": "2026-08-06 19:20:28"
     },
     {
       "source": "Financial Times",
       "title_en": "Both Trump and young Americans are warming to China - Financial Times",
-      "title_cn": "特朗普和美国年轻人都对中国升温 - 英国《金融时报》",
+      "title_cn": "特朗普和美国年轻人都对中国产生好感 - 英国《金融时报》",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByUFFiZENfY1V0RGRGV1NZU3Y4cmlRWDBXR2lVT2dxVmtuZWpFM2VMMnE0N1Q4U1VIbk80MnlJblFSbW05STRyX3VENUNwREhJRWpLbTRyQnkzQkpNZU9RbU5vWm91QVVBdndYREQtUTE?oc=5",
       "summary": "Both Trump and young Americans are warming to China&nbsp;&nbsp;Financial Times",
       "pub_raw": "Thu, 06 Aug 2026 10:31:44 GMT",
       "pub_sort_dt": "2026-08-06 18:31:44"
-    },
-    {
-      "source": "AP",
-      "title_en": "Taiwan’s military drills suggest deeper alignment with the US - AP News",
-      "title_cn": "台湾军演表明与美国更深层次的结盟 - 美联社新闻",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZklLSTVHR0d2aG55dGtmNWRpVlBjYndGcmhuU3lRSVA2bTZuNzQ4VVdpM09CV0FkNVFxVmw0bHVJSVYxZ0RKc1pqb1o0MTdZY19fcENaX2hMSldDZlU5WFI2MTZVaFRXWko1ZWNlYkprRTNMTFJrU3pBeWs2R3lmLWVjYjhMd0tRblFHNlVUUFhWTklmTm5VTUd0QkVuLUE?oc=5",
-      "summary": "Taiwan’s military drills suggest deeper alignment with the US&nbsp;&nbsp;AP News",
-      "pub_raw": "Thu, 06 Aug 2026 10:19:00 GMT",
-      "pub_sort_dt": "2026-08-06 18:19:00"
     },
     {
       "source": "Nikkei Asia",
@@ -350,6 +422,15 @@
       "pub_sort_dt": "2026-08-06 16:52:00"
     },
     {
+      "source": "Financial Times",
+      "title_en": "Insurance and bank stocks slide amid China tax crackdown fears - Financial Times",
+      "title_cn": "保险股和银行股因中国税收打击担忧而下滑 - 金融时报",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzc5YzA3ZXEyVnczV29WNmtPSVlSUGdLQ2N6djBJMHZpYzV4UFVERTlSUTdUd2pVS09RWVR2dVVESlVnejVxR29DQmRlcGl6dUpjYTV0TWpRYnNseE95c25lSS1lcVN2LWRPV2hNUVV1bGUtUWZ1ZmNNaWxETDNHbHpJaTk?oc=5",
+      "summary": "Insurance and bank stocks slide amid China tax crackdown fears&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Thu, 06 Aug 2026 08:47:07 GMT",
+      "pub_sort_dt": "2026-08-06 16:47:07"
+    },
+    {
       "source": "The Economist",
       "title_en": "Why AI is a risk to Communist China - The Economist",
       "title_cn": "为什么人工智能对共产主义中国构成风险 - 《经济学人》",
@@ -375,60 +456,6 @@
       "summary": "China's Unitree IPO puts global robotics race and geopolitics in focus&nbsp;&nbsp;CNBC",
       "pub_raw": "Thu, 06 Aug 2026 08:13:00 GMT",
       "pub_sort_dt": "2026-08-06 16:13:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "China's CMRG tells some steel mills to halt talks with Rio Tinto, sources say - Reuters",
-      "title_cn": "消息人士称，中国CMRG要求一些钢厂停止与力拓的谈判 - 路透",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXRXN1dla1VaLU1TU3FKSzRDdW9qUkRHNUNaRzJqSW9hNllTdEhlS25GVHBhdkRib1VKVzJvWlRteXBRSUhKSTEtOGRic0FjNkdXcVJqZEtlLU56ZjJHV2E5cHpySEtjSWxxSFE0VEVOSVcwSUtaMDYzS1JsNEFwNmgzT1FTYmxXTnhNbTlUVm1PcTIzZ0tEOEtEdXFmWjUzb2wwdmhWUVhORXZvQzBJNUpBdGpYOEJyYnRYYnpDU0dfMUh0Zzhn?oc=5",
-      "summary": "China's CMRG tells some steel mills to halt talks with Rio Tinto, sources say&nbsp;&nbsp;Reuters",
-      "pub_raw": "Thu, 06 Aug 2026 06:55:00 GMT",
-      "pub_sort_dt": "2026-08-06 14:55:00"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "SpaceX makes a splash and China scores a memory win - Financial Times",
-      "title_cn": "SpaceX引起轰动，中国赢得记忆 - 英国《金融时报》",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVB2YTNreFNKdnZVc0tPNDJkcGdrcXF6TVk2bGdzRHNKNGlVWjlNR2lsNC1PaUZHRUUxalg2S2h3V2g1S0hpdEk5OTREY294SWdFM01EbzNZTVFMNFJmbno5ZFV1Q2M0aDNTN3pBOXVDbWEyNnlfa0M4N0tObS1RTEwzTW8?oc=5",
-      "summary": "SpaceX makes a splash and China scores a memory win&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Thu, 06 Aug 2026 06:21:59 GMT",
-      "pub_sort_dt": "2026-08-06 14:21:59"
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Beijing flips the script on the U.S. tech war — and tests the truce weeks before Xi's visit - CNBC",
-      "title_cn": "北京翻转美国科技战剧本，并在习近平访问前几周测试休战协议 - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSDNOVXU1dkQxNk1WS3ZIRU1mYmtmTkRiYVo3cFM5VmpLdExoVkd2S3JTbVJqZjZHZ3FPc2M5WXJ3VXV1MHlRMUJvWHV3OHd2YVkxY05KbHdBTE1HQWNfWkM5UDNEQUh3WGhQOXY4RS1JeWZhUmU0RlhsSnp5eTlMWXFPeGRVZXExWVU4S1NGcTdySUFLUGfSAZsBQVVfeXFMTkc0RW11RTR6cG5uVVZPV0tnNWRVVVdseEdrZkp0dW16LXBDNUZ1SzBmOF91eENWTTdwaUltZUd4YTFrdkt3c2lCZEpvNlVINVVRamFEUXotRm9yVWlvRGpHYU1pakYxblA5eU5oOUJzcTBXS0RJdmE2ZVNfNzFhc2RLWHVkUENkR1hEcUhGR1Z4Skd2Sng0cndMZmc?oc=5",
-      "summary": "Beijing flips the script on the U.S. tech war — and tests the truce weeks before Xi's visit&nbsp;&nbsp;CNBC",
-      "pub_raw": "Thu, 06 Aug 2026 05:59:02 GMT",
-      "pub_sort_dt": "2026-08-06 13:59:02"
-    },
-    {
-      "source": "BBC",
-      "title_en": "AI or real? BBC analyses viral China disaster videos - BBC",
-      "title_cn": "人工智能还是真实的？ BBC 分析病毒式传播的中国灾难视频 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfNlBqZ1FFQWFZazJyQ3VXVllTclpaTTVBNzNCQ3dXUjJJRFNFcWhnYjJnX2tLOUdrWjB3S0doSG11THVMeS1fa3NndTVUTUNfVlRkQVNDdw?oc=5",
-      "summary": "AI or real? BBC analyses viral China disaster videos&nbsp;&nbsp;BBC",
-      "pub_raw": "Thu, 06 Aug 2026 05:29:27 GMT",
-      "pub_sort_dt": "2026-08-06 13:29:27"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "Insurance and bank stocks slide amid China tax crackdown fears - Financial Times",
-      "title_cn": "保险股和银行股因中国税收打击担忧而下滑 - 金融时报",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzc5YzA3ZXEyVnczV29WNmtPSVlSUGdLQ2N6djBJMHZpYzV4UFVERTlSUTdUd2pVS09RWVR2dVVESlVnejVxR29DQmRlcGl6dUpjYTV0TWpRYnNseE95c25lSS1lcVN2LWRPV2hNUVV1bGUtUWZ1ZmNNaWxETDNHbHpJaTk?oc=5",
-      "summary": "Insurance and bank stocks slide amid China tax crackdown fears&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Thu, 06 Aug 2026 05:07:49 GMT",
-      "pub_sort_dt": "2026-08-06 13:07:49"
-    },
-    {
-      "source": "AP",
-      "title_en": "Taiwan kicks off annual military drills to counter a potential Chinese attack - AP News",
-      "title_cn": "台湾开始年度军事演习以应对中国的潜在攻击 - 美联社新闻",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWU5cVhEbVVrOGtvbHhZcTRwODY3T1lDYU5PUTI2ZUUyMFhnQXM0ZHFIUlBpdXNPaHRmZnUxVHNWU0VzczVoYVlzSVRpRUUxRDVhYUNlSFFINUNLUW1FWjkySUw4RWVHaDV3UDNLTVU3bFdYOFZhbzFoM0VBb05XWnhsWm5zUHY5RHpzMndzUGFSTGFNbFhIM3dINk5DRm8?oc=5",
-      "summary": "Taiwan kicks off annual military drills to counter a potential Chinese attack&nbsp;&nbsp;AP News",
-      "pub_raw": "Thu, 06 Aug 2026 04:36:00 GMT",
-      "pub_sort_dt": "2026-08-06 12:36:00"
     }
   ]
 }
