@@ -132,11 +132,13 @@ async function loadNews() {
                 const itemDom = document.createElement("div");
                 itemDom.className = "top-news-item";
                 itemDom.innerHTML = `
-                    <div class="top-cn-title">${news.title_cn || "无中文标题"}</div>
-                    <div class="top-meta-row">
-                        <span>来源：${news.source}</span>
-                        <span>${news.pub_sort_dt || news.pub_raw || "未知时间"}</span>
-                    </div>
+                    <div class="cn-title">${news.title_cn || "无中文标题"}</div>
+                    <div class="en-title">原文：${news.title_en || "无标题"}</div>
+                    <div class="pub-time">发布时间：${news.pub_sort_dt || news.pub_raw || "未知时间"}</div>
+                    ${news.full_text ? `<div style="margin-top:8px;">
+                        <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display=='none'?'block':'none'" style="padding:3px 8px;cursor:pointer;">展开完整正文</button>
+                        <div style="display:none;margin-top:6px;padding:10px;background:#f8f9fa;border-radius:6px;white-space:pre-line;font-size:14px;max-height:400px;overflow-y:auto;">${news.full_text}</div>
+                    </div>` : '<div style="color:#999;font-size:13px;margin-top:6px;">仅摘要，无完整正文</div>'}
                 `;
                 if (news.url) itemDom.onclick = ()=> window.open(news.url, "_blank");
                 topBlock.appendChild(itemDom);
