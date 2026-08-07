@@ -1,9 +1,8 @@
 name: Auto Crawl Foreign China News
 # 定时：北京时间6:00-23:00每小时整点；同时支持手动触发
 on:
-  schedule:
-#    - cron: '23 0,2,4,6,8,10,12,14,22 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # 这一行绝对不能删、不能缩进错
+# schedule 可以保留或删掉都无所谓
 
 # 授予仓库读写权限（用于提交更新news.json）
 permissions:
