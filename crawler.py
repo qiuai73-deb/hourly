@@ -1,53 +1,3 @@
-import trafilatura
-from newspaper import Article
-import curl_cffi.requests as curl_request
-
-# 基础网页正文提取（免费开放媒体：BBC、VOA、美联社等）
-def get_article_raw(url: str) -> str:
-    try:
-        # 方式1 轻量化trafilatura
-        resp = curl_request.get(url, impersonate="chrome120", timeout=12)
-        html = resp.text
-        content = trafilatura.extract(html, include_links=False, include_images=False)
-        if content and len(content) > 200:
-            return content.strip()
-        # 方式2 备用newspaper解析
-        art = Article(url)
-        art.download(input_html=html)
-        art.parse()
-        if art.text and len(art.text) > 200:
-            return art.text.strip()
-    except Exception:
-        pass
-    return ""
-
-# 付费墙备用：archive.is公开存档获取全文（WSJ/FT/CNBC专用）
-def get_archive_content(origin_url: str) -> str:
-    try:
-        archive_url = f"https://archive.is/{origin_url}"
-        resp = curl_request.get(archive_url, impersonate="chrome120", timeout=15)
-        html = resp.text
-        content = trafilatura.extract(html, include_links=False)
-        if content and len(content) > 300:
-            return f"【存档缓存全文】\n{content}"
-    except Exception:
-        pass
-    return ""
-
-# 统一入口：先原生抓取，失败再走存档
-def fetch_full_article(url: str) -> str:
-    if not url:
-        return ""
-    raw = get_article_raw(url)
-    if len(raw) >= 300:
-        return raw[:12000]
-    # 原生只有预览，调用存档
-    archive_txt = get_archive_content(url)
-    if archive_txt:
-        return archive_txt[:12000]
-    # 完全抓不到返回简短摘要
-    return ""
-
 #!/usr/bin/env python3
 """精简外媒涉华新闻爬虫：仅输出新闻清单，无正文抓取、无灾害API"""
 import urllib.request, ssl, json, time, re, xml.etree.ElementTree as ET, sys, html as html_mod
@@ -136,7 +86,7 @@ news_pool = []
 source_counter = {}
 
 # 添加新闻到池，控制单源上限
-def add_news(source_name: str, title_en: str, url: str, summary: str, full_text: str, pub_raw: str):
+def add_news(source_name: str, title_en: str, url: str, summary: str, pub_raw: str):
     if source_counter.get(source_name, 0) >= MAX_PER_SOURCE:
         return False
     if not is_news_recent(pub_raw):
@@ -151,7 +101,6 @@ def add_news(source_name: str, title_en: str, url: str, summary: str, full_text:
         "title_cn": "",
         "url": url,
         "summary": summary,
-        "full_text": full_text,  # 新增完整正文字段
         "pub_raw": pub_raw,
         "pub_sort_dt": parse_pubdate(pub_raw)
     })
@@ -187,8 +136,7 @@ def load_media_google_rss():
             items = parse_rss(xml)
             for it in items:
                 if is_cn(it["title"] + it["desc"]):
-                    full_content = fetch_full_article(it["link"])
-                    add_news(src, it["title"], it["link"], it["desc"], full_content, it["pub"])
+                    add_news(src, it["title"], it["link"], it["desc"], it["pub"])
         except Exception:
             continue
 
