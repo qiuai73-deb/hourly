@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""精简外媒涉华新闻爬虫：仅输出新闻清单，无正文抓取、无灾害API"""
+"""精简外媒涉华新闻爬虫：仅输出新闻清单"""
 import urllib.request, ssl, json, time, re, xml.etree.ElementTree as ET, sys, html as html_mod
 from datetime import datetime, timedelta, timezone
 from translator import batch_translate
@@ -20,7 +20,7 @@ CKW = ["china","chinese","beijing","xi jinping","li qiang","wang yi",
        "xiaomi","chinese economy","chinese market","chinese official",
        "sino-","brics","shanghai","shenzhen","guangzhou",
        "people's liberation army","chinese military","chinese army",
-       "ccp","communist party of china","pla navy","pla air force","taiwan strait"]
+       "ccp","communist party of china","pla navy","pla air force","taiwan strait","trump","breaking"]
 PLA_RE = re.compile(r"\bpla\b", re.I)
 
 def is_cn(text: str) -> bool:
