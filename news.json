@@ -1,6 +1,6 @@
 {
-  "update_cst": "2026-08-08 07:01:43 北京时间",
-  "total_count": 61,
+  "update_cst": "2026-08-08 08:01:47 北京时间",
+  "total_count": 59,
   "source_stat": {
     "Reuters": 5,
     "Bloomberg": 5,
@@ -11,10 +11,10 @@
     "CNBC": 5,
     "New York Times": 5,
     "CNN": 5,
-    "AFP": 3,
-    "The Economist": 5,
+    "AFP": 4,
+    "The Economist": 3,
     "BBC": 5,
-    "DW": 3
+    "DW": 2
   },
   "news": [
     {
@@ -23,8 +23,44 @@
       "title_cn": "中国人工智能的教训 - 经济学人",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RU42T0FJazFlaFNVMmc0djFkYUsyZU5XSXpfb0w5S3NSSGhsRkM5T0s4TTRvNkZRVEx5b0FJRlhiYUFWZjhCOFFoS0FfWGJuR0hlYWxPME1wSWZBeWVV?oc=5",
       "summary": "Lessons from Chinese AI&nbsp;&nbsp;The Economist",
-      "pub_raw": "Fri, 07 Aug 2026 22:27:06 GMT",
-      "pub_sort_dt": "2026-08-08 06:27:06"
+      "pub_raw": "Fri, 07 Aug 2026 23:33:37 GMT",
+      "pub_sort_dt": "2026-08-08 07:33:37"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "Moonshot shake-up seeks to win Beijing nod for stock market debut - Financial Times",
+      "title_cn": "登月计划重组旨在赢得北京方面对股市首次亮相的认可 - 英国《金融时报》",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGpSMkdEbDBlUU1nTHZNSFJUb0wybHdjSTIyY2RMS28wN05oaGc4M3JRY3BRWVBhdDMzdUIzMHV5cko2RHVaWllsYTlxSWFkN3duWWF1NWptUmwxUlhjSTZTcXIxYlF4cFdrZlViaWRjRXlnNE9WUGNFNmNGRndwMVFHWFg?oc=5",
+      "summary": "Moonshot shake-up seeks to win Beijing nod for stock market debut&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Fri, 07 Aug 2026 23:00:07 GMT",
+      "pub_sort_dt": "2026-08-08 07:00:07"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Trump administration to invest $3 billion into minerals projects to boost US defense supply chains - Reuters",
+      "title_cn": "特朗普政府将投资 30 亿美元用于矿产项目，以促进美国国防供应链 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOC1sWW4tTHpEM1NiQWVIbnZMRVlvcVcyNTl2UE1QU1lqSlBVaTlNai1UUm1yR0htazhtZjA1N3Jtb2dEaHhnWklPREdWdG52a0FrTjBMamVaM1FlR1JmSzZycUpWY3pKUzA4V3pRTk9FRzRsTklOMEhvQlRybVVjTHRNbjByQ3ZHY25ja2JERjBXdDUzNXo1WDNFeEFGa3hZTnZUR2lxWTZIQ2p5M01qV0lnUXBFQm1JRVdlZk90MkZhTWplb3RZdVJ0ZktrNmFKM0dr?oc=5",
+      "summary": "Trump administration to invest $3 billion into minerals projects to boost US defense supply chains&nbsp;&nbsp;Reuters",
+      "pub_raw": "Fri, 07 Aug 2026 21:40:51 GMT",
+      "pub_sort_dt": "2026-08-08 05:40:51"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "Armed Man Arrested at Trump’s L.A. Golf Course Days Before President’s Visit - WSJ",
+      "title_cn": "总统访问前几天，一名武装男子在特朗普的洛杉矶高尔夫球场被捕 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0JfRVpMT3BXM09ES2VNV0RrRzhSNFVVMUFfOTk4Z2Fmc0NjTUJ2YWpVS29sTVNJT0FBcXVLTUhtMExHSzFsUGwtNTNaR21EM21WMjRCVW5DMkhkTHF5Um0wd2FJNlNYNHFQRE1KWEdQcW8tUHgtMU1rcnVDWHVjbGNULTBGVWQ1QjdiWEExWERZV2tLZV9Ccm1Ickw3NlNLa0cweWJnTDZnZ0swdDNr?oc=5",
+      "summary": "Armed Man Arrested at Trump’s L.A. Golf Course Days Before President’s Visit&nbsp;&nbsp;WSJ",
+      "pub_raw": "Fri, 07 Aug 2026 20:54:27 GMT",
+      "pub_sort_dt": "2026-08-08 04:54:27"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Touts $3 Billion in Minerals Projects to Counter China - Bloomberg.com",
+      "title_cn": "特朗普吹捧 30 亿美元的矿产项目以对抗中国 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVkNRcmJPajMyREpNWWNxc0p2bUF6S1NJOTZlOC1lWHFNa00yelM0T3k2U096TkdTcFNITzVub3VuZTJtUzNCREZ6UkdGV2JjYVN1SE9NVTY0MUNmYThWY0RNY3c2dnA2dnZJM3JwX2lZSUNxdFBodDB2aEo1Rmg4MHZaLTJXWl9PRTM3NWJGVlZTR2R0dndub2EyZVVoUkNwNEtyaGVXcW9tLXNMNUdv?oc=5",
+      "summary": "Trump Touts $3 Billion in Minerals Projects to Counter China&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Fri, 07 Aug 2026 20:52:20 GMT",
+      "pub_sort_dt": "2026-08-08 04:52:20"
     },
     {
       "source": "Wall Street Journal",
@@ -36,20 +72,11 @@
       "pub_sort_dt": "2026-08-08 03:56:00"
     },
     {
-      "source": "Reuters",
-      "title_en": "Trump to host mining CEOs as administration seeks minerals for defense supply chains - Reuters",
-      "title_cn": "特朗普政府将接待矿业首席执行官，为国防供应链寻找矿产 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOC1sWW4tTHpEM1NiQWVIbnZMRVlvcVcyNTl2UE1QU1lqSlBVaTlNai1UUm1yR0htazhtZjA1N3Jtb2dEaHhnWklPREdWdG52a0FrTjBMamVaM1FlR1JmSzZycUpWY3pKUzA4V3pRTk9FRzRsTklOMEhvQlRybVVjTHRNbjByQ3ZHY25ja2JERjBXdDUzNXo1WDNFeEFGa3hZTnZUR2lxWTZIQ2p5M01qV0lnUXBFQm1JRVdlZk90MkZhTWplb3RZdVJ0ZktrNmFKM0dr?oc=5",
-      "summary": "Trump to host mining CEOs as administration seeks minerals for defense supply chains&nbsp;&nbsp;Reuters",
-      "pub_raw": "Fri, 07 Aug 2026 19:11:43 GMT",
-      "pub_sort_dt": "2026-08-08 03:11:43"
-    },
-    {
       "source": "New York Times",
-      "title_en": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On - The New York Times",
-      "title_cn": "伊朗人表示，随着伊朗战争的拖延，特朗普的承诺已落空 - 纽约时报中文网",
+      "title_en": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On - nytimes.com",
+      "title_cn": "伊朗人称，随着伊朗战争的拖延，特朗普的承诺已落空 - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWXNxbm9keGVjQm5BNmVTZDNfeWhCOW1iM3NxYk5MdUIydkcxa0pfdDRJb19SSllsWEF3WmhZOFpPc3U5RTZxQl9wUDhkNTNxZVNJYkVtb0dMUjdEclRLS1hQNE56SEM0RGNOT0NtWGFPank1anRYbFdCQzJiR2lvMENsSQ?oc=5",
-      "summary": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On&nbsp;&nbsp;The New York Times",
+      "summary": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On&nbsp;&nbsp;nytimes.com",
       "pub_raw": "Fri, 07 Aug 2026 18:56:01 GMT",
       "pub_sort_dt": "2026-08-08 02:56:01"
     },
@@ -73,10 +100,10 @@
     },
     {
       "source": "Financial Times",
-      "title_en": "Donald Trump revives threat to sack Federal Reserve governor Lisa Cook - ft.com",
-      "title_cn": "唐纳德·特朗普再次威胁解雇美联储理事丽莎·库克 - ft.com",
+      "title_en": "Donald Trump revives threat to sack Federal Reserve governor Lisa Cook - Financial Times",
+      "title_cn": "唐纳德·特朗普再次威胁解雇美联储理事丽莎·库克 - 英国《金融时报》",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkNXS0c1SjN5THJyTEwxUUpJNng5V1ZzQmJjYmo2aGtmcGlYcldpTzVjZm9mZ3FNR243bkJkaXNXa2tTS3ZEQVgwcjdmSlVJQTJMU1V6Z1lDLXVzenZtZXFKOThwVGZiQWgxTEdidHctQzRzOHR0enI1STRsd1FQSkJSVWE?oc=5",
-      "summary": "Donald Trump revives threat to sack Federal Reserve governor Lisa Cook&nbsp;&nbsp;ft.com",
+      "summary": "Donald Trump revives threat to sack Federal Reserve governor Lisa Cook&nbsp;&nbsp;Financial Times",
       "pub_raw": "Fri, 07 Aug 2026 17:29:37 GMT",
       "pub_sort_dt": "2026-08-08 01:29:37"
     },
@@ -90,11 +117,20 @@
       "pub_sort_dt": "2026-08-08 01:18:50"
     },
     {
+      "source": "Nikkei Asia",
+      "title_en": "Global EV prices drop below hybrids as low-cost Chinese cars spread - Nikkei Asia",
+      "title_cn": "随着低成本中国汽车的普及，全球电动汽车价格跌破混合动力汽车 - 日经亚洲",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeFdsZEUzNlRZQ2J2aW82Y2hWdjdWTnhGTXlpaUFfTkNNN0lBMTl1aG82R2dOc3FpdEg3RUVkemRod3pSVjdCVHFuUk02RVU5bDJqbkZCSTJnVk1uWDNuYTNaYUV6UU5Jbl9CTFJfRHROa2I4S1BLb25IdWl4M05vNnFfYUVvcGN3bUVLbWY4M0FiVElUUmsxQmw0dTVPd3ZRenplOWthNDIzNUhKZzJKeXhwc1JFeDlWd0ZzRGxEWXlYOXYteXRjLUFB?oc=5",
+      "summary": "Global EV prices drop below hybrids as low-cost Chinese cars spread&nbsp;&nbsp;Nikkei Asia",
+      "pub_raw": "Fri, 07 Aug 2026 17:01:00 GMT",
+      "pub_sort_dt": "2026-08-08 01:01:00"
+    },
+    {
       "source": "Financial Times",
-      "title_en": "Jeanine Pirro, Trump’s legal crusader goes off script - ft.com",
-      "title_cn": "特朗普的法律斗士珍妮·皮罗(Jeanine Pirro)不按剧本行事 - ft.com",
+      "title_en": "Jeanine Pirro, Trump’s legal crusader goes off script - Financial Times",
+      "title_cn": "特朗普的法律斗士珍妮·皮罗 (Jeanine Pirro) 脱离剧本 - 英国《金融时报》",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm5la0lNcDBZSUh2WW1hWWZaaUpIdDVHYkw0VTB4UHM5RGFicU03SGkxam9rZmEySDh6eExJTVAyOC1wbllkWWJCWk9aZHVvQmktOEVMUUczblN1Y1YxZEtSTVlIYWJHRzZTMkJ3bERRUlBocmE1aVYyZXFzNTRFZXg2SDc?oc=5",
-      "summary": "Jeanine Pirro, Trump’s legal crusader goes off script&nbsp;&nbsp;ft.com",
+      "summary": "Jeanine Pirro, Trump’s legal crusader goes off script&nbsp;&nbsp;Financial Times",
       "pub_raw": "Fri, 07 Aug 2026 17:00:06 GMT",
       "pub_sort_dt": "2026-08-08 01:00:06"
     },
@@ -106,6 +142,15 @@
       "summary": "Heavy rains drench Beijing as China braces for Typhoon Dolphin&nbsp;&nbsp;Reuters",
       "pub_raw": "Fri, 07 Aug 2026 15:51:43 GMT",
       "pub_sort_dt": "2026-08-07 23:51:43"
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "China overtakes US to lead global R&D spending, hitting $615bn - Nikkei Asia",
+      "title_cn": "中国超越美国领跑全球研发支出，达 6150 亿美元 - 日经亚洲",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRmNaOUg4c2xCbzNHR2hrVll3eHFhelJtb1Z1Nkt2cVBUVDRXT3RMTElYWFMzRlNwTUxUWHg5anRaVXk4VnNVZWNJaHJGSXo4SzUtbDdYV3dsaW9CVUk1Z1lGSjNhS3dBbVFSaXRfcmZ2ZlZzektUSE4tbW1XdGlicm8xRUVhR0VlR0JzQkUtb0VuSk1zMzBvNGxQaEduejhsc3lF?oc=5",
+      "summary": "China overtakes US to lead global R&D spending, hitting $615bn&nbsp;&nbsp;Nikkei Asia",
+      "pub_raw": "Fri, 07 Aug 2026 15:19:00 GMT",
+      "pub_sort_dt": "2026-08-07 23:19:00"
     },
     {
       "source": "DW",
@@ -199,66 +244,39 @@
     },
     {
       "source": "New York Times",
-      "title_en": "Trump’s Vision for A.I. Dominance Comes With Major Air Pollution - The New York Times",
-      "title_cn": "特朗普对人工智能的愿景严重空气污染带来主导地位 - 纽约时报中文网",
+      "title_en": "Trump’s Vision for A.I. Dominance Comes With Major Air Pollution - nytimes.com",
+      "title_cn": "特朗普对人工智能的愿景严重空气污染带来主导地位 - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQem5tczhQSXlXWkQyRU1XaTYyUmRaUElYZzlCbmtXRGI4WVgySklmZ2ctQ0s1UWJ2N1MzTU1xX1phbVdlTDIxM2NmcDVvdWpCT0EwcXFvZDlJMjJhdDBZaUpBODg4RnlnMWc3NWZaYXJYWi10VmhiNlU4MXVadlNXZmVZcHFXY3FQb1FHdjl0QQ?oc=5",
-      "summary": "Trump’s Vision for A.I. Dominance Comes With Major Air Pollution&nbsp;&nbsp;The New York Times",
+      "summary": "Trump’s Vision for A.I. Dominance Comes With Major Air Pollution&nbsp;&nbsp;nytimes.com",
       "pub_raw": "Fri, 07 Aug 2026 09:05:04 GMT",
       "pub_sort_dt": "2026-08-07 17:05:04"
     },
     {
       "source": "New York Times",
-      "title_en": "‘The First Time I Voted for Donald Trump, I Thought It Was Going to Make a Difference’ - The New York Times",
-      "title_cn": "“我第一次投票给唐纳德·特朗普时，我认为这会带来改变”——《纽约时报》",
+      "title_en": "‘The First Time I Voted for Donald Trump, I Thought It Was Going to Make a Difference’ - nytimes.com",
+      "title_cn": "“我第一次投票给唐纳德·特朗普时，我认为这会产生影响” - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2JCcDZXN1N0cEhKeUdNNmZ3RXRXLW1QeXBxTjI2YnNoam16NXRxNEszcmhNQm9vYkZDTFYwbFhaMnN1MmF6ckF3U1AybHFrOHVkeHlKQzduZjg2emFEcHVUbV9oN0YzSFZ3bnRxS3VfdThBQnJlT2FUSmxONWk2Rl9KSXJTZVpNU1dF?oc=5",
-      "summary": "‘The First Time I Voted for Donald Trump, I Thought It Was Going to Make a Difference’&nbsp;&nbsp;The New York Times",
+      "summary": "‘The First Time I Voted for Donald Trump, I Thought It Was Going to Make a Difference’&nbsp;&nbsp;nytimes.com",
       "pub_raw": "Fri, 07 Aug 2026 09:02:30 GMT",
       "pub_sort_dt": "2026-08-07 17:02:30"
     },
     {
       "source": "New York Times",
-      "title_en": "Trump Administration Fast-Tracks Military Cooperation With Colombia - The New York Times",
-      "title_cn": "特朗普政府加快与哥伦比亚的军事合作 - 纽约时报中文网",
+      "title_en": "Trump Administration Fast-Tracks Military Cooperation With Colombia - nytimes.com",
+      "title_cn": "特朗普政府加快与哥伦比亚的军事合作 - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWtrcktKOUk2VXpaQXNBaFRZYml2OU5ZNm5jLUlWRWxael8yMjlSWjdrV29XeDhNMDhaWUF0ekgxNEYzbC12eVlqcXR5UHVwWUppNWFRNVpTMkVvQU5xZExjcTdkWkVUb2FvcDl3VVYyamFIVmdrYkpvQnk1UkRzZW1SbkgxaHhDQkNmeFNXeFhuVXoyWEliREY1OFhWLVVaMHY2N0pNNG0?oc=5",
-      "summary": "Trump Administration Fast-Tracks Military Cooperation With Colombia&nbsp;&nbsp;The New York Times",
+      "summary": "Trump Administration Fast-Tracks Military Cooperation With Colombia&nbsp;&nbsp;nytimes.com",
       "pub_raw": "Fri, 07 Aug 2026 09:02:01 GMT",
       "pub_sort_dt": "2026-08-07 17:02:01"
     },
     {
-      "source": "Nikkei Asia",
-      "title_en": "South Korea, Taiwan top Japan in exports for first time on AI boom - Nikkei Asia",
-      "title_cn": "人工智能热潮推动韩国、台湾出口额首次​​超过日本 - 日经亚洲",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPanhJVlZCZGtpa1BVVEM5bmZYSTBJQ1NVeTlneUFFSWNYYTJHQWRoMGFzOU50VzhSc0RmNEVfbENSRFoyM295b0ZWay1EVFZ4VzFhRTRoZlo3dWM2QXlCLXJrSzVPcmFZUU1FNzZ3YUpwbWRLUnk4bXZ6V2dKQlJUTmRwYjFLYnRhWnJFVHJTdWV2Q3hkcmMwUkpCakltSU1JNW1LSnJFTE8teE5MMUdoaFBjekF0OU1OaEE?oc=5",
-      "summary": "South Korea, Taiwan top Japan in exports for first time on AI boom&nbsp;&nbsp;Nikkei Asia",
-      "pub_raw": "Fri, 07 Aug 2026 09:01:00 GMT",
-      "pub_sort_dt": "2026-08-07 17:01:00"
-    },
-    {
       "source": "Bloomberg",
       "title_en": "US Reviews China’s Offshore Nvidia Chip Access After AI Gains - Bloomberg.com",
-      "title_cn": "人工智能取得进展后，美国审查中国离岸英伟达芯片准入 - Bloomberg.com",
+      "title_cn": "人工智能取得进展后，美国审查中国的离岸英伟达芯片准入 - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTdpdUdWQmtCamVUUDN2Y0NSMVRQVjBrNGQ5dG0xWVpOVG5xVGprbGFITVRkNzYtaHF0WmVWYUFkaHJubUNROHEwUDdEeGoxZzZ4STVrOHBieEM3SWFUSWpEMm56UUFUOExxTlJwdWg3YkQ0OGU5T1B0a2w2SXNwNEw3N2RMM21TRUoyZEx3REpsdmFqdzd3WXdxeW1zbEtqUVViYmtMa2hFNy13bzIyOTJhRzE2QWQ5SjdGTUY1T0VWQQ?oc=5",
       "summary": "US Reviews China’s Offshore Nvidia Chip Access After AI Gains&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Fri, 07 Aug 2026 09:00:00 GMT",
       "pub_sort_dt": "2026-08-07 17:00:00"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "Yum! Brands Completes Sale of Pizza Hut China to Yum China Holdings – Company Announcement - Financial Times",
-      "title_cn": "嗯！ Brands完成将必胜客中国出售给百胜中国控股公司 – 公司公告 - 英国《金融时报》",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTdzX2xiVm1EUXNiQW0zRlM3VDRVWlktMEVJaHhubzk5R0ZhQV9ILWExQjVjRGlBSWQ1UE1CSFdNUFNrTjhCUDBTSmZ2al9mR2xNR2pRaWhMV0Vmc3lMWmRZS3BGNlh5QVZ6Rk5ad1YwRWRTdlpIeUhwNlhDa1pKRlZHOUQyUXBYZW1OQUNpUi00UzliaWxjVTBBd3FhZUFVNl9CeWFR?oc=5",
-      "summary": "Yum! Brands Completes Sale of Pizza Hut China to Yum China Holdings – Company Announcement&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Fri, 07 Aug 2026 09:00:00 GMT",
-      "pub_sort_dt": "2026-08-07 17:00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "China’s Central Bank Adds Gold in Hong Kong to Support Hub - Bloomberg.com",
-      "title_cn": "中国央行在香港增加黄金支持中心 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNellUYlUwMVZuTFZpY0htUHRvZkVkT0ZHeTVIRnFwOTd2SGFvVlE2V0MyVEpieUY5Y2VsR0Q2SHNKa0FDNk9qcXJ1N2lOOEl1V19VZWxpRE41ZmNQbWQ3RnBRcl9PTXFBelF1aTF2M0NKUzBkdEdjeWFDY0ZuZm5kVDhvM21uWWRTV3NtemxoZ3JlU2VPR3hUSnZJZmJuNzNoYUtsclV1NnJ6cHNkZ3NVdnFpU0RCdw?oc=5",
-      "summary": "China’s Central Bank Adds Gold in Hong Kong to Support Hub&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Fri, 07 Aug 2026 08:28:18 GMT",
-      "pub_sort_dt": "2026-08-07 16:28:18"
     },
     {
       "source": "CNBC",
@@ -271,19 +289,19 @@
     },
     {
       "source": "AFP",
-      "title_en": "Spanish authorities refute false claims of adopting Chinese currency over dollars - AFP Fact Check",
-      "title_cn": "西班牙当局驳斥采用人民币取代美元的虚假说法 - 法新社事实核查",
+      "title_en": "Spanish authorities refute false claims of adopting Chinese currency over dollars - factcheck.afp.com",
+      "title_cn": "西班牙当局驳斥有关采用人民币而非美元的虚假说法 -factcheck.afp.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CdlY1YmlLU29hSnd3T2hlUkRPeGxZS0FyaWJzaF9oWThvRFRsYml1cWk4akxqLWFFMlI3LWlnc0dZdWdBR1N5WnFMa3RiaWNJcmljeHpaclo?oc=5",
-      "summary": "Spanish authorities refute false claims of adopting Chinese currency over dollars&nbsp;&nbsp;AFP Fact Check",
+      "summary": "Spanish authorities refute false claims of adopting Chinese currency over dollars&nbsp;&nbsp;factcheck.afp.com",
       "pub_raw": "Fri, 07 Aug 2026 07:22:30 GMT",
       "pub_sort_dt": "2026-08-07 15:22:30"
     },
     {
       "source": "New York Times",
-      "title_en": "China’s Export Boom Rolls On Despite Trade Backlash - The New York Times",
-      "title_cn": "尽管贸易反弹，中国出口仍持续繁荣 - 纽约时报中文网",
+      "title_en": "China’s Export Boom Rolls On Despite Trade Backlash - nytimes.com",
+      "title_cn": "尽管遭遇贸易抵制，中国出口仍持续繁荣 - 纽约时报中文网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85SU5kcUJtU3dUeW1UdldmcmZTSTVCTDV5VXp0UWR5MjhFV3lNa01BSV84SjlRTV8wLTFBZzhhSHMxbmxZWVpBS0ZlVHptNEwxY0tsUmZibDE5R2VhNmNuV2pfeXhuZGNNUndUbTQ4bzhKbGQ0TE44?oc=5",
-      "summary": "China’s Export Boom Rolls On Despite Trade Backlash&nbsp;&nbsp;The New York Times",
+      "summary": "China’s Export Boom Rolls On Despite Trade Backlash&nbsp;&nbsp;nytimes.com",
       "pub_raw": "Fri, 07 Aug 2026 07:20:25 GMT",
       "pub_sort_dt": "2026-08-07 15:20:25"
     },
@@ -315,6 +333,33 @@
       "pub_sort_dt": "2026-08-07 13:55:34"
     },
     {
+      "source": "Financial Times",
+      "title_en": "China’s exports jump almost a quarter in July - Financial Times",
+      "title_cn": "英国《金融时报》7月中国出口增长近四分之一",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWVYUHlPSVV1QXhXVmtzV1RHSTlUM29VQkFNenphTWlNaS1SQno3TXhwMVBTa1BXRmVyeXVFMkZiYXdWZWN5SWhaVGZYaDhSUzRHa0xHSEw3RHBLenpCV3FxRTNGRzU0ZEtxa2twQUE0RHJPTGh4MnRsRG81WEZaS0ZUOFQ?oc=5",
+      "summary": "China’s exports jump almost a quarter in July&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Fri, 07 Aug 2026 05:52:42 GMT",
+      "pub_sort_dt": "2026-08-07 13:52:42"
+    },
+    {
+      "source": "AFP",
+      "title_en": "Chinese activist held in Bangkok finds Canada refuge - www-pp.afp.com",
+      "title_cn": "被关押在曼谷的中国活动人士在加拿大寻求庇护 - www-pp.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tU24yejFEWkNsd0dmT2pCS3dMMm5Idjh5bGxDVXctcHZNLWZYTjdyek9XVDZsMGxHZkxaLThCVDRhaEgxT3FsamFGQnFFcUU?oc=5",
+      "summary": "Chinese activist held in Bangkok finds Canada refuge&nbsp;&nbsp;www-pp.afp.com",
+      "pub_raw": "Fri, 07 Aug 2026 05:34:33 GMT",
+      "pub_sort_dt": "2026-08-07 13:34:33"
+    },
+    {
+      "source": "AFP",
+      "title_en": "Anguish and hope: why a Tibetan set himself on fire in New York - www-pp.afp.com",
+      "title_cn": "痛苦与希望：一名藏人为何在纽约自焚 - www-pp.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NVktHamdQQXIzWWZPQkFnZDVGSU5mSG53dFZEOS03NzZVa2d3REJEN1FSYXNLMmYySjJQUUFjaFJLbVFSS2tGRmpMRHBKX0E?oc=5",
+      "summary": "Anguish and hope: why a Tibetan set himself on fire in New York&nbsp;&nbsp;www-pp.afp.com",
+      "pub_raw": "Fri, 07 Aug 2026 05:22:50 GMT",
+      "pub_sort_dt": "2026-08-07 13:22:50"
+    },
+    {
       "source": "Nikkei Asia",
       "title_en": "Weak yen boosts Japan automaker profits, easing Middle East, China stress - Nikkei Asia",
       "title_cn": "日元疲软提振日本汽车制造商利润，缓解中东和中国压力 - 日经亚洲",
@@ -333,13 +378,13 @@
       "pub_sort_dt": "2026-08-07 12:52:19"
     },
     {
-      "source": "AFP",
-      "title_en": "Chinese activist held in Bangkok finds Canada refuge - www-pp.afp.com",
-      "title_cn": "被关押在曼谷的中国活动人士在加拿大寻求庇护 - www-pp.afp.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOclNyVXdxeTRoSFdEVFk4WHlhNmp1aWItNXo3SWJWa003X05wQllyUHgzZF9Za0JtUWUxYlVnM19BTmlXWERwWVFMbFdGSGQtODRLYlUtdk9PeUJmRlJaQk14TDBvbWY2bWZiXzNyUGRTUjZTaU1Vek1EQ0tlUjl4Wg?oc=5",
-      "summary": "Chinese activist held in Bangkok finds Canada refuge&nbsp;&nbsp;www-pp.afp.com",
-      "pub_raw": "Fri, 07 Aug 2026 04:40:46 GMT",
-      "pub_sort_dt": "2026-08-07 12:40:46"
+      "source": "Financial Times",
+      "title_en": "Transcript: How to break China’s chokehold on rare earths - Financial Times",
+      "title_cn": "文字记录：如何打破中国对稀土的垄断 - 英国《金融时报》",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdW5QeTl3cUFldVRRYjFvMFdyR3RLZlRXeF9KSDBNaG1TSGU1a1lzRzczMnY0QV9Zc0R5LUk4SF9Ca3V1LUp0WmlGa2RIY3BYSy1rNXRxbERQcm5KZUNWRllVREw0U3R0QzJrZlMtcjEzM3cxTXNSa2ZmMzJiZWVudlVHa0s?oc=5",
+      "summary": "Transcript: How to break China’s chokehold on rare earths&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Fri, 07 Aug 2026 04:30:45 GMT",
+      "pub_sort_dt": "2026-08-07 12:30:45"
     },
     {
       "source": "AP",
@@ -353,20 +398,20 @@
     {
       "source": "The Economist",
       "title_en": "World in Brief: Trump denies munition shortages; Houthis step up attacks - The Economist",
-      "title_cn": "世界简报：特朗普否认弹药短缺；胡塞武装加强袭击 - 经济学人",
+      "title_cn": "世界简报：特朗普否认弹药短缺；胡塞武装加强攻击 - 经济学人",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlBxM0F3TG5MX2NMSDZ5bnJtSTFVbFZQSkQxakJXTi1Vb0Rfc3I0QzVvMUg4akxLUVRjQ0hKYXcwcWFDTDhyUXhBRExuXzJSaTdQQnBjQllOU0tyLU5xZDg3SzBvYUdEcUZmT1JRSERGV2lCRDdmcGd1SmlTR0Fqdi1JSHFyWnlLTW5Qb0lleFR1dk9kUWcw?oc=5",
       "summary": "World in Brief: Trump denies munition shortages; Houthis step up attacks&nbsp;&nbsp;The Economist",
       "pub_raw": "Fri, 07 Aug 2026 04:22:37 GMT",
       "pub_sort_dt": "2026-08-07 12:22:37"
     },
     {
-      "source": "Financial Times",
-      "title_en": "How to break China’s chokehold on rare earths - ft.com",
-      "title_cn": "如何打破中国对稀土的垄断 - FT.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPems0a1h0dEYxeWlQTmhkWTRQODBWaHp1NllsVE1waDJLNExMaVY2enhHZExiMFZ3NTBRWVdZT3Uzd2J2bUY3M0xSRWtaUWxQeTBmUzV3QW9Db1VZSVQwZDZQZl9OMFFPTE0wTEJ6c1pUQm5JWnBMNi1tMXZxQ1JabnUxbkM?oc=5",
-      "summary": "How to break China’s chokehold on rare earths&nbsp;&nbsp;ft.com",
-      "pub_raw": "Fri, 07 Aug 2026 04:00:00 GMT",
-      "pub_sort_dt": "2026-08-07 12:00:00"
+      "source": "CNN",
+      "title_en": "Atty: ‘It will not stand’: Trump targets birthright citizenship again after Supreme Court snub - CNN",
+      "title_cn": "律师：“这不会成立”：最高法院冷落后，特朗普再次瞄准与生俱来的公民身份 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS3djWjA4T2l1S3laa0duV0MzcTV1cjRtRm5VTkd0c193eHdOLUlMajNIYWNRZHlhRTNMZWdsWlZKZnNxOUFsdnpiVEo0akViVkE0UEJMdi1lSUwzY2xhbHpKbVN3Rkl1Vkl5V2lwOWE3WHBuVU41OVc3R0Z6dWZkZUxURTA1X1RFRTc5ZThjNk11WGlpWjB0MkJoTGJEOXJ5czFtWG9tYmJ5aTA5aTFyVlVJNElqS242RWh2RWFZbXNDUXhzY1hkWERzOWtrWUhnRGtDWmNJQQ?oc=5",
+      "summary": "Atty: ‘It will not stand’: Trump targets birthright citizenship again after Supreme Court snub&nbsp;&nbsp;CNN",
+      "pub_raw": "Fri, 07 Aug 2026 03:30:05 GMT",
+      "pub_sort_dt": "2026-08-07 11:30:05"
     },
     {
       "source": "Bloomberg",
@@ -396,15 +441,6 @@
       "pub_sort_dt": "2026-08-07 11:00:00"
     },
     {
-      "source": "Financial Times",
-      "title_en": "China’s exports jump almost a quarter in July - ft.com",
-      "title_cn": "中国7月份出口增长近四分之一 - ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWVYUHlPSVV1QXhXVmtzV1RHSTlUM29VQkFNenphTWlNaS1SQno3TXhwMVBTa1BXRmVyeXVFMkZiYXdWZWN5SWhaVGZYaDhSUzRHa0xHSEw3RHBLenpCV3FxRTNGRzU0ZEtxa2twQUE0RHJPTGh4MnRsRG81WEZaS0ZUOFQ?oc=5",
-      "summary": "China’s exports jump almost a quarter in July&nbsp;&nbsp;ft.com",
-      "pub_raw": "Fri, 07 Aug 2026 02:59:40 GMT",
-      "pub_sort_dt": "2026-08-07 10:59:40"
-    },
-    {
       "source": "CNBC",
       "title_en": "China's exports growth beats estimates in July, as AI-driven shipments surge - CNBC",
       "title_cn": "人工智能驱动的出货量激增，中国 7 月份出口增长超出预期 - CNBC",
@@ -416,7 +452,7 @@
     {
       "source": "AP",
       "title_en": "China rebukes US over Huawei dispute as Argentina's Milei balances ties with Washington and Beijing - AP News",
-      "title_cn": "阿根廷米莱平衡与华盛顿和北京的关系，中国就华为争端斥责美国 - 美联社新闻",
+      "title_cn": "阿根廷米雷平衡与华盛顿和北京的关系，中国就华为争端斥责美国 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWmNobXRadG1wY3F1N1l3MXBDRkxfQW9PX1VWb0VsQjhEQkpwNXRROGpWMmpSZ2h4cDVwdWhBekVzSU1MWDRkb044NmVEWFM0LXRPZllzQ0JocFRENXVjaWVIckEtc2lDcVVPZEwtWFNubzB3UW4tcmp6a2ZFd2pPZktyMEtXSG5tbHlUNG5ueEM3Rzc5YWRiaVhBTnZYX0xzd1lQT0xST3g3bHNFYTAxcGxaV1FkZGVFTnRNOXhJaVRlVkI3RW9jSUlRVUctT0JKVUE?oc=5",
       "summary": "China rebukes US over Huawei dispute as Argentina's Milei balances ties with Washington and Beijing&nbsp;&nbsp;AP News",
       "pub_raw": "Fri, 07 Aug 2026 02:39:55 GMT",
@@ -432,18 +468,9 @@
       "pub_sort_dt": "2026-08-07 10:15:01"
     },
     {
-      "source": "Nikkei Asia",
-      "title_en": "DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO - Nikkei Asia",
-      "title_cn": "DeepSeek 和国有石油巨头支持人形机器人制造商 Unitree 9 亿美元的 IPO - 日经亚洲",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdXBWVF8zeGZ6emVGSDlZNUhPYXNlTDVsUlhFMFFfbUdSelhPZnZzVk43WGRSaXRaOEk1NFVGT1NCSmNweV9KYmhaNWZpRmlIYVFidGdqemdDSkJJNVpNcGxBMlRMREs0ZkE3Nmk5dl93U3g5aVVDRVpuTFJkU3NybTM4RVJ5c2hqNXJaaW80VWR5d3h5Y25HTE1yS1JKUFJ2bVpfd1lxMFNoMmgxWXc5TmNhYzQ?oc=5",
-      "summary": "DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO&nbsp;&nbsp;Nikkei Asia",
-      "pub_raw": "Fri, 07 Aug 2026 02:10:00 GMT",
-      "pub_sort_dt": "2026-08-07 10:10:00"
-    },
-    {
       "source": "CNN",
       "title_en": "Analysis: As US and China throw up tit-for-tat sanctions, is Trump’s Xi meeting at risk? - CNN",
-      "title_cn": "分析：中美针锋相对制裁，特朗普习会是否面临风险？ - 美国有线电视新闻网",
+      "title_cn": "分析：中美针锋相对的制裁，特朗普习会是否面临风险？ - 美国有线电视新闻网",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTDNxNF9pbjR2dENmaDc0d0xMRE5tRVdsSHlBU1paNVQ3VnZzUDlQN0JNOXZ6UTA4dHVYaWpJOWZCWHNSZ3U1UnptbkZwcnNjY0ZTc1hQZDFwdE93bHRZVGFZSUI2T1d0V3VYSkk3ZEhyVXVXNG53NG00bGZoeHdzQTZ2cFNXa1lOdEp3a2ZzaUc?oc=5",
       "summary": "Analysis: As US and China throw up tit-for-tat sanctions, is Trump’s Xi meeting at risk?&nbsp;&nbsp;CNN",
       "pub_raw": "Fri, 07 Aug 2026 01:36:00 GMT",
@@ -479,7 +506,7 @@
     {
       "source": "CNN",
       "title_en": "Trump angry that leaked report on depleted munitions making U.S. look weak amid Iran War - CNN",
-      "title_cn": "特朗普对弹药耗尽报告的泄露感到愤怒，这让美国在伊朗战争中显得软弱",
+      "title_cn": "特朗普对弹药耗尽报告的泄露感到愤怒，这让美国在伊朗战争中显得软弱 - CNN",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51M0N1bnFjdWJ4c1Y0ZVJpRC1QVEliX0hka1RpejJXSVQxbmZ5eVVfQmlvRV9Mc1pzcFRkZ0MwU2lyblNDUlZTRWFmMktoSlk4djhWbXI3S2M2eVZfMFZzV3VsQktPaEZXVkZWaXRPMVM2SVpTNkRFZU9nQVY?oc=5",
       "summary": "Trump angry that leaked report on depleted munitions making U.S. look weak amid Iran War&nbsp;&nbsp;CNN",
       "pub_raw": "Fri, 07 Aug 2026 00:47:28 GMT",
@@ -506,7 +533,7 @@
     {
       "source": "Nikkei Asia",
       "title_en": "China's Zbtlink suspends sales of routers found to contain backdoor - Nikkei Asia",
-      "title_cn": "中国Zbtlink暂停销售被发现含有后门的路由器 - 日经亚洲",
+      "title_cn": "中国 Zbtlink 暂停销售被发现含有后门的路由器 - 日经亚洲",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUlnZEE5allGcGIwbUNDLVBXSHRMRHpGSklHd05vWURUaW1vMHpTMk1OdC02SGh3MW1VNkwxNkRfZl9pUXkzaFVtVHpJeTFmQ2lxeGFvQVJQUGJ4Ui0yOHV2UkpmeF9xc2pvX2NpZU1oUDZpYTVKajBTUjFHbHJKcHhYekd5b242N01TVEpKaGVwQlpQbUQ3dFdpSlBVaW1qLXRtdDd0eHRfaXBUTTRXTQ?oc=5",
       "summary": "China's Zbtlink suspends sales of routers found to contain backdoor&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Fri, 07 Aug 2026 00:27:00 GMT",
@@ -520,51 +547,6 @@
       "summary": "China can't get enough of this smelly fruit as farmers fight extreme weather to feed the craving&nbsp;&nbsp;AP News",
       "pub_raw": "Fri, 07 Aug 2026 00:13:00 GMT",
       "pub_sort_dt": "2026-08-07 08:13:00"
-    },
-    {
-      "source": "CNN",
-      "title_en": "'It has to stop': Federal judge who received death threats after ruling against Trump speaks out - CNN",
-      "title_cn": "“它必须停止”：在做出不利于特朗普的裁决后收到死亡威胁的联邦法官直言不讳 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdnJXZDBqcXVOZU12QmFvb3BmR1ZHVFB0eXBrSjlOeS1ScUtZWHJYVVVNakRiWTMwVnNJcU4yVDFVczhCbkp0dEFaT01QRWJCLWhxQmZaYWw0WDJFWXJFdi1PT0JyNWNVc1ZBQ3RXcHd0aXNEVnRsUkRQMC02M0VnZ1VHUld5UQ?oc=5",
-      "summary": "'It has to stop': Federal judge who received death threats after ruling against Trump speaks out&nbsp;&nbsp;CNN",
-      "pub_raw": "Fri, 07 Aug 2026 00:00:22 GMT",
-      "pub_sort_dt": "2026-08-07 08:00:22"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "Colombia’s new Trumpian president - The Economist",
-      "title_cn": "哥伦比亚新​​任特朗普总统 - 《经济学人》",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGtpbnI0UFZYYVQ2bFQyYmN1U3FKZjVpZmo5UmV2RVlYTlhEcUFlMVFHZEZQZldrRWtCaWZINnAzMTdqNUNyZjRGalpobEVzNFVMdWZVVFNPaElydlllQW1tQ2xFYUhWOXZBcjZCMVRRWVVqX1pzVlRqY2Zkamc3STNvak94N0s2YXhKaTB4MXNrVlVLVnY4?oc=5",
-      "summary": "Colombia’s new Trumpian president&nbsp;&nbsp;The Economist",
-      "pub_raw": "Fri, 07 Aug 2026 00:00:00 GMT",
-      "pub_sort_dt": "2026-08-07 08:00:00"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "US in Brief: Trump attacks birthright citizenship, again - The Economist",
-      "title_cn": "美国简报：特朗普再次攻击与生俱来的公民身份 - 《经济学人》",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUkcteGtVSF9XMjRPc1ZFVHhncmZkcTlDZ0JjekVKS3BTR1ZjN2NlTTRvQ3FMbWNFQXlRRE1qc29hV3NiS3FQd083YlJHNkFpdy1INVd2T2FkTGhyXzkxc1lacm9YbmdOU1JSc29kN3JlVFptY2FvR2RQUTdxMXFKbks5bGRxaEZpQXdVWkZ3RXlmS05vWENB?oc=5",
-      "summary": "US in Brief: Trump attacks birthright citizenship, again&nbsp;&nbsp;The Economist",
-      "pub_raw": "Fri, 07 Aug 2026 00:00:00 GMT",
-      "pub_sort_dt": "2026-08-07 08:00:00"
-    },
-    {
-      "source": "DW",
-      "title_en": "Trump signs new orders restricting birthright citizenship - dw.com",
-      "title_cn": "特朗普签署限制出生公民权的新命令 - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1RLcklfdjhQRVlmZk5BbHgxeDQwQ3J4anJBWlFYVVZWRWlfTU5ybEpXWTQ0YTZVQ00zdVJFRXJMQTlUX1poTVNUYVpYaUNBWi1rTTQwZk1CT3h0S29FNFlVb0pSbG53VXNlbjFhZGZVZGhuV3RReDZQcjdoNVI1UGxVMlZGUDlNWWxEQ0RNOC02TjdYRzRKTF9fbVZMUdIBngFBVV95cUxNS1RLcklfdjhQRVlmZk5BbHgxeDQwQ3J4anJBWlFYVVZWRWlfTU5ybEpXWTQ0YTZVQ00zdVJFRXJMQTlUX1poTVNUYVpYaUNBWi1rTTQwZk1CT3h0S29FNFlVb0pSbG53VXNlbjFhZGZVZGhuV3RReDZQcjdoNVI1UGxVMlZGUDlNWWxEQ0RNOC02TjdYRzRKTF9fbVZMUQ?oc=5",
-      "summary": "Trump signs new orders restricting birthright citizenship&nbsp;&nbsp;dw.com",
-      "pub_raw": "Thu, 06 Aug 2026 23:34:45 GMT",
-      "pub_sort_dt": "2026-08-07 07:34:45"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "Trump Orders Leak Probe After Venting About Media Coverage of Munitions Stockpile - WSJ",
-      "title_cn": "特朗普在媒体报道弹药库存后下令进行泄漏调查 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS200d1UtaHFSNlJYdjVReHViMUFJQ042S2YweUJERjZTaDhCN1pFNzFVbmhlQVMyOEJlMGYxWWM1YTdpdHpQUUIyUkp3anBSbWxuTnhCZXJiQlRKZV8ycnZtRUVxX01YanRidlFLMENHX0liczFxUlRmbG9PTkFrVFB0WlI1cFJ5bk5qZDhXZ1NreTJDS3R3QUpVbVNqREdTTUlrMU1IRjFlYXltNzgxdzVKc013czl1OFIwQnJwUUlJTjRsZkpmaVMtaWxid3otSTNv?oc=5",
-      "summary": "Trump Orders Leak Probe After Venting About Media Coverage of Munitions Stockpile&nbsp;&nbsp;WSJ",
-      "pub_raw": "Thu, 06 Aug 2026 23:30:00 GMT",
-      "pub_sort_dt": "2026-08-07 07:30:00"
     }
   ]
 }
