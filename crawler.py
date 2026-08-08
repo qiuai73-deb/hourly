@@ -19,8 +19,8 @@ CKW = ["china","chinese","beijing","xi jinping","li qiang","wang yi",
        "temu","cpec","renminbi","yuan","pboc","deepseek","baidu",
        "xiaomi","chinese economy","chinese market","chinese official",
        "sino-","brics","shanghai","shenzhen","guangzhou",
-       "people's liberation army","chinese military","chinese army",
-       "ccp","communist party of china","pla navy","pla air force","taiwan strait","trump","breaking"]
+       "people's liberation army","chinese military","scoop",
+       "ccp","communist party of china","pla","nasdaq","taiwan","google","breaking"]
 PLA_RE = re.compile(r"\bpla\b", re.I)
 
 def is_cn(text: str) -> bool:
