@@ -1,39 +1,102 @@
 {
-  "update_cst": "2026-08-09 16:01:34 北京时间",
+  "update_cst": "2026-08-09 18:01:26 北京时间",
   "total_count": 46,
   "source_stat": {
     "Reuters": 5,
     "Bloomberg": 5,
     "AP": 5,
-    "Nikkei Asia": 3,
+    "Nikkei Asia": 4,
     "Financial Times": 2,
-    "Wall Street Journal": 5,
+    "Wall Street Journal": 4,
     "CNBC": 2,
-    "New York Times": 5,
+    "New York Times": 4,
     "CNN": 5,
-    "AFP": 2,
+    "AFP": 1,
     "The Economist": 1,
     "BBC": 5,
-    "DW": 1
+    "DW": 3
   },
   "news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "China AI Chip Designer Moore Threads Plans Hong Kong Listing - Bloomberg.com",
+      "title_cn": "中国人工智能芯片设计公司摩尔线程计划在香港上市 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGhaajNuWXdVelQyN0ZBNzQ3eGhUVkNfVEZxRzNXM1V2WjhKaGYzUFRtUHdFSElOVThVMWphbjZBZGVjNEhwRHJEdHM4QVdvdXJ3dDZza2xLcllFNE1MN1NNWTNKY1I1X012TXJheTlSTjE4VllpWlhHR2ZuOWljQ094MnR5bzFZWGc0TTlCaFRuMjA0cHlVVkFCekV0VWRUeU5NZ04xZXBuS2U3d3JuWA?oc=5",
+      "summary": "China AI Chip Designer Moore Threads Plans Hong Kong Listing&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Sun, 09 Aug 2026 09:39:56 GMT",
+      "pub_sort_dt": "2026-08-09 17:39:56"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "A Lost Civilization Is Baffling Experts and Rewriting China’s Origin Story - WSJ",
+      "title_cn": "失落的文明令专家困惑并改写中国的起源故事 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUJsUEhnUXM1TTJ4UVJwSXR2cVY5YlJHbEVfU2lNTVJrUUFGTkxFMlJ6VzVpazI2RVJwVVNTWTRNd2xpLUljb24xWVhkVUFvbnVyckEyQmh5RmdXZkNVYWFzSXRMQXJTS0VFSWNfVWpHT0RtQXRIM1F2T2Z1TV9LRW1qbU5WMFN0aXRGRFZCczhiQ2NDc0lMbTM2cWdpWlNEQVMxUVc2RDRhVUZkc3JQVHNfY18?oc=5",
+      "summary": "A Lost Civilization Is Baffling Experts and Rewriting China’s Origin Story&nbsp;&nbsp;WSJ",
+      "pub_raw": "Sun, 09 Aug 2026 09:31:18 GMT",
+      "pub_sort_dt": "2026-08-09 17:31:18"
+    },
+    {
+      "source": "AP",
+      "title_en": "Europe News | Breaking European News Today - AP News",
+      "title_cn": "欧洲新闻 |今日欧洲突发新闻 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU?oc=5",
+      "summary": "Europe News | Breaking European News Today&nbsp;&nbsp;AP News",
+      "pub_raw": "Sun, 09 Aug 2026 09:04:36 GMT",
+      "pub_sort_dt": "2026-08-09 17:04:36"
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "How China's Japan-bashing is indirectly targeting Washington - Nikkei Asia",
+      "title_cn": "中国对日本的攻击如何间接针对华盛顿 - 日经亚洲",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWR1bEZWcXM5NTB4RF9WQkc3X3piSjBtOGRJYXd3ZEVadkp4QXNxUUVxTk5UQWNSODVMRWFKbjhseTFtN0xoUThPVzhuRnlveDZkbkcwMkZjeTBTRDVpYVhaUkJSR2RIZV9iY1V6UF8xTUxOanRPZUFMZWV2WXFWd1dULXN1aHh2QXhLVlRCMGFZSDI2Q091YURtYml1U013cTRzSg?oc=5",
+      "summary": "How China's Japan-bashing is indirectly targeting Washington&nbsp;&nbsp;Nikkei Asia",
+      "pub_raw": "Sun, 09 Aug 2026 09:00:00 GMT",
+      "pub_sort_dt": "2026-08-09 17:00:00"
+    },
     {
       "source": "The Economist",
       "title_en": "Lessons from Chinese AI - The Economist",
       "title_cn": "中国人工智能的教训 - 经济学人",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RU42T0FJazFlaFNVMmc0djFkYUsyZU5XSXpfb0w5S3NSSGhsRkM5T0s4TTRvNkZRVEx5b0FJRlhiYUFWZjhCOFFoS0FfWGJuR0hlYWxPME1wSWZBeWVV?oc=5",
       "summary": "Lessons from Chinese AI&nbsp;&nbsp;The Economist",
-      "pub_raw": "Sun, 09 Aug 2026 07:35:51 GMT",
-      "pub_sort_dt": "2026-08-09 15:35:51"
+      "pub_raw": "Sun, 09 Aug 2026 08:33:37 GMT",
+      "pub_sort_dt": "2026-08-09 16:33:37"
+    },
+    {
+      "source": "DW",
+      "title_en": "Australia: 2 planes almost collide on Sydney Airport tarmac - DW.com",
+      "title_cn": "澳大利亚：悉尼机场停机坪上两架飞机险些相撞 - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXy1fVVFoalo2eFhwTlBWZURkYzdvNnRQdU1oRWdMNDhKV0hybFdBTEpnWlhLWEdpV0tmNWJ3Uk9YYXJ2dGpYZGdWMExIRjFsME0xLXJyUkpvU01hVlEwWnF0TzJPUHdiS2hWcTkxRmo4VFpvYnpzaE5QWTFuU2h6V2RXaWlEVXdSY09OTHdEeDE5djhQVVlyOWMxUV9xak8tbVIwd3ctZkR0dFJZYnVsZtIBsAFBVV95cUxQXy1fVVFoalo2eFhwTlBWZURkYzdvNnRQdU1oRWdMNDhKV0hybFdBTEpnWlhLWEdpV0tmNWJ3Uk9YYXJ2dGpYZGdWMExIRjFsME0xLXJyUkpvU01hVlEwWnF0TzJPUHdiS2hWcTkxRmo4VFpvYnpzaE5QWTFuU2h6V2RXaWlEVXdSY09OTHdEeDE5djhQVVlyOWMxUV9xak8tbVIwd3ctZkR0dFJZYnVsZg?oc=5",
+      "summary": "Australia: 2 planes almost collide on Sydney Airport tarmac&nbsp;&nbsp;DW.com",
+      "pub_raw": "Sun, 09 Aug 2026 07:57:32 GMT",
+      "pub_sort_dt": "2026-08-09 15:57:32"
+    },
+    {
+      "source": "DW",
+      "title_en": "Router's 'backdoor' to China raises cybersecurity concerns - DW.com",
+      "title_cn": "通往中国的路由器“后门”引发网络安全担忧 - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3Y3YzNYUFllV3dPSkdFaWc1VGxKQUZmYkcxaTNMdVUtcVVWb0lnYXpHQWhrOGJhMDc0ZXViS2ZwQnY0MVFaQndfOWZzYWNIa1ZWYk1WRjRTUFRwaUVFMmxyN3V5MkF1UDY5Nkp4N0hZc3hnZWplRHB5UXlyR3lfclZWWTB3VDN4WmM5V1VBMzZ0OUFSa2lF?oc=5",
+      "summary": "Router's 'backdoor' to China raises cybersecurity concerns&nbsp;&nbsp;DW.com",
+      "pub_raw": "Sun, 09 Aug 2026 06:40:24 GMT",
+      "pub_sort_dt": "2026-08-09 14:40:24"
     },
     {
       "source": "Reuters",
-      "title_en": "Australia probes near-miss collision of two planes on tarmac at Sydney airport - Reuters",
-      "title_cn": "澳大利亚调查悉尼机场停机坪上两架飞机险些相撞 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON0NFV2dVdHlXcHlZUG5QWTZKZTNCczRicGxNLVQ5ODVwdDdkNGdkMDRmMHFOM3czZDVwVWxmcDR4MURUNk5jcWZHSVQ3Yjl0aWFURElyMVcxSElLYzBkelVHcWVaM2Z4TWl3bmFzV1RJOHZ4M2E1dEtzdkFSOTI3TXJfbXpkTU95azRRcUQ4eFI1NGp2MGJaUjhBc2c5OWtIYlc1SnI4VFFYblRNZWtOQTVONnZnbWZXNUFiZWFmakNaQQ?oc=5",
-      "summary": "Australia probes near-miss collision of two planes on tarmac at Sydney airport&nbsp;&nbsp;Reuters",
-      "pub_raw": "Sun, 09 Aug 2026 06:59:55 GMT",
-      "pub_sort_dt": "2026-08-09 14:59:55"
+      "title_en": "German trade deficit with China grows as Beijing relies less on European industry - Reuters",
+      "title_cn": "德国对华贸易逆差扩大，北京对欧洲工业依赖减少 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODQ2YlF3a0ZsOFRad3lFOW5WTzdtOFVSWmYwTEhTVkNhQ283ckFGd0YtR2hxa1EzYTd0LWVSN2NHNnhESFNpLXhJVTNMRlVCTW8waDI2RFpOeGZKX2dvTGZoM3JzNWJ3ZjRUMFdMaHZleVo1ZG5ackJES1lBZ2ZvelE4Tm1hbGdCaWoxaWE4dlExZGNsaWdKV085cDNFcml3aGxkZUJYdnJvYk8wZnJ2MVNMOXdxbFA4Tk1RQVo1cGc?oc=5",
+      "summary": "German trade deficit with China grows as Beijing relies less on European industry&nbsp;&nbsp;Reuters",
+      "pub_raw": "Sun, 09 Aug 2026 06:32:00 GMT",
+      "pub_sort_dt": "2026-08-09 14:32:00"
+    },
+    {
+      "source": "BBC",
+      "title_en": "All-female chess team told they must include a male player - BBC",
+      "title_cn": "全女子国际象棋队被告知必须有一名男棋手 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NUWx3Q2R6djJEWDJYajAxYlhBX0lBa3ZQSU9QVzJqYjVyMElHWFY2Yi1PeVYwd05RR3JGeVBXQVZGc1ZjaDBWQXM1UFpORmNQMk92RTR3Z0c0UQ?oc=5",
+      "summary": "All-female chess team told they must include a male player&nbsp;&nbsp;BBC",
+      "pub_raw": "Sun, 09 Aug 2026 06:17:02 GMT",
+      "pub_sort_dt": "2026-08-09 14:17:02"
     },
     {
       "source": "Bloomberg",
@@ -72,6 +135,24 @@
       "pub_sort_dt": "2026-08-09 13:42:10"
     },
     {
+      "source": "AP",
+      "title_en": "Russia-Ukraine | Breaking News & Live Updates - AP News",
+      "title_cn": "俄罗斯-乌克兰|突发新闻和实时更新 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
+      "summary": "Russia-Ukraine | Breaking News & Live Updates&nbsp;&nbsp;AP News",
+      "pub_raw": "Sun, 09 Aug 2026 05:38:08 GMT",
+      "pub_sort_dt": "2026-08-09 13:38:08"
+    },
+    {
+      "source": "BBC",
+      "title_en": "British Transplant Games: Team NI athletes ready to shine at Sheffield 2026 - BBC",
+      "title_cn": "英国移植运动会：NI 队运动员准备在 2026 年谢菲尔德大放异彩 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52TU5ER2NMalNVcmtFLXA4SWd4RmJKXzJqdkxEcEpqWGU1eFJ1dVF1YVNfNEdnWWVlUWJzdlFiSUhEVUd6NWNtZnFzdGhSMnhtUWVXLXRQUjNIdw?oc=5",
+      "summary": "British Transplant Games: Team NI athletes ready to shine at Sheffield 2026&nbsp;&nbsp;BBC",
+      "pub_raw": "Sun, 09 Aug 2026 05:22:04 GMT",
+      "pub_sort_dt": "2026-08-09 13:22:04"
+    },
+    {
       "source": "Reuters",
       "title_en": "Typhoon Dolphin set to hit China's east coast, triggering flood warnings - Reuters",
       "title_cn": "台风“海豚”将袭击中国东海岸，引发洪水警报 - 路透中文网",
@@ -79,15 +160,6 @@
       "summary": "Typhoon Dolphin set to hit China's east coast, triggering flood warnings&nbsp;&nbsp;Reuters",
       "pub_raw": "Sun, 09 Aug 2026 04:57:00 GMT",
       "pub_sort_dt": "2026-08-09 12:57:00"
-    },
-    {
-      "source": "AP",
-      "title_en": "Russia-Ukraine | Breaking News & Live Updates - apnews.com",
-      "title_cn": "俄罗斯-乌克兰|突发新闻和实时更新 - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
-      "summary": "Russia-Ukraine | Breaking News & Live Updates&nbsp;&nbsp;apnews.com",
-      "pub_raw": "Sun, 09 Aug 2026 04:38:10 GMT",
-      "pub_sort_dt": "2026-08-09 12:38:10"
     },
     {
       "source": "CNN",
@@ -109,10 +181,10 @@
     },
     {
       "source": "AP",
-      "title_en": "Shanghai cancels 1,300 flights as China prepares for Typhoon Dolphin - apnews.com",
-      "title_cn": "上海取消1300架次航班 中国备战台风“海豚”",
+      "title_en": "Shanghai cancels 1,300 flights as China prepares for Typhoon Dolphin - AP News",
+      "title_cn": "中国为台风海豚做准备，上海取消1,300个航班 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGtvcElBNThyOFktNjcySXRiVGJNaXBiMnZCNnFmQi1QaTc5MVRLck95ZjMtdGtvT0hUdms2dGV1WXJOekpxYm1sZkd1cmR4dzlkMDNJUGRWZzlMT0F1UENhRG5zQXZNc0NuUDlVMWFFTUpacnZNREItSTVaLUhBeQ?oc=5",
-      "summary": "Shanghai cancels 1,300 flights as China prepares for Typhoon Dolphin&nbsp;&nbsp;apnews.com",
+      "summary": "Shanghai cancels 1,300 flights as China prepares for Typhoon Dolphin&nbsp;&nbsp;AP News",
       "pub_raw": "Sun, 09 Aug 2026 03:49:00 GMT",
       "pub_sort_dt": "2026-08-09 11:49:00"
     },
@@ -131,35 +203,35 @@
       "title_cn": "随着伊朗战争影响缓解，中国月度通胀降温 - 英国《金融时报》",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmJPV0ZScF9VRGtZNHBZX213bEh6aW5hM21oRzdXTHQyMmhCZDd3SS1tbmNCMWRzUXlHMktVWFBNX1BCM2RLZ2MtNl8tYS1OVGx4dzROTXk3cTIzSmlacXJ5NXFkTU5vbV9YeTZxVFJMVGpRWFZ5UU0td012MVRoQW5la3I?oc=5",
       "summary": "China’s monthly inflation cools as impact from Iran war eases&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Sun, 09 Aug 2026 03:05:38 GMT",
-      "pub_sort_dt": "2026-08-09 11:05:38"
+      "pub_raw": "Sun, 09 Aug 2026 03:06:48 GMT",
+      "pub_sort_dt": "2026-08-09 11:06:48"
     },
     {
       "source": "Wall Street Journal",
-      "title_en": "China Inflation Cools More Than Expected in July - wsj.com",
-      "title_cn": "7月份中国通胀降幅超预期 - 华尔街日报",
+      "title_en": "China Inflation Cools More Than Expected in July - WSJ",
+      "title_cn": "7月份中国通胀降幅超出预期 - 华尔街日报",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPenV3amZEN3Z6bnJubHE2R0g0RW5hLUlnOHZEVjRRUkNLYjNlclN6M2RjM0VYZDhvV0d4SnpURGZkUkdxNDRESmtXQkQ1NGZ2dHJodVBfWmhaQ3VubmExVGRQbW5LMmxNc1VibUhVSlJxcDZaeDRZbFNCTG1FblU4MkpuY1R5QTlzVmRDakR5ZDZXRC1YaHpWOQ?oc=5",
-      "summary": "China Inflation Cools More Than Expected in July&nbsp;&nbsp;wsj.com",
+      "summary": "China Inflation Cools More Than Expected in July&nbsp;&nbsp;WSJ",
       "pub_raw": "Sun, 09 Aug 2026 02:40:00 GMT",
       "pub_sort_dt": "2026-08-09 10:40:00"
     },
     {
       "source": "AP",
-      "title_en": "A Tibetan cooperative keeps a centuries-old weaving tradition alive - apnews.com",
-      "title_cn": "西藏合作社保留了数百年历史的编织传统 - 亚太新闻网",
+      "title_en": "A Tibetan cooperative keeps a centuries-old weaving tradition alive - AP News",
+      "title_cn": "西藏合作社保留了数百年的编织传统 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0NRY3JadVZiTlNXWWVSWHRnRk5GUmYzMW1HVlhsWTJBdE9PUUZtX1ZFX0xILWRLVDllaXI3RHJKTjNWODNTMUZtUFgwRkttRHJSNmhFQUZUUGtWcTJ4Rm1KdnJZNWNiaWZlT3BBTDhUd0VRUHNYdDBkMkh5d1RKanlFdk5XZjN1UE5QSE1BLWFhaVhvNHhwczN4MXRkaFU?oc=5",
-      "summary": "A Tibetan cooperative keeps a centuries-old weaving tradition alive&nbsp;&nbsp;apnews.com",
+      "summary": "A Tibetan cooperative keeps a centuries-old weaving tradition alive&nbsp;&nbsp;AP News",
       "pub_raw": "Sun, 09 Aug 2026 02:23:00 GMT",
       "pub_sort_dt": "2026-08-09 10:23:00"
     },
     {
       "source": "Wall Street Journal",
-      "title_en": "Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help. - wsj.com",
+      "title_en": "Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help. - WSJ",
       "title_cn": "古巴石油资源匮乏。现在，它在中国的帮助下依靠太阳能。 - 华尔街日报",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EYXVmUnZrUE9mb3VibFV0Y1l2V3B3QzlDV053NzhzYjBUWjNUNjNGUGMxZ093dWlzUXFLUHpSZF9ma1ZHUE5fLWlYdGpYVmdiY1ZHWFE2ZHFTdzRKMXVMc2o2bElFTXNLenVTR3NqX2Q?oc=5",
-      "summary": "Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help.&nbsp;&nbsp;wsj.com",
-      "pub_raw": "Sun, 09 Aug 2026 02:00:00 GMT",
-      "pub_sort_dt": "2026-08-09 10:00:00"
+      "summary": "Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help.&nbsp;&nbsp;WSJ",
+      "pub_raw": "Sun, 09 Aug 2026 02:01:22 GMT",
+      "pub_sort_dt": "2026-08-09 10:01:22"
     },
     {
       "source": "Reuters",
@@ -189,15 +261,6 @@
       "pub_sort_dt": "2026-08-09 09:23:00"
     },
     {
-      "source": "AP",
-      "title_en": "Braves manager Walt Weiss says plate umpire Dan Merzel made a terrible balk call on Chris Sale - apnews.com",
-      "title_cn": "勇士队主教练沃尔特·韦斯表示，裁判丹·默泽尔对克里斯·塞尔做出了可怕的拒绝判罚 - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkRaTlZvUU1yWTZYWUY0WDFQX1J2UGE5cGdXS29hZTZtRlhqZm5YRzM1TVpvbzdkRm9EbG9oMnVuS01RejJmNVRjM0xQX1A5MWJ4RkR1MVBscXpLRms3b3c4ZzJkYVNoRlZfcm9JbnEtSlJOWVpTN2dHS0ZlTHFjUU1PbzQtaHk2TXIxSTVHellVTWN5VG1vaERJYjRsRTRV?oc=5",
-      "summary": "Braves manager Walt Weiss says plate umpire Dan Merzel made a terrible balk call on Chris Sale&nbsp;&nbsp;apnews.com",
-      "pub_raw": "Sat, 08 Aug 2026 23:30:00 GMT",
-      "pub_sort_dt": "2026-08-09 07:30:00"
-    },
-    {
       "source": "Nikkei Asia",
       "title_en": "Chinese nostalgia makes 'Kung Fu Soccer' a hit but will it score overseas? - Nikkei Asia",
       "title_cn": "中国怀旧情绪让《功夫足球》大受欢迎，但它会在海外大受欢迎吗？ - 日经亚洲",
@@ -208,12 +271,21 @@
     },
     {
       "source": "AP",
-      "title_en": "49ers coach Kyle Shanahan plans to coach the exhibition opener following car crash - apnews.com",
-      "title_cn": "49人队主教练凯尔·沙纳汉计划在车祸后执教揭幕战 - apnews.com",
+      "title_en": "49ers coach Kyle Shanahan plans to coach the exhibition opener following car crash - AP News",
+      "title_cn": "49人队教练凯尔·沙纳汉计划在车祸后执教揭幕战 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcWNvZVNpWXRGNFAxRGRxWmUyX3VxOEN1U29Xd1VMUVZwVW0yelhoWVdtVlZSbGMzbmo3V1ZCZzVEN0hsemNib0xCbnBHZlNjYmpadV8tc3QwejhKbXVLLXJZdGpnMGM5NjN2Q2ZLTmh6S3VaakF6NmN5SlA0czVqbENMQVh4ZzNjVnpfblh3TGxnQUk?oc=5",
-      "summary": "49ers coach Kyle Shanahan plans to coach the exhibition opener following car crash&nbsp;&nbsp;apnews.com",
+      "summary": "49ers coach Kyle Shanahan plans to coach the exhibition opener following car crash&nbsp;&nbsp;AP News",
       "pub_raw": "Sat, 08 Aug 2026 23:22:00 GMT",
       "pub_sort_dt": "2026-08-09 07:22:00"
+    },
+    {
+      "source": "CNN",
+      "title_en": "Roger Craig says vascular dementia diagnosis may be linked to playing-career concussions in Hall of Fame speech - CNN",
+      "title_cn": "罗杰·克雷格在名人堂演讲中表示，血管性痴呆的诊断可能与职业生涯脑震荡有关 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRldfNXVWMXUtZE1qUTdEMTJlS3c2OUhBWnc4aTZjZmZnVWtCdEZHUF96a0d6b0NYSmVLeUtPcEhXbE9SNFZIX241c0I1eUU2OG5xSmpNRkg4VV9RakpCWTJBZjVHbE9TVWptOWdneVg0UFpCdGNnM2lMOXZ3bGlnVTVkSW01ejh2RVJxZ0JPbmZ4NTlEV2c?oc=5",
+      "summary": "Roger Craig says vascular dementia diagnosis may be linked to playing-career concussions in Hall of Fame speech&nbsp;&nbsp;CNN",
+      "pub_raw": "Sat, 08 Aug 2026 20:21:45 GMT",
+      "pub_sort_dt": "2026-08-09 04:21:45"
     },
     {
       "source": "Bloomberg",
@@ -225,13 +297,13 @@
       "pub_sort_dt": "2026-08-09 03:39:28"
     },
     {
-      "source": "BBC",
-      "title_en": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope - BBC",
-      "title_cn": "澳大利亚是地球上的灭绝热点，但一种动物带来了一线希望 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xdFlPZmtLRU9UT0tfaXM5TE5sNXphUjZYaGhweHpKLWNBLWtwLUlON1dIN3Jvb3k3RDAzRmhOSWZwQS1vcFBBaHhZaExBYVVrMXVlNWw0LUJPUQ?oc=5",
-      "summary": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope&nbsp;&nbsp;BBC",
-      "pub_raw": "Sat, 08 Aug 2026 19:00:22 GMT",
-      "pub_sort_dt": "2026-08-09 03:00:22"
+      "source": "New York Times",
+      "title_en": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S. - The New York Times",
+      "title_cn": "亚马逊新数据中心令人担心它将成为美国污染最严重的发电厂 - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTZPMTAxS3FINHdEcmlIV3pqSWpUOVI0MUFJMFRlZ0MxeDJyc19aekRLMFA1ZF9RaU00TXZxWGFxSTBGbEhyekxneHZ3QTFfMXVJZFBRZWlLYlNmamROS1ktTUZVOVJHZElkUkVWYWtpUFRxbDcwenFBQkFMdGc2aFBLb3JOejRGMGc?oc=5",
+      "summary": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Sat, 08 Aug 2026 18:17:03 GMT",
+      "pub_sort_dt": "2026-08-09 02:17:03"
     },
     {
       "source": "New York Times",
@@ -262,19 +334,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title_en": "China’s New Export Engine: Supplying the Factories of the World - wsj.com",
-      "title_cn": "中国新的出口引擎：供应世界工厂 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDk4SXZjX093V0xWbGlhMnFQUTJ6dG80QU4xemFPWUpWOGNDSFlfQ19lQ3dDSmZNMVJPZUw0QllYZ2ZjVDBmZE1neEJQcDdBcThBbm91WTJKWTJxMkVCTzBCSlV3MmQ1aG1HRXJjSkZZU1RxTk1RcUp4VzVyQWVyVVZ5YnVYZGdPYW5HTmdMenFsaXBoS3hPaFh6YVF2cTlPbVlDejJrZw?oc=5",
-      "summary": "China’s New Export Engine: Supplying the Factories of the World&nbsp;&nbsp;wsj.com",
-      "pub_raw": "Sat, 08 Aug 2026 16:31:30 GMT",
-      "pub_sort_dt": "2026-08-09 00:31:30"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "Taiwan Is Slowing Its Internet for a War Drill. Locals Aren’t Worried. - wsj.com",
+      "title_en": "Taiwan Is Slowing Its Internet for a War Drill. Locals Aren’t Worried. - WSJ",
       "title_cn": "台湾因战争演习而减慢互联网速度。当地人并不担心。 - 华尔街日报",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MOVdSTzg2cVF1NlJadS1oMm5WRG5nVkQyS3p6RW11Vy1SeWcxdlVleVVGT0JrTXlBeXp0ZUFDMWpKNWxRWVZGODlmSC1fYndoa2U3VTBrQkxTWXR5bWZJcnl4cGRjNXNhWWZZOUpURVE0TTVSekRESG9wRTE?oc=5",
-      "summary": "Taiwan Is Slowing Its Internet for a War Drill. Locals Aren’t Worried.&nbsp;&nbsp;wsj.com",
+      "summary": "Taiwan Is Slowing Its Internet for a War Drill. Locals Aren’t Worried.&nbsp;&nbsp;WSJ",
       "pub_raw": "Sat, 08 Aug 2026 16:00:00 GMT",
       "pub_sort_dt": "2026-08-09 00:00:00"
     },
@@ -288,19 +351,10 @@
       "pub_sort_dt": "2026-08-08 23:15:17"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "Watch China’s AI Push Reshapes Its Economic Future - Bloomberg.com",
-      "title_cn": "观看中国的人工智能推动重塑其经济未来 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZUVPR013ci1Hdjhid2NnT0s0dzYxSy14c2FWMEFvMWg5LUp5S3M5bmJDcGd5TDByWTI0andpTmRENlhlV1pSRzRjaUFPV0RyRmtpUk45VG9jZERXX2FKaDk5M1ROZm9PT1R4S2x4T1JZU1JMMEJUcTZEX19Ka3ozaF80bEVid1ZBQjNxR1lDLUY1bC1nUHhSU0FjWW1sNFJK?oc=5",
-      "summary": "Watch China’s AI Push Reshapes Its Economic Future&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Sat, 08 Aug 2026 14:36:11 GMT",
-      "pub_sort_dt": "2026-08-08 22:36:11"
-    },
-    {
       "source": "CNN",
       "title_en": "Professor explains why Iran’s drone arsenal is so hard to destroy - CNN",
       "title_cn": "教授解释为什么伊朗的无人机武库如此难以摧毁 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc3Y1VWx2NjgzRUFMQnU4dlI5V1ZEXzdoVnVSeW1UVmRUSkZaeEV4U3paNXNRNkF6b1NmTDdKMHY0bklOc1pVLXd2U0VzMVN5QVNsVG8xNkk3UUlCcWhIWUtYbzU0b2VmTXBiRHpWdHd4QTFneTdNMElKak0wUjVKQ3F3Wk9nbjJBZlVERnhuUVBSdzl0eUtwNll3SDU0NU9iREdGZld2U19ENkM3OTZQdg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV1R6YklqX29qbEV4SzRHOHRkbGFWbkdUZkhaWU5mcWw3YmwwYVEzME9CdmM4VXVjVzhGaVlidzZBSnFYUzAyZURIOVFkclNVNmFsdEF3UGJPaW5zT0hIa0EtNGtPNVIzVUhqSGxTdmtnNUlENzFxZTNHMjBJcC1Lc0tyRTZ6RVY2V2xQQ2w2alFzbTVyNjk0UkJtcHFCTzROTzl3TmtZX2prQ0k?oc=5",
       "summary": "Professor explains why Iran’s drone arsenal is so hard to destroy&nbsp;&nbsp;CNN",
       "pub_raw": "Sat, 08 Aug 2026 14:36:01 GMT",
       "pub_sort_dt": "2026-08-08 22:36:01"
@@ -342,15 +396,6 @@
       "pub_sort_dt": "2026-08-08 20:00:01"
     },
     {
-      "source": "BBC",
-      "title_en": "Tributes left at beauty spot after unexplained death of 11-year-old girl - BBC",
-      "title_cn": "11岁女孩不明原因死亡后，人们在风景区悼念 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54UmNLQU4yZ3g5YWJPVDVYcU5NajJac0xGak9fTWotN3V5N1NVSFZROW1JWk1FVVJQNi04OVk1Wmk2UzRlNGxHYXl4SlhQT1hOclhZZ1U4WWVPUQ?oc=5",
-      "summary": "Tributes left at beauty spot after unexplained death of 11-year-old girl&nbsp;&nbsp;BBC",
-      "pub_raw": "Sat, 08 Aug 2026 11:40:03 GMT",
-      "pub_sort_dt": "2026-08-08 19:40:03"
-    },
-    {
       "source": "AFP",
       "title_en": "Central & Western District Youth-to-Career Expo Connects Hong Kong Youth to Future Careers in AI Era - www-pp.afp.com",
       "title_cn": "中西区青年就业博览连接香港青年与AI时代未来职业 - www-pp.afp.com",
@@ -358,15 +403,6 @@
       "summary": "Central & Western District Youth-to-Career Expo Connects Hong Kong Youth to Future Careers in AI Era&nbsp;&nbsp;www-pp.afp.com",
       "pub_raw": "Sat, 08 Aug 2026 10:49:28 GMT",
       "pub_sort_dt": "2026-08-08 18:49:28"
-    },
-    {
-      "source": "CNN",
-      "title_en": "50 People to Know in Today's China - CNN",
-      "title_cn": "当今中国值得认识的 50 个人 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObEIxN0VMS1VNczZOdlVBMTdvNDRwSHJ2OVNSLTY3Y1lYQnBqRGx6TGhBMzRLSUpueG5BV0RqWkFMUDdCeDhrVDRSWDBLb1dVUy0wX3d4SHNlUTVsdXRiVjBocVU0WXhRWnhvbWg0S3pyTVBNcmZvcndHY0dmNGY4Q3MxU0otZi1mcDVVQXZWakw3WDQ?oc=5",
-      "summary": "50 People to Know in Today's China&nbsp;&nbsp;CNN",
-      "pub_raw": "Sat, 08 Aug 2026 10:36:20 GMT",
-      "pub_sort_dt": "2026-08-08 18:36:20"
     },
     {
       "source": "CNN",
@@ -394,42 +430,6 @@
       "summary": "From Our Own Correspondent | China's alleged 'Fentanyl King' and the Mexican cartels&nbsp;&nbsp;BBC",
       "pub_raw": "Sat, 08 Aug 2026 10:22:24 GMT",
       "pub_sort_dt": "2026-08-08 18:22:24"
-    },
-    {
-      "source": "New York Times",
-      "title_en": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back. - The New York Times",
-      "title_cn": "比利·斯特林斯逃离了黑暗。他是在玩不回去的游戏。 - 纽约时报",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXc2NvcnlERW5BVEZObDFHeEVPbnI4SkZiTkxvTHhlM011OE80XzZjS3pibjVKbDBKMEhRVE82NHFDT0pCN05PNS13dnkwdzIySENaSXdYOVBLbFNqZU9YVm5VNlU0ckFUbUxJaHljXzZYV2VPMllXMXllVGM?oc=5",
-      "summary": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back.&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Sat, 08 Aug 2026 09:15:05 GMT",
-      "pub_sort_dt": "2026-08-08 17:15:05"
-    },
-    {
-      "source": "AFP",
-      "title_en": "Tibet conference in Nepal pushed online - www-pp.afp.com",
-      "title_cn": "尼泊尔西藏会议上线 - www-pp.afp.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VZGoyVHRwNklQRWtCUEo5MVc2VHpWZXhCQXpOVnJER2ktT0pBOEdzVjJFMURXV2EwMUxFQ0t4VXFzSmc5RV9JTzYwYkhqdEk?oc=5",
-      "summary": "Tibet conference in Nepal pushed online&nbsp;&nbsp;www-pp.afp.com",
-      "pub_raw": "Sat, 08 Aug 2026 09:08:31 GMT",
-      "pub_sort_dt": "2026-08-08 17:08:31"
-    },
-    {
-      "source": "New York Times",
-      "title_en": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S. - The New York Times",
-      "title_cn": "亚马逊新数据中心令人担心它将成为美国污染最严重的发电厂 - 纽约时报中文网",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTZPMTAxS3FINHdEcmlIV3pqSWpUOVI0MUFJMFRlZ0MxeDJyc19aekRLMFA1ZF9RaU00TXZxWGFxSTBGbEhyekxneHZ3QTFfMXVJZFBRZWlLYlNmamROS1ktTUZVOVJHZElkUkVWYWtpUFRxbDcwenFBQkFMdGc2aFBLb3JOejRGMGc?oc=5",
-      "summary": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Sat, 08 Aug 2026 09:02:25 GMT",
-      "pub_sort_dt": "2026-08-08 17:02:25"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "Volvo Car Sales Slip 4% on China Weakness - wsj.com",
-      "title_cn": "中国市场疲软导致沃尔沃汽车销量下滑 4% - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRE9xcUxsQUt1NzhGNHNGQW5LT282bXJscE5NTi1FSk1fSG5IbHQ2cl92VEFDYTc5bTZ0bTAzckNqWktnLXJid3d1SGVkeXdWQXVyMzJ5TUlGVTZuMUktLVNRbE9wUS1Fd3N0OWlwUzQ1b2hxVWV4aXdkZW1NMTk1eU4zdlZBandfSWhDOV8zVE0?oc=5",
-      "summary": "Volvo Car Sales Slip 4% on China Weakness&nbsp;&nbsp;wsj.com",
-      "pub_raw": "Sat, 08 Aug 2026 08:33:43 GMT",
-      "pub_sort_dt": "2026-08-08 16:33:43"
     }
   ]
 }
