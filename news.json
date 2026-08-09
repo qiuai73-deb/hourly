@@ -1,9 +1,9 @@
 {
-  "update_cst": "2026-08-09 12:01:34 北京时间",
-  "total_count": 51,
+  "update_cst": "2026-08-09 14:01:41 北京时间",
+  "total_count": 50,
   "source_stat": {
     "Reuters": 5,
-    "Bloomberg": 4,
+    "Bloomberg": 5,
     "AP": 5,
     "Nikkei Asia": 2,
     "Financial Times": 5,
@@ -14,17 +14,62 @@
     "AFP": 2,
     "The Economist": 1,
     "BBC": 5,
-    "DW": 5
+    "DW": 3
   },
   "news": [
     {
+      "source": "Nikkei Asia",
+      "title_en": "China July factory-gate inflation eases to 3-month low, CPI slows - Nikkei Asia",
+      "title_cn": "中国7月出厂通胀降至三个月低点，CPI放缓 - 日经亚洲",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNzlJQ01JeVJHV1dHUGxFQk96Z2E5TmpaQ3lBYVdGeV8tSUFESUV3ZkNjNmptMXpCSzBnUTV2NnBUMEZsR0piVmRvVi1BMlVnSlE4cEVrREpyYUpwbW5zMnBsQWxuZWloeER5d0FVYUxybEZPMGJMMHhlWWFwTTJ6bUdsYjVZdm16T1dMSkdlZkl2RDE5cS1sd0IzbFM?oc=5",
+      "summary": "China July factory-gate inflation eases to 3-month low, CPI slows&nbsp;&nbsp;Nikkei Asia",
+      "pub_raw": "Sun, 09 Aug 2026 05:47:00 GMT",
+      "pub_sort_dt": "2026-08-09 13:47:00"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "Lessons from Chinese AI - economist.com",
+      "title_cn": "中国人工智能的教训 - 经济学人网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RU42T0FJazFlaFNVMmc0djFkYUsyZU5XSXpfb0w5S3NSSGhsRkM5T0s4TTRvNkZRVEx5b0FJRlhiYUFWZjhCOFFoS0FfWGJuR0hlYWxPME1wSWZBeWVV?oc=5",
+      "summary": "Lessons from Chinese AI&nbsp;&nbsp;economist.com",
+      "pub_raw": "Sun, 09 Aug 2026 05:33:37 GMT",
+      "pub_sort_dt": "2026-08-09 13:33:37"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Typhoon Dolphin set to hit China's east coast, triggering flood warnings - Reuters",
+      "title_cn": "台风“海豚”将袭击中国东海岸，引发洪水警报 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXZOaG5zYjRBVnRvRWkzcnlTVldKWFA4MHZHSEp3VF9NSnhWVW5fX1FNTlhmdUhYOEZfWWV1S2cyUXQtSWxCbGktRnhheHo3M3A0VHpYUGx5NHhFdXkwSUhLR25jajJoNlhkZF83UFkxSlN4eVFyd05tdjNpMUNIUVNBN0x3cjFJUWpfQ3AtbkRqbE9FTWk3MHZhWDMtRG5TekI4Nm8xcjJmZDdDVmdOYXBreU5WR1RwXzBnTnZYYTNLQQ?oc=5",
+      "summary": "Typhoon Dolphin set to hit China's east coast, triggering flood warnings&nbsp;&nbsp;Reuters",
+      "pub_raw": "Sun, 09 Aug 2026 04:57:00 GMT",
+      "pub_sort_dt": "2026-08-09 12:57:00"
+    },
+    {
+      "source": "New York Times",
+      "title_en": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan - The New York Times",
+      "title_cn": "无人机“地狱景观”如何阻止中国入侵台湾 - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPazZWbERPVkQ3VzBVNTE1a1YyQkJaLTlmZElEWV9aMHZpQkhmMGd6cUk5cm1GYzF1cGNOSHRmR3N2bTYwb1VDN1lOSVJ0dG1tX0ZYSUJld0wxR0hoUEZqeVgwRzMxNFVrZUxKOG95SGRsQ2lIcEpsb1M4SHV2cXdHNmk0SmM?oc=5",
+      "summary": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Sun, 09 Aug 2026 04:01:14 GMT",
+      "pub_sort_dt": "2026-08-09 12:01:14"
+    },
+    {
       "source": "AP",
-      "title_en": "Shanghai cancels 1,300 flights as China prepares for Typhoon Dolphin - apnews.com",
-      "title_cn": "上海取消1300架次航班 中国备战台风“海豚”",
+      "title_en": "Shanghai cancels 1,300 flights as China prepares for Typhoon Dolphin - AP News",
+      "title_cn": "中国为台风海豚做准备，上海取消1,300个航班 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGtvcElBNThyOFktNjcySXRiVGJNaXBiMnZCNnFmQi1QaTc5MVRLck95ZjMtdGtvT0hUdms2dGV1WXJOekpxYm1sZkd1cmR4dzlkMDNJUGRWZzlMT0F1UENhRG5zQXZNc0NuUDlVMWFFTUpacnZNREItSTVaLUhBeQ?oc=5",
-      "summary": "Shanghai cancels 1,300 flights as China prepares for Typhoon Dolphin&nbsp;&nbsp;apnews.com",
+      "summary": "Shanghai cancels 1,300 flights as China prepares for Typhoon Dolphin&nbsp;&nbsp;AP News",
       "pub_raw": "Sun, 09 Aug 2026 03:49:00 GMT",
       "pub_sort_dt": "2026-08-09 11:49:00"
+    },
+    {
+      "source": "AP",
+      "title_en": "China - AP News",
+      "title_cn": "中国 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE14cmpvQUJHVjlsSjVVdzJUM0J1eXhnTU1ZLVRkS1IzOGRsOGRwaG5ER2ZITExjOTJ2MjI3Qk94V3J5QQ?oc=5",
+      "summary": "China&nbsp;&nbsp;AP News",
+      "pub_raw": "Sun, 09 Aug 2026 03:47:16 GMT",
+      "pub_sort_dt": "2026-08-09 11:47:16"
     },
     {
       "source": "Bloomberg",
@@ -45,20 +90,20 @@
       "pub_sort_dt": "2026-08-09 11:06:48"
     },
     {
-      "source": "The Economist",
-      "title_en": "Lessons from Chinese AI - The Economist",
-      "title_cn": "中国人工智能的教训 - 经济学人",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RU42T0FJazFlaFNVMmc0djFkYUsyZU5XSXpfb0w5S3NSSGhsRkM5T0s4TTRvNkZRVEx5b0FJRlhiYUFWZjhCOFFoS0FfWGJuR0hlYWxPME1wSWZBeWVV?oc=5",
-      "summary": "Lessons from Chinese AI&nbsp;&nbsp;The Economist",
-      "pub_raw": "Sun, 09 Aug 2026 02:33:37 GMT",
-      "pub_sort_dt": "2026-08-09 10:33:37"
+      "source": "Wall Street Journal",
+      "title_en": "China Inflation Cools More Than Expected in July - WSJ",
+      "title_cn": "7月份中国通胀降幅超出预期 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPenV3amZEN3Z6bnJubHE2R0g0RW5hLUlnOHZEVjRRUkNLYjNlclN6M2RjM0VYZDhvV0d4SnpURGZkUkdxNDRESmtXQkQ1NGZ2dHJodVBfWmhaQ3VubmExVGRQbW5LMmxNc1VibUhVSlJxcDZaeDRZbFNCTG1FblU4MkpuY1R5QTlzVmRDakR5ZDZXRC1YaHpWOQ?oc=5",
+      "summary": "China Inflation Cools More Than Expected in July&nbsp;&nbsp;WSJ",
+      "pub_raw": "Sun, 09 Aug 2026 02:40:00 GMT",
+      "pub_sort_dt": "2026-08-09 10:40:00"
     },
     {
       "source": "AP",
-      "title_en": "A Tibetan cooperative keeps a centuries-old weaving tradition alive - apnews.com",
-      "title_cn": "西藏合作社保留了数百年历史的编织传统 - 亚太新闻网",
+      "title_en": "A Tibetan cooperative keeps a centuries-old weaving tradition alive - AP News",
+      "title_cn": "西藏合作社保留了数百年的编织传统 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0NRY3JadVZiTlNXWWVSWHRnRk5GUmYzMW1HVlhsWTJBdE9PUUZtX1ZFX0xILWRLVDllaXI3RHJKTjNWODNTMUZtUFgwRkttRHJSNmhFQUZUUGtWcTJ4Rm1KdnJZNWNiaWZlT3BBTDhUd0VRUHNYdDBkMkh5d1RKanlFdk5XZjN1UE5QSE1BLWFhaVhvNHhwczN4MXRkaFU?oc=5",
-      "summary": "A Tibetan cooperative keeps a centuries-old weaving tradition alive&nbsp;&nbsp;apnews.com",
+      "summary": "A Tibetan cooperative keeps a centuries-old weaving tradition alive&nbsp;&nbsp;AP News",
       "pub_raw": "Sun, 09 Aug 2026 02:23:00 GMT",
       "pub_sort_dt": "2026-08-09 10:23:00"
     },
@@ -73,21 +118,12 @@
     },
     {
       "source": "Reuters",
-      "title_en": "China's producer inflation eases in July, below expectations - Reuters",
-      "title_cn": "中国7月生产者通胀放缓，低于预期 - 路透中文网",
+      "title_en": "China July factory-gate inflation eases to 3-month low, CPI slows - Reuters",
+      "title_cn": "中国7月出厂通胀降至三个月低点，CPI放缓 - 路透中文网",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVNBcVdFSHViUm10d0NJVTdNYVJOdDgwZ3FvTy1JbFVwTVVlWmN1a1B3UjRaTWdYOG5VRm0yZWZXUWVKMEtLVzk4azgwcHVuX1Y3LWFrMGhnam0zRFU1dnRFQlBaSmpEOUVzM0sxUVYybml4QkIwNlVIck1LNE5wQTBEcWUtaFhZMGdCTFpnS0R5QTNDLWJheUNGT3VINWtSRzBFek13?oc=5",
-      "summary": "China's producer inflation eases in July, below expectations&nbsp;&nbsp;Reuters",
+      "summary": "China July factory-gate inflation eases to 3-month low, CPI slows&nbsp;&nbsp;Reuters",
       "pub_raw": "Sun, 09 Aug 2026 01:43:00 GMT",
       "pub_sort_dt": "2026-08-09 09:43:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports - Reuters",
-      "title_cn": "韩联社报道称，SK海力士前员工因向一家中国公司泄露信息而被判入狱 - 路透",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYjhhM0k2TW1GaTh6RmNnUlFzY2ZER1FHWDhNMUJpSm1kNWNNU1dURjhCRXFydDBrNzdMeGdnaHE1T1R0RmJWNEp4QTN4SmlJdUxCQWxzOXdkbTQtdzlkWkpVWmxKcGl0MGdwWnY5aHlvMER2UU1scW5lVGhFbDNGUUlrSU5oVDVWcGo1bEhxaXB3NjNSRklLVmk4d0Z0ejFZRDRkQVpDZ2dvRkpuaUM4dnoxbDdpNkZiaDRsbFV2bXZXcVg0ZkUwRkFCVnc?oc=5",
-      "summary": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports&nbsp;&nbsp;Reuters",
-      "pub_raw": "Sun, 09 Aug 2026 01:24:13 GMT",
-      "pub_sort_dt": "2026-08-09 09:24:13"
     },
     {
       "source": "Financial Times",
@@ -95,8 +131,17 @@
       "title_cn": "中国人工智能上市热潮背后的银行 - 英国《金融时报》",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHpCRnNycWRNTm8zWU1hdEZhUUxtY2RRcURONjZzQkxaVUU0czNacW1WSVB2amY3UmF4RUhBREdkV1lSbTNadjBlVWEtamVLNEdQQmdqQVJaYS0xcVNjU1hic2tCQVZodS1hb1RtWTJtSVhXRFdwWDgteEFYX0ttYlZQd0k?oc=5",
       "summary": "The bank behind China’s AI listings bonanza&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Sun, 09 Aug 2026 01:22:52 GMT",
-      "pub_sort_dt": "2026-08-09 09:22:52"
+      "pub_raw": "Sun, 09 Aug 2026 01:24:15 GMT",
+      "pub_sort_dt": "2026-08-09 09:24:15"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports - Reuters",
+      "title_cn": "韩联社报道称，SK海力士前员工因向一家中国公司泄露信息而被判入狱 - 路透",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYjhhM0k2TW1GaTh6RmNnUlFzY2ZER1FHWDhNMUJpSm1kNWNNU1dURjhCRXFydDBrNzdMeGdnaHE1T1R0RmJWNEp4QTN4SmlJdUxCQWxzOXdkbTQtdzlkWkpVWmxKcGl0MGdwWnY5aHlvMER2UU1scW5lVGhFbDNGUUlrSU5oVDVWcGo1bEhxaXB3NjNSRklLVmk4d0Z0ejFZRDRkQVpDZ2dvRkpuaUM4dnoxbDdpNkZiaDRsbFV2bXZXcVg0ZkUwRkFCVnc?oc=5",
+      "summary": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports&nbsp;&nbsp;Reuters",
+      "pub_raw": "Sun, 09 Aug 2026 01:23:00 GMT",
+      "pub_sort_dt": "2026-08-09 09:23:00"
     },
     {
       "source": "Nikkei Asia",
@@ -108,15 +153,6 @@
       "pub_sort_dt": "2026-08-09 07:30:00"
     },
     {
-      "source": "New York Times",
-      "title_en": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note. - The New York Times",
-      "title_cn": "美国正在伊朗烧毁武器。俄罗斯和中国正在注意到这一点。 - 纽约时报",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDRyVjBzeURLWk9yNUJXWUdCTHp1LS1KZGxUWGxKWm14TThoTVduQ1o3NnAteFg2SExBY2V1ZUdXbzRCMUw2THdscGJ4dWdWOFdBVU5KLUF2eFQ0TlhWLUpENVYxbjJOaTVLZGtJMjBBZjVvVTNSZ3JoZDl2cTJacTkzZVdWX2RJaWtLVkN4a1JDSGEza1Nn?oc=5",
-      "summary": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Sat, 08 Aug 2026 19:56:38 GMT",
-      "pub_sort_dt": "2026-08-09 03:56:38"
-    },
-    {
       "source": "Bloomberg",
       "title_en": "US Says China’s Scarborough Shoal Claim ‘Destabilizing’ Region - Bloomberg.com",
       "title_cn": "美国称中国黄岩岛主权主张“破坏地区稳定” - Bloomberg.com",
@@ -124,6 +160,15 @@
       "summary": "US Says China’s Scarborough Shoal Claim ‘Destabilizing’ Region&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Sat, 08 Aug 2026 19:39:28 GMT",
       "pub_sort_dt": "2026-08-09 03:39:28"
+    },
+    {
+      "source": "BBC",
+      "title_en": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope - BBC",
+      "title_cn": "澳大利亚是地球上的灭绝热点，但一种动物带来了一线希望 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xdFlPZmtLRU9UT0tfaXM5TE5sNXphUjZYaGhweHpKLWNBLWtwLUlON1dIN3Jvb3k3RDAzRmhOSWZwQS1vcFBBaHhZaExBYVVrMXVlNWw0LUJPUQ?oc=5",
+      "summary": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope&nbsp;&nbsp;BBC",
+      "pub_raw": "Sat, 08 Aug 2026 19:00:22 GMT",
+      "pub_sort_dt": "2026-08-09 03:00:22"
     },
     {
       "source": "New York Times",
@@ -142,6 +187,15 @@
       "summary": "How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered&nbsp;&nbsp;The New York Times",
       "pub_raw": "Sat, 08 Aug 2026 17:06:54 GMT",
       "pub_sort_dt": "2026-08-09 01:06:54"
+    },
+    {
+      "source": "New York Times",
+      "title_en": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note. - The New York Times",
+      "title_cn": "美国正在伊朗烧毁武器。俄罗斯和中国正在注意到这一点。 - 纽约时报",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDRyVjBzeURLWk9yNUJXWUdCTHp1LS1KZGxUWGxKWm14TThoTVduQ1o3NnAteFg2SExBY2V1ZUdXbzRCMUw2THdscGJ4dWdWOFdBVU5KLUF2eFQ0TlhWLUpENVYxbjJOaTVLZGtJMjBBZjVvVTNSZ3JoZDl2cTJacTkzZVdWX2RJaWtLVkN4a1JDSGEza1Nn?oc=5",
+      "summary": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Sat, 08 Aug 2026 16:59:56 GMT",
+      "pub_sort_dt": "2026-08-09 00:59:56"
     },
     {
       "source": "Reuters",
@@ -167,15 +221,15 @@
       "title_cn": "中国的新出口引擎：为世界工厂供货 - 华尔街日报",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDk4SXZjX093V0xWbGlhMnFQUTJ6dG80QU4xemFPWUpWOGNDSFlfQ19lQ3dDSmZNMVJPZUw0QllYZ2ZjVDBmZE1neEJQcDdBcThBbm91WTJKWTJxMkVCTzBCSlV3MmQ1aG1HRXJjSkZZU1RxTk1RcUp4VzVyQWVyVVZ5YnVYZGdPYW5HTmdMenFsaXBoS3hPaFh6YVF2cTlPbVlDejJrZw?oc=5",
       "summary": "China’s New Export Engine: Supplying the Factories of the World&nbsp;&nbsp;WSJ",
-      "pub_raw": "Sat, 08 Aug 2026 16:41:16 GMT",
-      "pub_sort_dt": "2026-08-09 00:41:16"
+      "pub_raw": "Sat, 08 Aug 2026 16:31:29 GMT",
+      "pub_sort_dt": "2026-08-09 00:31:29"
     },
     {
       "source": "Wall Street Journal",
-      "title_en": "One Casualty of Taiwan’s War Drills: A Slower Internet - WSJ",
-      "title_cn": "台湾战争演习的受害者之一：互联网速度变慢 - 华尔街日报",
+      "title_en": "Taiwan Slowing Its Internet for a War Drill. Locals Aren’t Worried. - WSJ",
+      "title_cn": "台湾因战争演习而减慢互联网速度。当地人并不担心。 - 华尔街日报",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MOVdSTzg2cVF1NlJadS1oMm5WRG5nVkQyS3p6RW11Vy1SeWcxdlVleVVGT0JrTXlBeXp0ZUFDMWpKNWxRWVZGODlmSC1fYndoa2U3VTBrQkxTWXR5bWZJcnl4cGRjNXNhWWZZOUpURVE0TTVSekRESG9wRTE?oc=5",
-      "summary": "One Casualty of Taiwan’s War Drills: A Slower Internet&nbsp;&nbsp;WSJ",
+      "summary": "Taiwan Slowing Its Internet for a War Drill. Locals Aren’t Worried.&nbsp;&nbsp;WSJ",
       "pub_raw": "Sat, 08 Aug 2026 16:00:00 GMT",
       "pub_sort_dt": "2026-08-09 00:00:00"
     },
@@ -187,6 +241,15 @@
       "summary": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China&nbsp;&nbsp;BBC",
       "pub_raw": "Sat, 08 Aug 2026 15:15:17 GMT",
       "pub_sort_dt": "2026-08-08 23:15:17"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Watch China’s AI Push Reshapes Its Economic Future - Bloomberg.com",
+      "title_cn": "观看中国的人工智能推动重塑其经济未来 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZUVPR013ci1Hdjhid2NnT0s0dzYxSy14c2FWMEFvMWg5LUp5S3M5bmJDcGd5TDByWTI0andpTmRENlhlV1pSRzRjaUFPV0RyRmtpUk45VG9jZERXX2FKaDk5M1ROZm9PT1R4S2x4T1JZU1JMMEJUcTZEX19Ka3ozaF80bEVid1ZBQjNxR1lDLUY1bC1nUHhSU0FjWW1sNFJK?oc=5",
+      "summary": "Watch China’s AI Push Reshapes Its Economic Future&nbsp;&nbsp;Bloomberg.com",
+      "pub_raw": "Sat, 08 Aug 2026 14:36:11 GMT",
+      "pub_sort_dt": "2026-08-08 22:36:11"
     },
     {
       "source": "CNN",
@@ -252,6 +315,24 @@
       "pub_sort_dt": "2026-08-08 19:40:03"
     },
     {
+      "source": "AFP",
+      "title_en": "Central & Western District Youth-to-Career Expo Connects Hong Kong Youth to Future Careers in AI Era - www-pp.afp.com",
+      "title_cn": "中西区青年就业博览会连接香港青年人工智能时代未来职业 - www-pp.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBb3B0d2FYQU9YQklFYmtWRW8waThOZ3VnTFB3cW9VM0loVk54ZFBQbzJRdlRxYmt2NVJkd1ZNOEZiUDZIeHVVOHFrcjRndTA?oc=5",
+      "summary": "Central & Western District Youth-to-Career Expo Connects Hong Kong Youth to Future Careers in AI Era&nbsp;&nbsp;www-pp.afp.com",
+      "pub_raw": "Sat, 08 Aug 2026 10:49:28 GMT",
+      "pub_sort_dt": "2026-08-08 18:49:28"
+    },
+    {
+      "source": "CNN",
+      "title_en": "50 People to Know in Today's China - CNN",
+      "title_cn": "当今中国值得认识的 50 个人 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObEIxN0VMS1VNczZOdlVBMTdvNDRwSHJ2OVNSLTY3Y1lYQnBqRGx6TGhBMzRLSUpueG5BV0RqWkFMUDdCeDhrVDRSWDBLb1dVUy0wX3d4SHNlUTVsdXRiVjBocVU0WXhRWnhvbWg0S3pyTVBNcmZvcndHY0dmNGY4Q3MxU0otZi1mcDVVQXZWakw3WDQ?oc=5",
+      "summary": "50 People to Know in Today's China&nbsp;&nbsp;CNN",
+      "pub_raw": "Sat, 08 Aug 2026 10:36:20 GMT",
+      "pub_sort_dt": "2026-08-08 18:36:20"
+    },
+    {
       "source": "CNN",
       "title_en": "The surprising reason airlines invest so much in airplane interiors - CNN",
       "title_cn": "航空公司在飞机内饰上投入如此之多的令人惊讶的原因 - CNN",
@@ -290,7 +371,7 @@
     {
       "source": "AFP",
       "title_en": "Tibet conference in Nepal pushed online - www-pp.afp.com",
-      "title_cn": "尼泊尔西藏会议上线 - www-pp.afp.com",
+      "title_cn": "尼泊尔西藏会议线上举行 - www-pp.afp.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VZGoyVHRwNklQRWtCUEo5MVc2VHpWZXhCQXpOVnJER2ktT0pBOEdzVjJFMURXV2EwMUxFQ0t4VXFzSmc5RV9JTzYwYkhqdEk?oc=5",
       "summary": "Tibet conference in Nepal pushed online&nbsp;&nbsp;www-pp.afp.com",
       "pub_raw": "Sat, 08 Aug 2026 09:08:31 GMT",
@@ -306,15 +387,6 @@
       "pub_sort_dt": "2026-08-08 16:33:43"
     },
     {
-      "source": "DW",
-      "title_en": "Humanoid robots: Trump's latest China trade battle? - dw.com",
-      "title_cn": "人形机器人：特朗普最新的中国贸易战？ - 德国之声网站",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVhSLVlXeXpHNVpwTHFFQTFSZkU0bmxkaFRobXUwdWw0WEVjSHVEQzlVeU1wZk8yVFBoQUFBRWdRRDNIOFhYbVlXcDhPQzAyT2NzQjVOTW1fNVBKRURadWJNd0lXaEgzQnFNdEtQVXRDTjJ3RnZmc3Rua0J3Q282cENEUS1sN2VXd1EwaVRXZEdDWGN0RHIzNjZLUVpUbEtvVFA3NFBqLUN5eW_SAasBQVVfeXFMUFZMTEdhYXRRMEZxWlhTejMxcDlmMTZnaS1UQlFQWXpfRTNGTnJpVmVkc1lXOEhySHFuZGlYaUdFY0NhU2xENkt5Q2Y4SmZHSi0zdEhfR09JNlhsV0ljbXdnWDFUU0JHblV4V1BWZW9Kc3V5RmFjcFVUNzlBYnVrSmJmOHAzSTRTeU0yN1dYSmhJQmo2cnBkN09TdGxsVXQ0VnVHbEVZNlhzUndF?oc=5",
-      "summary": "Humanoid robots: Trump's latest China trade battle?&nbsp;&nbsp;dw.com",
-      "pub_raw": "Sat, 08 Aug 2026 07:43:01 GMT",
-      "pub_sort_dt": "2026-08-08 15:43:01"
-    },
-    {
       "source": "Bloomberg",
       "title_en": "China Halts Airport, Cancels Flights, Trains on Typhoon Dolphin - Bloomberg.com",
       "title_cn": "中国因台风海豚而关闭机场、取消航班和火车 - Bloomberg.com",
@@ -325,10 +397,10 @@
     },
     {
       "source": "DW",
-      "title_en": "Typhoon Dolphin hits Japan as China braces for coming storm - dw.com",
-      "title_cn": "台风海豚袭击日本，中国准备迎接即将到来的风暴 - dw.com",
+      "title_en": "Typhoon Dolphin hits Japan as China braces for coming storm - DW.com",
+      "title_cn": "台风海豚袭击日本，中国为即将到来的风暴做准备 - DW.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEZZWXdJSGJlZkVoY1R4TUdrS2NPX0NUUjhQYTNUUXR6RlN1X2Z1NGFZeHZuazl4ZUc2djV2VDlITUh4XzhKN0NsOXFqUVdWZGc5aG9nNmViOUxkVlNzSFFuWkw5ck1sTHE3NUhrUmltZ04zbC1HSldsbXNuN3BneDRBOEcyb1NiYUVxTDA4ZlU1UE5oNko40gGXAUFVX3lxTE9ZRlRWcjdXdm5nRmlRd2ZQTEhIeU1YWWVvc3VlNFlXNmN2ZDRmajZsU1VVdVA4QUo3YWRJYlVCZUJ5dTFTc0tEOUdjcGtXSllxZE5nQkp4Z1FGT1A2bTk2bzJCOVJvOWN6M1JrYVVPTnVXblNoenY4aUpzU3RVVXRYcXVYM1pTWU8tSmRuV2RMNlVlQ1R3eHc?oc=5",
-      "summary": "Typhoon Dolphin hits Japan as China braces for coming storm&nbsp;&nbsp;dw.com",
+      "summary": "Typhoon Dolphin hits Japan as China braces for coming storm&nbsp;&nbsp;DW.com",
       "pub_raw": "Sat, 08 Aug 2026 07:15:09 GMT",
       "pub_sort_dt": "2026-08-08 15:15:09"
     },
@@ -352,19 +424,19 @@
     },
     {
       "source": "DW",
-      "title_en": "Typhoon Dolphin hits Japan as China braces for coming storm - DW.com - dw.com",
-      "title_cn": "台风“海豚”袭击日本，中国准备迎接即将到来的风暴 - DW.com - dw.com",
+      "title_en": "Typhoon Dolphin hits Japan as China braces for coming storm - DW.com - DW.com",
+      "title_cn": "台风海豚袭击日本，中国为即将到来的风暴做准备 - DW.com - DW.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0N3VmZYdmhNZ3F4dldTcXNRM24xX3ZIWXdvWXp3Yk44UDRZcVVjVFlnb19IbUVLMy1NSFNjcmwyZG5QUnBNZVctSnk2b1pVN28xdUxIbVJyVUhYRXllWm9yUW52RnByZFRBUHRaQnA0UHFTVW5NdjRFM1JHMzJfYnBSTGIzaUdjcEY4eXU2WkRKMnpxTDhhNkJja2p6emkzeVFWWGlQeTlhTW9zaDRqVHRzN3lObldWQUsxWQ?oc=5",
-      "summary": "Typhoon Dolphin hits Japan as China braces for coming storm - DW.com&nbsp;&nbsp;dw.com",
+      "summary": "Typhoon Dolphin hits Japan as China braces for coming storm - DW.com&nbsp;&nbsp;DW.com",
       "pub_raw": "Sat, 08 Aug 2026 06:29:06 GMT",
       "pub_sort_dt": "2026-08-08 14:29:06"
     },
     {
       "source": "DW",
-      "title_en": "In India's Hindu temples, robots replace live elephants - dw.com",
-      "title_cn": "在印度的印度教寺庙里，机器人取代了活大象 - dw.com",
+      "title_en": "In India's Hindu temples, robots replace live elephants - DW.com",
+      "title_cn": "印度印度教寺庙中，机器人取代了活大象 - DW.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMC1GSzBqaTREVHVBTzJoekZxN0dSeHZjcDMzZE1lTWFZbWtPYnJFOThJSTNPZGFfanFJT3E3ejB4eWR1MkV0Rkx4eE9pYXQ1R1YxT1pfNFl1SGduc0V0RjBscmM0WTk4cFdaVzRGU0I2WUhTczBMMHktbnZpc0Z4QkZrZWFPR2JwNTQ2NTdpUQ?oc=5",
-      "summary": "In India's Hindu temples, robots replace live elephants&nbsp;&nbsp;dw.com",
+      "summary": "In India's Hindu temples, robots replace live elephants&nbsp;&nbsp;DW.com",
       "pub_raw": "Sat, 08 Aug 2026 06:27:28 GMT",
       "pub_sort_dt": "2026-08-08 14:27:28"
     },
@@ -379,102 +451,21 @@
     },
     {
       "source": "AP",
-      "title_en": "Africa wants more homegrown solar to boost self-reliance, but China’s shadow remains - apnews.com",
-      "title_cn": "非洲希望更多本土太阳能以促进自力更生，但中国的阴影依然存在-apnews.com",
+      "title_en": "Africa wants more homegrown solar to boost self-reliance, but China’s shadow remains - AP News",
+      "title_cn": "非洲希望更多本土太阳能以促进自力更生，但中国的阴影依然存在 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVdBRnFEY2FCa0VoYVFldWlZV0tCMDM3VWsyWEJZT3lOTlBFRmZrR0ozQXA0Ry05ZzZDUkxGYk40RkpSSW1ILWdjdlBHelpjNTUweXpYV2VSSk9FMUFsNnU0b2tZb0xLR0U2QXN1QTJYNlR5c1FEV0d2ejlKa0FDQ2hmN0dLUFF2ekJEUHo2US1EQlVyQ3JYdlNB?oc=5",
-      "summary": "Africa wants more homegrown solar to boost self-reliance, but China’s shadow remains&nbsp;&nbsp;apnews.com",
+      "summary": "Africa wants more homegrown solar to boost self-reliance, but China’s shadow remains&nbsp;&nbsp;AP News",
       "pub_raw": "Sat, 08 Aug 2026 06:12:00 GMT",
       "pub_sort_dt": "2026-08-08 14:12:00"
     },
     {
       "source": "AP",
-      "title_en": "The mighty Dodgers are reeling following a 7th straight loss in heartbreaking fashion - apnews.com",
-      "title_cn": "强大的道奇队在令人心碎的七连败后陷入困境 - apnews.com",
+      "title_en": "The mighty Dodgers are reeling following a 7th straight loss in heartbreaking fashion - AP News",
+      "title_cn": "强大的道奇队在令人心碎的七连败后陷入困境 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUU1FME0tUHZ2ZDkzaDV5UVVFY1dPOER4cU9VQ05vNUMyRnptZjBEYUNIZmNERV9Ja1h3eEd3bmJKTXZONFlFX2lYRGZnS0tpRG50aU1YWnhmeEZ3el9OcWEwM2R4REt6d2J5UWllQWVXU3VyV0FEZEdPVUZGRTRka1JFSDBka2JRVmc5b1dRMmk1aWpVdGpoM3Zn?oc=5",
-      "summary": "The mighty Dodgers are reeling following a 7th straight loss in heartbreaking fashion&nbsp;&nbsp;apnews.com",
+      "summary": "The mighty Dodgers are reeling following a 7th straight loss in heartbreaking fashion&nbsp;&nbsp;AP News",
       "pub_raw": "Sat, 08 Aug 2026 06:05:00 GMT",
       "pub_sort_dt": "2026-08-08 14:05:00"
-    },
-    {
-      "source": "DW",
-      "title_en": "China – All Content on this topic – Page 1 of 57 - dw.com",
-      "title_cn": "中国 – 有关该主题的所有内容 – 第 1 页，共 57 页 - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1icGp5QmZaSTNtMlUya3JPN0xlZGs2aGRYOWxMQTg0VFBFQXk5YWhWTmtyMlB2Rm4wSmV0OC1nY1RYUHdBejN0VUJEYjFfRkJtbUhTS1RocUw?oc=5",
-      "summary": "China – All Content on this topic – Page 1 of 57&nbsp;&nbsp;dw.com",
-      "pub_raw": "Sat, 08 Aug 2026 05:45:31 GMT",
-      "pub_sort_dt": "2026-08-08 13:45:31"
-    },
-    {
-      "source": "AP",
-      "title_en": "Eastern China braces for Typhoon Dolphin, shutting schools and tourist activities - apnews.com",
-      "title_cn": "中国东部地区为应对台风海豚而关闭学校和旅游活动 - 亚太新闻网",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTm0za0swNG1VbTNRVnl3M0wxMkJTUnA1RXh1aXhIZDhkZmltX0dObFFlUnRhQUVvRXVZVkNJOEQ5aThzaVhlalNoazVna2F2OVNlbUJyZG1FazhMWTJXeHJ0djcwdFkxUDhuNjZfMzZpaGJTcEJCNndMaEd0ai00aTh3T3hDRml5Yi1pRlZrNkoxUHg3?oc=5",
-      "summary": "Eastern China braces for Typhoon Dolphin, shutting schools and tourist activities&nbsp;&nbsp;apnews.com",
-      "pub_raw": "Sat, 08 Aug 2026 05:45:00 GMT",
-      "pub_sort_dt": "2026-08-08 13:45:00"
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Hong Kong-based rice ball chain prepares supplies for US push - Nikkei Asia",
-      "title_cn": "香港饭团连锁店为美国促销准备供应 - 日经亚洲",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2FaSUhCR3d3Z2o2d0pqQUFFU2ZwYUxNWTh5TGZmVFdZRlBDdTRLOGpaMDZRdnNSc2lhSjBFUFBacUhPcjhpQWdjc1FYVTl2X2xYNjNPNGozNGFYQjI4TlRnUDR6dzBWTDZwYnZzYnJac09uZHR5ek5EY1BwSnJha3JLNUNIV1hxb1pEbHFKS0s0WWk4aGdISE9vQ0Y0YzJOVUlXXzhULWo3Y2M0?oc=5",
-      "summary": "Hong Kong-based rice ball chain prepares supplies for US push&nbsp;&nbsp;Nikkei Asia",
-      "pub_raw": "Sat, 08 Aug 2026 05:03:00 GMT",
-      "pub_sort_dt": "2026-08-08 13:03:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall - Reuters",
-      "title_cn": "台风海豚袭击日本冲绳，中国在登陆前关闭港口 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0J4a1l5M0xKRnRfV3I3SVhteEVqM2NOTVdiWnNYMi1zMlZ2WmtydHpDZmZvenRoMWRVeVBmSmotNldBa3U1bGRtcUhqZHdaam1oUDRCYmVoUVlTZkRrbEhuXzJzUTYtVU9GcUFzdXdjNm54S1o2ZlJfTm90bnJWYnBqRVR2TUQ2bWRsWVVlUlRSbWVhWWpYemp1S0c0a3ZSenZzZmdWODVYd1VINDhtSjlOZHpZSDVJbzFUVEVMVFh6YWs?oc=5",
-      "summary": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall&nbsp;&nbsp;Reuters",
-      "pub_raw": "Sat, 08 Aug 2026 04:33:00 GMT",
-      "pub_sort_dt": "2026-08-08 12:33:00"
-    },
-    {
-      "source": "AFP",
-      "title_en": "Central & Western District Youth-to-Career Explo Connects Hong Kong Youth to Future Careers in AI Era - www-pp.afp.com",
-      "title_cn": "中西区青年就业博览会连接香港青年与AI时代未来职业 - www-pp.afp.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96NVFfcW9JbkVhUmY3R2EzLXdTVmFTNlNOWTlYQTU5andrR2VoOW1YRVo3RWkyRFltNDY2dHF1Mnd3V296aFhuVlJhU2p4dnM?oc=5",
-      "summary": "Central & Western District Youth-to-Career Explo Connects Hong Kong Youth to Future Careers in AI Era&nbsp;&nbsp;www-pp.afp.com",
-      "pub_raw": "Sat, 08 Aug 2026 04:32:18 GMT",
-      "pub_sort_dt": "2026-08-08 12:32:18"
-    },
-    {
-      "source": "BBC",
-      "title_en": "'Sex predator let out to kill' and 'net zero plans rolled back' - BBC",
-      "title_cn": "“性掠夺者放出杀戮”和“净零计划被撤销” - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lUExUcEhQRkw4QW9rZ05ibnQ0WmZWdXhTckhNUVVvS1JGQ096M0psRkp3cFJraHJTYzBwTERyQUdWNm9zNzNSd2kyVVB5Sk9NYWwxQ1dxWUI0Zw?oc=5",
-      "summary": "'Sex predator let out to kill' and 'net zero plans rolled back'&nbsp;&nbsp;BBC",
-      "pub_raw": "Sat, 08 Aug 2026 04:17:43 GMT",
-      "pub_sort_dt": "2026-08-08 12:17:43"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "Exclusive | San Francisco’s AI Boom Fuels Record-Breaking Home Sale Just Beyond the City - WSJ",
-      "title_cn": "独家|旧金山人工智能热潮推动房屋销售破纪录 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzg5aTM4NFhCYUNrZi0yajNjMENaX2wtSjMxZTJqaXVNbUp4TlpieWpoZjdXa2ROM0FGdE4xS0QzX2lFbjdXbFIySHJuR3ZYOFRxVmswcDMyMGxqM0l2X19saUxDQXJiTVRZZjIxNHJ3OHN2Y0hzdW53b1FmZWZ1OUt4dWxfTVJQcFF5dUIxMF9UUm5Yc1ZGWUMzc1VBeXc5a2luaFVn?oc=5",
-      "summary": "Exclusive | San Francisco’s AI Boom Fuels Record-Breaking Home Sale Just Beyond the City&nbsp;&nbsp;WSJ",
-      "pub_raw": "Sat, 08 Aug 2026 04:05:05 GMT",
-      "pub_sort_dt": "2026-08-08 12:05:05"
-    },
-    {
-      "source": "New York Times",
-      "title_en": "Quote of the Day: China’s A.I., Cheaper and Easier to Use, Is Winning Over Africa - The New York Times",
-      "title_cn": "每日名言：更便宜、更易于使用的中国人工智能正在赢得非洲 - 纽约时报中文网",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdFJpSm54X0RtQTZITlcxZ0hCUWswRHJpY3NSWGVoVWhxU1V3TGp4TTZJam5RUVltYmpacXBvUWlpNDNpS2xKT0gwMTNCTm1PWDJtam1WSzR6U01fRWlsN3JJaGVOZ05VODV5dEszODY3Qkc0NWpIZlR4Zml6YXlGNFpISjJQLW1IeXk2eWZ1OWx2QWx0R1dXbTREWUJocGpHRHlmcFNpR3V5OTNKektUUnNyMWVTczg0WFBxQ2M1Q0hOdFpMVUE?oc=5",
-      "summary": "Quote of the Day: China’s A.I., Cheaper and Easier to Use, Is Winning Over Africa&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Sat, 08 Aug 2026 04:01:42 GMT",
-      "pub_sort_dt": "2026-08-08 12:01:42"
-    },
-    {
-      "source": "CNN",
-      "title_en": "The US Navy’s plan for almost 20 guided-missile subs and why that will matter around China - CNN",
-      "title_cn": "美国海军计划建造近 20 艘导弹潜艇以及为什么这对中国至关重要 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR25Wb3R6YXZoUVp3NGh2R2NnX2xYRURIU2xRblBhOXdlOE9kdjZPNFdaMF9ha3A4THhhNzFUdGEyZUtWVm1EWVROWEY2T3NjUDZNOXhhZldvMmtqaHFzUGdSYWhobG02bnYzNUdYTk1ONDhPNTlkNU1mS0E4eUFmU2F3SUpHb013NjRTcjFTTTY4dw?oc=5",
-      "summary": "The US Navy’s plan for almost 20 guided-missile subs and why that will matter around China&nbsp;&nbsp;CNN",
-      "pub_raw": "Sat, 08 Aug 2026 04:01:29 GMT",
-      "pub_sort_dt": "2026-08-08 12:01:29"
     }
   ]
 }
