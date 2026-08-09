@@ -1,29 +1,57 @@
 {
-  "update_cst": "2026-08-09 08:01:41 北京时间",
-  "total_count": 49,
+  "update_cst": "2026-08-09 10:01:49 北京时间",
+  "total_count": 51,
   "source_stat": {
     "Reuters": 5,
-    "Bloomberg": 5,
+    "Bloomberg": 4,
     "AP": 5,
     "Nikkei Asia": 2,
     "Financial Times": 5,
     "Wall Street Journal": 5,
     "CNBC": 2,
-    "New York Times": 4,
+    "New York Times": 5,
     "CNN": 5,
+    "AFP": 2,
     "The Economist": 1,
     "BBC": 5,
     "DW": 5
   },
   "news": [
     {
+      "source": "AP",
+      "title_en": "Tibetan cooperative keeps a centuries-old weaving tradition alive - AP News",
+      "title_cn": "西藏合作社保留了数百年的编织传统 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm1Tb0RlZWhPaTBLMGlzb25KclU0TUtXNHgxUzBMYkNFeWpUalhtVlg0ZE5scjhWTDNmcGMya1h2eTEwekVMYlN2ZTR5LVY4R0pQWUhSVWllaDF4R1pwQldQWkpad1lUSHlSbzVwMVdMLXVCMUd1Y3FBV2tnbXRqckNiRUItTERtMkxzTU9OSVdSaGNfVWFYVFBMaE56eGlBWjZSNUVCRVhVbWdzZTljZ1dpWXBVal9FMzFmNWtqdFg?oc=5",
+      "summary": "Tibetan cooperative keeps a centuries-old weaving tradition alive&nbsp;&nbsp;AP News",
+      "pub_raw": "Sun, 09 Aug 2026 01:50:00 GMT",
+      "pub_sort_dt": "2026-08-09 09:50:00"
+    },
+    {
       "source": "The Economist",
-      "title_en": "Lessons from Chinese AI - The Economist",
-      "title_cn": "中国人工智能的教训 - 经济学人",
+      "title_en": "Lessons from Chinese AI - economist.com",
+      "title_cn": "中国人工智能的教训 - 经济学人网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RU42T0FJazFlaFNVMmc0djFkYUsyZU5XSXpfb0w5S3NSSGhsRkM5T0s4TTRvNkZRVEx5b0FJRlhiYUFWZjhCOFFoS0FfWGJuR0hlYWxPME1wSWZBeWVV?oc=5",
-      "summary": "Lessons from Chinese AI&nbsp;&nbsp;The Economist",
-      "pub_raw": "Sat, 08 Aug 2026 23:33:37 GMT",
-      "pub_sort_dt": "2026-08-09 07:33:37"
+      "summary": "Lessons from Chinese AI&nbsp;&nbsp;economist.com",
+      "pub_raw": "Sun, 09 Aug 2026 01:37:25 GMT",
+      "pub_sort_dt": "2026-08-09 09:37:25"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "The bank behind China’s AI listings bonanza - Financial Times",
+      "title_cn": "中国人工智能上市热潮背后的银行 - 英国《金融时报》",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHpCRnNycWRNTm8zWU1hdEZhUUxtY2RRcURONjZzQkxaVUU0czNacW1WSVB2amY3UmF4RUhBREdkV1lSbTNadjBlVWEtamVLNEdQQmdqQVJaYS0xcVNjU1hic2tCQVZodS1hb1RtWTJtSVhXRFdwWDgteEFYX0ttYlZQd0k?oc=5",
+      "summary": "The bank behind China’s AI listings bonanza&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Sun, 09 Aug 2026 01:24:15 GMT",
+      "pub_sort_dt": "2026-08-09 09:24:15"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "GM, China’s SAIC Extend Joint Venture Partnership for 20 Years - WSJ",
+      "title_cn": "通用汽车与中国上汽集团将合资伙伴关系延长20年 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFBEQXVwUzJIOXRnaU9NVEVfMDl4bGhpTWZuNUFpbTNSTkhsXzRySzZRM1N1cVMtQ1d4eXJRbng5VVg5bEFLZFVuYlhCSXpvQnpNdXQ3WmQySlExaXlvLTVDa21nWkhkNHlvWHZSUGtLX1YzbXNGSWpDMTVEZ182dDNsWDZheWdxbEZaMU1jck1tQlViNUs4RlpZaFE4eGpJT29vOUdBdw?oc=5",
+      "summary": "GM, China’s SAIC Extend Joint Venture Partnership for 20 Years&nbsp;&nbsp;WSJ",
+      "pub_raw": "Sun, 09 Aug 2026 00:34:54 GMT",
+      "pub_sort_dt": "2026-08-09 08:34:54"
     },
     {
       "source": "Nikkei Asia",
@@ -35,49 +63,13 @@
       "pub_sort_dt": "2026-08-09 07:30:00"
     },
     {
-      "source": "Wall Street Journal",
-      "title_en": "The Morning Risk Report: U.S. to Halt Key Metal Waste Exports in Push to Break China Reliance - wsj.com",
-      "title_cn": "早间风险报告：美国将停止主要金属废物出口以打破对中国的依赖 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNmxXbGU1RGZpYjBMTHl5TEZseWpKVjh3N1d3cDdaTFFlUGFPb0xpWEdYLWdKbWRMVnc5YmtqS1ZSV3htdXN1bkRGQ3F3MW1jUGEtMi1RZUpYRWUxdmFtcEEycHVNN3VmNVpiWWEyTGUzU2ZBR1l5Nkk5ZjNnaFhDM3RsQXYzclBfSlM5bDJhRTJxMnJmWHZDV25TdXBOMy1uRXNWYkFST3pfQ3ZSNVNvRGRRekd2XzlyYnc1RGctc2RubUNRQW5Lb1pEdng?oc=5",
-      "summary": "The Morning Risk Report: U.S. to Halt Key Metal Waste Exports in Push to Break China Reliance&nbsp;&nbsp;wsj.com",
-      "pub_raw": "Sat, 08 Aug 2026 23:20:34 GMT",
-      "pub_sort_dt": "2026-08-09 07:20:34"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "Xi Wants a Strong-Looking Yuan. China’s Economy Keeps Holding It Down. - wsj.com",
-      "title_cn": "习近平想要一个看起来强大的人民币。中国经济持续低迷。 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFg3MUc4eW9TWE5pVzJIeHo1V0xwNWlmQWx6N3Ryb3NkVU1jRGFfNm5LWHFfME5JeDFNZmRCTTExbS1XbllHWEJJY25zVnFBUmYyZWRhX3BDSFlnSEdmNnh5NkF3d0FLUG1PWlpzX2t4Tm1SWlJxa1JuaF9rRGQyd3BwcjMwYWNxMkg5dnBwU3lMNV8zQVJGTWdWb1U4UENnVXhQR0lrdnhIYmx3?oc=5",
-      "summary": "Xi Wants a Strong-Looking Yuan. China’s Economy Keeps Holding It Down.&nbsp;&nbsp;wsj.com",
-      "pub_raw": "Sat, 08 Aug 2026 22:57:21 GMT",
-      "pub_sort_dt": "2026-08-09 06:57:21"
-    },
-    {
       "source": "AP",
       "title_en": "Russia-Ukraine | Breaking News & Live Updates - AP News",
       "title_cn": "俄罗斯-乌克兰|突发新闻和实时更新 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
       "summary": "Russia-Ukraine | Breaking News & Live Updates&nbsp;&nbsp;AP News",
-      "pub_raw": "Sat, 08 Aug 2026 21:51:11 GMT",
-      "pub_sort_dt": "2026-08-09 05:51:11"
-    },
-    {
-      "source": "AP",
-      "title_en": "49ers coach Kyle Shanahan plans to coach the exhibition opener following car crash - AP News",
-      "title_cn": "49人队教练凯尔·沙纳汉计划在车祸后执教揭幕战 - 美联社新闻",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcWNvZVNpWXRGNFAxRGRxWmUyX3VxOEN1U29Xd1VMUVZwVW0yelhoWVdtVlZSbGMzbmo3V1ZCZzVEN0hsemNib0xCbnBHZlNjYmpadV8tc3QwejhKbXVLLXJZdGpnMGM5NjN2Q2ZLTmh6S3VaakF6NmN5SlA0czVqbENMQVh4ZzNjVnpfblh3TGxnQUk?oc=5",
-      "summary": "49ers coach Kyle Shanahan plans to coach the exhibition opener following car crash&nbsp;&nbsp;AP News",
-      "pub_raw": "Sat, 08 Aug 2026 20:45:00 GMT",
-      "pub_sort_dt": "2026-08-09 04:45:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "US Says China’s Scarborough Shoal Claim ‘Destabilizing’ Region - Bloomberg.com",
-      "title_cn": "美国称中国黄岩岛主权主张“破坏地区稳定” - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMzFZOEZ2dEpsbVA2RzdYb2Y0eTV3YkVJclJCWEZFU01mcnpVY2kwNWN3ZHVUeFo0c0VmZFY5b3pTTlhmWXEzdFYxYmdWc3VYVUVoUmh4MUw4NXA0Zl9kcHNZTFU4MGFEV1A5Vm5HWjhCV1pvQkF2Z0dtekdidzdVVUdyVHF2V09LeC1NWFg3RVl4T0xKNmFGR1dkMzcyZG82X0RVQ2xfODRCcFFUS0pxc21vX1pDYVY2dTNPVi1nLVZUYUs0Ny1qSWh1Z2FZTlk?oc=5",
-      "summary": "US Says China’s Scarborough Shoal Claim ‘Destabilizing’ Region&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Sat, 08 Aug 2026 19:39:28 GMT",
-      "pub_sort_dt": "2026-08-09 03:39:28"
+      "pub_raw": "Sat, 08 Aug 2026 21:51:02 GMT",
+      "pub_sort_dt": "2026-08-09 05:51:02"
     },
     {
       "source": "New York Times",
@@ -85,8 +77,44 @@
       "title_cn": "美国正在伊朗烧毁武器。俄罗斯和中国正在注意到这一点。 - 纽约时报",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDRyVjBzeURLWk9yNUJXWUdCTHp1LS1KZGxUWGxKWm14TThoTVduQ1o3NnAteFg2SExBY2V1ZUdXbzRCMUw2THdscGJ4dWdWOFdBVU5KLUF2eFQ0TlhWLUpENVYxbjJOaTVLZGtJMjBBZjVvVTNSZ3JoZDl2cTJacTkzZVdWX2RJaWtLVkN4a1JDSGEza1Nn?oc=5",
       "summary": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Sat, 08 Aug 2026 16:59:56 GMT",
-      "pub_sort_dt": "2026-08-09 00:59:56"
+      "pub_raw": "Sat, 08 Aug 2026 19:56:38 GMT",
+      "pub_sort_dt": "2026-08-09 03:56:38"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "US Says China’s Scarborough Shoal Claim ‘Destabilizing’ Region - bloomberg.com",
+      "title_cn": "美国称中国黄岩岛主权主张“破坏地区稳定” - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMzFZOEZ2dEpsbVA2RzdYb2Y0eTV3YkVJclJCWEZFU01mcnpVY2kwNWN3ZHVUeFo0c0VmZFY5b3pTTlhmWXEzdFYxYmdWc3VYVUVoUmh4MUw4NXA0Zl9kcHNZTFU4MGFEV1A5Vm5HWjhCV1pvQkF2Z0dtekdidzdVVUdyVHF2V09LeC1NWFg3RVl4T0xKNmFGR1dkMzcyZG82X0RVQ2xfODRCcFFUS0pxc21vX1pDYVY2dTNPVi1nLVZUYUs0Ny1qSWh1Z2FZTlk?oc=5",
+      "summary": "US Says China’s Scarborough Shoal Claim ‘Destabilizing’ Region&nbsp;&nbsp;bloomberg.com",
+      "pub_raw": "Sat, 08 Aug 2026 19:39:28 GMT",
+      "pub_sort_dt": "2026-08-09 03:39:28"
+    },
+    {
+      "source": "New York Times",
+      "title_en": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S. - The New York Times",
+      "title_cn": "亚马逊新数据中心令人担心它将成为美国污染最严重的发电厂 - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTZPMTAxS3FINHdEcmlIV3pqSWpUOVI0MUFJMFRlZ0MxeDJyc19aekRLMFA1ZF9RaU00TXZxWGFxSTBGbEhyekxneHZ3QTFfMXVJZFBRZWlLYlNmamROS1ktTUZVOVJHZElkUkVWYWtpUFRxbDcwenFBQkFMdGc2aFBLb3JOejRGMGc?oc=5",
+      "summary": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Sat, 08 Aug 2026 18:17:03 GMT",
+      "pub_sort_dt": "2026-08-09 02:17:03"
+    },
+    {
+      "source": "New York Times",
+      "title_en": "How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered - The New York Times",
+      "title_cn": "国家橄榄球联盟支持的俄亥俄州坎顿振兴计划如何步履蹒跚 - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMTVwUEFYdWphVXkteFNrOTZCSno2Wm9Ya0dYZVR3bHZabS1GNm9ZQlp3SzREcW93dGFqRzdMYl9BeElJZjRTdkQzZWxHSjI3ZjVuUEJsY1NIQWhHR0lfZDR4TVhyZnVqTWlwUFllaHhQSjlqM1pFZzhvYWR3cmhKSFF6eWpGOFk?oc=5",
+      "summary": "How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Sat, 08 Aug 2026 17:06:54 GMT",
+      "pub_sort_dt": "2026-08-09 01:06:54"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Democrats plan Trump investigations over impeachment if they win House, sources say - Reuters",
+      "title_cn": "消息人士称，如果民主党赢得众议院，他们计划对特朗普进行弹劾调查 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA?oc=5",
+      "summary": "Democrats plan Trump investigations over impeachment if they win House, sources say&nbsp;&nbsp;Reuters",
+      "pub_raw": "Sat, 08 Aug 2026 16:58:20 GMT",
+      "pub_sort_dt": "2026-08-09 00:58:20"
     },
     {
       "source": "BBC",
@@ -99,10 +127,19 @@
     },
     {
       "source": "Wall Street Journal",
-      "title_en": "One Casualty of Taiwan’s War Drills: A Slower Internet - wsj.com",
-      "title_cn": "台湾战争演习的受害者之一：网速变慢 - wsj.com",
+      "title_en": "China’s New Export Engine: Supplying the Factories of the World - WSJ",
+      "title_cn": "中国的新出口引擎：为世界工厂供货 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDk4SXZjX093V0xWbGlhMnFQUTJ6dG80QU4xemFPWUpWOGNDSFlfQ19lQ3dDSmZNMVJPZUw0QllYZ2ZjVDBmZE1neEJQcDdBcThBbm91WTJKWTJxMkVCTzBCSlV3MmQ1aG1HRXJjSkZZU1RxTk1RcUp4VzVyQWVyVVZ5YnVYZGdPYW5HTmdMenFsaXBoS3hPaFh6YVF2cTlPbVlDejJrZw?oc=5",
+      "summary": "China’s New Export Engine: Supplying the Factories of the World&nbsp;&nbsp;WSJ",
+      "pub_raw": "Sat, 08 Aug 2026 16:31:29 GMT",
+      "pub_sort_dt": "2026-08-09 00:31:29"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "One Casualty of Taiwan’s War Drills: A Slower Internet - WSJ",
+      "title_cn": "台湾战争演习的受害者之一：互联网速度变慢 - 华尔街日报",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MOVdSTzg2cVF1NlJadS1oMm5WRG5nVkQyS3p6RW11Vy1SeWcxdlVleVVGT0JrTXlBeXp0ZUFDMWpKNWxRWVZGODlmSC1fYndoa2U3VTBrQkxTWXR5bWZJcnl4cGRjNXNhWWZZOUpURVE0TTVSekRESG9wRTE?oc=5",
-      "summary": "One Casualty of Taiwan’s War Drills: A Slower Internet&nbsp;&nbsp;wsj.com",
+      "summary": "One Casualty of Taiwan’s War Drills: A Slower Internet&nbsp;&nbsp;WSJ",
       "pub_raw": "Sat, 08 Aug 2026 16:00:00 GMT",
       "pub_sort_dt": "2026-08-09 00:00:00"
     },
@@ -125,20 +162,11 @@
       "pub_sort_dt": "2026-08-08 22:36:01"
     },
     {
-      "source": "Wall Street Journal",
-      "title_en": "A Lost Civilization Is Baffling Experts and Rewriting China’s Origin Story - wsj.com",
-      "title_cn": "失落的文明令专家困惑并改写中国的起源故事 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUJsUEhnUXM1TTJ4UVJwSXR2cVY5YlJHbEVfU2lNTVJrUUFGTkxFMlJ6VzVpazI2RVJwVVNTWTRNd2xpLUljb24xWVhkVUFvbnVyckEyQmh5RmdXZkNVYWFzSXRMQXJTS0VFSWNfVWpHT0RtQXRIM1F2T2Z1TV9LRW1qbU5WMFN0aXRGRFZCczhiQ2NDc0lMbTM2cWdpWlNEQVMxUVc2RDRhVUZkc3JQVHNfY18?oc=5",
-      "summary": "A Lost Civilization Is Baffling Experts and Rewriting China’s Origin Story&nbsp;&nbsp;wsj.com",
-      "pub_raw": "Sat, 08 Aug 2026 14:31:36 GMT",
-      "pub_sort_dt": "2026-08-08 22:31:36"
-    },
-    {
       "source": "Bloomberg",
-      "title_en": "WuXi AppTec Gets Temporary Reprieve of Chinese Military Label - Bloomberg.com",
-      "title_cn": "药明康德暂时取消中国军用标签 - Bloomberg.com",
+      "title_en": "WuXi AppTec Gets Temporary Reprieve of Chinese Military Label - bloomberg.com",
+      "title_cn": "药明康德被暂时取消中国军用标签 - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2lNNkNLR083UE0wYWJkbE1BNlNJaUJ4NmpzcmM3Vk1BSnlyY3BnX1dyOHBjYWhuTkh3eDFLaGRzSUkxeFo5U2FSZjNsTWhmV1VQaFBHSXh6UTNQVG14cHpYeTlINTVNTHctS1FOR3FiaVVMWHA2SkIyNEZPNWRTMTZFNDVuRm02ZEZla1REQWNTSmRfVHlicXR3SnhORFk5dVRzQXEySUh6TlJQSDE2WGNR?oc=5",
-      "summary": "WuXi AppTec Gets Temporary Reprieve of Chinese Military Label&nbsp;&nbsp;Bloomberg.com",
+      "summary": "WuXi AppTec Gets Temporary Reprieve of Chinese Military Label&nbsp;&nbsp;bloomberg.com",
       "pub_raw": "Sat, 08 Aug 2026 14:11:07 GMT",
       "pub_sort_dt": "2026-08-08 22:11:07"
     },
@@ -189,19 +217,19 @@
     },
     {
       "source": "CNN",
-      "title_en": "50 People to Know in Today's China - CNN",
-      "title_cn": "当今中国值得认识的 50 个人 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObEIxN0VMS1VNczZOdlVBMTdvNDRwSHJ2OVNSLTY3Y1lYQnBqRGx6TGhBMzRLSUpueG5BV0RqWkFMUDdCeDhrVDRSWDBLb1dVUy0wX3d4SHNlUTVsdXRiVjBocVU0WXhRWnhvbWg0S3pyTVBNcmZvcndHY0dmNGY4Q3MxU0otZi1mcDVVQXZWakw3WDQ?oc=5",
-      "summary": "50 People to Know in Today's China&nbsp;&nbsp;CNN",
-      "pub_raw": "Sat, 08 Aug 2026 10:36:20 GMT",
-      "pub_sort_dt": "2026-08-08 18:36:20"
-    },
-    {
-      "source": "CNN",
       "title_en": "The surprising reason airlines invest so much in airplane interiors - CNN",
       "title_cn": "航空公司在飞机内饰上投入如此之多的令人惊讶的原因 - CNN",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZVFA3OWdoLTB3NUJJZEtTZ01HZmhETXBwLUNwVElpME8wdl9XM1JsUVdqcG5jSnlfajZJcVRhaFo4UW54S2d5VnlFRnk2UkNRUGphUk1kWE0zdllkcmZmVG5wa2o4V245dlJYdjlfWFJqOWZRandDQ3hLcnhpU2M?oc=5",
       "summary": "The surprising reason airlines invest so much in airplane interiors&nbsp;&nbsp;CNN",
+      "pub_raw": "Sat, 08 Aug 2026 10:30:31 GMT",
+      "pub_sort_dt": "2026-08-08 18:30:31"
+    },
+    {
+      "source": "CNN",
+      "title_en": "America’s top ace’s plane crashed in 1944. A wingtip has finally made it home - CNN",
+      "title_cn": "美国顶级王牌飞机于 1944 年坠毁。翼尖终于安全回家 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VYmQwSGdQdEZ2dVNUNVllbXBWcF9SdThVUlNDbFNHaXlOelNxbk5aa0dkUUwtd0VtRWotMVRsazRpOVpLbm1QeGFaSkdsQU1HLXZ4VjRqTXR6cEpzM015Mjc1RHY?oc=5",
+      "summary": "America’s top ace’s plane crashed in 1944. A wingtip has finally made it home&nbsp;&nbsp;CNN",
       "pub_raw": "Sat, 08 Aug 2026 10:30:31 GMT",
       "pub_sort_dt": "2026-08-08 18:30:31"
     },
@@ -224,20 +252,20 @@
       "pub_sort_dt": "2026-08-08 17:15:05"
     },
     {
-      "source": "New York Times",
-      "title_en": "How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered - The New York Times",
-      "title_cn": "国家橄榄球联盟支持的俄亥俄州坎顿振兴计划如何步履蹒跚 - 纽约时报中文网",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMTVwUEFYdWphVXkteFNrOTZCSno2Wm9Ya0dYZVR3bHZabS1GNm9ZQlp3SzREcW93dGFqRzdMYl9BeElJZjRTdkQzZWxHSjI3ZjVuUEJsY1NIQWhHR0lfZDR4TVhyZnVqTWlwUFllaHhQSjlqM1pFZzhvYWR3cmhKSFF6eWpGOFk?oc=5",
-      "summary": "How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Sat, 08 Aug 2026 09:00:36 GMT",
-      "pub_sort_dt": "2026-08-08 17:00:36"
+      "source": "AFP",
+      "title_en": "Tibet conference in Nepal pushed online - www-pp.afp.com",
+      "title_cn": "尼泊尔西藏会议线上举行 - www-pp.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VZGoyVHRwNklQRWtCUEo5MVc2VHpWZXhCQXpOVnJER2ktT0pBOEdzVjJFMURXV2EwMUxFQ0t4VXFzSmc5RV9JTzYwYkhqdEk?oc=5",
+      "summary": "Tibet conference in Nepal pushed online&nbsp;&nbsp;www-pp.afp.com",
+      "pub_raw": "Sat, 08 Aug 2026 09:08:31 GMT",
+      "pub_sort_dt": "2026-08-08 17:08:31"
     },
     {
       "source": "Wall Street Journal",
-      "title_en": "Volvo Car Sales Slip 4% on China Weakness - wsj.com",
-      "title_cn": "中国市场疲软导致沃尔沃汽车销量下滑 4% - 华尔街日报",
+      "title_en": "Volvo Car Sales Slip 4% on China Weakness - WSJ",
+      "title_cn": "中国经济疲软导致沃尔沃汽车销量下滑 4% - 华尔街日报",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRE9xcUxsQUt1NzhGNHNGQW5LT282bXJscE5NTi1FSk1fSG5IbHQ2cl92VEFDYTc5bTZ0bTAzckNqWktnLXJid3d1SGVkeXdWQXVyMzJ5TUlGVTZuMUktLVNRbE9wUS1Fd3N0OWlwUzQ1b2hxVWV4aXdkZW1NMTk1eU4zdlZBandfSWhDOV8zVE0?oc=5",
-      "summary": "Volvo Car Sales Slip 4% on China Weakness&nbsp;&nbsp;wsj.com",
+      "summary": "Volvo Car Sales Slip 4% on China Weakness&nbsp;&nbsp;WSJ",
       "pub_raw": "Sat, 08 Aug 2026 08:33:43 GMT",
       "pub_sort_dt": "2026-08-08 16:33:43"
     },
@@ -252,10 +280,10 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "China Halts Airport, Cancels Flights, Trains on Typhoon Dolphin - Bloomberg.com",
-      "title_cn": "中国因台风海豚而关闭机场、取消航班和火车 - Bloomberg.com",
+      "title_en": "China Halts Airport, Cancels Flights, Trains on Typhoon Dolphin - bloomberg.com",
+      "title_cn": "中国因台风海豚而暂停机场、取消航班和火车 - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnpKUF9vNjh4a1hDV0pzOGxfakcybE5WRURIMC1kb3lSNkdFd2dLdFkwcXFoN0lkM3RqcS1Mc2kzRE9pcXRsQUN3d3pwSXZFd0VYVUh4bDVSRXI4TEwyS19qSGZ3TXhJQWI1alJXNVV1dDVGMi1vLUlLYWstT3Q2Ynppb0F2aDIwSDZFemQtcTAzbkE5Z0xJZHpnTEt1N2hMMGJpMVNPUXBPdlNyVWw3YVJ3?oc=5",
-      "summary": "China Halts Airport, Cancels Flights, Trains on Typhoon Dolphin&nbsp;&nbsp;Bloomberg.com",
+      "summary": "China Halts Airport, Cancels Flights, Trains on Typhoon Dolphin&nbsp;&nbsp;bloomberg.com",
       "pub_raw": "Sat, 08 Aug 2026 07:40:55 GMT",
       "pub_sort_dt": "2026-08-08 15:40:55"
     },
@@ -270,12 +298,21 @@
     },
     {
       "source": "Financial Times",
-      "title_en": "Manulife Global Fund - China Value Fund AA SGD H Acc, LU2468319632:SGD assets and holdings - Financial Times",
-      "title_cn": "宏利环球基金 - 中国价值基金 AA 新元 H Acc，LU2468319632：新元资产和持有 - 金融时报",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1NjlTbkp2WGFIZlpiWUFQX2pRd19ROHd4d2JrZVpHMTY0dWd6a19jbFlUYmQtdGN5Mjk3dU9kRjZ2eXVXMFRnb2lWVHM1aHQ0Wmp1aWZpTnE0SjcxTXFNOGpXcFVPZXh3ejNVMUF1eVFOekZYeElLWWJWbw?oc=5",
-      "summary": "Manulife Global Fund - China Value Fund AA SGD H Acc, LU2468319632:SGD assets and holdings&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Sat, 08 Aug 2026 06:30:31 GMT",
-      "pub_sort_dt": "2026-08-08 14:30:31"
+      "title_en": "Manulife Global Fund - China Value Fund AA SGD H Acc, LU2468319632:SGD ratings - Financial Times",
+      "title_cn": "Manulife Global Fund - China Value Fund AA SGD H Acc, LU2468319632:SGD评级 - 英国《金融时报》",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ibjVHbmx2b2djTU1BVmxCUnJ3b3pVTmhHZDJYaXAtWnhlZTdDZkgtSFNQSkd3Z0F0OHdoTjN4SEIyM2Q1Q0EybGtBMEdHS2dLelIzSXFtR01aczJmYTNibnBlWmtCVDZVd0llaXcxYmlUZml0QWFoV1RB?oc=5",
+      "summary": "Manulife Global Fund - China Value Fund AA SGD H Acc, LU2468319632:SGD ratings&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Sat, 08 Aug 2026 06:41:29 GMT",
+      "pub_sort_dt": "2026-08-08 14:41:29"
+    },
+    {
+      "source": "DW",
+      "title_en": "Typhoon Dolphin hits Japan as China braces for coming storm - DW.com - dw.com",
+      "title_cn": "台风“海豚”袭击日本，中国准备迎接即将到来的风暴 - DW.com - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0N3VmZYdmhNZ3F4dldTcXNRM24xX3ZIWXdvWXp3Yk44UDRZcVVjVFlnb19IbUVLMy1NSFNjcmwyZG5QUnBNZVctSnk2b1pVN28xdUxIbVJyVUhYRXllWm9yUW52RnByZFRBUHRaQnA0UHFTVW5NdjRFM1JHMzJfYnBSTGIzaUdjcEY4eXU2WkRKMnpxTDhhNkJja2p6emkzeVFWWGlQeTlhTW9zaDRqVHRzN3lObldWQUsxWQ?oc=5",
+      "summary": "Typhoon Dolphin hits Japan as China braces for coming storm - DW.com&nbsp;&nbsp;dw.com",
+      "pub_raw": "Sat, 08 Aug 2026 06:29:06 GMT",
+      "pub_sort_dt": "2026-08-08 14:29:06"
     },
     {
       "source": "Financial Times",
@@ -341,6 +378,15 @@
       "pub_sort_dt": "2026-08-08 12:33:00"
     },
     {
+      "source": "AFP",
+      "title_en": "Central & Western District Youth-to-Career Explo Connects Hong Kong Youth to Future Careers in AI Era - www-pp.afp.com",
+      "title_cn": "中西区青年就业博览会连接香港青年与AI时代未来职业 - www-pp.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96NVFfcW9JbkVhUmY3R2EzLXdTVmFTNlNOWTlYQTU5andrR2VoOW1YRVo3RWkyRFltNDY2dHF1Mnd3V296aFhuVlJhU2p4dnM?oc=5",
+      "summary": "Central & Western District Youth-to-Career Explo Connects Hong Kong Youth to Future Careers in AI Era&nbsp;&nbsp;www-pp.afp.com",
+      "pub_raw": "Sat, 08 Aug 2026 04:32:18 GMT",
+      "pub_sort_dt": "2026-08-08 12:32:18"
+    },
+    {
       "source": "BBC",
       "title_en": "'Sex predator let out to kill' and 'net zero plans rolled back' - BBC",
       "title_cn": "“性掠夺者放出杀戮”和“净零计划被撤销” - BBC",
@@ -387,12 +433,21 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "Jiang Feng, Greentown China Holdings Ltd: Profile and Biography - Bloomberg.com",
+      "title_en": "Jiang Feng, Greentown China Holdings Ltd: Profile and Biography - bloomberg.com",
       "title_cn": "绿城中国控股有限公司姜峰：简介和传记 - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBudGtYQjZMS3ZsS0JMTWl1LXN3ZFFxOTJPOGJpamItTW0zeXAxV2Zaaks5bWVMMTYyZTZSZTB4Zkp1b0FEdHBjOVRCSWoyTTZUSFB3el8xSGpETTNSWHc?oc=5",
-      "summary": "Jiang Feng, Greentown China Holdings Ltd: Profile and Biography&nbsp;&nbsp;Bloomberg.com",
+      "summary": "Jiang Feng, Greentown China Holdings Ltd: Profile and Biography&nbsp;&nbsp;bloomberg.com",
       "pub_raw": "Sat, 08 Aug 2026 03:03:54 GMT",
       "pub_sort_dt": "2026-08-08 11:03:54"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "A Lost Civilization Is Baffling Experts and Rewriting China’s Origin Story - WSJ",
+      "title_cn": "失落的文明令专家困惑并改写中国的起源故事 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUJsUEhnUXM1TTJ4UVJwSXR2cVY5YlJHbEVfU2lNTVJrUUFGTkxFMlJ6VzVpazI2RVJwVVNTWTRNd2xpLUljb24xWVhkVUFvbnVyckEyQmh5RmdXZkNVYWFzSXRMQXJTS0VFSWNfVWpHT0RtQXRIM1F2T2Z1TV9LRW1qbU5WMFN0aXRGRFZCczhiQ2NDc0lMbTM2cWdpWlNEQVMxUVc2RDRhVUZkc3JQVHNfY18?oc=5",
+      "summary": "A Lost Civilization Is Baffling Experts and Rewriting China’s Origin Story&nbsp;&nbsp;WSJ",
+      "pub_raw": "Sat, 08 Aug 2026 03:00:00 GMT",
+      "pub_sort_dt": "2026-08-08 11:00:00"
     },
     {
       "source": "DW",
@@ -409,8 +464,8 @@
       "title_cn": "美国称计划向哥伦比亚新​​领导人政府提供10亿美元安全援助 - 路透中文网",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeW1jcFhmVTc4MXRBdGZsZ0FuVXZBUFdSVVlXVEVWZTNPR2JTUVZITGk4blEtVDFkVWNfSkJuUk1zRkZSYlBDZzVsWDE5ejZUWTl4TE9mOHFmZFZac1VxRVduQU1HWkhIMGRycWE2ZWNVYTdzWFpjanBrVEZvWW55alM4QS03YnBwQ2x6MXc0QVlWV3Zoak5hM21Tay1MY0FaOUQ5ejZ6MFdCMnNsc19LNE5WbWMxN3l4YzgtdTFDR3I?oc=5",
       "summary": "US says it plans $1 billion security assistance to government of Colombia's new leader&nbsp;&nbsp;Reuters",
-      "pub_raw": "Sat, 08 Aug 2026 02:51:00 GMT",
-      "pub_sort_dt": "2026-08-08 10:51:00"
+      "pub_raw": "Sat, 08 Aug 2026 02:52:13 GMT",
+      "pub_sort_dt": "2026-08-08 10:52:13"
     },
     {
       "source": "Reuters",
@@ -420,42 +475,6 @@
       "summary": "Taiwan president oversees coastal strike drill during annual war games&nbsp;&nbsp;Reuters",
       "pub_raw": "Sat, 08 Aug 2026 02:38:00 GMT",
       "pub_sort_dt": "2026-08-08 10:38:00"
-    },
-    {
-      "source": "DW",
-      "title_en": "Can the West Compete with China's Industrial Machine? - dw.com",
-      "title_cn": "西方能与中国工业机器竞争吗？ - 德国之声网站",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRGU2Mkh0a1FqLTNkSjJZRU1xY3BWcWg5NkZHSG5kcHhkUGlwaU9JdENLTmYzR1BmUXpHWWVBMlJfc0hxVk5fV2NCWHBLYkRURk93VHo4WEdUUnJ2Y1EyOXhIUWp5SE9rSkNBZjdIcnM2R1RfNkhoZFp4T24xWE1hMHQySUhHMUlydHg2RUo3ZXZtUQ?oc=5",
-      "summary": "Can the West Compete with China's Industrial Machine?&nbsp;&nbsp;dw.com",
-      "pub_raw": "Sat, 08 Aug 2026 01:37:11 GMT",
-      "pub_sort_dt": "2026-08-08 09:37:11"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous' - Reuters",
-      "title_cn": "台北称中国台风期间对台湾海峡的交通管制命令“荒谬” - 路透",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWjIzWVZmYlV0bEl6Uk9kazZtSmgyVGF5Yk9IOVFaNUc1YWJ4d0VRbTdZYXJsaTFEQ21tLWw4cl9XaXB6dWd5MW9mUDJPanlFWWdkSHJRNkViRnlDUWVodDlSRlB2eGFETm10clBIYm5PUW1xV3BUUEhJR3h1dHZzWjZJMnFPUnUtVFB0UjhpU0Jmck42Ul8wR3NCRU1vd1Y0OUo4U0loM29Jd1hSX2YxN1pyU3d3N09RM3pHeg?oc=5",
-      "summary": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'&nbsp;&nbsp;Reuters",
-      "pub_raw": "Sat, 08 Aug 2026 01:37:00 GMT",
-      "pub_sort_dt": "2026-08-08 09:37:00"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "China’s biggest travel site grapples with watchdog’s reservations - Financial Times",
-      "title_cn": "中国最大的旅游网站面临监管机构的保留 - 英国《金融时报》",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlZ4TWYteVNOMjFnLTFkbXBoOUZPaXZZeXJHckJPeVhyR1FoTHFqd1R0bFNHSDBYdmUyTHd3bmhVRzFoOG9DRWI2V1BZcGFhajYyb3VqZE8wSjdvdEsyZ0lHbjJHQkVfQXNsV29oMnlDa0d1MEtMZlpYaEtsdjVfZWpSMjY?oc=5",
-      "summary": "China’s biggest travel site grapples with watchdog’s reservations&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Sat, 08 Aug 2026 01:08:17 GMT",
-      "pub_sort_dt": "2026-08-08 09:08:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Touts $3 Billion in Minerals Projects to Counter China - Bloomberg.com",
-      "title_cn": "特朗普吹捧 30 亿美元的矿产项目以对抗中国 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVkNRcmJPajMyREpNWWNxc0p2bUF6S1NJOTZlOC1lWHFNa00yelM0T3k2U096TkdTcFNITzVub3VuZTJtUzNCREZ6UkdGV2JjYVN1SE9NVTY0MUNmYThWY0RNY3c2dnA2dnZJM3JwX2lZSUNxdFBodDB2aEo1Rmg4MHZaLTJXWl9PRTM3NWJGVlZTR2R0dndub2EyZVVoUkNwNEtyaGVXcW9tLXNMNUdv?oc=5",
-      "summary": "Trump Touts $3 Billion in Minerals Projects to Counter China&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Sat, 08 Aug 2026 00:49:00 GMT",
-      "pub_sort_dt": "2026-08-08 08:49:00"
     }
   ]
 }
