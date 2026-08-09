@@ -13,8 +13,8 @@ MAX_PER_SOURCE = 5  # 每家媒体最多5条
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=4)
 
 # 涉华过滤关键词
-CKW = ["china","chinese","beijing","xi jinping","li qiang","wang yi",
-       "taiwan","hong kong","xinjiang","tibet","south china sea",
+CKW = ["china","chinese","beijing","xi jinping","Morgan Stanley","JPMorgan",
+       "taiwan","hong kong","Goldman","tibet","south china sea",
        "belt and road","huawei","tencent","alibaba","tiktok","shein",
        "temu","cpec","renminbi","yuan","pboc","deepseek","baidu",
        "xiaomi","chinese economy","chinese market","chinese official",
