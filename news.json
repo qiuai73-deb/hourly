@@ -1,30 +1,102 @@
 {
-  "update_cst": "2026-08-11 15:01:48 北京时间",
-  "total_count": 61,
+  "update_cst": "2026-08-11 18:01:40 北京时间",
+  "total_count": 60,
   "source_stat": {
     "Reuters": 5,
     "Bloomberg": 5,
     "AP": 5,
     "Nikkei Asia": 5,
     "Financial Times": 5,
-    "Wall Street Journal": 4,
+    "Wall Street Journal": 5,
     "CNBC": 5,
     "New York Times": 5,
     "CNN": 5,
-    "AFP": 2,
+    "AFP": 1,
     "The Economist": 5,
     "BBC": 5,
-    "DW": 5
+    "DW": 4
   },
   "news": [
+    {
+      "source": "Wall Street Journal",
+      "title_en": "Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help. - WSJ",
+      "title_cn": "古巴石油资源匮乏。现在，它在中国的帮助下依靠太阳能。 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EYXVmUnZrUE9mb3VibFV0Y1l2V3B3QzlDV053NzhzYjBUWjNUNjNGUGMxZ093dWlzUXFLUHpSZF9ma1ZHUE5fLWlYdGpYVmdiY1ZHWFE2ZHFTdzRKMXVMc2o2bElFTXNLenVTR3NqX2Q?oc=5",
+      "summary": "Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help.&nbsp;&nbsp;WSJ",
+      "pub_raw": "Tue, 11 Aug 2026 09:31:37 GMT",
+      "pub_sort_dt": "2026-08-11 17:31:37"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "China’s Auto Market Weakens Further on Subdued Domestic Demand - WSJ",
+      "title_cn": "内需疲软导致中国汽车市场进一步疲软 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekJnSFZ0dS1xQ2YtZVowM2VsNnY3dkZVQnIzelFlQVZGd0sxOTNpa004VVhXa3hscGF6akpFT0xBRUxlUXkzQ2pUTmYtNTFrVXV0b21UVkVJWDZKUTU4UVJmZGtPQjFKbllLcDktYzU3Z2xjYnNtaHhBNFF4ajdkNExiWEhNOFpRUm9NVXdGcGFNQlY2M0NoV21OV21XVHlxVWhFeS1JM3A?oc=5",
+      "summary": "China’s Auto Market Weakens Further on Subdued Domestic Demand&nbsp;&nbsp;WSJ",
+      "pub_raw": "Tue, 11 Aug 2026 09:22:00 GMT",
+      "pub_sort_dt": "2026-08-11 17:22:00"
+    },
     {
       "source": "New York Times",
       "title_en": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S. - The New York Times",
       "title_cn": "亚马逊新数据中心令人担心它将成为美国污染最严重的发电厂 - 纽约时报中文网",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTZPMTAxS3FINHdEcmlIV3pqSWpUOVI0MUFJMFRlZ0MxeDJyc19aekRLMFA1ZF9RaU00TXZxWGFxSTBGbEhyekxneHZ3QTFfMXVJZFBRZWlLYlNmamROS1ktTUZVOVJHZElkUkVWYWtpUFRxbDcwenFBQkFMdGc2aFBLb3JOejRGMGc?oc=5",
       "summary": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Tue, 11 Aug 2026 06:46:47 GMT",
-      "pub_sort_dt": "2026-08-11 14:46:47"
+      "pub_raw": "Tue, 11 Aug 2026 09:07:12 GMT",
+      "pub_sort_dt": "2026-08-11 17:07:12"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "China Literature Announces 2026 Interim Results - Financial Times",
+      "title_cn": "阅文集团公布2026年中期业绩 - 英国《金融时报》",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTBuNktqY1JScEJ1R1FGREdZcnRkS2lMejFsbUdDRUJwNC1GSjNSNHhiYUNISHViVXJmVVZ4X0VfNzNGV0pWVzROZXZLYU1FZkd2VUhCam1JRjZFQjVINFRaUVZicXlzQnUzWUxrZ3BFbUV1SzlGTFktV2ZWbE9kM1pmMGFpSDNlTmh1dmF6ZFd1S3VIOFFOTg?oc=5",
+      "summary": "China Literature Announces 2026 Interim Results&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Tue, 11 Aug 2026 08:41:00 GMT",
+      "pub_sort_dt": "2026-08-11 16:41:00"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "Singapore Billionaire Sues Brookfield for Allegedly Aborting Planned Real-Estate Joint Venture - WSJ",
+      "title_cn": "新加坡亿万富翁起诉布鲁克菲尔德，称其中止计划的房地产合资企业 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQkxwTzBqX3h6bVF5YVFHelVJT0JvR3ZwcER0djg0VDl4VjZJYno0ZEdzWWtHR2hUdFpuZFh3cmU3VVh2TjR0SjUtc2F2QzhvaHd5dWdGUzVJOFRkNVhtb0pTdHY0dHJlalZiTldVc1NjSUFqRE1FN01ESi11RENyZmd1bU5oM2pOQm82ejVLYUcxU3otc2ZRXzFiZ05PbHFPNVQtVFJjaW1BMHNPN3RkaHBqWnhnRkJjSGc4dUFNRGMyWi1sZldTbUVGMXItcXYyb3paMg?oc=5",
+      "summary": "Singapore Billionaire Sues Brookfield for Allegedly Aborting Planned Real-Estate Joint Venture&nbsp;&nbsp;WSJ",
+      "pub_raw": "Tue, 11 Aug 2026 08:05:13 GMT",
+      "pub_sort_dt": "2026-08-11 16:05:13"
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Sunrise CEO on Pentagon deal: Know the risk of relying on China - CNBC",
+      "title_cn": "Sunrise首席执行官谈五角大楼交易：了解依赖中国的风险 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0huNGRyR0x5NGZyUlBGQUw3NUtVR2w2WVpVWDExNGpvY09TWXJwZ3hFQ0s5NXVxajRKZEE5X1Rnd1hjRWR0SWh2YnNtMTlLbnE5anNhSjl6NW54MkhCempjOWR0NHZWSXJXUmJCOTlhMmo3OEJrNGlIZWlhVHpjZUVxMXRJUG1UTHFicXNyZFU2VllpSmxuT2F4ZEphTjl0WGJpZnRsMDFWU0hjQ2dkN1VucV91X2JmbnJtUF9rVjZ2NGs?oc=5",
+      "summary": "Sunrise CEO on Pentagon deal: Know the risk of relying on China&nbsp;&nbsp;CNBC",
+      "pub_raw": "Tue, 11 Aug 2026 08:01:48 GMT",
+      "pub_sort_dt": "2026-08-11 16:01:48"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "Chinese robot maker’s IPO 5,500 times oversubscribed by retail investors - Financial Times",
+      "title_cn": "中国机器人制造商IPO获散户投资者超额认购5,500倍 - 英国《金融时报》",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5",
+      "summary": "Chinese robot maker’s IPO 5,500 times oversubscribed by retail investors&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Tue, 11 Aug 2026 07:12:05 GMT",
+      "pub_sort_dt": "2026-08-11 15:12:05"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "China missile test deepens Pacific divide over growing militarisation - Reuters",
+      "title_cn": "中国导弹试射加深太平洋地区因日益军事化而产生的分歧 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWZuLWFoaGZXejN5NGFEVkw5TnU5bmhoamU4Vm5xZFZod2tJZTFFQm1YSWRSMC1kYjFEN2hmLU0zQ0hYRVd4UUh0TGxMQWphOW5sSGREUnJnLWRYVURfVUVnQmxqX2UwM2tEek45cklKcjc3X21fRFJBRnREY2s4OXhuSmI2bEdmYkRLM0FQanNRRVIwVjhBNUZSOWlvM2h1b1Y1bXpKOFdjazZmMFpjcm9yZ0htY1Fj?oc=5",
+      "summary": "China missile test deepens Pacific divide over growing militarisation&nbsp;&nbsp;Reuters",
+      "pub_raw": "Tue, 11 Aug 2026 05:55:00 GMT",
+      "pub_sort_dt": "2026-08-11 13:55:00"
+    },
+    {
+      "source": "CNN",
+      "title_en": "Chinese rocket carrying satellite explodes seconds after launch - CNN",
+      "title_cn": "中国运载卫星的火箭在发射后几秒钟爆炸 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPekRVSU9kNVhGMFB0YU4tRTBNblFWYm9JV3c0NmxyeU5MNUhrMWJqM2ZHOTFfV3puUGE1cm9jZjZTYUZXNVdyaVE2cjZnSmI1akJ2MlhPZlQ1RXJ2TnJXQkFGbHNWRWFlVE5BX2piWUUtNXdDQktnZEpIU1hKSDY5aEFXOA?oc=5",
+      "summary": "Chinese rocket carrying satellite explodes seconds after launch&nbsp;&nbsp;CNN",
+      "pub_raw": "Tue, 11 Aug 2026 05:39:24 GMT",
+      "pub_sort_dt": "2026-08-11 13:39:24"
     },
     {
       "source": "BBC",
@@ -37,10 +109,10 @@
     },
     {
       "source": "Reuters",
-      "title_en": "Typhoon Dolphin's vast storm system pushes inland, threatens central China - Reuters",
-      "title_cn": "台风“海豚”庞大的风暴系统向内陆推进，威胁中国中部 - 路透中文网",
+      "title_en": "Typhoon Dolphin floods central China, puts Beijing on alert for heavy rain - Reuters",
+      "title_cn": "台风“海豚”袭击中国中部，北京进入暴雨警报 - 路透中文网",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX3REYmlxMFRqOEdlVDhZVjhUTE1kaTAzbkxRRlVTNHFfclRYLUxpRGJMYVV4R0IyWVFEVnVHdVZzS1p0Smc4U3FuNnQ3T2phRmVieC1ET3p6YTFRSnM1RXZuNWpOUHp6M2lvSms1UGU1LXBaXzFONC1XVUxTRFBRa1Fkd1VvbUIzMFZjSjhwVHk2em0tLUwwSmk4NEZkZWN0Q0ltTFlYeWJvSldWR1BqRnQ2c2lCT3lBQ2lhVnFwSGphemp1RllERQ?oc=5",
-      "summary": "Typhoon Dolphin's vast storm system pushes inland, threatens central China&nbsp;&nbsp;Reuters",
+      "summary": "Typhoon Dolphin floods central China, puts Beijing on alert for heavy rain&nbsp;&nbsp;Reuters",
       "pub_raw": "Tue, 11 Aug 2026 03:50:00 GMT",
       "pub_sort_dt": "2026-08-11 11:50:00"
     },
@@ -108,6 +180,15 @@
       "pub_sort_dt": "2026-08-11 10:03:11"
     },
     {
+      "source": "Nikkei Asia",
+      "title_en": "Chinese rare-earth project in Laos stumbles as industry rakes in profits - Nikkei Asia",
+      "title_cn": "中国在老挝的稀土项目因行业利润暴涨而陷入困境 - 日经亚洲",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOE9OTFVjM1RRN1pKdzFxaUducDJfdFZ5aVl5elZDVXlONTdRRVg2QzBaaFhQQlJieFN4WV82VjJ5bFVDR2owQkI0MkFkcTRXRFlIOGUtYXdKajVoOWp4WmpsRjI0d3lhd2dVT3FvQ1V6OEJ6aVpDOWVJc01wQ0hDUFRCRnhkeVRFcVJ1ZXFVRW85cUY5ZTVuTUZPdG5aSTRPa3FtNHBBRkdfeXVuR2ZCNkVCTWNkZw?oc=5",
+      "summary": "Chinese rare-earth project in Laos stumbles as industry rakes in profits&nbsp;&nbsp;Nikkei Asia",
+      "pub_raw": "Tue, 11 Aug 2026 02:00:00 GMT",
+      "pub_sort_dt": "2026-08-11 10:00:00"
+    },
+    {
       "source": "CNN",
       "title_en": "WAPO: How Trump Secretly Switched Planes Using Catering Truck - CNN",
       "title_cn": "WAPO：特朗普如何使用餐车秘密调换飞机 - CNN",
@@ -126,6 +207,15 @@
       "pub_sort_dt": "2026-08-11 09:39:00"
     },
     {
+      "source": "BBC",
+      "title_en": "Amber heat health alerts in place for almost all of England as next heatwave hits - BBC",
+      "title_cn": "下一次热浪袭来时，几乎整个英格兰都发布了琥珀色高温健康警报 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94X252WU54NjI2NUxzSFRjTVBWUmxnVTAxRkhpWXdGdUtpZkRuWkQzbmI4Nm1PVTB4R3VocGhNbDNvSGpfV1g0UjZjTWI3ejZPWFA1NEFQZ2JuMURTWVE?oc=5",
+      "summary": "Amber heat health alerts in place for almost all of England as next heatwave hits&nbsp;&nbsp;BBC",
+      "pub_raw": "Tue, 11 Aug 2026 01:38:14 GMT",
+      "pub_sort_dt": "2026-08-11 09:38:14"
+    },
+    {
       "source": "AP",
       "title_en": "Hundreds more flights are canceled as Tropical Storm Dolphin causes flooding in eastern China - AP News",
       "title_cn": "热带风暴“海豚”导致中国东部地区洪水泛滥，数百航班被取消 - 美联社新闻",
@@ -142,6 +232,24 @@
       "summary": "Even Mercedes Can’t Stop the Decline of German Cars in China&nbsp;&nbsp;Bloomberg.com",
       "pub_raw": "Tue, 11 Aug 2026 01:00:00 GMT",
       "pub_sort_dt": "2026-08-11 09:00:00"
+    },
+    {
+      "source": "New York Times",
+      "title_en": "North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal - The New York Times",
+      "title_cn": "北卡罗来纳州共和党挑选接替丑闻缠身的候选人 - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNXhlN0RFVG01VjNiNXNXX0dVaWtoTUo0NktESHdrdGIyTXJRckJvallqNTIzbUFOTEFQOU9hZlpQSVg3ZGRJNE83eV9SNE1DQ25pdUdVYjRHS096ZjVXelJQa2RVQlQxVjNvMldpQ05OaUN6U0Y5R0xwNjlJYjZnMEx5emUtREJXVHlz?oc=5",
+      "summary": "North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Tue, 11 Aug 2026 00:31:32 GMT",
+      "pub_sort_dt": "2026-08-11 08:31:32"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "China’s leaders’ seaside sojourn - The Economist",
+      "title_cn": "中国领导人海边旅居 - 《经济学人》",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVBiaHVLOUVxVTZSSm9MeTZfQjYwcmc4em9YcnlCeEcyZ2RUbEZzNVJKYXpsTF9iNk12VG12eVc3ZXpVMWlDNDhkU2t5LWRLOHowdlBSZ1NFX2JiQ0FTb0JOdVZrVmJndXdvYVZ2b0k0REtndi16Y1M0Vkk0X3gwSGFUMnBYN2pldUdmU0QtYXJPVElxYVFj?oc=5",
+      "summary": "China’s leaders’ seaside sojourn&nbsp;&nbsp;The Economist",
+      "pub_raw": "Tue, 11 Aug 2026 00:00:00 GMT",
+      "pub_sort_dt": "2026-08-11 08:00:00"
     },
     {
       "source": "AP",
@@ -207,15 +315,6 @@
       "pub_sort_dt": "2026-08-11 06:02:21"
     },
     {
-      "source": "Nikkei Asia",
-      "title_en": "Japan's Miki House sets up global kidswear hub in Shenzhen - Nikkei Asia",
-      "title_cn": "日本Miki House在深圳设立全球童装中心 - 日经亚洲",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2U0aGFpYUlBVm96SEJBdnRJZ0RhY09weEZpeW1tclVxX21MbjAzZGVlaFEwRlY0Y3pocTVwczFkU2tWWnJ4ZS1hX2wwNjByRFlsVm5hOGEzM0ZubGg4alZ0MFVzLTVLbEhhd3g3T19uVWstQmtqWWJTQ3FxVmp0MG1fUVJNM0Fxd2xZMHVTLWVZZEpmYXROanB0NUR6dFU?oc=5",
-      "summary": "Japan's Miki House sets up global kidswear hub in Shenzhen&nbsp;&nbsp;Nikkei Asia",
-      "pub_raw": "Mon, 10 Aug 2026 21:58:00 GMT",
-      "pub_sort_dt": "2026-08-11 05:58:00"
-    },
-    {
       "source": "CNN",
       "title_en": "TikTok creator, who was harassed by trolls questioning her cancer battle, dies at 26 - CNN",
       "title_cn": "TikTok创始人去世，年仅26岁 - CNN",
@@ -259,6 +358,15 @@
       "summary": "TSMC takes rare step of teaming with Sony as Samsung, China rivals loom&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Mon, 10 Aug 2026 20:25:00 GMT",
       "pub_sort_dt": "2026-08-11 04:25:00"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "Video | Why does China want to complete this triangle? - The Economist",
+      "title_cn": "视频 |中国为什么要完成这个三角？ - 经济学人",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlS0Z3SWtidUVxTjdIYkJ4aXV0dkdaVDVtZ3BLZG8weUtOTlk4ZGVJdVktVlE4WWhLQ3FvS3J6aXFSYjBuUlI4emRKa2R6RXhKRWkzTVN1a1lkWHZjQkhYNlBn?oc=5",
+      "summary": "Video | Why does China want to complete this triangle?&nbsp;&nbsp;The Economist",
+      "pub_raw": "Mon, 10 Aug 2026 20:19:53 GMT",
+      "pub_sort_dt": "2026-08-11 04:19:53"
     },
     {
       "source": "Nikkei Asia",
@@ -388,30 +496,30 @@
     },
     {
       "source": "AP",
+      "title_en": "Chinese users of AI companions bereft after government tightens regulations - AP News",
+      "title_cn": "政府收紧监管后，中国人工智能伴侣用户失去了一切 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEQxanVDVmhMMGZEaUdxeXdFV3g2QThxUWpsQ0lPNjgyNnNOeVVpdU1Od2FOc3gxS29vV0MwaDRCMGdjR0VlWkJTWk5PLTR3X2pvVEhOOVF3NWFTMFcwQ19abjU3RkE0M1lCYldGTHZkTXFEclZyaVpRLTh2bDhzLUR0LUZ1T3AyU1V3RExWYXM0emxiWV96ckxWOFdZdmppNndDd05SQQ?oc=5",
+      "summary": "Chinese users of AI companions bereft after government tightens regulations&nbsp;&nbsp;AP News",
+      "pub_raw": "Mon, 10 Aug 2026 13:48:00 GMT",
+      "pub_sort_dt": "2026-08-10 21:48:00"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "China - The Economist",
+      "title_cn": "中国 - 经济学人",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRE5Ub0w4OE5zQzF3eUthbC1qYmhlUUNLcmYxbHdpSTlzMGFEQTFHZHN6aWZrYVhXSy15THJ3djFLV183SU1xWFowSy1sNzFoeHVhazFCMjZabTNhOE5HVWNMc1N4dS1mdy1yMTd0VGNZN3VmU1RYZXhrVjhUS21lUXlsNlB0c2xi?oc=5",
+      "summary": "China&nbsp;&nbsp;The Economist",
+      "pub_raw": "Mon, 10 Aug 2026 12:20:23 GMT",
+      "pub_sort_dt": "2026-08-10 20:20:23"
+    },
+    {
+      "source": "AP",
       "title_en": "Taiwan representative in Japan boycotts Nagasaki bombing anniversary ceremony over seating - AP News",
       "title_cn": "台湾驻日代表因座位问题抵制长崎原子弹爆炸周年纪念仪式 - 美联社",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTNVVTM4NWkyS01rdFlPUkk0V200QlR1a3F3RlN1d1hCdEdjVkRoN21DczRfVUdMQkUwal9fYzlUTm41Yk12eklmVVR0MkpUUWstc1FNVDVORWlkV2E3ZGE0RVJ5NUJoSDZKS2R5YlVCMnk4VGZBUEVMUG5Fdi1qQXZmLTQ2Sm5qeFBpZkN6RGRVN0ZZZmIyZHRrN2FtR0Z2YkFiVGplelNHM3BNNGc?oc=5",
       "summary": "Taiwan representative in Japan boycotts Nagasaki bombing anniversary ceremony over seating&nbsp;&nbsp;AP News",
       "pub_raw": "Mon, 10 Aug 2026 12:06:00 GMT",
       "pub_sort_dt": "2026-08-10 20:06:00"
-    },
-    {
-      "source": "CNBC",
-      "title_en": "‘The Infinity Machine' author Sebastian Mallaby on Google's AI team shake-up, concerns over rogue AI - CNBC",
-      "title_cn": "《无限机器》作者塞巴斯蒂安·马拉比谈谷歌人工智能团队重组以及对流氓人工智能的担忧 - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVDRQelB4VmRfYV9ERWVpZlFINmNQSXBodkR2SHktelQwUmxoYy02bmQwV3FfSXdpMkVzX290bEFXRmtCb2xsOXpQa05VcDc2SXh5SF9ISzdpbW52MDBuTUVWdnZGS3hXSmdqNmFlbVVyQmpSOVNzY2luQ25EcmZtN0haSkxsUk1QNk1iMTIyaHU0dEJLWEZ1dFZhTjNmU0p2dmFDS3REajNvZndHamRvalVsVkhURG5GVGk0QWlaWlFMTENSYVFBeFVVTVlFdldXY3BCMDZsQQ?oc=5",
-      "summary": "‘The Infinity Machine' author Sebastian Mallaby on Google's AI team shake-up, concerns over rogue AI&nbsp;&nbsp;CNBC",
-      "pub_raw": "Mon, 10 Aug 2026 11:50:59 GMT",
-      "pub_sort_dt": "2026-08-10 19:50:59"
-    },
-    {
-      "source": "AP",
-      "title_en": "Highlights from the election platforms of perennial British joke candidate Count Binface - AP News",
-      "title_cn": "英国常年笑话候选人宾菲斯伯爵的选举政纲亮点 - 美联社新闻",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWnNEYlhtc2VHSFhJSTQyY09ZQVZ0MUQ5dFVFNEZ6ZjRrM2x1VVhvUW5fTzZOOFZyZGMwbjFxenlqdEZOaE91dXdqZHhKSzRZQlh5dlVkTmRFaktiM0Zja20xaDZDSXZRb1JvRnNzV3ZIdWdfRXJKM1g3SEl3QkluVUxFYW9ab1R1U293dkx1bUlXdW9iTXF1X1VqVWhpbVYzX1licnRyZ1FHYk16Sndmdkw1QmRZWjQ?oc=5",
-      "summary": "Highlights from the election platforms of perennial British joke candidate Count Binface&nbsp;&nbsp;AP News",
-      "pub_raw": "Mon, 10 Aug 2026 11:50:00 GMT",
-      "pub_sort_dt": "2026-08-10 19:50:00"
     },
     {
       "source": "CNBC",
@@ -423,15 +531,6 @@
       "pub_sort_dt": "2026-08-10 19:45:46"
     },
     {
-      "source": "New York Times",
-      "title_en": "How Taiwan Simulated a Potential Chinese Attack - The New York Times",
-      "title_cn": "台湾如何模拟中国潜在的攻击 - 纽约时报中文网",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdTFmR1ZlODh1T0RKdUNJM1MyWGhBSTZEQUQwMDQtaHlaNjF2QUJmNzZ3RHo0WnBkVGNRdGVFLWlfVnFmTkVSeENsZTJneDVWMXFJVnNsb0ZQdGNOZmlueFBjZU9iSGQ5RklPM2pCSUFWZVpCN2RzMmFCSElNaWJYYXJDQi1FUklZVzROVlNkYk8?oc=5",
-      "summary": "How Taiwan Simulated a Potential Chinese Attack&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Mon, 10 Aug 2026 11:08:25 GMT",
-      "pub_sort_dt": "2026-08-10 19:08:25"
-    },
-    {
       "source": "CNBC",
       "title_en": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services - CNBC",
       "title_cn": "由于关税打击低价模式，Shein 面临生存威胁，将新的重点放在服务上 - CNBC",
@@ -441,22 +540,13 @@
       "pub_sort_dt": "2026-08-10 19:00:01"
     },
     {
-      "source": "CNN",
-      "title_en": "Threats from passengers on 2 planes prompts emergency responses - CNN",
-      "title_cn": "两架飞机上乘客发出的威胁促使紧急响应 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTVJpOVJRV1pORTUtd0s3ZUN3WEoxcHpJWlJTVndEQXduU01YNVp2VWYwV1BOOWJ6Y3Nxc0NfTEdEXzJCZ2REWVZ6N0NXa180cjc4bE8wZnUyNXhMcmtocUxwR05vSWpya094LVpyZW5PRzZIUHFhTU1rYk1zOGZTTkpn?oc=5",
-      "summary": "Threats from passengers on 2 planes prompts emergency responses&nbsp;&nbsp;CNN",
-      "pub_raw": "Mon, 10 Aug 2026 10:44:56 GMT",
-      "pub_sort_dt": "2026-08-10 18:44:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Key Republican urges US to stop any advanced chips from reaching sanctioned Chinese firms - Reuters",
-      "title_cn": "共和党领袖敦促美国阻止任何先进芯片进入受制裁的中国公司 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYVNnS0VwTFZ2OE9CVlZ5NkVxd18wQlpSN0MxOHBtTHZIOVpDdDd6RThJRFd4dUZmRWNicVgzeVdHdVROcHYyWFFqR3dZWGUteWNhbENKLVBsRXlpaExCS18wZ3FWVEhwZDIteHBuQ2R5SjFsam9RekJMRUc3YThFWFBrWTJKMUljTTJSSUVYck4wYTVtOThDOF9UTi0ycXlQMFc1MFJZMFA1Q2dweXVmZEFNZUw1RTFUamlIdkVGTlN4QzJJLVJV?oc=5",
-      "summary": "Key Republican urges US to stop any advanced chips from reaching sanctioned Chinese firms&nbsp;&nbsp;Reuters",
-      "pub_raw": "Mon, 10 Aug 2026 10:15:15 GMT",
-      "pub_sort_dt": "2026-08-10 18:15:15"
+      "source": "New York Times",
+      "title_en": "How Taiwan Simulated a Potential Chinese Attack - The New York Times",
+      "title_cn": "台湾如何模拟中国潜在的攻击 - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdTFmR1ZlODh1T0RKdUNJM1MyWGhBSTZEQUQwMDQtaHlaNjF2QUJmNzZ3RHo0WnBkVGNRdGVFLWlfVnFmTkVSeENsZTJneDVWMXFJVnNsb0ZQdGNOZmlueFBjZU9iSGQ5RklPM2pCSUFWZVpCN2RzMmFCSElNaWJYYXJDQi1FUklZVzROVlNkYk8?oc=5",
+      "summary": "How Taiwan Simulated a Potential Chinese Attack&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Mon, 10 Aug 2026 10:35:49 GMT",
+      "pub_sort_dt": "2026-08-10 18:35:49"
     },
     {
       "source": "BBC",
@@ -466,105 +556,6 @@
       "summary": "Typhoon Dolphin overturns lorry in China&nbsp;&nbsp;BBC",
       "pub_raw": "Mon, 10 Aug 2026 10:13:18 GMT",
       "pub_sort_dt": "2026-08-10 18:13:18"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "Chuqin Jiang — China researcher at The Wall Street Journal - WSJ",
-      "title_cn": "姜楚钦 — 《华尔街日报》中国研究员 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKQ1lzLXFxQjhJQjJKR2JubWxyVzdzTEtjS2N2QTE0LUIxU2tWM25NMDdnRkc0cFI0d3l3c055SXA0MG9vRkNEQVRYUnlVNjhUX3g5TXl4WQ?oc=5",
-      "summary": "Chuqin Jiang — China researcher at The Wall Street Journal&nbsp;&nbsp;WSJ",
-      "pub_raw": "Mon, 10 Aug 2026 09:52:20 GMT",
-      "pub_sort_dt": "2026-08-10 17:52:20"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "Under strAIn: breaking the British state - The Economist",
-      "title_cn": "压力之下：英国政府的崩溃 - 《经济学人》",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzFpMUxSZF9ONGlzX3Q0R0xtTjFVdHEwX01HWUdrYzl0RUJCN2JjNGN5MXg1NkdkZkVSdng3U2hDd2t6WHJsSWFESXlzOWVvWTlxZjRIa0dkRC1lQlJ4MUhvV1ZBYU5tRVJKa3dvdUIwTGM3ZkN6aTFEb2ZZYUlodU5YQ180UzNqQ0VkcWNn?oc=5",
-      "summary": "Under strAIn: breaking the British state&nbsp;&nbsp;The Economist",
-      "pub_raw": "Mon, 10 Aug 2026 09:36:39 GMT",
-      "pub_sort_dt": "2026-08-10 17:36:39"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "War Is Helping Chinese EVs Upend the Global Car Market - WSJ",
-      "title_cn": "战争正在帮助中国电动汽车颠覆全球汽车市场 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY0VYNHI0R1N6RUhRWGFRMlNDNGlickNVblpPX2hFbmdpd0dacEhrQ3hvYUJqYUt3OVhyUlEzT0VKRHF2S1dGUFc3N1hGZ1l5UHJoLUFKRnNMM3d3MUpWMURfRkNsMjNXQVQxUjdxRFR0NDE3TXEwWDFHZHlaTVJZNEtOQTBfeVhYYnJmaXVZUnRVbklDbzN5V1MxZDRPNzQ?oc=5",
-      "summary": "War Is Helping Chinese EVs Upend the Global Car Market&nbsp;&nbsp;WSJ",
-      "pub_raw": "Mon, 10 Aug 2026 09:30:00 GMT",
-      "pub_sort_dt": "2026-08-10 17:30:00"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "Marine heatwaves strike as climate change plays out ‘in front of our eyes’ - Financial Times",
-      "title_cn": "气候变化“在我们眼前”上演，海洋热浪来袭 - 英国《金融时报》",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVJIV0tyM1RaREgweFV1OHZualdFTzRGUjQ4UkY0b0lFRFRNLUR3eUJidkI5TldYNllmXy10MlBBaTZUYjItLXRqSVl3NWhaZC1QNnJpb0VfWmw1TFFzN2JFSFAwTHdHdUk2alF2Nk5TVG5NSFQ1Mldmd0MwclpWZ3hyYlQ?oc=5",
-      "summary": "Marine heatwaves strike as climate change plays out ‘in front of our eyes’&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Mon, 10 Aug 2026 08:46:53 GMT",
-      "pub_sort_dt": "2026-08-10 16:46:53"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "Why AI could threaten China’s regime - The Economist",
-      "title_cn": "为什么人工智能会威胁中国政权 - 《经济学人》",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeHZCd3ZFalRHYzFGXzV5SnFTeUhpMVI4WTVlTEpibGh2X0ZwZlhSZ0ZtZFZiZl9xckVWRENZeHZWQ2Z3M0V4QnZVTHZ3Y1pVenY3RkxGamR2eUtsdmZ6YkVLWk5nbXM4VnhEQW9SV3VUZGUzTGVSM3RDc000cnhHVlpTdHR1enBY?oc=5",
-      "summary": "Why AI could threaten China’s regime&nbsp;&nbsp;The Economist",
-      "pub_raw": "Mon, 10 Aug 2026 08:45:40 GMT",
-      "pub_sort_dt": "2026-08-10 16:45:40"
-    },
-    {
-      "source": "New York Times",
-      "title_en": "Video: Typhoon Dolphin Hits China - The New York Times",
-      "title_cn": "视频：台风海豚袭击中国 - 纽约时报中文网",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTU5JeWNfNG9RakRVcXZwQndGdXl4TzU4RVlmS0dTWVVUc2hPQ1o2UThXU3ZKbmxGaHpmdTFEQnBNeVU5QW1XTXBTdW40azlBQ3k3TjJIUWNBdmdMLTNUS01pZWVlaWtwS1dPdWk5TXpRQ0lzMlFvRHB2dTN5SElNTVZCTG5wUjZKM19UaXo2dEdXX1BHaDc2QjE0Q3RuTVRlUEdWUG1YMA?oc=5",
-      "summary": "Video: Typhoon Dolphin Hits China&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Mon, 10 Aug 2026 08:20:32 GMT",
-      "pub_sort_dt": "2026-08-10 16:20:32"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "The yuan is more than a symptom of global imbalances - The Economist",
-      "title_cn": "人民币不仅仅是全球失衡的一个症状——《经济学人》",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTl6SFp1VnBJQkR3dDk0RzJLUF9lRFZqRU15YWE4X3VKR0ZicENuUFRDR0lUYXVfdmlUdDhnYXlxLWkwN1pySVo4RzBpdGZHemw1ekl0VTdHWVVtMGpYclJUVlZYcnNGajFsUFdEeEQzcDZNVTBybmZURGh5UUVFdFNYenFYNDk0YjRMcFZFN21NX09FdTBhWnl2Wnh2eFBlQlYxTlRn?oc=5",
-      "summary": "The yuan is more than a symptom of global imbalances&nbsp;&nbsp;The Economist",
-      "pub_raw": "Mon, 10 Aug 2026 07:59:56 GMT",
-      "pub_sort_dt": "2026-08-10 15:59:56"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "Hong Kong’s plan to clear rural villages for a new gateway to China - Financial Times",
-      "title_cn": "香港计划清理农村，开辟通往中国的新门户 - 英国《金融时报》",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHZPY3RKVHJkd01HOGNZMVRlMkRDRS1yeTY1SFRNclktNDhSX0M2ZGs1b3lQS3pOSkxhQWYzYWJMeThnOWNVWTdFcVpsd1ozRGYwVWNmbEhsY0dHQWVCUUpqbWNzU1JSVUNjSG5fUE1FUGo0MEFLVHRmQVlPblVKc2hNMkI?oc=5",
-      "summary": "Hong Kong’s plan to clear rural villages for a new gateway to China&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Mon, 10 Aug 2026 07:57:31 GMT",
-      "pub_sort_dt": "2026-08-10 15:57:31"
-    },
-    {
-      "source": "AFP",
-      "title_en": "Chinese AI drives price competition among US labs - www-pp.afp.com",
-      "title_cn": "中国人工智能推动美国实验室之间的价格竞争 - www-pp.afp.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaG55bl9nVGpWSTZ2QlIyNTJYSjdoUXVDV1pmZTNabk9uNWJTVzZoTFJZcW5KYVhPQWd0SjRtWmY1TGg1MGUyb21sZFEzWmkxc1lmMFdsV2ZwUmFCYXdnMVJQMmZGcmNMNlE5MFYzLWc5SlRHQ3huWDVCR01TdVZBTQ?oc=5",
-      "summary": "Chinese AI drives price competition among US labs&nbsp;&nbsp;www-pp.afp.com",
-      "pub_raw": "Mon, 10 Aug 2026 07:39:49 GMT",
-      "pub_sort_dt": "2026-08-10 15:39:49"
-    },
-    {
-      "source": "BBC",
-      "title_en": "Typhoon Dolphin: China evacuates more than 1 million people as massive storm arrives - BBC",
-      "title_cn": "台风海豚：特大风暴袭来，中国疏散超过100万人 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uMTdDWXFkRzZtdGhxTkZHOS1FY3dTRWxLSEl2WEhITHdqWGdILV9qYndGbG84TEY3QXk1dlZ5bkZ3cExtQkRxbkVycnM3TWk1MVZOUEJuY2k4UQ?oc=5",
-      "summary": "Typhoon Dolphin: China evacuates more than 1 million people as massive storm arrives&nbsp;&nbsp;BBC",
-      "pub_raw": "Mon, 10 Aug 2026 07:23:54 GMT",
-      "pub_sort_dt": "2026-08-10 15:23:54"
-    },
-    {
-      "source": "DW",
-      "title_en": "China: Typhoon Dolphin prompts mass evacuation, canceled flights - DW - dw.com",
-      "title_cn": "中国：台风“海豚”促使大规模疏散，航班取消 - 德国之声 - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkgtSVhhVy1KcWNwTmZmMkFuUXhJZzk1QWpnNkNUTjVGSXdaWWl2SFhLaThPZ2k1VXdrQVdVLWlnUll5VUNQVExSeWo1UnRBQzctbWtJWjgzTWFjS0lyM01fVE9uVW9DUVZCQkIwbFdObGZtM2pXSFJBdVBhTmhRazNxWElobWw4Mkx4d0pFenFHV2loZllKSnFmMGZDMnY4eGlhNHp3OUJiYmx6cXJBM3FCTm1aMGJfNDdSZ3Vmcnk?oc=5",
-      "summary": "China: Typhoon Dolphin prompts mass evacuation, canceled flights - DW&nbsp;&nbsp;dw.com",
-      "pub_raw": "Mon, 10 Aug 2026 07:18:03 GMT",
-      "pub_sort_dt": "2026-08-10 15:18:03"
     }
   ]
 }
