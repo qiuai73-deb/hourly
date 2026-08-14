@@ -1,6 +1,6 @@
 {
-  "update_cst": "2026-08-14 12:01:42 北京时间",
-  "total_count": 62,
+  "update_cst": "2026-08-14 18:01:47 北京时间",
+  "total_count": 60,
   "source_stat": {
     "Reuters": 5,
     "Bloomberg": 5,
@@ -11,20 +11,28 @@
     "CNBC": 5,
     "New York Times": 5,
     "CNN": 5,
-    "AFP": 2,
     "The Economist": 5,
     "BBC": 5,
     "DW": 5
   },
   "news": [
     {
+      "source": "Wall Street Journal",
+      "title_en": "White House Says China Avoids Billions in Tariffs by Rerouting Goods - WSJ",
+      "title_cn": "白宫称中国通过改变货物路线避免了数十亿美元的关税 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTl9rN1VFalExV3BseFRBRGFjZjJBVzJOejAxSURNakZNankwNF9QcTVVbmhDbFp2Q0xaQW4xdFR6Y21hVnZzUUZjZGN0djMzU0QtQlNScmZTVnNIRFZIWHM3aXhTaEwwa1QwMlBHR1VfM0FJamU2QlUxYlo1RXlYU1R2c3JpT3FvOEZkZ1VPekZjOHdDcFhCcWt2d0FlT0VrSTBqeVhqY1hadjUwT01TeA?oc=5",
+      "summary": "White House Says China Avoids Billions in Tariffs by Rerouting Goods&nbsp;&nbsp;WSJ",
+      "pub_raw": "Fri, 14 Aug 2026 09:41:00 GMT",
+      "pub_sort_dt": "2026-08-14 17:41:00"
+    },
+    {
       "source": "The Economist",
       "title_en": "World in Brief: America accuses China of evading tariffs; Israel removes settlers from West Bank - The Economist",
       "title_cn": "世界简报：美国指责中国逃避关税；以色列从约旦河西岸撤走定居者 - 经济学人",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVhhbmFSZXp5TDlTWDdCcXJzcFlnaS1YRkgyR0k3bFRKaGJtM0E3clRDdm01YlFZZTBvSGxWSzBubUlrLTFkVG9vQUE2bjNmajNYazRiU004U1pkYTlZdlJYdGNFb29qNzFtOW5fQVU3QkhYdkZYOUFUZzEyM3o4cGtTYXktNWRyQjRFMkliaXdicVhtcVhr?oc=5",
       "summary": "World in Brief: America accuses China of evading tariffs; Israel removes settlers from West Bank&nbsp;&nbsp;The Economist",
-      "pub_raw": "Fri, 14 Aug 2026 03:19:28 GMT",
-      "pub_sort_dt": "2026-08-14 11:19:28"
+      "pub_raw": "Fri, 14 Aug 2026 08:51:36 GMT",
+      "pub_sort_dt": "2026-08-14 16:51:36"
     },
     {
       "source": "BBC",
@@ -32,17 +40,188 @@
       "title_cn": "美国称数十个国家帮助中国规避特朗普关税 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DclM2LWN1ZC1mSFNkWFh4Qkh2YlFuVG1VYkdLYWpJUnZUQnVReGU4NV82UTRua1F4bHZiVjNOQ3A0VE9FTWJTZC1NZUNfdHQ0QmFjdzJWX3Nadw?oc=5",
       "summary": "US says dozens of countries helped China dodge Trump's tariffs&nbsp;&nbsp;BBC",
-      "pub_raw": "Fri, 14 Aug 2026 03:09:48 GMT",
-      "pub_sort_dt": "2026-08-14 11:09:48"
+      "pub_raw": "Fri, 14 Aug 2026 08:39:46 GMT",
+      "pub_sort_dt": "2026-08-14 16:39:46"
     },
     {
       "source": "Financial Times",
-      "title_en": "AI frenzy drives Chinese tech valuations to multiples of US peers - Financial Times",
-      "title_cn": "人工智能热潮推动中国科技公司估值达到美国同行的数倍 - 英国《金融时报》",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPckgxeTY2WGM0YVJoRWthUXBhWjFxbmRJemNYXzFRZm1iZmhJYTZxczNLQlJTTlo3NFhrR0QzeHpjUjJpZXdkSFVGcEh2d3hvdFlUanNEZE4xSXlzV1lGaVlKUFRVN28wUDNsVHJEMXZ2VG5GVmdzczM2aVIyekplNDN1UWo?oc=5",
-      "summary": "AI frenzy drives Chinese tech valuations to multiples of US peers&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Fri, 14 Aug 2026 01:44:11 GMT",
-      "pub_sort_dt": "2026-08-14 09:44:11"
+      "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times",
+      "title_cn": "随着中国人工智能竞争对手取得进展，OpenAI 和 Anthropic 展开价格战 - 英国《金融时报》",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5",
+      "summary": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Fri, 14 Aug 2026 07:52:56 GMT",
+      "pub_sort_dt": "2026-08-14 15:52:56"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Chinese car sales are booming almost everywhere - just not at home - Reuters",
+      "title_cn": "中国汽车销售几乎在所有地方都在蓬勃发展，但在国内除外 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUEFNZjJjbVlyWTFSdGhZa2JPSGREemc5MUlBSGxtVnZ2U2lrVjV4Wk5Jblg1VVB5OWhFY1hTRGU5Q2tBMUVCXzQ1ZHlNNmMzWlM2RjBRLVliaGNkdklPa3F3U01OUGxlTWNwTmc0bVNzRGJ1d3ZrZHZUaTVNRjBYaTQ3Q0tvcHl2a1VWVV9MeV95S3NEajREQVRDY2VmalRMY2xLMWdILXJQUGtZQjk5dGNWWDN3dmNNZVFoNFd4aHBRVkNFRXc?oc=5",
+      "summary": "Chinese car sales are booming almost everywhere - just not at home&nbsp;&nbsp;Reuters",
+      "pub_raw": "Fri, 14 Aug 2026 06:31:00 GMT",
+      "pub_sort_dt": "2026-08-14 14:31:00"
+    },
+    {
+      "source": "AP",
+      "title_en": "Associated Press News: Breaking News | Latest News Today - AP News",
+      "title_cn": "美联社新闻：突发新闻|今日最新新闻 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+      "summary": "Associated Press News: Breaking News | Latest News Today&nbsp;&nbsp;AP News",
+      "pub_raw": "Fri, 14 Aug 2026 05:49:33 GMT",
+      "pub_sort_dt": "2026-08-14 13:49:33"
+    },
+    {
+      "source": "DW",
+      "title_en": "The EU’s $2 Trillion Taiwan Problem - dw.com",
+      "title_cn": "欧盟价值2万亿美元的台湾问题 - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13cGdEaWgyamwyTk9UcVl6S0psVURDRU8ta3N4SHRiMjdjMGxubHJxVVktUi1Qak9LcVJBRktwTENIZE9vYVNFaEZxVjJNQjJELTJ1NmJ4MUdXODUtb25NSVJ3TjlxejJlZHd4bDh6RldpdDlxeUlQYVdR?oc=5",
+      "summary": "The EU’s $2 Trillion Taiwan Problem&nbsp;&nbsp;dw.com",
+      "pub_raw": "Fri, 14 Aug 2026 05:25:57 GMT",
+      "pub_sort_dt": "2026-08-14 13:25:57"
+    },
+    {
+      "source": "BBC",
+      "title_en": "Victims call for sex attackers to be excluded from early release plans - BBC",
+      "title_cn": "受害者呼吁将性侵犯者排除在提前释放计划之外 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCV241UWxOQjFXSUNKbkFYVjRtN0NCRFVvWW1RQnYxblFBa3V4QlBQOEJrUDI5d3FYSjNmTUJwNkpsQ2ZmSVBFTzE0eUt0VFdWU2x6aVNzUDhHZw?oc=5",
+      "summary": "Victims call for sex attackers to be excluded from early release plans&nbsp;&nbsp;BBC",
+      "pub_raw": "Fri, 14 Aug 2026 05:16:03 GMT",
+      "pub_sort_dt": "2026-08-14 13:16:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Slaps 100% Tariffs on Drones, Deepening China Supply Rift - bloomberg.com",
+      "title_cn": "特朗普对无人机征收 100% 关税，加剧中国供应缺口 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVEc3Ml8wUHJHSzgwU0dza1dfRkJQSVdKZjBQZnBsSDdfcDNhMmZjY2ZDQjU0d2dSS2Y1R2tfOWVHUnRkaVhIWTFfSUNZMkRCQUUySUFjaDJPUTRxVVZDVW1CeEhUQWktWi1lc19ITFdlTGpLQUJ3VHhWLVhyMGN4NXQ3QWRhX2sxZ29VWXVOUTYtYk82OWpkRXpFWGpSa21aYkZ1T3l4S004bEZDZDRfVw?oc=5",
+      "summary": "Trump Slaps 100% Tariffs on Drones, Deepening China Supply Rift&nbsp;&nbsp;bloomberg.com",
+      "pub_raw": "Fri, 14 Aug 2026 05:16:00 GMT",
+      "pub_sort_dt": "2026-08-14 13:16:00"
+    },
+    {
+      "source": "BBC",
+      "title_en": "Ice cream man hit with noise complaint over van's music - BBC",
+      "title_cn": "冰淇淋店老板因面包车音乐噪音而被投诉 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iODJlWjJtTjBqYVhtVEVFSzhrQkh3cmFYQ09nZWdEVnk5RnNVM0ZFTThlVkhsTUd2cU1TSUgxX1FUSTZlUHFiSURVU3pKbmhCeHpfYlpjWFAxQQ?oc=5",
+      "summary": "Ice cream man hit with noise complaint over van's music&nbsp;&nbsp;BBC",
+      "pub_raw": "Fri, 14 Aug 2026 05:07:43 GMT",
+      "pub_sort_dt": "2026-08-14 13:07:43"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "Shares of China’s JD.com slide after rare revenue plunge - Financial Times",
+      "title_cn": "收入罕见暴跌后，中国京东股价下跌 - 英国《金融时报》",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnhidEdCQXozc0lOZE9VVS1oaE9WUThPSi1IODBQVTJtMzJVRkRfOUcweXBaZ01FX1VULWJXS0JrUUpMUmNFbzdsMHM5T0UyZ3ZLVEwyWkd0S2ctRHJEcU1EOEJjSXRVamYwSmVyamc4ZGF2RkJIU0Npdmp6WUs5bzdGRUI?oc=5",
+      "summary": "Shares of China’s JD.com slide after rare revenue plunge&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Fri, 14 Aug 2026 05:04:18 GMT",
+      "pub_sort_dt": "2026-08-14 13:04:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "China Calls New Zealand a ‘Pawn’ After Espionage Accusation - bloomberg.com",
+      "title_cn": "间谍指控后中国称新西兰为“棋子” - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZFVJbkU3enphZ1cxajFCZ1BsYk40eDFFcGVmZWFXbW12eE5SeFhZZ1QzUi1JbzhRN3VyQmEwLW9XamZtZ29sYUdjRFhNNkZ5Mmo4YUdxMkxCY3E0RnlNQk1xS3pEcWQ1V1NMYVVXdDlaankwYVctWFI3TU9pYWpySDJRSHZzdnBzb2U4QTlpMU5paE5fUW53TG1CdWZKYnBEaTJhQlQyMGhnODZ2?oc=5",
+      "summary": "China Calls New Zealand a ‘Pawn’ After Espionage Accusation&nbsp;&nbsp;bloomberg.com",
+      "pub_raw": "Fri, 14 Aug 2026 04:57:00 GMT",
+      "pub_sort_dt": "2026-08-14 12:57:00"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "Trump Announces Drone Tariffs to Bolster U.S. Supply Chains and Counter China - WSJ",
+      "title_cn": "特朗普宣布征收无人机关税以加强美国供应链并对抗中国 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONVF4NmtNTmNvQVQ2T3FPUF9zWUtHT09QSlNtSi1tWmFwUXNTWHRQeUxiMGh2LVo1cHVFaDg1RkVFVHdtMGppeVVyOXo0RHBYaGE5alNVbnFsSlhFVXZqRFZYZEpBLW5xc3A2Y01RTjZScDNjaDEtVkZzSDdibDF2S1RiakUyRmptVFI4eXFJM2lXTUY3Vm5MLTZvRl9jSHN3OFlDY0llSGloNDRDUGxGLUF3VTBGbDJDY1pGZy1qZnpWUnJnTnc?oc=5",
+      "summary": "Trump Announces Drone Tariffs to Bolster U.S. Supply Chains and Counter China&nbsp;&nbsp;WSJ",
+      "pub_raw": "Fri, 14 Aug 2026 04:41:00 GMT",
+      "pub_sort_dt": "2026-08-14 12:41:00"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "DeepSeek Lifts AI Model Prices Fourfold - WSJ",
+      "title_cn": "DeepSeek 将人工智能模型价格提升四倍 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0hZUGVrZmdGTmVpTkVseXpHNzFmZ1cxaUdrT0I0Q1ZVYjFlVnZPdDFUZkV4RWdjMEpoUGxyQ0xEeHJ2VWVKZ0ZLZHc4bURlcEJyVWpUaWZXT0xqR3ljTmZXLXJjZ3FDaHFmRkVkanF1MHhRTlU3dTRtLWxJbDBFVTVB?oc=5",
+      "summary": "DeepSeek Lifts AI Model Prices Fourfold&nbsp;&nbsp;WSJ",
+      "pub_raw": "Fri, 14 Aug 2026 04:36:00 GMT",
+      "pub_sort_dt": "2026-08-14 12:36:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say - Reuters",
+      "title_cn": "独家：消息人士称，苹果在阿里巴巴的支持下为中国市场训练自己的人工智能模型 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5",
+      "summary": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say&nbsp;&nbsp;Reuters",
+      "pub_raw": "Fri, 14 Aug 2026 04:21:00 GMT",
+      "pub_sort_dt": "2026-08-14 12:21:00"
+    },
+    {
+      "source": "CNN",
+      "title_en": "How an icy shipping route at the top of the world is bringing China and Russia together - CNN",
+      "title_cn": "世界之巅的冰冷航线如何将中国和俄罗斯联系在一起 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOS1kY2RvY2NJdGk2ajdZMjJMSG1PMHo0UjN5eVpwZnJuWWU2bTJ5RGktSUFjRjBKMWpVbkgyOWsxaFJtVGxMQl96MUpyZnc5MFlnazVZZE5JdG9GVnZYa2YxeXFuOUd4OTdwdTBXNENTMTVnb1h6aFNwemhMZVpseFEzSHU2ODdtQTBMQ3dfNDZQcllhc3Fr?oc=5",
+      "summary": "How an icy shipping route at the top of the world is bringing China and Russia together&nbsp;&nbsp;CNN",
+      "pub_raw": "Fri, 14 Aug 2026 04:01:29 GMT",
+      "pub_sort_dt": "2026-08-14 12:01:29"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "China Tech Earnings Renew Focus on Hardware Stocks Over Internet - bloomberg.com",
+      "title_cn": "中国科技股财报重新聚焦互联网硬件股 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdHF6WWp6eWI1NTRXM0p6MDh6TGpHaW5lNkVpbmYzVl83eXlmek5OWElmTjRES3lKTS01ZTdITklrZkJCVXJYYUVsSjFjS1RTczBBc0RXVVZPdVVvbEV0Y3NDWHg1bVBsTEpIajJvNTdrYk4zZGpESEtRc0Z3dk8yY0k2aGxOUWFVVjRjSmFBMWNtUk93aElCdFJWSF9DVzE1MFZqN2hrcTZSYlJLenJKYkx1S1I0QQ?oc=5",
+      "summary": "China Tech Earnings Renew Focus on Hardware Stocks Over Internet&nbsp;&nbsp;bloomberg.com",
+      "pub_raw": "Fri, 14 Aug 2026 03:54:00 GMT",
+      "pub_sort_dt": "2026-08-14 11:54:00"
+    },
+    {
+      "source": "AP",
+      "title_en": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill - AP News",
+      "title_cn": "作为防御演习的一部分，台湾将其移动互联网速度短暂减慢至纯文本速度 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmlmZ0lFTDZodTVzOGx0alVzcVp3eWJaci1XWjlSbmRGOFlyRHJpUU1MakVOc2xReVhacm8tSlczVy0zS19Tam5nUjdpM1BzRUNGaUhxVXcxSF9xYmxVVExZLXFITUg3RWlSVDF6eDluRHFJOHdhZk4xbEpLcVEzcmdCTWJOZ3FoVzdpRm15R0NuQmtZdFg0cThLWnNBZm43NUhHZFNLZ0x1ekxKZkUtTzRKM0s?oc=5",
+      "summary": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill&nbsp;&nbsp;AP News",
+      "pub_raw": "Fri, 14 Aug 2026 03:36:00 GMT",
+      "pub_sort_dt": "2026-08-14 11:36:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Chinese chipmaker SMIC increases prices on strong AI demand - Reuters",
+      "title_cn": "中国芯片制造商中芯国际因强劲的人工智能需求而提高价格 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckEwZzMtQ1lJZW1sR3ZnSmxxQ3BjM3phX21WczRwbWxWZ1UtY1kzTXJKcXJGVnBaOFF4XzFrSEJfZUtTTVFJMVNpU1pnVm1mb1dWb0RHN1FKSkNNWlF6eW12NmFBU1Vwazg5UzJMdlloUkFmaFhiYzdJOWZ0YXo2dFFqTGRlUXZqeVF3Z0VHdDVadU5xZkVFam1nZkxIbFZacXE4YXdTTQ?oc=5",
+      "summary": "Chinese chipmaker SMIC increases prices on strong AI demand&nbsp;&nbsp;Reuters",
+      "pub_raw": "Fri, 14 Aug 2026 03:09:00 GMT",
+      "pub_sort_dt": "2026-08-14 11:09:00"
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "India's battery materials bet races ahead of lithium cell making plans - Nikkei Asia",
+      "title_cn": "印度电池材料抢占锂电池制造计划 - 日经亚洲",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbkZZU2M4TUQ4LTUwMXZfR203U0k2LUdXeTFqcTUtdG9IMFNrM2d0cFAtWHBlSUtnN2xGOVZKLWFGZHlES1laR3I3dVBMdzR0TmI3NXVsVHh6RjNxRjl4aEhZYkxiS0lWOF81c2NFYTZRdml4blpYaUhTZWlhT1R4NXhfNVRfOTlMb1lzeHJTY24tcklZdldBcG93R3NZU2ljRlpEVFFZVU5JVF8wZDFLT2hDVQ?oc=5",
+      "summary": "India's battery materials bet races ahead of lithium cell making plans&nbsp;&nbsp;Nikkei Asia",
+      "pub_raw": "Fri, 14 Aug 2026 03:00:00 GMT",
+      "pub_sort_dt": "2026-08-14 11:00:00"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "Explainers | Latest news and analysis from The Economist - The Economist",
+      "title_cn": "解释者| 《经济学人》的最新新闻和分析 - 《经济学人》",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTTNHZzlEcXA4TTExYTBPT3ZiRWR4WV9WQ3hEWHdQTjNqcDJfSnIxY2lpRFpLcVRKcU1JcVJIb0Vkb3hNQk5kZXBiN3VfNDk1S0NvSnRKNUlZS2NqbmpJWjFmZnU3ZmlvaFZTTTNKUVF6VHMzbVFQeVROU1dGZ3FzYzlIaE9BbTBTTUNjY044bmp2ajUtOGtSaFkzS3NhZlE?oc=5",
+      "summary": "Explainers | Latest news and analysis from The Economist&nbsp;&nbsp;The Economist",
+      "pub_raw": "Fri, 14 Aug 2026 02:52:34 GMT",
+      "pub_sort_dt": "2026-08-14 10:52:34"
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "US claims China-led 'Great Transshipment Scam' costs it billions - Nikkei Asia",
+      "title_cn": "美国声称中国主导的“大转运骗局”造成数十亿美元损失 - 日经亚洲",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXJTU3pFNmxfSFlqTGs4M3J6aEhQMTZKTzY2dDVYOXlEZXVnVzBBWmdMVHU1cUFuSXktTXFBZFBWb3V6cnh1X0RBS2VtQk1DaGk1ZVRGZGVoUS1nQTQzc2RDcFdWVkVfVGdUSkRTRHhQa3Brc0wwZ0RtS0RrcHB2U25QOWU4NC13M2VJVmlPNWVhektwVTctMGhVWDJIR1hNUk5ycFBBYmNMZmlpSm54SnFNRkFxQV9J?oc=5",
+      "summary": "US claims China-led 'Great Transshipment Scam' costs it billions&nbsp;&nbsp;Nikkei Asia",
+      "pub_raw": "Fri, 14 Aug 2026 02:00:00 GMT",
+      "pub_sort_dt": "2026-08-14 10:00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "China’s High-Tech Boom Seen Failing to Halt Slowdown of Economy - bloomberg.com",
+      "title_cn": "中国高科技繁荣未能阻止经济放缓 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdTVqSk1WenVOT2xLSDZINFExcE1BZ2Faektlam5uakR1ZmlHNVltdnVYblByY3R3QVdhSno3OWdNRUNlUENfUHRPU2xTZ0pwM3BNdGpkbGpuS2tsSk1HU2E2MnVtek81ZDRMWW1uU3ZvcjB2UklYdU1faEQ2MHhCOEczeThmM1hQYll1WlhBYUFFNEk5czJzaWlSZG95QUZDTnIwNE9lNFFvS29MbWhHelk1WFI?oc=5",
+      "summary": "China’s High-Tech Boom Seen Failing to Halt Slowdown of Economy&nbsp;&nbsp;bloomberg.com",
+      "pub_raw": "Fri, 14 Aug 2026 01:30:00 GMT",
+      "pub_sort_dt": "2026-08-14 09:30:00"
     },
     {
       "source": "Reuters",
@@ -81,6 +260,33 @@
       "pub_sort_dt": "2026-08-14 08:09:00"
     },
     {
+      "source": "Bloomberg",
+      "title_en": "Why Chinese Citizens Are Far More Optimistic About AI Than Americans - bloomberg.com",
+      "title_cn": "为什么中国公民对人工智能比美国人更乐观 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNczJVZGRBZVpxSHVNRVliczloZWVVb3NfN1lZZXZFR21lN294V3pLVjdaRzZtT1J2SmN2ZnlaMGZfLUprZGQ4c2IyY0ktWlRxMElIM0tVUTIxb05LbGJMRml3TUExMXUzX0ZLanVEbEJSc2otU0k5bUZMajA2UUI4YzFpaUlRSmRvTUlPRHgzQW9yTlk3N0l1cFZCN2x0a2hHUzBYM2xZUXA?oc=5",
+      "summary": "Why Chinese Citizens Are Far More Optimistic About AI Than Americans&nbsp;&nbsp;bloomberg.com",
+      "pub_raw": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "pub_sort_dt": "2026-08-14 08:00:00"
+    },
+    {
+      "source": "CNN",
+      "title_en": "Who could replace Karoline Leavitt as White House press secretary? - CNN",
+      "title_cn": "谁可以取代卡罗琳·莱维特担任白宫新闻秘书？ - 美国有线电视新闻网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnR6MVJnbXhtVUJmWmRVdTB2d3ZXaWtpUUpqSGlVbzhnOFd3OWdGdEV0eEpCVzNlX2N2S2UxX0dMS2dtRWZGQWY5VDVzX0EtaHlIVkhKMml4aHliUjRoUGhQekhHQmpoRUZ6MzAzQVhWNFE0c0tHSXdpLTVic2pJQ1drQ2U5dw?oc=5",
+      "summary": "Who could replace Karoline Leavitt as White House press secretary?&nbsp;&nbsp;CNN",
+      "pub_raw": "Thu, 13 Aug 2026 23:50:48 GMT",
+      "pub_sort_dt": "2026-08-14 07:50:48"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Iran war a boon for China's e-trucks, fuelling export surge - Reuters",
+      "title_cn": "伊朗战争为中国电动卡车带来福音，推动出口激增 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVEwN3ZXeTQ5RmxKUlJScTRsa1FpNGJCaGVfR1dkMDJMVkZnenFHUDcxVjdmbVk2ajJaaWxlTDZ3SkVZd1hLdG9yenk0X0hyb01wMXpxQ1JEbklIR3d1cVdtbVdETXNhRy1NQUhJSVpYa05vOEc4emFqc1R0eUNOWDhCYmlxaThjTm5TaDV2RmZaeWk4VlBINmM0UWVlaV9MSTRZc0xkQTZ4QQ?oc=5",
+      "summary": "Iran war a boon for China's e-trucks, fuelling export surge&nbsp;&nbsp;Reuters",
+      "pub_raw": "Thu, 13 Aug 2026 23:02:00 GMT",
+      "pub_sort_dt": "2026-08-14 07:02:00"
+    },
+    {
       "source": "Nikkei Asia",
       "title_en": "Applied Materials projects China revenue to grow in 2026 despite US curbs - Nikkei Asia",
       "title_cn": "应用材料公司预计，尽管美国采取限制措施，2026 年中国收入仍将增长 - 日经亚洲",
@@ -88,15 +294,6 @@
       "summary": "Applied Materials projects China revenue to grow in 2026 despite US curbs&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Thu, 13 Aug 2026 22:37:00 GMT",
       "pub_sort_dt": "2026-08-14 06:37:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Imposes 100% Tariffs on Some Drones, Countering China - Bloomberg.com",
-      "title_cn": "特朗普对部分无人机征收 100% 关税，对抗中国 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVEc3Ml8wUHJHSzgwU0dza1dfRkJQSVdKZjBQZnBsSDdfcDNhMmZjY2ZDQjU0d2dSS2Y1R2tfOWVHUnRkaVhIWTFfSUNZMkRCQUUySUFjaDJPUTRxVVZDVW1CeEhUQWktWi1lc19ITFdlTGpLQUJ3VHhWLVhyMGN4NXQ3QWRhX2sxZ29VWXVOUTYtYk82OWpkRXpFWGpSa21aYkZ1T3l4S004bEZDZDRfVw?oc=5",
-      "summary": "Trump Imposes 100% Tariffs on Some Drones, Countering China&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Thu, 13 Aug 2026 22:34:58 GMT",
-      "pub_sort_dt": "2026-08-14 06:34:58"
     },
     {
       "source": "AP",
@@ -117,15 +314,6 @@
       "pub_sort_dt": "2026-08-14 06:13:48"
     },
     {
-      "source": "BBC",
-      "title_en": "Victims call for sex attackers to be excluded from early release plans - BBC",
-      "title_cn": "受害者呼吁将性侵犯者排除在提前释放计划之外 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCV241UWxOQjFXSUNKbkFYVjRtN0NCRFVvWW1RQnYxblFBa3V4QlBQOEJrUDI5d3FYSjNmTUJwNkpsQ2ZmSVBFTzE0eUt0VFdWU2x6aVNzUDhHZw?oc=5",
-      "summary": "Victims call for sex attackers to be excluded from early release plans&nbsp;&nbsp;BBC",
-      "pub_raw": "Thu, 13 Aug 2026 22:07:01 GMT",
-      "pub_sort_dt": "2026-08-14 06:07:01"
-    },
-    {
       "source": "New York Times",
       "title_en": "Homeland Security Paid $464 Million for Airplanes. Then It Parked Them. - The New York Times",
       "title_cn": "国土安全部支付了 4.64 亿美元购买飞机。然后它把他们停了下来。 - 纽约时报",
@@ -135,11 +323,20 @@
       "pub_sort_dt": "2026-08-14 06:04:20"
     },
     {
+      "source": "CNN",
+      "title_en": "The Dodgers are playing a different game than the rest of MLB. Their philosophy could shape baseball’s future - CNN",
+      "title_cn": "道奇队正在打一场与美国职业棒球大联盟其他球队不同的比赛。他们的理念可能塑造棒球的未来 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzVPNHBQQzNlc0RwU1NGMUhMeWE5LTIwdkgybWVvNmhnZUtiUFRhZDd6dC1XY3dmbDBMUFN3M0NpTWNlSmJZZU1Hd2hpSk8yWFZLS0g0S2t0SGdYdWVNSWVFUHU5QjEzejdxWmUtcTA2a2w0TkpQZFJQT1MwdzlPRHJCY0tDTUQ5T0VleC1fQzI?oc=5",
+      "summary": "The Dodgers are playing a different game than the rest of MLB. Their philosophy could shape baseball’s future&nbsp;&nbsp;CNN",
+      "pub_raw": "Thu, 13 Aug 2026 21:41:15 GMT",
+      "pub_sort_dt": "2026-08-14 05:41:15"
+    },
+    {
       "source": "DW",
-      "title_en": "Romania shuts nuclear plant, Hungary dams dry Danube River - DW.com",
-      "title_cn": "罗马尼亚关闭核电站，匈牙利筑坝干涸多瑙河 - DW.com",
+      "title_en": "Romania shuts nuclear plant, Hungary dams dry Danube River - dw.com",
+      "title_cn": "罗马尼亚关闭核电站，匈牙利筑坝干涸多瑙河 - dw.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON19PRDRLRldsYnB3bXdSTGJ2enl1RC03a0dIcmk3MHVjTGlhMTM3ZXA5RTZtb0N3djFtOXNsRFNlT0lfbXhEYkVRV0poMHVGLVY3bTQ4bXc2N043a1ZKaHpORHNzQnRFQ3BqazZ1RW5xOGlBYVp2WFpFY3h3ejNHb2d6UXZrcG5SNE9ESmUyNm1veDJi0gGUAUFVX3lxTE43X09ENEtGV2xicHdtd1JMYnZ6eXVELTdrR0hyaTcwdWNMaWExMzdlcDlFNm1vQ3d2MW05c2xEU2VPSV9teERiRVFXSmgwdUYtVjdtNDhtdzY3TjdrVkpoek5Ec3NCdEVDcGprNnVFbnE4aUFhWnZYWkVjeHd6M0dvZ3pRdmtwblI0T0RKZTI2bW94MmI?oc=5",
-      "summary": "Romania shuts nuclear plant, Hungary dams dry Danube River&nbsp;&nbsp;DW.com",
+      "summary": "Romania shuts nuclear plant, Hungary dams dry Danube River&nbsp;&nbsp;dw.com",
       "pub_raw": "Thu, 13 Aug 2026 21:24:27 GMT",
       "pub_sort_dt": "2026-08-14 05:24:27"
     },
@@ -171,31 +368,13 @@
       "pub_sort_dt": "2026-08-14 04:29:00"
     },
     {
-      "source": "BBC",
-      "title_en": "Michael Ryan: Family of Irish plane crash victim awarded $29m in damages - BBC",
-      "title_cn": "迈克尔·瑞安：爱尔兰空难受害者家属获赔 2900 万美元 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vdlh4cEdTZDhtUXBiaU9TX2lsdGVNNDBpa1p3YmlwZ1hBOWJRc1dIUERRQUdZR3paNW1YSEJQNFFlZ195QXJwZDhOUWRSZjV0QkJRcVFXOUVjQQ?oc=5",
-      "summary": "Michael Ryan: Family of Irish plane crash victim awarded $29m in damages&nbsp;&nbsp;BBC",
-      "pub_raw": "Thu, 13 Aug 2026 19:08:49 GMT",
-      "pub_sort_dt": "2026-08-14 03:08:49"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling - Reuters",
-      "title_cn": "Shein 在关键电子商务裁决中输掉了针对竞争对手 Temu 的英国版权诉讼 - 路透",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFdCWm05MXVPcGVJM0JLeGszcGJsdVM0aUZIUEladkFoRzAtR25qdlpiVzkzaGIzUXREaVZ5cUt0aElmVUl1UEdmeU1yZjJLUmlxNXJ5RmRvQzZrYnZyOFhDUDVkUEhPb2FpY0p4RFV1X0RDVDFwS3FidXRXODJjdUpnbGN4X0pINk1mT0xHMm0wbi1kbmVtSkRQUWN1TVVrYXljN3FScVFxR1NpSE1oT05Ua2c?oc=5",
-      "summary": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling&nbsp;&nbsp;Reuters",
-      "pub_raw": "Thu, 13 Aug 2026 18:45:23 GMT",
-      "pub_sort_dt": "2026-08-14 02:45:23"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "How Much Longer Can China Afford Cheap AI? - Bloomberg.com",
-      "title_cn": "中国还能承受廉价人工智能多久？ - 彭博社",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV2JIby03ZWpVejFsY2paOTRtb2tOV0l3T0ZpWHpIdnFPUU16WkhsT3E4RC1jNHJvZXJvYnQ1M2NUY3NJc21ZeUdXb3hPYmo3Q1VJVlBrZVMya1pGeUdiVjJnc09ya0tjMmNPdDdqMjRpeVFOc2pkeDhKZFgycmYxOUJsVFdscVh2YWY1LUxfLWh1Sm1pSjZLRUhkOA?oc=5",
-      "summary": "How Much Longer Can China Afford Cheap AI?&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Thu, 13 Aug 2026 18:00:17 GMT",
-      "pub_sort_dt": "2026-08-14 02:00:17"
+      "source": "CNN",
+      "title_en": "Why officials decided to smuggle Trump out of Turkey with a catering truck and a secret plane - CNN",
+      "title_cn": "为什么官员决定用一辆餐饮卡车和一架秘密飞机将特朗普偷运出土耳其 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGOVNoemlYaXBzTUVMNUxwNnN3VEdWcnVSMVZRRC1oS3NzUkt6Uk1MU0Utb2Y1TnpRNHYtM3FuUWRoS041RDE4UTRNM0VzS01zYktKUzJCRGtmRmpmekVvSTZGSHZ3bGplZm9PN3BKLVlfdw?oc=5",
+      "summary": "Why officials decided to smuggle Trump out of Turkey with a catering truck and a secret plane&nbsp;&nbsp;CNN",
+      "pub_raw": "Thu, 13 Aug 2026 19:31:35 GMT",
+      "pub_sort_dt": "2026-08-14 03:31:35"
     },
     {
       "source": "CNBC",
@@ -207,15 +386,6 @@
       "pub_sort_dt": "2026-08-14 01:04:46"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "US Robot Vacuum Maker One-Ups China Rivals With Voice Commands - Bloomberg.com",
-      "title_cn": "美国扫地机器人制造商通过语音命令击败中国竞争对手 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGg2LXBGQnNQUUxLR09VaWVpYnVORWZiamhlS1l1eHpHMUZNTFU1OU9QaEhOaDU1SXRVSWVDanlBbTRKRGo3aHdZQXZmYWZobjc5eVo0bTVRRUZKZnNSNk5XUl9wZ2xTNlREM0dleFBwYXdxS1NBM2RuT1Q5dFhXTElSMFJUSm1Wb295ZGZQTEFERnZtUDRhelpId1VsSkVsWUx1M21zY05WNXN5V0pBUDNVQQ?oc=5",
-      "summary": "US Robot Vacuum Maker One-Ups China Rivals With Voice Commands&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Thu, 13 Aug 2026 17:00:17 GMT",
-      "pub_sort_dt": "2026-08-14 01:00:17"
-    },
-    {
       "source": "New York Times",
       "title_en": "My Kids Think It’s Creepy That I Google People Before I Meet Them. Are They Right? - The New York Times",
       "title_cn": "我的孩子们认为我在见到别人之前先用谷歌搜索他们，这很令人毛骨悚然。他们是对的吗？ - 纽约时报",
@@ -225,6 +395,15 @@
       "pub_sort_dt": "2026-08-14 00:51:00"
     },
     {
+      "source": "DW",
+      "title_en": "Humanoid robots: Trump's latest China trade battle? - dw.com",
+      "title_cn": "人形机器人：特朗普最新的中国贸易战？ - 德国之声网站",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVhSLVlXeXpHNVpwTHFFQTFSZkU0bmxkaFRobXUwdWw0WEVjSHVEQzlVeU1wZk8yVFBoQUFBRWdRRDNIOFhYbVlXcDhPQzAyT2NzQjVOTW1fNVBKRURadWJNd0lXaEgzQnFNdEtQVXRDTjJ3RnZmc3Rua0J3Q282cENEUS1sN2VXd1EwaVRXZEdDWGN0RHIzNjZLUVpUbEtvVFA3NFBqLUN5eW_SAasBQVVfeXFMUFZMTEdhYXRRMEZxWlhTejMxcDlmMTZnaS1UQlFQWXpfRTNGTnJpVmVkc1lXOEhySHFuZGlYaUdFY0NhU2xENkt5Q2Y4SmZHSi0zdEhfR09JNlhsV0ljbXdnWDFUU0JHblV4V1BWZW9Kc3V5RmFjcFVUNzlBYnVrSmJmOHAzSTRTeU0yN1dYSmhJQmo2cnBkN09TdGxsVXQ0VnVHbEVZNlhzUndF?oc=5",
+      "summary": "Humanoid robots: Trump's latest China trade battle?&nbsp;&nbsp;dw.com",
+      "pub_raw": "Thu, 13 Aug 2026 16:42:30 GMT",
+      "pub_sort_dt": "2026-08-14 00:42:30"
+    },
+    {
       "source": "Financial Times",
       "title_en": "US accuses more than 40 countries of helping China avoid Donald Trump’s tariffs - Financial Times",
       "title_cn": "美国指责40多个国家帮助中国避免特朗普的关税 - 英国《金融时报》",
@@ -232,6 +411,15 @@
       "summary": "US accuses more than 40 countries of helping China avoid Donald Trump’s tariffs&nbsp;&nbsp;Financial Times",
       "pub_raw": "Thu, 13 Aug 2026 15:55:56 GMT",
       "pub_sort_dt": "2026-08-13 23:55:56"
+    },
+    {
+      "source": "BBC",
+      "title_en": "BT relocation plan will mean 'no work-life balance' - BBC",
+      "title_cn": "英国电信搬迁计划将意味着“工作与生活无法平衡” - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5saDNaUmtVYnBvSzQ0S0lwZDR0TWJHMU85U01uQWhMaUJ1ZDRuTzQwMGxYTllpV0hSMEgtZS1pVHEyOTQ1WlNjOUZzMER5a3RJMXVCS3lheGRfUQ?oc=5",
+      "summary": "BT relocation plan will mean 'no work-life balance'&nbsp;&nbsp;BBC",
+      "pub_raw": "Thu, 13 Aug 2026 15:53:45 GMT",
+      "pub_sort_dt": "2026-08-13 23:53:45"
     },
     {
       "source": "Nikkei Asia",
@@ -254,7 +442,7 @@
     {
       "source": "Nikkei Asia",
       "title_en": "DeepSeek releases official V4 Pro model with sharply higher user prices - Nikkei Asia",
-      "title_cn": "DeepSeek发布官方V4 Pro型号，用户价格大幅上涨 - 日经亚洲",
+      "title_cn": "DeepSeek releases official V4 Pro model with sharply higher user prices - Nikkei Asia",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVnNWV1J2dkJoaGViYk84TWhrd19Hc0pEMlBodmdsMjVfZGRmMUpGdUIwMzdURXJiZmdEVy1UTzRPa2dUX0pjMWZud1pfWlp0V0gxVW1qLXpSUER5S1puR1UxWDZPWldMaGpjYm40RmNaVHA0MV9TRFNoS3VOTEMydWVZVTJ5MFg5Q2JTM3h4dTdqSWp4MEVvTnJYTUZVU3Y0WmJBTk9QNjYxLVJtX1Bud25MZV9pU0xCWUNSbzJmTTFHdnJtWllKSDN6aHF5RTJFTXVyOTln?oc=5",
       "summary": "DeepSeek releases official V4 Pro model with sharply higher user prices&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Thu, 13 Aug 2026 15:06:00 GMT",
@@ -270,24 +458,6 @@
       "pub_sort_dt": "2026-08-13 23:00:06"
     },
     {
-      "source": "Reuters",
-      "title_en": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
-      "title_cn": "独家：微软在中国撤退，但人工智能的繁荣帮助其保持一扇窗 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
-      "summary": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open&nbsp;&nbsp;Reuters",
-      "pub_raw": "Thu, 13 Aug 2026 14:47:26 GMT",
-      "pub_sort_dt": "2026-08-13 22:47:26"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "CXMT Overtakes Tencent to Become Most Valuable Chinese Firm - Bloomberg.com",
-      "title_cn": "长鑫存储超越腾讯成为中国最有价值公司 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUt5aF82ZExuRTJ5Z1J2ZXBuVllnTWxjVnZVSVdfSzVXMTNaMDBPdnl0dklReXl5ZGxjeUdxc1hSTXB3WG02Z3c2a1dVOHdvR1BWeEZCWnNNOGwyOGMzQlNfZ1E1VVNoMFdsQko4Q0RjZFkwQkh1TWlFWVNBRkF6NXBDc3VFQ0VtdjdGSkhKODR4Z2N3VElKOTRIZkZhZS1GSGFfMUJiYnZuM1Z3Zk40ZlE2cw?oc=5",
-      "summary": "CXMT Overtakes Tencent to Become Most Valuable Chinese Firm&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Thu, 13 Aug 2026 14:23:18 GMT",
-      "pub_sort_dt": "2026-08-13 22:23:18"
-    },
-    {
       "source": "The Economist",
       "title_en": "Women are treated horribly in Afghanistan—and in many other places - The Economist",
       "title_cn": "经济学人：在阿富汗和许多其他地方，妇女受到可怕的对待",
@@ -298,10 +468,10 @@
     },
     {
       "source": "DW",
-      "title_en": "Eritrea: Key geopolitical player in the Horn of Africa - DW.com",
-      "title_cn": "厄立特里亚：非洲之角的重要地缘政治参与者 - DW.com",
+      "title_en": "Eritrea: Key geopolitical player in the Horn of Africa - dw.com",
+      "title_cn": "厄立特里亚：非洲之角的重要地缘政治参与者 - dw.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkhlOU5YamFxVzRMZGZVNG5RUzVNUHpodXRKNko4cndfa09zQzIwQ3RpSGUxLXp0YWVUNy1nQWxmTC02RmlKcTN3cVhJX3JVWGotVHZGQ3BFWExTa3Uyc2pDWkFaY3E2bzVaM3p1Q3o0MnVyS2F1WGtnOVdCeHZSaGRwcjllZXBZWmdsRnpnZ9IBjwFBVV95cUxPZkhlOU5YamFxVzRMZGZVNG5RUzVNUHpodXRKNko4cndfa09zQzIwQ3RpSGUxLXp0YWVUNy1nQWxmTC02RmlKcTN3cVhJX3JVWGotVHZGQ3BFWExTa3Uyc2pDWkFaY3E2bzVaM3p1Q3o0MnVyS2F1WGtnOVdCeHZSaGRwcjllZXBZWmdsRnpnZw?oc=5",
-      "summary": "Eritrea: Key geopolitical player in the Horn of Africa&nbsp;&nbsp;DW.com",
+      "summary": "Eritrea: Key geopolitical player in the Horn of Africa&nbsp;&nbsp;dw.com",
       "pub_raw": "Thu, 13 Aug 2026 13:33:15 GMT",
       "pub_sort_dt": "2026-08-13 21:33:15"
     },
@@ -315,31 +485,22 @@
       "pub_sort_dt": "2026-08-13 21:12:35"
     },
     {
+      "source": "The Economist",
+      "title_en": "Can AI save tourists from the TikTok herd? - The Economist",
+      "title_cn": "人工智能能否从 TikTok 群体中拯救游客？ - 经济学人",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeXNaQjd6b3dmdldwTW5Pb1NWekhlOGRDemRTbjFBbGkyTzB2STVZUHllckZuclFfU2dpYkwxTWhoSkVjb0J6NHlZdWNyQmVMYk4walJYSlJlbl9FakRlQ0ViSUVuVjdHUzRxaTBmSk1yeDdwR25ibmJkR1JFT3AtamgwbjVjWVdOT01oZUhZZw?oc=5",
+      "summary": "Can AI save tourists from the TikTok herd?&nbsp;&nbsp;The Economist",
+      "pub_raw": "Thu, 13 Aug 2026 13:12:35 GMT",
+      "pub_sort_dt": "2026-08-13 21:12:35"
+    },
+    {
       "source": "DW",
-      "title_en": "China: Severe storms bring death and destruction - DW.com",
-      "title_cn": "中国：严重风暴造成死亡和破坏 - DW.com",
+      "title_en": "China: Severe storms bring death and destruction - dw.com",
+      "title_cn": "中国：严重风暴造成死亡和破坏 - dw.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCeDdKbUI1UElkVUlsdkpFZldpb3lSMnRXcE1ZSnc2TzdLbmFUSVBRVzNHUGs5MjBRY0NtMnVvWGo2Zk1ENTVSTjVWNmx2VnVZUGJRRnNCRk5BRU1LT2FhUm1YZDNGdkw2Y2xUVUpxSkt3ZE5ieUFmVDNGQQ?oc=5",
-      "summary": "China: Severe storms bring death and destruction&nbsp;&nbsp;DW.com",
+      "summary": "China: Severe storms bring death and destruction&nbsp;&nbsp;dw.com",
       "pub_raw": "Thu, 13 Aug 2026 13:01:56 GMT",
       "pub_sort_dt": "2026-08-13 21:01:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Professor’s Alleged Role in China Programs Leads to Ban From US Funding - Bloomberg.com",
-      "title_cn": "教授涉嫌参与中国项目导致美国禁止资助 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd001aEZJU3FmNXE3T2ZKRUdJYXFrX0NxMEk4ZFpiTmtHYmdkMlFkY3JlNDkyNFcyczZlMVc1NjB3ZmZTMC1YRm52WlFsOXljendHSy1SWk53bmpJYXI4TlhxdDVrOGR4b09nRzBtQkRfeXhJSFRieFlOMnJET1dQeFFfU1J5WlE2bDJKZkZVc1pzYjNpMi0xUG16Wk54T1JMdFp0UXR6bVRQOVUzZTdoNWdxdTlfZnhhZ2xLa1hFamtUWng2c3c?oc=5",
-      "summary": "Professor’s Alleged Role in China Programs Leads to Ban From US Funding&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Thu, 13 Aug 2026 13:01:17 GMT",
-      "pub_sort_dt": "2026-08-13 21:01:17"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "DeepSeek releases official V4 Pro model as it steps up expansion - Reuters",
-      "title_cn": "DeepSeek 发布官方 V4 Pro 型号，加速扩张 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBOcmxUZXZzV20xU1pZMnI1X0JKRzV1SUJwcGhzaE1JZDZfUTZqVDZMVXNhUHFoY295SHZuLWZZbTlXa1AtUmI2dkRhRWliRXFBYzdZQlROdUVzZ2dNc2pHLUhvdTFBSVpSTW9SaHBQUnJubTdMX2FQUkhHTDhiUGtiZDUxLTRQXzRrZERqSzlOSXZpMWYxUzVWeXFCdW1HZEVWbWMtVDhFU1BCSkE?oc=5",
-      "summary": "DeepSeek releases official V4 Pro model as it steps up expansion&nbsp;&nbsp;Reuters",
-      "pub_raw": "Thu, 13 Aug 2026 12:56:28 GMT",
-      "pub_sort_dt": "2026-08-13 20:56:28"
     },
     {
       "source": "CNBC",
@@ -353,38 +514,11 @@
     {
       "source": "CNBC",
       "title_en": "Democrats demand Trump reveal stock managers, explain suspicious trades - CNBC",
-      "title_cn": "民主党人要求特朗普透露股票经理，解释可疑交易 - CNBC",
+      "title_cn": "民主党人要求特朗普透露股票经理并解释可疑交易 - CNBC",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFcFlHRUZXQUNOc3k4M2dzdkRvVi04MGZZcVlkdmhnN3NHZ0NJdjFOc1AxeWRkN0hGa292Vm45T3dIUDVORTBTUVd3QmFPX1hyN01UQ19lZ2VJbkl2TkhFTlpOQjdlanZaeFg1WHFHNklSVWFxeU9TSNIBfkFVX3lxTE1uZWs5ckRmWFJVcGpabXRCc01TclNfeWZaU1pLbFNaS3pmMjlmMjJvRlpVYm1JLXRXNTNmSjJPNnh4TW42VEFYNlBfWjhqZGdSVHVzUmxZbjN5SlNDb0tjNm4xR2UwVVptZndwRm1rZkVja3BQckpER2xPc1dmdw?oc=5",
       "summary": "Democrats demand Trump reveal stock managers, explain suspicious trades&nbsp;&nbsp;CNBC",
       "pub_raw": "Thu, 13 Aug 2026 12:00:01 GMT",
       "pub_sort_dt": "2026-08-13 20:00:01"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "DeepSeek raises API pricing for its V4 models - Reuters",
-      "title_cn": "DeepSeek 提高其 V4 模型的 API 定价 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0VIYlk0czVDRGdnTGVvU2oyMlpoazd4TGE1RkhIRTlVdUxiWlRGMFBzd1N0c0ZFb1lJanpLTUU5WVZnT0JCUC1ITVJ1RlhlWENDTjlpT2RMRC1xMXRJbU1kZ1FOb2JGcHU0cXlXdGlQVDdXT2dKQUZ6dEF3VG5Pd0J0ZmtCWDlldWtubkpXUVhHS3c?oc=5",
-      "summary": "DeepSeek raises API pricing for its V4 models&nbsp;&nbsp;Reuters",
-      "pub_raw": "Thu, 13 Aug 2026 11:57:43 GMT",
-      "pub_sort_dt": "2026-08-13 19:57:43"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "Chuqin Jiang — China researcher at The Wall Street Journal - WSJ",
-      "title_cn": "姜楚钦 — 《华尔街日报》中国研究员 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKQ1lzLXFxQjhJQjJKR2JubWxyVzdzTEtjS2N2QTE0LUIxU2tWM25NMDdnRkc0cFI0d3l3c055SXA0MG9vRkNEQVRYUnlVNjhUX3g5TXl4WQ?oc=5",
-      "summary": "Chuqin Jiang — China researcher at The Wall Street Journal&nbsp;&nbsp;WSJ",
-      "pub_raw": "Thu, 13 Aug 2026 11:56:46 GMT",
-      "pub_sort_dt": "2026-08-13 19:56:46"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "Huggies Stumble in China After Social-Media Firestorm - WSJ",
-      "title_cn": "社交媒体风波过后，好奇公司在中国陷入困境 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaEZtdWEzYVFaVi1PNHVMNnFKUDM1bVBJLXI5LWJnM2doU1JwOC1EbjRBU29rbjlJVGxDSWE3Zm9DTjdReFBOeUNsa2hOZEdDMHFqRndiaUE5dHh6c0tQbTVMbkxYa2c2TXJTei1VQzA5UTJHLW45WWFKNEktNldBbWg0TS03Qjg4VGY0YkkxVWFyeUk?oc=5",
-      "summary": "Huggies Stumble in China After Social-Media Firestorm&nbsp;&nbsp;WSJ",
-      "pub_raw": "Thu, 13 Aug 2026 11:29:26 GMT",
-      "pub_sort_dt": "2026-08-13 19:29:26"
     },
     {
       "source": "New York Times",
@@ -421,159 +555,6 @@
       "summary": "Marc Anthony, Chayanne and more to play benefit concert for Venezuela and Colombia earthquake relief&nbsp;&nbsp;AP News",
       "pub_raw": "Thu, 13 Aug 2026 10:51:00 GMT",
       "pub_sort_dt": "2026-08-13 18:51:00"
-    },
-    {
-      "source": "BBC",
-      "title_en": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit - BBC",
-      "title_cn": "特朗普悄然退出后，特朗普内阁成员仍留在诱饵飞机上 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZmZ4bDlLLUVlX0xWOV9DYmExMUljdnNhbDRDQWhrUThxTmlhaWVER2V6ZHByaERLeXhZU3RLNFZrdl94SWdNNm5UOGc0Umo4NGI0cFBiQmg4QQ?oc=5",
-      "summary": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit&nbsp;&nbsp;BBC",
-      "pub_raw": "Thu, 13 Aug 2026 09:40:18 GMT",
-      "pub_sort_dt": "2026-08-13 17:40:18"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "Taiwan Weaponizes Coast Guard to Prepare for Battle With China - WSJ",
-      "title_cn": "台湾武装海岸警卫队，准备与中国大陆作战 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmlTRERrSzdxcHNENFl3YXpsNDBuNUFiaWtnUzB1NmszSDZLZ3hpekdkcHpWZElXSU82TThyRWxnelI0aE5CRUY0TEFXQVRxQzdocU5fdGVsUUl2WU5PZ1Y3MGNWYVhvdGwzeHpINnJSc1hSNDU1M1pMSEJ0a2JSUkhMOG9vSjg5X1BOZGFoSlhPajFSRzNJcmVJUGRVVlBJOE56cg?oc=5",
-      "summary": "Taiwan Weaponizes Coast Guard to Prepare for Battle With China&nbsp;&nbsp;WSJ",
-      "pub_raw": "Thu, 13 Aug 2026 09:27:00 GMT",
-      "pub_sort_dt": "2026-08-13 17:27:00"
-    },
-    {
-      "source": "AFP",
-      "title_en": "Month-old video of storm hitting eastern China misrepresented as Typhoon Dolphin - AFP Fact Check",
-      "title_cn": "一个月前袭击中国东部的风暴视频被误称为台风海豚 - 法新社事实核查",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnTmlkalkyS0pEYkpDVzdCUjVJVVVuY3RUX0lhMmVZUkU1SlpzanlQY0hDY01YTWl4S2FWY1pqZXFJQU92TlB1M1ZaLS11QUxCaXMwOWdXY0I?oc=5",
-      "summary": "Month-old video of storm hitting eastern China misrepresented as Typhoon Dolphin&nbsp;&nbsp;AFP Fact Check",
-      "pub_raw": "Thu, 13 Aug 2026 09:18:32 GMT",
-      "pub_sort_dt": "2026-08-13 17:18:32"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "China has wrested control of oil markets from OPEC - The Economist",
-      "title_cn": "中国已从欧佩克手中夺取了对石油市场的控制权 - 经济学人",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXpTVktFVzVqbmxPOVpHYkZ1RW04N08wbHFBRjlYUDdDN0dKbzNfSEd3VDZOZ2J5TXUzWDBWWFBnczBiQ19jY1M3YWNOTjREdXBMaU1PUTNtbU15d3VrWkw5QUhaejFxN0ZyU3FydjYtblg1eXRXQ18tRmMyakhZcURjUERSeTZIZ2ZGR3l3YVhSQWFTYzhoN0s5cw?oc=5",
-      "summary": "China has wrested control of oil markets from OPEC&nbsp;&nbsp;The Economist",
-      "pub_raw": "Thu, 13 Aug 2026 08:45:24 GMT",
-      "pub_sort_dt": "2026-08-13 16:45:24"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "Is China’s debt-bomb squad about to blow up? - The Economist",
-      "title_cn": "中国的债务炸弹小组要爆炸了吗？ - 经济学人",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1lWd2hYdEVVVmJScU9na0JUblFYbkRyWFJKOUc3dmowQVVTS3RMeWJhenlPVzh4RERJTlhnbmotZUtKcXRLU3BxWkczWXh0WGRCRGFkUGtac19SNmdUYi1aY1N6M1VWemRqMWI4RmZfNUlCeGh2a3JNVmUwajU0cnQ4SzRHRHk1N1dTdlA4UzVEeVJUdUc3a01feHZ5c1BreEVz?oc=5",
-      "summary": "Is China’s debt-bomb squad about to blow up?&nbsp;&nbsp;The Economist",
-      "pub_raw": "Thu, 13 Aug 2026 08:37:46 GMT",
-      "pub_sort_dt": "2026-08-13 16:37:46"
-    },
-    {
-      "source": "AP",
-      "title_en": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill - AP News",
-      "title_cn": "作为防御演习的一部分，台湾将其移动互联网速度短暂减慢至纯文本速度 - 美联社新闻",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmlmZ0lFTDZodTVzOGx0alVzcVp3eWJaci1XWjlSbmRGOFlyRHJpUU1MakVOc2xReVhacm8tSlczVy0zS19Tam5nUjdpM1BzRUNGaUhxVXcxSF9xYmxVVExZLXFITUg3RWlSVDF6eDluRHFJOHdhZk4xbEpLcVEzcmdCTWJOZ3FoVzdpRm15R0NuQmtZdFg0cThLWnNBZm43NUhHZFNLZ0x1ekxKZkUtTzRKM0s?oc=5",
-      "summary": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill&nbsp;&nbsp;AP News",
-      "pub_raw": "Thu, 13 Aug 2026 08:20:00 GMT",
-      "pub_sort_dt": "2026-08-13 16:20:00"
-    },
-    {
-      "source": "CNN",
-      "title_en": "Hackers used autonomous AI agents to attack Taiwan. Is this the future of cyberwarfare? - CNN",
-      "title_cn": "黑客使用自主人工智能代理攻击台湾。这是网络战的未来吗？ - 美国有线电视新闻网",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDhRS25pYTdjXzNLbHMtdTRHLUVOLWlFRnhrR3I5azU4OVQ4aGZubHpQa2hqRTRsYWRUOE9IWG9JaHM4Q2ZuMlNwZGJDc1VfNnN3YmVLckVmS0I4MG4taDFaaTFzTTV1WEhsMlZtRHV2ckxBTHhSdmdkQVFLYjRfczNkbms?oc=5",
-      "summary": "Hackers used autonomous AI agents to attack Taiwan. Is this the future of cyberwarfare?&nbsp;&nbsp;CNN",
-      "pub_raw": "Thu, 13 Aug 2026 08:05:44 GMT",
-      "pub_sort_dt": "2026-08-13 16:05:44"
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Books of Zhu Rongji quotes reveal bygone era of a more open China - Nikkei Asia",
-      "title_cn": "朱镕基的著作引述了中国更加开放的时代 - 日经亚洲",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkpJd09lalhJOVJWRDNWLWRpZkkzWXdSNlVlbG5QOG53N05HYm5LWlJoaENnelRvMkgyWXhOUFV4dHlXZ2VyMXpCT1pESTdMd1pzVVpsYnllOFZseGcyS2ZteFd4U0hLaVZ1N01WVldSSUFMaW1wbndxTEZpa0lMTmdKYy12TUdfME1wU2d6MWZja2tvazVjOFdEZ21Cb2pUVDktRzVHejdwU3BoNG9F?oc=5",
-      "summary": "Books of Zhu Rongji quotes reveal bygone era of a more open China&nbsp;&nbsp;Nikkei Asia",
-      "pub_raw": "Thu, 13 Aug 2026 07:54:00 GMT",
-      "pub_sort_dt": "2026-08-13 15:54:00"
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "TSMC and Sony team up, China's AI stocks swing - Nikkei Asia",
-      "title_cn": "台积电和索尼联手，中国人工智能股震荡 - 日经亚洲",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWtpZmxScG93SjdDS3h2MkxVdmhod3ZRVzRlRnlFNzBWeTYwTDUtTmFiY0pwYjRNSEZEa3pzaUI0OVRrcFVpaWtqcWlZdWRKRVBxallfc1FKV0c3dVhzbnBOM0VJMXhraFZ0UDFpV2U1OHBRaE1ERWJoUDNCcVVzMTJwemI?oc=5",
-      "summary": "TSMC and Sony team up, China's AI stocks swing&nbsp;&nbsp;Nikkei Asia",
-      "pub_raw": "Thu, 13 Aug 2026 07:39:00 GMT",
-      "pub_sort_dt": "2026-08-13 15:39:00"
-    },
-    {
-      "source": "DW",
-      "title_en": "UK court allows plans for Chinese 'super' embassy to advance - DW.com",
-      "title_cn": "英国法院允许中国“超级”大使馆计划继续推进 - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa0pGVlJKamYzeHNsRTg3N2ZoV2ZoRmVnUFI2V0Vncmw3ODNnbjVZdGxXSDJUb2M0b1BvdUx6WHB3eDl6OUFWYVE2b3BSVVVsSWpkeFhkWHgyeXkyeWVsT21XamRHbFpyWDVMbUQ0UzV0UUYtdTZHeVphODFwTk1oZFJZbmZJZnRKQkZxeC0xN0lvbE9OaUHSAZYBQVVfeXFMT2dzZmt1THVZUjQzNV9idmpRWlZQeXEwT2swdXZxamlfTmVtMk12aWVVd3V6RG1UemI4dXdVdzE5RDVWLXVEaWFraEVEQkNuQWxLUmRyU3lOMElwVkNYWnJLbzJES294RUw4MXZoWXMyOHF3MzNxVElyYnRHbDJjYUM2REs0c2FaTlVaU3gzcDZPZFhfcmV3?oc=5",
-      "summary": "UK court allows plans for Chinese 'super' embassy to advance&nbsp;&nbsp;DW.com",
-      "pub_raw": "Thu, 13 Aug 2026 06:48:23 GMT",
-      "pub_sort_dt": "2026-08-13 14:48:23"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "TSMC and Sony team up, China’s AI stocks swing - Financial Times",
-      "title_cn": "台积电和索尼联手，中国人工智能股震荡 - 金融时报",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcE5WTnpCNDlmOHBKQkpJdHgxaU41Nm9jdTIxMzJSeWJJZ3NUSXluenN3NWRsN0YwS29ZZEZtVzJBbUM1am1hWndraDlTUnp5OGRxTzc3UFVSb1kwU0tlSGpOMklHVldMcmdwcW1xSlBodi0wNmQ3c1Z1OEdtdGs2WENOMkM?oc=5",
-      "summary": "TSMC and Sony team up, China’s AI stocks swing&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Thu, 13 Aug 2026 06:25:01 GMT",
-      "pub_sort_dt": "2026-08-13 14:25:01"
-    },
-    {
-      "source": "CNN",
-      "title_en": "Ex-Chinese military men accused of espionage activities near US bases in South Korea, police say - CNN",
-      "title_cn": "警方称，前中国军人被指控在韩国美国基地附近从事间谍活动 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzNENVlZeXlkVXJzSHM2dGhUcGduTlgwcmZURjg5TF9yQ2hxQ0JXRmhhSVl5eFlXMVBpVHlkV19DMml5bmt0aW5NSFpBUExhTkY0NmxxVE9OOXloRE40c2lDalFyUWlNWjZ4bTg1SHRPTk1mRlBrSi1FRUZQWXBpS1ZPQXBFdFEt?oc=5",
-      "summary": "Ex-Chinese military men accused of espionage activities near US bases in South Korea, police say&nbsp;&nbsp;CNN",
-      "pub_raw": "Thu, 13 Aug 2026 05:53:20 GMT",
-      "pub_sort_dt": "2026-08-13 13:53:20"
-    },
-    {
-      "source": "AP",
-      "title_en": "Zambia is voting in a presidential election. Here’s why China and the US might be interested - AP News",
-      "title_cn": "赞比亚正在总统选举中投票。这就是中国和美国可能感兴趣的原因 - 美联社新闻",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUVUY2pDMC1uZzZkWkZuanQxN0VxeW5ER09VSXdBQVRLWXRnQVRabmZvTGdMR0lRZE9zRWZIRlB4eHZLYW1kYkRFRTNWVWZpSzEzcnFaQUtYRlBYVXl1WXZObmQzZ1I1STlXUGhYV2tzWUx5S2xoVElhQTR0b3RjZkxSb0FaR1pkVW1TWmxTbTBLNHRaekltNENOdG1GQWRTaXJtd2htcUNEV1N4VkM0ZWN3?oc=5",
-      "summary": "Zambia is voting in a presidential election. Here’s why China and the US might be interested&nbsp;&nbsp;AP News",
-      "pub_raw": "Thu, 13 Aug 2026 05:50:00 GMT",
-      "pub_sort_dt": "2026-08-13 13:50:00"
-    },
-    {
-      "source": "CNN",
-      "title_en": "Ecuador police didn’t expect to find Erling Haaland’s face plastered on cocaine bricks - CNN",
-      "title_cn": "厄瓜多尔警方没想到会发现埃尔林·哈兰德的脸贴满了可卡因砖 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMTlJQXRicHhqcXF1bkZSMzFCTHJQcGJXT3JqVG5JOEQ2S3VWZE9kTG1lNkVYTDlVWWJ3WWozcTdEb2pCNkJxUTBsaTYzWmpFRGdURU1oUFVpTmpTR2JSeXBmRldDRHRzanYydzNvSDhLZ3I5NDQ4RHVOdDZFQlJ3eXVNaDE2RVpFS1dSTU5qcw?oc=5",
-      "summary": "Ecuador police didn’t expect to find Erling Haaland’s face plastered on cocaine bricks&nbsp;&nbsp;CNN",
-      "pub_raw": "Thu, 13 Aug 2026 05:18:34 GMT",
-      "pub_sort_dt": "2026-08-13 13:18:34"
-    },
-    {
-      "source": "DW",
-      "title_en": "Humanoid robots: Trump's latest China trade battle? - DW.com",
-      "title_cn": "人形机器人：特朗普最新的中国贸易战？ - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVhSLVlXeXpHNVpwTHFFQTFSZkU0bmxkaFRobXUwdWw0WEVjSHVEQzlVeU1wZk8yVFBoQUFBRWdRRDNIOFhYbVlXcDhPQzAyT2NzQjVOTW1fNVBKRURadWJNd0lXaEgzQnFNdEtQVXRDTjJ3RnZmc3Rua0J3Q282cENEUS1sN2VXd1EwaVRXZEdDWGN0RHIzNjZLUVpUbEtvVFA3NFBqLUN5eW_SAasBQVVfeXFMUFZMTEdhYXRRMEZxWlhTejMxcDlmMTZnaS1UQlFQWXpfRTNGTnJpVmVkc1lXOEhySHFuZGlYaUdFY0NhU2xENkt5Q2Y4SmZHSi0zdEhfR09JNlhsV0ljbXdnWDFUU0JHblV4V1BWZW9Kc3V5RmFjcFVUNzlBYnVrSmJmOHAzSTRTeU0yN1dYSmhJQmo2cnBkN09TdGxsVXQ0VnVHbEVZNlhzUndF?oc=5",
-      "summary": "Humanoid robots: Trump's latest China trade battle?&nbsp;&nbsp;DW.com",
-      "pub_raw": "Thu, 13 Aug 2026 05:15:26 GMT",
-      "pub_sort_dt": "2026-08-13 13:15:26"
-    },
-    {
-      "source": "AFP",
-      "title_en": "Old storm video misrepresented as Typhoon Dolphin slamming into China - AFP Fact Check",
-      "title_cn": "旧风暴视频被歪曲为台风海豚袭击中国 - 法新社事实核查",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPZWpfeFVXQUswcGJyaEdfTjkzdmtKX3NMdnNINUZmVkVjaTNteG5wUXhfMDlmbVV4YVFyWmh2VHozZm8xOTJfWktzcVluMWhkV0lJMVZmcUU?oc=5",
-      "summary": "Old storm video misrepresented as Typhoon Dolphin slamming into China&nbsp;&nbsp;AFP Fact Check",
-      "pub_raw": "Thu, 13 Aug 2026 04:06:38 GMT",
-      "pub_sort_dt": "2026-08-13 12:06:38"
-    },
-    {
-      "source": "CNN",
-      "title_en": "Why Karoline Leavitt might be impossible for Trump to replace - CNN",
-      "title_cn": "为什么特朗普不可能取代卡罗琳·莱维特 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTXA4UWtjZFdzTnpjWkR4NGVhOVlZb2RmdGtLTmNfUnZTUVNKS1o5endESkp6OWJsVHNaRzBlT0R0VkZvdXUzanNaMDZrbzNXSl9vbllwM2wwZ196bnJqZ1NlakUxcU5aWklzeFBBRjNFMi1waFJVUmFjcVVjTy00bHBwRUtJVXdQamNueFRnTQ?oc=5",
-      "summary": "Why Karoline Leavitt might be impossible for Trump to replace&nbsp;&nbsp;CNN",
-      "pub_raw": "Thu, 13 Aug 2026 04:01:29 GMT",
-      "pub_sort_dt": "2026-08-13 12:01:29"
     }
   ]
 }
