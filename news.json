@@ -1,5 +1,5 @@
 {
-  "update_cst": "2026-08-15 06:01:49 北京时间",
+  "update_cst": "2026-08-15 09:01:39 北京时间",
   "total_count": 59,
   "source_stat": {
     "Reuters": 5,
@@ -9,30 +9,75 @@
     "Financial Times": 5,
     "Wall Street Journal": 5,
     "CNBC": 5,
-    "New York Times": 5,
+    "New York Times": 4,
     "CNN": 5,
-    "The Economist": 4,
+    "The Economist": 5,
     "BBC": 5,
     "DW": 5
   },
   "news": [
     {
-      "source": "CNN",
-      "title_en": "NASA is flying a modified U-2 spy plane to study how wildfires can create storms - CNN",
-      "title_cn": "美国宇航局正在驾驶一架改装的 U-2 间谍飞机来研究野火如何制造风暴 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZDZjRjF2R1h2Q1ctaV92N1NvM3pJUThsWmJteWIzUlpsOElrRWQydHU5N0RjeE1Qd0VqRlVibnctODJPdjVLQWpfRG45bmdmZFFLeU9rTWNlNURnY3FCQmVDbWd4VF9NRm5pQ1pUWVNjMWdORXcwUXRTNjNmY1E4Ul9NRERqX0ZHdWJ3LXZNU0E2aHlQN0pRNl9rTDd3eEJSUzNkbzVuQ1UzWjhIY3NRbVlTak4?oc=5",
-      "summary": "NASA is flying a modified U-2 spy plane to study how wildfires can create storms&nbsp;&nbsp;CNN",
-      "pub_raw": "Fri, 14 Aug 2026 20:21:08 GMT",
-      "pub_sort_dt": "2026-08-15 04:21:08"
+      "source": "AP",
+      "title_en": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV - AP News",
+      "title_cn": "马里兰州税务法院宣布数字广告税无效，并下令向苹果、谷歌和 Peacock TV 退款 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEx2OXdjcjZtTGtnUGo4SElsSzNTa0VDTDU3M3FqU2YyV0o1MnEwX0doUC1VNzlMUGRoRWJSc2NNRmF3T1FWZ2F0MF9sM1ZWdjAwdHZ5WkpHTHdSUWRkMnRxSEJWX0MzVFRKSG43VXM0RnY3LUl6OUNQcG1BVG9DM012bnVyX3pUdXhjaHBHYl9Gblh2Yk5Wd0RNMHZaRmlkQmhENVNBa0UteWE4WFo1NG9B?oc=5",
+      "summary": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV&nbsp;&nbsp;AP News",
+      "pub_raw": "Fri, 14 Aug 2026 23:06:00 GMT",
+      "pub_sort_dt": "2026-08-15 07:06:00"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "In China, ‘Moles’ Are Leaking Official Secrets for Profit - WSJ",
+      "title_cn": "在中国，“鼹鼠”为了牟利而泄露官方机密 - 华尔街日报",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX2JKeTZEQkdPTnVKMXhUb1YyTjNnellKcEp6T2dBN1hKWmV3b2V1YTNUakhkeHNEQ283WllvWVVNUHk1dkt3WE1PS2Q4aFQ5ZUNON2ZkNmx1UkJfVTRMUVA4Y2NRdlRNV0FITFdpRXJNNkwxc0pweHltbFQ5bC1wQzJvZUZyVWc4SnRSeVVpbmFEOXdkYjJvYTlJaw?oc=5",
+      "summary": "In China, ‘Moles’ Are Leaking Official Secrets for Profit&nbsp;&nbsp;WSJ",
+      "pub_raw": "Fri, 14 Aug 2026 22:12:09 GMT",
+      "pub_sort_dt": "2026-08-15 06:12:09"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China - Reuters",
+      "title_cn": "独家：美国告诉合作伙伴必须在与中国的人工智能竞赛中选边站 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
+      "summary": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China&nbsp;&nbsp;Reuters",
+      "pub_raw": "Fri, 14 Aug 2026 21:53:39 GMT",
+      "pub_sort_dt": "2026-08-15 05:53:39"
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "China's Z.ai launches model it says rivals Anthropic's Mythos - Nikkei Asia",
+      "title_cn": "中国的 Z.ai 推出模型，称其可与 Anthropic 的 Mythos 竞争 - 日经亚洲",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanNQR2U5M0wwU2dNZFdPN2VpRHFkSzcxVmFjOTgtVEVISkpKSThEbjNyaUFzNmIyVWxMT3BLNk9lYmhaNWhtcjBudkNyNjdFaV93VnFNZG5TdHlZM3cxRnVBQUs3RndpNHFaLWJmclI3YThjb0N6WW12QWRGZ2EzSmJzUnRsWmoxVlFRV0VPa0h1VGJVbEhjV0ttTVNHVmtXZHM4ZDd0NktmeG4weklFcmE5aGFWaVphdUtqNTBYRmxJWHVlMXl0NQ?oc=5",
+      "summary": "China's Z.ai launches model it says rivals Anthropic's Mythos&nbsp;&nbsp;Nikkei Asia",
+      "pub_raw": "Fri, 14 Aug 2026 21:49:00 GMT",
+      "pub_sort_dt": "2026-08-15 05:49:00"
     },
     {
       "source": "CNN",
       "title_en": "Jason Arday: Former Cambridge professor accused of plagiarism found dead - CNN",
-      "title_cn": "杰森·阿尔戴：前剑桥教授被指控抄袭被发现死亡 - CNN",
+      "title_cn": "Jason Arday: Former Cambridge professor accused of plagiarism found dead - CNN",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2ZYN28zUXVNdldGalVNVFBVeDBncjlyWkt3SG1xczZzbjhtQXFTNjVUaUZBN3pfekJlTjFzNHpVd1dteHp5M1RGZE04emJZYURTMDh4ak5CYUlMcWpWY2J0QVE4bkgteTJkZXU5VjJPdXM1OF9xaEczYmtsNEZNZ1pkLVhkYkJjc2FrSF9SbVdPZw?oc=5",
       "summary": "Jason Arday: Former Cambridge professor accused of plagiarism found dead&nbsp;&nbsp;CNN",
       "pub_raw": "Fri, 14 Aug 2026 20:07:43 GMT",
       "pub_sort_dt": "2026-08-15 04:07:43"
+    },
+    {
+      "source": "CNN",
+      "title_en": "Former Cambridge professor accused of plagiarism found dead, say reports - CNN",
+      "title_cn": "据CNN报道，被指控抄袭的前剑桥教授被发现死亡",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVlhIRVZsQnBJNExZWjFqZElrb1dVVXdMV2ZlZ3lQTzJyeXNJSUg4MUxQREVHaWVSeHAzbjd1Q3cxYmhTLUVmXzlrTmdkaGZQNkZKX2xSYkl6cnhCYU9LNk1CUUo4M0JZNHZKQ0tnR3pNYktnaXZtWDR5YkpURE8zaVRZLXlEbGNwVTdxOXUxRTZPd0FfWTc2R3VrMXVaZmxNQXRhYnFJQUJGOWpxYnE0TXp3NWdPMUZaYmwwT09BMXU0ZUxSZW1jMnlBeVFJbmNTUzItMU8zamQ4aDBjVU5mc1FoeFg1TWJZbVNiaV9TWnpsRElTeUViVXIxUEdoYUhFZ2x6UXFxdw?oc=5",
+      "summary": "Former Cambridge professor accused of plagiarism found dead, say reports&nbsp;&nbsp;CNN",
+      "pub_raw": "Fri, 14 Aug 2026 20:07:43 GMT",
+      "pub_sort_dt": "2026-08-15 04:07:43"
+    },
+    {
+      "source": "AP",
+      "title_en": "AP Exclusive: ICE plans to give officers gloves that can deliver painful electric shocks - AP News",
+      "title_cn": "美联社独家报道：ICE 计划向警员提供可带来痛苦电击的手套 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQakRaNUk3TFc0MlhFNWd6VV83NnprMDBkTkYzaEgyUXB2YVZybFBPSlByNkFkb2tJV1dTM0pHanF0OGgtWHBGcXpQanJETi1wUlU5Wnd0SU00VmhFT2IwMFRCaDhBZkFSVUgyVERBOVlxcGJnRTItZHNpbVJ1b3FFMjRHTEo1ZnpWQllvTmdn?oc=5",
+      "summary": "AP Exclusive: ICE plans to give officers gloves that can deliver painful electric shocks&nbsp;&nbsp;AP News",
+      "pub_raw": "Fri, 14 Aug 2026 19:46:49 GMT",
+      "pub_sort_dt": "2026-08-15 03:46:49"
     },
     {
       "source": "New York Times",
@@ -45,10 +90,10 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "Trump Slaps 100% Tariffs on Drones, Deepening China Supply Rift - Bloomberg.com",
-      "title_cn": "特朗普对无人机征收 100% 关税，加剧中国供应缺口 - Bloomberg.com",
+      "title_en": "Trump’s 100% Tariff on Drones Deepens US-China Tech Decoupling - Bloomberg",
+      "title_cn": "特朗普对无人机征收 100% 关税加深美中科技脱钩 - 彭博社",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVEc3Ml8wUHJHSzgwU0dza1dfRkJQSVdKZjBQZnBsSDdfcDNhMmZjY2ZDQjU0d2dSS2Y1R2tfOWVHUnRkaVhIWTFfSUNZMkRCQUUySUFjaDJPUTRxVVZDVW1CeEhUQWktWi1lc19ITFdlTGpLQUJ3VHhWLVhyMGN4NXQ3QWRhX2sxZ29VWXVOUTYtYk82OWpkRXpFWGpSa21aYkZ1T3l4S004bEZDZDRfVw?oc=5",
-      "summary": "Trump Slaps 100% Tariffs on Drones, Deepening China Supply Rift&nbsp;&nbsp;Bloomberg.com",
+      "summary": "Trump’s 100% Tariff on Drones Deepens US-China Tech Decoupling&nbsp;&nbsp;Bloomberg",
       "pub_raw": "Fri, 14 Aug 2026 18:57:47 GMT",
       "pub_sort_dt": "2026-08-15 02:57:47"
     },
@@ -67,26 +112,17 @@
       "title_cn": "谷歌启用 Gemini A.I.适用于使用课堂应用程序的学生 - 纽约时报",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SMU5ZVGZnNFNKMzY5b0dsTFE5cVZ0bEhjSkx4d21GX3dCSUgzd0lrWm15STZYVGVUaDJubWRxeHMwTHNtaThOeUg4aElISHFPdS00SGFKTlBzd0x1SGtJaFN3NWpUOWpEUEpTXzdwV3FqNVVSWl9kTG1ERzdlZw?oc=5",
       "summary": "Google Turns On Gemini A.I. for Students Using Its Classroom App&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Fri, 14 Aug 2026 18:54:35 GMT",
-      "pub_sort_dt": "2026-08-15 02:54:35"
+      "pub_raw": "Fri, 14 Aug 2026 18:54:36 GMT",
+      "pub_sort_dt": "2026-08-15 02:54:36"
     },
     {
       "source": "AP",
-      "title_en": "With US-Iran talks stalled, diplomatic efforts expand to unlikely European players - apnews.com",
-      "title_cn": "随着美伊谈判陷入僵局，外交努力扩大到不太可能的欧洲参与者 - apnews.com",
+      "title_en": "With US-Iran talks stalled, diplomatic efforts expand to unlikely European players - AP News",
+      "title_cn": "随着美伊谈判陷入僵局，外交努力扩大到不太可能的欧洲参与者 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZktFcUhFSURKNmRzcy1lVVJNcWxMa2dZMkVOaDhZUTRpVXM4OXZpejhXamRDSlVOXy1BT3hGLTNsMC1xakJKenpTdWd0TmhfRC1EMDRfUFNlLU15V2U2UGZ1S2RKeDU1eFdFeEE1RzNiZVN3Q0xfdk1BTTJqcDViOFFtd0syamdWZmQtbV8yU1pPTHh6SnpnR191dF9VR1Vk?oc=5",
-      "summary": "With US-Iran talks stalled, diplomatic efforts expand to unlikely European players&nbsp;&nbsp;apnews.com",
+      "summary": "With US-Iran talks stalled, diplomatic efforts expand to unlikely European players&nbsp;&nbsp;AP News",
       "pub_raw": "Fri, 14 Aug 2026 18:37:00 GMT",
       "pub_sort_dt": "2026-08-15 02:37:00"
-    },
-    {
-      "source": "AP",
-      "title_en": "Associated Press News: Breaking News | Latest News Today - apnews.com",
-      "title_cn": "美联社新闻：突发新闻|今日最新消息 - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-      "summary": "Associated Press News: Breaking News | Latest News Today&nbsp;&nbsp;apnews.com",
-      "pub_raw": "Fri, 14 Aug 2026 17:51:32 GMT",
-      "pub_sort_dt": "2026-08-15 01:51:32"
     },
     {
       "source": "Reuters",
@@ -116,6 +152,24 @@
       "pub_sort_dt": "2026-08-14 23:58:00"
     },
     {
+      "source": "BBC",
+      "title_en": "Breaking news, video and the latest top stories from the U.S. and around the world - BBC",
+      "title_cn": "来自美国和世界各地的突发新闻、视频和最新头条新闻 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1fU1RxaFJPN3owdV9ycENhQTlQM2loT2ZJZHNjeGZoRUZYOUJ2SzBESUdYcGNraGREdU95Yg?oc=5",
+      "summary": "Breaking news, video and the latest top stories from the U.S. and around the world&nbsp;&nbsp;BBC",
+      "pub_raw": "Fri, 14 Aug 2026 15:33:44 GMT",
+      "pub_sort_dt": "2026-08-14 23:33:44"
+    },
+    {
+      "source": "CNN",
+      "title_en": "Is China ‘The Odyssey’s’ biggest test yet? | CNN Business - CNN",
+      "title_cn": "中国是《奥德赛》迄今为止最大的考验吗？ | CNN 商业 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnpwRmdoV19IREpWdVBmc3hKZm5LY1NTcnZHZlhnOWk4ZXBWWHBwNU5QUGxlOEdCeEZTUlRoUlRLczNjWno4NnVZSi0tb3lxVVB4WlFsMXoxb3JNaHFQYUduR05wcXBhRU95VktDaG14QjRubURFTVI4aUpvZTZNemlrb2twQWRTV2R6dVhsTTFVMXc?oc=5",
+      "summary": "Is China ‘The Odyssey’s’ biggest test yet? | CNN Business&nbsp;&nbsp;CNN",
+      "pub_raw": "Fri, 14 Aug 2026 14:46:00 GMT",
+      "pub_sort_dt": "2026-08-14 22:46:00"
+    },
+    {
       "source": "The Economist",
       "title_en": "World in Brief: America accuses China of evading tariffs; Zambia suspends vote count - The Economist",
       "title_cn": "世界简报：美国指责中国逃避关税；赞比亚暂停计票 - 经济学人",
@@ -125,13 +179,31 @@
       "pub_sort_dt": "2026-08-14 21:57:04"
     },
     {
+      "source": "The Economist",
+      "title_en": "The Chinese “Game of Thrones” + other shows - The Economist",
+      "title_cn": "中国《权力的游戏》+其他节目 - 《经济学人》",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTEFaaUNqQ2laUjFIOXdaM1NubWlhVTl6M3JLNElEcVUydmdLdTkxZDNNc0EzUHFyUjdSbTlNN0VOMXVKT3VaQzJNSzhwdzRWdjF6blEtUmhBeHpZeno5VWNMWloyNmdoNy1BYklyX3gyZUxDUHpVTlFJYWdrSXcwSFF6RV9LdkU?oc=5",
+      "summary": "The Chinese “Game of Thrones” + other shows&nbsp;&nbsp;The Economist",
+      "pub_raw": "Fri, 14 Aug 2026 13:54:28 GMT",
+      "pub_sort_dt": "2026-08-14 21:54:28"
+    },
+    {
       "source": "DW",
-      "title_en": "Audi says geopolitical uncertainty, US tariffs, Chinese competition will dampen profits - DW.com",
-      "title_cn": "奥迪称地缘政治不确定性、美国关税、中国竞争将削弱利润 - DW.com",
+      "title_en": "Audi says geopolitical uncertainty, US tariffs, Chinese competition will dampen profits - dw.com",
+      "title_cn": "奥迪称地缘政治不确定性、美国关税、中国竞争将削弱利润 - dw.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMW9oN2tIc1N0Ny1acEkwaHJSVkxfOGNsUVN3RHVsaEdMQWpEakFLVEJjS1dqNGhuT3dDZzNQYlZ3a2VsRDZPR0ZWWUdSYThKS2xUcXNjS0hnZXE4a0kyclRhM1V5ejY0QU1nZFVwUllwYzZIcjBXVVlxb3V6NE9tVk5aVXpZZ2dEcXdINWJCTDFjR3FUeVl3Q0d3OW0yWnlWVEhmeXlpQWdkcXZiNWhkc2pvaGR3MmtxSlJXT0ZaVDJCd08tNVpEOEVn?oc=5",
-      "summary": "Audi says geopolitical uncertainty, US tariffs, Chinese competition will dampen profits&nbsp;&nbsp;DW.com",
+      "summary": "Audi says geopolitical uncertainty, US tariffs, Chinese competition will dampen profits&nbsp;&nbsp;dw.com",
       "pub_raw": "Fri, 14 Aug 2026 13:23:47 GMT",
       "pub_sort_dt": "2026-08-14 21:23:47"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "Explainers | Latest news and analysis from The Economist - The Economist",
+      "title_cn": "解释者| 《经济学人》的最新新闻和分析 - 《经济学人》",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlN4WjZpelUtSnpBdWhJYzdaNlJlVmhMYkNXbWkxUFdBa3ZsNXo2NTByYWl6Wk5CUTJYVU1zYWVUUkFNQ0loaUJIemE5WmdaSjdFRmJ1Q3VjeUUwMGMwZ3NiVzRaMkVQVGEwNzkwZ05lVTAtRTJTbVZMWVlhbFM1UHhtWWd1bUd6T2xCT004OUkzNm54QV9wdXlRVjZMQTQ?oc=5",
+      "summary": "Explainers | Latest news and analysis from The Economist&nbsp;&nbsp;The Economist",
+      "pub_raw": "Fri, 14 Aug 2026 13:21:10 GMT",
+      "pub_sort_dt": "2026-08-14 21:21:10"
     },
     {
       "source": "Reuters",
@@ -152,18 +224,9 @@
       "pub_sort_dt": "2026-08-14 20:47:52"
     },
     {
-      "source": "New York Times",
-      "title_en": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan - The New York Times",
-      "title_cn": "日本破纪录降雨导致八人死亡、数千人滞留 - 纽约时报中文网",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkNoblJJT2dwOFlHV0RGRktWUE05M2ttZmNBYlAwNFpEQ09ob0lhVHFRVDhZUGN0WVhuaUxOc0RJdmpidW1GQWpoLU5jdjZ6Y0QwazV4bjB5RmV0ZldsWmNOczRwVkZOdjNGdG81RFZ5Zkt3MkpPNlh2T0xkdW1RZG5rbkNuNUU?oc=5",
-      "summary": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Fri, 14 Aug 2026 12:47:33 GMT",
-      "pub_sort_dt": "2026-08-14 20:47:33"
-    },
-    {
       "source": "CNBC",
       "title_en": "China's industrial overcapacity: Michael Froman on whether it could trigger the next economic crisis - CNBC",
-      "title_cn": "中国的工业产能过剩：迈克尔·弗罗曼谈其是否会引发下一次经济危机 - CNBC",
+      "title_cn": "中国工业产能过剩：迈克尔·弗罗曼谈其是否会引发下一次经济危机 - CNBC",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNnJ2emNhWEZnV2IxR3BEcDhod3YyZFRSZTRjZzVYWjRDYmFKSWdmdm9GNldXMFV6X1ZiaEIxMzBQTVJRSGJQa2FNV0V4YzBDUWE3Q0t5ZlM4RzBEVWoydmV1SW9wd3ZQRlJWRHNXWWZ1dVJHTzAzUHd6Tkd3aXMyUEFBX0N3RlNNUE9SODFTNkxwVkJ6Q1ZVZWRKNEN3THBGQlN2eFRQUGdnWFZXREdOVThhZ2x1WmRRNTR2RzZ3LURyVVIwbzg2QUVldEhZaGRUQ2VoWjA5Rks?oc=5",
       "summary": "China's industrial overcapacity: Michael Froman on whether it could trigger the next economic crisis&nbsp;&nbsp;CNBC",
       "pub_raw": "Fri, 14 Aug 2026 12:46:05 GMT",
@@ -179,13 +242,31 @@
       "pub_sort_dt": "2026-08-14 20:35:00"
     },
     {
+      "source": "The Economist",
+      "title_en": "World in Brief: America accuses China of evading tariffs; Israel removes settlers from West Bank - The Economist",
+      "title_cn": "世界简报：美国指责中国逃避关税；以色列从约旦河西岸撤走定居者 - 经济学人",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlZMOWtwZ1dzVVBiaUV6dmg4X1BranNqQzRDZVIxT3lvMzRGSEE3VllPS1lrMWl0czRxNEFfQU14NThMT19jSUQwb1ZJOGNxVnNWVmJuTUVyV09KZDlDMVBEemlQNGV4QlI3MjFkREc1eUkzZ2hWT0toN0s5bmpDMm1EQTU1NG02YjlpcEZkSThkcHBFVy1B?oc=5",
+      "summary": "World in Brief: America accuses China of evading tariffs; Israel removes settlers from West Bank&nbsp;&nbsp;The Economist",
+      "pub_raw": "Fri, 14 Aug 2026 12:20:15 GMT",
+      "pub_sort_dt": "2026-08-14 20:20:15"
+    },
+    {
       "source": "Wall Street Journal",
       "title_en": "Trump Announces Drone Tariffs to Bolster U.S. Supply Chains and Counter China - WSJ",
-      "title_cn": "特朗普宣布征收无人机关税以加强美国供应链并对抗中国 - 华尔街日报",
+      "title_cn": "特朗普宣布征收无人机关税以增强美国供应链并对抗中国 - 华尔街日报",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONVF4NmtNTmNvQVQ2T3FPUF9zWUtHT09QSlNtSi1tWmFwUXNTWHRQeUxiMGh2LVo1cHVFaDg1RkVFVHdtMGppeVVyOXo0RHBYaGE5alNVbnFsSlhFVXZqRFZYZEpBLW5xc3A2Y01RTjZScDNjaDEtVkZzSDdibDF2S1RiakUyRmptVFI4eXFJM2lXTUY3Vm5MLTZvRl9jSHN3OFlDY0llSGloNDRDUGxGLUF3VTBGbDJDY1pGZy1qZnpWUnJnTnc?oc=5",
       "summary": "Trump Announces Drone Tariffs to Bolster U.S. Supply Chains and Counter China&nbsp;&nbsp;WSJ",
       "pub_raw": "Fri, 14 Aug 2026 11:46:00 GMT",
       "pub_sort_dt": "2026-08-14 19:46:00"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "Bird remains found in engine of Ryanair window blowout plane - Financial Times",
+      "title_cn": "瑞安航空窗户爆裂飞机发动机中发现鸟遗骸 - 金融时报",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0hlbU5iakp1RkpQZDdqckNtR2V6R0xFbUtmS2dyNDhUZGRkcmFNOGtTVUpjN0xUU1RsMmtPakRJa2VsM3V1U0xIMjg3TVdGUUVxRFFzeGtpRUJwQ2xfcTZTLWktZ1BiUDV4VkxMc1RfNzdYZXFpUFdNV1h2ZXFKUTZyWTg?oc=5",
+      "summary": "Bird remains found in engine of Ryanair window blowout plane&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Fri, 14 Aug 2026 11:28:38 GMT",
+      "pub_sort_dt": "2026-08-14 19:28:38"
     },
     {
       "source": "CNN",
@@ -206,56 +287,47 @@
       "pub_sort_dt": "2026-08-14 18:54:00"
     },
     {
-      "source": "The Economist",
-      "title_en": "No more tickets, no more parties: the death of planning - The Economist",
-      "title_cn": "不再有门票，不再有派对：计划之死 - 《经济学人》",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQWVfRWV6dG10N1NMRWNObGZlb3cwcUs2cFJIWGM5SWpEYlhGUW1ZUkZ5MXk2cWp2ZlBMVjM3MEV1RDRNYkhvUS12RkR5bVBjZ2xsYWpnRnN0SkNOcjJBbWh3N1I3eU5BNzZBSUg2NkVrdDViUjNUMTRabGxLZXNhREViT2I2akE?oc=5",
-      "summary": "No more tickets, no more parties: the death of planning&nbsp;&nbsp;The Economist",
-      "pub_raw": "Fri, 14 Aug 2026 10:47:56 GMT",
-      "pub_sort_dt": "2026-08-14 18:47:56"
+      "source": "Reuters",
+      "title_en": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say - Reuters",
+      "title_cn": "独家：消息人士称，苹果在阿里巴巴的支持下为中国市场训练自己的人工智能模型 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5",
+      "summary": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say&nbsp;&nbsp;Reuters",
+      "pub_raw": "Fri, 14 Aug 2026 10:47:05 GMT",
+      "pub_sort_dt": "2026-08-14 18:47:05"
     },
     {
       "source": "Bloomberg",
-      "title_en": "China’s Credit Growth Exceeds Forecasts Despite Rare Loan Slump - Bloomberg.com",
-      "title_cn": "尽管贷款罕见下滑，但中国信贷增长仍超出预期 - Bloomberg.com",
+      "title_en": "China’s Credit Growth Exceeds Forecasts Despite Rare Loan Slump - Bloomberg",
+      "title_cn": "尽管贷款罕见下滑，但中国信贷增长仍超出预期 - 彭博社",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDNSM0h0azZJc1ZybWtqcEJObDRDZkpXLVVCdUNtRjNBdUN4X0VvRTY3TU9IeEJJaWd2VTVIekQ5b1BIaVBBME1tbkYtTGxLTW5lV0R4dzBXR1p3ZnZjOE9ZOG8tRWtvMEh0RmVuYkNJcExUbGRsOFZ5MTRGczQ5UGJCakE0bHlCMEpPaldFRmctdEk4RUVnQ0xPNGx3YWpTd2g2Q1ZRUTE0OGhRbU4wOU54M1o?oc=5",
-      "summary": "China’s Credit Growth Exceeds Forecasts Despite Rare Loan Slump&nbsp;&nbsp;Bloomberg.com",
+      "summary": "China’s Credit Growth Exceeds Forecasts Despite Rare Loan Slump&nbsp;&nbsp;Bloomberg",
       "pub_raw": "Fri, 14 Aug 2026 10:12:44 GMT",
       "pub_sort_dt": "2026-08-14 18:12:44"
     },
     {
       "source": "DW",
-      "title_en": "Why women are breaking men's endurance records - DW.com",
-      "title_cn": "为什么女性正在打破男性的耐力记录 - DW.com",
+      "title_en": "Why women are breaking men's endurance records - dw.com",
+      "title_cn": "为什么女性正在打破男性的耐力记录 - dw.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVpqU3dJNG82cHZqVVl4VWd4Qm5sQWZkSUpMWFd0WXFaYUZnZVpBTU5HS3NORGp2THZWbUNmN2laNXdVRjd5Ynp1UW5ZdE1TOXJ3eVN5TWpHS1FDQTRPNXFmdEJHaktRWVhuRTYteTZZeWlxZUtjMFVtTTNEOXA0amJ6c3fSAYQBQVVfeXFMUDFaalN3STRvNnB2alVZeFVneEJubEFmZElKTFhXdFlxWmFGZ2VaQU1OR0tzTkRqdkx2Vm1DZjdpWjV3VUY3eWJ6dVFuWXRNUzlyd3lTeU1qR0tRQ0E0TzVxZnRCR2pLUVlYbkU2LXk2WXlpcWVLYzBVbU0zRDlwNGpienN3?oc=5",
-      "summary": "Why women are breaking men's endurance records&nbsp;&nbsp;DW.com",
+      "summary": "Why women are breaking men's endurance records&nbsp;&nbsp;dw.com",
       "pub_raw": "Fri, 14 Aug 2026 10:06:45 GMT",
       "pub_sort_dt": "2026-08-14 18:06:45"
     },
     {
       "source": "DW",
-      "title_en": "Explaining Finland's love of tango - DW.com",
-      "title_cn": "诠释芬兰人对探戈的热爱 - DW.com",
+      "title_en": "Explaining Finland's love of tango - dw.com",
+      "title_cn": "诠释芬兰人对探戈的热爱 - dw.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTk90Y3h3SzVucnBsRndKLUcyVTRBdW9PZkYzMXA2ZUliVlBSQ1JFeDVkd21iaG1PdThrMU9tV1JpT3BIMl9CbGFJV01yamJuTmJESng3ZDRNc012bkpJVVp6a0R6MUM3UjR4WHpnWXZURHR3a2k3a1ZzbEw5VzVUWldWZXZZTEFKUzA2UA?oc=5",
-      "summary": "Explaining Finland's love of tango&nbsp;&nbsp;DW.com",
+      "summary": "Explaining Finland's love of tango&nbsp;&nbsp;dw.com",
       "pub_raw": "Fri, 14 Aug 2026 10:06:18 GMT",
       "pub_sort_dt": "2026-08-14 18:06:18"
     },
     {
-      "source": "The Economist",
-      "title_en": "Explainers | Latest news and analysis from The Economist - The Economist",
-      "title_cn": "解释者| 《经济学人》的最新新闻和分析 - 《经济学人》",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFg3UVVzeXYtWUVBWllFcWFnUFVIenhEdUV4dTY0ZGNDVzB1dHNMSEswVElZc1pzWi0zSXFQUjJvTTV4ME4zM3hXOHI3STFGWUtoLXhKLVJhVGZ0WFpPelVkV1U0cE9YS0p3ZjdJaFMxZFRhVzl5SHZZM1RvYTVFS2VjYnp2VGpIRDVWeG9IajhuQ3FibVRUODM3Wk5vUDA?oc=5",
-      "summary": "Explainers | Latest news and analysis from The Economist&nbsp;&nbsp;The Economist",
-      "pub_raw": "Fri, 14 Aug 2026 10:01:10 GMT",
-      "pub_sort_dt": "2026-08-14 18:01:10"
-    },
-    {
       "source": "AP",
-      "title_en": "Zambia awaits presidential election results. Here’s why China and the US may be interested - apnews.com",
-      "title_cn": "赞比亚等待总统选举结果。这就是中国和美国可能感兴趣的原因 - apnews.com",
+      "title_en": "Zambia awaits presidential election results. Here’s why China and the US may be interested - AP News",
+      "title_cn": "赞比亚等待总统选举结果。这就是中国和美国可能感兴趣的原因 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUVUY2pDMC1uZzZkWkZuanQxN0VxeW5ER09VSXdBQVRLWXRnQVRabmZvTGdMR0lRZE9zRWZIRlB4eHZLYW1kYkRFRTNWVWZpSzEzcnFaQUtYRlBYVXl1WXZObmQzZ1I1STlXUGhYV2tzWUx5S2xoVElhQTR0b3RjZkxSb0FaR1pkVW1TWmxTbTBLNHRaekltNENOdG1GQWRTaXJtd2htcUNEV1N4VkM0ZWN3?oc=5",
-      "summary": "Zambia awaits presidential election results. Here’s why China and the US may be interested&nbsp;&nbsp;apnews.com",
+      "summary": "Zambia awaits presidential election results. Here’s why China and the US may be interested&nbsp;&nbsp;AP News",
       "pub_raw": "Fri, 14 Aug 2026 09:44:00 GMT",
       "pub_sort_dt": "2026-08-14 17:44:00"
     },
@@ -267,6 +339,15 @@
       "summary": "Trump White House Says China Avoids Billions in Tariffs by Rerouting Goods&nbsp;&nbsp;WSJ",
       "pub_raw": "Fri, 14 Aug 2026 09:41:00 GMT",
       "pub_sort_dt": "2026-08-14 17:41:00"
+    },
+    {
+      "source": "New York Times",
+      "title_en": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan - The New York Times",
+      "title_cn": "日本破纪录降雨导致八人死亡、数千人滞留 - 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkNoblJJT2dwOFlHV0RGRktWUE05M2ttZmNBYlAwNFpEQ09ob0lhVHFRVDhZUGN0WVhuaUxOc0RJdmpidW1GQWpoLU5jdjZ6Y0QwazV4bjB5RmV0ZldsWmNOczRwVkZOdjNGdG81RFZ5Zkt3MkpPNlh2T0xkdW1RZG5rbkNuNUU?oc=5",
+      "summary": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan&nbsp;&nbsp;The New York Times",
+      "pub_raw": "Fri, 14 Aug 2026 09:39:02 GMT",
+      "pub_sort_dt": "2026-08-14 17:39:02"
     },
     {
       "source": "BBC",
@@ -287,22 +368,13 @@
       "pub_sort_dt": "2026-08-14 15:52:56"
     },
     {
-      "source": "Reuters",
-      "title_en": "Chinese car sales are booming almost everywhere - just not at home - Reuters",
-      "title_cn": "中国汽车销售几乎在所有地方都在蓬勃发展，但在国内除外 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUEFNZjJjbVlyWTFSdGhZa2JPSGREemc5MUlBSGxtVnZ2U2lrVjV4Wk5Jblg1VVB5OWhFY1hTRGU5Q2tBMUVCXzQ1ZHlNNmMzWlM2RjBRLVliaGNkdklPa3F3U01OUGxlTWNwTmc0bVNzRGJ1d3ZrZHZUaTVNRjBYaTQ3Q0tvcHl2a1VWVV9MeV95S3NEajREQVRDY2VmalRMY2xLMWdILXJQUGtZQjk5dGNWWDN3dmNNZVFoNFd4aHBRVkNFRXc?oc=5",
-      "summary": "Chinese car sales are booming almost everywhere - just not at home&nbsp;&nbsp;Reuters",
-      "pub_raw": "Fri, 14 Aug 2026 06:31:00 GMT",
-      "pub_sort_dt": "2026-08-14 14:31:00"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "Shares of China’s JD.com slide after rare revenue plunge - Financial Times",
-      "title_cn": "收入罕见暴跌后，中国京东股价下跌 - 英国《金融时报》",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnhidEdCQXozc0lOZE9VVS1oaE9WUThPSi1IODBQVTJtMzJVRkRfOUcweXBaZ01FX1VULWJXS0JrUUpMUmNFbzdsMHM5T0UyZ3ZLVEwyWkd0S2ctRHJEcU1EOEJjSXRVamYwSmVyamc4ZGF2RkJIU0Npdmp6WUs5bzdGRUI?oc=5",
-      "summary": "Shares of China’s JD.com slide after rare revenue plunge&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Fri, 14 Aug 2026 06:19:13 GMT",
-      "pub_sort_dt": "2026-08-14 14:19:13"
+      "source": "The Economist",
+      "title_en": "No more tickets, no more parties: the death of planning - The Economist",
+      "title_cn": "不再有门票，不再有派对：计划之死 - 《经济学人》",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVy1xZzU5YXdCSEt4UWZqYmdTa0h0OTZQdmRtcEhOV2h0QlJ1c2pJdGNvckFrS2FxMFZIc2hKdVVtTkpQMnRPdVpmMGxCdHVuSFE1WHJOOF9GZHZ2b1NZVzI0eXFNOUsxZnU2OUxFUzhKV0pwaUYxQnhKYmppWFVhbFJLNVZZaTQ?oc=5",
+      "summary": "No more tickets, no more parties: the death of planning&nbsp;&nbsp;The Economist",
+      "pub_raw": "Fri, 14 Aug 2026 06:15:54 GMT",
+      "pub_sort_dt": "2026-08-14 14:15:54"
     },
     {
       "source": "Nikkei Asia",
@@ -314,20 +386,29 @@
       "pub_sort_dt": "2026-08-14 14:00:00"
     },
     {
+      "source": "CNBC",
+      "title_en": "China-U.S. divide evolves: Expert warns full ban on Chinese AI models could cross Beijing's red line - CNBC",
+      "title_cn": "中美分歧不断演变：专家警告全面禁止中国人工智能模型可能会跨越北京的红线 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmhVTXNxeFBRV3RFRWl3UFNJejFjYi1fSDR4V2ItcHhmaENkT2JsUlVDOTE4Q1BSQ1ZnXzFhdnV6Y0NGQTA3QWJpeF9QRkQ0Qm9hb3F6SHB2S3UwZXdWUEFBMkNneEhuX2R2bWlEMUZ4Ykdaci1QN0lsWWFZNzkzYjdVbkcyNWtscDVGTGpBVzJlMy1tcmtGTjM5LVA5cU41MTE1emJCd1hEYlNpZDItWHdvcw?oc=5",
+      "summary": "China-U.S. divide evolves: Expert warns full ban on Chinese AI models could cross Beijing's red line&nbsp;&nbsp;CNBC",
+      "pub_raw": "Fri, 14 Aug 2026 05:52:46 GMT",
+      "pub_sort_dt": "2026-08-14 13:52:46"
+    },
+    {
       "source": "DW",
-      "title_en": "China: Severe storms bring death and destruction - DW.com",
-      "title_cn": "中国：严重风暴造成死亡和破坏 - DW.com",
+      "title_en": "China: Severe storms bring death and destruction - dw.com",
+      "title_cn": "中国：严重风暴造成死亡和破坏 - dw.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCeDdKbUI1UElkVUlsdkpFZldpb3lSMnRXcE1ZSnc2TzdLbmFUSVBRVzNHUGs5MjBRY0NtMnVvWGo2Zk1ENTVSTjVWNmx2VnVZUGJRRnNCRk5BRU1LT2FhUm1YZDNGdkw2Y2xUVUpxSkt3ZE5ieUFmVDNGQQ?oc=5",
-      "summary": "China: Severe storms bring death and destruction&nbsp;&nbsp;DW.com",
+      "summary": "China: Severe storms bring death and destruction&nbsp;&nbsp;dw.com",
       "pub_raw": "Fri, 14 Aug 2026 05:51:40 GMT",
       "pub_sort_dt": "2026-08-14 13:51:40"
     },
     {
       "source": "DW",
-      "title_en": "The EU’s $2 Trillion Taiwan Problem - DW.com",
-      "title_cn": "欧盟2万亿美元的台湾问题 - DW.com",
+      "title_en": "The EU’s $2 Trillion Taiwan Problem - dw.com",
+      "title_cn": "欧盟价值2万亿美元的台湾问题 - dw.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13cGdEaWgyamwyTk9UcVl6S0psVURDRU8ta3N4SHRiMjdjMGxubHJxVVktUi1Qak9LcVJBRktwTENIZE9vYVNFaEZxVjJNQjJELTJ1NmJ4MUdXODUtb25NSVJ3TjlxejJlZHd4bDh6RldpdDlxeUlQYVdR?oc=5",
-      "summary": "The EU’s $2 Trillion Taiwan Problem&nbsp;&nbsp;DW.com",
+      "summary": "The EU’s $2 Trillion Taiwan Problem&nbsp;&nbsp;dw.com",
       "pub_raw": "Fri, 14 Aug 2026 05:25:57 GMT",
       "pub_sort_dt": "2026-08-14 13:25:57"
     },
@@ -343,7 +424,7 @@
     {
       "source": "BBC",
       "title_en": "Meet the 80-year-old butcher with no plans to retire - BBC",
-      "title_cn": "来认识一下这位没有退休计划的 80 岁屠夫 - BBC",
+      "title_cn": "来认识一下没有退休计划的 80 岁屠夫 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxM3NKLU4ySVRaeDEyNUg0MGpTeEUtNnZyd0FudVJVWVFSbk9WaWhaRmdDRzRQUXQyUmtXc08xQ2lma2d5eVREVHQtNkpFUlpPeEs1dW9iWFlVUQ?oc=5",
       "summary": "Meet the 80-year-old butcher with no plans to retire&nbsp;&nbsp;BBC",
       "pub_raw": "Fri, 14 Aug 2026 05:12:52 GMT",
@@ -368,31 +449,22 @@
       "pub_sort_dt": "2026-08-14 13:12:00"
     },
     {
+      "source": "Financial Times",
+      "title_en": "Shares of China’s JD.com slide after rare revenue plunge - Financial Times",
+      "title_cn": "收入罕见暴跌后，中国京东股价下跌 - 英国《金融时报》",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnhidEdCQXozc0lOZE9VVS1oaE9WUThPSi1IODBQVTJtMzJVRkRfOUcweXBaZ01FX1VULWJXS0JrUUpMUmNFbzdsMHM5T0UyZ3ZLVEwyWkd0S2ctRHJEcU1EOEJjSXRVamYwSmVyamc4ZGF2RkJIU0Npdmp6WUs5bzdGRUI?oc=5",
+      "summary": "Shares of China’s JD.com slide after rare revenue plunge&nbsp;&nbsp;Financial Times",
+      "pub_raw": "Fri, 14 Aug 2026 05:04:18 GMT",
+      "pub_sort_dt": "2026-08-14 13:04:18"
+    },
+    {
       "source": "Bloomberg",
-      "title_en": "China Calls New Zealand a ‘Pawn’ After Espionage Accusation - Bloomberg.com",
-      "title_cn": "间谍指控后中国称新西兰为“棋子” - Bloomberg.com",
+      "title_en": "China Calls New Zealand a ‘Pawn’ After Espionage Accusation - Bloomberg",
+      "title_cn": "间谍指控后中国称新西兰为“棋子” - 彭博社",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZFVJbkU3enphZ1cxajFCZ1BsYk40eDFFcGVmZWFXbW12eE5SeFhZZ1QzUi1JbzhRN3VyQmEwLW9XamZtZ29sYUdjRFhNNkZ5Mmo4YUdxMkxCY3E0RnlNQk1xS3pEcWQ1V1NMYVVXdDlaankwYVctWFI3TU9pYWpySDJRSHZzdnBzb2U4QTlpMU5paE5fUW53TG1CdWZKYnBEaTJhQlQyMGhnODZ2?oc=5",
-      "summary": "China Calls New Zealand a ‘Pawn’ After Espionage Accusation&nbsp;&nbsp;Bloomberg.com",
+      "summary": "China Calls New Zealand a ‘Pawn’ After Espionage Accusation&nbsp;&nbsp;Bloomberg",
       "pub_raw": "Fri, 14 Aug 2026 04:57:00 GMT",
       "pub_sort_dt": "2026-08-14 12:57:00"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "DeepSeek Lifts AI Model Prices Fourfold - WSJ",
-      "title_cn": "DeepSeek 将人工智能模型价格提升四倍 - 华尔街日报",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0hZUGVrZmdGTmVpTkVseXpHNzFmZ1cxaUdrT0I0Q1ZVYjFlVnZPdDFUZkV4RWdjMEpoUGxyQ0xEeHJ2VWVKZ0ZLZHc4bURlcEJyVWpUaWZXT0xqR3ljTmZXLXJjZ3FDaHFmRkVkanF1MHhRTlU3dTRtLWxJbDBFVTVB?oc=5",
-      "summary": "DeepSeek Lifts AI Model Prices Fourfold&nbsp;&nbsp;WSJ",
-      "pub_raw": "Fri, 14 Aug 2026 04:36:00 GMT",
-      "pub_sort_dt": "2026-08-14 12:36:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say - Reuters",
-      "title_cn": "独家：消息人士称，苹果在阿里巴巴的支持下为中国市场训练自己的人工智能模型 - 路透中文网",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5",
-      "summary": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say&nbsp;&nbsp;Reuters",
-      "pub_raw": "Fri, 14 Aug 2026 04:21:00 GMT",
-      "pub_sort_dt": "2026-08-14 12:21:00"
     },
     {
       "source": "CNBC",
@@ -413,11 +485,20 @@
       "pub_sort_dt": "2026-08-14 12:01:29"
     },
     {
+      "source": "Bloomberg",
+      "title_en": "China Tech Earnings Renew Focus on Hardware Stocks Over Internet - Bloomberg",
+      "title_cn": "中国科技股盈利重新聚焦互联网硬件股 - 彭博社",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdHF6WWp6eWI1NTRXM0p6MDh6TGpHaW5lNkVpbmYzVl83eXlmek5OWElmTjRES3lKTS01ZTdITklrZkJCVXJYYUVsSjFjS1RTczBBc0RXVVZPdVVvbEV0Y3NDWHg1bVBsTEpIajJvNTdrYk4zZGpESEtRc0Z3dk8yY0k2aGxOUWFVVjRjSmFBMWNtUk93aElCdFJWSF9DVzE1MFZqN2hrcTZSYlJLenJKYkx1S1I0QQ?oc=5",
+      "summary": "China Tech Earnings Renew Focus on Hardware Stocks Over Internet&nbsp;&nbsp;Bloomberg",
+      "pub_raw": "Fri, 14 Aug 2026 03:54:00 GMT",
+      "pub_sort_dt": "2026-08-14 11:54:00"
+    },
+    {
       "source": "AP",
-      "title_en": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill - apnews.com",
-      "title_cn": "作为防御演习的一部分，台湾将其移动互联网速度短暂减慢至纯文本速度 - apnews.com",
+      "title_en": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill - AP News",
+      "title_cn": "作为防御演习的一部分，台湾将其移动互联网速度短暂减慢至纯文本速度 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmlmZ0lFTDZodTVzOGx0alVzcVp3eWJaci1XWjlSbmRGOFlyRHJpUU1MakVOc2xReVhacm8tSlczVy0zS19Tam5nUjdpM1BzRUNGaUhxVXcxSF9xYmxVVExZLXFITUg3RWlSVDF6eDluRHFJOHdhZk4xbEpLcVEzcmdCTWJOZ3FoVzdpRm15R0NuQmtZdFg0cThLWnNBZm43NUhHZFNLZ0x1ekxKZkUtTzRKM0s?oc=5",
-      "summary": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill&nbsp;&nbsp;apnews.com",
+      "summary": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill&nbsp;&nbsp;AP News",
       "pub_raw": "Fri, 14 Aug 2026 03:36:00 GMT",
       "pub_sort_dt": "2026-08-14 11:36:00"
     },
@@ -433,7 +514,7 @@
     {
       "source": "Nikkei Asia",
       "title_en": "US claims China-led 'Great Transshipment Scam' costs it billions - Nikkei Asia",
-      "title_cn": "美国声称中国主导的“大转运骗局”造成数十亿美元损失 - 日经亚洲",
+      "title_cn": "美国声称中国领导的“大转运骗局”造成数十亿美元损失 - 日经亚洲",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXJTU3pFNmxfSFlqTGs4M3J6aEhQMTZKTzY2dDVYOXlEZXVnVzBBWmdMVHU1cUFuSXktTXFBZFBWb3V6cnh1X0RBS2VtQk1DaGk1ZVRGZGVoUS1nQTQzc2RDcFdWVkVfVGdUSkRTRHhQa3Brc0wwZ0RtS0RrcHB2U25QOWU4NC13M2VJVmlPNWVhektwVTctMGhVWDJIR1hNUk5ycFBBYmNMZmlpSm54SnFNRkFxQV9J?oc=5",
       "summary": "US claims China-led 'Great Transshipment Scam' costs it billions&nbsp;&nbsp;Nikkei Asia",
       "pub_raw": "Fri, 14 Aug 2026 02:00:00 GMT",
@@ -445,8 +526,17 @@
       "title_cn": "人工智能热潮推动中国科技公司估值达到美国同行的数倍 - 英国《金融时报》",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPckgxeTY2WGM0YVJoRWthUXBhWjFxbmRJemNYXzFRZm1iZmhJYTZxczNLQlJTTlo3NFhrR0QzeHpjUjJpZXdkSFVGcEh2d3hvdFlUanNEZE4xSXlzV1lGaVlKUFRVN28wUDNsVHJEMXZ2VG5GVmdzczM2aVIyekplNDN1UWo?oc=5",
       "summary": "AI frenzy drives Chinese tech valuations to multiples of US peers&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Fri, 14 Aug 2026 01:44:11 GMT",
-      "pub_sort_dt": "2026-08-14 09:44:11"
+      "pub_raw": "Fri, 14 Aug 2026 01:43:21 GMT",
+      "pub_sort_dt": "2026-08-14 09:43:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "China’s High-Tech Boom Seen Failing to Halt Slowdown of Economy - Bloomberg",
+      "title_cn": "中国高科技繁荣未能阻止经济放缓 - 彭博社",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdTVqSk1WenVOT2xLSDZINFExcE1BZ2Faektlam5uakR1ZmlHNVltdnVYblByY3R3QVdhSno3OWdNRUNlUENfUHRPU2xTZ0pwM3BNdGpkbGpuS2tsSk1HU2E2MnVtek81ZDRMWW1uU3ZvcjB2UklYdU1faEQ2MHhCOEczeThmM1hQYll1WlhBYUFFNEk5czJzaWlSZG95QUZDTnIwNE9lNFFvS29MbWhHelk1WFI?oc=5",
+      "summary": "China’s High-Tech Boom Seen Failing to Halt Slowdown of Economy&nbsp;&nbsp;Bloomberg",
+      "pub_raw": "Fri, 14 Aug 2026 01:30:00 GMT",
+      "pub_sort_dt": "2026-08-14 09:30:00"
     },
     {
       "source": "CNBC",
@@ -456,96 +546,6 @@
       "summary": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe&nbsp;&nbsp;CNBC",
       "pub_raw": "Fri, 14 Aug 2026 01:02:00 GMT",
       "pub_sort_dt": "2026-08-14 09:02:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Uber and China’s Pony AI to Deploy 2,000 Robotaxis in Europe - Bloomberg.com",
-      "title_cn": "Uber 和中国小马智行将在欧洲部署 2,000 辆机器人出租车 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNGxSVjE2azc0QTRBUC1yQXQtSzA5RExGOEVDVUUxWGlRYkN6czBSRFczcmJzTDRMQU05RXZKUHpabHNSQjcxc095QTdEOF9PWWwwelNTamRKNGZkemNMSl85NVlRWGxIblVuT2Y4eVUwVU1JR0JIREV5MTZUMFRoYy1QZkJBZVRPMzI1OFBLRFFwU1haRHY2MlFpV2lqcTc5MW8wT25HcVNoNXNsTHBaWg?oc=5",
-      "summary": "Uber and China’s Pony AI to Deploy 2,000 Robotaxis in Europe&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Fri, 14 Aug 2026 01:00:00 GMT",
-      "pub_sort_dt": "2026-08-14 09:00:00"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "Donald Trump launches tariffs targeting Chinese drone technology - Financial Times",
-      "title_cn": "唐纳德·特朗普对中国无人机技术征收关税 - 英国《金融时报》",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnVNZWVVeXk4N0Y3UUNUZlVtVVAzd1pQbk0ybkprOHJpZzRlLUo1V1UwRHJYWkVQLWhsa1FEOXFtaWtCTElmbWgycXNTN3VveEFOX21kUmlPTDZlRHNBb1lsWDAwN1pOZ1B1aHBhclVNbXJQVVdWdTEydHRqcnkwdC01QXM?oc=5",
-      "summary": "Donald Trump launches tariffs targeting Chinese drone technology&nbsp;&nbsp;Financial Times",
-      "pub_raw": "Fri, 14 Aug 2026 00:42:23 GMT",
-      "pub_sort_dt": "2026-08-14 08:42:23"
-    },
-    {
-      "source": "CNBC",
-      "title_en": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore - CNBC",
-      "title_cn": "从苹果到福特：中国科技如何变得越来越难以让跨国公司忽视 - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkJWX1oyZklMNlRwbTRFZDZ3TDhTX09IQ0tQa0Rzb0I2WUQ0YmhsUHkzUnlvTmZxLUl4RlI0YVZ1SzlpNHN6Wml1Y0I4aHM3VWItdjlYbHJQVXBVOHpiTnJwcnc4d3Ywd0lLTlhiNk95Z1h2ZDNib3RwdHlJdllrR1N2Wlp1aERENXhka1VCc9IBlAFBVV95cUxOQWFYWWxTQWR1Ml9rNXU2cDYwdi1ScVhxVjZmYW9Pb3M3ckVjYkN6b215a0FKX003ZWV6d3FydWNOamhoVGJVZkFOR3VjZndxWWc2Vm43NVI0ZnY3OXJSSWZhNFVPN3E3WFE3dXJJQlNuOWk5SVpIcnJldUh0UTdRa3VBd29abk5LWXQ4V0theTd2Nnpn?oc=5",
-      "summary": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore&nbsp;&nbsp;CNBC",
-      "pub_raw": "Fri, 14 Aug 2026 00:09:00 GMT",
-      "pub_sort_dt": "2026-08-14 08:09:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Why Chinese Citizens Are Far More Optimistic About AI Than Americans - Bloomberg.com",
-      "title_cn": "为什么中国公民对人工智能比美国人更乐观 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNczJVZGRBZVpxSHVNRVliczloZWVVb3NfN1lZZXZFR21lN294V3pLVjdaRzZtT1J2SmN2ZnlaMGZfLUprZGQ4c2IyY0ktWlRxMElIM0tVUTIxb05LbGJMRml3TUExMXUzX0ZLanVEbEJSc2otU0k5bUZMajA2UUI4YzFpaUlRSmRvTUlPRHgzQW9yTlk3N0l1cFZCN2x0a2hHUzBYM2xZUXA?oc=5",
-      "summary": "Why Chinese Citizens Are Far More Optimistic About AI Than Americans&nbsp;&nbsp;Bloomberg.com",
-      "pub_raw": "Fri, 14 Aug 2026 00:00:00 GMT",
-      "pub_sort_dt": "2026-08-14 08:00:00"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "World in Brief: America accuses China of evading tariffs; Israel removes settlers from West Bank - The Economist",
-      "title_cn": "世界简报：美国指责中国逃避关税；以色列从约旦河西岸撤走定居者 - 经济学人",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlZMOWtwZ1dzVVBiaUV6dmg4X1BranNqQzRDZVIxT3lvMzRGSEE3VllPS1lrMWl0czRxNEFfQU14NThMT19jSUQwb1ZJOGNxVnNWVmJuTUVyV09KZDlDMVBEemlQNGV4QlI3MjFkREc1eUkzZ2hWT0toN0s5bmpDMm1EQTU1NG02YjlpcEZkSThkcHBFVy1B?oc=5",
-      "summary": "World in Brief: America accuses China of evading tariffs; Israel removes settlers from West Bank&nbsp;&nbsp;The Economist",
-      "pub_raw": "Fri, 14 Aug 2026 00:00:00 GMT",
-      "pub_sort_dt": "2026-08-14 08:00:00"
-    },
-    {
-      "source": "CNN",
-      "title_en": "11 potential candidates to replace Karoline Leavitt - CNN",
-      "title_cn": "接替卡罗琳·莱维特的 11 名潜在候选人 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnR6MVJnbXhtVUJmWmRVdTB2d3ZXaWtpUUpqSGlVbzhnOFd3OWdGdEV0eEpCVzNlX2N2S2UxX0dMS2dtRWZGQWY5VDVzX0EtaHlIVkhKMml4aHliUjRoUGhQekhHQmpoRUZ6MzAzQVhWNFE0c0tHSXdpLTVic2pJQ1drQ2U5dw?oc=5",
-      "summary": "11 potential candidates to replace Karoline Leavitt&nbsp;&nbsp;CNN",
-      "pub_raw": "Thu, 13 Aug 2026 23:50:48 GMT",
-      "pub_sort_dt": "2026-08-14 07:50:48"
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Applied Materials projects China revenue to grow in 2026 despite US curbs - Nikkei Asia",
-      "title_cn": "应用材料公司预计，尽管美国采取限制措施，2026 年中国收入仍将增长 - 日经亚洲",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekkxdWJpdW1Vb1hSOUhpR1VmM3FLSlFRQzJVclM5SXR2U28tY3E0cVhwc3hIQVVXMklvZjdSaWM0MjBESGIxSXQxWThTd1N3NHdyaFdVZnN5NUdNajJtWVluWjFQUWFGcjBCajYwQy1SbDZ6ZlNxU1oxUVo0eUxMWmI1bXlaNmp6ZlJDcVc4WWVoVmxLaWRFa1duLUlWMmhMbWlLUFJzM21Rb3hZUnJJelIxSHRNd1JtV1R0X3JId0hzVTJj?oc=5",
-      "summary": "Applied Materials projects China revenue to grow in 2026 despite US curbs&nbsp;&nbsp;Nikkei Asia",
-      "pub_raw": "Thu, 13 Aug 2026 22:37:00 GMT",
-      "pub_sort_dt": "2026-08-14 06:37:00"
-    },
-    {
-      "source": "AP",
-      "title_en": "Broken engine parts shattered the Ryanair plane window that a man's head got sucked into: NTSB - apnews.com",
-      "title_cn": "瑞安航空飞机窗户被损坏，一名男子的头被吸进：NTSB - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX0dMUWR0N1NCdC1lR3hzYVI3UG9ZUFRVWWdEMEpXV1RzLWZrWTN5VjI1dVFKYmo3YzRvUU5YYVkwTjZXdTdUU0FyamN2cTZvUmRqLWwtc2NnYzFoUDNZczRqSEUxc1hjZlJfbGZZcTZOSXRzMWYybzhaQjFjWmZ1NkhLa3hrRGNqallzZlY0cHVkMmo3alZnb3dyb0ZpMzU0cVE?oc=5",
-      "summary": "Broken engine parts shattered the Ryanair plane window that a man's head got sucked into: NTSB&nbsp;&nbsp;apnews.com",
-      "pub_raw": "Thu, 13 Aug 2026 22:16:00 GMT",
-      "pub_sort_dt": "2026-08-14 06:16:00"
-    },
-    {
-      "source": "BBC",
-      "title_en": "Nigeria to miss Women's World Cup after South Africa and Ghana win play-offs - BBC",
-      "title_cn": "南非和加纳赢得附加赛后尼日利亚将缺席女足世界杯 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SbnF4c2N3VzVNWlpSSUJGZXpUS2FDSDB4a3ZtQmplTzdOTTFaZjNMNlNrUWtWRGh1MEpwOVVWYWFpWHF5U2NSVXRldkp3MVU0NEhiT1owcUNvVVppZzhHTTZmX2dKSTQ?oc=5",
-      "summary": "Nigeria to miss Women's World Cup after South Africa and Ghana win play-offs&nbsp;&nbsp;BBC",
-      "pub_raw": "Thu, 13 Aug 2026 22:13:48 GMT",
-      "pub_sort_dt": "2026-08-14 06:13:48"
-    },
-    {
-      "source": "New York Times",
-      "title_en": "Homeland Security Paid $464 Million for Airplanes. Then It Parked Them. - The New York Times",
-      "title_cn": "国土安全部支付了 4.64 亿美元购买飞机。然后它把他们停了下来。 - 纽约时报",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLUlzRDFTMmppbDJwUmpDTWRfdWh4NFE2Y2dyQ3U0SlFDS1dRV2w0ZnlaVFBqUzNLTmhRLXlLTE1ONU5RWld6S0JVWm1yaFQ4VHNkZVdTdHIyV2M4TFRfcEdPUGdPWlRBVHR1Tk51MkIxQ3pxaHJDS2k5OHJyMkc0Q252YVdyeFNqeE81Wmx1OA?oc=5",
-      "summary": "Homeland Security Paid $464 Million for Airplanes. Then It Parked Them.&nbsp;&nbsp;The New York Times",
-      "pub_raw": "Thu, 13 Aug 2026 22:04:20 GMT",
-      "pub_sort_dt": "2026-08-14 06:04:20"
     }
   ]
 }
