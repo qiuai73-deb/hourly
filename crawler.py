@@ -12,25 +12,16 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0
 MAX_PER_SOURCE = 5  # 每家媒体最多5条
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=4)
 
-# 涉华过滤关键词
-CKW = ["china","chinese","beijing","xi jinping","Morgan Stanley","JPMorgan",
-       "taiwan","hong kong","Goldman","tibet","south china sea",
-       "belt and road","huawei","tencent","alibaba","tiktok","shein",
-       "temu","cpec","renminbi","yuan","pboc","deepseek","baidu",
-       "xiaomi","chinese economy","chinese market","chinese official",
-       "sino-","brics","shanghai","shenzhen","guangzhou",
-       "people's liberation army","chinese military","scoop",
-       "ccp","communist party of china","pla","nasdaq","taiwan","google","breaking"]
-PLA_RE = re.compile(r"\bpla\b", re.I)
 
-def is_cn(text: str) -> bool:
-    tl = (text or "").lower()
-    if PLA_RE.search(tl):
-        return True
-    for kw in CKW:
-        if kw in tl:
-            return True
-    return False
+# ---------- 新闻源 ----------
+SOURCES = {
+    "buzzing": {
+        "name_cn": "buzzing",
+        "url": "https://china.buzzing.cc/feed.xml",
+        "type": "rss"
+    },
+}
+
 
 # 简易网络请求（去掉多次重试）
 def fetch(url: str, timeout=15):
