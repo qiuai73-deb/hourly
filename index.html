@@ -1,14 +1,3 @@
-from pathlib import Path
-
-src = Path("/mnt/data/index.html")
-text = src.read_text(encoding="utf-8")
-
-# 保留原页面整体风格，但重写新闻展示部分，确保：
-# 1) 第一部分只显示 data.china_news 的10条
-# 2) 第二部分只显示 data.media_news 的20条，五家外媒混编，不按来源分组
-# 3) 不显示摘要
-# 4) 每条显示中文标题、英文标题、来源、发布时间
-
 html = """<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
