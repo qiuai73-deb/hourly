@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Buzzing.cc 新闻 RSS 爬虫：抓取最新20条，并将标题和摘要翻译成中文"""
+"""Buzzing.cc 新闻 RSS 爬虫：抓取最新30条，并将标题和摘要翻译成中文"""
 
 import urllib.request
 import ssl
@@ -184,7 +184,7 @@ def parse_pubdate(date_str: str):
 # =========================
 # 新闻处理
 # =========================
-def build_news_pool(items, source_name="Buzzing.cc", max_news=20):
+def build_news_pool(items, source_name="Buzzing.cc", max_news=30):
     news_pool = []
     seen = set()
 
@@ -205,16 +205,14 @@ def build_news_pool(items, source_name="Buzzing.cc", max_news=20):
             "title_en": title,
             "title_cn": "",
             "url": link,
-            "summary": it["desc"],
-            "summary_cn": "",
-            "pub_raw": it["pub"],
+                        "pub_raw": it["pub"],
             "pub_sort_dt": dt,
         })
 
     # 按发布时间从新到旧排列
     news_pool.sort(key=lambda x: x["pub_sort_dt"], reverse=True)
 
-    # 只保留最新20条
+    # 只保留最新30条
     return news_pool[:max_news]
 
 
@@ -224,51 +222,14 @@ def build_news_pool(items, source_name="Buzzing.cc", max_news=20):
 def translate_news(news_pool):
     if not news_pool:
         return
-
-    # 标题
     titles = [item["title_en"] for item in news_pool]
     try:
         translated_titles = batch_translate(titles)
     except Exception as e:
         print(f"[翻译] 标题翻译失败: {e}")
         translated_titles = titles
-
-    # 防止翻译服务返回数量不一致
     for i, item in enumerate(news_pool):
-        if i < len(translated_titles):
-            item["title_cn"] = translated_titles[i]
-        else:
-            item["title_cn"] = item["title_en"]
-
-    # 摘要
-    summaries = [item["summary"] for item in news_pool]
-
-    # 空摘要不送翻译 API，避免浪费请求
-    non_empty_indexes = [
-        i for i, text in enumerate(summaries) if text.strip()
-    ]
-    non_empty_summaries = [summaries[i] for i in non_empty_indexes]
-
-    translated_summaries = []
-    if non_empty_summaries:
-        try:
-            translated_summaries = batch_translate(non_empty_summaries)
-        except Exception as e:
-            print(f"[翻译] 摘要翻译失败: {e}")
-            translated_summaries = non_empty_summaries
-
-    translated_map = {}
-    for i, text in enumerate(translated_summaries):
-        if i < len(non_empty_indexes):
-            translated_map[non_empty_indexes[i]] = text
-
-    for i, item in enumerate(news_pool):
-        if not item["summary"].strip():
-            item["summary_cn"] = ""
-        else:
-            item["summary_cn"] = translated_map.get(
-                i, item["summary"]
-            )
+        item["title_cn"] = translated_titles[i] if i < len(translated_titles) else item["title_en"]
 
 
 # =========================
