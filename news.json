@@ -1,15 +1,23 @@
 {
-  "update_cst": "2026-08-16 20:29:23 北京时间",
+  "update_cst": "2026-08-16 22:01:02 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 10,
-    "Financial Times": 5,
-    "Wall Street Journal": 2,
-    "Reuters": 3
+    "The Economist": 1,
+    "Bloomberg": 9,
+    "Financial Times": 3,
+    "Wall Street Journal": 3,
+    "Reuters": 4
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "观点 美中科技战将波及人工智能的基础架构 - South China Morning Post",
+      "title_cn": "观点 美中科技战将波及人工智能的基础架构 - 南华早报",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxQZ3h3MUJSM0gzSThXeFFWQl94U2F4cHJ2Y1Uyd3hOZERxNmZZNzBSeExpSjdZMjB5cnBtMVhBUWpCUG50bW5kMXJjeXNadUN3Tk1yaEdpeVNhVnhBZEhfRmlvNThBUTY2R3J1NV91TG1oSHgxZHlZV2FNa2tSdDZnUXdYdXJodGNPQl8wR3d0SU5zdUdONm1fZGl4a2TSAZwBQVVfeXFMTWYwaXBWVUwxOEdJanFuOEp2ZGZJQndKeFI3VnZSZ2p3OHZGZGxQOVNrTnRwZTlWaXFPQXBOMmhNbE5Gc2hGUDdGQXdiWTZsZnBlcjFGR3NpWkpwc05iSVdFMjhOQnpvTjlCQXhaTkU3WkcwaWt5TC1TWUlrbjdEU2MzbnF6OHRDQS1VTVNJTG9Rd1g4SW1PZHNUaUt5?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-16T12:30:07.000Z",
+      "pub_sort_dt": "2026-08-16 20:30:07"
+    },
     {
       "source": "China Buzzing",
       "title_en": "马斯克的烦恼：认识一下挑战其商业帝国的中国企业矩阵 - scmp.com",
@@ -81,17 +89,65 @@
       "url": "https://news.google.com/read/CBMisgFBVV95cUxNVE1GWERtaWlaYk8xdDVqQm5aaHJsdmpnNEh3akxSSHV1V2NsazFuN2s4SG5FNWZjaDVIT0FtQm5BRzN2V0VSR2QtOFBpcENKcEdQMld5alhhYXlUSGdqYnpQbDBtSW5qY0NTQmZ3NjdxeVhnUUF3UjBHRlNIOHVBNU1vcXdXVDE5a2tGdElPSkVQdVZUa0x1QkpvdEpmWVQxbzlvYmZKaUpvOFhQQWM5THFB?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-16T04:28:00.000Z",
       "pub_sort_dt": "2026-08-16 12:28:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "2026年中国五家信誉良好的PVC泡沫板制造商：推动可持续材料解决方案的发展 - The National Law Review",
-      "title_cn": "2026年中国五家信誉良好的PVC泡沫板制造商：推动可持续材料解决方案的发展 - The National Law Review",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxOeTB5ZjBOQkNDWnUzMDI4cDBIaHhwanlWZEQ5WkhZeFExclFITVVrLUNOVk42Z1haSldfbGFkaC05SVIzbHRhMHV4MXVUbll1MElqdGRLNUdqcTdLY2VZdkZFVDZNVU1sdTlRR3pJeWlTemt0N1pKTTZIbEdGX2czZXFlTUFIYnd1c2JtWGtnU1Q0akU3ZkRpX1hxaUZYZkg1SzZ0a0U5UU5fYmdNQWdWWURCVjBlS2s?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T04:19:43.000Z",
-      "pub_sort_dt": "2026-08-16 12:19:43"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "伊朗议会投票决定进一步将接受“敌对媒体”采访定为犯罪行为",
+      "title_cn": "伊朗议会投票决定进一步接受“对媒体”定性为犯罪行为",
+      "url": "https://reut.rs/3SfWR3b",
+      "pub_raw": "2026-08-16T13:26:07.252Z",
+      "pub_sort_dt": "2026-08-16 21:26:07"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "那个立法者比行政部门更强大的“大民主”国家",
+      "title_cn": "那个立法者比行政部门更强大的“大民主”国家",
+      "url": "https://www.economist.com/the-americas/2026/08/16/the-big-democracy-where-lawmakers-are-mightier-than-the-executive",
+      "pub_raw": "2026-08-16T12:54:17.670Z",
+      "pub_sort_dt": "2026-08-16 20:54:17"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "尼日利亚执政党在全国大选前输掉州选举",
+      "title_cn": "利比亚执政党在全国大选前输掉州选举",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/nigerian-ruling-party-loses-state-election-before-national-polls",
+      "pub_raw": "2026-08-16T12:54:17.586Z",
+      "pub_sort_dt": "2026-08-16 20:54:17"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "教皇呼吁停止对巴勒斯坦人的暴力行为",
+      "title_cn": "教皇呼吁停止对阿富汗人的暴力行为",
+      "url": "https://reut.rs/4qjEF5n",
+      "pub_raw": "2026-08-16T12:54:17.465Z",
+      "pub_sort_dt": "2026-08-16 20:54:17"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "印度尼西亚地震造成51人死亡、道路中断，数千人撤离",
+      "title_cn": "印尼地震造成51人死亡、道路中断，数千人死亡",
+      "url": "https://reut.rs/4xMowbl",
+      "pub_raw": "2026-08-16T12:38:09.794Z",
+      "pub_sort_dt": "2026-08-16 20:38:09"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "北约战机在罗马尼亚上空击落一架疑似俄罗斯无人机",
+      "title_cn": "北约战机在罗马尼亚上空击落疑似俄罗斯无人机",
+      "url": "https://on.wsj.com/4id9F4V",
+      "pub_raw": "2026-08-16T12:38:09.777Z",
+      "pub_sort_dt": "2026-08-16 20:38:09"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "电动汽车正在改变野生动物游猎体验——并让游客更贴近动物",
+      "title_cn": "电动汽车正在改变野生动物游猎体验——并让游客更贴近动物",
+      "url": "https://on.wsj.com/4bRbXmz",
+      "pub_raw": "2026-08-16T12:38:09.773Z",
+      "pub_sort_dt": "2026-08-16 20:38:09"
+    },
     {
       "source": "Bloomberg",
       "title_en": "“觉醒1”对AOC和埃尔-赛义德来说不过是种道德标榜",
@@ -195,67 +251,19 @@
       "url": "https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60?syn-25a6b1a6=1",
       "pub_raw": "2026-08-16T11:34:07.854Z",
       "pub_sort_dt": "2026-08-16 19:34:07"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "乌克兰持续对莫斯科及俄罗斯后勤设施发动无人机袭击",
-      "title_cn": "乌克兰持续对莫斯科及俄罗斯后勤部队发动无人机袭击",
-      "url": "https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-16T11:34:07.821Z",
-      "pub_sort_dt": "2026-08-16 19:34:07"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "比利时有记录以来最大规模的山火正向德国蔓延",
-      "title_cn": "比利时记录了有史以来最大规模的山火正向德国扩散",
-      "url": "https://reut.rs/4qmyfT6",
-      "pub_raw": "2026-08-16T11:17:57.584Z",
-      "pub_sort_dt": "2026-08-16 19:17:57"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "深度解析：特朗普希望对伊朗施加更多经济压力。他有哪些选择？",
-      "title_cn": "深度解析：特朗普希望对伊朗施加更多经济压力。他有哪些选择？",
-      "url": "https://reut.rs/3RWSom6",
-      "pub_raw": "2026-08-16T11:02:19.652Z",
-      "pub_sort_dt": "2026-08-16 19:02:19"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "一场通过群聊策划的伊维萨岛女生之旅，以戏剧性结局收场",
-      "title_cn": "一场通过群聊策划的伊维萨岛女性之旅，以戏剧性结局收场",
-      "url": "https://on.wsj.com/4xM7s5i",
-      "pub_raw": "2026-08-16T11:02:19.644Z",
-      "pub_sort_dt": "2026-08-16 19:02:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "比利时消防员在德国边境附近扑救一场大火",
-      "title_cn": "比利时消防员在德国边境附近扑救大火",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/firefighters-in-belgium-battle-large-blaze-near-german-border",
-      "pub_raw": "2026-08-16T10:45:57.272Z",
-      "pub_sort_dt": "2026-08-16 18:45:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "印第安纳州因风暴造成5人死亡，获联邦灾难援助",
-      "title_cn": "印第安纳州风暴造成5人死亡，获联邦灾难援助",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-15/indiana-the-focus-as-midwest-storms-flood-homes-knock-out-power",
-      "pub_raw": "2026-08-16T10:45:57.233Z",
-      "pub_sort_dt": "2026-08-16 18:45:57"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "一位体育界亿万富翁如何威胁要颠覆华尔街",
-      "title_cn": "一位体育界亿万富翁如何威胁零售华尔街",
-      "url": "https://www.ft.com/content/cf87b6cd-f940-4b09-b072-7da36faa183f?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-16T10:45:57.102Z",
-      "pub_sort_dt": "2026-08-16 18:45:57"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "观点 美中科技战将波及人工智能的基础架构 - South China Morning Post",
+      "title_cn": "观点 美中科技战将波及人工智能的基础架构 - 南华早报",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxQZ3h3MUJSM0gzSThXeFFWQl94U2F4cHJ2Y1Uyd3hOZERxNmZZNzBSeExpSjdZMjB5cnBtMVhBUWpCUG50bW5kMXJjeXNadUN3Tk1yaEdpeVNhVnhBZEhfRmlvNThBUTY2R3J1NV91TG1oSHgxZHlZV2FNa2tSdDZnUXdYdXJodGNPQl8wR3d0SU5zdUdONm1fZGl4a2TSAZwBQVVfeXFMTWYwaXBWVUwxOEdJanFuOEp2ZGZJQndKeFI3VnZSZ2p3OHZGZGxQOVNrTnRwZTlWaXFPQXBOMmhNbE5Gc2hGUDdGQXdiWTZsZnBlcjFGR3NpWkpwc05iSVdFMjhOQnpvTjlCQXhaTkU3WkcwaWt5TC1TWUlrbjdEU2MzbnF6OHRDQS1VTVNJTG9Rd1g4SW1PZHNUaUt5?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-16T12:30:07.000Z",
+      "pub_sort_dt": "2026-08-16 20:30:07"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "马斯克的烦恼：认识一下挑战其商业帝国的中国企业矩阵 - scmp.com",
       "title_cn": "马斯克的烦恼：认识一下挑战其商业帝国的中国企业矩阵 - scmp.com",
       "url": "https://news.google.com/read/CBMi0wFBVV95cUxOQ0FaM3B0V3FzVGg2RkpubkgzRnc3NTlqRVV5Nmhjd3EwekdxT0F4V1dreGtYb2ZxQkoxZjhzQkhkeFBzT0l6VTcyNnpqeUFFcFhwdTVzMjZmUWRsdENwZDhQZ1dhUTZORzdWYkhjTjBzdi1Md25nV3oxUzFfR1pfMjl1SjJrQVBMVmtFR25wVU5peTV5NXV2NGM3RE9KM1lab2Rla0otSnZNOEMya2s2TlRpZ1JHNGVGTDA5ekhHWURJdXpFUGw3VTJ2cWNaaTdZc3RB0gHTAUFVX3lxTE9DRkJKR3JrSmczdFlSVENmUDN5QmloZWNqcWZQVDdKOXJBRU1YZXNxNXYxMjJSZnM4WWtiNWwyeWFtR0tHaW15RHZzOGs5b05ZR045ZXBOVW85R1BIdzF2blhKV0xDV3otMlBBWFNaa2Y0dUV3RnpmdzVDMS1lS0R0NTliMXdDWEJOUnVzcm1pV3l0RVkwRjRKRmpsbTdqZW5wa0xtMEJHVnd2R0djVXlaZlZmTGZmSGdMVzVBeUV4ekl1eFZBbGdwaVI0TnFwVGUxT2M?hl=en-US&gl=US&ceid=US%3Aen",
@@ -327,12 +335,60 @@
       "pub_sort_dt": "2026-08-16 12:28:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "2026年中国五家信誉良好的PVC泡沫板制造商：推动可持续材料解决方案的发展 - The National Law Review",
-      "title_cn": "2026年中国五家信誉良好的PVC泡沫板制造商：推动可持续材料解决方案的发展 - The National Law Review",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxOeTB5ZjBOQkNDWnUzMDI4cDBIaHhwanlWZEQ5WkhZeFExclFITVVrLUNOVk42Z1haSldfbGFkaC05SVIzbHRhMHV4MXVUbll1MElqdGRLNUdqcTdLY2VZdkZFVDZNVU1sdTlRR3pJeWlTemt0N1pKTTZIbEdGX2czZXFlTUFIYnd1c2JtWGtnU1Q0akU3ZkRpX1hxaUZYZkg1SzZ0a0U5UU5fYmdNQWdWWURCVjBlS2s?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T04:19:43.000Z",
-      "pub_sort_dt": "2026-08-16 12:19:43"
+      "source": "Reuters",
+      "title_en": "伊朗议会投票决定进一步将接受“敌对媒体”采访定为犯罪行为",
+      "title_cn": "伊朗议会投票决定进一步接受“对媒体”定性为犯罪行为",
+      "url": "https://reut.rs/3SfWR3b",
+      "pub_raw": "2026-08-16T13:26:07.252Z",
+      "pub_sort_dt": "2026-08-16 21:26:07"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "那个立法者比行政部门更强大的“大民主”国家",
+      "title_cn": "那个立法者比行政部门更强大的“大民主”国家",
+      "url": "https://www.economist.com/the-americas/2026/08/16/the-big-democracy-where-lawmakers-are-mightier-than-the-executive",
+      "pub_raw": "2026-08-16T12:54:17.670Z",
+      "pub_sort_dt": "2026-08-16 20:54:17"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "尼日利亚执政党在全国大选前输掉州选举",
+      "title_cn": "利比亚执政党在全国大选前输掉州选举",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/nigerian-ruling-party-loses-state-election-before-national-polls",
+      "pub_raw": "2026-08-16T12:54:17.586Z",
+      "pub_sort_dt": "2026-08-16 20:54:17"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "教皇呼吁停止对巴勒斯坦人的暴力行为",
+      "title_cn": "教皇呼吁停止对阿富汗人的暴力行为",
+      "url": "https://reut.rs/4qjEF5n",
+      "pub_raw": "2026-08-16T12:54:17.465Z",
+      "pub_sort_dt": "2026-08-16 20:54:17"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "印度尼西亚地震造成51人死亡、道路中断，数千人撤离",
+      "title_cn": "印尼地震造成51人死亡、道路中断，数千人死亡",
+      "url": "https://reut.rs/4xMowbl",
+      "pub_raw": "2026-08-16T12:38:09.794Z",
+      "pub_sort_dt": "2026-08-16 20:38:09"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "北约战机在罗马尼亚上空击落一架疑似俄罗斯无人机",
+      "title_cn": "北约战机在罗马尼亚上空击落疑似俄罗斯无人机",
+      "url": "https://on.wsj.com/4id9F4V",
+      "pub_raw": "2026-08-16T12:38:09.777Z",
+      "pub_sort_dt": "2026-08-16 20:38:09"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "电动汽车正在改变野生动物游猎体验——并让游客更贴近动物",
+      "title_cn": "电动汽车正在改变野生动物游猎体验——并让游客更贴近动物",
+      "url": "https://on.wsj.com/4bRbXmz",
+      "pub_raw": "2026-08-16T12:38:09.773Z",
+      "pub_sort_dt": "2026-08-16 20:38:09"
     },
     {
       "source": "Bloomberg",
@@ -437,62 +493,6 @@
       "url": "https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60?syn-25a6b1a6=1",
       "pub_raw": "2026-08-16T11:34:07.854Z",
       "pub_sort_dt": "2026-08-16 19:34:07"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "乌克兰持续对莫斯科及俄罗斯后勤设施发动无人机袭击",
-      "title_cn": "乌克兰持续对莫斯科及俄罗斯后勤部队发动无人机袭击",
-      "url": "https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-16T11:34:07.821Z",
-      "pub_sort_dt": "2026-08-16 19:34:07"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "比利时有记录以来最大规模的山火正向德国蔓延",
-      "title_cn": "比利时记录了有史以来最大规模的山火正向德国扩散",
-      "url": "https://reut.rs/4qmyfT6",
-      "pub_raw": "2026-08-16T11:17:57.584Z",
-      "pub_sort_dt": "2026-08-16 19:17:57"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "深度解析：特朗普希望对伊朗施加更多经济压力。他有哪些选择？",
-      "title_cn": "深度解析：特朗普希望对伊朗施加更多经济压力。他有哪些选择？",
-      "url": "https://reut.rs/3RWSom6",
-      "pub_raw": "2026-08-16T11:02:19.652Z",
-      "pub_sort_dt": "2026-08-16 19:02:19"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "一场通过群聊策划的伊维萨岛女生之旅，以戏剧性结局收场",
-      "title_cn": "一场通过群聊策划的伊维萨岛女性之旅，以戏剧性结局收场",
-      "url": "https://on.wsj.com/4xM7s5i",
-      "pub_raw": "2026-08-16T11:02:19.644Z",
-      "pub_sort_dt": "2026-08-16 19:02:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "比利时消防员在德国边境附近扑救一场大火",
-      "title_cn": "比利时消防员在德国边境附近扑救大火",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/firefighters-in-belgium-battle-large-blaze-near-german-border",
-      "pub_raw": "2026-08-16T10:45:57.272Z",
-      "pub_sort_dt": "2026-08-16 18:45:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "印第安纳州因风暴造成5人死亡，获联邦灾难援助",
-      "title_cn": "印第安纳州风暴造成5人死亡，获联邦灾难援助",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-15/indiana-the-focus-as-midwest-storms-flood-homes-knock-out-power",
-      "pub_raw": "2026-08-16T10:45:57.233Z",
-      "pub_sort_dt": "2026-08-16 18:45:57"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "一位体育界亿万富翁如何威胁要颠覆华尔街",
-      "title_cn": "一位体育界亿万富翁如何威胁零售华尔街",
-      "url": "https://www.ft.com/content/cf87b6cd-f940-4b09-b072-7da36faa183f?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-16T10:45:57.102Z",
-      "pub_sort_dt": "2026-08-16 18:45:57"
     }
   ]
 }
