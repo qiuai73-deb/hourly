@@ -1,17 +1,57 @@
 {
-  "update_cst": "2026-08-17 15:01:42 北京时间",
+  "update_cst": "2026-08-17 18:00:59 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 0,
-    "Financial Times": 14,
+    "Bloomberg": 10,
+    "Financial Times": 4,
     "Wall Street Journal": 0,
     "Reuters": 6
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国经济增长势头减弱，消费和产出均未达预期 - Reuters",
+      "title_cn": "中国经济增长增量，消费和收益率均值未达预期 - 路透中文网",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T08:32:40.000Z",
+      "pub_sort_dt": "2026-08-17 16:32:40"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国经济困境加剧，上半年开局令人失望 - bloomberg.com",
+      "title_cn": "中国经济陷入困境，陷入开局令人失望 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxNNlVQSm5GQ3lHQ2ExU0Fpa2F4Z1ZKQ2hsOW50MXR2Y3Z0N2hZUWpIQWJybGRxMTVrNDRzMFhONmpkeXFac19mSFNKdDkzanBSUTRCd20zaXNhTjZNdWxKa1RibXZoalJRa3JSQ0NTWmRrU0E3cXlXcjVnYnFtSFNIMzVsbkloYlJXODRMN2tPZE1aaDRfN3dtUUdGN3BDZTN0VFNSLXlreThhWEZrVnN1UnROdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T08:18:15.000Z",
+      "pub_sort_dt": "2026-08-17 16:18:15"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "亚洲股市上涨，日本和中国股市延续涨势；科技股备受关注 - Investing.com",
+      "title_cn": "亚洲股市上涨，日本和中国股市强势涨势；科技股严重关注 - Investing.com",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxOYzlibmFOdU1fU2tYdGN4NGtrRU9uQWtsbzZmVzBlV1FOQVRDOVZ3V0hieEk0X2U4ejREMkNqY0V1aWY1cWpEd0VJTm5ib2Mzel80akc4RkFWX3BlaHdxQ09SUk00Y0xHT01BR1FfSXEwNU1OSy1hVDRkWHRZQVBDOVo4OVVMWFF2S2RsclJwMUdtZWF2MThDaEZWd2JDeWdBZmd0S0ExaF9tekdZZDVEbzFTVXg0YTJqZjhhcUlNdXJsZlplSjNuX0pR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T07:52:30.000Z",
+      "pub_sort_dt": "2026-08-17 15:52:30"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "约旦国王将于明天开始对中国进行访问 - The Times of Israel",
+      "title_cn": "迪拜国王将于明天开始对中国进行访问 - 以色列时报",
+      "url": "https://news.google.com/read/CBMimwFBVV95cUxQQWJ4S2Etb1FRd01lVWNDWmhwTW9OT3FuQmVpRDhfdWk4czlvWUl4RzZ3YUdmLTVRY20zVmdzaTMzYVU5WGd0dkdjLVJUYXZXcFhDSEo3UXhZb2dtbkFDV1M2dENjempsbVEtb1Fra29hbTlzTnBWeEh6S2MxRTdDMGNpanR0MDI4LWFWcVBsUl90WXViNVJKQ3BoMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T07:29:01.000Z",
+      "pub_sort_dt": "2026-08-17 15:29:01"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "7月份中国经济进一步放缓，零售额增长乏力，投资下滑幅度加剧 - CNBC",
+      "title_cn": "7月份中国经济进一步增长，零售额增长动力，投资增幅加快 - CNBC",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTE9WZGdkVVJkZHZ5d3lVb1R4RkdNUlkxdVNkWWVuLURTQkQzLVRMTVQxUnZoa3Nza3N1NEoyU1ZadU1rLS1BRVc1bm1zVlJCWS1ibXc2SkgzYTB4RVJFSTlDbDc3T1hPcjU5dG5aWnFvcWhhWnU4a0FOYml2cHlDUdIBgwFBVV95cUxOUzRLenVfQ1RmOHhxNEtkbnludnFINl81RW1vdjVacE5lLVBtNERxa1NJNVg3Q2JtWGo3QXRUUDdBeWpsLTdrYzI5NEpNcF9nT0hhV2pzOUR2cmlJQTlUM3hLSnpWX0hkRmJBRnhRU0ROM0FqTllTWW1tblB0bnBOa0JVYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T07:03:55.000Z",
+      "pub_sort_dt": "2026-08-17 15:03:55"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "习近平表示中国需要“不屈不挠的战斗精神”，并赞扬了天安门镇压行动 - CNN",
       "title_cn": "习近平表示中国需要“不屈不挠的战斗精神”，并赞扬了天安门镇压行动 - CNN",
       "url": "https://news.google.com/read/CBMikwFBVV95cUxNMnZrU2JVVk5VbkhaUVlvaGhXNVNORnRPY0lTR2UxU1JtWUtMQXlfcUJwMGxCMGZhbXc2N3VQYmFXQXVoeUMwVVFGeFpTSVhPMUsxUTJxQzBaNFhCbk9Pbm45N1F6QVZ3SjdXQjdqOUZTazlTUlViRjMtZ0NzV2twOUlvOXN0RGE1V0E0SEsyTnFYWlk?hl=en-US&gl=US&ceid=US%3Aen",
@@ -49,213 +89,213 @@
       "url": "https://news.google.com/read/CBMifkFVX3lxTFBHYlo3WmVNbm9LY1dPZnpZMWdGRFF2N29BaDEzM2VCbFcxLVlqVjZoWk1LM3plTDh0YUJTSDBQcnROWThTSjJPSExaSzNmWE9uZHlfLUJNN1hXOEVhNWM1ODFseGZpam5PSURobThLLThZTVc2YWFxSUl1Y1pSdw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-17T04:01:06.000Z",
       "pub_sort_dt": "2026-08-17 12:01:06"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "将中国拒之门外的代价 - Foreign Affairs",
-      "title_cn": "将中国拒绝之门外部的代价 - 外交事务",
-      "url": "https://news.google.com/read/CBMidkFVX3lxTE56MHd4QzhndU5tb0hDdU9UUFRfdk5tWDRTaFk3MVFzaVoydk11WEwxZURDazlFaWtiWk1KRVRIM0lNUDYyU2VjNHpwN2dTeFdEbVJTaHpzTGlZd2dkRDJ3c1pmc2hDdHptdmhXeGhheEU2bXpZVXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T04:00:00.000Z",
-      "pub_sort_dt": "2026-08-17 12:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国选手王曼昱在WTT欧洲公开赛上夺得女子单打冠军 - chinadailyasia.com",
-      "title_cn": "中国选手王曼昱在WTT欧洲公开赛上女子单打冠军 - chinadailyasia.com",
-      "url": "https://news.google.com/read/CBMiWEFVX3lxTE9xaEZqNVlNNlhQbTlpOW13NXVvaXZNRDF2OFExVGxfWnZwZHI2cHJJR28tTkptUUpUOU04bjRGckQzQWE2NUJoU3J6MnZ6TEhKbUxOTjBPTkk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T02:03:21.000Z",
-      "pub_sort_dt": "2026-08-17 10:03:21"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "韩系美妆已风靡全球。中国品牌Proya希望“中系美妆”能成为下一个风潮。 - WSJ",
-      "title_cn": "韩系美妆已风靡全球。中国品牌珀莱雅希望“中系美妆”能成为下一个风潮。 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxPTjEzTERIVGFzeXN5N3hoNWVKcDltUUNvNGNEUTdLX2FEQXlxbngxMVVoaFFSckFaZzBqNTIyQjNsRGN4anJtd1JtOUlWekI3WWhZS3FBYzhQYTI4UXlOT2IyeldxYk9MRUFpQWtQNFV2dkpVaG0yck9wd0g0ckFSbXp4YUhDcEFacFlfSVRUTlNZZG52a1NDUlRmSDhpWUZaYV9GbFlZMTJaNmtJUHdsbURnTTRicjg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T01:41:00.000Z",
-      "pub_sort_dt": "2026-08-17 09:41:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国威凌医疗为医疗级脑机接口项目融资逾1亿元 - Dealroom",
-      "title_cn": "中国威凌医疗为医疗级脑机接口项目融资超1亿元 - Dealroom",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxOOHNRMjNBTzdYY2FQeTQ3UlkyQkkxZExoZE1tY1pCcWVxa2h4VHg3WTB4b1ozbDR1WFZwYUR3RXR2V2EyckpnRjE0bmFpY0pPTWVXN3JuVV9yOUZhTFpUOFRwekw5SHdmT1hMTG5Mb29PMDBmUDR5Z1FOQTNoQmxJYWxWZ2RTclZDaERyeDlaTGF1bEJOVVdGRWFHZl90eHA2c3M3cUhxOWVSakMwaEJfNVdGQVpJUEk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T01:21:59.000Z",
-      "pub_sort_dt": "2026-08-17 09:21:59"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "智库称：随着物理人工智能竞赛日趋白热化，中国机器人行业或将面临冲击 - Nikkei Asia",
-      "title_cn": "智库称：随着物理人工智能竞赛日益白热化，中国机器人行业或将面临威胁 - Nikkei Asia",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxPVy1vSHo3aEttajd0LTVmOHZXS3JGbG1PaGxfdEs2dnU0UHZ4dWpDdWVVZ3FJUVB0SVJHZm9LRExQbGtGbEhNSHFmTU1yeGhoOVhnUU9DMTZKMnNuTV9rbzdUZGNVNDZwRVpVdlFka1ktX3ZxcDlWemJSdUphVGVzZVBSRmstWkVHaVpvTlYwWk1ad1VYd0Q4NTNJeGxZVnoya2UtTDU0TGVwN18xNE5teVNZdks?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T01:18:00.000Z",
-      "pub_sort_dt": "2026-08-17 09:18:00"
     }
   ],
   "media_news": [
     {
-      "source": "Reuters",
-      "title_en": "焦点：雀巢计划开发新产品，以满足减肥药使用者的需求",
-      "title_cn": "焦点：雀巢计划开发新产品，产生减肥药用户的需求",
-      "url": "https://reut.rs/4bOWH9Q",
-      "pub_raw": "2026-08-17T06:46:00.834Z",
-      "pub_sort_dt": "2026-08-17 14:46:00"
+      "source": "Bloomberg",
+      "title_en": "经济数据陷入停滞，但这种情况还能持续多久？",
+      "title_cn": "经济数据迪拜，但这种情况还能持续多久？",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-17/economic-statistics-are-stuck-in-neutral-but-for-how-long",
+      "pub_raw": "2026-08-17T09:41:55.379Z",
+      "pub_sort_dt": "2026-08-17 17:41:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "人工智能推高国债收益率：“它无所不及”",
+      "title_cn": "人工智能推高国债其实：“它无所不及”",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/ai-is-driving-up-treasury-yields-it-just-touches-everything",
+      "pub_raw": "2026-08-17T09:41:55.376Z",
+      "pub_sort_dt": "2026-08-17 17:41:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着交易员降低对美联储收紧政策的预期，美元延续跌势",
+      "title_cn": "随着交易员下调对美联储收紧政策的预期，美元下跌趋势",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/dollar-extends-slide-as-traders-scale-back-fed-tightening-bets",
+      "pub_raw": "2026-08-17T09:41:55.373Z",
+      "pub_sort_dt": "2026-08-17 17:41:55"
     },
     {
       "source": "Reuters",
-      "title_en": "特朗普寻求削减美韩联合军演规模，重提此前的反对意见",
-      "title_cn": "特朗普寻求削减意见美韩联合军演规模，重提英国的反对",
-      "url": "https://reut.rs/3RUuZBP",
-      "pub_raw": "2026-08-17T06:46:00.830Z",
-      "pub_sort_dt": "2026-08-17 14:46:00"
+      "title_en": "印尼一名母亲在7.7级地震中紧急分娩后表示“感激”",
+      "title_cn": "一位巴勒斯坦母亲在7.7级地震中紧急分娩后表示“感激”",
+      "url": "https://reut.rs/4g2DeoA",
+      "pub_raw": "2026-08-17T09:41:55.252Z",
+      "pub_sort_dt": "2026-08-17 17:41:55"
     },
     {
       "source": "Reuters",
-      "title_en": "独家报道：文件显示，币安向莫斯科方面提供了客户信息，这些信息被用于指控一名俄罗斯人向乌克兰捐款",
-      "title_cn": "独家报道：文件显示，币安向莫斯科方面提供了客户信息，这些信息被指控指控俄罗斯人向乌克兰捐款",
-      "url": "https://reut.rs/4zqIOJ6",
-      "pub_raw": "2026-08-17T06:30:14.663Z",
-      "pub_sort_dt": "2026-08-17 14:30:14"
+      "title_en": "消息人士称，叙利亚-伊拉克新原油管道仍需数年才能建成",
+      "title_cn": "消息人士称，叙利亚-伊朗新原油管道仍需数年才能建成",
+      "url": "https://reut.rs/4xIXeCv",
+      "pub_raw": "2026-08-17T09:41:55.248Z",
+      "pub_sort_dt": "2026-08-17 17:41:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "吉利汽车受出口激增推动利润大增；董事长李某辞职",
+      "title_cn": "吉利汽车获出口突破推动利润大增；董事长李某辞职",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/geely-auto-profit-climbs-as-exports-counter-weak-china-demand",
+      "pub_raw": "2026-08-17T09:26:01.271Z",
+      "pub_sort_dt": "2026-08-17 17:26:01"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "人们对美国的偿债能力感到担忧",
+      "title_cn": "人们对美国的偿债能力感到担忧",
+      "url": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+      "pub_raw": "2026-08-17T09:26:00.756Z",
+      "pub_sort_dt": "2026-08-17 17:26:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在科技巨头的人工智能支出中，Meta和甲骨文的负债尤为突出",
+      "title_cn": "在科技派对的人工智能支出中，元和甲骨文的存储尤为突出",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-17/meta-oracle-s-liabilities-stand-out-in-big-tech-s-ai-spending",
+      "pub_raw": "2026-08-17T09:10:06.901Z",
+      "pub_sort_dt": "2026-08-17 17:10:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国外汇储备指标升至12年高点，缓解人民币升值压力",
+      "title_cn": "中国外汇指标储备12年高点，部分人民币升值压力",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/china-reserve-gauge-hits-12-year-high-smoothing-yuan-rise",
+      "pub_raw": "2026-08-17T08:53:55.105Z",
+      "pub_sort_dt": "2026-08-17 16:53:55"
     },
     {
       "source": "Reuters",
-      "title_en": "Breakingviews——中国意外出现的贸易顺差使欧盟陷入贸易困境",
-      "title_cn": "Breakingviews——中国意外出现的贸易顺差使欧盟陷入贸易困境",
-      "url": "https://reut.rs/4gAiPHt",
-      "pub_raw": "2026-08-17T06:30:14.659Z",
-      "pub_sort_dt": "2026-08-17 14:30:14"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "FirstFT：戴蒙警告英国勿提高银行税",
-      "title_cn": "FirstFT：戴蒙警告英国切勿提高银行税",
-      "url": "https://www.ft.com/content/d794e389-2122-481d-8fa3-328e33480ee5?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T06:30:14.618Z",
-      "pub_sort_dt": "2026-08-17 14:30:14"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "日本10年期国债收益率创下30年来新高",
-      "title_cn": "日本10年期国债收益率创下30年来新高",
-      "url": "https://www.ft.com/content/1d319839-1c40-4035-b058-5ca2389cafd0?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.890Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "高盛和英特尔投资人工智能视频初创企业，Higgsfield估值达54亿美元",
-      "title_cn": "高盛和英特尔投资人工智能视频部分企业，Higgsfield估值达54亿美元",
-      "url": "https://www.ft.com/content/719c8108-f4ae-466b-80f4-96f26558d642?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.858Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "对于在酷热中工作的伦敦上班族来说，空调已成为“必不可少”的设施",
-      "title_cn": "对于酷热工作的伦敦上班族来说，空调已成为“必不可少”的设施",
-      "url": "https://www.ft.com/content/ec594b62-1453-4044-9a0b-129ecdf86150?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.828Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "干旱造成的损失",
-      "title_cn": "造成干旱的损失",
-      "url": "https://www.ft.com/content/982229c8-a116-4679-8b4b-627df069ce66?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.801Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "安迪·伯纳姆因北海石油决策面临气候问题考验",
-      "title_cn": "安迪·伯纳姆因北海石油决策面临气候问题考验",
-      "url": "https://www.ft.com/content/cc394cdf-ef78-4ec4-ab49-775e1a292751?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.772Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "征集公告：2027年美洲增长最快企业评选",
-      "title_cn": "征集公告：2027年美洲增长最快企业评选",
-      "url": "https://www.ft.com/content/2885db4c-64b0-4ca2-a1b3-fc3304504b48",
-      "pub_raw": "2026-08-17T05:58:01.734Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "墨尔本的W酒店：街头艺术、寿司与探索的乐趣",
-      "title_cn": "墨尔本的W酒店：街头艺术、寿司与探索的乐趣",
-      "url": "https://www.ft.com/content/7e040e1a-7c6b-4cd1-98c9-96d41d6d313c?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.671Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "在墨尔本的奥沃洛南亚拉酒店，热闹程度直接拉到了11级",
-      "title_cn": "在墨尔本的奥沃洛南亚拉酒店，热闹程度直接拉到了11级",
-      "url": "https://www.ft.com/content/37868b77-e3af-4b69-9657-734f50aaf08b?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.618Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "墨尔本中央Voco酒店：饮水补给站、肋眼牛排和屋顶景观",
-      "title_cn": "墨尔本中央Voco酒店：饮水补给站、肋眼牛排和屋顶景观",
-      "url": "https://www.ft.com/content/d5dc1eef-fc71-49a6-9d65-b1a668f50aeb?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.563Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "墨尔本丽思卡尔顿酒店：高空中的奢华体验",
-      "title_cn": "墨尔本丽思卡尔顿酒店：高空中的奢华体验",
-      "url": "https://www.ft.com/content/e2f72d88-28b5-461c-b0b5-0448b6209362?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.521Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
+      "title_en": "在曼谷的枪支交易区，商贩们表示，泰国的打击行动未能切中要害",
+      "title_cn": "在曼谷的市中心交易区，商贩们表示，泰国的打击行动未能切中要害",
+      "url": "https://reut.rs/4xOwK2I",
+      "pub_raw": "2026-08-17T08:53:54.542Z",
+      "pub_sort_dt": "2026-08-17 16:53:54"
     },
     {
       "source": "Reuters",
-      "title_en": "缅甸证实孟加拉国有近30.9万罗兴亚人，称安全问题导致遣返工作延迟",
-      "title_cn": "验证验证确认有近30.9万罗兴亚人，称安全问题导致遣返工作延迟",
-      "url": "https://reut.rs/4gAgcW7",
-      "pub_raw": "2026-08-17T05:26:13.365Z",
-      "pub_sort_dt": "2026-08-17 13:26:13"
+      "title_en": "德国无人机制造商赫尔辛（Helsing）委托乐天（Rakuten）促成日本军方交易",
+      "title_cn": "德国无人机制造商赫尔辛（Helsing）委托乐天（Rakuten）初次日本交易",
+      "url": "https://reut.rs/4id7T3R",
+      "pub_raw": "2026-08-17T08:53:54.538Z",
+      "pub_sort_dt": "2026-08-17 16:53:54"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "假期里我读了什么",
+      "title_cn": "假期里我读了什么",
+      "url": "https://www.ft.com/content/848fcc97-7f81-4d6d-89ce-cfa710d8b315?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-17T08:53:54.501Z",
+      "pub_sort_dt": "2026-08-17 16:53:54"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "伯纳姆曾与白宫恶作剧者互发短信",
+      "title_cn": "伯纳姆曾与苏格兰恶作剧者互发短信",
+      "url": "https://www.ft.com/content/a1079593-c334-444e-84a1-2ef65839f1a7?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-17T08:53:54.479Z",
+      "pub_sort_dt": "2026-08-17 16:53:54"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "黎巴嫩局势升级和加沙空袭打击了中东和平的前景",
+      "title_cn": "黎巴嫩武装升级和加沙空袭打击中东和平前景",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/lebanon-flare-up-and-gaza-strikes-dent-mideast-peace-prospects",
+      "pub_raw": "2026-08-17T08:38:13.111Z",
+      "pub_sort_dt": "2026-08-17 16:38:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着风险加剧，习近平将前任的遗产与自己的施政纲领联系在一起",
+      "title_cn": "随着风险加剧，习近平将前任的遗产与自己的施政领纲联系在一起",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/xi-touts-party-led-growth-at-predecessor-s-birth-centenary",
+      "pub_raw": "2026-08-17T08:38:13.062Z",
+      "pub_sort_dt": "2026-08-17 16:38:13"
     },
     {
       "source": "Reuters",
-      "title_en": "据ANI报道，印度一座寺庙发生“类似踩踏”事件，造成6人死亡",
-      "title_cn": "据ANI报道，印度一座寺庙发生“类似踩踏”事件，造成6人死亡",
-      "url": "https://reut.rs/4xKeZkW",
-      "pub_raw": "2026-08-17T04:53:54.374Z",
-      "pub_sort_dt": "2026-08-17 12:53:54"
+      "title_en": "菲律宾央行表示，通胀将逐步缓解，但通胀上行风险依然存在",
+      "title_cn": "央行表示，通胀将逐步缓解，但通胀上升风险依然存在",
+      "url": "https://reut.rs/4ctGg2P",
+      "pub_raw": "2026-08-17T08:38:12.724Z",
+      "pub_sort_dt": "2026-08-17 16:38:12"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "消息人士称，阿里巴巴将以超过20亿美元的价格出售凌溪游戏",
+      "title_cn": "消息人士称，阿里巴巴将以超过20亿美元的价格出售凌溪游戏",
+      "url": "https://reut.rs/4x3C3uW",
+      "pub_raw": "2026-08-17T08:38:12.721Z",
+      "pub_sort_dt": "2026-08-17 16:38:12"
     },
     {
       "source": "Financial Times",
-      "title_en": "葡萄牙和西班牙作为欧盟住房问题重灾区举步维艰",
-      "title_cn": "葡萄牙和西班牙作为欧盟航运问题重灾区举步维艰",
-      "url": "https://www.ft.com/content/3163af73-e7d0-4e21-81af-963d6c2fce45?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T04:53:54.349Z",
-      "pub_sort_dt": "2026-08-17 12:53:54"
+      "title_en": "库什纳在会见哈马斯领导人后与内塔尼亚胡举行了会谈",
+      "title_cn": "库什纳在会见哈马斯领导人后与内塔尼亚胡达成了协议",
+      "url": "https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-17T08:38:12.681Z",
+      "pub_sort_dt": "2026-08-17 16:38:12"
     },
     {
-      "source": "Financial Times",
-      "title_en": "问题贷款激增，私人信贷面临压力",
-      "title_cn": "问题贷款激增，信贷面临压力",
-      "url": "https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T04:22:04.546Z",
-      "pub_sort_dt": "2026-08-17 12:22:04"
+      "source": "Bloomberg",
+      "title_en": "Argenx股价飙升，因自身免疫性疾病药物Vyvgart最新临床试验取得成功",
+      "title_cn": "Argenx股价飙升，因自身免疫药物Vyvgart最新临床试验取得成功",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/argenx-soars-on-latest-trial-success-for-autoimmune-drug-vyvgart",
+      "pub_raw": "2026-08-17T08:21:57.596Z",
+      "pub_sort_dt": "2026-08-17 16:21:57"
     },
     {
-      "source": "Financial Times",
-      "title_en": "战争和气候变化导致经由全球战略要道的运输成本激增",
-      "title_cn": "气候变化导致全球战争战略要道的运输成本激增",
-      "url": "https://www.ft.com/content/2fb7f9b7-58dc-4909-94fa-8e753b7be47d?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T04:22:04.520Z",
-      "pub_sort_dt": "2026-08-17 12:22:04"
+      "source": "Bloomberg",
+      "title_en": "OpenAI-Hugging Face遭黑客攻击后，如何训练AI模型",
+      "title_cn": "OpenAI-Hugging Face遭受黑客攻击后，如何训练AI模型",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/how-to-train-ai-models-after-openai-hugging-face-hack",
+      "pub_raw": "2026-08-17T08:21:57.593Z",
+      "pub_sort_dt": "2026-08-17 16:21:57"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国经济增长势头减弱，消费和产出均未达预期 - Reuters",
+      "title_cn": "中国经济增长增量，消费和收益率均值未达预期 - 路透中文网",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T08:32:40.000Z",
+      "pub_sort_dt": "2026-08-17 16:32:40"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国经济困境加剧，上半年开局令人失望 - bloomberg.com",
+      "title_cn": "中国经济陷入困境，陷入开局令人失望 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxNNlVQSm5GQ3lHQ2ExU0Fpa2F4Z1ZKQ2hsOW50MXR2Y3Z0N2hZUWpIQWJybGRxMTVrNDRzMFhONmpkeXFac19mSFNKdDkzanBSUTRCd20zaXNhTjZNdWxKa1RibXZoalJRa3JSQ0NTWmRrU0E3cXlXcjVnYnFtSFNIMzVsbkloYlJXODRMN2tPZE1aaDRfN3dtUUdGN3BDZTN0VFNSLXlreThhWEZrVnN1UnROdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T08:18:15.000Z",
+      "pub_sort_dt": "2026-08-17 16:18:15"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "亚洲股市上涨，日本和中国股市延续涨势；科技股备受关注 - Investing.com",
+      "title_cn": "亚洲股市上涨，日本和中国股市强势涨势；科技股严重关注 - Investing.com",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxOYzlibmFOdU1fU2tYdGN4NGtrRU9uQWtsbzZmVzBlV1FOQVRDOVZ3V0hieEk0X2U4ejREMkNqY0V1aWY1cWpEd0VJTm5ib2Mzel80akc4RkFWX3BlaHdxQ09SUk00Y0xHT01BR1FfSXEwNU1OSy1hVDRkWHRZQVBDOVo4OVVMWFF2S2RsclJwMUdtZWF2MThDaEZWd2JDeWdBZmd0S0ExaF9tekdZZDVEbzFTVXg0YTJqZjhhcUlNdXJsZlplSjNuX0pR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T07:52:30.000Z",
+      "pub_sort_dt": "2026-08-17 15:52:30"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "约旦国王将于明天开始对中国进行访问 - The Times of Israel",
+      "title_cn": "迪拜国王将于明天开始对中国进行访问 - 以色列时报",
+      "url": "https://news.google.com/read/CBMimwFBVV95cUxQQWJ4S2Etb1FRd01lVWNDWmhwTW9OT3FuQmVpRDhfdWk4czlvWUl4RzZ3YUdmLTVRY20zVmdzaTMzYVU5WGd0dkdjLVJUYXZXcFhDSEo3UXhZb2dtbkFDV1M2dENjempsbVEtb1Fra29hbTlzTnBWeEh6S2MxRTdDMGNpanR0MDI4LWFWcVBsUl90WXViNVJKQ3BoMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T07:29:01.000Z",
+      "pub_sort_dt": "2026-08-17 15:29:01"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "7月份中国经济进一步放缓，零售额增长乏力，投资下滑幅度加剧 - CNBC",
+      "title_cn": "7月份中国经济进一步增长，零售额增长动力，投资增幅加快 - CNBC",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTE9WZGdkVVJkZHZ5d3lVb1R4RkdNUlkxdVNkWWVuLURTQkQzLVRMTVQxUnZoa3Nza3N1NEoyU1ZadU1rLS1BRVc1bm1zVlJCWS1ibXc2SkgzYTB4RVJFSTlDbDc3T1hPcjU5dG5aWnFvcWhhWnU4a0FOYml2cHlDUdIBgwFBVV95cUxOUzRLenVfQ1RmOHhxNEtkbnludnFINl81RW1vdjVacE5lLVBtNERxa1NJNVg3Q2JtWGo3QXRUUDdBeWpsLTdrYzI5NEpNcF9nT0hhV2pzOUR2cmlJQTlUM3hLSnpWX0hkRmJBRnhRU0ROM0FqTllTWW1tblB0bnBOa0JVYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T07:03:55.000Z",
+      "pub_sort_dt": "2026-08-17 15:03:55"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "习近平表示中国需要“不屈不挠的战斗精神”，并赞扬了天安门镇压行动 - CNN",
       "title_cn": "习近平表示中国需要“不屈不挠的战斗精神”，并赞扬了天安门镇压行动 - CNN",
       "url": "https://news.google.com/read/CBMikwFBVV95cUxNMnZrU2JVVk5VbkhaUVlvaGhXNVNORnRPY0lTR2UxU1JtWUtMQXlfcUJwMGxCMGZhbXc2N3VQYmFXQXVoeUMwVVFGeFpTSVhPMUsxUTJxQzBaNFhCbk9Pbm45N1F6QVZ3SjdXQjdqOUZTazlTUlViRjMtZ0NzV2twOUlvOXN0RGE1V0E0SEsyTnFYWlk?hl=en-US&gl=US&ceid=US%3Aen",
@@ -295,204 +335,164 @@
       "pub_sort_dt": "2026-08-17 12:01:06"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "将中国拒之门外的代价 - Foreign Affairs",
-      "title_cn": "将中国拒绝之门外部的代价 - 外交事务",
-      "url": "https://news.google.com/read/CBMidkFVX3lxTE56MHd4QzhndU5tb0hDdU9UUFRfdk5tWDRTaFk3MVFzaVoydk11WEwxZURDazlFaWtiWk1KRVRIM0lNUDYyU2VjNHpwN2dTeFdEbVJTaHpzTGlZd2dkRDJ3c1pmc2hDdHptdmhXeGhheEU2bXpZVXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T04:00:00.000Z",
-      "pub_sort_dt": "2026-08-17 12:00:00"
+      "source": "Bloomberg",
+      "title_en": "经济数据陷入停滞，但这种情况还能持续多久？",
+      "title_cn": "经济数据迪拜，但这种情况还能持续多久？",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-17/economic-statistics-are-stuck-in-neutral-but-for-how-long",
+      "pub_raw": "2026-08-17T09:41:55.379Z",
+      "pub_sort_dt": "2026-08-17 17:41:55"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国选手王曼昱在WTT欧洲公开赛上夺得女子单打冠军 - chinadailyasia.com",
-      "title_cn": "中国选手王曼昱在WTT欧洲公开赛上女子单打冠军 - chinadailyasia.com",
-      "url": "https://news.google.com/read/CBMiWEFVX3lxTE9xaEZqNVlNNlhQbTlpOW13NXVvaXZNRDF2OFExVGxfWnZwZHI2cHJJR28tTkptUUpUOU04bjRGckQzQWE2NUJoU3J6MnZ6TEhKbUxOTjBPTkk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T02:03:21.000Z",
-      "pub_sort_dt": "2026-08-17 10:03:21"
+      "source": "Bloomberg",
+      "title_en": "人工智能推高国债收益率：“它无所不及”",
+      "title_cn": "人工智能推高国债其实：“它无所不及”",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/ai-is-driving-up-treasury-yields-it-just-touches-everything",
+      "pub_raw": "2026-08-17T09:41:55.376Z",
+      "pub_sort_dt": "2026-08-17 17:41:55"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "韩系美妆已风靡全球。中国品牌Proya希望“中系美妆”能成为下一个风潮。 - WSJ",
-      "title_cn": "韩系美妆已风靡全球。中国品牌珀莱雅希望“中系美妆”能成为下一个风潮。 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxPTjEzTERIVGFzeXN5N3hoNWVKcDltUUNvNGNEUTdLX2FEQXlxbngxMVVoaFFSckFaZzBqNTIyQjNsRGN4anJtd1JtOUlWekI3WWhZS3FBYzhQYTI4UXlOT2IyeldxYk9MRUFpQWtQNFV2dkpVaG0yck9wd0g0ckFSbXp4YUhDcEFacFlfSVRUTlNZZG52a1NDUlRmSDhpWUZaYV9GbFlZMTJaNmtJUHdsbURnTTRicjg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T01:41:00.000Z",
-      "pub_sort_dt": "2026-08-17 09:41:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国威凌医疗为医疗级脑机接口项目融资逾1亿元 - Dealroom",
-      "title_cn": "中国威凌医疗为医疗级脑机接口项目融资超1亿元 - Dealroom",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxOOHNRMjNBTzdYY2FQeTQ3UlkyQkkxZExoZE1tY1pCcWVxa2h4VHg3WTB4b1ozbDR1WFZwYUR3RXR2V2EyckpnRjE0bmFpY0pPTWVXN3JuVV9yOUZhTFpUOFRwekw5SHdmT1hMTG5Mb29PMDBmUDR5Z1FOQTNoQmxJYWxWZ2RTclZDaERyeDlaTGF1bEJOVVdGRWFHZl90eHA2c3M3cUhxOWVSakMwaEJfNVdGQVpJUEk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T01:21:59.000Z",
-      "pub_sort_dt": "2026-08-17 09:21:59"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "智库称：随着物理人工智能竞赛日趋白热化，中国机器人行业或将面临冲击 - Nikkei Asia",
-      "title_cn": "智库称：随着物理人工智能竞赛日益白热化，中国机器人行业或将面临威胁 - Nikkei Asia",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxPVy1vSHo3aEttajd0LTVmOHZXS3JGbG1PaGxfdEs2dnU0UHZ4dWpDdWVVZ3FJUVB0SVJHZm9LRExQbGtGbEhNSHFmTU1yeGhoOVhnUU9DMTZKMnNuTV9rbzdUZGNVNDZwRVpVdlFka1ktX3ZxcDlWemJSdUphVGVzZVBSRmstWkVHaVpvTlYwWk1ad1VYd0Q4NTNJeGxZVnoya2UtTDU0TGVwN18xNE5teVNZdks?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T01:18:00.000Z",
-      "pub_sort_dt": "2026-08-17 09:18:00"
+      "source": "Bloomberg",
+      "title_en": "随着交易员降低对美联储收紧政策的预期，美元延续跌势",
+      "title_cn": "随着交易员下调对美联储收紧政策的预期，美元下跌趋势",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/dollar-extends-slide-as-traders-scale-back-fed-tightening-bets",
+      "pub_raw": "2026-08-17T09:41:55.373Z",
+      "pub_sort_dt": "2026-08-17 17:41:55"
     },
     {
       "source": "Reuters",
-      "title_en": "焦点：雀巢计划开发新产品，以满足减肥药使用者的需求",
-      "title_cn": "焦点：雀巢计划开发新产品，产生减肥药用户的需求",
-      "url": "https://reut.rs/4bOWH9Q",
-      "pub_raw": "2026-08-17T06:46:00.834Z",
-      "pub_sort_dt": "2026-08-17 14:46:00"
+      "title_en": "印尼一名母亲在7.7级地震中紧急分娩后表示“感激”",
+      "title_cn": "一位巴勒斯坦母亲在7.7级地震中紧急分娩后表示“感激”",
+      "url": "https://reut.rs/4g2DeoA",
+      "pub_raw": "2026-08-17T09:41:55.252Z",
+      "pub_sort_dt": "2026-08-17 17:41:55"
     },
     {
       "source": "Reuters",
-      "title_en": "特朗普寻求削减美韩联合军演规模，重提此前的反对意见",
-      "title_cn": "特朗普寻求削减意见美韩联合军演规模，重提英国的反对",
-      "url": "https://reut.rs/3RUuZBP",
-      "pub_raw": "2026-08-17T06:46:00.830Z",
-      "pub_sort_dt": "2026-08-17 14:46:00"
+      "title_en": "消息人士称，叙利亚-伊拉克新原油管道仍需数年才能建成",
+      "title_cn": "消息人士称，叙利亚-伊朗新原油管道仍需数年才能建成",
+      "url": "https://reut.rs/4xIXeCv",
+      "pub_raw": "2026-08-17T09:41:55.248Z",
+      "pub_sort_dt": "2026-08-17 17:41:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "吉利汽车受出口激增推动利润大增；董事长李某辞职",
+      "title_cn": "吉利汽车获出口突破推动利润大增；董事长李某辞职",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/geely-auto-profit-climbs-as-exports-counter-weak-china-demand",
+      "pub_raw": "2026-08-17T09:26:01.271Z",
+      "pub_sort_dt": "2026-08-17 17:26:01"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "人们对美国的偿债能力感到担忧",
+      "title_cn": "人们对美国的偿债能力感到担忧",
+      "url": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+      "pub_raw": "2026-08-17T09:26:00.756Z",
+      "pub_sort_dt": "2026-08-17 17:26:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在科技巨头的人工智能支出中，Meta和甲骨文的负债尤为突出",
+      "title_cn": "在科技派对的人工智能支出中，元和甲骨文的存储尤为突出",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-17/meta-oracle-s-liabilities-stand-out-in-big-tech-s-ai-spending",
+      "pub_raw": "2026-08-17T09:10:06.901Z",
+      "pub_sort_dt": "2026-08-17 17:10:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国外汇储备指标升至12年高点，缓解人民币升值压力",
+      "title_cn": "中国外汇指标储备12年高点，部分人民币升值压力",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/china-reserve-gauge-hits-12-year-high-smoothing-yuan-rise",
+      "pub_raw": "2026-08-17T08:53:55.105Z",
+      "pub_sort_dt": "2026-08-17 16:53:55"
     },
     {
       "source": "Reuters",
-      "title_en": "独家报道：文件显示，币安向莫斯科方面提供了客户信息，这些信息被用于指控一名俄罗斯人向乌克兰捐款",
-      "title_cn": "独家报道：文件显示，币安向莫斯科方面提供了客户信息，这些信息被指控指控俄罗斯人向乌克兰捐款",
-      "url": "https://reut.rs/4zqIOJ6",
-      "pub_raw": "2026-08-17T06:30:14.663Z",
-      "pub_sort_dt": "2026-08-17 14:30:14"
+      "title_en": "在曼谷的枪支交易区，商贩们表示，泰国的打击行动未能切中要害",
+      "title_cn": "在曼谷的市中心交易区，商贩们表示，泰国的打击行动未能切中要害",
+      "url": "https://reut.rs/4xOwK2I",
+      "pub_raw": "2026-08-17T08:53:54.542Z",
+      "pub_sort_dt": "2026-08-17 16:53:54"
     },
     {
       "source": "Reuters",
-      "title_en": "Breakingviews——中国意外出现的贸易顺差使欧盟陷入贸易困境",
-      "title_cn": "Breakingviews——中国意外出现的贸易顺差使欧盟陷入贸易困境",
-      "url": "https://reut.rs/4gAiPHt",
-      "pub_raw": "2026-08-17T06:30:14.659Z",
-      "pub_sort_dt": "2026-08-17 14:30:14"
+      "title_en": "德国无人机制造商赫尔辛（Helsing）委托乐天（Rakuten）促成日本军方交易",
+      "title_cn": "德国无人机制造商赫尔辛（Helsing）委托乐天（Rakuten）初次日本交易",
+      "url": "https://reut.rs/4id7T3R",
+      "pub_raw": "2026-08-17T08:53:54.538Z",
+      "pub_sort_dt": "2026-08-17 16:53:54"
     },
     {
       "source": "Financial Times",
-      "title_en": "FirstFT：戴蒙警告英国勿提高银行税",
-      "title_cn": "FirstFT：戴蒙警告英国切勿提高银行税",
-      "url": "https://www.ft.com/content/d794e389-2122-481d-8fa3-328e33480ee5?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T06:30:14.618Z",
-      "pub_sort_dt": "2026-08-17 14:30:14"
+      "title_en": "假期里我读了什么",
+      "title_cn": "假期里我读了什么",
+      "url": "https://www.ft.com/content/848fcc97-7f81-4d6d-89ce-cfa710d8b315?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-17T08:53:54.501Z",
+      "pub_sort_dt": "2026-08-17 16:53:54"
     },
     {
       "source": "Financial Times",
-      "title_en": "日本10年期国债收益率创下30年来新高",
-      "title_cn": "日本10年期国债收益率创下30年来新高",
-      "url": "https://www.ft.com/content/1d319839-1c40-4035-b058-5ca2389cafd0?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.890Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
+      "title_en": "伯纳姆曾与白宫恶作剧者互发短信",
+      "title_cn": "伯纳姆曾与苏格兰恶作剧者互发短信",
+      "url": "https://www.ft.com/content/a1079593-c334-444e-84a1-2ef65839f1a7?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-17T08:53:54.479Z",
+      "pub_sort_dt": "2026-08-17 16:53:54"
     },
     {
-      "source": "Financial Times",
-      "title_en": "高盛和英特尔投资人工智能视频初创企业，Higgsfield估值达54亿美元",
-      "title_cn": "高盛和英特尔投资人工智能视频部分企业，Higgsfield估值达54亿美元",
-      "url": "https://www.ft.com/content/719c8108-f4ae-466b-80f4-96f26558d642?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.858Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
+      "source": "Bloomberg",
+      "title_en": "黎巴嫩局势升级和加沙空袭打击了中东和平的前景",
+      "title_cn": "黎巴嫩武装升级和加沙空袭打击中东和平前景",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/lebanon-flare-up-and-gaza-strikes-dent-mideast-peace-prospects",
+      "pub_raw": "2026-08-17T08:38:13.111Z",
+      "pub_sort_dt": "2026-08-17 16:38:13"
     },
     {
-      "source": "Financial Times",
-      "title_en": "对于在酷热中工作的伦敦上班族来说，空调已成为“必不可少”的设施",
-      "title_cn": "对于酷热工作的伦敦上班族来说，空调已成为“必不可少”的设施",
-      "url": "https://www.ft.com/content/ec594b62-1453-4044-9a0b-129ecdf86150?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.828Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "干旱造成的损失",
-      "title_cn": "造成干旱的损失",
-      "url": "https://www.ft.com/content/982229c8-a116-4679-8b4b-627df069ce66?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.801Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "安迪·伯纳姆因北海石油决策面临气候问题考验",
-      "title_cn": "安迪·伯纳姆因北海石油决策面临气候问题考验",
-      "url": "https://www.ft.com/content/cc394cdf-ef78-4ec4-ab49-775e1a292751?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.772Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "征集公告：2027年美洲增长最快企业评选",
-      "title_cn": "征集公告：2027年美洲增长最快企业评选",
-      "url": "https://www.ft.com/content/2885db4c-64b0-4ca2-a1b3-fc3304504b48",
-      "pub_raw": "2026-08-17T05:58:01.734Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "墨尔本的W酒店：街头艺术、寿司与探索的乐趣",
-      "title_cn": "墨尔本的W酒店：街头艺术、寿司与探索的乐趣",
-      "url": "https://www.ft.com/content/7e040e1a-7c6b-4cd1-98c9-96d41d6d313c?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.671Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "在墨尔本的奥沃洛南亚拉酒店，热闹程度直接拉到了11级",
-      "title_cn": "在墨尔本的奥沃洛南亚拉酒店，热闹程度直接拉到了11级",
-      "url": "https://www.ft.com/content/37868b77-e3af-4b69-9657-734f50aaf08b?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.618Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "墨尔本中央Voco酒店：饮水补给站、肋眼牛排和屋顶景观",
-      "title_cn": "墨尔本中央Voco酒店：饮水补给站、肋眼牛排和屋顶景观",
-      "url": "https://www.ft.com/content/d5dc1eef-fc71-49a6-9d65-b1a668f50aeb?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.563Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "墨尔本丽思卡尔顿酒店：高空中的奢华体验",
-      "title_cn": "墨尔本丽思卡尔顿酒店：高空中的奢华体验",
-      "url": "https://www.ft.com/content/e2f72d88-28b5-461c-b0b5-0448b6209362?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T05:58:01.521Z",
-      "pub_sort_dt": "2026-08-17 13:58:01"
+      "source": "Bloomberg",
+      "title_en": "随着风险加剧，习近平将前任的遗产与自己的施政纲领联系在一起",
+      "title_cn": "随着风险加剧，习近平将前任的遗产与自己的施政领纲联系在一起",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/xi-touts-party-led-growth-at-predecessor-s-birth-centenary",
+      "pub_raw": "2026-08-17T08:38:13.062Z",
+      "pub_sort_dt": "2026-08-17 16:38:13"
     },
     {
       "source": "Reuters",
-      "title_en": "缅甸证实孟加拉国有近30.9万罗兴亚人，称安全问题导致遣返工作延迟",
-      "title_cn": "验证验证确认有近30.9万罗兴亚人，称安全问题导致遣返工作延迟",
-      "url": "https://reut.rs/4gAgcW7",
-      "pub_raw": "2026-08-17T05:26:13.365Z",
-      "pub_sort_dt": "2026-08-17 13:26:13"
+      "title_en": "菲律宾央行表示，通胀将逐步缓解，但通胀上行风险依然存在",
+      "title_cn": "央行表示，通胀将逐步缓解，但通胀上升风险依然存在",
+      "url": "https://reut.rs/4ctGg2P",
+      "pub_raw": "2026-08-17T08:38:12.724Z",
+      "pub_sort_dt": "2026-08-17 16:38:12"
     },
     {
       "source": "Reuters",
-      "title_en": "据ANI报道，印度一座寺庙发生“类似踩踏”事件，造成6人死亡",
-      "title_cn": "据ANI报道，印度一座寺庙发生“类似踩踏”事件，造成6人死亡",
-      "url": "https://reut.rs/4xKeZkW",
-      "pub_raw": "2026-08-17T04:53:54.374Z",
-      "pub_sort_dt": "2026-08-17 12:53:54"
+      "title_en": "消息人士称，阿里巴巴将以超过20亿美元的价格出售凌溪游戏",
+      "title_cn": "消息人士称，阿里巴巴将以超过20亿美元的价格出售凌溪游戏",
+      "url": "https://reut.rs/4x3C3uW",
+      "pub_raw": "2026-08-17T08:38:12.721Z",
+      "pub_sort_dt": "2026-08-17 16:38:12"
     },
     {
       "source": "Financial Times",
-      "title_en": "葡萄牙和西班牙作为欧盟住房问题重灾区举步维艰",
-      "title_cn": "葡萄牙和西班牙作为欧盟航运问题重灾区举步维艰",
-      "url": "https://www.ft.com/content/3163af73-e7d0-4e21-81af-963d6c2fce45?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T04:53:54.349Z",
-      "pub_sort_dt": "2026-08-17 12:53:54"
+      "title_en": "库什纳在会见哈马斯领导人后与内塔尼亚胡举行了会谈",
+      "title_cn": "库什纳在会见哈马斯领导人后与内塔尼亚胡达成了协议",
+      "url": "https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-17T08:38:12.681Z",
+      "pub_sort_dt": "2026-08-17 16:38:12"
     },
     {
-      "source": "Financial Times",
-      "title_en": "问题贷款激增，私人信贷面临压力",
-      "title_cn": "问题贷款激增，信贷面临压力",
-      "url": "https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T04:22:04.546Z",
-      "pub_sort_dt": "2026-08-17 12:22:04"
+      "source": "Bloomberg",
+      "title_en": "Argenx股价飙升，因自身免疫性疾病药物Vyvgart最新临床试验取得成功",
+      "title_cn": "Argenx股价飙升，因自身免疫药物Vyvgart最新临床试验取得成功",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/argenx-soars-on-latest-trial-success-for-autoimmune-drug-vyvgart",
+      "pub_raw": "2026-08-17T08:21:57.596Z",
+      "pub_sort_dt": "2026-08-17 16:21:57"
     },
     {
-      "source": "Financial Times",
-      "title_en": "战争和气候变化导致经由全球战略要道的运输成本激增",
-      "title_cn": "气候变化导致全球战争战略要道的运输成本激增",
-      "url": "https://www.ft.com/content/2fb7f9b7-58dc-4909-94fa-8e753b7be47d?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T04:22:04.520Z",
-      "pub_sort_dt": "2026-08-17 12:22:04"
+      "source": "Bloomberg",
+      "title_en": "OpenAI-Hugging Face遭黑客攻击后，如何训练AI模型",
+      "title_cn": "OpenAI-Hugging Face遭受黑客攻击后，如何训练AI模型",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/how-to-train-ai-models-after-openai-hugging-face-hack",
+      "pub_raw": "2026-08-17T08:21:57.593Z",
+      "pub_sort_dt": "2026-08-17 16:21:57"
     }
   ]
 }
