@@ -1,498 +1,498 @@
 {
-  "update_cst": "2026-08-17 09:01:01 北京时间",
+  "update_cst": "2026-08-17 12:01:09 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
     "Bloomberg": 13,
     "Financial Times": 1,
-    "Wall Street Journal": 1,
-    "Reuters": 5
+    "Wall Street Journal": 0,
+    "Reuters": 6
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国选手王曼昱在WTT欧洲公开赛上夺得女子单打冠军 - chinadailyasia.com",
+      "title_cn": "中国选手王曼昱在WTT欧洲公开赛上女子单打冠军 - chinadailyasia.com",
+      "url": "https://news.google.com/read/CBMiWEFVX3lxTE9xaEZqNVlNNlhQbTlpOW13NXVvaXZNRDF2OFExVGxfWnZwZHI2cHJJR28tTkptUUpUOU04bjRGckQzQWE2NUJoU3J6MnZ6TEhKbUxOTjBPTkk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T02:03:21.000Z",
+      "pub_sort_dt": "2026-08-17 10:03:21"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "韩系美妆已风靡全球。中国品牌Proya希望“中系美妆”能成为下一个风潮。 - WSJ",
+      "title_cn": "韩系美妆已风靡全球。中国品牌珀莱雅希望“中系美妆”能成为下一个风潮。 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxPTjEzTERIVGFzeXN5N3hoNWVKcDltUUNvNGNEUTdLX2FEQXlxbngxMVVoaFFSckFaZzBqNTIyQjNsRGN4anJtd1JtOUlWekI3WWhZS3FBYzhQYTI4UXlOT2IyeldxYk9MRUFpQWtQNFV2dkpVaG0yck9wd0g0ckFSbXp4YUhDcEFacFlfSVRUTlNZZG52a1NDUlRmSDhpWUZaYV9GbFlZMTJaNmtJUHdsbURnTTRicjg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T01:41:00.000Z",
+      "pub_sort_dt": "2026-08-17 09:41:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国威凌医疗为医疗级脑机接口项目融资逾1亿元 - Dealroom",
+      "title_cn": "中国威凌医疗为医疗级脑机接口项目融资超1亿元 - Dealroom",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxOOHNRMjNBTzdYY2FQeTQ3UlkyQkkxZExoZE1tY1pCcWVxa2h4VHg3WTB4b1ozbDR1WFZwYUR3RXR2V2EyckpnRjE0bmFpY0pPTWVXN3JuVV9yOUZhTFpUOFRwekw5SHdmT1hMTG5Mb29PMDBmUDR5Z1FOQTNoQmxJYWxWZ2RTclZDaERyeDlaTGF1bEJOVVdGRWFHZl90eHA2c3M3cUhxOWVSakMwaEJfNVdGQVpJUEk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T01:21:59.000Z",
+      "pub_sort_dt": "2026-08-17 09:21:59"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "智库称：随着物理人工智能竞赛日趋白热化，中国机器人行业或将面临冲击 - Nikkei Asia",
+      "title_cn": "智库称：随着物理人工智能竞赛日益白热化，中国机器人行业或将面临威胁 - Nikkei Asia",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxPVy1vSHo3aEttajd0LTVmOHZXS3JGbG1PaGxfdEs2dnU0UHZ4dWpDdWVVZ3FJUVB0SVJHZm9LRExQbGtGbEhNSHFmTU1yeGhoOVhnUU9DMTZKMnNuTV9rbzdUZGNVNDZwRVpVdlFka1ktX3ZxcDlWemJSdUphVGVzZVBSRmstWkVHaVpvTlYwWk1ad1VYd0Q4NTNJeGxZVnoya2UtTDU0TGVwN18xNE5teVNZdks?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T01:18:00.000Z",
+      "pub_sort_dt": "2026-08-17 09:18:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "CXMT跻身中国最具价值企业之列，预示着新技术时代的到来 - Bloomberg.com",
+      "title_cn": "长鑫存储主导中国最具价值企业之列，拥抱新时代的到来 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxQWWs5WnlRcTFIdlFyaUs5YklCTVZuakxTa3oxazRkSEIzYXNqWlNWX1UyZTlkWlFyM2lrVXhzd1JsTUQyTkQ0MjJyemJpeEZDOG5pNlEzLVVzdmQyQjRWZ1B6YWM2dTc5bFRob250ZEVRU29EWkc1UDM3N285V1RNSnktNkU3N0REQzE0SlFoLTMtM3lsd3pkLXUwb0FPdWJHOFROdUlZYXFyWXRwbGhhNXU4WQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T01:07:00.000Z",
+      "pub_sort_dt": "2026-08-17 09:07:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "下一次“中国冲击”将来自开源人工智能 - Financial Times",
+      "title_cn": "下一次“中国冲击”将来自开源开源 - Financial Times",
+      "url": "https://news.google.com/read/CBMicEFVX3lxTFBWQ05ZZ1N3RENEQXc4eFAzWlF6R0tTSjB1V0RfWjNrbnNTcVdKM25VdlFQdmVsSUt1S1RyV243WWFpYXpHWTBZcE12R2dOdU1Cd0o0eU9DWGloN2pWbVJSNVNubGhUMHlUX1M5UmpzT1c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T01:00:45.000Z",
+      "pub_sort_dt": "2026-08-17 09:00:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着冒险者们在体验中心挑战模拟灾难，中国的“黑暗旅游”正日益兴起 - South China Morning Post",
+      "title_cn": "随着冒险者们在体验中心挑战模拟灾难，中国的“黑暗旅游”悄然兴起 - 南华早报",
+      "url": "https://news.google.com/read/CBMi4wFBVV95cUxObWM2MFVDZUdGdE5CNXVHM3NoQkc4bjdiMHpmQTh1eWtQQVNCNlJCX29XYWYyQWNaYWhvRVQxYlFpa201UThBUFVpVkFxZFlOMHFvaXBQRFZTdDhVWmh1WjlqVjhkQm9tZ2xTU1ExLVpWZFdlcm5OYWFOUmVkTkE4NlZQWTJYRzRwcXVtUmtDX2NlU29sOExUR1RVTmI4Q2R1QnRaRVdmSThOd0FDYmRmN3JJVHBqX1lTcGNtYWVkSVlnSnJ2VEtJTmQzT1RzZ1VNV3NDZExrVzg1QmlSUXpjQURoc9IB4wFBVV95cUxPWmhPUHJkX09wMTh1NVJWWUZVWjM0R3BSZ29MNTRzalF2NkE3MGVTV0QyRlNlaWJTczVkc2hjaXBwX3RDd2lCSkN0a3dMY3Y4elZwSi1HU3pJUEZKR1dZSXp0MzRxSWllR0FNa1NIWVFaSUw4N1JZNVlKNThjVlNSVTF0dWJld3YzNHR6bU92UHpQQndEU2laSHAwN05oU2I5RXZKTU5QSFlkZzhibWVrdm1NRzVlWmNOYVVHbkRub3F5RVNXaHVHZXk5ajJxNkFyamlCaHRheGNPZk91MktELVJsbw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T01:00:17.000Z",
+      "pub_sort_dt": "2026-08-17 09:00:17"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "从咖啡到火锅，各大品牌争相抢占中国不断增长的汉堡市场 - Reuters",
+      "title_cn": "从咖啡到火锅，各大品牌争抢中国汉堡市场份额不断增长 - 路透中文网",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQZUZVN3Z3V2txV3l6dU5PaUN3S0tFeU9PYUo4S1h3Mzhwc2JhZzJpM0JNbUhEcDFkM0RfSkN0ZUdrZk9IUmlqLWhJbXBCRzlfSENZSGdzOW1XdHVrMjBWZ3J0X1lQTFVpSGpWZkM5N25CSzVld3RzcmRKUktGTlNWcGg5cmFoTXd6MVhnWHJUek1mbTZtXzZDYTNZOHVTU3VFaE13Um5Md1hwazRsTzRSQnJadWNSSDFnMUdvdFV1NHlsUlE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T00:11:45.000Z",
+      "pub_sort_dt": "2026-08-17 08:11:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "霍尔木兹海峡之后，中国将目光投向北极“冰上丝绸之路”所蕴含的机遇与风险 - theguardian.com",
+      "title_cn": "霍尔木兹海峡之后，中国将目光投向北极“冰上丝绸之路”所蕴含的机遇与风险 - theguardian.com",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxOVml2MlRHc0YxZHM5Y2wxOWNqRXBGdk9Jc3oxc09OQmJfUksyNW5Qc0dNZVQwNnpMY2VGTGtaNFREaWZrWkpfWmRlZFZ2cG5iZ0JNYTUwZlVNekRUb2FyaWFTMmFnUE9LRF9veS1CV1BhLTNkWUgxc1JjVTdhSnFvRldnZW51SEZpSE9xVTh1QXhhS1ZkdzFBRElaSVk3TkdkQjM0cEhsWExZcjExYmQ3ZU1seUp6TDNZdGVwSg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T00:09:00.000Z",
+      "pub_sort_dt": "2026-08-17 08:09:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "伊朗战争证明了中国的能源战略是正确的 - Financial Times",
-      "title_cn": "伊朗战争证明了中国的能源战略是正确的 - Financial Times",
+      "title_cn": "伊朗战争证明了中国的能源战略是正确的 - 金融时报",
       "url": "https://news.google.com/read/CBMicEFVX3lxTE1MQnVLaUctU21tNUVBUG5JdGkzSG9SNUhOdnlTcDZOMUxNMnlpNW16TV9rTDR0YjlkTXRwT3RFRjdmVG5aX0ZHS0J1VE9uVUY3RzY5UU5qNGFla3ZNZzZSUUFtY0t0M3Z0Y1U0N1VSZFc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-16T23:01:05.000Z",
       "pub_sort_dt": "2026-08-17 07:01:05"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "揭秘基廷为引导阿尔巴内塞在对华及特朗普问题上的立场所做的幕后努力 - Politico",
-      "title_cn": "揭秘基廷为引导阿尔巴内塞在对华及特朗普问题上所做的幕后努力 - Politico",
-      "url": "https://news.google.com/read/CBMilgFBVV95cUxQbGtKY1luMkZyQmVwQTVuQmxNbDBydW02cVZCMzlKLW9WeWlxeGtuX3RRSlFrUVFpS0pQSFdSVlNtMGhqUnhmd1ltU3NqSVA5R3lpOWVRR05VclRHWk5RT2swWkJMaFowUlg3YUpOcEJiaFI2ZlE2anBFZG8xT0o3MURBWGpaVVh2SV8yWUZUMmhEYTFKVWc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T18:45:00.000Z",
-      "pub_sort_dt": "2026-08-17 02:45:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "英国和美国均表示正在调查中国与一个反以色列抗议团体之间涉嫌的联系 - The Times of Israel",
-      "title_cn": "英国和美国均表示正在调查中国与一个反以色列抗议群体之间涉嫌的联系 - 以色列时报",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQMUJSbXpTa3o1b2lSRmFwZWJSM3pwcnhXeUJ4Y05ROS1zOE8yNE5OLUVCQ25Sb05DdmVBM2VDX3doMWxxVnE2cmpWWlNWcVRfeXNabkVzTFk2b29tOHlqVXF6VDNjRllDRmF3ZllLUmF2TE9KcFdXZG95eWJDMm14RWdlemF3RGZrQngwcEhSY3psTmotTks0bFRtY2VMYXcxOUhmbnVIeDBoVHgtOHhXZjhDWnjSAboBQVVfeXFMTTZSMllZcXlCWlc1WVJKV1VtdkNneVBJOUp2UDl4U21uT0FveWpiaE55cWNXNXM0b1p2akZSaWxMTV9FMDByaUZ2VHV4NEZUTEZBSTlMaWtEUUZ6ZzJvR1JKaUptZXlaQ3ZrVzBCTjlGdHBYYURKUWtjVHBwb1I3OGZsMmZlNGpNWnhrQTR3YmZ2aGxYV2VvVWwwQm1LeEVnLWlDOXBLVVFJbkVhUVBVbmxIWXVadV81c3Z3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T17:58:14.000Z",
-      "pub_sort_dt": "2026-08-17 01:58:14"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "大规模无家可归现象正暴露中国社会的弊病 - The Hill",
-      "title_cn": "大规模无家可归现象正暴露中国社会的弊病 - The Hill",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxQLUl1Qjl6X3FLcVJXRDNnT3o5aFNvY0Y2RDNrUG9XWUxvNS1zOGZlZmxxSWxVUkdUWjBuTUhLXzBQSDBNVHhPQVN3UTRpakg3ZE1YUVVaam1SSzZCM0NLajE4MTRqN1FHdG82NlhMdFZzVlpBdFVFZXBwamVwOVRaYlprM0hkMHZhX1E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T15:00:00.000Z",
-      "pub_sort_dt": "2026-08-16 23:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "大规模无家可归现象正暴露中国社会的弊病 - thehill.com",
-      "title_cn": "大规模无家可归现象正暴露中国社会的弊病 - thehill.com",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxQLUl1Qjl6X3FLcVJXRDNnT3o5aFNvY0Y2RDNrUG9XWUxvNS1zOGZlZmxxSWxVUkdUWjBuTUhLXzBQSDBNVHhPQVN3UTRpakg3ZE1YUVVaam1SSzZCM0NLajE4MTRqN1FHdG82NlhMdFZzVlpBdFVFZXBwamVwOVRaYlprM0hkMHZhX1HSAY8BQVVfeXFMT3N0WUVqTXhDeDl1ZFMxZTFIOF9raXlPcFVoZ2lBcktwalVIazFWT1NsaEh6UDdBNmZNcFM4MnJrSDRxV2pITHcxSGkyRnhJYWl6Y0lPY3pqSmtoSFl5WFZQM01uWGY5N21TVmdiT3B6c29NNDNlNmlSWkkzWi1FR3gtbFFJWFJKOXZQeDZzSG8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T15:00:00.000Z",
-      "pub_sort_dt": "2026-08-16 23:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "一只“粗糙”且“笨拙”的中国动画牛是如何从票房零分蜕变为英雄的 - South China Morning Post",
-      "title_cn": "一只“粗糙”且“笨拙”的中国动画牛是如何从票房零分蜕变为英雄的 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxPOWJDTUM3dDFzRTM5aG1OVGtkZkJCZUZpdWNlcW1lU0JDR25NZDZRbnNxYzBMV1ZzVEsxSWJOY3BLSTdIcjVWMWdjZTFDMDFFaGJ1WHNxZHJObjVTc0VXWHNaa0pZUUg3ejdxeEE5UHpZNG9xZ2FQREstU3NsNnQ0eFpVckhNQ01UdjJFRGxvcmdKeUJpTDlISzBFZktfSVRjZ1ZBODd0MEctSF84YTZRUHJR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T14:02:23.000Z",
-      "pub_sort_dt": "2026-08-16 22:02:23"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "共产党援引江泽民的遗志，呼吁团结在习近平的领导周围 - South China Morning Post",
-      "title_cn": "共产党援引江泽民遗志，号召团结在习近平领导周围 - 南华早报",
-      "url": "https://news.google.com/read/CBMizAFBVV95cUxNZ1gtYjVtZEtlSXdlWFZMOFZXSWZNemZ1NkhlZUpnT2poWjJYLUlFYTI5Y2ZOcjlTRFBMVkFUSURHQnFLMXM1R0lOcWZ2ZXJnU0tmSG1qUUgtRy0xUW92S3ROZjZvMGdGME0waUdoaERkM1NiRjlEaDktOTNMeVNIakxGNXVhemxjM3ZDN0NKUXZEZGFrUkR3OUk4QnhfSGF4dERaQW45a3V6Z0Q0ZEpJczRpWHcyakVza0FIaHVMSzRrVmlzbFJsN0RsX2rSAcwBQVVfeXFMTjN3QktaVDd2UlFfQjZab3BKVW9Wby1YSEwybDdUbl9CaGE1TE9lNkNLdmU1T3JxUUNHUktvNVY3bDA2LUNwcHFJd1N0MlhqOHhndE9renZjVk9zUFBROXNqeldfWGM2YUNSSFl0OEhWd09OZm9EdDZuODltLUUxOXR4TXpWdmp1V1JBeC1ld0JaX25iOVJ6TE9Ua21SMWZld2ltUXhrYzdKNUVQQ0tOc2w5ZWhDSGFnVmd4U0haVkxfTlZTdHBuUk1wcDdz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T13:00:09.000Z",
-      "pub_sort_dt": "2026-08-16 21:00:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "观点 美中科技战将波及人工智能的基础架构 - South China Morning Post",
-      "title_cn": "观点 美中科技战将波及人工智能的基础架构 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxQZ3h3MUJSM0gzSThXeFFWQl94U2F4cHJ2Y1Uyd3hOZERxNmZZNzBSeExpSjdZMjB5cnBtMVhBUWpCUG50bW5kMXJjeXNadUN3Tk1yaEdpeVNhVnhBZEhfRmlvNThBUTY2R3J1NV91TG1oSHgxZHlZV2FNa2tSdDZnUXdYdXJodGNPQl8wR3d0SU5zdUdONm1fZGl4a2TSAZwBQVVfeXFMTWYwaXBWVUwxOEdJanFuOEp2ZGZJQndKeFI3VnZSZ2p3OHZGZGxQOVNrTnRwZTlWaXFPQXBOMmhNbE5Gc2hGUDdGQXdiWTZsZnBlcjFGR3NpWkpwc05iSVdFMjhOQnpvTjlCQXhaTkU3WkcwaWt5TC1TWUlrbjdEU2MzbnF6OHRDQS1VTVNJTG9Rd1g4SW1PZHNUaUt5?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T12:30:07.000Z",
-      "pub_sort_dt": "2026-08-16 20:30:07"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "从运输到作战：呼吁中国做好民用船舶战时投入使用的准备 - South China Morning Post",
-      "title_cn": "从运输到作战：呼吁中国做好民用船舶战时投入使用的准备 - 南华早报",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxOZFdWZnlWdUlXdG5TVFhrUGNBbUE3TXZfQ0V0OEJiOWJWY1ZBbWhLUGN0N2hHTzUxeXRqcHlzOFlaZVNHajE2RlROMjhObkd6ZzNiVUpOYmthMTFsRGJGOFFfYVhGZHhhaDVVcVhZa25jODdVS3JiSnRyWnlScWJaMTUyNWZidXVTbHgycWlBS0JFX1hQZm1WUWhvUm1mdWgxa1VTdXJoWXBkZ0pBdmlIWVo5LU0zU2fSAbcBQVVfeXFMTURrem5TZ2stc3ZMTzdvNnRvTVplQmVEb0ExQm5kandfSVEtSHBLV2d6RldLYXBYSmpPTTVPTW9qcFp5T3otRjlkY0plQ0xCNndya1dfcGtLVF9qX2M1MGhURmdlUzNRVHJDbUZwMGpZRm9fNVBPZzQ5QWpSc1RfM1JRcHBtWVJqSC11YVJnYWZpTExJd0hMZ2dTQ1F2cmdLcXRLdnBhRlJORHJGbWFJSXg3NnAtb29R?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T12:00:11.000Z",
-      "pub_sort_dt": "2026-08-16 20:00:11"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "马斯克的烦恼：认识一下挑战其商业帝国的中国企业矩阵 - scmp.com",
-      "title_cn": "马斯克的烦恼：认识一下挑战其商业帝国的中国企业矩阵 - scmp.com",
-      "url": "https://news.google.com/read/CBMi0wFBVV95cUxOQ0FaM3B0V3FzVGg2RkpubkgzRnc3NTlqRVV5Nmhjd3EwekdxT0F4V1dreGtYb2ZxQkoxZjhzQkhkeFBzT0l6VTcyNnpqeUFFcFhwdTVzMjZmUWRsdENwZDhQZ1dhUTZORzdWYkhjTjBzdi1Md25nV3oxUzFfR1pfMjl1SjJrQVBMVmtFR25wVU5peTV5NXV2NGM3RE9KM1lab2Rla0otSnZNOEMya2s2TlRpZ1JHNGVGTDA5ekhHWURJdXpFUGw3VTJ2cWNaaTdZc3RB0gHTAUFVX3lxTE9DRkJKR3JrSmczdFlSVENmUDN5QmloZWNqcWZQVDdKOXJBRU1YZXNxNXYxMjJSZnM4WWtiNWwyeWFtR0tHaW15RHZzOGs5b05ZR045ZXBOVW85R1BIdzF2blhKV0xDV3otMlBBWFNaa2Y0dUV3RnpmdzVDMS1lS0R0NTliMXdDWEJOUnVzcm1pV3l0RVkwRjRKRmpsbTdqZW5wa0xtMEJHVnd2R0djVXlaZlZmTGZmSGdMVzVBeUV4ekl1eFZBbGdwaVI0TnFwVGUxT2M?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T10:00:12.000Z",
-      "pub_sort_dt": "2026-08-16 18:00:12"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
-      "title_en": "日本经济增速意外放缓，资本支出下滑",
-      "title_cn": "日本经济增速意外放缓，资本支出下滑",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/japan-s-economic-growth-slows-as-mideast-conflict-clouds-outlook",
-      "pub_raw": "2026-08-17T00:53:58.106Z",
-      "pub_sort_dt": "2026-08-17 08:53:58"
+      "title_en": "韩国进出口银行将向嘉能可提供10亿美元贷款用于铜供应",
+      "title_cn": "韩国进出口银行将向嘉能提供10亿美元贷款用于铜供应",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/korea-eximbank-to-lend-1-billion-to-glencore-for-copper-supply",
+      "pub_raw": "2026-08-17T03:50:08.497Z",
+      "pub_sort_dt": "2026-08-17 11:50:08"
     },
     {
       "source": "Bloomberg",
-      "title_en": "美联储加息预期降温，美元走低，美债上涨：市场综述",
-      "title_cn": "美联储加息预期预计，美元走低，美债上涨：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-      "pub_raw": "2026-08-17T00:53:58.103Z",
-      "pub_sort_dt": "2026-08-17 08:53:58"
+      "title_en": "印尼开发商Modernland再次寻求债券重组",
+      "title_cn": "和平谈判现代国再次寻求债券重组",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/indonesian-developer-modernland-seeks-bond-restructuring-again",
+      "pub_raw": "2026-08-17T03:50:08.494Z",
+      "pub_sort_dt": "2026-08-17 11:50:08"
     },
     {
       "source": "Bloomberg",
-      "title_en": "NAB股价下跌，因市场预计澳大利亚抵押贷款增长将放缓",
-      "title_cn": "NAB股价下跌，因市场预计澳大利亚抵押贷款将增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/national-australia-bank-profit-edges-up-on-business-bank-growth",
-      "pub_raw": "2026-08-17T00:53:58.099Z",
-      "pub_sort_dt": "2026-08-17 08:53:58"
+      "title_en": "澳大利亚放缓“背包客”签证审批流程，或将削减移民配额",
+      "title_cn": "澳大利亚“背包客”签证审批流程，或将削减移民签证",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/australia-slows-backpacker-visa-process-as-migration-cuts-eyed",
+      "pub_raw": "2026-08-17T03:34:12.628Z",
+      "pub_sort_dt": "2026-08-17 11:34:12"
     },
     {
       "source": "Reuters",
-      "title_en": "恩加梅开二度，助喀麦隆首次夺得非洲女子国家杯冠军",
-      "title_cn": "恩加梅开二度，助喀麦隆首次参加非洲女子国家杯冠军",
-      "url": "https://reut.rs/4gAensj",
-      "pub_raw": "2026-08-17T00:53:58.005Z",
-      "pub_sort_dt": "2026-08-17 08:53:58"
+      "title_en": "独立日当天，印尼地震遇难者搜救工作正在进行中",
+      "title_cn": "独立日当天，对话遇难者搜救工作发起中",
+      "url": "https://reut.rs/4xaALyA",
+      "pub_raw": "2026-08-17T03:34:12.503Z",
+      "pub_sort_dt": "2026-08-17 11:34:12"
     },
     {
       "source": "Bloomberg",
-      "title_en": "Alphabet聘请多家银行协助首次澳元债券发行",
-      "title_cn": "Alphabet聘请多家银行协助首次澳元债券发行",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-hires-banks-for-inaugural-aussie-dollar-bond-sale",
-      "pub_raw": "2026-08-17T00:37:59.122Z",
-      "pub_sort_dt": "2026-08-17 08:37:59"
+      "title_en": "简街公司150亿美元的债务置换是一项明智的自保之举",
+      "title_cn": "简街公司150亿美元的债务置换是一个明智的自保之举",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-17/jane-street-s-15-billion-debt-swap-is-smart-self-defense",
+      "pub_raw": "2026-08-17T03:18:17.943Z",
+      "pub_sort_dt": "2026-08-17 11:18:17"
     },
     {
       "source": "Bloomberg",
-      "title_en": "A2 Milk 受中国奶粉供应问题影响，复苏势头缓慢",
-      "title_cn": "A2牛奶受中国牛奶供应问题影响，复苏缓慢",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/a2-milk-sees-slow-recovery-from-china-formula-supply-problem",
-      "pub_raw": "2026-08-17T00:37:59.115Z",
-      "pub_sort_dt": "2026-08-17 08:37:59"
+      "title_en": "能源价格抵消了刺激政策的影响，泰国经济增长放缓至1.9%",
+      "title_cn": "能源价格受到了严厉政策的影响，泰国经济增长预期至1.9%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/thai-growth-slows-to-1-9-as-energy-prices-counter-stimulus",
+      "pub_raw": "2026-08-17T03:01:55.435Z",
+      "pub_sort_dt": "2026-08-17 11:01:55"
     },
     {
       "source": "Bloomberg",
-      "title_en": "6月17日最新原油市场新闻与分析",
-      "title_cn": "6月17日最新原油市场新闻与分析",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/latest-oil-market-news-and-analysis-for-june-17",
-      "pub_raw": "2026-08-17T00:37:59.112Z",
-      "pub_sort_dt": "2026-08-17 08:37:59"
+      "title_en": "受疲软零售数据拖累美元走弱，金价升至接近4,400美元",
+      "title_cn": "受疲软零售数据拖累美元走弱，金价上涨接近4,400美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/gold-steady-near-4-400-as-traders-weigh-us-data-and-rate-path",
+      "pub_raw": "2026-08-17T03:01:55.421Z",
+      "pub_sort_dt": "2026-08-17 11:01:55"
     },
     {
       "source": "Bloomberg",
-      "title_en": "分析师称，受央行鸽派立场影响，泰铢涨势或将趋缓",
-      "title_cn": "分析师称，受央行鸽派分析影响，泰铢涨势或将趋缓",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/thai-baht-rally-may-fade-on-dovish-central-bank-analysts-say",
-      "pub_raw": "2026-08-17T00:22:10.316Z",
-      "pub_sort_dt": "2026-08-17 08:22:10"
+      "title_en": "随着印度储备银行（RBI）将提前结束FCNR存款窗口，印度卢比和债券成为市场关注焦点",
+      "title_cn": "随着印度储备银行（RBI）将提前结束FCNR窗口，印度储备银行和债券成为市场关注焦点",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/india-rupee-bonds-in-focus-as-rbi-to-end-fcnr-deposit-window-early",
+      "pub_raw": "2026-08-17T02:46:05.992Z",
+      "pub_sort_dt": "2026-08-17 10:46:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "习近平在前任诞辰百年之际盛赞党领导下的经济发展",
+      "title_cn": "习近平在前任诞辰百年之际盛赞党领导下的经济发展",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/xi-touts-party-led-growth-at-predecessor-s-birth-centenary",
+      "pub_raw": "2026-08-17T02:46:05.988Z",
+      "pub_sort_dt": "2026-08-17 10:46:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港法院下令清算一家中国交易商的业务部门",
+      "title_cn": "香港法院下令曼哈顿一家中国交易商的业务部门",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/chinese-trader-s-unit-ordered-to-liquidate-by-hong-kong-court",
+      "pub_raw": "2026-08-17T02:29:51.636Z",
+      "pub_sort_dt": "2026-08-17 10:29:51"
     },
     {
       "source": "Reuters",
-      "title_en": "数据显示，油轮遇袭后，霍尔木兹海峡的航运速度放缓",
-      "title_cn": "数据显示，油轮遇袭后，霍尔木兹海峡的航运速度放缓",
-      "url": "https://reut.rs/4xPTNKt",
-      "pub_raw": "2026-08-17T00:22:10.227Z",
-      "pub_sort_dt": "2026-08-17 08:22:10"
+      "title_en": "受消费和投资疲软影响，日本第二季度经济增长未达预期",
+      "title_cn": "受消费和投资疲软影响，日本二季度经济增长未达到预期",
+      "url": "https://reut.rs/4cdbdbF",
+      "pub_raw": "2026-08-17T02:29:51.542Z",
+      "pub_sort_dt": "2026-08-17 10:29:51"
     },
     {
       "source": "Reuters",
-      "title_en": "孟加拉国表示，鉴于围绕被罢免领导人一事存在分歧，需要营造更有利的环境才能访问印度",
-      "title_cn": "此前表示，目前围绕被罢免领导人一件事存在缺口，需要营造更有利的环境才能访问印度",
-      "url": "https://reut.rs/3UCu2yH",
-      "pub_raw": "2026-08-16T23:50:06.390Z",
-      "pub_sort_dt": "2026-08-17 07:50:06"
+      "title_en": "据媒体报道，韩国南部地区遭遇强降雨，山体滑坡造成一人死亡",
+      "title_cn": "据媒体报道，韩国南部地区遭遇强流行，山体滑坡造成一人死亡",
+      "url": "https://reut.rs/464bwSj",
+      "pub_raw": "2026-08-17T02:29:51.539Z",
+      "pub_sort_dt": "2026-08-17 10:29:51"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "海湾战争推高油价，亚洲股市走势震荡",
+      "title_cn": "海湾战争风险较高，亚洲股市走势震荡",
+      "url": "https://reut.rs/4x6mh2A",
+      "pub_raw": "2026-08-17T02:29:51.535Z",
+      "pub_sort_dt": "2026-08-17 10:29:51"
     },
     {
       "source": "Bloomberg",
-      "title_en": "必和必拓、吉娜·莱因哈特、澳大利亚国民银行：澳大利亚简报",
-      "title_cn": "必和必拓、吉娜·莱因哈特、澳大利亚国民银行：澳大利亚简报",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-16/bhp-gina-rinehart-nab-australia-briefing",
-      "pub_raw": "2026-08-16T23:18:00.769Z",
-      "pub_sort_dt": "2026-08-17 07:18:00"
+      "title_en": "白银交易商不畏繁文缛节，争抢印度市场溢价",
+      "title_cn": "白银交易商不畏繁文缛节，争抢印度市场溢价",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/silver-traders-brave-red-tape-to-capture-indian-premiums",
+      "pub_raw": "2026-08-17T02:14:10.395Z",
+      "pub_sort_dt": "2026-08-17 10:14:10"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着供应紧张局势加剧，伦敦金属交易所（LME）铜价逼近历史高点",
+      "title_cn": "随着供应紧张局势加剧，伦敦金属交易所（LME）铜价逼近历史高点",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/copper-heads-toward-record-high-on-lme-as-supply-tensions-build",
+      "pub_raw": "2026-08-17T02:14:10.392Z",
+      "pub_sort_dt": "2026-08-17 10:14:10"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "“大到不能禁”——药明康德凭借GLP-1领域的垄断地位股价暴涨100%",
+      "title_cn": "“大到不能禁”——药明康德凭借GLP-1领域的垄断地位股价暴涨100%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/wuxi-apptec-s-100-stock-rally-defies-geopolitical-headwinds",
+      "pub_raw": "2026-08-17T02:14:10.385Z",
+      "pub_sort_dt": "2026-08-17 10:14:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "刚果民主共和国爆发的埃博拉疫情已成为该国历史上致死人数最多的一次",
+      "title_cn": "刚果民主共和国爆发的埃博拉疫情已成为该国历史上致死人数最多的一次",
+      "url": "https://reut.rs/4xDA68q",
+      "pub_raw": "2026-08-17T02:14:10.303Z",
+      "pub_sort_dt": "2026-08-17 10:14:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "调查显示，英国雇主仍陷于“招聘少、解雇少”的模式",
+      "title_cn": "调查显示，英国雇主仍陷入“招聘少、解雇少”的模式",
+      "url": "https://reut.rs/3U58kmQ",
+      "pub_raw": "2026-08-17T02:14:10.300Z",
+      "pub_sort_dt": "2026-08-17 10:14:10"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "今年剩余时间里，斯里兰卡的通胀率和经济增长率都将放缓",
+      "title_cn": "今年剩下的时间里，通货膨胀率和经济增长率都将达到预期",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/sri-lanka-inflation-and-growth-to-both-slow-over-rest-of-year",
+      "pub_raw": "2026-08-17T01:58:01.620Z",
+      "pub_sort_dt": "2026-08-17 09:58:01"
     },
     {
       "source": "Financial Times",
-      "title_en": "特朗普表示，美国将缩减与韩国的联合军演规模",
-      "title_cn": "特朗普表示，美国将缩减与韩国的联合军演规模",
-      "url": "https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-16T23:18:00.075Z",
-      "pub_sort_dt": "2026-08-17 07:18:00"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "《华尔街日报》个人科技专栏作家@nicnguyen撰文指出，人工智能之所以频频奉承，部分原因在于我们自己。",
-      "title_cn": "《华尔街日报》个人科技专栏作家@nicnguyen撰文指出，人工智能如此频频奉承，部分原因依赖于我们自己。",
-      "url": "https://on.wsj.com/3SCb7n5",
-      "pub_raw": "2026-08-16T23:18:00.063Z",
-      "pub_sort_dt": "2026-08-17 07:18:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "赞比亚总统希奇莱马在连任竞选中进一步扩大领先优势",
-      "title_cn": "赞比亚总统希奇莱马在连任竞选中进一步扩大领先优势",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-15/zambian-president-hichilema-takes-early-lead-in-reelection-bid",
-      "pub_raw": "2026-08-16T21:58:02.200Z",
-      "pub_sort_dt": "2026-08-17 05:58:02"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "特朗普指示五角大楼减少与韩国的军事演习",
-      "title_cn": "特朗普指示五角大楼减少与韩国的军事演习",
-      "url": "https://reut.rs/4g24tzv",
-      "pub_raw": "2026-08-16T21:58:02.136Z",
-      "pub_sort_dt": "2026-08-17 05:58:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普表示将缩减与韩国的军事演习",
-      "title_cn": "特朗普表示将缩减与韩国的军事演习",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/trump-says-he-s-curtailing-military-drills-with-south-korea",
-      "pub_raw": "2026-08-16T21:45:02.177Z",
-      "pub_sort_dt": "2026-08-17 05:45:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着美伊停火协议到期，以色列对黎巴嫩发动袭击",
-      "title_cn": "随着美伊停火协议到期，以色列对黎巴嫩发动袭击",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-16/israel-strikes-lebanon-with-us-iran-ceasefire-due-to-lapse",
-      "pub_raw": "2026-08-16T21:45:02.173Z",
-      "pub_sort_dt": "2026-08-17 05:45:02"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在特朗普就“倒影池”事件发表批评后，美国司法部长布兰奇公开支持皮罗",
-      "title_cn": "在特朗普就“倒影池”事件发表批评后，美国司法部长布兰奇公开支持皮罗",
-      "url": "https://reut.rs/4x3gBq3",
-      "pub_raw": "2026-08-16T21:09:59.749Z",
-      "pub_sort_dt": "2026-08-17 05:09:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "《华尔街日报》称，美国对马克·沃尔特的调查聚焦于四名中间人",
-      "title_cn": "《华尔街日报》称，美国对马克·沃尔特的调查聚焦于四名中间人",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/us-probe-on-mark-walter-focused-on-four-intermediaries-wsj-says",
-      "pub_raw": "2026-08-16T20:54:44.157Z",
-      "pub_sort_dt": "2026-08-17 04:54:44"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "华盛顿举行的特朗普-习近平峰会的重要性不及西太平洋地区的紧张局势",
-      "title_cn": "华盛顿举行特朗普-习近平峰会，强调不及西太平洋地区的紧张局势",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-08-16/trump-xi-summit-in-washington-matters-less-than-tensions-in-western-pacific",
-      "pub_raw": "2026-08-16T20:24:24.391Z",
-      "pub_sort_dt": "2026-08-17 04:24:24"
+      "title_en": "奥林巴斯掌门人试图以敌方之策击败私募股权公司",
+      "title_cn": "奥林巴斯掌门人试图以敌方之策击败私募股权公司",
+      "url": "https://www.ft.com/content/db29304b-6a28-4e12-8125-3f9658efb89e?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-17T01:41:59.904Z",
+      "pub_sort_dt": "2026-08-17 09:41:59"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国选手王曼昱在WTT欧洲公开赛上夺得女子单打冠军 - chinadailyasia.com",
+      "title_cn": "中国选手王曼昱在WTT欧洲公开赛上女子单打冠军 - chinadailyasia.com",
+      "url": "https://news.google.com/read/CBMiWEFVX3lxTE9xaEZqNVlNNlhQbTlpOW13NXVvaXZNRDF2OFExVGxfWnZwZHI2cHJJR28tTkptUUpUOU04bjRGckQzQWE2NUJoU3J6MnZ6TEhKbUxOTjBPTkk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T02:03:21.000Z",
+      "pub_sort_dt": "2026-08-17 10:03:21"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "韩系美妆已风靡全球。中国品牌Proya希望“中系美妆”能成为下一个风潮。 - WSJ",
+      "title_cn": "韩系美妆已风靡全球。中国品牌珀莱雅希望“中系美妆”能成为下一个风潮。 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxPTjEzTERIVGFzeXN5N3hoNWVKcDltUUNvNGNEUTdLX2FEQXlxbngxMVVoaFFSckFaZzBqNTIyQjNsRGN4anJtd1JtOUlWekI3WWhZS3FBYzhQYTI4UXlOT2IyeldxYk9MRUFpQWtQNFV2dkpVaG0yck9wd0g0ckFSbXp4YUhDcEFacFlfSVRUTlNZZG52a1NDUlRmSDhpWUZaYV9GbFlZMTJaNmtJUHdsbURnTTRicjg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T01:41:00.000Z",
+      "pub_sort_dt": "2026-08-17 09:41:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国威凌医疗为医疗级脑机接口项目融资逾1亿元 - Dealroom",
+      "title_cn": "中国威凌医疗为医疗级脑机接口项目融资超1亿元 - Dealroom",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxOOHNRMjNBTzdYY2FQeTQ3UlkyQkkxZExoZE1tY1pCcWVxa2h4VHg3WTB4b1ozbDR1WFZwYUR3RXR2V2EyckpnRjE0bmFpY0pPTWVXN3JuVV9yOUZhTFpUOFRwekw5SHdmT1hMTG5Mb29PMDBmUDR5Z1FOQTNoQmxJYWxWZ2RTclZDaERyeDlaTGF1bEJOVVdGRWFHZl90eHA2c3M3cUhxOWVSakMwaEJfNVdGQVpJUEk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T01:21:59.000Z",
+      "pub_sort_dt": "2026-08-17 09:21:59"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "智库称：随着物理人工智能竞赛日趋白热化，中国机器人行业或将面临冲击 - Nikkei Asia",
+      "title_cn": "智库称：随着物理人工智能竞赛日益白热化，中国机器人行业或将面临威胁 - Nikkei Asia",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxPVy1vSHo3aEttajd0LTVmOHZXS3JGbG1PaGxfdEs2dnU0UHZ4dWpDdWVVZ3FJUVB0SVJHZm9LRExQbGtGbEhNSHFmTU1yeGhoOVhnUU9DMTZKMnNuTV9rbzdUZGNVNDZwRVpVdlFka1ktX3ZxcDlWemJSdUphVGVzZVBSRmstWkVHaVpvTlYwWk1ad1VYd0Q4NTNJeGxZVnoya2UtTDU0TGVwN18xNE5teVNZdks?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T01:18:00.000Z",
+      "pub_sort_dt": "2026-08-17 09:18:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "CXMT跻身中国最具价值企业之列，预示着新技术时代的到来 - Bloomberg.com",
+      "title_cn": "长鑫存储主导中国最具价值企业之列，拥抱新时代的到来 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxQWWs5WnlRcTFIdlFyaUs5YklCTVZuakxTa3oxazRkSEIzYXNqWlNWX1UyZTlkWlFyM2lrVXhzd1JsTUQyTkQ0MjJyemJpeEZDOG5pNlEzLVVzdmQyQjRWZ1B6YWM2dTc5bFRob250ZEVRU29EWkc1UDM3N285V1RNSnktNkU3N0REQzE0SlFoLTMtM3lsd3pkLXUwb0FPdWJHOFROdUlZYXFyWXRwbGhhNXU4WQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T01:07:00.000Z",
+      "pub_sort_dt": "2026-08-17 09:07:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "下一次“中国冲击”将来自开源人工智能 - Financial Times",
+      "title_cn": "下一次“中国冲击”将来自开源开源 - Financial Times",
+      "url": "https://news.google.com/read/CBMicEFVX3lxTFBWQ05ZZ1N3RENEQXc4eFAzWlF6R0tTSjB1V0RfWjNrbnNTcVdKM25VdlFQdmVsSUt1S1RyV243WWFpYXpHWTBZcE12R2dOdU1Cd0o0eU9DWGloN2pWbVJSNVNubGhUMHlUX1M5UmpzT1c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T01:00:45.000Z",
+      "pub_sort_dt": "2026-08-17 09:00:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着冒险者们在体验中心挑战模拟灾难，中国的“黑暗旅游”正日益兴起 - South China Morning Post",
+      "title_cn": "随着冒险者们在体验中心挑战模拟灾难，中国的“黑暗旅游”悄然兴起 - 南华早报",
+      "url": "https://news.google.com/read/CBMi4wFBVV95cUxObWM2MFVDZUdGdE5CNXVHM3NoQkc4bjdiMHpmQTh1eWtQQVNCNlJCX29XYWYyQWNaYWhvRVQxYlFpa201UThBUFVpVkFxZFlOMHFvaXBQRFZTdDhVWmh1WjlqVjhkQm9tZ2xTU1ExLVpWZFdlcm5OYWFOUmVkTkE4NlZQWTJYRzRwcXVtUmtDX2NlU29sOExUR1RVTmI4Q2R1QnRaRVdmSThOd0FDYmRmN3JJVHBqX1lTcGNtYWVkSVlnSnJ2VEtJTmQzT1RzZ1VNV3NDZExrVzg1QmlSUXpjQURoc9IB4wFBVV95cUxPWmhPUHJkX09wMTh1NVJWWUZVWjM0R3BSZ29MNTRzalF2NkE3MGVTV0QyRlNlaWJTczVkc2hjaXBwX3RDd2lCSkN0a3dMY3Y4elZwSi1HU3pJUEZKR1dZSXp0MzRxSWllR0FNa1NIWVFaSUw4N1JZNVlKNThjVlNSVTF0dWJld3YzNHR6bU92UHpQQndEU2laSHAwN05oU2I5RXZKTU5QSFlkZzhibWVrdm1NRzVlWmNOYVVHbkRub3F5RVNXaHVHZXk5ajJxNkFyamlCaHRheGNPZk91MktELVJsbw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T01:00:17.000Z",
+      "pub_sort_dt": "2026-08-17 09:00:17"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "从咖啡到火锅，各大品牌争相抢占中国不断增长的汉堡市场 - Reuters",
+      "title_cn": "从咖啡到火锅，各大品牌争抢中国汉堡市场份额不断增长 - 路透中文网",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQZUZVN3Z3V2txV3l6dU5PaUN3S0tFeU9PYUo4S1h3Mzhwc2JhZzJpM0JNbUhEcDFkM0RfSkN0ZUdrZk9IUmlqLWhJbXBCRzlfSENZSGdzOW1XdHVrMjBWZ3J0X1lQTFVpSGpWZkM5N25CSzVld3RzcmRKUktGTlNWcGg5cmFoTXd6MVhnWHJUek1mbTZtXzZDYTNZOHVTU3VFaE13Um5Md1hwazRsTzRSQnJadWNSSDFnMUdvdFV1NHlsUlE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T00:11:45.000Z",
+      "pub_sort_dt": "2026-08-17 08:11:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "霍尔木兹海峡之后，中国将目光投向北极“冰上丝绸之路”所蕴含的机遇与风险 - theguardian.com",
+      "title_cn": "霍尔木兹海峡之后，中国将目光投向北极“冰上丝绸之路”所蕴含的机遇与风险 - theguardian.com",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxOVml2MlRHc0YxZHM5Y2wxOWNqRXBGdk9Jc3oxc09OQmJfUksyNW5Qc0dNZVQwNnpMY2VGTGtaNFREaWZrWkpfWmRlZFZ2cG5iZ0JNYTUwZlVNekRUb2FyaWFTMmFnUE9LRF9veS1CV1BhLTNkWUgxc1JjVTdhSnFvRldnZW51SEZpSE9xVTh1QXhhS1ZkdzFBRElaSVk3TkdkQjM0cEhsWExZcjExYmQ3ZU1seUp6TDNZdGVwSg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T00:09:00.000Z",
+      "pub_sort_dt": "2026-08-17 08:09:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "伊朗战争证明了中国的能源战略是正确的 - Financial Times",
-      "title_cn": "伊朗战争证明了中国的能源战略是正确的 - Financial Times",
+      "title_cn": "伊朗战争证明了中国的能源战略是正确的 - 金融时报",
       "url": "https://news.google.com/read/CBMicEFVX3lxTE1MQnVLaUctU21tNUVBUG5JdGkzSG9SNUhOdnlTcDZOMUxNMnlpNW16TV9rTDR0YjlkTXRwT3RFRjdmVG5aX0ZHS0J1VE9uVUY3RzY5UU5qNGFla3ZNZzZSUUFtY0t0M3Z0Y1U0N1VSZFc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-16T23:01:05.000Z",
       "pub_sort_dt": "2026-08-17 07:01:05"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "揭秘基廷为引导阿尔巴内塞在对华及特朗普问题上的立场所做的幕后努力 - Politico",
-      "title_cn": "揭秘基廷为引导阿尔巴内塞在对华及特朗普问题上所做的幕后努力 - Politico",
-      "url": "https://news.google.com/read/CBMilgFBVV95cUxQbGtKY1luMkZyQmVwQTVuQmxNbDBydW02cVZCMzlKLW9WeWlxeGtuX3RRSlFrUVFpS0pQSFdSVlNtMGhqUnhmd1ltU3NqSVA5R3lpOWVRR05VclRHWk5RT2swWkJMaFowUlg3YUpOcEJiaFI2ZlE2anBFZG8xT0o3MURBWGpaVVh2SV8yWUZUMmhEYTFKVWc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T18:45:00.000Z",
-      "pub_sort_dt": "2026-08-17 02:45:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "英国和美国均表示正在调查中国与一个反以色列抗议团体之间涉嫌的联系 - The Times of Israel",
-      "title_cn": "英国和美国均表示正在调查中国与一个反以色列抗议群体之间涉嫌的联系 - 以色列时报",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQMUJSbXpTa3o1b2lSRmFwZWJSM3pwcnhXeUJ4Y05ROS1zOE8yNE5OLUVCQ25Sb05DdmVBM2VDX3doMWxxVnE2cmpWWlNWcVRfeXNabkVzTFk2b29tOHlqVXF6VDNjRllDRmF3ZllLUmF2TE9KcFdXZG95eWJDMm14RWdlemF3RGZrQngwcEhSY3psTmotTks0bFRtY2VMYXcxOUhmbnVIeDBoVHgtOHhXZjhDWnjSAboBQVVfeXFMTTZSMllZcXlCWlc1WVJKV1VtdkNneVBJOUp2UDl4U21uT0FveWpiaE55cWNXNXM0b1p2akZSaWxMTV9FMDByaUZ2VHV4NEZUTEZBSTlMaWtEUUZ6ZzJvR1JKaUptZXlaQ3ZrVzBCTjlGdHBYYURKUWtjVHBwb1I3OGZsMmZlNGpNWnhrQTR3YmZ2aGxYV2VvVWwwQm1LeEVnLWlDOXBLVVFJbkVhUVBVbmxIWXVadV81c3Z3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T17:58:14.000Z",
-      "pub_sort_dt": "2026-08-17 01:58:14"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "大规模无家可归现象正暴露中国社会的弊病 - The Hill",
-      "title_cn": "大规模无家可归现象正暴露中国社会的弊病 - The Hill",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxQLUl1Qjl6X3FLcVJXRDNnT3o5aFNvY0Y2RDNrUG9XWUxvNS1zOGZlZmxxSWxVUkdUWjBuTUhLXzBQSDBNVHhPQVN3UTRpakg3ZE1YUVVaam1SSzZCM0NLajE4MTRqN1FHdG82NlhMdFZzVlpBdFVFZXBwamVwOVRaYlprM0hkMHZhX1E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T15:00:00.000Z",
-      "pub_sort_dt": "2026-08-16 23:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "大规模无家可归现象正暴露中国社会的弊病 - thehill.com",
-      "title_cn": "大规模无家可归现象正暴露中国社会的弊病 - thehill.com",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxQLUl1Qjl6X3FLcVJXRDNnT3o5aFNvY0Y2RDNrUG9XWUxvNS1zOGZlZmxxSWxVUkdUWjBuTUhLXzBQSDBNVHhPQVN3UTRpakg3ZE1YUVVaam1SSzZCM0NLajE4MTRqN1FHdG82NlhMdFZzVlpBdFVFZXBwamVwOVRaYlprM0hkMHZhX1HSAY8BQVVfeXFMT3N0WUVqTXhDeDl1ZFMxZTFIOF9raXlPcFVoZ2lBcktwalVIazFWT1NsaEh6UDdBNmZNcFM4MnJrSDRxV2pITHcxSGkyRnhJYWl6Y0lPY3pqSmtoSFl5WFZQM01uWGY5N21TVmdiT3B6c29NNDNlNmlSWkkzWi1FR3gtbFFJWFJKOXZQeDZzSG8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T15:00:00.000Z",
-      "pub_sort_dt": "2026-08-16 23:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "一只“粗糙”且“笨拙”的中国动画牛是如何从票房零分蜕变为英雄的 - South China Morning Post",
-      "title_cn": "一只“粗糙”且“笨拙”的中国动画牛是如何从票房零分蜕变为英雄的 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxPOWJDTUM3dDFzRTM5aG1OVGtkZkJCZUZpdWNlcW1lU0JDR25NZDZRbnNxYzBMV1ZzVEsxSWJOY3BLSTdIcjVWMWdjZTFDMDFFaGJ1WHNxZHJObjVTc0VXWHNaa0pZUUg3ejdxeEE5UHpZNG9xZ2FQREstU3NsNnQ0eFpVckhNQ01UdjJFRGxvcmdKeUJpTDlISzBFZktfSVRjZ1ZBODd0MEctSF84YTZRUHJR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T14:02:23.000Z",
-      "pub_sort_dt": "2026-08-16 22:02:23"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "共产党援引江泽民的遗志，呼吁团结在习近平的领导周围 - South China Morning Post",
-      "title_cn": "共产党援引江泽民遗志，号召团结在习近平领导周围 - 南华早报",
-      "url": "https://news.google.com/read/CBMizAFBVV95cUxNZ1gtYjVtZEtlSXdlWFZMOFZXSWZNemZ1NkhlZUpnT2poWjJYLUlFYTI5Y2ZOcjlTRFBMVkFUSURHQnFLMXM1R0lOcWZ2ZXJnU0tmSG1qUUgtRy0xUW92S3ROZjZvMGdGME0waUdoaERkM1NiRjlEaDktOTNMeVNIakxGNXVhemxjM3ZDN0NKUXZEZGFrUkR3OUk4QnhfSGF4dERaQW45a3V6Z0Q0ZEpJczRpWHcyakVza0FIaHVMSzRrVmlzbFJsN0RsX2rSAcwBQVVfeXFMTjN3QktaVDd2UlFfQjZab3BKVW9Wby1YSEwybDdUbl9CaGE1TE9lNkNLdmU1T3JxUUNHUktvNVY3bDA2LUNwcHFJd1N0MlhqOHhndE9renZjVk9zUFBROXNqeldfWGM2YUNSSFl0OEhWd09OZm9EdDZuODltLUUxOXR4TXpWdmp1V1JBeC1ld0JaX25iOVJ6TE9Ua21SMWZld2ltUXhrYzdKNUVQQ0tOc2w5ZWhDSGFnVmd4U0haVkxfTlZTdHBuUk1wcDdz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T13:00:09.000Z",
-      "pub_sort_dt": "2026-08-16 21:00:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "观点 美中科技战将波及人工智能的基础架构 - South China Morning Post",
-      "title_cn": "观点 美中科技战将波及人工智能的基础架构 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxQZ3h3MUJSM0gzSThXeFFWQl94U2F4cHJ2Y1Uyd3hOZERxNmZZNzBSeExpSjdZMjB5cnBtMVhBUWpCUG50bW5kMXJjeXNadUN3Tk1yaEdpeVNhVnhBZEhfRmlvNThBUTY2R3J1NV91TG1oSHgxZHlZV2FNa2tSdDZnUXdYdXJodGNPQl8wR3d0SU5zdUdONm1fZGl4a2TSAZwBQVVfeXFMTWYwaXBWVUwxOEdJanFuOEp2ZGZJQndKeFI3VnZSZ2p3OHZGZGxQOVNrTnRwZTlWaXFPQXBOMmhNbE5Gc2hGUDdGQXdiWTZsZnBlcjFGR3NpWkpwc05iSVdFMjhOQnpvTjlCQXhaTkU3WkcwaWt5TC1TWUlrbjdEU2MzbnF6OHRDQS1VTVNJTG9Rd1g4SW1PZHNUaUt5?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T12:30:07.000Z",
-      "pub_sort_dt": "2026-08-16 20:30:07"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "从运输到作战：呼吁中国做好民用船舶战时投入使用的准备 - South China Morning Post",
-      "title_cn": "从运输到作战：呼吁中国做好民用船舶战时投入使用的准备 - 南华早报",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxOZFdWZnlWdUlXdG5TVFhrUGNBbUE3TXZfQ0V0OEJiOWJWY1ZBbWhLUGN0N2hHTzUxeXRqcHlzOFlaZVNHajE2RlROMjhObkd6ZzNiVUpOYmthMTFsRGJGOFFfYVhGZHhhaDVVcVhZa25jODdVS3JiSnRyWnlScWJaMTUyNWZidXVTbHgycWlBS0JFX1hQZm1WUWhvUm1mdWgxa1VTdXJoWXBkZ0pBdmlIWVo5LU0zU2fSAbcBQVVfeXFMTURrem5TZ2stc3ZMTzdvNnRvTVplQmVEb0ExQm5kandfSVEtSHBLV2d6RldLYXBYSmpPTTVPTW9qcFp5T3otRjlkY0plQ0xCNndya1dfcGtLVF9qX2M1MGhURmdlUzNRVHJDbUZwMGpZRm9fNVBPZzQ5QWpSc1RfM1JRcHBtWVJqSC11YVJnYWZpTExJd0hMZ2dTQ1F2cmdLcXRLdnBhRlJORHJGbWFJSXg3NnAtb29R?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T12:00:11.000Z",
-      "pub_sort_dt": "2026-08-16 20:00:11"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "马斯克的烦恼：认识一下挑战其商业帝国的中国企业矩阵 - scmp.com",
-      "title_cn": "马斯克的烦恼：认识一下挑战其商业帝国的中国企业矩阵 - scmp.com",
-      "url": "https://news.google.com/read/CBMi0wFBVV95cUxOQ0FaM3B0V3FzVGg2RkpubkgzRnc3NTlqRVV5Nmhjd3EwekdxT0F4V1dreGtYb2ZxQkoxZjhzQkhkeFBzT0l6VTcyNnpqeUFFcFhwdTVzMjZmUWRsdENwZDhQZ1dhUTZORzdWYkhjTjBzdi1Md25nV3oxUzFfR1pfMjl1SjJrQVBMVmtFR25wVU5peTV5NXV2NGM3RE9KM1lab2Rla0otSnZNOEMya2s2TlRpZ1JHNGVGTDA5ekhHWURJdXpFUGw3VTJ2cWNaaTdZc3RB0gHTAUFVX3lxTE9DRkJKR3JrSmczdFlSVENmUDN5QmloZWNqcWZQVDdKOXJBRU1YZXNxNXYxMjJSZnM4WWtiNWwyeWFtR0tHaW15RHZzOGs5b05ZR045ZXBOVW85R1BIdzF2blhKV0xDV3otMlBBWFNaa2Y0dUV3RnpmdzVDMS1lS0R0NTliMXdDWEJOUnVzcm1pV3l0RVkwRjRKRmpsbTdqZW5wa0xtMEJHVnd2R0djVXlaZlZmTGZmSGdMVzVBeUV4ekl1eFZBbGdwaVI0TnFwVGUxT2M?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-16T10:00:12.000Z",
-      "pub_sort_dt": "2026-08-16 18:00:12"
+      "source": "Bloomberg",
+      "title_en": "韩国进出口银行将向嘉能可提供10亿美元贷款用于铜供应",
+      "title_cn": "韩国进出口银行将向嘉能提供10亿美元贷款用于铜供应",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/korea-eximbank-to-lend-1-billion-to-glencore-for-copper-supply",
+      "pub_raw": "2026-08-17T03:50:08.497Z",
+      "pub_sort_dt": "2026-08-17 11:50:08"
     },
     {
       "source": "Bloomberg",
-      "title_en": "日本经济增速意外放缓，资本支出下滑",
-      "title_cn": "日本经济增速意外放缓，资本支出下滑",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/japan-s-economic-growth-slows-as-mideast-conflict-clouds-outlook",
-      "pub_raw": "2026-08-17T00:53:58.106Z",
-      "pub_sort_dt": "2026-08-17 08:53:58"
+      "title_en": "印尼开发商Modernland再次寻求债券重组",
+      "title_cn": "和平谈判现代国再次寻求债券重组",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/indonesian-developer-modernland-seeks-bond-restructuring-again",
+      "pub_raw": "2026-08-17T03:50:08.494Z",
+      "pub_sort_dt": "2026-08-17 11:50:08"
     },
     {
       "source": "Bloomberg",
-      "title_en": "美联储加息预期降温，美元走低，美债上涨：市场综述",
-      "title_cn": "美联储加息预期预计，美元走低，美债上涨：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-      "pub_raw": "2026-08-17T00:53:58.103Z",
-      "pub_sort_dt": "2026-08-17 08:53:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "NAB股价下跌，因市场预计澳大利亚抵押贷款增长将放缓",
-      "title_cn": "NAB股价下跌，因市场预计澳大利亚抵押贷款将增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/national-australia-bank-profit-edges-up-on-business-bank-growth",
-      "pub_raw": "2026-08-17T00:53:58.099Z",
-      "pub_sort_dt": "2026-08-17 08:53:58"
+      "title_en": "澳大利亚放缓“背包客”签证审批流程，或将削减移民配额",
+      "title_cn": "澳大利亚“背包客”签证审批流程，或将削减移民签证",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/australia-slows-backpacker-visa-process-as-migration-cuts-eyed",
+      "pub_raw": "2026-08-17T03:34:12.628Z",
+      "pub_sort_dt": "2026-08-17 11:34:12"
     },
     {
       "source": "Reuters",
-      "title_en": "恩加梅开二度，助喀麦隆首次夺得非洲女子国家杯冠军",
-      "title_cn": "恩加梅开二度，助喀麦隆首次参加非洲女子国家杯冠军",
-      "url": "https://reut.rs/4gAensj",
-      "pub_raw": "2026-08-17T00:53:58.005Z",
-      "pub_sort_dt": "2026-08-17 08:53:58"
+      "title_en": "独立日当天，印尼地震遇难者搜救工作正在进行中",
+      "title_cn": "独立日当天，对话遇难者搜救工作发起中",
+      "url": "https://reut.rs/4xaALyA",
+      "pub_raw": "2026-08-17T03:34:12.503Z",
+      "pub_sort_dt": "2026-08-17 11:34:12"
     },
     {
       "source": "Bloomberg",
-      "title_en": "Alphabet聘请多家银行协助首次澳元债券发行",
-      "title_cn": "Alphabet聘请多家银行协助首次澳元债券发行",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-hires-banks-for-inaugural-aussie-dollar-bond-sale",
-      "pub_raw": "2026-08-17T00:37:59.122Z",
-      "pub_sort_dt": "2026-08-17 08:37:59"
+      "title_en": "简街公司150亿美元的债务置换是一项明智的自保之举",
+      "title_cn": "简街公司150亿美元的债务置换是一个明智的自保之举",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-17/jane-street-s-15-billion-debt-swap-is-smart-self-defense",
+      "pub_raw": "2026-08-17T03:18:17.943Z",
+      "pub_sort_dt": "2026-08-17 11:18:17"
     },
     {
       "source": "Bloomberg",
-      "title_en": "A2 Milk 受中国奶粉供应问题影响，复苏势头缓慢",
-      "title_cn": "A2牛奶受中国牛奶供应问题影响，复苏缓慢",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/a2-milk-sees-slow-recovery-from-china-formula-supply-problem",
-      "pub_raw": "2026-08-17T00:37:59.115Z",
-      "pub_sort_dt": "2026-08-17 08:37:59"
+      "title_en": "能源价格抵消了刺激政策的影响，泰国经济增长放缓至1.9%",
+      "title_cn": "能源价格受到了严厉政策的影响，泰国经济增长预期至1.9%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/thai-growth-slows-to-1-9-as-energy-prices-counter-stimulus",
+      "pub_raw": "2026-08-17T03:01:55.435Z",
+      "pub_sort_dt": "2026-08-17 11:01:55"
     },
     {
       "source": "Bloomberg",
-      "title_en": "6月17日最新原油市场新闻与分析",
-      "title_cn": "6月17日最新原油市场新闻与分析",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/latest-oil-market-news-and-analysis-for-june-17",
-      "pub_raw": "2026-08-17T00:37:59.112Z",
-      "pub_sort_dt": "2026-08-17 08:37:59"
+      "title_en": "受疲软零售数据拖累美元走弱，金价升至接近4,400美元",
+      "title_cn": "受疲软零售数据拖累美元走弱，金价上涨接近4,400美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/gold-steady-near-4-400-as-traders-weigh-us-data-and-rate-path",
+      "pub_raw": "2026-08-17T03:01:55.421Z",
+      "pub_sort_dt": "2026-08-17 11:01:55"
     },
     {
       "source": "Bloomberg",
-      "title_en": "分析师称，受央行鸽派立场影响，泰铢涨势或将趋缓",
-      "title_cn": "分析师称，受央行鸽派分析影响，泰铢涨势或将趋缓",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/thai-baht-rally-may-fade-on-dovish-central-bank-analysts-say",
-      "pub_raw": "2026-08-17T00:22:10.316Z",
-      "pub_sort_dt": "2026-08-17 08:22:10"
+      "title_en": "随着印度储备银行（RBI）将提前结束FCNR存款窗口，印度卢比和债券成为市场关注焦点",
+      "title_cn": "随着印度储备银行（RBI）将提前结束FCNR窗口，印度储备银行和债券成为市场关注焦点",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/india-rupee-bonds-in-focus-as-rbi-to-end-fcnr-deposit-window-early",
+      "pub_raw": "2026-08-17T02:46:05.992Z",
+      "pub_sort_dt": "2026-08-17 10:46:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "习近平在前任诞辰百年之际盛赞党领导下的经济发展",
+      "title_cn": "习近平在前任诞辰百年之际盛赞党领导下的经济发展",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/xi-touts-party-led-growth-at-predecessor-s-birth-centenary",
+      "pub_raw": "2026-08-17T02:46:05.988Z",
+      "pub_sort_dt": "2026-08-17 10:46:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港法院下令清算一家中国交易商的业务部门",
+      "title_cn": "香港法院下令曼哈顿一家中国交易商的业务部门",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/chinese-trader-s-unit-ordered-to-liquidate-by-hong-kong-court",
+      "pub_raw": "2026-08-17T02:29:51.636Z",
+      "pub_sort_dt": "2026-08-17 10:29:51"
     },
     {
       "source": "Reuters",
-      "title_en": "数据显示，油轮遇袭后，霍尔木兹海峡的航运速度放缓",
-      "title_cn": "数据显示，油轮遇袭后，霍尔木兹海峡的航运速度放缓",
-      "url": "https://reut.rs/4xPTNKt",
-      "pub_raw": "2026-08-17T00:22:10.227Z",
-      "pub_sort_dt": "2026-08-17 08:22:10"
+      "title_en": "受消费和投资疲软影响，日本第二季度经济增长未达预期",
+      "title_cn": "受消费和投资疲软影响，日本二季度经济增长未达到预期",
+      "url": "https://reut.rs/4cdbdbF",
+      "pub_raw": "2026-08-17T02:29:51.542Z",
+      "pub_sort_dt": "2026-08-17 10:29:51"
     },
     {
       "source": "Reuters",
-      "title_en": "孟加拉国表示，鉴于围绕被罢免领导人一事存在分歧，需要营造更有利的环境才能访问印度",
-      "title_cn": "此前表示，目前围绕被罢免领导人一件事存在缺口，需要营造更有利的环境才能访问印度",
-      "url": "https://reut.rs/3UCu2yH",
-      "pub_raw": "2026-08-16T23:50:06.390Z",
-      "pub_sort_dt": "2026-08-17 07:50:06"
+      "title_en": "据媒体报道，韩国南部地区遭遇强降雨，山体滑坡造成一人死亡",
+      "title_cn": "据媒体报道，韩国南部地区遭遇强流行，山体滑坡造成一人死亡",
+      "url": "https://reut.rs/464bwSj",
+      "pub_raw": "2026-08-17T02:29:51.539Z",
+      "pub_sort_dt": "2026-08-17 10:29:51"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "海湾战争推高油价，亚洲股市走势震荡",
+      "title_cn": "海湾战争风险较高，亚洲股市走势震荡",
+      "url": "https://reut.rs/4x6mh2A",
+      "pub_raw": "2026-08-17T02:29:51.535Z",
+      "pub_sort_dt": "2026-08-17 10:29:51"
     },
     {
       "source": "Bloomberg",
-      "title_en": "必和必拓、吉娜·莱因哈特、澳大利亚国民银行：澳大利亚简报",
-      "title_cn": "必和必拓、吉娜·莱因哈特、澳大利亚国民银行：澳大利亚简报",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-16/bhp-gina-rinehart-nab-australia-briefing",
-      "pub_raw": "2026-08-16T23:18:00.769Z",
-      "pub_sort_dt": "2026-08-17 07:18:00"
+      "title_en": "白银交易商不畏繁文缛节，争抢印度市场溢价",
+      "title_cn": "白银交易商不畏繁文缛节，争抢印度市场溢价",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/silver-traders-brave-red-tape-to-capture-indian-premiums",
+      "pub_raw": "2026-08-17T02:14:10.395Z",
+      "pub_sort_dt": "2026-08-17 10:14:10"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着供应紧张局势加剧，伦敦金属交易所（LME）铜价逼近历史高点",
+      "title_cn": "随着供应紧张局势加剧，伦敦金属交易所（LME）铜价逼近历史高点",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/copper-heads-toward-record-high-on-lme-as-supply-tensions-build",
+      "pub_raw": "2026-08-17T02:14:10.392Z",
+      "pub_sort_dt": "2026-08-17 10:14:10"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "“大到不能禁”——药明康德凭借GLP-1领域的垄断地位股价暴涨100%",
+      "title_cn": "“大到不能禁”——药明康德凭借GLP-1领域的垄断地位股价暴涨100%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/wuxi-apptec-s-100-stock-rally-defies-geopolitical-headwinds",
+      "pub_raw": "2026-08-17T02:14:10.385Z",
+      "pub_sort_dt": "2026-08-17 10:14:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "刚果民主共和国爆发的埃博拉疫情已成为该国历史上致死人数最多的一次",
+      "title_cn": "刚果民主共和国爆发的埃博拉疫情已成为该国历史上致死人数最多的一次",
+      "url": "https://reut.rs/4xDA68q",
+      "pub_raw": "2026-08-17T02:14:10.303Z",
+      "pub_sort_dt": "2026-08-17 10:14:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "调查显示，英国雇主仍陷于“招聘少、解雇少”的模式",
+      "title_cn": "调查显示，英国雇主仍陷入“招聘少、解雇少”的模式",
+      "url": "https://reut.rs/3U58kmQ",
+      "pub_raw": "2026-08-17T02:14:10.300Z",
+      "pub_sort_dt": "2026-08-17 10:14:10"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "今年剩余时间里，斯里兰卡的通胀率和经济增长率都将放缓",
+      "title_cn": "今年剩下的时间里，通货膨胀率和经济增长率都将达到预期",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/sri-lanka-inflation-and-growth-to-both-slow-over-rest-of-year",
+      "pub_raw": "2026-08-17T01:58:01.620Z",
+      "pub_sort_dt": "2026-08-17 09:58:01"
     },
     {
       "source": "Financial Times",
-      "title_en": "特朗普表示，美国将缩减与韩国的联合军演规模",
-      "title_cn": "特朗普表示，美国将缩减与韩国的联合军演规模",
-      "url": "https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-16T23:18:00.075Z",
-      "pub_sort_dt": "2026-08-17 07:18:00"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "《华尔街日报》个人科技专栏作家@nicnguyen撰文指出，人工智能之所以频频奉承，部分原因在于我们自己。",
-      "title_cn": "《华尔街日报》个人科技专栏作家@nicnguyen撰文指出，人工智能如此频频奉承，部分原因依赖于我们自己。",
-      "url": "https://on.wsj.com/3SCb7n5",
-      "pub_raw": "2026-08-16T23:18:00.063Z",
-      "pub_sort_dt": "2026-08-17 07:18:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "赞比亚总统希奇莱马在连任竞选中进一步扩大领先优势",
-      "title_cn": "赞比亚总统希奇莱马在连任竞选中进一步扩大领先优势",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-15/zambian-president-hichilema-takes-early-lead-in-reelection-bid",
-      "pub_raw": "2026-08-16T21:58:02.200Z",
-      "pub_sort_dt": "2026-08-17 05:58:02"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "特朗普指示五角大楼减少与韩国的军事演习",
-      "title_cn": "特朗普指示五角大楼减少与韩国的军事演习",
-      "url": "https://reut.rs/4g24tzv",
-      "pub_raw": "2026-08-16T21:58:02.136Z",
-      "pub_sort_dt": "2026-08-17 05:58:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普表示将缩减与韩国的军事演习",
-      "title_cn": "特朗普表示将缩减与韩国的军事演习",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/trump-says-he-s-curtailing-military-drills-with-south-korea",
-      "pub_raw": "2026-08-16T21:45:02.177Z",
-      "pub_sort_dt": "2026-08-17 05:45:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着美伊停火协议到期，以色列对黎巴嫩发动袭击",
-      "title_cn": "随着美伊停火协议到期，以色列对黎巴嫩发动袭击",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-16/israel-strikes-lebanon-with-us-iran-ceasefire-due-to-lapse",
-      "pub_raw": "2026-08-16T21:45:02.173Z",
-      "pub_sort_dt": "2026-08-17 05:45:02"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在特朗普就“倒影池”事件发表批评后，美国司法部长布兰奇公开支持皮罗",
-      "title_cn": "在特朗普就“倒影池”事件发表批评后，美国司法部长布兰奇公开支持皮罗",
-      "url": "https://reut.rs/4x3gBq3",
-      "pub_raw": "2026-08-16T21:09:59.749Z",
-      "pub_sort_dt": "2026-08-17 05:09:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "《华尔街日报》称，美国对马克·沃尔特的调查聚焦于四名中间人",
-      "title_cn": "《华尔街日报》称，美国对马克·沃尔特的调查聚焦于四名中间人",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/us-probe-on-mark-walter-focused-on-four-intermediaries-wsj-says",
-      "pub_raw": "2026-08-16T20:54:44.157Z",
-      "pub_sort_dt": "2026-08-17 04:54:44"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "华盛顿举行的特朗普-习近平峰会的重要性不及西太平洋地区的紧张局势",
-      "title_cn": "华盛顿举行特朗普-习近平峰会，强调不及西太平洋地区的紧张局势",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-08-16/trump-xi-summit-in-washington-matters-less-than-tensions-in-western-pacific",
-      "pub_raw": "2026-08-16T20:24:24.391Z",
-      "pub_sort_dt": "2026-08-17 04:24:24"
+      "title_en": "奥林巴斯掌门人试图以敌方之策击败私募股权公司",
+      "title_cn": "奥林巴斯掌门人试图以敌方之策击败私募股权公司",
+      "url": "https://www.ft.com/content/db29304b-6a28-4e12-8125-3f9658efb89e?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-17T01:41:59.904Z",
+      "pub_sort_dt": "2026-08-17 09:41:59"
     }
   ]
 }
