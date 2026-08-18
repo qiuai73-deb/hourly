@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Buzzing.cc 新闻 RSS 爬虫：抓取最新30条，并将标题和摘要翻译成中文"""
+"""Buzzing.cc 新闻 RSS 爬虫：China 10条 + 五大外媒科技/财经/商业20条；仅翻译标题，不输出摘要"""
 
 import urllib.request
 import ssl
@@ -18,7 +18,7 @@ from translator import batch_translate
 CHINA_RSS_URL = "https://china.buzzing.cc/feed.xml"
 CHINA_MAX_NEWS = 10
 MEDIA_RSS_SOURCES = [("The Economist", "https://economistnew.buzzing.cc/feed.xml"),("Bloomberg", "https://bbg.buzzing.cc/feed.xml"),("Financial Times", "https://ft.buzzing.cc/feed.xml"),("Wall Street Journal", "https://wsj.buzzing.cc/feed.xml"),("Reuters", "https://reuters.buzzing.cc/feed.xml")]
-MEDIA_MAX_NEWS = 20
+MEDIA_MAX_NEWS = 20  # 五大外媒过滤后混编，统一取最新20条
 
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
@@ -181,6 +181,154 @@ def parse_pubdate(date_str: str):
     return datetime.min.replace(tzinfo=timezone.utc)
 
 
+
+# =========================
+# 第二部分：科技 / 财经 / 商业关键词过滤
+# =========================
+# Buzzing RSS 提供的标题已经是中文，因此主要使用中文关键词。
+# 同时保留少量常见英文缩写/公司名，避免重要新闻因标题混用英文而漏掉。
+#
+# 说明：
+# 1. 关键词只用于第二部分五大外媒。
+# 2. China Buzzing 的前10条不经过此过滤。
+# 3. 摘要只用于提高关键词召回率，不会写入最终 news.json。
+# 4. 采用“宽进”策略：科技、财经、商业任一类别命中即可保留。
+
+TECH_KEYWORDS = [
+    # AI / 软件 / 互联网
+    "人工智能", "生成式人工智能", "生成式AI", "大模型", "机器学习",
+    "深度学习", "AI", "GPT", "OpenAI", "Anthropic", "Gemini",
+    "微软", "谷歌", "Google", "苹果", "Apple", "亚马逊", "Amazon",
+    "Meta", "脸书", "英伟达", "Nvidia", "英特尔", "Intel",
+    "AMD", "台积电", "TSMC", "博通", "高通", "Arm",
+    "软件", "云计算", "云服务", "数据中心", "数据中心",
+    "网络安全", "网络攻击", "黑客", "数字化", "互联网",
+    "科技", "技术", "科技公司", "科技巨头",
+
+    # 半导体 / 芯片
+    "半导体", "芯片", "晶圆", "晶圆厂", "光刻机", "光刻",
+    "先进制程", "制程", "封装", "存储芯片", "HBM", "GPU",
+    "CPU", "AI芯片", "芯片制造", "芯片出口", "芯片禁令",
+
+    # 机器人 / 自动驾驶
+    "机器人", "人形机器人", "工业机器人", "自动驾驶", "无人驾驶",
+    "无人机", "自动驾驶汽车", "电动车", "新能源汽车", "新能源车",
+    "电池", "动力电池", "储能", "充电桩",
+
+    # 通信 / 前沿技术
+    "5G", "6G", "通信", "电信", "卫星", "卫星互联网",
+    "量子计算", "量子技术", "核聚变", "航天", "太空",
+]
+
+FINANCE_KEYWORDS = [
+    # 宏观经济
+    "经济", "经济增长", "GDP", "国内生产总值", "通胀", "通货膨胀",
+    "通缩", "就业", "失业率", "非农", "消费者价格指数", "CPI",
+    "生产者价格指数", "PPI", "零售销售", "制造业PMI", "服务业PMI",
+    "PMI", "经济数据", "经济衰退", "衰退",
+
+    # 央行 / 利率 / 货币政策
+    "美联储", "鲍威尔", "联储", "欧洲央行", "日本央行", "英国央行",
+    "中国人民银行", "央行", "利率", "降息", "加息", "降准",
+    "货币政策", "量化宽松", "缩表", "基准利率",
+
+    # 股票 / 债券 / 市场
+    "股市", "股票", "股价", "股市上涨", "股市下跌", "指数",
+    "标普500", "标普", "纳斯达克", "道琼斯", "恒生指数",
+    "上证指数", "深证成指", "债券", "国债", "美债", "收益率",
+    "债券收益率", "信用债", "金融市场", "资本市场", "投资者",
+    "基金", "对冲基金", "私募", "资产管理", "投资",
+
+    # 银行 / 金融
+    "银行", "银行业", "金融", "金融机构", "金融科技", "信贷",
+    "贷款", "抵押贷款", "信用", "融资", "资本", "流动性",
+
+    # 汇率
+    "汇率", "美元", "欧元", "日元", "人民币", "港币",
+    "外汇", "美元指数",
+
+    # 大宗商品
+    "大宗商品", "黄金", "白银", "原油", "石油", "油价",
+    "布伦特", "天然气", "铜", "铁矿石", "煤炭", "商品市场",
+
+    # 加密资产
+    "比特币", "以太坊", "加密货币", "加密资产", "数字货币",
+    "区块链", "稳定币", "虚拟货币",
+]
+
+BUSINESS_KEYWORDS = [
+    # 企业 / 公司 / 管理层
+    "公司", "企业", "商业", "业务", "营收", "收入", "利润",
+    "净利润", "营业收入", "财报", "业绩", "季度业绩", "盈利",
+    "亏损", "销售", "订单", "CEO", "CFO", "首席执行官",
+    "首席财务官", "董事会", "管理层", "高管",
+
+    # 并购 / IPO / 融资
+    "并购", "收购", "合并", "交易", "交易额", "IPO", "上市",
+    "首次公开募股", "估值", "融资", "风险投资", "创业公司",
+    "独角兽", "私募股权", "投资者",
+
+    # 企业经营
+    "裁员", "招聘", "重组", "破产", "倒闭", "工厂", "生产",
+    "制造业", "制造", "供应链", "供应链中断", "产能", "出口",
+    "进口", "贸易", "零售", "消费", "消费者", "电商", "电子商务",
+    "物流", "航运", "航空",
+
+    # 重点产业
+    "汽车", "汽车行业", "能源", "石油公司", "天然气公司",
+    "房地产", "房产", "地产", "制药", "医药", "生物科技",
+    "生物医药", "医疗保健", "保险", "旅游业", "酒店",
+
+    # 重要公司事件
+    "战略合作", "合作协议", "签署协议", "新产品", "产品发布",
+    "涨价", "降价", "扩产", "投资建厂", "产能扩张",
+]
+
+# 明显非目标领域的噪声关键词。
+# 只在新闻没有命中任何目标关键词时发挥作用，因此不会误删
+# 同时涉及商业/科技/财经的重大体育或娱乐产业新闻。
+NON_TARGET_KEYWORDS = [
+    "足球", "英超", "世界杯", "欧冠", "网球", "篮球", "NBA",
+    "奥运会", "金牌", "比赛", "球员", "球队",
+    "电影", "电视剧", "明星", "演员", "歌手", "音乐", "演唱会",
+    "颁奖礼", "奥斯卡", "格莱美",
+]
+
+def is_tech_finance_business(title: str, desc: str = "") -> bool:
+    """
+    判断五大外媒新闻是否属于科技、财经或商业。
+    使用标题 + RSS摘要做召回，但摘要绝不输出到网页。
+    """
+    text = f"{title} {desc}".lower()
+
+    if any(k.lower() in text for k in TECH_KEYWORDS):
+        return True
+
+    if any(k.lower() in text for k in FINANCE_KEYWORDS):
+        return True
+
+    if any(k.lower() in text for k in BUSINESS_KEYWORDS):
+        return True
+
+    # 对明显的非目标新闻不放行
+    if any(k.lower() in text for k in NON_TARGET_KEYWORDS):
+        return False
+
+    return False
+
+def filter_media_news(items):
+    """只对五大外媒进行科技/财经/商业过滤。"""
+    filtered = []
+
+    for item in items:
+        if is_tech_finance_business(
+            item.get("title", ""),
+            item.get("desc", "")
+        ):
+            filtered.append(item)
+
+    return filtered
+
 # =========================
 # 新闻处理
 # =========================
@@ -247,7 +395,23 @@ def main():
         try:
             xml = fetch(rss_url)
             items = parse_rss(xml)
-            media_all_news.extend(build_news_pool(items, source_name, len(items)))
+
+            # 只过滤五大外媒；China Buzzing 不经过任何行业过滤
+            filtered_items = filter_media_news(items)
+
+            print(
+                f"[RSS-外媒] {source_name}: "
+                f"RSS原始 {len(items)} 条 -> "
+                f"科技/财经/商业 {len(filtered_items)} 条"
+            )
+
+            media_all_news.extend(
+                build_news_pool(
+                    filtered_items,
+                    source_name,
+                    len(filtered_items)
+                )
+            )
         except Exception as e:
             print(f"[RSS-外媒] {source_name} 抓取失败: {e}")
             continue
