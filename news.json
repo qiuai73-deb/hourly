@@ -1,15 +1,39 @@
 {
-  "update_cst": "2026-08-18 06:01:14 北京时间",
+  "update_cst": "2026-08-18 09:01:03 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 1,
-    "Bloomberg": 14,
-    "Financial Times": 1,
+    "The Economist": 0,
+    "Bloomberg": 13,
+    "Financial Times": 0,
     "Wall Street Journal": 0,
-    "Reuters": 4
+    "Reuters": 7
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "CNBC《中国连线》通讯：是金钱还是权力？赢得人工智能竞赛的关键 - CNBC",
+      "title_cn": "CNBC《中国连线》通讯：是金钱还是权力？赢得人工智能竞赛的关键 - CNBC",
+      "url": "https://news.google.com/read/CBMilgFBVV95cUxQdUNTLWJSZFBUUlNEY25fMWtOR0dRTm9PenVCY3dNYTVwdUtwM0EtMWFpOFVyR0k3b3NWT083VEVBQnVnTktFQl90czN0NkdkUFV1dkxHMWNQZjBZeEdGSExVZXh4b1hDQkttTjlRMjlTbVlfbFVvdXBTSnp6anFMRlBENFhzMkJhSGg3MTFzbkc1TEg4MGfSAZsBQVVfeXFMTzA5TThXbXNXZ3NIaFI2OVl4VnNXYWNTQnM0UWZOM25CVGJCVlNSa1JaclN2akZnbnVWRTZGX1dmd0ZMeFBpaFpwSmpZTGV2cjM2bEVJcjgzWVM5YWEzY1JEeVJPT1FKMFRJNV9VUElMM044ZzRyTDNKQlIxX01hRWRtX0gwNGVvX2Y4YVBxdjVfYmE4U2Rla3hicXM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T23:00:01.000Z",
+      "pub_sort_dt": "2026-08-18 07:00:01"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国海军一艘驱逐舰在南海停电4天 - The Washington Post",
+      "title_cn": "美国海军一艘驱逐舰在南海停电4天 - 《华盛顿邮报》",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxQVHBtekJyZU9aX0R1ZXF2ei1GY2x2YW5UZWFWQm1lNkthOGhtUUh2LVBudHJNTXBFbHJuRnA5empjTUpYLTlTVDE4bmF3RDFWVzc4b1ZQeTR1ZEw4MklhazhzaDdlSE10ZThvRlFiUEtmNVlEQ3hqREZwN1Ytam5RdXlWeVNpM0dmWGlNM1lsQWRPQ2E1ZXhya1ZUY3Z5NzRtTUdBbjRzaFNNeHd5WWZhQ1dR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T22:18:58.000Z",
+      "pub_sort_dt": "2026-08-18 06:18:58"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "数据显示，6月份外国持有的美国国债规模下降，其中日本、英国和中国是主要减少国 - Reuters",
+      "title_cn": "数据显示，6月份持有的美国国债规模下降，其中日本、英国和中国主要减少 - 路透中文网",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxQN2xCVXk0Xy1vWHo0TXM0Rkg2STU1dExBMEdMQlpaVEFrd1I1aDlNRHRQNG9oUlNMWkUtNW5jMFgxN2NsQXZEbmtlcUNtc2xQUWl2N3ZxQ01wWDgweXhuSk92UDdXank2RWdXLThMQXhjYzlfOXZKdXlHUlE1MFFrM0ZOVE1kakFRQWU2WmJ2ME1mUnNFdFNmS004ang4QnhQaS13cWJESnN4WGE5TDE3UENiUWhTZXZLN3dzOVln?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T21:08:51.000Z",
+      "pub_sort_dt": "2026-08-18 05:08:51"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国经济出现放缓可能持续的迹象 - The Guardian",
@@ -53,7 +77,7 @@
     {
       "source": "China Buzzing",
       "title_en": "中国新增8家银行加入数字人民币网络，以加快其推广应用 - South China Morning Post",
-      "title_cn": "中国新增8家银行加入数字人民币网络，以加快其推广应用 - South China Morning Post",
+      "title_cn": "中国新增8家银行加入数字人民币网络，加快推广应用 - 南华早报",
       "url": "https://news.google.com/read/CBMiyAFBVV95cUxPZ1QzTjUydmRjTWZNeC1vZGFKdllEdHFnVXdWWGN1RUMtM1AyenJlbndLVWdDbkstOXZjU2ZjdG5KN01lUmdDQkpjZkswd1Z2eW4xUzhNcDc0dUVqS092Uzg1akpqRzF3bGlqM1Z5X0g5SUR6RlVSZW52dGhEUGVjTmVUZHhKdWNNUk5LY0V5Z2p0T0F1Uk8xbDZQaHRJejJBTHVDTGNuSlhfTWRkdzlTVnJ0akFRTE8wdERrRUJVcUljczRNbVoyWQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-17T12:00:09.000Z",
       "pub_sort_dt": "2026-08-17 20:00:09"
@@ -65,195 +89,195 @@
       "url": "https://news.google.com/read/CBMixwFBVV95cUxPd0dIT003Z1RQRTJ2eVdWZjMzc0NVVWJ0dHBLU3k4eGNkellUNU42SFNULUxRbXVmcXZfUEFnWXQtU3VTV2dfbk9tRG9laXI5TUxvRUhyUVoxR29TN0xJR19xQ1lmOWprVzZNanlBMEVWeHhoNnZ1dmdicWZ3RmFSbjVuakhvOEVkbmxoZ213RWppWFZ1cEo1NGI3THdfWDZpdTBpMmY0SmxYSzNidUNyLUg2YlluUzRiblhLdXduX2N1ZjdLOVRv?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-17T11:20:00.000Z",
       "pub_sort_dt": "2026-08-17 19:20:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "北约的噩梦 - The Atlantic",
-      "title_cn": "北约的噩梦 - The Atlantic",
-      "url": "https://news.google.com/read/CBMikwFBVV95cUxOdnJWYVdfVE1EZzdXeXZvc1ppdnE0SjN6SUlzTjRXWlBfam1iSHJBWGxZR0JLT1pRdmxOZkNjZmRVYlkwUUxRc1VDYUVDVXA5aDJQelU4T1pZdUtvNS1RMG8wVXVpX1psN0o5VVczbFBoQ185dGdDTUltZUkycVRKaW9ZbWVsM2w4OTltWGNPTWpibUE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T11:00:00.000Z",
-      "pub_sort_dt": "2026-08-17 19:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中印边境因越界指控而紧张局势再度升级 - Al Jazeera",
-      "title_cn": "中印边境因越诉界紧张局势再度升级 - 半岛电视台",
-      "url": "https://news.google.com/read/CBMiqgFBVV95cUxOcGlTLXZ0SkFDdnU0YWNWNGhZZlcwWFJpeFpZWlhGVmZtUXMxYXlCenpVb25jOUdLQ1JYNEpxdWlfeUNKM044a2xIOGZRdjZDZEZLdWlIWVBOQzRqeWJaOGZodTFXWW5hNUVUcUowNDZCYnp4WHdLNnRlREdDUExrZE93UzJTU0lwX2cyZDhXVXluVHBid0hiREw4dWRjNVdBTXNfUC1CeE5uQdIBrwFBVV95cUxOZWZxX0FDMDUxb0VSZFZnUGVfZDNaT3ZMYUc4NlYyM01oaFFHakVGVy1CUnN2ODJJS1NDdVlHU1hnbE5xUUVVQTRzUTlLZ3FmdjZDejFUbW1sd01YLUd3R1FMekdhOVBCUHZPSlhhUWl0dVB2RzNQd0VjTmxJaUk1aUlwanpEdVJ5UHFOZTNMeW83bURNNENaUURSTk50YWR1eWg3NElrZzdQVGhTcFJn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T10:58:19.000Z",
-      "pub_sort_dt": "2026-08-17 18:58:19"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国是否正在侵犯印度阿鲁纳恰尔邦的领土？ - Al Jazeera",
-      "title_cn": "中国是否正在侵犯印度阿鲁纳恰尔邦的领土？ - 半岛电视台",
-      "url": "https://news.google.com/read/CBMiqgFBVV95cUxOcGlTLXZ0SkFDdnU0YWNWNGhZZlcwWFJpeFpZWlhGVmZtUXMxYXlCenpVb25jOUdLQ1JYNEpxdWlfeUNKM044a2xIOGZRdjZDZEZLdWlIWVBOQzRqeWJaOGZodTFXWW5hNUVUcUowNDZCYnp4WHdLNnRlREdDUExrZE93UzJTU0lwX2cyZDhXVXluVHBid0hiREw4dWRjNVdBTXNfUC1CeE5uQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T10:52:30.000Z",
-      "pub_sort_dt": "2026-08-17 18:52:30"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
-      "title_en": "特朗普表示，他并不急于结束与伊朗的战争",
-      "title_cn": "特朗普表示，他并不急于结束与伊朗的战争",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/trump-says-he-s-in-no-hurry-to-end-war-with-iran",
-      "pub_raw": "2026-08-17T21:42:07.739Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "韩国否认有关将芯片作为美国首笔投资进行讨论的报道",
+      "title_cn": "韩国否认有关将芯片作为美国首笔投资进行讨论的报道",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/korea-denies-report-on-discussing-chips-as-first-us-investment",
+      "pub_raw": "2026-08-18T00:53:55.897Z",
+      "pub_sort_dt": "2026-08-18 08:53:55"
     },
     {
       "source": "Bloomberg",
-      "title_en": "特朗普对加拿大加征关税：汽车规则导致协议在8月19日截止日期前告吹",
-      "title_cn": "特朗普对加拿大加征关税：汽车规则导致协议于8月19日使用日期前告吹",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/trump-tariffs-on-canada-auto-rules-block-deal-before-aug-19-deadline",
-      "pub_raw": "2026-08-17T21:42:07.735Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "澳大利亚央行暂停加息后，澳大利亚消费者信心有所提升",
+      "title_cn": "澳大利亚央行暂停加息后，澳大利亚消费者信心有所提升",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/australian-consumer-confidence-improves-after-rba-rate-pause",
+      "pub_raw": "2026-08-18T00:38:05.735Z",
+      "pub_sort_dt": "2026-08-18 08:38:05"
     },
     {
       "source": "Bloomberg",
-      "title_en": "特朗普的民权事务主管迪隆谈选举安全与多元化、公平与包容（DEI）",
-      "title_cn": "特朗普的民权事务主管迪隆谈选举安全与信心、公平与对抗（DEI）",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/trump-s-civil-rights-chief-dhillon-on-election-security-dei",
-      "pub_raw": "2026-08-17T21:42:07.732Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "小米财报是延续其一年来最佳涨势的关键",
+      "title_cn": "小米财报是延续其一年来最佳涨势的关键",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/xiaomi-earnings-key-to-extending-stock-s-best-rally-in-a-year",
+      "pub_raw": "2026-08-18T00:21:59.564Z",
+      "pub_sort_dt": "2026-08-18 08:21:59"
     },
     {
       "source": "Bloomberg",
-      "title_en": "Linamar公司哈森弗拉茨的净资产达18亿美元，揭示了特朗普关税的限制",
-      "title_cn": "利纳马公司哈森弗拉茨的净资产达到18亿美元，揭示了特朗普的限制关税",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/linamar-s-hasenfratz-net-worth-hits-1-8-billion-revealing-trump-tariff-limits",
-      "pub_raw": "2026-08-17T21:42:07.728Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "M&G看好韩国债券，认为市场已过度定价加息预期",
+      "title_cn": "M&G看好韩国债券，息认为市场已利用定价加预期",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/m-g-backs-korean-bonds-sees-too-many-rate-hikes-priced-in",
+      "pub_raw": "2026-08-18T00:21:59.561Z",
+      "pub_sort_dt": "2026-08-18 08:21:59"
     },
     {
       "source": "Bloomberg",
-      "title_en": "古根海姆在贷款规模萎缩后急于澄清利润下滑77%的情况",
-      "title_cn": "古根海姆在贷款规模萎缩后急于达到最初利润77%的情况",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/guggenheim-rushes-to-clarify-77-earnings-drop-after-loan-slides",
-      "pub_raw": "2026-08-17T21:42:07.726Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "CSL股价大涨13%，创2001年以来最大涨幅，公司前景提振了投资者信心",
+      "title_cn": "CSL股价大涨13%，创2001年以来最大涨幅，公司前景提振了投资者信心",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/australia-s-csl-sees-2027-npat-growth-at-5-at-constant-currency",
+      "pub_raw": "2026-08-18T00:21:59.557Z",
+      "pub_sort_dt": "2026-08-18 08:21:59"
     },
     {
       "source": "Bloomberg",
-      "title_en": "拉拉大坝导致电网受损，夏威夷将面临数月的停电",
-      "title_cn": "拉拉大坝导致电网瘫痪，夏威夷将面临数月停电",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/hawaii-faces-months-of-power-outages-after-lala-damages-grid",
-      "pub_raw": "2026-08-17T21:42:07.723Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "受中东局势影响，油价上涨，债券下跌：市场综述",
+      "title_cn": "受中东局势影响，近期上涨，债券下跌：市场综述",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
+      "pub_raw": "2026-08-18T00:21:59.547Z",
+      "pub_sort_dt": "2026-08-18 08:21:59"
     },
     {
       "source": "Bloomberg",
-      "title_en": "玻利维亚提高大宗买家的柴油价格以缓解供应冲击",
-      "title_cn": "玻利维亚提高大宗买家的柴油价格以减轻供应冲击",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/bolivia-hikes-diesel-prices-for-big-buyers-to-tame-supply-shock",
-      "pub_raw": "2026-08-17T21:42:07.706Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "随着人工智能支出激增，Alphabet启动澳元债券发售",
+      "title_cn": "随着人工智能支出激增，Alphabet启动了债券发售",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-kicks-off-aussie-dollar-bond-sale-as-ai-spending-soars",
+      "pub_raw": "2026-08-18T00:06:17.102Z",
+      "pub_sort_dt": "2026-08-18 08:06:17"
     },
     {
       "source": "Reuters",
-      "title_en": "佐治亚州一名男子在美国被指控运营一个涉案金额达1.65亿美元的加密货币庞氏骗局",
-      "title_cn": "佐治亚州一名男子在美国被指控涉案金额达 1.65 亿美元的加密货币庞氏骗局",
-      "url": "https://reut.rs/4ziGV0N",
-      "pub_raw": "2026-08-17T21:42:07.593Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "埃尔多安敦促特朗普与伊朗展开对话，并表示将提供支持",
+      "title_cn": "埃尔多安敦促特朗普与伊朗展开对话，并表示将提供支持",
+      "url": "https://reut.rs/4ietnNM",
+      "pub_raw": "2026-08-18T00:06:16.984Z",
+      "pub_sort_dt": "2026-08-18 08:06:16"
     },
     {
       "source": "Bloomberg",
-      "title_en": "美国人更有钱，欧洲人更有礼貌",
-      "title_cn": "美国人更有钱，欧洲人更有道德",
-      "url": "https://www.bloomberg.com/opinion/newsletters/2026-08-17/americans-have-more-money-europeans-better-manners",
-      "pub_raw": "2026-08-17T21:26:04.504Z",
-      "pub_sort_dt": "2026-08-18 05:26:04"
+      "title_en": "布鲁克菲尔德正与瑞莱恩斯全球进行谈判，必和必拓财报，CSL",
+      "title_cn": "布鲁克菲尔德正与瑞莱恩斯进行全球谈判，必和必拓财报，CSL",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/brookfield-in-talks-with-reliance-worldwide-bhp-earnings-csl",
+      "pub_raw": "2026-08-17T23:50:11.916Z",
+      "pub_sort_dt": "2026-08-18 07:50:11"
     },
     {
       "source": "Reuters",
-      "title_en": "美国能源部长赖特表示，美国将宣布相关措施，帮助炼油企业增加燃料产量",
-      "title_cn": "美国能源部长赖特表示，美国将宣布相关措施，帮助炼油企业增加燃料产量",
-      "url": "https://reut.rs/4gcLUaz",
-      "pub_raw": "2026-08-17T21:26:04.353Z",
-      "pub_sort_dt": "2026-08-18 05:26:04"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "FirstFT：特朗普在最后关头要求减少军演，令首尔感到不安",
-      "title_cn": "FirstFT：特朗普在最后关头要求减少军演，令首尔感到不安",
-      "url": "https://www.ft.com/content/8cafeb3f-f11b-41ba-a67c-61072823eeb4?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T21:26:04.286Z",
-      "pub_sort_dt": "2026-08-18 05:26:04"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "共和党的“金库”比表面看起来还要生锈",
-      "title_cn": "祈求的“金库”比表面看上去还要生锈",
-      "url": "https://www.economist.com/united-states/2026/08/17/the-republican-partys-money-machine-is-rustier-than-it-looks",
-      "pub_raw": "2026-08-17T21:10:05.000Z",
-      "pub_sort_dt": "2026-08-18 05:10:05"
+      "title_en": "负责监管华盛顿杜勒斯机场的管理委员会将就一项199亿美元的翻新计划进行表决",
+      "title_cn": "负责监管华盛顿杜勒斯机场的管理委员会将就一项199亿美元的翻新计划进行表决",
+      "url": "https://reut.rs/3U3hXm7",
+      "pub_raw": "2026-08-17T23:50:11.776Z",
+      "pub_sort_dt": "2026-08-18 07:50:11"
     },
     {
       "source": "Bloomberg",
-      "title_en": "维托尔赢得独家燃料供应合同，在非洲占据主导地位——但付出了代价",
-      "title_cn": "维托尔赢得独家燃料供应合同，在非洲主导地位——但牺牲了代价",
-      "url": "https://www.bloomberg.com/news/features/2026-08-17/vitol-won-exclusive-fuel-deals-to-dominate-africa-at-a-cost",
-      "pub_raw": "2026-08-17T21:10:04.939Z",
-      "pub_sort_dt": "2026-08-18 05:10:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着巴斯家族退出，库什纳和艾格接管球队，洛杉矶湖人队所有权发生变更",
-      "title_cn": "随着家族巴斯退出，库什纳和艾格占领球队，洛杉矶湖人队队伍发生变更",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/buss-family-sells-remaining-stake-in-la-lakers-to-kushner-iger",
-      "pub_raw": "2026-08-17T21:10:04.936Z",
-      "pub_sort_dt": "2026-08-18 05:10:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "纽约州法院审理的曼吉奥内谋杀案审理被推迟数月",
-      "title_cn": "纽约州法院对曼吉奥内谋杀案的上诉被推迟数月",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/luigi-mangione-murder-trial-in-ny-state-court-delayed-for-months",
-      "pub_raw": "2026-08-17T21:10:04.929Z",
-      "pub_sort_dt": "2026-08-18 05:10:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受美元走软和风险偏好增强推动，新兴市场货币走高",
-      "title_cn": "受美元走软和风险偏好增强推动，新兴市场货币走高",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/emerging-currencies-rise-to-record-high-as-fed-hike-bets-ease",
-      "pub_raw": "2026-08-17T21:10:04.813Z",
-      "pub_sort_dt": "2026-08-18 05:10:04"
+      "title_en": "受加息预期降温影响，金价延续两日涨势",
+      "title_cn": "受加息预期影响，金价上涨两日涨势",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/gold-holds-two-day-gain-on-reduced-rate-hike-expectations",
+      "pub_raw": "2026-08-17T23:34:03.474Z",
+      "pub_sort_dt": "2026-08-18 07:34:03"
     },
     {
       "source": "Reuters",
-      "title_en": "报道：无证据表明史蒂夫·鲍尔默向科怀·伦纳德输送资金",
-      "title_cn": "报道：无证据表明史蒂夫·鲍尔默向科怀·伦纳德管道资金",
-      "url": "https://reut.rs/4gDhsI4",
-      "pub_raw": "2026-08-17T21:10:04.780Z",
-      "pub_sort_dt": "2026-08-18 05:10:04"
+      "title_en": "消息人士称，Anthropic的年化营收已超过650亿美元",
+      "title_cn": "有消息人士称，Anthropic的年化规模已超过650亿美元",
+      "url": "https://reut.rs/4xNGkTn",
+      "pub_raw": "2026-08-17T23:34:03.340Z",
+      "pub_sort_dt": "2026-08-18 07:34:03"
     },
     {
       "source": "Bloomberg",
-      "title_en": "美国司法部计划派遣1,000名监督员监督中期选举",
-      "title_cn": "美国司法部计划监督选举1,000名监督员",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/doj-plans-to-deploy-1-000-monitors-to-watch-midterm-elections",
-      "pub_raw": "2026-08-17T20:54:34.432Z",
-      "pub_sort_dt": "2026-08-18 04:54:34"
+      "title_en": "受铜价和铁矿石产量推动，必和必拓利润跃升30%",
+      "title_cn": "受铜价和铁矿石产量提升，利润必将跃升30%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/bhp-profit-jumps-30-on-copper-price-and-record-iron-ore-output",
+      "pub_raw": "2026-08-17T23:18:17.261Z",
+      "pub_sort_dt": "2026-08-18 07:18:17"
     },
     {
       "source": "Bloomberg",
-      "title_en": "墨西哥探索规范儿童使用社交媒体的途径",
-      "title_cn": "墨西哥探索规范儿童使用社交媒体的途径",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/mexico-explores-ways-to-regulate-social-media-among-children",
-      "pub_raw": "2026-08-17T20:54:34.429Z",
-      "pub_sort_dt": "2026-08-18 04:54:34"
+      "title_en": "布鲁克菲尔德提出以29亿美元收购Reliance Worldwide",
+      "title_cn": "布鲁克菲尔德以29亿美元收购Reliance Worldwide",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/brookfield-agrees-to-buy-reliance-worldwide-for-2-9-billion",
+      "pub_raw": "2026-08-17T23:02:58.555Z",
+      "pub_sort_dt": "2026-08-18 07:02:58"
     },
     {
       "source": "Reuters",
-      "title_en": "在美国面临广泛批评后，暂停了在大弯国家公园的边境建设",
-      "title_cn": "在美国面临广泛批评后，大弯国家公园的边境建设暂停了",
-      "url": "https://reut.rs/4gi4iPt",
-      "pub_raw": "2026-08-17T20:54:34.278Z",
-      "pub_sort_dt": "2026-08-18 04:54:34"
+      "title_en": "律师们敦促加利福尼亚州法院允许尼克·雷纳动用信托基金",
+      "title_cn": "律师们敦促加州法院允许尼克·雷纳动用信托基金",
+      "url": "https://reut.rs/3SAqX1D",
+      "pub_raw": "2026-08-17T23:02:58.432Z",
+      "pub_sort_dt": "2026-08-18 07:02:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "消息人士称，美国和加拿大正试图就可能削减汽车关税一事弥合分歧",
+      "title_cn": "消息人士称，美国和加拿大正在尝试就可能削减汽车关税一事全面合拢",
+      "url": "https://reut.rs/4qjMo3m",
+      "pub_raw": "2026-08-17T22:46:08.333Z",
+      "pub_sort_dt": "2026-08-18 06:46:08"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "亚马逊斥资500万美元反对一项获得马姆达尼支持的纽约市法案",
+      "title_cn": "亚马逊斥资500万美元反对一项获得马姆达尼支持的纽约市法案",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/amazon-spends-5-million-against-a-mamdani-approved-nyc-bill",
+      "pub_raw": "2026-08-17T22:30:13.710Z",
+      "pub_sort_dt": "2026-08-18 06:30:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "8月18日最新石油市场新闻与分析",
+      "title_cn": "8月18日最新石油市场新闻与分析",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/latest-oil-market-news-and-analysis-for-aug-18",
+      "pub_raw": "2026-08-17T22:30:13.704Z",
+      "pub_sort_dt": "2026-08-18 06:30:13"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "一家音乐出版商就人工智能训练问题起诉Anthropic和Suno",
+      "title_cn": "一家音乐出版商就人工智能训练问题起诉Anthropic和Suno",
+      "url": "https://reut.rs/4cpXVZa",
+      "pub_raw": "2026-08-17T22:30:13.573Z",
+      "pub_sort_dt": "2026-08-18 06:30:13"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国司法部调查威廉与玛丽学院，指控其存在偏袒少数族裔的歧视行为",
+      "title_cn": "美国司法部调查威廉与玛丽学院，指控其存在偏少数族裔的受歧视行为",
+      "url": "https://reut.rs/3UnoGY2",
+      "pub_raw": "2026-08-17T22:30:13.570Z",
+      "pub_sort_dt": "2026-08-18 06:30:13"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "CNBC《中国连线》通讯：是金钱还是权力？赢得人工智能竞赛的关键 - CNBC",
+      "title_cn": "CNBC《中国连线》通讯：是金钱还是权力？赢得人工智能竞赛的关键 - CNBC",
+      "url": "https://news.google.com/read/CBMilgFBVV95cUxQdUNTLWJSZFBUUlNEY25fMWtOR0dRTm9PenVCY3dNYTVwdUtwM0EtMWFpOFVyR0k3b3NWT083VEVBQnVnTktFQl90czN0NkdkUFV1dkxHMWNQZjBZeEdGSExVZXh4b1hDQkttTjlRMjlTbVlfbFVvdXBTSnp6anFMRlBENFhzMkJhSGg3MTFzbkc1TEg4MGfSAZsBQVVfeXFMTzA5TThXbXNXZ3NIaFI2OVl4VnNXYWNTQnM0UWZOM25CVGJCVlNSa1JaclN2akZnbnVWRTZGX1dmd0ZMeFBpaFpwSmpZTGV2cjM2bEVJcjgzWVM5YWEzY1JEeVJPT1FKMFRJNV9VUElMM044ZzRyTDNKQlIxX01hRWRtX0gwNGVvX2Y4YVBxdjVfYmE4U2Rla3hicXM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T23:00:01.000Z",
+      "pub_sort_dt": "2026-08-18 07:00:01"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国海军一艘驱逐舰在南海停电4天 - The Washington Post",
+      "title_cn": "美国海军一艘驱逐舰在南海停电4天 - 《华盛顿邮报》",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxQVHBtekJyZU9aX0R1ZXF2ei1GY2x2YW5UZWFWQm1lNkthOGhtUUh2LVBudHJNTXBFbHJuRnA5empjTUpYLTlTVDE4bmF3RDFWVzc4b1ZQeTR1ZEw4MklhazhzaDdlSE10ZThvRlFiUEtmNVlEQ3hqREZwN1Ytam5RdXlWeVNpM0dmWGlNM1lsQWRPQ2E1ZXhya1ZUY3Z5NzRtTUdBbjRzaFNNeHd5WWZhQ1dR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T22:18:58.000Z",
+      "pub_sort_dt": "2026-08-18 06:18:58"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "数据显示，6月份外国持有的美国国债规模下降，其中日本、英国和中国是主要减少国 - Reuters",
+      "title_cn": "数据显示，6月份持有的美国国债规模下降，其中日本、英国和中国主要减少 - 路透中文网",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxQN2xCVXk0Xy1vWHo0TXM0Rkg2STU1dExBMEdMQlpaVEFrd1I1aDlNRHRQNG9oUlNMWkUtNW5jMFgxN2NsQXZEbmtlcUNtc2xQUWl2N3ZxQ01wWDgweXhuSk92UDdXank2RWdXLThMQXhjYzlfOXZKdXlHUlE1MFFrM0ZOVE1kakFRQWU2WmJ2ME1mUnNFdFNmS004ang4QnhQaS13cWJESnN4WGE5TDE3UENiUWhTZXZLN3dzOVln?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-17T21:08:51.000Z",
+      "pub_sort_dt": "2026-08-18 05:08:51"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国经济出现放缓可能持续的迹象 - The Guardian",
@@ -297,7 +321,7 @@
     {
       "source": "China Buzzing",
       "title_en": "中国新增8家银行加入数字人民币网络，以加快其推广应用 - South China Morning Post",
-      "title_cn": "中国新增8家银行加入数字人民币网络，以加快其推广应用 - South China Morning Post",
+      "title_cn": "中国新增8家银行加入数字人民币网络，加快推广应用 - 南华早报",
       "url": "https://news.google.com/read/CBMiyAFBVV95cUxPZ1QzTjUydmRjTWZNeC1vZGFKdllEdHFnVXdWWGN1RUMtM1AyenJlbndLVWdDbkstOXZjU2ZjdG5KN01lUmdDQkpjZkswd1Z2eW4xUzhNcDc0dUVqS092Uzg1akpqRzF3bGlqM1Z5X0g5SUR6RlVSZW52dGhEUGVjTmVUZHhKdWNNUk5LY0V5Z2p0T0F1Uk8xbDZQaHRJejJBTHVDTGNuSlhfTWRkdzlTVnJ0akFRTE8wdERrRUJVcUljczRNbVoyWQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-17T12:00:09.000Z",
       "pub_sort_dt": "2026-08-17 20:00:09"
@@ -311,188 +335,164 @@
       "pub_sort_dt": "2026-08-17 19:20:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "北约的噩梦 - The Atlantic",
-      "title_cn": "北约的噩梦 - The Atlantic",
-      "url": "https://news.google.com/read/CBMikwFBVV95cUxOdnJWYVdfVE1EZzdXeXZvc1ppdnE0SjN6SUlzTjRXWlBfam1iSHJBWGxZR0JLT1pRdmxOZkNjZmRVYlkwUUxRc1VDYUVDVXA5aDJQelU4T1pZdUtvNS1RMG8wVXVpX1psN0o5VVczbFBoQ185dGdDTUltZUkycVRKaW9ZbWVsM2w4OTltWGNPTWpibUE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T11:00:00.000Z",
-      "pub_sort_dt": "2026-08-17 19:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中印边境因越界指控而紧张局势再度升级 - Al Jazeera",
-      "title_cn": "中印边境因越诉界紧张局势再度升级 - 半岛电视台",
-      "url": "https://news.google.com/read/CBMiqgFBVV95cUxOcGlTLXZ0SkFDdnU0YWNWNGhZZlcwWFJpeFpZWlhGVmZtUXMxYXlCenpVb25jOUdLQ1JYNEpxdWlfeUNKM044a2xIOGZRdjZDZEZLdWlIWVBOQzRqeWJaOGZodTFXWW5hNUVUcUowNDZCYnp4WHdLNnRlREdDUExrZE93UzJTU0lwX2cyZDhXVXluVHBid0hiREw4dWRjNVdBTXNfUC1CeE5uQdIBrwFBVV95cUxOZWZxX0FDMDUxb0VSZFZnUGVfZDNaT3ZMYUc4NlYyM01oaFFHakVGVy1CUnN2ODJJS1NDdVlHU1hnbE5xUUVVQTRzUTlLZ3FmdjZDejFUbW1sd01YLUd3R1FMekdhOVBCUHZPSlhhUWl0dVB2RzNQd0VjTmxJaUk1aUlwanpEdVJ5UHFOZTNMeW83bURNNENaUURSTk50YWR1eWg3NElrZzdQVGhTcFJn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T10:58:19.000Z",
-      "pub_sort_dt": "2026-08-17 18:58:19"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国是否正在侵犯印度阿鲁纳恰尔邦的领土？ - Al Jazeera",
-      "title_cn": "中国是否正在侵犯印度阿鲁纳恰尔邦的领土？ - 半岛电视台",
-      "url": "https://news.google.com/read/CBMiqgFBVV95cUxOcGlTLXZ0SkFDdnU0YWNWNGhZZlcwWFJpeFpZWlhGVmZtUXMxYXlCenpVb25jOUdLQ1JYNEpxdWlfeUNKM044a2xIOGZRdjZDZEZLdWlIWVBOQzRqeWJaOGZodTFXWW5hNUVUcUowNDZCYnp4WHdLNnRlREdDUExrZE93UzJTU0lwX2cyZDhXVXluVHBid0hiREw4dWRjNVdBTXNfUC1CeE5uQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T10:52:30.000Z",
-      "pub_sort_dt": "2026-08-17 18:52:30"
+      "source": "Bloomberg",
+      "title_en": "韩国否认有关将芯片作为美国首笔投资进行讨论的报道",
+      "title_cn": "韩国否认有关将芯片作为美国首笔投资进行讨论的报道",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/korea-denies-report-on-discussing-chips-as-first-us-investment",
+      "pub_raw": "2026-08-18T00:53:55.897Z",
+      "pub_sort_dt": "2026-08-18 08:53:55"
     },
     {
       "source": "Bloomberg",
-      "title_en": "特朗普表示，他并不急于结束与伊朗的战争",
-      "title_cn": "特朗普表示，他并不急于结束与伊朗的战争",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/trump-says-he-s-in-no-hurry-to-end-war-with-iran",
-      "pub_raw": "2026-08-17T21:42:07.739Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "澳大利亚央行暂停加息后，澳大利亚消费者信心有所提升",
+      "title_cn": "澳大利亚央行暂停加息后，澳大利亚消费者信心有所提升",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/australian-consumer-confidence-improves-after-rba-rate-pause",
+      "pub_raw": "2026-08-18T00:38:05.735Z",
+      "pub_sort_dt": "2026-08-18 08:38:05"
     },
     {
       "source": "Bloomberg",
-      "title_en": "特朗普对加拿大加征关税：汽车规则导致协议在8月19日截止日期前告吹",
-      "title_cn": "特朗普对加拿大加征关税：汽车规则导致协议于8月19日使用日期前告吹",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/trump-tariffs-on-canada-auto-rules-block-deal-before-aug-19-deadline",
-      "pub_raw": "2026-08-17T21:42:07.735Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "小米财报是延续其一年来最佳涨势的关键",
+      "title_cn": "小米财报是延续其一年来最佳涨势的关键",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/xiaomi-earnings-key-to-extending-stock-s-best-rally-in-a-year",
+      "pub_raw": "2026-08-18T00:21:59.564Z",
+      "pub_sort_dt": "2026-08-18 08:21:59"
     },
     {
       "source": "Bloomberg",
-      "title_en": "特朗普的民权事务主管迪隆谈选举安全与多元化、公平与包容（DEI）",
-      "title_cn": "特朗普的民权事务主管迪隆谈选举安全与信心、公平与对抗（DEI）",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/trump-s-civil-rights-chief-dhillon-on-election-security-dei",
-      "pub_raw": "2026-08-17T21:42:07.732Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "M&G看好韩国债券，认为市场已过度定价加息预期",
+      "title_cn": "M&G看好韩国债券，息认为市场已利用定价加预期",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/m-g-backs-korean-bonds-sees-too-many-rate-hikes-priced-in",
+      "pub_raw": "2026-08-18T00:21:59.561Z",
+      "pub_sort_dt": "2026-08-18 08:21:59"
     },
     {
       "source": "Bloomberg",
-      "title_en": "Linamar公司哈森弗拉茨的净资产达18亿美元，揭示了特朗普关税的限制",
-      "title_cn": "利纳马公司哈森弗拉茨的净资产达到18亿美元，揭示了特朗普的限制关税",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/linamar-s-hasenfratz-net-worth-hits-1-8-billion-revealing-trump-tariff-limits",
-      "pub_raw": "2026-08-17T21:42:07.728Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "CSL股价大涨13%，创2001年以来最大涨幅，公司前景提振了投资者信心",
+      "title_cn": "CSL股价大涨13%，创2001年以来最大涨幅，公司前景提振了投资者信心",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/australia-s-csl-sees-2027-npat-growth-at-5-at-constant-currency",
+      "pub_raw": "2026-08-18T00:21:59.557Z",
+      "pub_sort_dt": "2026-08-18 08:21:59"
     },
     {
       "source": "Bloomberg",
-      "title_en": "古根海姆在贷款规模萎缩后急于澄清利润下滑77%的情况",
-      "title_cn": "古根海姆在贷款规模萎缩后急于达到最初利润77%的情况",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/guggenheim-rushes-to-clarify-77-earnings-drop-after-loan-slides",
-      "pub_raw": "2026-08-17T21:42:07.726Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "受中东局势影响，油价上涨，债券下跌：市场综述",
+      "title_cn": "受中东局势影响，近期上涨，债券下跌：市场综述",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
+      "pub_raw": "2026-08-18T00:21:59.547Z",
+      "pub_sort_dt": "2026-08-18 08:21:59"
     },
     {
       "source": "Bloomberg",
-      "title_en": "拉拉大坝导致电网受损，夏威夷将面临数月的停电",
-      "title_cn": "拉拉大坝导致电网瘫痪，夏威夷将面临数月停电",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/hawaii-faces-months-of-power-outages-after-lala-damages-grid",
-      "pub_raw": "2026-08-17T21:42:07.723Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "玻利维亚提高大宗买家的柴油价格以缓解供应冲击",
-      "title_cn": "玻利维亚提高大宗买家的柴油价格以减轻供应冲击",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/bolivia-hikes-diesel-prices-for-big-buyers-to-tame-supply-shock",
-      "pub_raw": "2026-08-17T21:42:07.706Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "随着人工智能支出激增，Alphabet启动澳元债券发售",
+      "title_cn": "随着人工智能支出激增，Alphabet启动了债券发售",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-kicks-off-aussie-dollar-bond-sale-as-ai-spending-soars",
+      "pub_raw": "2026-08-18T00:06:17.102Z",
+      "pub_sort_dt": "2026-08-18 08:06:17"
     },
     {
       "source": "Reuters",
-      "title_en": "佐治亚州一名男子在美国被指控运营一个涉案金额达1.65亿美元的加密货币庞氏骗局",
-      "title_cn": "佐治亚州一名男子在美国被指控涉案金额达 1.65 亿美元的加密货币庞氏骗局",
-      "url": "https://reut.rs/4ziGV0N",
-      "pub_raw": "2026-08-17T21:42:07.593Z",
-      "pub_sort_dt": "2026-08-18 05:42:07"
+      "title_en": "埃尔多安敦促特朗普与伊朗展开对话，并表示将提供支持",
+      "title_cn": "埃尔多安敦促特朗普与伊朗展开对话，并表示将提供支持",
+      "url": "https://reut.rs/4ietnNM",
+      "pub_raw": "2026-08-18T00:06:16.984Z",
+      "pub_sort_dt": "2026-08-18 08:06:16"
     },
     {
       "source": "Bloomberg",
-      "title_en": "美国人更有钱，欧洲人更有礼貌",
-      "title_cn": "美国人更有钱，欧洲人更有道德",
-      "url": "https://www.bloomberg.com/opinion/newsletters/2026-08-17/americans-have-more-money-europeans-better-manners",
-      "pub_raw": "2026-08-17T21:26:04.504Z",
-      "pub_sort_dt": "2026-08-18 05:26:04"
+      "title_en": "布鲁克菲尔德正与瑞莱恩斯全球进行谈判，必和必拓财报，CSL",
+      "title_cn": "布鲁克菲尔德正与瑞莱恩斯进行全球谈判，必和必拓财报，CSL",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/brookfield-in-talks-with-reliance-worldwide-bhp-earnings-csl",
+      "pub_raw": "2026-08-17T23:50:11.916Z",
+      "pub_sort_dt": "2026-08-18 07:50:11"
     },
     {
       "source": "Reuters",
-      "title_en": "美国能源部长赖特表示，美国将宣布相关措施，帮助炼油企业增加燃料产量",
-      "title_cn": "美国能源部长赖特表示，美国将宣布相关措施，帮助炼油企业增加燃料产量",
-      "url": "https://reut.rs/4gcLUaz",
-      "pub_raw": "2026-08-17T21:26:04.353Z",
-      "pub_sort_dt": "2026-08-18 05:26:04"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "FirstFT：特朗普在最后关头要求减少军演，令首尔感到不安",
-      "title_cn": "FirstFT：特朗普在最后关头要求减少军演，令首尔感到不安",
-      "url": "https://www.ft.com/content/8cafeb3f-f11b-41ba-a67c-61072823eeb4?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-17T21:26:04.286Z",
-      "pub_sort_dt": "2026-08-18 05:26:04"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "共和党的“金库”比表面看起来还要生锈",
-      "title_cn": "祈求的“金库”比表面看上去还要生锈",
-      "url": "https://www.economist.com/united-states/2026/08/17/the-republican-partys-money-machine-is-rustier-than-it-looks",
-      "pub_raw": "2026-08-17T21:10:05.000Z",
-      "pub_sort_dt": "2026-08-18 05:10:05"
+      "title_en": "负责监管华盛顿杜勒斯机场的管理委员会将就一项199亿美元的翻新计划进行表决",
+      "title_cn": "负责监管华盛顿杜勒斯机场的管理委员会将就一项199亿美元的翻新计划进行表决",
+      "url": "https://reut.rs/3U3hXm7",
+      "pub_raw": "2026-08-17T23:50:11.776Z",
+      "pub_sort_dt": "2026-08-18 07:50:11"
     },
     {
       "source": "Bloomberg",
-      "title_en": "维托尔赢得独家燃料供应合同，在非洲占据主导地位——但付出了代价",
-      "title_cn": "维托尔赢得独家燃料供应合同，在非洲主导地位——但牺牲了代价",
-      "url": "https://www.bloomberg.com/news/features/2026-08-17/vitol-won-exclusive-fuel-deals-to-dominate-africa-at-a-cost",
-      "pub_raw": "2026-08-17T21:10:04.939Z",
-      "pub_sort_dt": "2026-08-18 05:10:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着巴斯家族退出，库什纳和艾格接管球队，洛杉矶湖人队所有权发生变更",
-      "title_cn": "随着家族巴斯退出，库什纳和艾格占领球队，洛杉矶湖人队队伍发生变更",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/buss-family-sells-remaining-stake-in-la-lakers-to-kushner-iger",
-      "pub_raw": "2026-08-17T21:10:04.936Z",
-      "pub_sort_dt": "2026-08-18 05:10:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "纽约州法院审理的曼吉奥内谋杀案审理被推迟数月",
-      "title_cn": "纽约州法院对曼吉奥内谋杀案的上诉被推迟数月",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/luigi-mangione-murder-trial-in-ny-state-court-delayed-for-months",
-      "pub_raw": "2026-08-17T21:10:04.929Z",
-      "pub_sort_dt": "2026-08-18 05:10:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受美元走软和风险偏好增强推动，新兴市场货币走高",
-      "title_cn": "受美元走软和风险偏好增强推动，新兴市场货币走高",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/emerging-currencies-rise-to-record-high-as-fed-hike-bets-ease",
-      "pub_raw": "2026-08-17T21:10:04.813Z",
-      "pub_sort_dt": "2026-08-18 05:10:04"
+      "title_en": "受加息预期降温影响，金价延续两日涨势",
+      "title_cn": "受加息预期影响，金价上涨两日涨势",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/gold-holds-two-day-gain-on-reduced-rate-hike-expectations",
+      "pub_raw": "2026-08-17T23:34:03.474Z",
+      "pub_sort_dt": "2026-08-18 07:34:03"
     },
     {
       "source": "Reuters",
-      "title_en": "报道：无证据表明史蒂夫·鲍尔默向科怀·伦纳德输送资金",
-      "title_cn": "报道：无证据表明史蒂夫·鲍尔默向科怀·伦纳德管道资金",
-      "url": "https://reut.rs/4gDhsI4",
-      "pub_raw": "2026-08-17T21:10:04.780Z",
-      "pub_sort_dt": "2026-08-18 05:10:04"
+      "title_en": "消息人士称，Anthropic的年化营收已超过650亿美元",
+      "title_cn": "有消息人士称，Anthropic的年化规模已超过650亿美元",
+      "url": "https://reut.rs/4xNGkTn",
+      "pub_raw": "2026-08-17T23:34:03.340Z",
+      "pub_sort_dt": "2026-08-18 07:34:03"
     },
     {
       "source": "Bloomberg",
-      "title_en": "美国司法部计划派遣1,000名监督员监督中期选举",
-      "title_cn": "美国司法部计划监督选举1,000名监督员",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/doj-plans-to-deploy-1-000-monitors-to-watch-midterm-elections",
-      "pub_raw": "2026-08-17T20:54:34.432Z",
-      "pub_sort_dt": "2026-08-18 04:54:34"
+      "title_en": "受铜价和铁矿石产量推动，必和必拓利润跃升30%",
+      "title_cn": "受铜价和铁矿石产量提升，利润必将跃升30%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/bhp-profit-jumps-30-on-copper-price-and-record-iron-ore-output",
+      "pub_raw": "2026-08-17T23:18:17.261Z",
+      "pub_sort_dt": "2026-08-18 07:18:17"
     },
     {
       "source": "Bloomberg",
-      "title_en": "墨西哥探索规范儿童使用社交媒体的途径",
-      "title_cn": "墨西哥探索规范儿童使用社交媒体的途径",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/mexico-explores-ways-to-regulate-social-media-among-children",
-      "pub_raw": "2026-08-17T20:54:34.429Z",
-      "pub_sort_dt": "2026-08-18 04:54:34"
+      "title_en": "布鲁克菲尔德提出以29亿美元收购Reliance Worldwide",
+      "title_cn": "布鲁克菲尔德以29亿美元收购Reliance Worldwide",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/brookfield-agrees-to-buy-reliance-worldwide-for-2-9-billion",
+      "pub_raw": "2026-08-17T23:02:58.555Z",
+      "pub_sort_dt": "2026-08-18 07:02:58"
     },
     {
       "source": "Reuters",
-      "title_en": "在美国面临广泛批评后，暂停了在大弯国家公园的边境建设",
-      "title_cn": "在美国面临广泛批评后，大弯国家公园的边境建设暂停了",
-      "url": "https://reut.rs/4gi4iPt",
-      "pub_raw": "2026-08-17T20:54:34.278Z",
-      "pub_sort_dt": "2026-08-18 04:54:34"
+      "title_en": "律师们敦促加利福尼亚州法院允许尼克·雷纳动用信托基金",
+      "title_cn": "律师们敦促加州法院允许尼克·雷纳动用信托基金",
+      "url": "https://reut.rs/3SAqX1D",
+      "pub_raw": "2026-08-17T23:02:58.432Z",
+      "pub_sort_dt": "2026-08-18 07:02:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "消息人士称，美国和加拿大正试图就可能削减汽车关税一事弥合分歧",
+      "title_cn": "消息人士称，美国和加拿大正在尝试就可能削减汽车关税一事全面合拢",
+      "url": "https://reut.rs/4qjMo3m",
+      "pub_raw": "2026-08-17T22:46:08.333Z",
+      "pub_sort_dt": "2026-08-18 06:46:08"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "亚马逊斥资500万美元反对一项获得马姆达尼支持的纽约市法案",
+      "title_cn": "亚马逊斥资500万美元反对一项获得马姆达尼支持的纽约市法案",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/amazon-spends-5-million-against-a-mamdani-approved-nyc-bill",
+      "pub_raw": "2026-08-17T22:30:13.710Z",
+      "pub_sort_dt": "2026-08-18 06:30:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "8月18日最新石油市场新闻与分析",
+      "title_cn": "8月18日最新石油市场新闻与分析",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/latest-oil-market-news-and-analysis-for-aug-18",
+      "pub_raw": "2026-08-17T22:30:13.704Z",
+      "pub_sort_dt": "2026-08-18 06:30:13"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "一家音乐出版商就人工智能训练问题起诉Anthropic和Suno",
+      "title_cn": "一家音乐出版商就人工智能训练问题起诉Anthropic和Suno",
+      "url": "https://reut.rs/4cpXVZa",
+      "pub_raw": "2026-08-17T22:30:13.573Z",
+      "pub_sort_dt": "2026-08-18 06:30:13"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国司法部调查威廉与玛丽学院，指控其存在偏袒少数族裔的歧视行为",
+      "title_cn": "美国司法部调查威廉与玛丽学院，指控其存在偏少数族裔的受歧视行为",
+      "url": "https://reut.rs/3UnoGY2",
+      "pub_raw": "2026-08-17T22:30:13.570Z",
+      "pub_sort_dt": "2026-08-18 06:30:13"
     }
   ]
 }
