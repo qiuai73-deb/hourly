@@ -1,259 +1,331 @@
 {
-  "update_cst": "2026-08-18 12:02:01 北京时间",
+  "update_cst": "2026-08-18 15:01:01 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 16,
-    "Financial Times": 1,
+    "Bloomberg": 14,
+    "Financial Times": 3,
     "Wall Street Journal": 0,
     "Reuters": 3
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "收紧管控：中国加强出境规定 - France 24",
+      "title_cn": "收紧管控：中国加强出境规定 - France 24",
+      "url": "https://news.google.com/read/CBMikwFBVV95cUxNbmJGY2FwdUpSbHNOVG9tMXk0SGMxMWNIanVJVV9mZEUxZW9RU19Sd2dZa1FlTWxQdGxuZEdZV19RcVk1MTY0c2lBNWJyQWtqdmZ2VkMzVEVySlNscnhHRFBVNFFBOER0WGZIS1NqRkltNThpQ2tlVEhQaklKRG9MNTQyNGZiMGRXUlRUenpDRlIxU1E?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T06:00:11.000Z",
+      "pub_sort_dt": "2026-08-18 14:00:11"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国10年期国债收益率跌至13个月低点 - ft.com",
+      "title_cn": "中国10年期国债首次跌至13个月低点 - ft.com",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNV0w4YUxGTTJKcEE2YkVvV1NBTE9SSkVoYTdGekUxb3BBaU1wSzB1TkFHS0xFaVdza1Q4M1QzTFVHZ3VCSndwcUx3R0lrN3lpM044LV9ObGd4VTZ4aFkxUnB2bUdvUDhhdUdDclVrMHdpWTNnVnYweGhoWWRqSDhtTzlac2g?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T05:46:08.000Z",
+      "pub_sort_dt": "2026-08-18 13:46:08"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国提前实施计划，从政府机构中淘汰微软Windows系统 - Bloomberg.com",
+      "title_cn": "中国实施提前计划，从政府机构中淘汰微软Windows系统 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxOMDB5VzVCWnlmakExeHp0VklabHhsZng2bXMtcnhvVUJGUUpVNmhHTVFadTM0bThRN0JlamRLUFktWW52aVlLd2VTSnk0TnRhc01qRTVmNFl6c3lDQW5Od3d6VHNCM0Z5am55TTM0V2NmTTJPYjNEZlhiOUxrQ3dZMGVINEhjZURadkhHR0FvcjgxUjc1cGpVdThneFFWNEYzS1RaWHFEbVd3S2x1S2lxRmFJMkg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T05:44:00.000Z",
+      "pub_sort_dt": "2026-08-18 13:44:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "朱镕基：中国在前总理葬礼期间限制公众悼念活动 - BBC",
+      "title_cn": "朱镕基：中国在前总理葬礼期间限制公众悼念活动 - BBC",
+      "url": "https://news.google.com/read/CBMiWkFVX3lxTFBLd1ZSTENHbEJscmFUY3hfSDA1eGJsU08zSjJJOGVJekZnVFpsX3h4a0VnMmZqTUl1TlZOS3dOVm1YMnJPZ3Z1SHc5YnFNLTRTR0NaTFlYUWt0UQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T04:28:23.000Z",
+      "pub_sort_dt": "2026-08-18 12:28:23"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "“不值得冒险”：全球私募股权基金在中国零交易 - Financial Times",
+      "title_cn": "“不值得冒险”：全球私募股权基金在中国零交易 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOQ2IzNmlTUGJyN2pyd3dGb0U0Y3FVby04d1pIaEFlekZkQVhRbDA5dUJ0TEtQcC1pb0x6OGJMWG9RY2JNQ2hhZGQ5dHUzWk1sZUNFb0xYbGJlclZ1TzVYa0d0RkVUWjNkVmpOQmtVTkhWbHh5NFZwbU5TbEpuSlBERnp1LVk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T04:00:05.000Z",
+      "pub_sort_dt": "2026-08-18 12:00:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一部被嘲笑为“糟糕透顶”的中国动画片竟成为票房黑马 - AP News",
+      "title_cn": "一部被嘲笑为“糟糕透顶”的中国工艺品竟成为销售黑马 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxPNGFpNXpGekZfeTNFUnZHV1hsaGZ4MGE5emFoZFpYYk9xRkFRTkpzUmcyN0NGQ01DcUU4X0tJYzNWVXVZQmdLQXNhUDIzU2Z3aFVSeUI5bGc0MzVMbmlfUGNPU0U2LWFJc2o1T3NCN202Y2lJbjFkV18tbFRfY0xNQlA5RF90dDdqYXQ1R2ZDRU1LQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T03:33:00.000Z",
+      "pub_sort_dt": "2026-08-18 11:33:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国首个面向外国注册公务机的SAF合规服务已成功实施 - PR Newswire",
+      "title_cn": "中国首个面向外国注册公务机的SAF合规服务已成功实施 - 美通社",
+      "url": "https://news.google.com/read/CBMi7wFBVV95cUxPdGxoV1daVGlFZDk1T0RyTWNWQV9QOUFieHJzXzV1OFFyVEFVUGRNNWJ5NEppcDh2TE1VQmpHVVBaWXAxcE9lcnZwdnpHVlNxWmgtNDNoalZGRnJwQkhkNUhGeWR1Nlo1REhBeXNkM1owV3ZveGlFcWhGWTRsT21acmNfb2N0UG52emprdlFFemtZWjdTMzgwX2hvMDh6ZV9ycXBpLUpzc21WZ2VhQlplaGx2d3M4M3ozakRCYVlJekRGcUJJYTd5VGhqdmFIWURqLTdjUXBiSEFYaHNhRzBFY2gxZjV6SzNVbko0WWs2cw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T03:28:00.000Z",
+      "pub_sort_dt": "2026-08-18 11:28:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "新出生的大熊猫幼崽引发中韩联合命名投票，五项候选名称入围 - Global Times",
+      "title_cn": "新出生的大熊猫幼崽引发中韩联合投票，五项候选名称入围 - 环球时报",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTE9oTXFjRkZIWnhyc2VaU3I4X2VQVWxnN0pUdXlBdDI1ZTFOZWFIa3lyaklNT0tmNnVQSnZDU2Y3dDhOcHlPelBHSnVPVHloeVd5VE1wQ3VIZjZQc3NVZndUemN3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T03:11:00.000Z",
+      "pub_sort_dt": "2026-08-18 11:11:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一个讨厌的乔丹山寨品牌如何在中国绕过耐克 - Financial Times",
+      "title_cn": "一个讨厌的乔丹山寨品牌如何在中国绕行 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPc3dGX0xRQjZVbmZpU0ltUUZ1V25hYzNBYXRlY1I3eWNrbndROUw0dmRTTEUwdEJaMmtiT3dZTWJ1UC01dmRveUJEVFJMMHBOM01KSWxTVkd1QXJqb19CUm52TzVoT1BETlZ2VVprTHMyRTVGTElWeU1rS3RFdWNLUXY2N1A?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T02:58:30.000Z",
+      "pub_sort_dt": "2026-08-18 10:58:30"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "独家：谷歌计划于2027年停止在中国生产Pixel产品 - Nikkei Asia",
       "title_cn": "独家：谷歌计划于2027年停止在中国生产Pixel产品 - 日经亚洲",
       "url": "https://news.google.com/read/CBMitwFBVV95cUxNNWVmdnZtTU1kbEJYU0c4TDFCSnF0Wmo5ci1iTFJHX2Q0ckF2cWJJNTc0eTdjUjNhbUhkbDVtTVJqdmlzTXRYLXFhLU8wYWRsbEdid2VaR3lKck1oU2N0SjFpc2hUQ1ZSWWwxR2FGUVgtYzQ0Q0ZyMmp2RDFVN1EyTUtmQjUxVjA0b0VIYkZ6S1Q5bHVYQXc2RVJYcEFIUWVLVmhvbEFuS3dSTS1sOTBDRU9SU3NoUnc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-18T02:30:00.000Z",
       "pub_sort_dt": "2026-08-18 10:30:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "报道称，中国国家主席习近平访美期间将缺席联合国会议 - Bloomberg.com",
-      "title_cn": "报道称，中国国家主席习近平访美期间将缺席联合国会议 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxORjZaVV85cG1OX3BpaVlleWYwdDhnY0RvU0Z4c1NYekVBU0FVSDQ2NklNRjAwdnAyNWJGYWhwV2gzMnRfNjVZdkY1X2JfX1F6WDZSNFRUMFkwZE1NeHA1T0YwdW5BSnhEcXlvLUZHTkpsUjdlcUszWklwVWZHMzVnMXRxVGJVVHpldTNYbThGU1o0Vm96bXF3eHh4bTZ2TW1pV1R2NG11VVVzcWFVcmFXTEd3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T02:27:00.000Z",
-      "pub_sort_dt": "2026-08-18 10:27:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国为前总理朱镕基的葬礼下半旗、加强安保 - Reuters",
-      "title_cn": "中国为前总理朱镕基的葬礼下半旗、加强安保 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQbVBVb0NObXJjb3FFWUh4VjM4YTNvTk15TWhPQXB0cTRYZlgxMkJTaFFITVNFa0Q3SDZWSUJxYmVuX0FKTVdyYzJCMHZ2VjFBOWFOTjFYTjU5ekdIX1ZVbmVPd2FQUWc0dWxsSlJ5UDZoQVBYTUx5VVdEbmFRMFM3R3NqaExtTXh0bER0bWRJc2pHbW9mS2ktdmFjTEFISnVnZmVpVENSSUFhNFc3U0IxQ2NXSHNZWjdOYjNR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T01:39:00.000Z",
-      "pub_sort_dt": "2026-08-18 09:39:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "CNBC《中国连线》通讯：是金钱还是权力？赢得人工智能竞赛的关键 - CNBC",
-      "title_cn": "CNBC《中国连线》通讯：是金钱还是权力？赢得人工智能竞赛的关键 - CNBC",
-      "url": "https://news.google.com/read/CBMilgFBVV95cUxQdUNTLWJSZFBUUlNEY25fMWtOR0dRTm9PenVCY3dNYTVwdUtwM0EtMWFpOFVyR0k3b3NWT083VEVBQnVnTktFQl90czN0NkdkUFV1dkxHMWNQZjBZeEdGSExVZXh4b1hDQkttTjlRMjlTbVlfbFVvdXBTSnp6anFMRlBENFhzMkJhSGg3MTFzbkc1TEg4MGfSAZsBQVVfeXFMTzA5TThXbXNXZ3NIaFI2OVl4VnNXYWNTQnM0UWZOM25CVGJCVlNSa1JaclN2akZnbnVWRTZGX1dmd0ZMeFBpaFpwSmpZTGV2cjM2bEVJcjgzWVM5YWEzY1JEeVJPT1FKMFRJNV9VUElMM044ZzRyTDNKQlIxX01hRWRtX0gwNGVvX2Y4YVBxdjVfYmE4U2Rla3hicXM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T23:00:01.000Z",
-      "pub_sort_dt": "2026-08-18 07:00:01"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国海军一艘驱逐舰在南海停电4天 - The Washington Post",
-      "title_cn": "美国海军一艘驱逐舰在南海停电4天 - 华盛顿邮报",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQVHBtekJyZU9aX0R1ZXF2ei1GY2x2YW5UZWFWQm1lNkthOGhtUUh2LVBudHJNTXBFbHJuRnA5empjTUpYLTlTVDE4bmF3RDFWVzc4b1ZQeTR1ZEw4MklhazhzaDdlSE10ZThvRlFiUEtmNVlEQ3hqREZwN1Ytam5RdXlWeVNpM0dmWGlNM1lsQWRPQ2E1ZXhya1ZUY3Z5NzRtTUdBbjRzaFNNeHd5WWZhQ1dR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T22:18:58.000Z",
-      "pub_sort_dt": "2026-08-18 06:18:58"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "独家 有关赫格塞特即将离职的传闻引发对中美未来防务关系走向的质疑 - South China Morning Post",
-      "title_cn": "独家有关赫格塞特即将爆发的言论引发对中美未来防务关系走向的质疑 - 南华早报",
-      "url": "https://news.google.com/read/CBMi1wFBVV95cUxPbGRJd2VxSTdGbldONXBya0JCbXZZXzBaWFNjYlJlNW1LYTlPZEM1dGZKZm52U1hZcXFRaU9ZLU1BOGlBMU9SeEdJdFFSZU9CajUtek5FTGZVUnF3ci0zbGRCZDRhZnlWZnczR0JqNnBONHBCdUt1djJRS3FWdWQxUFFkSlFENHBKMWNVaXdsSUNaMDBDQjJqb3RfQlRRUGR1VjhQNjNVZ3hwbVI1S1VHVGdHTkktbTB0VmxFZUlVSkZJdWEzSk9uLU9uSHotd0FpeXF3NExYb9IB1wFBVV95cUxQTDVaUnJsaklCekE3M0N5Y0dLY1NkZW5oYUlDN29kN0RfZUVVaThqYTZOX0tuZ0xnM0ZWQzdBVFFUU0R6VDJvNVR5SmJLM01hMU02b0hfSmFBNmpjZ0l6T2xfNUVIRGFnalh5OTcyQ1h0RmVUWFY5T2x1aTRwWE1uN1dRV25aeWZfUmRObTRvb1NVUmdMVlBnbnU4aUNOcmhuakowMXVGUTRlMkluSEdRX3FQWllvUGVPY3VmS1RNZ3ZFR0dwV1dsdlNSdjJ0V0xyRXJka1lwSQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T22:00:09.000Z",
-      "pub_sort_dt": "2026-08-18 06:00:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "数据显示，6月份外国持有的美国国债规模下降，其中日本、英国和中国是主要减少国 - Reuters",
-      "title_cn": "数据显示，6月份持有的美国国债规模下降，其中日本、英国和中国主要减少 - 路透中文网",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxQN2xCVXk0Xy1vWHo0TXM0Rkg2STU1dExBMEdMQlpaVEFrd1I1aDlNRHRQNG9oUlNMWkUtNW5jMFgxN2NsQXZEbmtlcUNtc2xQUWl2N3ZxQ01wWDgweXhuSk92UDdXank2RWdXLThMQXhjYzlfOXZKdXlHUlE1MFFrM0ZOVE1kakFRQWU2WmJ2ME1mUnNFdFNmS004ang4QnhQaS13cWJESnN4WGE5TDE3UENiUWhTZXZLN3dzOVln?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T21:08:51.000Z",
-      "pub_sort_dt": "2026-08-18 05:08:51"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着无人机和中国改变地缘政治格局，日本正准备进行战略调整 - Nikkei Asia",
-      "title_cn": "借助无人机和中国改变地缘政治格局，日本正准备进行战略调整 - 日经亚洲",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxQWThmQmVOMUtpanRITmY1eHdCYjdSeUcySDdPVE5paUVrSXJjbUNyUmx4MVFOZXJiVGVFbG1XdzZVRU5BdGk1T0NMS1FGWklKOTZsMkFYcEwwVm9feXdMV1RncDRKMTlXT0tjSzc3X2E3S2ptenpTeHA3YTZlU3F5RjRKNjE1V1BqYkp0V2NSYTJkZnFLYmZ2NkZfWUcwRGlRVWRzNk03NA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T21:00:00.000Z",
-      "pub_sort_dt": "2026-08-18 05:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国经济出现放缓可能持续的迹象 - The Guardian",
-      "title_cn": "中国经济出现预期可能持续的局面 - 英国卫报",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxPbmdlcXN2cGVYYmM1UXVjSUFOTE1WZjRCODdqYl9oNlF2SGdvSnRueTlKWVlBQkVScE13SFBoWXF5YmpJQ0h5d2NlVjBfcTZZS1F1YkxsTTJHY2syMXZqRVFoMkFHTTI5aWl1QXlxemNtN25GMDFQNF9fcjBkaWltbXFXUzRnZ09FaC1VY2VhY2w?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T17:56:00.000Z",
-      "pub_sort_dt": "2026-08-18 01:56:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国解放军称从伊朗战争中汲取了哪些经验 - Breaking Defense",
-      "title_cn": "中国解放军号称从伊朗战争中汲取了哪些经验——突破防御",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxNT3ptVm1YY2x6c0xqeUYzek1HZ3NHUVdPbHNMQmJxVWpRLTh0akNjYTd4bUJIVkhMdXJ0ZlpsMWxDcGkzcmJWa212b01MMEVNcWZSQlBLU3NoUVNMa0d6NlVrYUFwcTBmLXI1SENNVkhMeWczRldadW5jZjlvaTZ5eGhmaWlvcjRSTEFiS1BnemlvYlB4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T17:21:41.000Z",
-      "pub_sort_dt": "2026-08-18 01:21:41"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
-      "title_en": "美元互换窗口提前关闭，印度卢比及债券市场押注情绪退潮",
-      "title_cn": "美元兑窗口提前关闭，印度退卢比及债券市场押注情绪潮",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/indian-rupee-bond-bets-retreat-as-dollar-swap-window-ends-early",
-      "pub_raw": "2026-08-18T03:49:58.286Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
+      "title_en": "Frasers将所持德国时装品牌Hugo Boss的股份增至48%",
+      "title_cn": "Frasers将持有德国时装品牌Hugo Boss的股份增至48%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/frasers-lifts-stake-in-german-fashion-house-hugo-boss-to-48",
+      "pub_raw": "2026-08-18T06:46:01.135Z",
+      "pub_sort_dt": "2026-08-18 14:46:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "亚尔德尼表示，目前尚不打算针对“债券义警”按下恐慌按钮",
-      "title_cn": "亚尔德尼表示，目前尚不打算针对“债券义警”按下恐慌按钮",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/yardeni-warns-bond-vigilantes-stirring-as-us-yields-near-5",
-      "pub_raw": "2026-08-18T03:49:58.269Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
+      "title_en": "布拉斯肯（Braskem）的墨西哥子公司在美国申请第11章破产保护",
+      "title_cn": "布拉斯肯（Braskem）的墨西哥子公司在美国申请第11章破产保护",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/braskem-s-mexico-unit-files-for-chapter-11-bankruptcy-in-us",
+      "pub_raw": "2026-08-18T06:46:01.132Z",
+      "pub_sort_dt": "2026-08-18 14:46:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "Alphabet在澳大利亚发行的债券表现优于美元债券",
-      "title_cn": "Alphabet在澳大利亚发行的债券表现美元债券",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-kicks-off-aussie-dollar-bond-sale-as-ai-spending-soars",
-      "pub_raw": "2026-08-18T03:49:58.254Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
+      "title_en": "英国就业人数下降，职位空缺降至5年低点，就业市场疲软",
+      "title_cn": "英国就业人数下降，职位空缺降至5年低点，就业市场疲软",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/uk-firms-shed-employees-wage-growth-slows-in-tepid-labor-market",
+      "pub_raw": "2026-08-18T06:46:01.128Z",
+      "pub_sort_dt": "2026-08-18 14:46:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "受加息预期减弱影响，金价在4,400美元附近持稳",
-      "title_cn": "受加息预期影响，金价在4,400美元附近持稳",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/gold-holds-two-day-gain-on-reduced-rate-hike-expectations",
-      "pub_raw": "2026-08-18T03:49:58.251Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
+      "title_en": "债券市场暴跌致长期债务成本升至数十年来最高水平",
+      "title_cn": "债券市场暴跌导致长期债务成本达到历年来最高水平",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bond-rout-sends-long-term-borrowing-costs-to-highest-in-decades",
+      "pub_raw": "2026-08-18T06:46:01.117Z",
+      "pub_sort_dt": "2026-08-18 14:46:01"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "Anthropic在IPO前年化营收突破650亿美元",
-      "title_cn": "Anthropic在IPO前年化突破650亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
-      "pub_raw": "2026-08-18T03:49:58.223Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着IPO市场繁荣，香港交易所与首席执行官陈先生续签了合同",
-      "title_cn": "随着IPO市场的繁荣，香港交易所与创始人陈先生续签了合同",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/hkex-renews-ceo-chan-s-contract-for-three-years-amid-ipo-boom",
-      "pub_raw": "2026-08-18T03:49:58.173Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
+      "source": "Reuters",
+      "title_en": "中国外交部长王毅将于8月19日至20日访问韩国",
+      "title_cn": "中国外交部长王毅将于8月19日至20日访问韩国",
+      "url": "https://reut.rs/4zvzALF",
+      "pub_raw": "2026-08-18T06:46:00.988Z",
+      "pub_sort_dt": "2026-08-18 14:46:00"
     },
     {
       "source": "Financial Times",
-      "title_en": "一个讨厌的乔丹山寨品牌如何在中国绕过耐克",
-      "title_cn": "一个讨厌的乔丹山寨品牌如何在中国绕行",
-      "url": "https://www.ft.com/content/9eae7b4f-23fe-47f4-9a95-51f6b401c9e6?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-18T03:49:58.122Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
+      "title_en": "随着劳动力市场进一步疲软，英国雇主纷纷裁员",
+      "title_cn": "随着劳动力市场进一步疲软，英国雇主纷纷做出裁决",
+      "url": "https://www.ft.com/content/1e9a7365-ee1f-489c-9dea-39a6fc33837b?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-18T06:46:00.952Z",
+      "pub_sort_dt": "2026-08-18 14:46:00"
     },
     {
       "source": "Bloomberg",
-      "title_en": "在经济增长大幅放缓后，习近平的二号人物呼吁加大对经济的支持力度",
-      "title_cn": "在经济增长大幅提速后，习近平二号人物呼吁加大对经济的支持力度",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/xi-s-no-2-urges-more-support-for-economy-after-big-growth-slump",
-      "pub_raw": "2026-08-18T03:33:54.682Z",
-      "pub_sort_dt": "2026-08-18 11:33:54"
+      "title_en": "布里奇沃特中国基金在7月市场暴跌中屹立不倒，而量化基金却惨遭重创",
+      "title_cn": "布里奇沃特中国基金在7月市场暴跌中屹立不倒，而量化基金却惨遭重创",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bridgewater-china-withstands-july-rout-that-left-quants-reeling",
+      "pub_raw": "2026-08-18T06:30:13.279Z",
+      "pub_sort_dt": "2026-08-18 14:30:13"
     },
     {
       "source": "Bloomberg",
-      "title_en": "CSL因有望重回盈利增长轨道，股价创2001年以来最大涨幅",
-      "title_cn": "CSL因有望重回盈利增长轨道，股价创2001年以来最大涨幅",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/australia-s-csl-sees-2027-npat-growth-at-5-at-constant-currency",
-      "pub_raw": "2026-08-18T03:33:54.658Z",
-      "pub_sort_dt": "2026-08-18 11:33:54"
+      "title_en": "债券市场暴跌致长期借贷成本升至数十年来最高水平",
+      "title_cn": "债券市场暴跌导致长期借贷成本达到历年来最高水平",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/bond-slump-sends-long-term-borrowing-costs-to-highest-in-decades",
+      "pub_raw": "2026-08-18T06:14:00.864Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "富时100指数实时行情：随着伊朗核协议希望渐逝，英国股指期货走势暂缓",
+      "title_cn": "富时100指数实时行情：随着伊朗核协议希望渐逝，英国股指期货走势暂缓",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-08-18/ftse-100-live-jobs-data-bonds-trump-iran-oil-prices-hormuz-ai-stocks-pound-what-s-moving-uk-markets-right-now-markets-today-msy8oopb",
+      "pub_raw": "2026-08-18T06:14:00.861Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国计划提前在政府机构中淘汰微软Windows系统",
+      "title_cn": "中国计划提前在政府机构中淘汰微软Windows系统",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/china-axing-microsoft-windows-from-state-agencies-ahead-of-plan",
+      "pub_raw": "2026-08-18T06:14:00.858Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "MCX计划设立印度煤炭和矿石交易所以促进价格发现",
+      "title_cn": "MCX 计划设立印度煤炭和矿石交易以促进价格发现",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/mcx-plans-india-coal-mineral-exchanges-to-boost-price-discovery",
+      "pub_raw": "2026-08-18T06:14:00.722Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
     },
     {
       "source": "Reuters",
-      "title_en": "数据显示，霍尔木兹海峡过境量较上周末略有上升，但仍维持在个位数水平",
-      "title_cn": "数据显示，霍尔木兹海峡过境量较上周末大幅上升，但仍维持在个最低水平",
-      "url": "https://reut.rs/4zj3sdT",
-      "pub_raw": "2026-08-18T03:33:54.548Z",
-      "pub_sort_dt": "2026-08-18 11:33:54"
+      "title_en": "早盘行情：伊朗威胁将采取“全面进攻”姿态，债券投资者群起抗议",
+      "title_cn": "早盘行情：伊朗威胁将采取“全面进攻”姿势，债券投资者群起抗议",
+      "url": "https://reut.rs/3S012Ai",
+      "pub_raw": "2026-08-18T06:14:00.704Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国10年期国债收益率跌至13个月低点",
+      "title_cn": "中国10年期国债首次跌至13个月低点",
+      "url": "https://www.ft.com/content/c3223b7c-6683-42df-9e60-9dbd2dbdfe07?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-18T06:14:00.673Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "AI：就像一台债务制造机",
+      "title_cn": "AI：类似于债务人制造机",
+      "url": "https://www.ft.com/content/b2cbbab2-a51a-48f2-a9da-86d858cd4e86?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-18T06:14:00.645Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
     },
     {
       "source": "Bloomberg",
-      "title_en": "法庭获悉，巴伦乔伊人对贾登的突袭是一次“有组织的袭击”",
-      "title_cn": "法庭获悉，巴伦乔伊人对贾登的突袭是一次“有组织的袭击”",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/barrenjoey-raid-on-jarden-was-a-coordinated-attack-court-told",
-      "pub_raw": "2026-08-18T03:18:46.902Z",
-      "pub_sort_dt": "2026-08-18 11:18:46"
+      "title_en": "9月即将推出的9部最佳电影、电视剧、书籍、艺术作品和戏剧",
+      "title_cn": "9月即将推出的9部最佳电影、电视剧、书籍、艺术作品和戏剧",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/the-9-best-movies-tv-books-art-and-theater-arriving-in-september",
+      "pub_raw": "2026-08-18T05:57:51.390Z",
+      "pub_sort_dt": "2026-08-18 13:57:51"
     },
     {
       "source": "Bloomberg",
-      "title_en": "德国希望在裕信银行胜诉德国商业银行一案中寻求和平解决",
-      "title_cn": "德国希望在裕信银行胜诉德国商业银行一案中寻求和平解决",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-08-18/germany-is-seeking-peace-in-unicredit-s-commerzbank-victory",
-      "pub_raw": "2026-08-18T03:03:04.077Z",
-      "pub_sort_dt": "2026-08-18 11:03:04"
+      "title_en": "日本同意在澳大利亚测试高超音速导弹及其他导弹",
+      "title_cn": "日本同意在澳大利亚测试高超音速导弹及其他导弹",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/japan-agrees-to-test-hypersonics-other-missiles-in-australia",
+      "pub_raw": "2026-08-18T05:57:51.387Z",
+      "pub_sort_dt": "2026-08-18 13:57:51"
     },
     {
       "source": "Bloomberg",
-      "title_en": "供应紧缩席卷铜市，关键价差大幅扩大",
-      "title_cn": "供应席紧缩卷铜市，关键价差大幅扩大",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/supply-crunch-grips-copper-market-as-key-spread-flares-out",
-      "pub_raw": "2026-08-18T03:03:04.073Z",
-      "pub_sort_dt": "2026-08-18 11:03:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "普拉博沃的“务实”演讲安抚了疲惫的印尼投资者",
-      "title_cn": "普拉博沃的“务实”演讲安抚了一位演讲者",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/prabowo-s-pragmatic-speech-comforts-weary-indonesia-investors",
-      "pub_raw": "2026-08-18T03:03:04.063Z",
-      "pub_sort_dt": "2026-08-18 11:03:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "尽管Nifty指数势头减弱，印度新股发行依然表现亮眼",
-      "title_cn": "尽管Nifty指数激增，印度新股发行依然表现亮眼",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/indian-ipos-shine-bright-even-as-nifty-loses-momentum",
-      "pub_raw": "2026-08-18T02:46:00.201Z",
-      "pub_sort_dt": "2026-08-18 10:46:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "据《Politico》报道，中国国家主席习近平访美期间将缺席联合国会议",
-      "title_cn": "据《Politico》报道，中国国家主席习近平访美期间将缺席联合国会议",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/china-s-xi-to-skip-un-meeting-during-trip-to-us-politico-says",
-      "pub_raw": "2026-08-18T02:46:00.198Z",
-      "pub_sort_dt": "2026-08-18 10:46:00"
+      "title_en": "Situational Awareness 向 Citadel 出售了 Taiyo Yuden 的股份",
+      "title_cn": "态势感知 向 Citadel 出售了 Taiyo Yuden 的股份",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/situational-awareness-sold-taiyo-yuden-shares-to-citadel-others-msy5e92j",
+      "pub_raw": "2026-08-18T05:57:51.377Z",
+      "pub_sort_dt": "2026-08-18 13:57:51"
     },
     {
       "source": "Reuters",
-      "title_en": "美国移民和海关执法局（ICE）提出了一项保险计划，旨在保护执行移民逮捕任务的地方执法人员",
-      "title_cn": "美国移民和海关执法局（ICE）提出了一项保险计划，旨在保护执行移民逮捕任务的地方执法人员",
-      "url": "https://reut.rs/4gfMxAp",
-      "pub_raw": "2026-08-18T02:46:00.073Z",
-      "pub_sort_dt": "2026-08-18 10:46:00"
+      "title_en": "气候灾害：欧洲公共财政面临的下一个冲击",
+      "title_cn": "气候灾害：欧洲公共财政面临的下一个冲击",
+      "url": "https://reut.rs/3U2MUXA",
+      "pub_raw": "2026-08-18T05:57:51.244Z",
+      "pub_sort_dt": "2026-08-18 13:57:51"
     },
     {
       "source": "Bloomberg",
-      "title_en": "沙特在阿曼附近提供石油，这可能是“穿梭交易”的迹象",
-      "title_cn": "沙特在阿曼附近提供石油，这可能是“穿梭交易”的形式",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/saudis-offer-oil-from-near-oman-in-possible-sign-of-shuttling",
-      "pub_raw": "2026-08-18T02:30:02.613Z",
-      "pub_sort_dt": "2026-08-18 10:30:02"
+      "title_en": "随着气温飙升，马拉松训练现已将跑者的防暑措施纳入其中",
+      "title_cn": "随着突发高峰，马拉松训练立即将跑步者的防暑措施纳入其中",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/marathon-training-now-includes-heat-management-for-runners-as-temperatures-soar",
+      "pub_raw": "2026-08-18T05:42:01.229Z",
+      "pub_sort_dt": "2026-08-18 13:42:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "印度贷款机构的美元债券发行额创下近90亿美元的纪录",
-      "title_cn": "印度机构贷款的美元债券发行额约为近90亿美元的历史记录",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/indian-lenders-set-record-with-8-billion-in-dollar-bond-sales",
-      "pub_raw": "2026-08-18T02:30:02.592Z",
-      "pub_sort_dt": "2026-08-18 10:30:02"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "韩国总统李某支持加强自卫能力，称演习并非针对朝鲜",
-      "title_cn": "韩国总统李某支持加强自卫能力，称此举并非针对朝鲜",
-      "url": "https://reut.rs/3U2xB12",
-      "pub_raw": "2026-08-18T02:30:02.571Z",
-      "pub_sort_dt": "2026-08-18 10:30:02"
+      "title_en": "特朗普援引印度大选为例，推动美国选举制度改革",
+      "title_cn": "特朗普援引印度大选，推动美国选举制度改革",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/trump-cites-india-s-elections-to-push-for-us-voting-overhaul",
+      "pub_raw": "2026-08-18T05:42:01.225Z",
+      "pub_sort_dt": "2026-08-18 13:42:01"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "收紧管控：中国加强出境规定 - France 24",
+      "title_cn": "收紧管控：中国加强出境规定 - France 24",
+      "url": "https://news.google.com/read/CBMikwFBVV95cUxNbmJGY2FwdUpSbHNOVG9tMXk0SGMxMWNIanVJVV9mZEUxZW9RU19Sd2dZa1FlTWxQdGxuZEdZV19RcVk1MTY0c2lBNWJyQWtqdmZ2VkMzVEVySlNscnhHRFBVNFFBOER0WGZIS1NqRkltNThpQ2tlVEhQaklKRG9MNTQyNGZiMGRXUlRUenpDRlIxU1E?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T06:00:11.000Z",
+      "pub_sort_dt": "2026-08-18 14:00:11"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国10年期国债收益率跌至13个月低点 - ft.com",
+      "title_cn": "中国10年期国债首次跌至13个月低点 - ft.com",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNV0w4YUxGTTJKcEE2YkVvV1NBTE9SSkVoYTdGekUxb3BBaU1wSzB1TkFHS0xFaVdza1Q4M1QzTFVHZ3VCSndwcUx3R0lrN3lpM044LV9ObGd4VTZ4aFkxUnB2bUdvUDhhdUdDclVrMHdpWTNnVnYweGhoWWRqSDhtTzlac2g?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T05:46:08.000Z",
+      "pub_sort_dt": "2026-08-18 13:46:08"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国提前实施计划，从政府机构中淘汰微软Windows系统 - Bloomberg.com",
+      "title_cn": "中国实施提前计划，从政府机构中淘汰微软Windows系统 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxOMDB5VzVCWnlmakExeHp0VklabHhsZng2bXMtcnhvVUJGUUpVNmhHTVFadTM0bThRN0JlamRLUFktWW52aVlLd2VTSnk0TnRhc01qRTVmNFl6c3lDQW5Od3d6VHNCM0Z5am55TTM0V2NmTTJPYjNEZlhiOUxrQ3dZMGVINEhjZURadkhHR0FvcjgxUjc1cGpVdThneFFWNEYzS1RaWHFEbVd3S2x1S2lxRmFJMkg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T05:44:00.000Z",
+      "pub_sort_dt": "2026-08-18 13:44:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "朱镕基：中国在前总理葬礼期间限制公众悼念活动 - BBC",
+      "title_cn": "朱镕基：中国在前总理葬礼期间限制公众悼念活动 - BBC",
+      "url": "https://news.google.com/read/CBMiWkFVX3lxTFBLd1ZSTENHbEJscmFUY3hfSDA1eGJsU08zSjJJOGVJekZnVFpsX3h4a0VnMmZqTUl1TlZOS3dOVm1YMnJPZ3Z1SHc5YnFNLTRTR0NaTFlYUWt0UQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T04:28:23.000Z",
+      "pub_sort_dt": "2026-08-18 12:28:23"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "“不值得冒险”：全球私募股权基金在中国零交易 - Financial Times",
+      "title_cn": "“不值得冒险”：全球私募股权基金在中国零交易 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOQ2IzNmlTUGJyN2pyd3dGb0U0Y3FVby04d1pIaEFlekZkQVhRbDA5dUJ0TEtQcC1pb0x6OGJMWG9RY2JNQ2hhZGQ5dHUzWk1sZUNFb0xYbGJlclZ1TzVYa0d0RkVUWjNkVmpOQmtVTkhWbHh5NFZwbU5TbEpuSlBERnp1LVk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T04:00:05.000Z",
+      "pub_sort_dt": "2026-08-18 12:00:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一部被嘲笑为“糟糕透顶”的中国动画片竟成为票房黑马 - AP News",
+      "title_cn": "一部被嘲笑为“糟糕透顶”的中国工艺品竟成为销售黑马 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxPNGFpNXpGekZfeTNFUnZHV1hsaGZ4MGE5emFoZFpYYk9xRkFRTkpzUmcyN0NGQ01DcUU4X0tJYzNWVXVZQmdLQXNhUDIzU2Z3aFVSeUI5bGc0MzVMbmlfUGNPU0U2LWFJc2o1T3NCN202Y2lJbjFkV18tbFRfY0xNQlA5RF90dDdqYXQ1R2ZDRU1LQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T03:33:00.000Z",
+      "pub_sort_dt": "2026-08-18 11:33:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国首个面向外国注册公务机的SAF合规服务已成功实施 - PR Newswire",
+      "title_cn": "中国首个面向外国注册公务机的SAF合规服务已成功实施 - 美通社",
+      "url": "https://news.google.com/read/CBMi7wFBVV95cUxPdGxoV1daVGlFZDk1T0RyTWNWQV9QOUFieHJzXzV1OFFyVEFVUGRNNWJ5NEppcDh2TE1VQmpHVVBaWXAxcE9lcnZwdnpHVlNxWmgtNDNoalZGRnJwQkhkNUhGeWR1Nlo1REhBeXNkM1owV3ZveGlFcWhGWTRsT21acmNfb2N0UG52emprdlFFemtZWjdTMzgwX2hvMDh6ZV9ycXBpLUpzc21WZ2VhQlplaGx2d3M4M3ozakRCYVlJekRGcUJJYTd5VGhqdmFIWURqLTdjUXBiSEFYaHNhRzBFY2gxZjV6SzNVbko0WWs2cw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T03:28:00.000Z",
+      "pub_sort_dt": "2026-08-18 11:28:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "新出生的大熊猫幼崽引发中韩联合命名投票，五项候选名称入围 - Global Times",
+      "title_cn": "新出生的大熊猫幼崽引发中韩联合投票，五项候选名称入围 - 环球时报",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTE9oTXFjRkZIWnhyc2VaU3I4X2VQVWxnN0pUdXlBdDI1ZTFOZWFIa3lyaklNT0tmNnVQSnZDU2Y3dDhOcHlPelBHSnVPVHloeVd5VE1wQ3VIZjZQc3NVZndUemN3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T03:11:00.000Z",
+      "pub_sort_dt": "2026-08-18 11:11:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一个讨厌的乔丹山寨品牌如何在中国绕过耐克 - Financial Times",
+      "title_cn": "一个讨厌的乔丹山寨品牌如何在中国绕行 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPc3dGX0xRQjZVbmZpU0ltUUZ1V25hYzNBYXRlY1I3eWNrbndROUw0dmRTTEUwdEJaMmtiT3dZTWJ1UC01dmRveUJEVFJMMHBOM01KSWxTVkd1QXJqb19CUm52TzVoT1BETlZ2VVprTHMyRTVGTElWeU1rS3RFdWNLUXY2N1A?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T02:58:30.000Z",
+      "pub_sort_dt": "2026-08-18 10:58:30"
+    },
     {
       "source": "China Buzzing",
       "title_en": "独家：谷歌计划于2027年停止在中国生产Pixel产品 - Nikkei Asia",
@@ -263,236 +335,164 @@
       "pub_sort_dt": "2026-08-18 10:30:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "报道称，中国国家主席习近平访美期间将缺席联合国会议 - Bloomberg.com",
-      "title_cn": "报道称，中国国家主席习近平访美期间将缺席联合国会议 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxORjZaVV85cG1OX3BpaVlleWYwdDhnY0RvU0Z4c1NYekVBU0FVSDQ2NklNRjAwdnAyNWJGYWhwV2gzMnRfNjVZdkY1X2JfX1F6WDZSNFRUMFkwZE1NeHA1T0YwdW5BSnhEcXlvLUZHTkpsUjdlcUszWklwVWZHMzVnMXRxVGJVVHpldTNYbThGU1o0Vm96bXF3eHh4bTZ2TW1pV1R2NG11VVVzcWFVcmFXTEd3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T02:27:00.000Z",
-      "pub_sort_dt": "2026-08-18 10:27:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国为前总理朱镕基的葬礼下半旗、加强安保 - Reuters",
-      "title_cn": "中国为前总理朱镕基的葬礼下半旗、加强安保 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQbVBVb0NObXJjb3FFWUh4VjM4YTNvTk15TWhPQXB0cTRYZlgxMkJTaFFITVNFa0Q3SDZWSUJxYmVuX0FKTVdyYzJCMHZ2VjFBOWFOTjFYTjU5ekdIX1ZVbmVPd2FQUWc0dWxsSlJ5UDZoQVBYTUx5VVdEbmFRMFM3R3NqaExtTXh0bER0bWRJc2pHbW9mS2ktdmFjTEFISnVnZmVpVENSSUFhNFc3U0IxQ2NXSHNZWjdOYjNR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T01:39:00.000Z",
-      "pub_sort_dt": "2026-08-18 09:39:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "CNBC《中国连线》通讯：是金钱还是权力？赢得人工智能竞赛的关键 - CNBC",
-      "title_cn": "CNBC《中国连线》通讯：是金钱还是权力？赢得人工智能竞赛的关键 - CNBC",
-      "url": "https://news.google.com/read/CBMilgFBVV95cUxQdUNTLWJSZFBUUlNEY25fMWtOR0dRTm9PenVCY3dNYTVwdUtwM0EtMWFpOFVyR0k3b3NWT083VEVBQnVnTktFQl90czN0NkdkUFV1dkxHMWNQZjBZeEdGSExVZXh4b1hDQkttTjlRMjlTbVlfbFVvdXBTSnp6anFMRlBENFhzMkJhSGg3MTFzbkc1TEg4MGfSAZsBQVVfeXFMTzA5TThXbXNXZ3NIaFI2OVl4VnNXYWNTQnM0UWZOM25CVGJCVlNSa1JaclN2akZnbnVWRTZGX1dmd0ZMeFBpaFpwSmpZTGV2cjM2bEVJcjgzWVM5YWEzY1JEeVJPT1FKMFRJNV9VUElMM044ZzRyTDNKQlIxX01hRWRtX0gwNGVvX2Y4YVBxdjVfYmE4U2Rla3hicXM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T23:00:01.000Z",
-      "pub_sort_dt": "2026-08-18 07:00:01"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国海军一艘驱逐舰在南海停电4天 - The Washington Post",
-      "title_cn": "美国海军一艘驱逐舰在南海停电4天 - 华盛顿邮报",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQVHBtekJyZU9aX0R1ZXF2ei1GY2x2YW5UZWFWQm1lNkthOGhtUUh2LVBudHJNTXBFbHJuRnA5empjTUpYLTlTVDE4bmF3RDFWVzc4b1ZQeTR1ZEw4MklhazhzaDdlSE10ZThvRlFiUEtmNVlEQ3hqREZwN1Ytam5RdXlWeVNpM0dmWGlNM1lsQWRPQ2E1ZXhya1ZUY3Z5NzRtTUdBbjRzaFNNeHd5WWZhQ1dR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T22:18:58.000Z",
-      "pub_sort_dt": "2026-08-18 06:18:58"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "独家 有关赫格塞特即将离职的传闻引发对中美未来防务关系走向的质疑 - South China Morning Post",
-      "title_cn": "独家有关赫格塞特即将爆发的言论引发对中美未来防务关系走向的质疑 - 南华早报",
-      "url": "https://news.google.com/read/CBMi1wFBVV95cUxPbGRJd2VxSTdGbldONXBya0JCbXZZXzBaWFNjYlJlNW1LYTlPZEM1dGZKZm52U1hZcXFRaU9ZLU1BOGlBMU9SeEdJdFFSZU9CajUtek5FTGZVUnF3ci0zbGRCZDRhZnlWZnczR0JqNnBONHBCdUt1djJRS3FWdWQxUFFkSlFENHBKMWNVaXdsSUNaMDBDQjJqb3RfQlRRUGR1VjhQNjNVZ3hwbVI1S1VHVGdHTkktbTB0VmxFZUlVSkZJdWEzSk9uLU9uSHotd0FpeXF3NExYb9IB1wFBVV95cUxQTDVaUnJsaklCekE3M0N5Y0dLY1NkZW5oYUlDN29kN0RfZUVVaThqYTZOX0tuZ0xnM0ZWQzdBVFFUU0R6VDJvNVR5SmJLM01hMU02b0hfSmFBNmpjZ0l6T2xfNUVIRGFnalh5OTcyQ1h0RmVUWFY5T2x1aTRwWE1uN1dRV25aeWZfUmRObTRvb1NVUmdMVlBnbnU4aUNOcmhuakowMXVGUTRlMkluSEdRX3FQWllvUGVPY3VmS1RNZ3ZFR0dwV1dsdlNSdjJ0V0xyRXJka1lwSQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T22:00:09.000Z",
-      "pub_sort_dt": "2026-08-18 06:00:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "数据显示，6月份外国持有的美国国债规模下降，其中日本、英国和中国是主要减少国 - Reuters",
-      "title_cn": "数据显示，6月份持有的美国国债规模下降，其中日本、英国和中国主要减少 - 路透中文网",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxQN2xCVXk0Xy1vWHo0TXM0Rkg2STU1dExBMEdMQlpaVEFrd1I1aDlNRHRQNG9oUlNMWkUtNW5jMFgxN2NsQXZEbmtlcUNtc2xQUWl2N3ZxQ01wWDgweXhuSk92UDdXank2RWdXLThMQXhjYzlfOXZKdXlHUlE1MFFrM0ZOVE1kakFRQWU2WmJ2ME1mUnNFdFNmS004ang4QnhQaS13cWJESnN4WGE5TDE3UENiUWhTZXZLN3dzOVln?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T21:08:51.000Z",
-      "pub_sort_dt": "2026-08-18 05:08:51"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着无人机和中国改变地缘政治格局，日本正准备进行战略调整 - Nikkei Asia",
-      "title_cn": "借助无人机和中国改变地缘政治格局，日本正准备进行战略调整 - 日经亚洲",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxQWThmQmVOMUtpanRITmY1eHdCYjdSeUcySDdPVE5paUVrSXJjbUNyUmx4MVFOZXJiVGVFbG1XdzZVRU5BdGk1T0NMS1FGWklKOTZsMkFYcEwwVm9feXdMV1RncDRKMTlXT0tjSzc3X2E3S2ptenpTeHA3YTZlU3F5RjRKNjE1V1BqYkp0V2NSYTJkZnFLYmZ2NkZfWUcwRGlRVWRzNk03NA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T21:00:00.000Z",
-      "pub_sort_dt": "2026-08-18 05:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国经济出现放缓可能持续的迹象 - The Guardian",
-      "title_cn": "中国经济出现预期可能持续的局面 - 英国卫报",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxPbmdlcXN2cGVYYmM1UXVjSUFOTE1WZjRCODdqYl9oNlF2SGdvSnRueTlKWVlBQkVScE13SFBoWXF5YmpJQ0h5d2NlVjBfcTZZS1F1YkxsTTJHY2syMXZqRVFoMkFHTTI5aWl1QXlxemNtN25GMDFQNF9fcjBkaWltbXFXUzRnZ09FaC1VY2VhY2w?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T17:56:00.000Z",
-      "pub_sort_dt": "2026-08-18 01:56:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国解放军称从伊朗战争中汲取了哪些经验 - Breaking Defense",
-      "title_cn": "中国解放军号称从伊朗战争中汲取了哪些经验——突破防御",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxNT3ptVm1YY2x6c0xqeUYzek1HZ3NHUVdPbHNMQmJxVWpRLTh0akNjYTd4bUJIVkhMdXJ0ZlpsMWxDcGkzcmJWa212b01MMEVNcWZSQlBLU3NoUVNMa0d6NlVrYUFwcTBmLXI1SENNVkhMeWczRldadW5jZjlvaTZ5eGhmaWlvcjRSTEFiS1BnemlvYlB4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-17T17:21:41.000Z",
-      "pub_sort_dt": "2026-08-18 01:21:41"
+      "source": "Bloomberg",
+      "title_en": "Frasers将所持德国时装品牌Hugo Boss的股份增至48%",
+      "title_cn": "Frasers将持有德国时装品牌Hugo Boss的股份增至48%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/frasers-lifts-stake-in-german-fashion-house-hugo-boss-to-48",
+      "pub_raw": "2026-08-18T06:46:01.135Z",
+      "pub_sort_dt": "2026-08-18 14:46:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "美元互换窗口提前关闭，印度卢比及债券市场押注情绪退潮",
-      "title_cn": "美元兑窗口提前关闭，印度退卢比及债券市场押注情绪潮",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/indian-rupee-bond-bets-retreat-as-dollar-swap-window-ends-early",
-      "pub_raw": "2026-08-18T03:49:58.286Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
+      "title_en": "布拉斯肯（Braskem）的墨西哥子公司在美国申请第11章破产保护",
+      "title_cn": "布拉斯肯（Braskem）的墨西哥子公司在美国申请第11章破产保护",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/braskem-s-mexico-unit-files-for-chapter-11-bankruptcy-in-us",
+      "pub_raw": "2026-08-18T06:46:01.132Z",
+      "pub_sort_dt": "2026-08-18 14:46:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "亚尔德尼表示，目前尚不打算针对“债券义警”按下恐慌按钮",
-      "title_cn": "亚尔德尼表示，目前尚不打算针对“债券义警”按下恐慌按钮",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/yardeni-warns-bond-vigilantes-stirring-as-us-yields-near-5",
-      "pub_raw": "2026-08-18T03:49:58.269Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
+      "title_en": "英国就业人数下降，职位空缺降至5年低点，就业市场疲软",
+      "title_cn": "英国就业人数下降，职位空缺降至5年低点，就业市场疲软",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/uk-firms-shed-employees-wage-growth-slows-in-tepid-labor-market",
+      "pub_raw": "2026-08-18T06:46:01.128Z",
+      "pub_sort_dt": "2026-08-18 14:46:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "Alphabet在澳大利亚发行的债券表现优于美元债券",
-      "title_cn": "Alphabet在澳大利亚发行的债券表现美元债券",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-kicks-off-aussie-dollar-bond-sale-as-ai-spending-soars",
-      "pub_raw": "2026-08-18T03:49:58.254Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
+      "title_en": "债券市场暴跌致长期债务成本升至数十年来最高水平",
+      "title_cn": "债券市场暴跌导致长期债务成本达到历年来最高水平",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bond-rout-sends-long-term-borrowing-costs-to-highest-in-decades",
+      "pub_raw": "2026-08-18T06:46:01.117Z",
+      "pub_sort_dt": "2026-08-18 14:46:01"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "受加息预期减弱影响，金价在4,400美元附近持稳",
-      "title_cn": "受加息预期影响，金价在4,400美元附近持稳",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/gold-holds-two-day-gain-on-reduced-rate-hike-expectations",
-      "pub_raw": "2026-08-18T03:49:58.251Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Anthropic在IPO前年化营收突破650亿美元",
-      "title_cn": "Anthropic在IPO前年化突破650亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
-      "pub_raw": "2026-08-18T03:49:58.223Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着IPO市场繁荣，香港交易所与首席执行官陈先生续签了合同",
-      "title_cn": "随着IPO市场的繁荣，香港交易所与创始人陈先生续签了合同",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/hkex-renews-ceo-chan-s-contract-for-three-years-amid-ipo-boom",
-      "pub_raw": "2026-08-18T03:49:58.173Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
+      "source": "Reuters",
+      "title_en": "中国外交部长王毅将于8月19日至20日访问韩国",
+      "title_cn": "中国外交部长王毅将于8月19日至20日访问韩国",
+      "url": "https://reut.rs/4zvzALF",
+      "pub_raw": "2026-08-18T06:46:00.988Z",
+      "pub_sort_dt": "2026-08-18 14:46:00"
     },
     {
       "source": "Financial Times",
-      "title_en": "一个讨厌的乔丹山寨品牌如何在中国绕过耐克",
-      "title_cn": "一个讨厌的乔丹山寨品牌如何在中国绕行",
-      "url": "https://www.ft.com/content/9eae7b4f-23fe-47f4-9a95-51f6b401c9e6?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-18T03:49:58.122Z",
-      "pub_sort_dt": "2026-08-18 11:49:58"
+      "title_en": "随着劳动力市场进一步疲软，英国雇主纷纷裁员",
+      "title_cn": "随着劳动力市场进一步疲软，英国雇主纷纷做出裁决",
+      "url": "https://www.ft.com/content/1e9a7365-ee1f-489c-9dea-39a6fc33837b?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-18T06:46:00.952Z",
+      "pub_sort_dt": "2026-08-18 14:46:00"
     },
     {
       "source": "Bloomberg",
-      "title_en": "在经济增长大幅放缓后，习近平的二号人物呼吁加大对经济的支持力度",
-      "title_cn": "在经济增长大幅提速后，习近平二号人物呼吁加大对经济的支持力度",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/xi-s-no-2-urges-more-support-for-economy-after-big-growth-slump",
-      "pub_raw": "2026-08-18T03:33:54.682Z",
-      "pub_sort_dt": "2026-08-18 11:33:54"
+      "title_en": "布里奇沃特中国基金在7月市场暴跌中屹立不倒，而量化基金却惨遭重创",
+      "title_cn": "布里奇沃特中国基金在7月市场暴跌中屹立不倒，而量化基金却惨遭重创",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bridgewater-china-withstands-july-rout-that-left-quants-reeling",
+      "pub_raw": "2026-08-18T06:30:13.279Z",
+      "pub_sort_dt": "2026-08-18 14:30:13"
     },
     {
       "source": "Bloomberg",
-      "title_en": "CSL因有望重回盈利增长轨道，股价创2001年以来最大涨幅",
-      "title_cn": "CSL因有望重回盈利增长轨道，股价创2001年以来最大涨幅",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/australia-s-csl-sees-2027-npat-growth-at-5-at-constant-currency",
-      "pub_raw": "2026-08-18T03:33:54.658Z",
-      "pub_sort_dt": "2026-08-18 11:33:54"
+      "title_en": "债券市场暴跌致长期借贷成本升至数十年来最高水平",
+      "title_cn": "债券市场暴跌导致长期借贷成本达到历年来最高水平",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/bond-slump-sends-long-term-borrowing-costs-to-highest-in-decades",
+      "pub_raw": "2026-08-18T06:14:00.864Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "富时100指数实时行情：随着伊朗核协议希望渐逝，英国股指期货走势暂缓",
+      "title_cn": "富时100指数实时行情：随着伊朗核协议希望渐逝，英国股指期货走势暂缓",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-08-18/ftse-100-live-jobs-data-bonds-trump-iran-oil-prices-hormuz-ai-stocks-pound-what-s-moving-uk-markets-right-now-markets-today-msy8oopb",
+      "pub_raw": "2026-08-18T06:14:00.861Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国计划提前在政府机构中淘汰微软Windows系统",
+      "title_cn": "中国计划提前在政府机构中淘汰微软Windows系统",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/china-axing-microsoft-windows-from-state-agencies-ahead-of-plan",
+      "pub_raw": "2026-08-18T06:14:00.858Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "MCX计划设立印度煤炭和矿石交易所以促进价格发现",
+      "title_cn": "MCX 计划设立印度煤炭和矿石交易以促进价格发现",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/mcx-plans-india-coal-mineral-exchanges-to-boost-price-discovery",
+      "pub_raw": "2026-08-18T06:14:00.722Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
     },
     {
       "source": "Reuters",
-      "title_en": "数据显示，霍尔木兹海峡过境量较上周末略有上升，但仍维持在个位数水平",
-      "title_cn": "数据显示，霍尔木兹海峡过境量较上周末大幅上升，但仍维持在个最低水平",
-      "url": "https://reut.rs/4zj3sdT",
-      "pub_raw": "2026-08-18T03:33:54.548Z",
-      "pub_sort_dt": "2026-08-18 11:33:54"
+      "title_en": "早盘行情：伊朗威胁将采取“全面进攻”姿态，债券投资者群起抗议",
+      "title_cn": "早盘行情：伊朗威胁将采取“全面进攻”姿势，债券投资者群起抗议",
+      "url": "https://reut.rs/3S012Ai",
+      "pub_raw": "2026-08-18T06:14:00.704Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国10年期国债收益率跌至13个月低点",
+      "title_cn": "中国10年期国债首次跌至13个月低点",
+      "url": "https://www.ft.com/content/c3223b7c-6683-42df-9e60-9dbd2dbdfe07?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-18T06:14:00.673Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "AI：就像一台债务制造机",
+      "title_cn": "AI：类似于债务人制造机",
+      "url": "https://www.ft.com/content/b2cbbab2-a51a-48f2-a9da-86d858cd4e86?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-18T06:14:00.645Z",
+      "pub_sort_dt": "2026-08-18 14:14:00"
     },
     {
       "source": "Bloomberg",
-      "title_en": "法庭获悉，巴伦乔伊人对贾登的突袭是一次“有组织的袭击”",
-      "title_cn": "法庭获悉，巴伦乔伊人对贾登的突袭是一次“有组织的袭击”",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/barrenjoey-raid-on-jarden-was-a-coordinated-attack-court-told",
-      "pub_raw": "2026-08-18T03:18:46.902Z",
-      "pub_sort_dt": "2026-08-18 11:18:46"
+      "title_en": "9月即将推出的9部最佳电影、电视剧、书籍、艺术作品和戏剧",
+      "title_cn": "9月即将推出的9部最佳电影、电视剧、书籍、艺术作品和戏剧",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/the-9-best-movies-tv-books-art-and-theater-arriving-in-september",
+      "pub_raw": "2026-08-18T05:57:51.390Z",
+      "pub_sort_dt": "2026-08-18 13:57:51"
     },
     {
       "source": "Bloomberg",
-      "title_en": "德国希望在裕信银行胜诉德国商业银行一案中寻求和平解决",
-      "title_cn": "德国希望在裕信银行胜诉德国商业银行一案中寻求和平解决",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-08-18/germany-is-seeking-peace-in-unicredit-s-commerzbank-victory",
-      "pub_raw": "2026-08-18T03:03:04.077Z",
-      "pub_sort_dt": "2026-08-18 11:03:04"
+      "title_en": "日本同意在澳大利亚测试高超音速导弹及其他导弹",
+      "title_cn": "日本同意在澳大利亚测试高超音速导弹及其他导弹",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/japan-agrees-to-test-hypersonics-other-missiles-in-australia",
+      "pub_raw": "2026-08-18T05:57:51.387Z",
+      "pub_sort_dt": "2026-08-18 13:57:51"
     },
     {
       "source": "Bloomberg",
-      "title_en": "供应紧缩席卷铜市，关键价差大幅扩大",
-      "title_cn": "供应席紧缩卷铜市，关键价差大幅扩大",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/supply-crunch-grips-copper-market-as-key-spread-flares-out",
-      "pub_raw": "2026-08-18T03:03:04.073Z",
-      "pub_sort_dt": "2026-08-18 11:03:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "普拉博沃的“务实”演讲安抚了疲惫的印尼投资者",
-      "title_cn": "普拉博沃的“务实”演讲安抚了一位演讲者",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/prabowo-s-pragmatic-speech-comforts-weary-indonesia-investors",
-      "pub_raw": "2026-08-18T03:03:04.063Z",
-      "pub_sort_dt": "2026-08-18 11:03:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "尽管Nifty指数势头减弱，印度新股发行依然表现亮眼",
-      "title_cn": "尽管Nifty指数激增，印度新股发行依然表现亮眼",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/indian-ipos-shine-bright-even-as-nifty-loses-momentum",
-      "pub_raw": "2026-08-18T02:46:00.201Z",
-      "pub_sort_dt": "2026-08-18 10:46:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "据《Politico》报道，中国国家主席习近平访美期间将缺席联合国会议",
-      "title_cn": "据《Politico》报道，中国国家主席习近平访美期间将缺席联合国会议",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/china-s-xi-to-skip-un-meeting-during-trip-to-us-politico-says",
-      "pub_raw": "2026-08-18T02:46:00.198Z",
-      "pub_sort_dt": "2026-08-18 10:46:00"
+      "title_en": "Situational Awareness 向 Citadel 出售了 Taiyo Yuden 的股份",
+      "title_cn": "态势感知 向 Citadel 出售了 Taiyo Yuden 的股份",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/situational-awareness-sold-taiyo-yuden-shares-to-citadel-others-msy5e92j",
+      "pub_raw": "2026-08-18T05:57:51.377Z",
+      "pub_sort_dt": "2026-08-18 13:57:51"
     },
     {
       "source": "Reuters",
-      "title_en": "美国移民和海关执法局（ICE）提出了一项保险计划，旨在保护执行移民逮捕任务的地方执法人员",
-      "title_cn": "美国移民和海关执法局（ICE）提出了一项保险计划，旨在保护执行移民逮捕任务的地方执法人员",
-      "url": "https://reut.rs/4gfMxAp",
-      "pub_raw": "2026-08-18T02:46:00.073Z",
-      "pub_sort_dt": "2026-08-18 10:46:00"
+      "title_en": "气候灾害：欧洲公共财政面临的下一个冲击",
+      "title_cn": "气候灾害：欧洲公共财政面临的下一个冲击",
+      "url": "https://reut.rs/3U2MUXA",
+      "pub_raw": "2026-08-18T05:57:51.244Z",
+      "pub_sort_dt": "2026-08-18 13:57:51"
     },
     {
       "source": "Bloomberg",
-      "title_en": "沙特在阿曼附近提供石油，这可能是“穿梭交易”的迹象",
-      "title_cn": "沙特在阿曼附近提供石油，这可能是“穿梭交易”的形式",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/saudis-offer-oil-from-near-oman-in-possible-sign-of-shuttling",
-      "pub_raw": "2026-08-18T02:30:02.613Z",
-      "pub_sort_dt": "2026-08-18 10:30:02"
+      "title_en": "随着气温飙升，马拉松训练现已将跑者的防暑措施纳入其中",
+      "title_cn": "随着突发高峰，马拉松训练立即将跑步者的防暑措施纳入其中",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/marathon-training-now-includes-heat-management-for-runners-as-temperatures-soar",
+      "pub_raw": "2026-08-18T05:42:01.229Z",
+      "pub_sort_dt": "2026-08-18 13:42:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "印度贷款机构的美元债券发行额创下近90亿美元的纪录",
-      "title_cn": "印度机构贷款的美元债券发行额约为近90亿美元的历史记录",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/indian-lenders-set-record-with-8-billion-in-dollar-bond-sales",
-      "pub_raw": "2026-08-18T02:30:02.592Z",
-      "pub_sort_dt": "2026-08-18 10:30:02"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "韩国总统李某支持加强自卫能力，称演习并非针对朝鲜",
-      "title_cn": "韩国总统李某支持加强自卫能力，称此举并非针对朝鲜",
-      "url": "https://reut.rs/3U2xB12",
-      "pub_raw": "2026-08-18T02:30:02.571Z",
-      "pub_sort_dt": "2026-08-18 10:30:02"
+      "title_en": "特朗普援引印度大选为例，推动美国选举制度改革",
+      "title_cn": "特朗普援引印度大选，推动美国选举制度改革",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/trump-cites-india-s-elections-to-push-for-us-voting-overhaul",
+      "pub_raw": "2026-08-18T05:42:01.225Z",
+      "pub_sort_dt": "2026-08-18 13:42:01"
     }
   ]
 }
