@@ -1,12 +1,12 @@
 {
-  "update_cst": "2026-08-18 22:01:17 北京时间",
+  "update_cst": "2026-08-18 22:16:39 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 13,
+    "Bloomberg": 14,
     "Financial Times": 2,
-    "Wall Street Journal": 1,
+    "Wall Street Journal": 0,
     "Reuters": 4
   },
   "china_news": [
@@ -94,6 +94,22 @@
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "得克萨斯州高温推高电力需求，美国天然气期货上涨",
+      "title_cn": "得克萨斯州高温推高电力需求，美国天然气期货上涨",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-natural-gas-futures-rise-as-texas-heat-boosts-power-demand",
+      "pub_raw": "2026-08-18T13:58:06.938Z",
+      "pub_sort_dt": "2026-08-18 21:58:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国工业生产连续第二个月增长",
+      "title_cn": "美国工业生产连续第二个月增长",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-industrial-production-rises-0-2-helped-by-factory-output",
+      "pub_raw": "2026-08-18T13:58:06.935Z",
+      "pub_sort_dt": "2026-08-18 21:58:06"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "为亚马逊和微软数据中心服务的燃气厂将推高美国排放量",
       "title_cn": "为亚马逊和微软数据中心服务的燃气厂将推高美国排放量",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/gas-plants-for-amazon-microsoft-data-centers-will-push-us-emissions-higher",
@@ -106,14 +122,6 @@
       "title_cn": "图像卫星显示，一个油轮停泊在已失效的CPC停泊点处",
       "url": "https://www.bloomberg.com/news/articles/2026-08-18/satellite-images-show-tanker-docked-at-a-halted-cpc-mooring",
       "pub_raw": "2026-08-18T13:42:04.253Z",
-      "pub_sort_dt": "2026-08-18 21:42:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国工业生产连续第二个月增长",
-      "title_cn": "美国工业生产连续第二个月增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-industrial-production-rises-0-2-helped-by-factory-output",
-      "pub_raw": "2026-08-18T13:42:04.246Z",
       "pub_sort_dt": "2026-08-18 21:42:04"
     },
     {
@@ -143,7 +151,7 @@
     {
       "source": "Bloomberg",
       "title_en": "迪士尼就与许可证相关的“报复性行动”起诉联邦通信委员会",
-      "title_cn": "迪士尼就与许可证相关的“报复性行动”起诉联邦通信委员会",
+      "title_cn": "迪士尼就与许可证相关的“报复行动”起诉联邦通信委员会",
       "url": "https://www.bloomberg.com/news/articles/2026-08-18/disney-sues-fcc-over-retaliatory-campaign-tied-to-licenses",
       "pub_raw": "2026-08-18T13:26:07.775Z",
       "pub_sort_dt": "2026-08-18 21:26:07"
@@ -215,7 +223,7 @@
     {
       "source": "Bloomberg",
       "title_en": "东非最大证券交易所计划大力推广ETF以满足投资者需求",
-      "title_cn": "东非最大证券交易所计划大力推广ETF以减少需求",
+      "title_cn": "东非最大证券交易所计划大力推广ETF 减少需求",
       "url": "https://www.bloomberg.com/news/articles/2026-08-18/top-east-africa-bourse-plans-etf-push-to-tap-investor-demand",
       "pub_raw": "2026-08-18T12:38:11.695Z",
       "pub_sort_dt": "2026-08-18 20:38:11"
@@ -231,7 +239,7 @@
     {
       "source": "Reuters",
       "title_en": "Worldpanel称，英国食品杂货通胀率进一步放缓",
-      "title_cn": "世界消费指数称，英国食品杂货通胀率进一步下调",
+      "title_cn": "世界指数称，英国食品杂货通胀率进一步下调",
       "url": "https://reut.rs/4xa8WpY",
       "pub_raw": "2026-08-18T12:38:11.514Z",
       "pub_sort_dt": "2026-08-18 20:38:11"
@@ -243,14 +251,6 @@
       "url": "https://reut.rs/4gdILY5",
       "pub_raw": "2026-08-18T12:38:11.510Z",
       "pub_sort_dt": "2026-08-18 20:38:11"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "迪士尼旗下的ABC因广播执照遭质疑而起诉联邦通信委员会",
-      "title_cn": "迪士尼宣布 ABC 因广播遭质疑并起诉联邦通信委员会",
-      "url": "https://on.wsj.com/4gdLPDz",
-      "pub_raw": "2026-08-18T12:38:10.884Z",
-      "pub_sort_dt": "2026-08-18 20:38:10"
     }
   ],
   "news": [
@@ -336,6 +336,22 @@
     },
     {
       "source": "Bloomberg",
+      "title_en": "得克萨斯州高温推高电力需求，美国天然气期货上涨",
+      "title_cn": "得克萨斯州高温推高电力需求，美国天然气期货上涨",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-natural-gas-futures-rise-as-texas-heat-boosts-power-demand",
+      "pub_raw": "2026-08-18T13:58:06.938Z",
+      "pub_sort_dt": "2026-08-18 21:58:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国工业生产连续第二个月增长",
+      "title_cn": "美国工业生产连续第二个月增长",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-industrial-production-rises-0-2-helped-by-factory-output",
+      "pub_raw": "2026-08-18T13:58:06.935Z",
+      "pub_sort_dt": "2026-08-18 21:58:06"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "为亚马逊和微软数据中心服务的燃气厂将推高美国排放量",
       "title_cn": "为亚马逊和微软数据中心服务的燃气厂将推高美国排放量",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/gas-plants-for-amazon-microsoft-data-centers-will-push-us-emissions-higher",
@@ -348,14 +364,6 @@
       "title_cn": "图像卫星显示，一个油轮停泊在已失效的CPC停泊点处",
       "url": "https://www.bloomberg.com/news/articles/2026-08-18/satellite-images-show-tanker-docked-at-a-halted-cpc-mooring",
       "pub_raw": "2026-08-18T13:42:04.253Z",
-      "pub_sort_dt": "2026-08-18 21:42:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国工业生产连续第二个月增长",
-      "title_cn": "美国工业生产连续第二个月增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-industrial-production-rises-0-2-helped-by-factory-output",
-      "pub_raw": "2026-08-18T13:42:04.246Z",
       "pub_sort_dt": "2026-08-18 21:42:04"
     },
     {
@@ -385,7 +393,7 @@
     {
       "source": "Bloomberg",
       "title_en": "迪士尼就与许可证相关的“报复性行动”起诉联邦通信委员会",
-      "title_cn": "迪士尼就与许可证相关的“报复性行动”起诉联邦通信委员会",
+      "title_cn": "迪士尼就与许可证相关的“报复行动”起诉联邦通信委员会",
       "url": "https://www.bloomberg.com/news/articles/2026-08-18/disney-sues-fcc-over-retaliatory-campaign-tied-to-licenses",
       "pub_raw": "2026-08-18T13:26:07.775Z",
       "pub_sort_dt": "2026-08-18 21:26:07"
@@ -457,7 +465,7 @@
     {
       "source": "Bloomberg",
       "title_en": "东非最大证券交易所计划大力推广ETF以满足投资者需求",
-      "title_cn": "东非最大证券交易所计划大力推广ETF以减少需求",
+      "title_cn": "东非最大证券交易所计划大力推广ETF 减少需求",
       "url": "https://www.bloomberg.com/news/articles/2026-08-18/top-east-africa-bourse-plans-etf-push-to-tap-investor-demand",
       "pub_raw": "2026-08-18T12:38:11.695Z",
       "pub_sort_dt": "2026-08-18 20:38:11"
@@ -473,7 +481,7 @@
     {
       "source": "Reuters",
       "title_en": "Worldpanel称，英国食品杂货通胀率进一步放缓",
-      "title_cn": "世界消费指数称，英国食品杂货通胀率进一步下调",
+      "title_cn": "世界指数称，英国食品杂货通胀率进一步下调",
       "url": "https://reut.rs/4xa8WpY",
       "pub_raw": "2026-08-18T12:38:11.514Z",
       "pub_sort_dt": "2026-08-18 20:38:11"
@@ -485,14 +493,6 @@
       "url": "https://reut.rs/4gdILY5",
       "pub_raw": "2026-08-18T12:38:11.510Z",
       "pub_sort_dt": "2026-08-18 20:38:11"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "迪士尼旗下的ABC因广播执照遭质疑而起诉联邦通信委员会",
-      "title_cn": "迪士尼宣布 ABC 因广播遭质疑并起诉联邦通信委员会",
-      "url": "https://on.wsj.com/4gdLPDz",
-      "pub_raw": "2026-08-18T12:38:10.884Z",
-      "pub_sort_dt": "2026-08-18 20:38:10"
     }
   ]
 }
