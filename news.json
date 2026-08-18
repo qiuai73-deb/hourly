@@ -1,15 +1,23 @@
 {
-  "update_cst": "2026-08-18 15:01:01 北京时间",
+  "update_cst": "2026-08-18 15:41:42 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
     "Bloomberg": 14,
-    "Financial Times": 3,
+    "Financial Times": 2,
     "Wall Street Journal": 0,
-    "Reuters": 3
+    "Reuters": 4
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国最著名的喜剧演员因调侃一首共产主义歌曲而受到调查 - CNN",
+      "title_cn": "中国最著名的喜剧演员因调侃一首共产主义歌曲而接受调查 - CNN",
+      "url": "https://news.google.com/read/CBMijAFBVV95cUxOYS1fa3g4RG5PWS13Z1BEUUtmcGVkOVRJUExLRnpic3JqdWF4ZjhDRXUxN2NwV1hRWnVTWVZKVTh1R2RZQmd1UDhmRXRKSkRtaVBETHhrbm4zN0NKZ3FfbXNxYVdNVDl2MDVmSEVuekJlRE44djZVdFlWaFZIcmNzU0o0UnYzZVhkQnZIOQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T06:47:23.000Z",
+      "pub_sort_dt": "2026-08-18 14:47:23"
+    },
     {
       "source": "China Buzzing",
       "title_en": "收紧管控：中国加强出境规定 - France 24",
@@ -69,7 +77,7 @@
     {
       "source": "China Buzzing",
       "title_en": "新出生的大熊猫幼崽引发中韩联合命名投票，五项候选名称入围 - Global Times",
-      "title_cn": "新出生的大熊猫幼崽引发中韩联合投票，五项候选名称入围 - 环球时报",
+      "title_cn": "新出生的大熊猫幼仔引发中韩联合投票，五项候选名称入围 - 环球时报",
       "url": "https://news.google.com/read/CBMiYkFVX3lxTE9oTXFjRkZIWnhyc2VaU3I4X2VQVWxnN0pUdXlBdDI1ZTFOZWFIa3lyaklNT0tmNnVQSnZDU2Y3dDhOcHlPelBHSnVPVHloeVd5VE1wQ3VIZjZQc3NVZndUemN3?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-18T03:11:00.000Z",
       "pub_sort_dt": "2026-08-18 11:11:00"
@@ -81,24 +89,96 @@
       "url": "https://news.google.com/read/CBMihAFBVV95cUxPc3dGX0xRQjZVbmZpU0ltUUZ1V25hYzNBYXRlY1I3eWNrbndROUw0dmRTTEUwdEJaMmtiT3dZTWJ1UC01dmRveUJEVFJMMHBOM01KSWxTVkd1QXJqb19CUm52TzVoT1BETlZ2VVprTHMyRTVGTElWeU1rS3RFdWNLUXY2N1A?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-18T02:58:30.000Z",
       "pub_sort_dt": "2026-08-18 10:58:30"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "独家：谷歌计划于2027年停止在中国生产Pixel产品 - Nikkei Asia",
-      "title_cn": "独家：谷歌计划于2027年停止在中国生产Pixel产品 - 日经亚洲",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxNNWVmdnZtTU1kbEJYU0c4TDFCSnF0Wmo5ci1iTFJHX2Q0ckF2cWJJNTc0eTdjUjNhbUhkbDVtTVJqdmlzTXRYLXFhLU8wYWRsbEdid2VaR3lKck1oU2N0SjFpc2hUQ1ZSWWwxR2FGUVgtYzQ0Q0ZyMmp2RDFVN1EyTUtmQjUxVjA0b0VIYkZ6S1Q5bHVYQXc2RVJYcEFIUWVLVmhvbEFuS3dSTS1sOTBDRU9SU3NoUnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T02:30:00.000Z",
-      "pub_sort_dt": "2026-08-18 10:30:00"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
-      "title_en": "Frasers将所持德国时装品牌Hugo Boss的股份增至48%",
-      "title_cn": "Frasers将持有德国时装品牌Hugo Boss的股份增至48%",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/frasers-lifts-stake-in-german-fashion-house-hugo-boss-to-48",
-      "pub_raw": "2026-08-18T06:46:01.135Z",
-      "pub_sort_dt": "2026-08-18 14:46:01"
+      "title_en": "尽管人工智能带来了一线希望，但英国劳动力市场仍在持续走弱",
+      "title_cn": "尽管人工智能带来了一线希望，但英国劳动力市场仍持续走弱",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/uk-s-labour-market-continues-to-weaken-though-ai-offers-glimmer-of-hope",
+      "pub_raw": "2026-08-18T07:34:28.466Z",
+      "pub_sort_dt": "2026-08-18 15:34:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国股指期货下跌，因债券收益率和油价上涨",
+      "title_cn": "美国股指期货下跌，因债券和美元上涨",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-stock-index-futures-drop-as-bond-yields-oil-prices-rise",
+      "pub_raw": "2026-08-18T07:34:28.459Z",
+      "pub_sort_dt": "2026-08-18 15:34:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国提前实施计划，在政府用户中移除微软Windows系统",
+      "title_cn": "中国实施提前计划，在政府用户中删除微软Windows系统",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/china-axing-microsoft-windows-from-state-agencies-ahead-of-plan",
+      "pub_raw": "2026-08-18T07:34:28.452Z",
+      "pub_sort_dt": "2026-08-18 15:34:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "债券抛售引发避险情绪，股市下跌：市场综述",
+      "title_cn": "债券抛售引发避险情绪，股市下跌：市场综述",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
+      "pub_raw": "2026-08-18T07:34:28.381Z",
+      "pub_sort_dt": "2026-08-18 15:34:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "英国食品通胀率降至2024年10月以来最低水平，英国人争相寻找优惠",
+      "title_cn": "英国食品通胀率降至2024年10月以来最低水平，英国人争相寻找价格",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/uk-food-inflation-at-lowest-since-october-2024-as-britons-hunt-for-deals",
+      "pub_raw": "2026-08-18T07:18:03.634Z",
+      "pub_sort_dt": "2026-08-18 15:18:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "收益率上升可能令亚洲由人工智能驱动的股市涨势戛然而止",
+      "title_cn": "由人工智能驱动的股市上涨势必然终止",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/rising-yields-threaten-to-puncture-asia-s-ai-driven-stock-rally",
+      "pub_raw": "2026-08-18T07:18:03.631Z",
+      "pub_sort_dt": "2026-08-18 15:18:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "英国就业人数下降，职位空缺降至5年新低，就业市场疲软",
+      "title_cn": "英国就业人数下降，职位空缺降至5年来新低，就业市场疲软",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/uk-firms-shed-employees-wage-growth-slows-in-tepid-labor-market",
+      "pub_raw": "2026-08-18T07:18:03.621Z",
+      "pub_sort_dt": "2026-08-18 15:18:03"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国为前总理朱镕基的葬礼下半旗、加强安保",
+      "title_cn": "中国为前总理朱镕基的葬礼下半旗、加强安保",
+      "url": "https://reut.rs/4g5dZSr",
+      "pub_raw": "2026-08-18T07:18:03.481Z",
+      "pub_sort_dt": "2026-08-18 15:18:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "债券市场暴跌导致长期债务成本升至数十年来最高水平",
+      "title_cn": "债券市场暴跌导致长期债务成本达到多年来最高水平",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bond-rout-sends-long-term-borrowing-costs-to-highest-in-decades",
+      "pub_raw": "2026-08-18T07:02:07.472Z",
+      "pub_sort_dt": "2026-08-18 15:02:07"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "对冲基金税收优惠席卷香港，银行担忧资金外流",
+      "title_cn": "对冲基金股票估值卷香港，银行担忧资金外流",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/hedge-fund-tax-break-grips-hong-kong-as-banks-fear-exodus",
+      "pub_raw": "2026-08-18T07:02:07.417Z",
+      "pub_sort_dt": "2026-08-18 15:02:07"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "哥伦比亚总统将此次地震造成的初步损失估算为96亿美元",
+      "title_cn": "哥伦比亚总统将地震造成的初步损失预计为96亿美元",
+      "url": "https://reut.rs/46bFNi4",
+      "pub_raw": "2026-08-18T07:02:07.339Z",
+      "pub_sort_dt": "2026-08-18 15:02:07"
     },
     {
       "source": "Bloomberg",
@@ -106,22 +186,6 @@
       "title_cn": "布拉斯肯（Braskem）的墨西哥子公司在美国申请第11章破产保护",
       "url": "https://www.bloomberg.com/news/articles/2026-08-18/braskem-s-mexico-unit-files-for-chapter-11-bankruptcy-in-us",
       "pub_raw": "2026-08-18T06:46:01.132Z",
-      "pub_sort_dt": "2026-08-18 14:46:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "英国就业人数下降，职位空缺降至5年低点，就业市场疲软",
-      "title_cn": "英国就业人数下降，职位空缺降至5年低点，就业市场疲软",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/uk-firms-shed-employees-wage-growth-slows-in-tepid-labor-market",
-      "pub_raw": "2026-08-18T06:46:01.128Z",
-      "pub_sort_dt": "2026-08-18 14:46:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "债券市场暴跌致长期债务成本升至数十年来最高水平",
-      "title_cn": "债券市场暴跌导致长期债务成本达到历年来最高水平",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bond-rout-sends-long-term-borrowing-costs-to-highest-in-decades",
-      "pub_raw": "2026-08-18T06:46:01.117Z",
       "pub_sort_dt": "2026-08-18 14:46:01"
     },
     {
@@ -166,14 +230,6 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "中国计划提前在政府机构中淘汰微软Windows系统",
-      "title_cn": "中国计划提前在政府机构中淘汰微软Windows系统",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/china-axing-microsoft-windows-from-state-agencies-ahead-of-plan",
-      "pub_raw": "2026-08-18T06:14:00.858Z",
-      "pub_sort_dt": "2026-08-18 14:14:00"
-    },
-    {
-      "source": "Bloomberg",
       "title_en": "MCX计划设立印度煤炭和矿石交易所以促进价格发现",
       "title_cn": "MCX 计划设立印度煤炭和矿石交易以促进价格发现",
       "url": "https://www.bloomberg.com/news/articles/2026-08-17/mcx-plans-india-coal-mineral-exchanges-to-boost-price-discovery",
@@ -195,65 +251,17 @@
       "url": "https://www.ft.com/content/c3223b7c-6683-42df-9e60-9dbd2dbdfe07?syn-25a6b1a6=1",
       "pub_raw": "2026-08-18T06:14:00.673Z",
       "pub_sort_dt": "2026-08-18 14:14:00"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "AI：就像一台债务制造机",
-      "title_cn": "AI：类似于债务人制造机",
-      "url": "https://www.ft.com/content/b2cbbab2-a51a-48f2-a9da-86d858cd4e86?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-18T06:14:00.645Z",
-      "pub_sort_dt": "2026-08-18 14:14:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "9月即将推出的9部最佳电影、电视剧、书籍、艺术作品和戏剧",
-      "title_cn": "9月即将推出的9部最佳电影、电视剧、书籍、艺术作品和戏剧",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/the-9-best-movies-tv-books-art-and-theater-arriving-in-september",
-      "pub_raw": "2026-08-18T05:57:51.390Z",
-      "pub_sort_dt": "2026-08-18 13:57:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "日本同意在澳大利亚测试高超音速导弹及其他导弹",
-      "title_cn": "日本同意在澳大利亚测试高超音速导弹及其他导弹",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/japan-agrees-to-test-hypersonics-other-missiles-in-australia",
-      "pub_raw": "2026-08-18T05:57:51.387Z",
-      "pub_sort_dt": "2026-08-18 13:57:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Situational Awareness 向 Citadel 出售了 Taiyo Yuden 的股份",
-      "title_cn": "态势感知 向 Citadel 出售了 Taiyo Yuden 的股份",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/situational-awareness-sold-taiyo-yuden-shares-to-citadel-others-msy5e92j",
-      "pub_raw": "2026-08-18T05:57:51.377Z",
-      "pub_sort_dt": "2026-08-18 13:57:51"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "气候灾害：欧洲公共财政面临的下一个冲击",
-      "title_cn": "气候灾害：欧洲公共财政面临的下一个冲击",
-      "url": "https://reut.rs/3U2MUXA",
-      "pub_raw": "2026-08-18T05:57:51.244Z",
-      "pub_sort_dt": "2026-08-18 13:57:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着气温飙升，马拉松训练现已将跑者的防暑措施纳入其中",
-      "title_cn": "随着突发高峰，马拉松训练立即将跑步者的防暑措施纳入其中",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/marathon-training-now-includes-heat-management-for-runners-as-temperatures-soar",
-      "pub_raw": "2026-08-18T05:42:01.229Z",
-      "pub_sort_dt": "2026-08-18 13:42:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普援引印度大选为例，推动美国选举制度改革",
-      "title_cn": "特朗普援引印度大选，推动美国选举制度改革",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/trump-cites-india-s-elections-to-push-for-us-voting-overhaul",
-      "pub_raw": "2026-08-18T05:42:01.225Z",
-      "pub_sort_dt": "2026-08-18 13:42:01"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国最著名的喜剧演员因调侃一首共产主义歌曲而受到调查 - CNN",
+      "title_cn": "中国最著名的喜剧演员因调侃一首共产主义歌曲而接受调查 - CNN",
+      "url": "https://news.google.com/read/CBMijAFBVV95cUxOYS1fa3g4RG5PWS13Z1BEUUtmcGVkOVRJUExLRnpic3JqdWF4ZjhDRXUxN2NwV1hRWnVTWVZKVTh1R2RZQmd1UDhmRXRKSkRtaVBETHhrbm4zN0NKZ3FfbXNxYVdNVDl2MDVmSEVuekJlRE44djZVdFlWaFZIcmNzU0o0UnYzZVhkQnZIOQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T06:47:23.000Z",
+      "pub_sort_dt": "2026-08-18 14:47:23"
+    },
     {
       "source": "China Buzzing",
       "title_en": "收紧管控：中国加强出境规定 - France 24",
@@ -313,7 +321,7 @@
     {
       "source": "China Buzzing",
       "title_en": "新出生的大熊猫幼崽引发中韩联合命名投票，五项候选名称入围 - Global Times",
-      "title_cn": "新出生的大熊猫幼崽引发中韩联合投票，五项候选名称入围 - 环球时报",
+      "title_cn": "新出生的大熊猫幼仔引发中韩联合投票，五项候选名称入围 - 环球时报",
       "url": "https://news.google.com/read/CBMiYkFVX3lxTE9oTXFjRkZIWnhyc2VaU3I4X2VQVWxnN0pUdXlBdDI1ZTFOZWFIa3lyaklNT0tmNnVQSnZDU2Y3dDhOcHlPelBHSnVPVHloeVd5VE1wQ3VIZjZQc3NVZndUemN3?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-18T03:11:00.000Z",
       "pub_sort_dt": "2026-08-18 11:11:00"
@@ -327,20 +335,92 @@
       "pub_sort_dt": "2026-08-18 10:58:30"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "独家：谷歌计划于2027年停止在中国生产Pixel产品 - Nikkei Asia",
-      "title_cn": "独家：谷歌计划于2027年停止在中国生产Pixel产品 - 日经亚洲",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxNNWVmdnZtTU1kbEJYU0c4TDFCSnF0Wmo5ci1iTFJHX2Q0ckF2cWJJNTc0eTdjUjNhbUhkbDVtTVJqdmlzTXRYLXFhLU8wYWRsbEdid2VaR3lKck1oU2N0SjFpc2hUQ1ZSWWwxR2FGUVgtYzQ0Q0ZyMmp2RDFVN1EyTUtmQjUxVjA0b0VIYkZ6S1Q5bHVYQXc2RVJYcEFIUWVLVmhvbEFuS3dSTS1sOTBDRU9SU3NoUnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T02:30:00.000Z",
-      "pub_sort_dt": "2026-08-18 10:30:00"
+      "source": "Bloomberg",
+      "title_en": "尽管人工智能带来了一线希望，但英国劳动力市场仍在持续走弱",
+      "title_cn": "尽管人工智能带来了一线希望，但英国劳动力市场仍持续走弱",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/uk-s-labour-market-continues-to-weaken-though-ai-offers-glimmer-of-hope",
+      "pub_raw": "2026-08-18T07:34:28.466Z",
+      "pub_sort_dt": "2026-08-18 15:34:28"
     },
     {
       "source": "Bloomberg",
-      "title_en": "Frasers将所持德国时装品牌Hugo Boss的股份增至48%",
-      "title_cn": "Frasers将持有德国时装品牌Hugo Boss的股份增至48%",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/frasers-lifts-stake-in-german-fashion-house-hugo-boss-to-48",
-      "pub_raw": "2026-08-18T06:46:01.135Z",
-      "pub_sort_dt": "2026-08-18 14:46:01"
+      "title_en": "美国股指期货下跌，因债券收益率和油价上涨",
+      "title_cn": "美国股指期货下跌，因债券和美元上涨",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-stock-index-futures-drop-as-bond-yields-oil-prices-rise",
+      "pub_raw": "2026-08-18T07:34:28.459Z",
+      "pub_sort_dt": "2026-08-18 15:34:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国提前实施计划，在政府用户中移除微软Windows系统",
+      "title_cn": "中国实施提前计划，在政府用户中删除微软Windows系统",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/china-axing-microsoft-windows-from-state-agencies-ahead-of-plan",
+      "pub_raw": "2026-08-18T07:34:28.452Z",
+      "pub_sort_dt": "2026-08-18 15:34:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "债券抛售引发避险情绪，股市下跌：市场综述",
+      "title_cn": "债券抛售引发避险情绪，股市下跌：市场综述",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
+      "pub_raw": "2026-08-18T07:34:28.381Z",
+      "pub_sort_dt": "2026-08-18 15:34:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "英国食品通胀率降至2024年10月以来最低水平，英国人争相寻找优惠",
+      "title_cn": "英国食品通胀率降至2024年10月以来最低水平，英国人争相寻找价格",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/uk-food-inflation-at-lowest-since-october-2024-as-britons-hunt-for-deals",
+      "pub_raw": "2026-08-18T07:18:03.634Z",
+      "pub_sort_dt": "2026-08-18 15:18:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "收益率上升可能令亚洲由人工智能驱动的股市涨势戛然而止",
+      "title_cn": "由人工智能驱动的股市上涨势必然终止",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/rising-yields-threaten-to-puncture-asia-s-ai-driven-stock-rally",
+      "pub_raw": "2026-08-18T07:18:03.631Z",
+      "pub_sort_dt": "2026-08-18 15:18:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "英国就业人数下降，职位空缺降至5年新低，就业市场疲软",
+      "title_cn": "英国就业人数下降，职位空缺降至5年来新低，就业市场疲软",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/uk-firms-shed-employees-wage-growth-slows-in-tepid-labor-market",
+      "pub_raw": "2026-08-18T07:18:03.621Z",
+      "pub_sort_dt": "2026-08-18 15:18:03"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国为前总理朱镕基的葬礼下半旗、加强安保",
+      "title_cn": "中国为前总理朱镕基的葬礼下半旗、加强安保",
+      "url": "https://reut.rs/4g5dZSr",
+      "pub_raw": "2026-08-18T07:18:03.481Z",
+      "pub_sort_dt": "2026-08-18 15:18:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "债券市场暴跌导致长期债务成本升至数十年来最高水平",
+      "title_cn": "债券市场暴跌导致长期债务成本达到多年来最高水平",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bond-rout-sends-long-term-borrowing-costs-to-highest-in-decades",
+      "pub_raw": "2026-08-18T07:02:07.472Z",
+      "pub_sort_dt": "2026-08-18 15:02:07"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "对冲基金税收优惠席卷香港，银行担忧资金外流",
+      "title_cn": "对冲基金股票估值卷香港，银行担忧资金外流",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/hedge-fund-tax-break-grips-hong-kong-as-banks-fear-exodus",
+      "pub_raw": "2026-08-18T07:02:07.417Z",
+      "pub_sort_dt": "2026-08-18 15:02:07"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "哥伦比亚总统将此次地震造成的初步损失估算为96亿美元",
+      "title_cn": "哥伦比亚总统将地震造成的初步损失预计为96亿美元",
+      "url": "https://reut.rs/46bFNi4",
+      "pub_raw": "2026-08-18T07:02:07.339Z",
+      "pub_sort_dt": "2026-08-18 15:02:07"
     },
     {
       "source": "Bloomberg",
@@ -348,22 +428,6 @@
       "title_cn": "布拉斯肯（Braskem）的墨西哥子公司在美国申请第11章破产保护",
       "url": "https://www.bloomberg.com/news/articles/2026-08-18/braskem-s-mexico-unit-files-for-chapter-11-bankruptcy-in-us",
       "pub_raw": "2026-08-18T06:46:01.132Z",
-      "pub_sort_dt": "2026-08-18 14:46:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "英国就业人数下降，职位空缺降至5年低点，就业市场疲软",
-      "title_cn": "英国就业人数下降，职位空缺降至5年低点，就业市场疲软",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/uk-firms-shed-employees-wage-growth-slows-in-tepid-labor-market",
-      "pub_raw": "2026-08-18T06:46:01.128Z",
-      "pub_sort_dt": "2026-08-18 14:46:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "债券市场暴跌致长期债务成本升至数十年来最高水平",
-      "title_cn": "债券市场暴跌导致长期债务成本达到历年来最高水平",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bond-rout-sends-long-term-borrowing-costs-to-highest-in-decades",
-      "pub_raw": "2026-08-18T06:46:01.117Z",
       "pub_sort_dt": "2026-08-18 14:46:01"
     },
     {
@@ -408,14 +472,6 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "中国计划提前在政府机构中淘汰微软Windows系统",
-      "title_cn": "中国计划提前在政府机构中淘汰微软Windows系统",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/china-axing-microsoft-windows-from-state-agencies-ahead-of-plan",
-      "pub_raw": "2026-08-18T06:14:00.858Z",
-      "pub_sort_dt": "2026-08-18 14:14:00"
-    },
-    {
-      "source": "Bloomberg",
       "title_en": "MCX计划设立印度煤炭和矿石交易所以促进价格发现",
       "title_cn": "MCX 计划设立印度煤炭和矿石交易以促进价格发现",
       "url": "https://www.bloomberg.com/news/articles/2026-08-17/mcx-plans-india-coal-mineral-exchanges-to-boost-price-discovery",
@@ -437,62 +493,6 @@
       "url": "https://www.ft.com/content/c3223b7c-6683-42df-9e60-9dbd2dbdfe07?syn-25a6b1a6=1",
       "pub_raw": "2026-08-18T06:14:00.673Z",
       "pub_sort_dt": "2026-08-18 14:14:00"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "AI：就像一台债务制造机",
-      "title_cn": "AI：类似于债务人制造机",
-      "url": "https://www.ft.com/content/b2cbbab2-a51a-48f2-a9da-86d858cd4e86?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-18T06:14:00.645Z",
-      "pub_sort_dt": "2026-08-18 14:14:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "9月即将推出的9部最佳电影、电视剧、书籍、艺术作品和戏剧",
-      "title_cn": "9月即将推出的9部最佳电影、电视剧、书籍、艺术作品和戏剧",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/the-9-best-movies-tv-books-art-and-theater-arriving-in-september",
-      "pub_raw": "2026-08-18T05:57:51.390Z",
-      "pub_sort_dt": "2026-08-18 13:57:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "日本同意在澳大利亚测试高超音速导弹及其他导弹",
-      "title_cn": "日本同意在澳大利亚测试高超音速导弹及其他导弹",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/japan-agrees-to-test-hypersonics-other-missiles-in-australia",
-      "pub_raw": "2026-08-18T05:57:51.387Z",
-      "pub_sort_dt": "2026-08-18 13:57:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Situational Awareness 向 Citadel 出售了 Taiyo Yuden 的股份",
-      "title_cn": "态势感知 向 Citadel 出售了 Taiyo Yuden 的股份",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/situational-awareness-sold-taiyo-yuden-shares-to-citadel-others-msy5e92j",
-      "pub_raw": "2026-08-18T05:57:51.377Z",
-      "pub_sort_dt": "2026-08-18 13:57:51"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "气候灾害：欧洲公共财政面临的下一个冲击",
-      "title_cn": "气候灾害：欧洲公共财政面临的下一个冲击",
-      "url": "https://reut.rs/3U2MUXA",
-      "pub_raw": "2026-08-18T05:57:51.244Z",
-      "pub_sort_dt": "2026-08-18 13:57:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着气温飙升，马拉松训练现已将跑者的防暑措施纳入其中",
-      "title_cn": "随着突发高峰，马拉松训练立即将跑步者的防暑措施纳入其中",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/marathon-training-now-includes-heat-management-for-runners-as-temperatures-soar",
-      "pub_raw": "2026-08-18T05:42:01.229Z",
-      "pub_sort_dt": "2026-08-18 13:42:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普援引印度大选为例，推动美国选举制度改革",
-      "title_cn": "特朗普援引印度大选，推动美国选举制度改革",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/trump-cites-india-s-elections-to-push-for-us-voting-overhaul",
-      "pub_raw": "2026-08-18T05:42:01.225Z",
-      "pub_sort_dt": "2026-08-18 13:42:01"
     }
   ]
 }
