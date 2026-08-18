@@ -1,449 +1,144 @@
-html = """<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>外媒新闻聚合站</title>
-
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: system-ui, -apple-system, "Microsoft Yahei", sans-serif;
+        * {margin:0; padding:0; box-sizing:border-box; font-family:system-ui, -apple-system, "Microsoft Yahei", sans-serif;}
+        body {background:#f5f7fa; color:#222; padding:20px; max-width:1400px; margin:0 auto;}
+        header {background:#fff; border-radius:12px; padding:24px; margin-bottom:20px; box-shadow:0 2px 10px #0000000a;}
+        h1 {font-size:26px; margin-bottom:10px; color:#1a365d;}
+        .meta-info {color:#666; font-size:14px; line-height:1.8;}
+        .source-stats {margin-top:12px; display:flex; flex-wrap:wrap; gap:8px;}
+        .tag {background:#e6f0ff; color:#0056b3; padding:4px 10px; border-radius:20px; font-size:13px;}
+
+        /* 顶部综合最新15条区块 */
+        .top-latest-block {
+            background:#0f2b59;
+            border-radius:12px;
+            padding:22px;
+            margin-bottom:24px;
+            color:#fff;
         }
-
-        body {
-            background: #f5f7fa;
-            color: #222;
-            padding: 20px;
-            max-width: 1400px;
-            margin: 0 auto;
+        .top-block-title {
+            font-size:20px;
+            font-weight:600;
+            margin-bottom:16px;
+            border-left:5px solid #42a5f5;
+            padding-left:12px;
         }
-
-        header {
-            background: #fff;
-            border-radius: 12px;
-            padding: 24px;
-            margin-bottom: 20px;
-            box-shadow: 0 2px 10px #0000000a;
+        .top-news-item {
+            border-bottom:1px solid rgba(255,255,255,0.15);
+            padding:12px 8px;
+            cursor:pointer;
+            transition:background 0.2s;
         }
+        .top-news-item:hover {background:rgba(255,255,255,0.08);}
+        .top-cn-title {font-size:16px; font-weight:500; margin-bottom:4px;}
+        .top-meta-row {display:flex; gap:16px; font-size:12px; opacity:0.85;}
 
-        h1 {
-            font-size: 26px;
-            margin-bottom: 10px;
-            color: #1a365d;
-        }
-
-        .meta-info {
-            color: #666;
-            font-size: 14px;
-            line-height: 1.8;
-        }
-
-        .source-stats {
-            margin-top: 12px;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-        }
-
-        .tag {
-            background: #e6f0ff;
-            color: #0056b3;
-            padding: 4px 10px;
-            border-radius: 20px;
-            font-size: 13px;
-        }
-
-        /* =========================
-           两个新闻区域
-           ========================= */
-
-        .section {
-            background: #fff;
-            border-radius: 12px;
-            padding: 20px;
-            margin-bottom: 20px;
-            box-shadow: 0 2px 8px #00000008;
-        }
-
-        .section-title {
-            font-size: 20px;
-            font-weight: 600;
-            margin-bottom: 14px;
-            color: #112948;
-            border-left: 5px solid #0066cc;
-            padding-left: 12px;
-        }
-
-        .section-title.china {
-            border-left-color: #d32f2f;
-        }
-
-        .section-title.media {
-            border-left-color: #0066cc;
-        }
-
-        .news-item {
-            border-bottom: 1px solid #eee;
-            padding: 14px 8px;
-            cursor: pointer;
-            transition: background 0.2s;
-        }
-
-        .news-item:last-child {
-            border-bottom: none;
-        }
-
-        .news-item:hover {
-            background: #f0f7ff;
-        }
-
-        .cn-title {
-            font-size: 16px;
-            font-weight: 600;
-            margin-bottom: 5px;
-            color: #111;
-            line-height: 1.55;
-        }
-
-        .en-title {
-            font-size: 13px;
-            color: #666;
-            line-height: 1.5;
-            margin-bottom: 6px;
-        }
-
-        .meta-row {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 14px;
-            font-size: 12px;
-            color: #888;
-        }
-
-        .source-label {
-            color: #555;
-            font-weight: 500;
-        }
-
-        .empty {
-            text-align: center;
-            padding: 30px;
-            color: #888;
-        }
-
-        .loading {
-            text-align: center;
-            padding: 60px;
-            font-size: 18px;
-            color: #555;
-        }
-
-        .error-box {
-            color: #dc2626;
-            text-align: center;
-            padding: 60px;
-            font-size: 16px;
-            line-height: 1.8;
-        }
-
-        @media (max-width: 700px) {
-            body {
-                padding: 10px;
-            }
-
-            header,
-            .section {
-                padding: 15px;
-            }
-
-            h1 {
-                font-size: 22px;
-            }
-
-            .cn-title {
-                font-size: 15px;
-            }
-
-            .en-title {
-                font-size: 12px;
-            }
-        }
-    </style>
-</head>
-
-<body>
-
-<header>
-    <h1>🌍 境外媒体新闻聚合</h1>
-
-    <div class="meta-info">
-        <div id="update-time">加载中...</div>
-        <div id="total-count"></div>
-        <div class="source-stats" id="stats-container"></div>
-    </div>
-</header>
-
-<main id="news-container">
-    <div class="loading">正在拉取最新新闻数据，请稍候...</div>
-</main>
-
-<script>
-
-/* =========================
-   创建单条新闻
-   不显示摘要
-   ========================= */
-
-function createNewsItem(news) {
-    const itemDom = document.createElement("div");
-    itemDom.className = "news-item";
-
-    const cnTitle = news.title_cn || news.title_en || "无标题";
-    const enTitle = news.title_en || "";
-    const source = news.source || "未知来源";
-    const pubTime = news.pub_sort_dt || news.pub_raw || "未知时间";
-
-    itemDom.innerHTML = `
-        <div class="cn-title">${escapeHtml(cnTitle)}</div>
-        <div class="en-title">${escapeHtml(enTitle)}</div>
-        <div class="meta-row">
-            <span class="source-label">来源：${escapeHtml(source)}</span>
-            <span>发布时间：${escapeHtml(pubTime)}</span>
-        </div>
-    `;
-
-    if (news.url) {
-        itemDom.onclick = () => window.open(news.url, "_blank");
-    }
-
-    return itemDom;
-}
-
-
-/* =========================
-   防止新闻标题中的 HTML
-   影响网页结构
-   ========================= */
-
-function escapeHtml(value) {
-    return String(value)
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;")
-        .replace(/"/g, "&quot;")
-        .replace(/'/g, "&#039;");
-}
-
-
-/* =========================
-   按发布时间从新到旧排序
-   ========================= */
-
-function sortNewsByTime(newsArray) {
-    return [...newsArray].sort((a, b) => {
-        const timeA = new Date(a.pub_sort_dt || a.pub_raw || 0).getTime();
-        const timeB = new Date(b.pub_sort_dt || b.pub_raw || 0).getTime();
-
-        if (isNaN(timeA) && isNaN(timeB)) return 0;
-        if (isNaN(timeA)) return 1;
-        if (isNaN(timeB)) return -1;
-
-        return timeB - timeA;
-    });
-}
-
-
-/* =========================
-   加载新闻
-   ========================= */
+        /* 分媒体板块原有样式 */
+        .media-block {background:#fff; border-radius:12px; padding:20px; margin-bottom:16px; box-shadow:0 2px 8px #00000008;}
+        .media-title {font-size:18px; font-weight:600; margin-bottom:14px; color:#112948; border-left:4px solid #0066cc; padding-left:12px;}
+        .news-item {border-bottom:1px solid #eee; padding:14px 8px; cursor:pointer; transition:background 0.2s;}
+        .news-item:hover {background:#f0f7ff;}
+        .cn-title {font-size:16px; font-weight:500; margin-bottom:4px; color:#111;}
 
 async function loadNews() {
-
     const container = document.getElementById("news-container");
-
+    const topWrap = document.getElementById("top-latest-wrap");
     try {
-
-        const res = await fetch("./news.json?ts=" + Date.now());
-
+        const res = await fetch("./news.json");
         if (!res.ok) {
-            container.innerHTML = `
-                <div class="error-box">
-                    无法读取新闻数据文件<br>
-                    请前往 Actions 手动运行一次爬虫生成 news.json
-                </div>
-            `;
+            container.innerHTML = `<div class="error-box">无法读取新闻数据文件<br>请前往Actions手动运行一次爬虫生成news.json</div>`;
+            topWrap.innerHTML = "";
             return;
         }
-
         const data = await res.json();
 
         if (data.error) {
-            container.innerHTML = `
-                <div class="error-box">
-                    爬虫采集失败：${escapeHtml(data.error)}<br>
-                    重新运行 Actions 爬虫任务重试
-                </div>
-            `;
+            container.innerHTML = `<div class="error-box">爬虫采集失败：${data.error}<br>重新运行Actions爬虫任务重试</div>`;
+            topWrap.innerHTML = "";
             return;
         }
 
-
-        /* =========================
-           检查新版本 Python 输出的数据结构
-           ========================= */
-
-        if (
-            !data ||
-            !Array.isArray(data.china_news) ||
-            !Array.isArray(data.media_news)
-        ) {
-            container.innerHTML = `
-                <div class="error-box">
-                    新闻数据格式不是新版格式。<br>
-                    请重新运行最新版本的 crawler_two_sections_v2.py
-                    生成 news.json。
-                </div>
-            `;
+        if (!data || !Array.isArray(data.news) || !data.source_stat) {
+            container.innerHTML = `<div class="error-box">新闻数据格式异常，等待下一轮自动采集更新</div>`;
+            topWrap.innerHTML = "";
             return;
         }
 
-
-        /* =========================
-           顶部信息
-           ========================= */
-
-        document.getElementById("update-time").innerText =
-            `最后自动更新：${data.update_cst || "未知"}`;
-
-        document.getElementById("total-count").innerText =
-            `当前新闻总数：${data.total_count || 0} 条`;
-
+        // 顶部统计信息
+        document.getElementById("update-time").innerText = `最后自动更新：${data.update_cst || "未知"}`;
+        document.getElementById("total-count").innerText = `当前新闻总数：${data.total_count || 0} 条`;
         const statsBox = document.getElementById("stats-container");
         statsBox.innerHTML = "";
+        Object.entries(data.source_stat).forEach(([src, cnt])=>{
+            const tag = document.createElement("span");
+            tag.className = "tag";
+            tag.innerText = `${src}：${cnt}条`;
+            statsBox.appendChild(tag);
+        })
 
-        if (data.source_stat) {
-
-            Object.entries(data.source_stat).forEach(([src, cnt]) => {
-
-                const tag = document.createElement("span");
-
-                tag.className = "tag";
-                tag.innerText = `${src}：${cnt}条`;
-
-                statsBox.appendChild(tag);
-            });
+        // ========== 新增：顶部全局混排最新15条 ==========
+        topWrap.innerHTML = "";
+        const top15News = data.news.slice(0, 15);
+        if (top15News.length > 0) {
+            const topBlock = document.createElement("div");
+            topBlock.className = "top-latest-block";
+            topBlock.innerHTML = `<div class="top-block-title">🔥 最新10条中国新闻</div>`;
+            top15News.forEach(news=>{
+                const itemDom = document.createElement("div");
+                itemDom.className = "top-news-item";
+                itemDom.innerHTML = `
+                    <div class="top-cn-title">${news.title_cn || "无中文标题"}</div>
+                    <div class="top-meta-row">
+                        <span>来源：${news.source}</span>
+                        <span>${news.pub_sort_dt || news.pub_raw || "未知时间"}</span>
+                    </div>
+                `;
+                if (news.url) itemDom.onclick = ()=> window.open(news.url, "_blank");
+                topBlock.appendChild(itemDom);
+            })
+            topWrap.appendChild(topBlock);
         }
 
-
-        /* =========================
-           第一部分
-           只显示 China Buzzing 最新10条
-           ========================= */
-
-        let chinaNews = sortNewsByTime(data.china_news);
-
-        chinaNews = chinaNews.slice(0, 10);
-
-        const chinaSection = document.createElement("section");
-        chinaSection.className = "section";
-
-        chinaSection.innerHTML = `
-            <div class="section-title china">
-                🇨🇳 最新10条中国新闻
-            </div>
-        `;
-
-        if (chinaNews.length === 0) {
-
-            const empty = document.createElement("div");
-            empty.className = "empty";
-            empty.innerText = "暂无 China Buzzing 新闻";
-
-            chinaSection.appendChild(empty);
-
-        } else {
-
-            chinaNews.forEach(news => {
-                chinaSection.appendChild(createNewsItem(news));
-            });
-        }
-
+        // ========== 原有分媒体列表渲染逻辑不变 ==========
+        const groupMap = {};
+        data.news.forEach(item=>{
+            if(!groupMap[item.source]) groupMap[item.source] = [];
+            groupMap[item.source].push(item);
+        })
         container.innerHTML = "";
-        container.appendChild(chinaSection);
+        Object.entries(groupMap).forEach(([media, newsArr])=>{
+            const block = document.createElement("div");
+            block.className = "media-block";
+            block.innerHTML = `<div class="media-title">${media}（${newsArr.length}条）</div>`;
+            newsArr.forEach(news=>{
+                const itemDom = document.createElement("div");
+                itemDom.className = "news-item";
+                itemDom.innerHTML = `
+                    <div class="cn-title">${news.title_cn || "无中文标题"}</div>
+                    <div class="en-title">原文：${news.title_en || "无标题"}</div>
+                    <div class="pub-time">发布时间：${news.pub_sort_dt || news.pub_raw || "未知时间"}</div>
+                `;
+                if (news.url) itemDom.onclick = ()=> window.open(news.url, "_blank");
+                block.appendChild(itemDom);
+            })
+            container.appendChild(block);
+        })
 
-
-        /* =========================
-           第二部分
-           五家外媒混编
-           不按来源分组
-           统一排序
-           只取最新20条
-           ========================= */
-
-        let mediaNews = sortNewsByTime(data.media_news);
-
-        mediaNews = mediaNews.slice(0, 20);
-
-        const mediaSection = document.createElement("section");
-        mediaSection.className = "section";
-
-        mediaSection.innerHTML = `
-            <div class="section-title media">
-                🌍 五大外媒最新20条
-            </div>
-        `;
-
-        if (mediaNews.length === 0) {
-
-            const empty = document.createElement("div");
-            empty.className = "empty";
-            empty.innerText = "暂无外媒新闻";
-
-            mediaSection.appendChild(empty);
-
-        } else {
-
-            /*
-             * 这里故意不按照 source 分组。
-             * Economist / Bloomberg / FT / WSJ / Reuters
-             * 全部混在一个列表里。
-             */
-            mediaNews.forEach(news => {
-                mediaSection.appendChild(createNewsItem(news));
-            });
+        if (data.news.length === 0) {
+            container.innerHTML = `<div class="error-box">暂无符合条件的新闻，等待下一轮采集</div>`;
         }
-
-        container.appendChild(mediaSection);
-
     } catch (err) {
-
-        container.innerHTML = `
-            <div class="error-box">
-                数据加载异常：${escapeHtml(err.message)}<br>
-                1. 检查 Actions 爬虫是否运行成功<br>
-                2. 检查 news.json 是否已经生成<br>
-                3. 等待下一轮自动采集
-            </div>
-        `;
-
+        container.innerHTML = `<div class="error-box">数据加载异常：${err.message}<br>1.检查Actions爬虫是否运行成功<br>2.等待整点自动重新采集</div>`;
+        topWrap.innerHTML = "";
         console.error("加载失败详情：", err);
     }
 }
-
-
-/* =========================
-   页面加载
-   ========================= */
-
 window.onload = loadNews;
-
 </script>
-
 </body>
 </html>
-"""
-
-
