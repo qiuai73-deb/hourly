@@ -1,144 +1,553 @@
-<!DOCTYPE html>
+from pathlib import Path
+
+# 使用昨天上传的 index.html 作为基础，直接重写为与新版 crawler.py
+# 数据结构一致的最终页面。
+out = Path("/mnt/data/index.html")
+
+html = r'''<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>外媒新闻聚合站</title>
-    <style>
-        * {margin:0; padding:0; box-sizing:border-box; font-family:system-ui, -apple-system, "Microsoft Yahei", sans-serif;}
-        body {background:#f5f7fa; color:#222; padding:20px; max-width:1400px; margin:0 auto;}
-        header {background:#fff; border-radius:12px; padding:24px; margin-bottom:20px; box-shadow:0 2px 10px #0000000a;}
-        h1 {font-size:26px; margin-bottom:10px; color:#1a365d;}
-        .meta-info {color:#666; font-size:14px; line-height:1.8;}
-        .source-stats {margin-top:12px; display:flex; flex-wrap:wrap; gap:8px;}
-        .tag {background:#e6f0ff; color:#0056b3; padding:4px 10px; border-radius:20px; font-size:13px;}
-
-        /* 顶部综合最新15条区块 */
-        .top-latest-block {
-            background:#0f2b59;
-            border-radius:12px;
-            padding:22px;
-            margin-bottom:24px;
-            color:#fff;
-        }
-        .top-block-title {
-            font-size:20px;
-            font-weight:600;
-            margin-bottom:16px;
-            border-left:5px solid #42a5f5;
-            padding-left:12px;
-        }
-        .top-news-item {
-            border-bottom:1px solid rgba(255,255,255,0.15);
-            padding:12px 8px;
-            cursor:pointer;
-            transition:background 0.2s;
-        }
-        .top-news-item:hover {background:rgba(255,255,255,0.08);}
-        .top-cn-title {font-size:16px; font-weight:500; margin-bottom:4px;}
-        .top-meta-row {display:flex; gap:16px; font-size:12px; opacity:0.85;}
-
-        /* 分媒体板块原有样式 */
-        .media-block {background:#fff; border-radius:12px; padding:20px; margin-bottom:16px; box-shadow:0 2px 8px #00000008;}
-        .media-title {font-size:18px; font-weight:600; margin-bottom:14px; color:#112948; border-left:4px solid #0066cc; padding-left:12px;}
-        .news-item {border-bottom:1px solid #eee; padding:14px 8px; cursor:pointer; transition:background 0.2s;}
-        .news-item:hover {background:#f0f7ff;}
-        .cn-title {font-size:16px; font-weight:500; margin-bottom:4px; color:#111;}
-
-async function loadNews() {
-    const container = document.getElementById("news-container");
-    const topWrap = document.getElementById("top-latest-wrap");
-    try {
-        const res = await fetch("./news.json");
-        if (!res.ok) {
-            container.innerHTML = `<div class="error-box">无法读取新闻数据文件<br>请前往Actions手动运行一次爬虫生成news.json</div>`;
-            topWrap.innerHTML = "";
-            return;
-        }
-        const data = await res.json();
-
-        if (data.error) {
-            container.innerHTML = `<div class="error-box">爬虫采集失败：${data.error}<br>重新运行Actions爬虫任务重试</div>`;
-            topWrap.innerHTML = "";
-            return;
-        }
-
-        if (!data || !Array.isArray(data.news) || !data.source_stat) {
-            container.innerHTML = `<div class="error-box">新闻数据格式异常，等待下一轮自动采集更新</div>`;
-            topWrap.innerHTML = "";
-            return;
-        }
-
-        // 顶部统计信息
-        document.getElementById("update-time").innerText = `最后自动更新：${data.update_cst || "未知"}`;
-        document.getElementById("total-count").innerText = `当前新闻总数：${data.total_count || 0} 条`;
-        const statsBox = document.getElementById("stats-container");
-        statsBox.innerHTML = "";
-        Object.entries(data.source_stat).forEach(([src, cnt])=>{
-            const tag = document.createElement("span");
-            tag.className = "tag";
-            tag.innerText = `${src}：${cnt}条`;
-            statsBox.appendChild(tag);
-        })
-
-        // ========== 新增：顶部全局混排最新15条 ==========
-        topWrap.innerHTML = "";
-        const top15News = data.news.slice(0, 15);
-        if (top15News.length > 0) {
-            const topBlock = document.createElement("div");
-            topBlock.className = "top-latest-block";
-            topBlock.innerHTML = `<div class="top-block-title">🔥 最新10条中国新闻</div>`;
-            top15News.forEach(news=>{
-                const itemDom = document.createElement("div");
-                itemDom.className = "top-news-item";
-                itemDom.innerHTML = `
-                    <div class="top-cn-title">${news.title_cn || "无中文标题"}</div>
-                    <div class="top-meta-row">
-                        <span>来源：${news.source}</span>
-                        <span>${news.pub_sort_dt || news.pub_raw || "未知时间"}</span>
-                    </div>
-                `;
-                if (news.url) itemDom.onclick = ()=> window.open(news.url, "_blank");
-                topBlock.appendChild(itemDom);
-            })
-            topWrap.appendChild(topBlock);
-        }
-
-        // ========== 原有分媒体列表渲染逻辑不变 ==========
-        const groupMap = {};
-        data.news.forEach(item=>{
-            if(!groupMap[item.source]) groupMap[item.source] = [];
-            groupMap[item.source].push(item);
-        })
-        container.innerHTML = "";
-        Object.entries(groupMap).forEach(([media, newsArr])=>{
-            const block = document.createElement("div");
-            block.className = "media-block";
-            block.innerHTML = `<div class="media-title">${media}（${newsArr.length}条）</div>`;
-            newsArr.forEach(news=>{
-                const itemDom = document.createElement("div");
-                itemDom.className = "news-item";
-                itemDom.innerHTML = `
-                    <div class="cn-title">${news.title_cn || "无中文标题"}</div>
-                    <div class="en-title">原文：${news.title_en || "无标题"}</div>
-                    <div class="pub-time">发布时间：${news.pub_sort_dt || news.pub_raw || "未知时间"}</div>
-                `;
-                if (news.url) itemDom.onclick = ()=> window.open(news.url, "_blank");
-                block.appendChild(itemDom);
-            })
-            container.appendChild(block);
-        })
-
-        if (data.news.length === 0) {
-            container.innerHTML = `<div class="error-box">暂无符合条件的新闻，等待下一轮采集</div>`;
-        }
-    } catch (err) {
-        container.innerHTML = `<div class="error-box">数据加载异常：${err.message}<br>1.检查Actions爬虫是否运行成功<br>2.等待整点自动重新采集</div>`;
-        topWrap.innerHTML = "";
-        console.error("加载失败详情：", err);
-    }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>境外媒体新闻聚合</title>
+<style>
+*{box-sizing:border-box}
+body{
+    margin:0;
+    background:#f5f7fa;
+    color:#222;
+    font-family:system-ui,-apple-system,"Microsoft YaHei",sans-serif
 }
-window.onload = loadNews;
+.wrap{
+    max-width:1200px;
+    margin:0 auto;
+    padding:18px
+}
+header,.section{
+    background:#fff;
+    border-radius:12px;
+    box-shadow:0 2px 10px rgba(0,0,0,.06)
+}
+header{
+    padding:20px;
+    margin-bottom:18px
+}
+h1{
+    margin:0 0 8px;
+    color:#17365d;
+    font-size:25px
+}
+.meta{
+    color:#666;
+    font-size:13px;
+    line-height:1.8
+}
+.tags{
+    display:flex;
+    flex-wrap:wrap;
+    gap:7px;
+    margin-top:8px
+}
+.tag{
+    background:#edf5ff;
+    color:#1261a0;
+    border-radius:16px;
+    padding:3px 9px;
+    font-size:12px
+}
+.section{
+    padding:18px;
+    margin-bottom:18px
+}
+.section-title{
+    font-size:20px;
+    font-weight:700;
+    padding-left:11px;
+    margin-bottom:10px;
+    border-left:5px solid #d32f2f
+}
+.media-section .section-title{
+    border-left-color:#1677c8
+}
+.news-item{
+    padding:13px 6px;
+    border-bottom:1px solid #eee;
+    cursor:pointer;
+    transition:background .2s
+}
+.news-item:last-child{
+    border-bottom:0
+}
+.news-item:hover{
+    background:#f5f9fd
+}
+.news-title{
+    font-size:16px;
+    line-height:1.55;
+    font-weight:600;
+    color:#111
+}
+.news-info{
+    margin-top:5px;
+    color:#888;
+    font-size:12px;
+    display:flex;
+    gap:14px;
+    flex-wrap:wrap
+}
+.news-source{
+    color:#555;
+    font-weight:500
+}
+.loading,.empty,.error{
+    padding:45px 15px;
+    text-align:center;
+    color:#777
+}
+.error{
+    color:#c62828;
+    line-height:1.8
+}
+@media(max-width:700px){
+    .wrap{padding:10px}
+    header,.section{padding:14px}
+    h1{font-size:21px}
+    .news-title{font-size:15px}
+}
+</style>
+</head>
+
+<body>
+<div class="wrap">
+
+<header>
+    <h1>🌍 境外媒体新闻聚合</h1>
+    <div class="meta" id="update">正在加载……</div>
+    <div class="meta" id="count"></div>
+    <div class="tags" id="stats"></div>
+</header>
+
+<main id="app">
+    <div class="loading">正在加载最新新闻……</div>
+</main>
+
+</div>
+
+<script>
+/*
+ * 与新版 crawler.py 对应：
+ *
+ * data.china_news
+ *   └─ China Buzzing 最新10条
+ *
+ * data.media_news
+ *   └─ Economist / Bloomberg / FT / WSJ / Reuters
+ *      五个源已经在 Python 中混编并排序
+ *      网页只取最新20条
+ *
+ * 注意：
+ * 不显示摘要
+ * 不显示英文原标题
+ * 不按照媒体分组
+ */
+
+function escapeHtml(value){
+    return String(value ?? "")
+        .replace(/&/g,"&amp;")
+        .replace(/</g,"&lt;")
+        .replace(/>/g,"&gt;")
+        .replace(/"/g,"&quot;")
+        .replace(/'/g,"&#039;");
+}
+
+
+/*
+ * Python 已经把时间转换成北京时间。
+ * 这里主要负责排序。
+ */
+function getTime(item){
+    const value = item && (item.pub_sort_dt || item.pub_raw);
+
+    if(!value) return 0;
+
+    const timestamp = Date.parse(value);
+
+    return Number.isNaN(timestamp) ? 0 : timestamp;
+}
+
+
+function sortNewest(items){
+    if(!Array.isArray(items)) return [];
+
+    return [...items].sort((a,b)=>{
+        return getTime(b) - getTime(a);
+    });
+}
+
+
+/*
+ * 每条新闻只显示：
+ *
+ * 中文标题
+ * 来源
+ * 发布时间
+ *
+ * 不显示：
+ * title_en
+ * summary
+ * summary_cn
+ */
+function createNewsItem(news){
+
+    const item = document.createElement("article");
+
+    item.className = "news-item";
+
+    const title =
+        news.title_cn ||
+        news.title_en ||
+        "无标题";
+
+    const source =
+        news.source ||
+        "未知来源";
+
+    const time =
+        news.pub_sort_dt ||
+        news.pub_raw ||
+        "未知时间";
+
+    item.innerHTML = `
+        <div class="news-title">
+            ${escapeHtml(title)}
+        </div>
+
+        <div class="news-info">
+            <span class="news-source">
+                来源：${escapeHtml(source)}
+            </span>
+
+            <span>
+                发布时间：${escapeHtml(time)}
+            </span>
+        </div>
+    `;
+
+    if(news.url){
+
+        item.addEventListener("click",()=>{
+
+            window.open(
+                news.url,
+                "_blank",
+                "noopener,noreferrer"
+            );
+
+        });
+
+    }
+
+    return item;
+}
+
+
+async function loadNews(){
+
+    const app =
+        document.getElementById("app");
+
+    try{
+
+        /*
+         * 加时间戳 + no-store，
+         * 防止 GitHub Pages / CDN 使用旧 news.json。
+         */
+        const response =
+            await fetch(
+                "./news.json?ts="+Date.now(),
+                {
+                    cache:"no-store"
+                }
+            );
+
+        if(!response.ok){
+
+            throw new Error(
+                "news.json 加载失败，HTTP "+
+                response.status
+            );
+
+        }
+
+        const data =
+            await response.json();
+
+
+        if(!data || typeof data !== "object"){
+
+            throw new Error(
+                "news.json 数据格式无效"
+            );
+
+        }
+
+
+        /*
+         * 顶部信息
+         */
+        document.getElementById("update").textContent =
+            "最后自动更新：" +
+            (data.update_cst || "未知");
+
+        document.getElementById("count").textContent =
+            "当前新闻总数：" +
+            (data.total_count ?? 0) +
+            " 条";
+
+
+        /*
+         * 来源统计
+         */
+        const stats =
+            document.getElementById("stats");
+
+        stats.innerHTML = "";
+
+        if(
+            data.source_stat &&
+            typeof data.source_stat === "object"
+        ){
+
+            Object.entries(data.source_stat)
+                .forEach(([source,count])=>{
+
+                    const tag =
+                        document.createElement("span");
+
+                    tag.className = "tag";
+
+                    tag.textContent =
+                        source + "：" +
+                        count + "条";
+
+                    stats.appendChild(tag);
+
+                });
+
+        }
+
+
+        /*
+         * 新版 Python 的两个独立数组。
+         *
+         * 第一部分：
+         * China Buzzing 10条
+         */
+        let chinaNews =
+            Array.isArray(data.china_news)
+                ? data.china_news
+                : [];
+
+
+        /*
+         * 第二部分：
+         * 五大外媒已经在 Python 中混编。
+         */
+        let mediaNews =
+            Array.isArray(data.media_news)
+                ? data.media_news
+                : [];
+
+
+        /*
+         * 兼容旧 news.json。
+         * 正常情况下不会走这里。
+         */
+        if(
+            chinaNews.length === 0 &&
+            Array.isArray(data.news)
+        ){
+
+            chinaNews =
+                data.news
+                    .filter(
+                        item =>
+                        (item.source || "") ===
+                        "China Buzzing"
+                    );
+
+        }
+
+
+        if(
+            mediaNews.length === 0 &&
+            Array.isArray(data.news)
+        ){
+
+            mediaNews =
+                data.news
+                    .filter(
+                        item =>
+                        (item.source || "") !==
+                        "China Buzzing"
+                    );
+
+        }
+
+
+        /*
+         * 第一部分：
+         * 严格最新10条
+         */
+        chinaNews =
+            sortNewest(chinaNews)
+                .slice(0,10);
+
+
+        /*
+         * 第二部分：
+         * 严格最新20条。
+         *
+         * 注意：
+         * 这里绝对不按照 source 分组。
+         */
+        mediaNews =
+            sortNewest(mediaNews)
+                .slice(0,20);
+
+
+        /*
+         * 清空 loading
+         */
+        app.innerHTML = "";
+
+
+        /*
+         * =========================
+         * 第一部分
+         * China Buzzing 最新10条
+         * =========================
+         */
+        const chinaSection =
+            document.createElement("section");
+
+        chinaSection.className =
+            "section";
+
+
+        chinaSection.innerHTML =
+            `<div class="section-title">
+                🇨🇳 最新10条中国新闻
+             </div>`;
+
+
+        if(chinaNews.length === 0){
+
+            chinaSection.innerHTML +=
+                `<div class="empty">
+                    暂无 China Buzzing 新闻
+                 </div>`;
+
+        }else{
+
+            chinaNews.forEach(news=>{
+
+                chinaSection.appendChild(
+                    createNewsItem(news)
+                );
+
+            });
+
+        }
+
+
+        app.appendChild(chinaSection);
+
+
+        /*
+         * =========================
+         * 第二部分
+         * 五大外媒科技/财经/商业最新20条
+         * =========================
+         */
+        const mediaSection =
+            document.createElement("section");
+
+        mediaSection.className =
+            "section media-section";
+
+
+        mediaSection.innerHTML =
+            `<div class="section-title">
+                🌍 科技 · 财经 · 商业最新20条
+             </div>`;
+
+
+        if(mediaNews.length === 0){
+
+            mediaSection.innerHTML +=
+                `<div class="empty">
+                    暂无符合条件的外媒新闻
+                 </div>`;
+
+        }else{
+
+            /*
+             * 关键：
+             *
+             * 这里直接遍历 mediaNews。
+             *
+             * 不建立 groupMap。
+             * 不按照 Reuters / Bloomberg /
+             * FT / WSJ / Economist 分组。
+             *
+             * 五家媒体完全混排。
+             */
+            mediaNews.forEach(news=>{
+
+                mediaSection.appendChild(
+                    createNewsItem(news)
+                );
+
+            });
+
+        }
+
+
+        app.appendChild(mediaSection);
+
+
+    }catch(error){
+
+        console.error(
+            "新闻页面加载失败：",
+            error
+        );
+
+        app.innerHTML =
+            `<div class="section error">
+                <b>新闻页面加载失败</b>
+                <br><br>
+                ${escapeHtml(error.message)}
+                <br><br>
+                请检查 GitHub Actions 是否已经生成
+                news.json。
+             </div>`;
+
+    }
+
+}
+
+
+document.addEventListener(
+    "DOMContentLoaded",
+    loadNews
+);
 </script>
+
 </body>
 </html>
+'''
+
+out.write_text(html, encoding="utf-8")
+print(out)
