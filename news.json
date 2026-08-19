@@ -1,15 +1,63 @@
 {
-  "update_cst": "2026-08-19 09:06:02 北京时间",
+  "update_cst": "2026-08-19 12:01:08 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 14,
-    "Financial Times": 3,
-    "Wall Street Journal": 1,
-    "Reuters": 2
+    "Bloomberg": 18,
+    "Financial Times": 2,
+    "Wall Street Journal": 0,
+    "Reuters": 0
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "随着人工智能竞赛日趋白热化，中国放宽了对英伟达H200芯片的限制 - Financial Times",
+      "title_cn": "随着人工智能竞赛日趋白热化，中国放宽了对英伟达H200芯片的限制 - 英国金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNRF9wTFByQktUOHRwVGVOWVg3TXdURVhZXzVoOTYzY3VwX0J0cXdoZUJGbF9JSWJuLWQ0VVIwY1FpSWNNY2ZuLWREZlEwb1R1MmNnMGNhby12Nk1vako5NzA4VGtjeGJUOXdyTWxMYXpNQWh5TjdPTDdrVVF1dkFOUFFKSkc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T02:10:07.000Z",
+      "pub_sort_dt": "2026-08-19 10:10:07"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国御膳曾受宫廷礼仪的影响，如今依然传承至今 - AP News",
+      "title_cn": "中国御膳曾受宫廷礼仪的影响，如今依然传承至今 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMiigFBVV95cUxQQkJ0QmV1STR6c01fS21wQWZRZ3pvc0FmalhEN3lRMzJqUUlLVlVkd0I4cWNPaXJwUU41YnJleS1uVkNLVHYyY0xuMUhYWkxZM3g1cHhBTHg3YUtzVFZNajk4emNfc2FCckN1YXJvSEo0R1h0eXVkaXhvN2NzbWdZeWlwd2kzLTJXNnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T01:43:00.000Z",
+      "pub_sort_dt": "2026-08-19 09:43:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国后空翻机器人制造商Unitree在上海股市首日上市大涨542% - CNBC",
+      "title_cn": "中国后空翻机器人制造商Unitree在上海股市首日上市大涨542% - CNBC",
+      "url": "https://news.google.com/read/CBMimgFBVV95cUxOUkwtX3hYUHVJcU5sNkpFd01YM1JBSnlVRDVBYzZMLXlteVFzZVlJTTRFWXFpSkF5U09aUFpyVUpDOFo5MWRxSTROYzlaV0doMGR0SVFwcjlKS3FaWEI1aHdJa1JiZy01UkQ5ejA0Z1dFY0JVMjNOUUFaNnlqTDR2eERWdG82M20xQ1RUNDlhUnljNHNPUGFYbUln0gGfAUFVX3lxTE8wUFNpYWZ4N0tBX1RXNWFWZUVhRlpTRGZUUHV2RVp4emxfbUlOam0tTHhEOUlfN3gwR0V0UVJlMWtBOFd6Vl9rYWFsWm1WbzJMSm1jYlZrMlhLZ3BNM3NZajBndXlNSUlpaTV2ZTVQSWZSeUZxZUh5M0ZrbFFUdEUxMjEwLWlCTlN2MG1sRkFKeXkzUURPb21pcEJma3NqUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T01:37:00.000Z",
+      "pub_sort_dt": "2026-08-19 09:37:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一部关于伊拉克战争的热门电影，反映了中国人怎样的世界观？ - scmp.com",
+      "title_cn": "一部关于伊朗战争的热门电影，反映了中国人怎样的世界观？ - scmp.com",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxNdW9XdjNYMVN4RG95aHlmeG5Wa1FZcGVfc2hhTnlvQ19IaktnT25EanJNVzNseElnS0k5d1E0QUdmdmhPb2tPQWx3TUo2dlBsLUZWMVZJMm1DeWQyanhOeXcwOC1ubjJXZ0swcFg0U0RKOEJMM1dOV3ZqWUo1N2M3cFRWcDdGajJZRlYtaVFMN3p5QkNFVXhwMkthTF9CSzBpNHdnTTVGRDFwWlJVMy1VUHFWT3Brd3JUekR6eG1B0gG-AUFVX3lxTE1zTWtXOUdtVnFWeDNvbThmLWtoeEh6NF90YS1iMGY4MENYUlpNSjlPUDlCaXV0dW1DT3pYY21xRmllS0FWb295THV2RG4wYjMwSVBYUlFBUDg0MzA2WjBTUGtNbS1jUGQxenBhN05KdUtLQXZYTU5OMkotdDIzclE2Mk53NlZWeGlWUFB0R0pxellwT2lWR1B3Rkd4TlNPdEtlOVFEaFpkWnJ0U3E0UjQwaTVUZ2pUZWhsMkJMWVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T01:00:08.000Z",
+      "pub_sort_dt": "2026-08-19 09:00:08"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "“一切都由党做主，”获释牧师谈及中国对宗教的打压时表示 - PBS",
+      "title_cn": "“一切都由党做主”获释牧师谈及中国对宗教的打压时表示 - PBS",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxPQzdDQzREd01DQlliNDZxLUhYY09yVnd4aFhVVWdwSDNYQW5saWo5VjhMbm91REh3U0NrcWxPbFhqeFlXUTZBV3NNV0tjSTRfWlFJeXlQa0RnTU92bmJVWmxwVFNjZ2c3NU9hd3FMWm9zOEI2aU9yMHg0UlN4WXF6amhjcHZsa2JJd3ctUzF4NXhJZWNWSXdPMzJjVW80Ml9qT0ctMmVCQlU5RFNhVFZCNmZITk5OUUpVdzNMYg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T22:20:07.000Z",
+      "pub_sort_dt": "2026-08-19 06:20:07"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "信任问题：中国富豪们正面临新的离岸资产税规带来的挑战 - South China Morning Post",
+      "title_cn": "信任问题：中国富豪们正面临新的离岸资产税规带来的挑战 - 南华早报",
+      "url": "https://news.google.com/read/CBMi0gFBVV95cUxQYmMyNUVVQUk4VWJxVE9JZFc5TjJUd0xFbFY1M1ZPREtRSWl3UENaSlpseVluUkdsMDhrODhyUUhhczloa3ROLUhodFhjalFHWGdqY1BSb0tYTC1sNTlwLXVEZkx1RW1iN0lMSDVibmtLWlR4bkM1NThHSmllU2NtUGltbFRiN2VsSThKN1Nhb1ktOUlLd0VScGdqeVJWRVlIV2drVmd5X01LbzFTbGN1Y1h6dG9aejBqNXR1b3hZanBEM3lVbEtOY2VmTTl2SXIzZFHSAdIBQVVfeXFMTXJrVjItcDd4cWZCMVQ0c0dZS3ZqNHVyazBqcnh4WG94Nl9YbEJCTGNOUGl1YW1vQ0RYV2RtRzN5bmR1cEhDd3IyT3phRGxYMERHTk9BR2NQUmJWUVNGbFZSejh1LWNBNUlKUmd6OE83RUJ6dHRLRVhZWXptUUsxVjRPYXBzam9BVTlRSjJOQnlmc2x0aWZkQ2tZcGhyYkJDblRCQ0dLWGFvTHV0NmltMUNQSmdGZkg4RjQwMWF2UlEzWjNMVFZzdHRlVHlaRUZsZXRR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T22:00:08.000Z",
+      "pub_sort_dt": "2026-08-19 06:00:08"
+    },
     {
       "source": "China Buzzing",
       "title_en": "观点 按照美国的条件推进中国的改革与开放 - WSJ",
@@ -41,219 +89,219 @@
       "url": "https://news.google.com/read/CBMitgFBVV95cUxQU04wUl8xbTAxd1A2UTNzN2JFcjNJZ2JCQ2UzTXIxMUNKMmlxTUg0UnNQRFBpVDE1cF83MXVHbjN0Zy1wTHBZcVBfaFNSRG5SUUpuSVNxa3F0UWw5eFptZE9GeWZQQkdRX3M4LWNFNjNWSjVPM2hyRHNoWnlza2lRS20xRGw4elV2d0dINXh2RTk4NFUzS3lKX0JrRm9VWlJYX0RWUTYtM3Q5eXd2ZUNILUY3ejFMQQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-18T19:21:15.000Z",
       "pub_sort_dt": "2026-08-19 03:21:15"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "华盛顿对科技行业的打压会考验脆弱的中美停火局面吗？ - South China Morning Post",
-      "title_cn": "华盛顿对科技行业的打压会考验脆弱的中美停火吗？ - 南华早报",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxQendqNkw3dGdzTXFPXzZrS3h1VlF1eVFzbmhXdzFxMGtaQWZrbkZ6bHlEZHhiZW1tUklLbjB1c0tkajJPazdEbkV2Ny1CdjQ0VkdnTmN4elZldS1UVlJ3cTZVMmdYYzJ4YUo5ckh3NW1HY0xXQ19Yb1U3LWdfQVBXWUt3aHI3eVo2Q0F2azI2MUg3UjZJM3BDZ20tQ2c2MC1sM3hJSXh3MNIBpwFBVV95cUxQRHVXSVZSMFVfV29YSGNlN1E0cnJWS1dvaFA0Ym1aSGN1LVQ5dWIzZ0VLS3ZSQTAyYU9xcG1pdUE0RndndFFHRlFOLXd6RFZTX1I2QTVYU0xhY2duanYyMExDdkZHRmltN0VYZGtqTkhEb25SRmM0X05GWVdhQVFSLTZPTUx1Wjh6S1lLYUVzRFRRYkotdmxlYVVndGZGR2ljNjF6bkd4MA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T17:07:20.000Z",
-      "pub_sort_dt": "2026-08-19 01:07:20"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "如果中国在人工智能竞赛中胜出，究竟会发生什么？ - The Atlantic",
-      "title_cn": "如果中国在人工智能竞赛中胜出，会发生什么？ - The Atlantic",
-      "url": "https://news.google.com/read/CBMiiAFBVV95cUxObVh1Y19FblF4bURwYjk2U3ppcmhKTDdSd1p3NU9EbzQ1eXp4d0l0WDQ3clJXY3E4RW10Y3A0RTJmLW9RQXFWMVNCOXZlTDNTcjQyaVJZeWtjTktsYVhjUW0taHNTeGlYTkk1dEtTMndScjd4cVktZ2Rkck0tcUpJMTNUNjhacUY0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T17:06:19.000Z",
-      "pub_sort_dt": "2026-08-19 01:06:19"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国军方资金如何推动了中国机器人犬的发展 - Military Times",
-      "title_cn": "美国捐赠资金如何推动了中国机器人犬的发展 - 军事时报",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQWExTYkNIcUFySU03ZzVmV2lxUEFrWi1Rb0ZLeEJ0UDlSR3kxem93N0xFNDRORGdLSFFVWHNocmc1WkhJcHhVUGo1VXlpeHRRbHVndUFBQWl0RGhieVJGWFAxSjFFcGJxemZhb3p1N2MyS3Y5N3A3NjUtTHJXWThYbW16QXBGczN2NjRjRElBaDZmXzlKZEJlV2lvZVUyZlAtd25DNG1tV2ZVS0RsVmRIQkVn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T16:01:40.000Z",
-      "pub_sort_dt": "2026-08-19 00:01:40"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "白宫关于中国转口贸易“骗局”的荒谬指控 - The Economist",
-      "title_cn": "亚特兰大关于中国转口贸易“骗局”的指责 - 《经济学人》",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxOTmRGcnFzTVJWdFV5aDVjMnlrUTUtQVVrS0tZNWJ0V2RaTnNYWkZYY2RQWXhTRUtTS3Z1UENnQXN3Wm01emlqZnB4MGYzTGRMUEh2V3RnQkVidzgwNXoyMXN4TVBTMnlSVndSOUhPN0xGUTYzVmVMbEEtdDhiNTFyNk53aEJoOV9jSjkyR3I4SHlweXlZcnUtSE03YzlhVXVqYzJZZWh1NG5yN29BblpSRlhUTmRGWVZlMEpnYg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T15:42:49.000Z",
-      "pub_sort_dt": "2026-08-18 23:42:49"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "《南华早报》报道称，诺基亚将在年底前关闭在中国大陆的几乎所有办事处 - Reuters",
-      "title_cn": "《南华早报》报道称，诺基亚将于年底前关闭在中国大陆的几乎所有仓库 - 路透社",
-      "url": "https://news.google.com/read/CBMiwAFBVV95cUxNU0VjRW5KV2tYY3BxTE5PUVB2WVNtMzZqN0R2Vmt4UGVlNDkxYUlURzJZdnN4QzV6SFZNNW9hSmVjVEFRc201NHNhWlY3dG4zSVp2RDVWRTh5RnRhOTJ0Y1AyS2I5eWFPRFh2RFE3WUZyb2VoNFhlZFl6aE9DNGx5UEMtT2VOY3VwTHp5RHFsaUJsMkNDLXNOYUUyNXdUUkF6cUxEeWVacERNNVdnTmxxMlRMWVBHM0J5T3ZNWnBjT0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T14:24:26.000Z",
-      "pub_sort_dt": "2026-08-18 22:24:26"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "GT Voice：西方对中方“浪费”清洁能源大肆炒作，背后实为“酸葡萄心理” - Global Times",
-      "title_cn": "GT Voice：西方对中方“浪费”清洁能源大肆炒作，背后实为“酸葡萄心理” - 环球时报",
-      "url": "https://news.google.com/read/CBMiYkFVX3lxTE1KZkJscTNRWm1kdkVEak5PbUJ4WWItTGRSNzRJbzBFbXlCcTJtNGh1b1k5MjBiX3JWdzRETng0MHRLbFF0UE95bEhuZkhERWRsRlV5Z2FtWnpsR25qOWc5dXZ3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T14:22:00.000Z",
-      "pub_sort_dt": "2026-08-18 22:22:00"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
-      "title_en": "印尼料将维持利率不变，新任行长将作出上任后的首次利率决策",
-      "title_cn": "对话人士料将维持利率不变，新任行长将做出上任后的首次利率决策",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/indonesia-seen-holding-rates-as-new-chief-leads-first-decision",
-      "pub_raw": "2026-08-19T00:22:04.060Z",
-      "pub_sort_dt": "2026-08-19 08:22:04"
+      "title_en": "罗博格表示，1万亿美元的人工智能资本支出可能推高债券供应量",
+      "title_cn": "罗博格表示，1万亿美元的人工智能支出可能推高债券供应量",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/funding-1-trillion-ai-capex-may-expand-bond-supply-robeco-says",
+      "pub_raw": "2026-08-19T03:50:04.038Z",
+      "pub_sort_dt": "2026-08-19 11:50:04"
     },
     {
       "source": "Bloomberg",
-      "title_en": "Cerebras（CBRS）表示，其新款计算机进一步扩大了在AI速度方面对英伟达的优势",
-      "title_cn": "Cerebras（CBRS）表示，其全新计算机进一步扩大了在AI速度方面对英伟达的优势",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia",
-      "pub_raw": "2026-08-19T00:22:04.057Z",
-      "pub_sort_dt": "2026-08-19 08:22:04"
+      "title_en": "特朗普下令后，美国和韩国缩减了军事演习规模",
+      "title_cn": "特朗普下令后，美国和韩国缩减了军事演习规模",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/south-korea-says-joint-military-drills-with-us-to-be-curtailed",
+      "pub_raw": "2026-08-19T03:50:04.009Z",
+      "pub_sort_dt": "2026-08-19 11:50:04"
     },
     {
       "source": "Bloomberg",
-      "title_en": "中国债券逆全球抛售潮而行，因其与同类市场在政策上存在分歧",
-      "title_cn": "中国债券逆全球抛售潮而行，最优秀与同类市场在政策上存在缺口",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/china-s-flatter-bond-curve-shows-deeper-policy-divide-with-peers",
-      "pub_raw": "2026-08-19T00:22:04.043Z",
-      "pub_sort_dt": "2026-08-19 08:22:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "芯片股抛售潮持续，亚股下跌：市场综述",
-      "title_cn": "芯片股抛售潮持续，亚股下跌：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
-      "pub_raw": "2026-08-19T00:22:04.029Z",
-      "pub_sort_dt": "2026-08-19 08:22:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受债券抛售及霍尔木兹海峡局势不明影响，黄金跌幅收窄",
-      "title_cn": "受债券抛售及霍尔木兹海峡局势动荡，黄金跌幅收窄",
+      "title_en": "美国国债收益率在大幅飙升后趋于稳定，金价小幅走高",
+      "title_cn": "美国国债大幅飙升后趋于稳定，金价小幅走高",
       "url": "https://www.bloomberg.com/news/articles/2026-08-18/gold-holds-losses-as-bond-selloff-hormuz-limbo-weigh-on-outlook",
-      "pub_raw": "2026-08-19T00:06:10.174Z",
-      "pub_sort_dt": "2026-08-19 08:06:10"
+      "pub_raw": "2026-08-19T03:50:04.002Z",
+      "pub_sort_dt": "2026-08-19 11:50:04"
     },
     {
       "source": "Bloomberg",
-      "title_en": "由于关键项目延误，桑托斯公司利润未达预期",
-      "title_cn": "由于关键项目总体，桑托斯公司利润未达到预期",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/santos-profit-misses-expectations-after-delays-to-key-projects",
-      "pub_raw": "2026-08-19T00:06:10.170Z",
-      "pub_sort_dt": "2026-08-19 08:06:10"
+      "title_en": "Pony AI股价下跌，首席执行官警告称网约车业务前景不明",
+      "title_cn": "小马AI股价下跌，观点警告称网约车业务前景不明朗",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69",
+      "pub_raw": "2026-08-19T03:50:03.926Z",
+      "pub_sort_dt": "2026-08-19 11:50:03"
     },
     {
       "source": "Bloomberg",
-      "title_en": "JBS拟以12亿美元收购Pilgrim''s Pride剩余股权",
-      "title_cn": "JBS拟以12亿美元收购Pilgrim's Pride剩余股权",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/jbs-seeks-rest-of-pilgrim-s-pride-stake-in-1-2-billion-deal",
-      "pub_raw": "2026-08-18T23:50:19.285Z",
-      "pub_sort_dt": "2026-08-19 07:50:19"
+      "title_en": "贝恩旗下子公司Proterial计划通过出售日本线缆公司筹集13亿美元",
+      "title_cn": "贝恩旗下子公司Proterial计划通过出售日本电缆公司缴纳13亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/bain-unit-proterial-seeks-1-3-billion-from-japan-wire-firm-sale",
+      "pub_raw": "2026-08-19T03:33:54.165Z",
+      "pub_sort_dt": "2026-08-19 11:33:54"
     },
     {
       "source": "Bloomberg",
-      "title_en": "前民主党全国委员会主席黛比·瓦瑟曼·舒尔茨赢得众议院初选",
-      "title_cn": "前波兰全国委员会主席黛比·瓦瑟曼·舒尔茨赢得了初选",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/former-dnc-chair-debbie-wasserman-schultz-wins-house-primary",
-      "pub_raw": "2026-08-18T23:50:19.281Z",
-      "pub_sort_dt": "2026-08-19 07:50:19"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "华盛顿律师戈德斯坦在税务犯罪上诉期间申请保释",
-      "title_cn": "华盛顿律师戈德斯坦在税务犯罪报警期间申请保释",
-      "url": "https://reut.rs/4bWXFAM",
-      "pub_raw": "2026-08-18T23:34:16.502Z",
-      "pub_sort_dt": "2026-08-19 07:34:16"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "特劳特曼·佩珀律师事务所的一名律师因心肌梗死后据称遭到惩罚而起诉该事务所，并指控其存在账单欺诈行为",
-      "title_cn": "特劳特曼·佩珀律师事务所的一名律师因诈骗死亡后被指控殴打并起诉该律师事务所，并指控其存在的发票行为行为",
-      "url": "https://reut.rs/4qpQMOt",
-      "pub_raw": "2026-08-18T23:34:16.499Z",
-      "pub_sort_dt": "2026-08-19 07:34:16"
+      "title_en": "韩国家庭贷款增速跃升至近五年来的最高水平",
+      "title_cn": "韩国家庭贷款已跃升近五年的最高水平",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/south-korea-s-household-loan-growth-jumps-to-near-five-year-high",
+      "pub_raw": "2026-08-19T03:33:54.162Z",
+      "pub_sort_dt": "2026-08-19 11:33:54"
     },
     {
       "source": "Bloomberg",
-      "title_en": "新加坡滨海湾金沙获批，令云顶世界赌场牌照成为关注焦点",
-      "title_cn": "新加坡滨海湾金沙获批，令云顶世界赌场牌照成为关注焦点",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/singapore-marina-bay-sands-gains-put-resorts-world-s-casino-license-in-focus",
-      "pub_raw": "2026-08-18T23:18:19.988Z",
-      "pub_sort_dt": "2026-08-19 07:18:19"
+      "title_en": "铜价维持跌势，因伦敦金属交易所（LME）的交割缓解了供应紧张局面",
+      "title_cn": "铜价维持跌势，因伦敦金属交易所（LME）的交割缓解了供应紧张格局",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/copper-holds-loss-as-deliveries-to-lme-mitigate-supply-crunch",
+      "pub_raw": "2026-08-19T03:18:05.395Z",
+      "pub_sort_dt": "2026-08-19 11:18:05"
     },
     {
       "source": "Bloomberg",
-      "title_en": "Unitree Robotics 完成 9.04 亿美元上海首次公开募股后即将上市",
-      "title_cn": "Unitree Robotics完成9.04亿美元上海首次公开募股后即将上市",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-      "pub_raw": "2026-08-18T23:18:19.985Z",
-      "pub_sort_dt": "2026-08-19 07:18:19"
+      "title_en": "蒂尔支持的埃雷博尔银行希望效仿SVB。这很冒险",
+      "title_cn": "蒂尔支持的埃雷博尔银行希望效仿SVB。这很冒险",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-19/thiel-backed-erebor-bank-wants-to-echo-svb-that-s-risky",
+      "pub_raw": "2026-08-19T03:18:05.392Z",
+      "pub_sort_dt": "2026-08-19 11:18:05"
     },
     {
       "source": "Bloomberg",
-      "title_en": "香港交易所推动非股权业务被视为提振股市的关键",
-      "title_cn": "香港交易所推动股权业务被视为提振股市的关键",
+      "title_en": "韩国智库将经济增长预期上调至高于政府预测的水平",
+      "title_cn": "韩国智库将经济增长预期上调至政府预测的水平",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/south-korea-think-tank-raises-growth-outlook-above-government-s",
+      "pub_raw": "2026-08-19T03:18:05.388Z",
+      "pub_sort_dt": "2026-08-19 11:18:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Unitree首席执行官在轰动一时的首次公开募股后，身家飙升180亿美元",
+      "title_cn": "Unitree首次在全民募股后首次公开募股，身家暴增180亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/robot-dogs-make-chinese-billionaire-even-richer-despite-us-curbs",
+      "pub_raw": "2026-08-19T03:18:05.296Z",
+      "pub_sort_dt": "2026-08-19 11:18:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "WiseTech遭澳大利亚反垄断监管机构突击检查；股价暴跌",
+      "title_cn": "慧智科技遭澳大利亚反垄断监管机构突击检查；股价暴跌",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/wisetech-raided-by-australian-antitrust-regulator-shares-plunge",
+      "pub_raw": "2026-08-19T03:02:27.116Z",
+      "pub_sort_dt": "2026-08-19 11:02:27"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "日本股市暴跌，因债券市场担忧情绪影响了市场对人工智能的看法",
+      "title_cn": "日本股市暴跌，因债券市场担忧情绪影响了市场对人工智能的看法",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/japanese-stocks-slide-as-bond-market-anxiety-hits-ai-sentiment",
+      "pub_raw": "2026-08-19T03:02:27.102Z",
+      "pub_sort_dt": "2026-08-19 11:02:27"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港交易所的非股票类业务被视为提振股市的关键",
+      "title_cn": "香港交易所的非股票类业务被视为提振股市的关键",
       "url": "https://www.bloomberg.com/news/articles/2026-08-18/hong-kong-exchanges-non-equity-push-seen-as-key-for-stock-boost",
-      "pub_raw": "2026-08-18T23:18:19.978Z",
-      "pub_sort_dt": "2026-08-19 07:18:19"
+      "pub_raw": "2026-08-19T03:02:27.085Z",
+      "pub_sort_dt": "2026-08-19 11:02:27"
     },
     {
       "source": "Bloomberg",
-      "title_en": "人工智能热潮与能源冲击导致东南亚经济增长呈现分化态势",
-      "title_cn": "人工智能热潮与能源冲击导致东南亚经济增长带来的回报",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/ai-boom-and-energy-shocks-see-growth-in-southeast-asia-bifurcate",
-      "pub_raw": "2026-08-18T23:18:19.974Z",
-      "pub_sort_dt": "2026-08-19 07:18:19"
+      "title_en": "印度国家证券交易所（NSE）计划在首次公开募股（IPO）中实现550亿美元估值，而竞争对手孟买证券交易所（BSE）的股票则失宠",
+      "title_cn": "国家印度证券交易所（NSE）计划在首次公开募股（IPO）中实现550亿美元估值，而竞争对手孟买证券交易所（BSE）的股票则失宠",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/nse-eyes-55-billion-valuation-in-ipo-while-rival-bse-s-shares-lose-favor",
+      "pub_raw": "2026-08-19T02:46:15.804Z",
+      "pub_sort_dt": "2026-08-19 10:46:15"
     },
     {
       "source": "Financial Times",
-      "title_en": "加拿大面临最后期限，需采取行动阻止美国对200亿美元出口商品加征关税",
-      "title_cn": "加拿大面临最后期限，需采取行动阻止美国对200亿美元出口商品加征关税",
-      "url": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-18T23:18:19.011Z",
-      "pub_sort_dt": "2026-08-19 07:18:19"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "独家 与Anthropic相比，OpenAI第二季度营收增长乏力",
-      "title_cn": "与 Anthropic 相比，OpenAI 第二季度增长动力强劲",
-      "url": "https://on.wsj.com/4gEpKiT",
-      "pub_raw": "2026-08-18T23:18:18.996Z",
-      "pub_sort_dt": "2026-08-19 07:18:18"
+      "title_en": "随着人工智能竞赛日益白热化，中国放宽了对英伟达H200芯片的限制",
+      "title_cn": "随着人工智能竞赛的白热化，中国放宽了对英伟达H200芯片的限制",
+      "url": "https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-19T02:46:15.192Z",
+      "pub_sort_dt": "2026-08-19 10:46:15"
     },
     {
       "source": "Bloomberg",
-      "title_en": "日本企业财报超出分析师预期，助推市场对全面反弹的押注",
-      "title_cn": "日本企业财报超出分析师预期，助推市场对全面复苏的预期",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/japan-s-earnings-surprise-analysts-to-fuel-bets-for-broad-rally",
-      "pub_raw": "2026-08-18T23:02:09.462Z",
-      "pub_sort_dt": "2026-08-19 07:02:09"
+      "title_en": "LG能源考虑为美国无人机供应电池，以调整业务方向",
+      "title_cn": "LG能源考虑为美国无人机供应电池，以调整业务方向",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/south-korea-s-lg-energy-in-talks-with-us-for-drone-batteries",
+      "pub_raw": "2026-08-19T02:13:56.728Z",
+      "pub_sort_dt": "2026-08-19 10:13:56"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国类人机器人制造商上市首日股价暴涨600%",
+      "title_cn": "中国类人机器人制造商上市首日股价暴涨600%",
+      "url": "https://www.ft.com/content/14cd8246-7fb1-4f8f-81b4-8de11ced79e5?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-19T02:13:56.609Z",
+      "pub_sort_dt": "2026-08-19 10:13:56"
     },
     {
       "source": "Bloomberg",
-      "title_en": "弗莱彻建筑公司正等待新西兰需求出现实质性复苏",
-      "title_cn": "弗莱彻建筑公司正等待新西兰需求出现复苏",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/fletcher-building-waiting-on-meaningful-recovery-in-nz-demand",
-      "pub_raw": "2026-08-18T23:02:09.455Z",
-      "pub_sort_dt": "2026-08-19 07:02:09"
+      "title_en": "PHP/USD：随着油价上涨，菲律宾比索跌至历史新低",
+      "title_cn": "PHP/USD：随着房价上涨，防疫比索跌至历史新低",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/php-usd-philippine-peso-fell-to-new-record-low-as-oil-prices-rise",
+      "pub_raw": "2026-08-19T01:58:25.772Z",
+      "pub_sort_dt": "2026-08-19 09:58:25"
     },
     {
-      "source": "Financial Times",
-      "title_en": "伦敦的清洁空气区与儿童肺部健康状况的改善有关",
-      "title_cn": "伦敦的清洁空气区与儿童肺部健康状况的改善有关",
-      "url": "https://www.ft.com/content/d801e26b-6e5b-42ca-bfdd-bd9d8a1aa3f9?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-18T22:46:08.160Z",
-      "pub_sort_dt": "2026-08-19 06:46:08"
+      "source": "Bloomberg",
+      "title_en": "委内瑞拉与SLB、Hunt签署协议，力图提高石油产量",
+      "title_cn": "建立与SLB、Hunt签署协议，力图提高石油产量",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/venezuela-signs-deals-with-slb-hunt-in-push-to-boost-oil-output",
+      "pub_raw": "2026-08-19T01:58:25.768Z",
+      "pub_sort_dt": "2026-08-19 09:58:25"
     },
     {
-      "source": "Financial Times",
-      "title_en": "FirstFT：柴油价格飙升给美国工业界造成沉重打击",
-      "title_cn": "第一财经：柴油价格飙升给美国工业界造成沉重打击",
-      "url": "https://www.ft.com/content/b2d9e5a2-22ce-4267-98b0-62ab78906509?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-18T22:46:08.084Z",
-      "pub_sort_dt": "2026-08-19 06:46:08"
+      "source": "Bloomberg",
+      "title_en": "特顿资本反对韩国高尔夫존的第二次收购要约",
+      "title_cn": "特顿反对资本韩国高尔夫的第二次收购要约",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/terton-capital-challenges-korea-s-golfzon-on-second-buyout-bid",
+      "pub_raw": "2026-08-19T01:58:25.761Z",
+      "pub_sort_dt": "2026-08-19 09:58:25"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "随着人工智能竞赛日趋白热化，中国放宽了对英伟达H200芯片的限制 - Financial Times",
+      "title_cn": "随着人工智能竞赛日趋白热化，中国放宽了对英伟达H200芯片的限制 - 英国金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNRF9wTFByQktUOHRwVGVOWVg3TXdURVhZXzVoOTYzY3VwX0J0cXdoZUJGbF9JSWJuLWQ0VVIwY1FpSWNNY2ZuLWREZlEwb1R1MmNnMGNhby12Nk1vako5NzA4VGtjeGJUOXdyTWxMYXpNQWh5TjdPTDdrVVF1dkFOUFFKSkc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T02:10:07.000Z",
+      "pub_sort_dt": "2026-08-19 10:10:07"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国御膳曾受宫廷礼仪的影响，如今依然传承至今 - AP News",
+      "title_cn": "中国御膳曾受宫廷礼仪的影响，如今依然传承至今 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMiigFBVV95cUxQQkJ0QmV1STR6c01fS21wQWZRZ3pvc0FmalhEN3lRMzJqUUlLVlVkd0I4cWNPaXJwUU41YnJleS1uVkNLVHYyY0xuMUhYWkxZM3g1cHhBTHg3YUtzVFZNajk4emNfc2FCckN1YXJvSEo0R1h0eXVkaXhvN2NzbWdZeWlwd2kzLTJXNnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T01:43:00.000Z",
+      "pub_sort_dt": "2026-08-19 09:43:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国后空翻机器人制造商Unitree在上海股市首日上市大涨542% - CNBC",
+      "title_cn": "中国后空翻机器人制造商Unitree在上海股市首日上市大涨542% - CNBC",
+      "url": "https://news.google.com/read/CBMimgFBVV95cUxOUkwtX3hYUHVJcU5sNkpFd01YM1JBSnlVRDVBYzZMLXlteVFzZVlJTTRFWXFpSkF5U09aUFpyVUpDOFo5MWRxSTROYzlaV0doMGR0SVFwcjlKS3FaWEI1aHdJa1JiZy01UkQ5ejA0Z1dFY0JVMjNOUUFaNnlqTDR2eERWdG82M20xQ1RUNDlhUnljNHNPUGFYbUln0gGfAUFVX3lxTE8wUFNpYWZ4N0tBX1RXNWFWZUVhRlpTRGZUUHV2RVp4emxfbUlOam0tTHhEOUlfN3gwR0V0UVJlMWtBOFd6Vl9rYWFsWm1WbzJMSm1jYlZrMlhLZ3BNM3NZajBndXlNSUlpaTV2ZTVQSWZSeUZxZUh5M0ZrbFFUdEUxMjEwLWlCTlN2MG1sRkFKeXkzUURPb21pcEJma3NqUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T01:37:00.000Z",
+      "pub_sort_dt": "2026-08-19 09:37:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一部关于伊拉克战争的热门电影，反映了中国人怎样的世界观？ - scmp.com",
+      "title_cn": "一部关于伊朗战争的热门电影，反映了中国人怎样的世界观？ - scmp.com",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxNdW9XdjNYMVN4RG95aHlmeG5Wa1FZcGVfc2hhTnlvQ19IaktnT25EanJNVzNseElnS0k5d1E0QUdmdmhPb2tPQWx3TUo2dlBsLUZWMVZJMm1DeWQyanhOeXcwOC1ubjJXZ0swcFg0U0RKOEJMM1dOV3ZqWUo1N2M3cFRWcDdGajJZRlYtaVFMN3p5QkNFVXhwMkthTF9CSzBpNHdnTTVGRDFwWlJVMy1VUHFWT3Brd3JUekR6eG1B0gG-AUFVX3lxTE1zTWtXOUdtVnFWeDNvbThmLWtoeEh6NF90YS1iMGY4MENYUlpNSjlPUDlCaXV0dW1DT3pYY21xRmllS0FWb295THV2RG4wYjMwSVBYUlFBUDg0MzA2WjBTUGtNbS1jUGQxenBhN05KdUtLQXZYTU5OMkotdDIzclE2Mk53NlZWeGlWUFB0R0pxellwT2lWR1B3Rkd4TlNPdEtlOVFEaFpkWnJ0U3E0UjQwaTVUZ2pUZWhsMkJMWVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T01:00:08.000Z",
+      "pub_sort_dt": "2026-08-19 09:00:08"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "“一切都由党做主，”获释牧师谈及中国对宗教的打压时表示 - PBS",
+      "title_cn": "“一切都由党做主”获释牧师谈及中国对宗教的打压时表示 - PBS",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxPQzdDQzREd01DQlliNDZxLUhYY09yVnd4aFhVVWdwSDNYQW5saWo5VjhMbm91REh3U0NrcWxPbFhqeFlXUTZBV3NNV0tjSTRfWlFJeXlQa0RnTU92bmJVWmxwVFNjZ2c3NU9hd3FMWm9zOEI2aU9yMHg0UlN4WXF6amhjcHZsa2JJd3ctUzF4NXhJZWNWSXdPMzJjVW80Ml9qT0ctMmVCQlU5RFNhVFZCNmZITk5OUUpVdzNMYg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T22:20:07.000Z",
+      "pub_sort_dt": "2026-08-19 06:20:07"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "信任问题：中国富豪们正面临新的离岸资产税规带来的挑战 - South China Morning Post",
+      "title_cn": "信任问题：中国富豪们正面临新的离岸资产税规带来的挑战 - 南华早报",
+      "url": "https://news.google.com/read/CBMi0gFBVV95cUxQYmMyNUVVQUk4VWJxVE9JZFc5TjJUd0xFbFY1M1ZPREtRSWl3UENaSlpseVluUkdsMDhrODhyUUhhczloa3ROLUhodFhjalFHWGdqY1BSb0tYTC1sNTlwLXVEZkx1RW1iN0lMSDVibmtLWlR4bkM1NThHSmllU2NtUGltbFRiN2VsSThKN1Nhb1ktOUlLd0VScGdqeVJWRVlIV2drVmd5X01LbzFTbGN1Y1h6dG9aejBqNXR1b3hZanBEM3lVbEtOY2VmTTl2SXIzZFHSAdIBQVVfeXFMTXJrVjItcDd4cWZCMVQ0c0dZS3ZqNHVyazBqcnh4WG94Nl9YbEJCTGNOUGl1YW1vQ0RYV2RtRzN5bmR1cEhDd3IyT3phRGxYMERHTk9BR2NQUmJWUVNGbFZSejh1LWNBNUlKUmd6OE83RUJ6dHRLRVhZWXptUUsxVjRPYXBzam9BVTlRSjJOQnlmc2x0aWZkQ2tZcGhyYkJDblRCQ0dLWGFvTHV0NmltMUNQSmdGZkg4RjQwMWF2UlEzWjNMVFZzdHRlVHlaRUZsZXRR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-18T22:00:08.000Z",
+      "pub_sort_dt": "2026-08-19 06:00:08"
+    },
     {
       "source": "China Buzzing",
       "title_en": "观点 按照美国的条件推进中国的改革与开放 - WSJ",
@@ -287,212 +335,164 @@
       "pub_sort_dt": "2026-08-19 03:21:15"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "华盛顿对科技行业的打压会考验脆弱的中美停火局面吗？ - South China Morning Post",
-      "title_cn": "华盛顿对科技行业的打压会考验脆弱的中美停火吗？ - 南华早报",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxQendqNkw3dGdzTXFPXzZrS3h1VlF1eVFzbmhXdzFxMGtaQWZrbkZ6bHlEZHhiZW1tUklLbjB1c0tkajJPazdEbkV2Ny1CdjQ0VkdnTmN4elZldS1UVlJ3cTZVMmdYYzJ4YUo5ckh3NW1HY0xXQ19Yb1U3LWdfQVBXWUt3aHI3eVo2Q0F2azI2MUg3UjZJM3BDZ20tQ2c2MC1sM3hJSXh3MNIBpwFBVV95cUxQRHVXSVZSMFVfV29YSGNlN1E0cnJWS1dvaFA0Ym1aSGN1LVQ5dWIzZ0VLS3ZSQTAyYU9xcG1pdUE0RndndFFHRlFOLXd6RFZTX1I2QTVYU0xhY2duanYyMExDdkZHRmltN0VYZGtqTkhEb25SRmM0X05GWVdhQVFSLTZPTUx1Wjh6S1lLYUVzRFRRYkotdmxlYVVndGZGR2ljNjF6bkd4MA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T17:07:20.000Z",
-      "pub_sort_dt": "2026-08-19 01:07:20"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "如果中国在人工智能竞赛中胜出，究竟会发生什么？ - The Atlantic",
-      "title_cn": "如果中国在人工智能竞赛中胜出，会发生什么？ - The Atlantic",
-      "url": "https://news.google.com/read/CBMiiAFBVV95cUxObVh1Y19FblF4bURwYjk2U3ppcmhKTDdSd1p3NU9EbzQ1eXp4d0l0WDQ3clJXY3E4RW10Y3A0RTJmLW9RQXFWMVNCOXZlTDNTcjQyaVJZeWtjTktsYVhjUW0taHNTeGlYTkk1dEtTMndScjd4cVktZ2Rkck0tcUpJMTNUNjhacUY0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T17:06:19.000Z",
-      "pub_sort_dt": "2026-08-19 01:06:19"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国军方资金如何推动了中国机器人犬的发展 - Military Times",
-      "title_cn": "美国捐赠资金如何推动了中国机器人犬的发展 - 军事时报",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQWExTYkNIcUFySU03ZzVmV2lxUEFrWi1Rb0ZLeEJ0UDlSR3kxem93N0xFNDRORGdLSFFVWHNocmc1WkhJcHhVUGo1VXlpeHRRbHVndUFBQWl0RGhieVJGWFAxSjFFcGJxemZhb3p1N2MyS3Y5N3A3NjUtTHJXWThYbW16QXBGczN2NjRjRElBaDZmXzlKZEJlV2lvZVUyZlAtd25DNG1tV2ZVS0RsVmRIQkVn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T16:01:40.000Z",
-      "pub_sort_dt": "2026-08-19 00:01:40"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "白宫关于中国转口贸易“骗局”的荒谬指控 - The Economist",
-      "title_cn": "亚特兰大关于中国转口贸易“骗局”的指责 - 《经济学人》",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxOTmRGcnFzTVJWdFV5aDVjMnlrUTUtQVVrS0tZNWJ0V2RaTnNYWkZYY2RQWXhTRUtTS3Z1UENnQXN3Wm01emlqZnB4MGYzTGRMUEh2V3RnQkVidzgwNXoyMXN4TVBTMnlSVndSOUhPN0xGUTYzVmVMbEEtdDhiNTFyNk53aEJoOV9jSjkyR3I4SHlweXlZcnUtSE03YzlhVXVqYzJZZWh1NG5yN29BblpSRlhUTmRGWVZlMEpnYg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T15:42:49.000Z",
-      "pub_sort_dt": "2026-08-18 23:42:49"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "《南华早报》报道称，诺基亚将在年底前关闭在中国大陆的几乎所有办事处 - Reuters",
-      "title_cn": "《南华早报》报道称，诺基亚将于年底前关闭在中国大陆的几乎所有仓库 - 路透社",
-      "url": "https://news.google.com/read/CBMiwAFBVV95cUxNU0VjRW5KV2tYY3BxTE5PUVB2WVNtMzZqN0R2Vmt4UGVlNDkxYUlURzJZdnN4QzV6SFZNNW9hSmVjVEFRc201NHNhWlY3dG4zSVp2RDVWRTh5RnRhOTJ0Y1AyS2I5eWFPRFh2RFE3WUZyb2VoNFhlZFl6aE9DNGx5UEMtT2VOY3VwTHp5RHFsaUJsMkNDLXNOYUUyNXdUUkF6cUxEeWVacERNNVdnTmxxMlRMWVBHM0J5T3ZNWnBjT0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T14:24:26.000Z",
-      "pub_sort_dt": "2026-08-18 22:24:26"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "GT Voice：西方对中方“浪费”清洁能源大肆炒作，背后实为“酸葡萄心理” - Global Times",
-      "title_cn": "GT Voice：西方对中方“浪费”清洁能源大肆炒作，背后实为“酸葡萄心理” - 环球时报",
-      "url": "https://news.google.com/read/CBMiYkFVX3lxTE1KZkJscTNRWm1kdkVEak5PbUJ4WWItTGRSNzRJbzBFbXlCcTJtNGh1b1k5MjBiX3JWdzRETng0MHRLbFF0UE95bEhuZkhERWRsRlV5Z2FtWnpsR25qOWc5dXZ3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T14:22:00.000Z",
-      "pub_sort_dt": "2026-08-18 22:22:00"
+      "source": "Bloomberg",
+      "title_en": "罗博格表示，1万亿美元的人工智能资本支出可能推高债券供应量",
+      "title_cn": "罗博格表示，1万亿美元的人工智能支出可能推高债券供应量",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/funding-1-trillion-ai-capex-may-expand-bond-supply-robeco-says",
+      "pub_raw": "2026-08-19T03:50:04.038Z",
+      "pub_sort_dt": "2026-08-19 11:50:04"
     },
     {
       "source": "Bloomberg",
-      "title_en": "印尼料将维持利率不变，新任行长将作出上任后的首次利率决策",
-      "title_cn": "对话人士料将维持利率不变，新任行长将做出上任后的首次利率决策",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/indonesia-seen-holding-rates-as-new-chief-leads-first-decision",
-      "pub_raw": "2026-08-19T00:22:04.060Z",
-      "pub_sort_dt": "2026-08-19 08:22:04"
+      "title_en": "特朗普下令后，美国和韩国缩减了军事演习规模",
+      "title_cn": "特朗普下令后，美国和韩国缩减了军事演习规模",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/south-korea-says-joint-military-drills-with-us-to-be-curtailed",
+      "pub_raw": "2026-08-19T03:50:04.009Z",
+      "pub_sort_dt": "2026-08-19 11:50:04"
     },
     {
       "source": "Bloomberg",
-      "title_en": "Cerebras（CBRS）表示，其新款计算机进一步扩大了在AI速度方面对英伟达的优势",
-      "title_cn": "Cerebras（CBRS）表示，其全新计算机进一步扩大了在AI速度方面对英伟达的优势",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia",
-      "pub_raw": "2026-08-19T00:22:04.057Z",
-      "pub_sort_dt": "2026-08-19 08:22:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国债券逆全球抛售潮而行，因其与同类市场在政策上存在分歧",
-      "title_cn": "中国债券逆全球抛售潮而行，最优秀与同类市场在政策上存在缺口",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/china-s-flatter-bond-curve-shows-deeper-policy-divide-with-peers",
-      "pub_raw": "2026-08-19T00:22:04.043Z",
-      "pub_sort_dt": "2026-08-19 08:22:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "芯片股抛售潮持续，亚股下跌：市场综述",
-      "title_cn": "芯片股抛售潮持续，亚股下跌：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
-      "pub_raw": "2026-08-19T00:22:04.029Z",
-      "pub_sort_dt": "2026-08-19 08:22:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受债券抛售及霍尔木兹海峡局势不明影响，黄金跌幅收窄",
-      "title_cn": "受债券抛售及霍尔木兹海峡局势动荡，黄金跌幅收窄",
+      "title_en": "美国国债收益率在大幅飙升后趋于稳定，金价小幅走高",
+      "title_cn": "美国国债大幅飙升后趋于稳定，金价小幅走高",
       "url": "https://www.bloomberg.com/news/articles/2026-08-18/gold-holds-losses-as-bond-selloff-hormuz-limbo-weigh-on-outlook",
-      "pub_raw": "2026-08-19T00:06:10.174Z",
-      "pub_sort_dt": "2026-08-19 08:06:10"
+      "pub_raw": "2026-08-19T03:50:04.002Z",
+      "pub_sort_dt": "2026-08-19 11:50:04"
     },
     {
       "source": "Bloomberg",
-      "title_en": "由于关键项目延误，桑托斯公司利润未达预期",
-      "title_cn": "由于关键项目总体，桑托斯公司利润未达到预期",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/santos-profit-misses-expectations-after-delays-to-key-projects",
-      "pub_raw": "2026-08-19T00:06:10.170Z",
-      "pub_sort_dt": "2026-08-19 08:06:10"
+      "title_en": "Pony AI股价下跌，首席执行官警告称网约车业务前景不明",
+      "title_cn": "小马AI股价下跌，观点警告称网约车业务前景不明朗",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69",
+      "pub_raw": "2026-08-19T03:50:03.926Z",
+      "pub_sort_dt": "2026-08-19 11:50:03"
     },
     {
       "source": "Bloomberg",
-      "title_en": "JBS拟以12亿美元收购Pilgrim''s Pride剩余股权",
-      "title_cn": "JBS拟以12亿美元收购Pilgrim's Pride剩余股权",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/jbs-seeks-rest-of-pilgrim-s-pride-stake-in-1-2-billion-deal",
-      "pub_raw": "2026-08-18T23:50:19.285Z",
-      "pub_sort_dt": "2026-08-19 07:50:19"
+      "title_en": "贝恩旗下子公司Proterial计划通过出售日本线缆公司筹集13亿美元",
+      "title_cn": "贝恩旗下子公司Proterial计划通过出售日本电缆公司缴纳13亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/bain-unit-proterial-seeks-1-3-billion-from-japan-wire-firm-sale",
+      "pub_raw": "2026-08-19T03:33:54.165Z",
+      "pub_sort_dt": "2026-08-19 11:33:54"
     },
     {
       "source": "Bloomberg",
-      "title_en": "前民主党全国委员会主席黛比·瓦瑟曼·舒尔茨赢得众议院初选",
-      "title_cn": "前波兰全国委员会主席黛比·瓦瑟曼·舒尔茨赢得了初选",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/former-dnc-chair-debbie-wasserman-schultz-wins-house-primary",
-      "pub_raw": "2026-08-18T23:50:19.281Z",
-      "pub_sort_dt": "2026-08-19 07:50:19"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "华盛顿律师戈德斯坦在税务犯罪上诉期间申请保释",
-      "title_cn": "华盛顿律师戈德斯坦在税务犯罪报警期间申请保释",
-      "url": "https://reut.rs/4bWXFAM",
-      "pub_raw": "2026-08-18T23:34:16.502Z",
-      "pub_sort_dt": "2026-08-19 07:34:16"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "特劳特曼·佩珀律师事务所的一名律师因心肌梗死后据称遭到惩罚而起诉该事务所，并指控其存在账单欺诈行为",
-      "title_cn": "特劳特曼·佩珀律师事务所的一名律师因诈骗死亡后被指控殴打并起诉该律师事务所，并指控其存在的发票行为行为",
-      "url": "https://reut.rs/4qpQMOt",
-      "pub_raw": "2026-08-18T23:34:16.499Z",
-      "pub_sort_dt": "2026-08-19 07:34:16"
+      "title_en": "韩国家庭贷款增速跃升至近五年来的最高水平",
+      "title_cn": "韩国家庭贷款已跃升近五年的最高水平",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/south-korea-s-household-loan-growth-jumps-to-near-five-year-high",
+      "pub_raw": "2026-08-19T03:33:54.162Z",
+      "pub_sort_dt": "2026-08-19 11:33:54"
     },
     {
       "source": "Bloomberg",
-      "title_en": "新加坡滨海湾金沙获批，令云顶世界赌场牌照成为关注焦点",
-      "title_cn": "新加坡滨海湾金沙获批，令云顶世界赌场牌照成为关注焦点",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/singapore-marina-bay-sands-gains-put-resorts-world-s-casino-license-in-focus",
-      "pub_raw": "2026-08-18T23:18:19.988Z",
-      "pub_sort_dt": "2026-08-19 07:18:19"
+      "title_en": "铜价维持跌势，因伦敦金属交易所（LME）的交割缓解了供应紧张局面",
+      "title_cn": "铜价维持跌势，因伦敦金属交易所（LME）的交割缓解了供应紧张格局",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/copper-holds-loss-as-deliveries-to-lme-mitigate-supply-crunch",
+      "pub_raw": "2026-08-19T03:18:05.395Z",
+      "pub_sort_dt": "2026-08-19 11:18:05"
     },
     {
       "source": "Bloomberg",
-      "title_en": "Unitree Robotics 完成 9.04 亿美元上海首次公开募股后即将上市",
-      "title_cn": "Unitree Robotics完成9.04亿美元上海首次公开募股后即将上市",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-      "pub_raw": "2026-08-18T23:18:19.985Z",
-      "pub_sort_dt": "2026-08-19 07:18:19"
+      "title_en": "蒂尔支持的埃雷博尔银行希望效仿SVB。这很冒险",
+      "title_cn": "蒂尔支持的埃雷博尔银行希望效仿SVB。这很冒险",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-19/thiel-backed-erebor-bank-wants-to-echo-svb-that-s-risky",
+      "pub_raw": "2026-08-19T03:18:05.392Z",
+      "pub_sort_dt": "2026-08-19 11:18:05"
     },
     {
       "source": "Bloomberg",
-      "title_en": "香港交易所推动非股权业务被视为提振股市的关键",
-      "title_cn": "香港交易所推动股权业务被视为提振股市的关键",
+      "title_en": "韩国智库将经济增长预期上调至高于政府预测的水平",
+      "title_cn": "韩国智库将经济增长预期上调至政府预测的水平",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/south-korea-think-tank-raises-growth-outlook-above-government-s",
+      "pub_raw": "2026-08-19T03:18:05.388Z",
+      "pub_sort_dt": "2026-08-19 11:18:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Unitree首席执行官在轰动一时的首次公开募股后，身家飙升180亿美元",
+      "title_cn": "Unitree首次在全民募股后首次公开募股，身家暴增180亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/robot-dogs-make-chinese-billionaire-even-richer-despite-us-curbs",
+      "pub_raw": "2026-08-19T03:18:05.296Z",
+      "pub_sort_dt": "2026-08-19 11:18:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "WiseTech遭澳大利亚反垄断监管机构突击检查；股价暴跌",
+      "title_cn": "慧智科技遭澳大利亚反垄断监管机构突击检查；股价暴跌",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/wisetech-raided-by-australian-antitrust-regulator-shares-plunge",
+      "pub_raw": "2026-08-19T03:02:27.116Z",
+      "pub_sort_dt": "2026-08-19 11:02:27"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "日本股市暴跌，因债券市场担忧情绪影响了市场对人工智能的看法",
+      "title_cn": "日本股市暴跌，因债券市场担忧情绪影响了市场对人工智能的看法",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/japanese-stocks-slide-as-bond-market-anxiety-hits-ai-sentiment",
+      "pub_raw": "2026-08-19T03:02:27.102Z",
+      "pub_sort_dt": "2026-08-19 11:02:27"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港交易所的非股票类业务被视为提振股市的关键",
+      "title_cn": "香港交易所的非股票类业务被视为提振股市的关键",
       "url": "https://www.bloomberg.com/news/articles/2026-08-18/hong-kong-exchanges-non-equity-push-seen-as-key-for-stock-boost",
-      "pub_raw": "2026-08-18T23:18:19.978Z",
-      "pub_sort_dt": "2026-08-19 07:18:19"
+      "pub_raw": "2026-08-19T03:02:27.085Z",
+      "pub_sort_dt": "2026-08-19 11:02:27"
     },
     {
       "source": "Bloomberg",
-      "title_en": "人工智能热潮与能源冲击导致东南亚经济增长呈现分化态势",
-      "title_cn": "人工智能热潮与能源冲击导致东南亚经济增长带来的回报",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/ai-boom-and-energy-shocks-see-growth-in-southeast-asia-bifurcate",
-      "pub_raw": "2026-08-18T23:18:19.974Z",
-      "pub_sort_dt": "2026-08-19 07:18:19"
+      "title_en": "印度国家证券交易所（NSE）计划在首次公开募股（IPO）中实现550亿美元估值，而竞争对手孟买证券交易所（BSE）的股票则失宠",
+      "title_cn": "国家印度证券交易所（NSE）计划在首次公开募股（IPO）中实现550亿美元估值，而竞争对手孟买证券交易所（BSE）的股票则失宠",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/nse-eyes-55-billion-valuation-in-ipo-while-rival-bse-s-shares-lose-favor",
+      "pub_raw": "2026-08-19T02:46:15.804Z",
+      "pub_sort_dt": "2026-08-19 10:46:15"
     },
     {
       "source": "Financial Times",
-      "title_en": "加拿大面临最后期限，需采取行动阻止美国对200亿美元出口商品加征关税",
-      "title_cn": "加拿大面临最后期限，需采取行动阻止美国对200亿美元出口商品加征关税",
-      "url": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-18T23:18:19.011Z",
-      "pub_sort_dt": "2026-08-19 07:18:19"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "独家 与Anthropic相比，OpenAI第二季度营收增长乏力",
-      "title_cn": "与 Anthropic 相比，OpenAI 第二季度增长动力强劲",
-      "url": "https://on.wsj.com/4gEpKiT",
-      "pub_raw": "2026-08-18T23:18:18.996Z",
-      "pub_sort_dt": "2026-08-19 07:18:18"
+      "title_en": "随着人工智能竞赛日益白热化，中国放宽了对英伟达H200芯片的限制",
+      "title_cn": "随着人工智能竞赛的白热化，中国放宽了对英伟达H200芯片的限制",
+      "url": "https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-19T02:46:15.192Z",
+      "pub_sort_dt": "2026-08-19 10:46:15"
     },
     {
       "source": "Bloomberg",
-      "title_en": "日本企业财报超出分析师预期，助推市场对全面反弹的押注",
-      "title_cn": "日本企业财报超出分析师预期，助推市场对全面复苏的预期",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/japan-s-earnings-surprise-analysts-to-fuel-bets-for-broad-rally",
-      "pub_raw": "2026-08-18T23:02:09.462Z",
-      "pub_sort_dt": "2026-08-19 07:02:09"
+      "title_en": "LG能源考虑为美国无人机供应电池，以调整业务方向",
+      "title_cn": "LG能源考虑为美国无人机供应电池，以调整业务方向",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/south-korea-s-lg-energy-in-talks-with-us-for-drone-batteries",
+      "pub_raw": "2026-08-19T02:13:56.728Z",
+      "pub_sort_dt": "2026-08-19 10:13:56"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国类人机器人制造商上市首日股价暴涨600%",
+      "title_cn": "中国类人机器人制造商上市首日股价暴涨600%",
+      "url": "https://www.ft.com/content/14cd8246-7fb1-4f8f-81b4-8de11ced79e5?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-19T02:13:56.609Z",
+      "pub_sort_dt": "2026-08-19 10:13:56"
     },
     {
       "source": "Bloomberg",
-      "title_en": "弗莱彻建筑公司正等待新西兰需求出现实质性复苏",
-      "title_cn": "弗莱彻建筑公司正等待新西兰需求出现复苏",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/fletcher-building-waiting-on-meaningful-recovery-in-nz-demand",
-      "pub_raw": "2026-08-18T23:02:09.455Z",
-      "pub_sort_dt": "2026-08-19 07:02:09"
+      "title_en": "PHP/USD：随着油价上涨，菲律宾比索跌至历史新低",
+      "title_cn": "PHP/USD：随着房价上涨，防疫比索跌至历史新低",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/php-usd-philippine-peso-fell-to-new-record-low-as-oil-prices-rise",
+      "pub_raw": "2026-08-19T01:58:25.772Z",
+      "pub_sort_dt": "2026-08-19 09:58:25"
     },
     {
-      "source": "Financial Times",
-      "title_en": "伦敦的清洁空气区与儿童肺部健康状况的改善有关",
-      "title_cn": "伦敦的清洁空气区与儿童肺部健康状况的改善有关",
-      "url": "https://www.ft.com/content/d801e26b-6e5b-42ca-bfdd-bd9d8a1aa3f9?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-18T22:46:08.160Z",
-      "pub_sort_dt": "2026-08-19 06:46:08"
+      "source": "Bloomberg",
+      "title_en": "委内瑞拉与SLB、Hunt签署协议，力图提高石油产量",
+      "title_cn": "建立与SLB、Hunt签署协议，力图提高石油产量",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/venezuela-signs-deals-with-slb-hunt-in-push-to-boost-oil-output",
+      "pub_raw": "2026-08-19T01:58:25.768Z",
+      "pub_sort_dt": "2026-08-19 09:58:25"
     },
     {
-      "source": "Financial Times",
-      "title_en": "FirstFT：柴油价格飙升给美国工业界造成沉重打击",
-      "title_cn": "第一财经：柴油价格飙升给美国工业界造成沉重打击",
-      "url": "https://www.ft.com/content/b2d9e5a2-22ce-4267-98b0-62ab78906509?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-18T22:46:08.084Z",
-      "pub_sort_dt": "2026-08-19 06:46:08"
+      "source": "Bloomberg",
+      "title_en": "特顿资本反对韩国高尔夫존的第二次收购要约",
+      "title_cn": "特顿反对资本韩国高尔夫的第二次收购要约",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/terton-capital-challenges-korea-s-golfzon-on-second-buyout-bid",
+      "pub_raw": "2026-08-19T01:58:25.761Z",
+      "pub_sort_dt": "2026-08-19 09:58:25"
     }
   ]
 }
