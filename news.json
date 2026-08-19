@@ -1,15 +1,79 @@
 {
-  "update_cst": "2026-08-19 22:01:04 北京时间",
+  "update_cst": "2026-08-20 06:01:09 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 14,
+    "Bloomberg": 15,
     "Financial Times": 2,
-    "Wall Street Journal": 0,
-    "Reuters": 4
+    "Wall Street Journal": 1,
+    "Reuters": 2
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "美国海军一艘驱逐舰在南海断电4天 - Military Times",
+      "title_cn": "美国海军一艘卸载舰在南海断电4天 - 军事时报",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxPNzVmNFBBdEwyRFVkbl9PaUdwMzhNWllGakFFLUJKMlNhRDQ5eU5jNkQxMGpCcWE2U1g1YmtJblpQLTJxV1ZrRkFXOXZVSDA2ZW4xQ1ZfUm5IeTJwdXgtRTF1eHdUcEEtR0hnWkZ0WG9oaE5Canl6Zzh4dDhSWVJ4NUozQVJxWmxLNEZPVkFDbjRnUUwyLWpjSjlaaWw5Mm9oa1VDbW5PTzV0Z2UwcGpNUUZIbjF6dXhNN1h0SS1aMDJ3dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T16:57:54.000Z",
+      "pub_sort_dt": "2026-08-20 00:57:54"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国在贸易问题上真的太怂，不敢与中国对抗吗？ - The Guardian",
+      "title_cn": "美国在贸易问题上真的太怂了，不敢与中国对抗吗？ - 英国卫报",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxPSW0yU3RqTkNxcmFnT1B5TWJEVDRXcklzaGVPUlpraWxlWUhnTTBmQlhXaENuRHJnZnVna09jOU0yc1FldXNRVzZzM0t4N25raldRVVBSUVN6QjhodGlpRW1keU5QY01xTzJCbldVM0ZjRlpoVFpUV3dLQW9yZVA5MQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T16:44:00.000Z",
+      "pub_sort_dt": "2026-08-20 00:44:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "报道称，古巴经济的急剧下滑掩盖着一个距离佛罗里达州仅数英里之遥的国家安全威胁 - Fox News",
+      "title_cn": "报道称，古巴经济的乍一看就察觉到距离佛罗里达州仅数英里之遥的国家安全威胁 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxQNFJzWlBMUy1SeEl2dmI3d0czbjBHbDJwY05XLVpwaTVaeW9BLTJoU2dtTjZHSTJSQVVET2xUWWJTeHdjTnh2T0luU2RCcXFJQVZqbzl5LXQ1c3EtMU1fcENRT0lPMkhJM2ZIZkxkR21BdURSc1B5SVhYeWZlT2tZSE4zU3NtVFRBMU9iZTFMaDVYVmozVTVzUlJWNms2Z0FmT1lVVFAwRmhKUEw5RWg5Q3lVX0JZNzTSAbwBQVVfeXFMTjc4SkRyc215OUotaHgwSmY3NmFHaVRGTmVjd0Z6WTNpN3dMZGxjRnZZUGVLbGMzNFJYeUpYaURtWG9sdnAtUGVfY0dRRDAxZlNhbmkxMXA3bGVPTF83WGpjUkhaUDNTYjBCT1hiTjBJSWVxSGswZHE4NUVJYjZfTWx5VUhPb3VqY01keElITU54MmpmOXJ5akZzNUViQUJBcGdZOElfb21BVmtCSDVfOWZsWUJYZUJ0SXBfQ0U?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T15:23:14.000Z",
+      "pub_sort_dt": "2026-08-19 23:23:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国海军一艘军舰在南海断电4天 - ABC7 Los Angeles",
+      "title_cn": "美国海军一支军舰在南海断电4天 - ABC7 洛杉矶",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTFBSazVkTnhhbjAtX1BTWlhyYnJUTUY2QUxmVDBHZTRBUWVudDF2VHpSZTYwMmN0aXZ1c0xxX0E3b2tHaXlQbmpIbFNoa2VGXy05Z2d3WmZiYjZ2NE0yZVNwS0xka3lkM011YkNfOHU0VXNmYTI0R2JlTE1TR1hkQdIBgwFBVV95cUxPQjJnTEZGRzBibVBMLVFwUWlqQmtsUWFSTkZJMktvS1hIVUxORDRMNTNLanNoM192c21SLVZnREVzZDUxaEVTWmtiYUo1LTlySlFaaG5uRWJsWXlXWS1DeTl5QWVDMDBJOWNueU95R0Jyekd6SkNIWTJPWU1Vc3Iwa1JIMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T15:23:14.000Z",
+      "pub_sort_dt": "2026-08-19 23:23:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "从机器人狗到辅助机器人，中国在世界大会上展示了其在机器人领域的雄心 - abcnews.com",
+      "title_cn": "从机器人狗到辅助机器人，中国在世界大会上展示了其在机器人领域的雄心",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxNWG4wT2h3aVU2NDRZQ3k1Z0RSZk13TkRfMTFRdktyRHIzaVNJMzZTdjYwX3puZEhkTmhidFVYWlYtRG5famxCc3V5U3hZck1kVHBZbG12QkdSX2dKZThGSmNFNkZLY1lkcDBoTFdWdURrS0UtcGVBRkQ2LVhwZktRUEpqUkM3ZUhCX3FhcVR3X3I2QXpIektzSmhySjFCZHFnallxQ24yb1BLMGfSAbABQVVfeXFMT2FqcFVSQnFuQ1R6OExzQi1uX2U1bFBpYkF0TTVDY3VTbkExMkVDbjVEdHR4ZlZUajRPQjVOZGdVRXowWUV4NWxGVjBmVHo4Q0RQY3ZQb3V4OWpFVW82RWFDQ0dVZTl6UHhwQk1VTTZzazBpMEQxMWc3WHRPZUNRbU52aU5mZHpTYlRhX2N5V1hxVXZSZGFScGhPNWJMTXd0Y0xaV2xXb1FUZUZjNXUyaXU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T13:34:55.000Z",
+      "pub_sort_dt": "2026-08-19 21:34:55"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国国防部下令30所大学审查与中国的联系 - Time Magazine",
+      "title_cn": "美国骨骼下令30所大学审查与中国的联系 - 时代杂志",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxQR2R0cWlJUmZpMzV0Z3Q1UkNWbzBoYzJCMlhPMkF1QUt2MmJybGlyako4Z1hVWWRtS1otNS04ejBfeTE4R2Q5WGNuUzRsMmpWWFpCNE4tMDNkZWdmazRHSm9KWEdkMmc3eW9CYi1mekpzM3YtNFo3aG5nUndJbnNtQ0lNcVRHVUR3R1VpUzA0MW1fNURNY1JQVXlBVlNUbVYxeFBLQnJrMl9UVEtyc1lLNk5R?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T11:00:00.000Z",
+      "pub_sort_dt": "2026-08-19 19:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国机器人制造商纷纷涌向北京展会，寻求实现大规模应用的途径 - Reuters",
+      "title_cn": "中国机器人制造商纷纷涌向北京展会，寻求实现大规模应用的现实 - 路透中文网",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T09:23:32.000Z",
+      "pub_sort_dt": "2026-08-19 17:23:32"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国机器人制造商纷纷涌向北京展会，寻求实现大规模应用的途径 - Yahoo Finance",
+      "title_cn": "中国机器人制造商纷纷涌向北京展会，寻求实现大规模应用的现实 - 雅虎财经",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxNWDVVSDNZa3hpUzJtNVZmZlM3YjI5YU9TNzJWNUR0TzJwU2RfeXVjRUxWcWliQTBOVFoxbnVQNmJGa3JpenVvVDZXd3BxRVNZNWxicml4Mk12TTB0YVdvMmpzMHpnaFhwcTRTZm1nNm9lM3BwZjZ2OVJseEZFSXN4TlNlTW40R1UtZFpHcXBJLTBEbWZlem1EVWJSdDg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T09:22:48.000Z",
+      "pub_sort_dt": "2026-08-19 17:22:48"
+    },
     {
       "source": "China Buzzing",
       "title_en": "欧洲争相为更多尖端企业提供资金，以与中国和美国竞争。 - The New York Times",
@@ -25,237 +89,237 @@
       "url": "https://news.google.com/read/CBMimwFBVV95cUxPSnVmMVJLcWhJajFNV0h1M2FJeDJWY01tR0h2cU91NW5YN1lsTzllOEg4TXBBbi0wUmRKS291SURGclItdXRGWWtWUU5sdGJ4RUM5VDFpYVdiV1NwNGRkZzl0Tl9yTGY2Y2RxS00zSnJzVi1hand1c3BGWWdRelU5aFV4TFJLN0NIYlB2bUFpUHZJTUZ6N3BZWFcxTdIBoAFBVV95cUxPNi1RSUNsQnlPMnBSd3NhM25MdHplUTdoa2ZwblJ2dmlZT1UwUkJ6YnJNQ1FUQWZXSXJRSGpvZ2tUX09JVWZEb0Y0aVh3UVdEWVo3cjFYYXNYWGRmaHdJZnl6bzZxMUx4V0VpMXMxR1Q0NDlsTWtrcWMtMVJlc2VuWkxYTGVHTWw4eEhycFVUNnFaNzM2dDlzdWdnaVU4ZUt1?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-19T09:00:49.000Z",
       "pub_sort_dt": "2026-08-19 17:00:49"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "图片显示，中国已在南海争议礁石上完成第一阶段工程 - Reuters",
-      "title_cn": "图片显示，中国已在南海争议礁石上完成第一阶段工程 - 路透社",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxOWjlHMXpDTU1lN0ZxdTV0cWJwMktYTG52MU5RX1JXVTFaemlzbl9TdzZRWS1IN3dCM0d4ZmdLaGtTVjI1NHU5U1N1Mi02bGVteGtDZXlOZWpOcmlMbExyMnpnX0V1WG5hUWJ2ZmlULUVxU1RjZWo3SllHU04tLVFIbmV0WDJEV1hFdllaRHR5Y0I4NkVNTjFub3VqTHV5aUFYdFhGMkU1SV96NlFsdEtHQmZNeGNVeVhPdHlwZDhBVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T07:19:44.000Z",
-      "pub_sort_dt": "2026-08-19 15:19:44"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "霍尔木兹海峡的动荡促使中国开辟了一条替代贸易路线：一条长达3,400英里、被称为“冰丝绸之路”的北极冰封航道。 - Yahoo Finance",
-      "title_cn": "霍尔木兹海峡的大西洋推动中国开辟了一条替代贸易路线：一条长达3,400英里、被称为“冰丝绸之路”的北极冰封航线。 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxOY09TUDZ6ZThMVlRxbl9waVRMb3pURlc4RDBmU1B6bVlKa0x4UzRuRklFOVJPU3VvdFgzdExEQUxtNzlkTmFIeUM0dzBJX2VubHRVM3Vwb0NZd2dsVWJnU0hWdGdUNjdqX1dBaFNGOGoyc3l0eDdEUXJIYThyUE1aWGc3OThzeG1qVnRiV3MyUk9lOVlZVFpxTXhZMEE5TktkTzlkWFFn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T07:00:00.000Z",
-      "pub_sort_dt": "2026-08-19 15:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "继此前在海上成功回收火箭级后，中国首次在陆地上回收了火箭级 - NBC News",
-      "title_cn": "继阿联酋在海上成功恢复了火箭级别后，中国首次在陆地上恢复了火箭级别 - NBC News",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxNYmtvXzVxV1BHX0NjWENOc1NIdHdiRXEtM2ZVbkVDX3pTZEp0Q1gzQlRfQy0zcjNsdEZHZWFZMG5xRFBzVkNnTWlOMWY0SkFqcFAyUW5EdThoOVlTUGZOLUliSWF2TlBJbzhzTEo3V0tIbFBJZ0dLVTYxcllLTTM1RkU5WjJHVE5TRUFLSlpUWXBUbE9lMHlZeEpyRW80UGVLOWFmRDRFNFNwUUxNUkVB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T05:35:00.000Z",
-      "pub_sort_dt": "2026-08-19 13:35:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在中国经济放缓之际，工薪阶层的故事引起了共鸣 - The New York Times",
-      "title_cn": "在中国经济恐慌之中，工薪阶层的故事引起共鸣 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxPSkJsWjVUYnNGVGVLaXpvTXN4ZjEzaE1UaFctNjBnUnZRZnQ1TWk2ZjBHejFYYkJJN2JFV1NFaVRSUzNnQUtnbVVXdHQzOE84Q3RwZUR4WmlIcWVHdWNnQm5PTGhHSGtLbExQbUtjUzh3NHNpSEg2aklnSEstZWtPeVZPbjlTOVJpazdOQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T04:00:08.000Z",
-      "pub_sort_dt": "2026-08-19 12:00:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "类人资源：中国机器人寻求劳动力领域的突破 - Yahoo Finance",
-      "title_cn": "类人资源：中国机器人寻求劳动力领域的突破 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxPUEJ4aDZfQ0FUd0dPMjdiYmtiVTRabTd0bTZTQkQyOUREcndNTjExNDBkVU92Q0k4ZmtXNGJlMGtyQ2pvbDRPMl9kV0pfSlF0RGRFYVVFR1ZFWTFVZ25TbWxBVWs2REstTG0yRHlaSmhTVGZZZEwwb0N1Z3ZtTHFxNWJtRDM5TGFlb2RzcXQzdFRBMXNxXy1zZkQzN0hfal9ESERGcU93?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T03:25:00.000Z",
-      "pub_sort_dt": "2026-08-19 11:25:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国在陆地上成功回收火箭，力争追赶SpaceX - Bloomberg.com",
-      "title_cn": "中国在上一届成功恢复火箭，力争追赶SpaceX - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxOTUpvMThZX3RIUDNYYzhkWDBvaE9NcWpsV0djVF9nYWVobDVzRExqN3FDZVl3U1FaZ255YjdFYXpVbGNVazlsVHpNSnVQVzYtdFVMenBVT0FuSUxRY3NGY3NSLW9LdndDUWxTM3p0MTlfY1BwWl9rUEZYMk9VcjJWWWJPVjdKVF9pMmpsZy1CWkQ2R2cxckp5ckdLaXhaeENRZXFEcmZHcjdXaENfWXp4cVJR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T02:26:00.000Z",
-      "pub_sort_dt": "2026-08-19 10:26:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着人工智能竞赛日趋白热化，中国放宽了对英伟达H200芯片的限制 - Financial Times",
-      "title_cn": "随着人工智能竞赛日趋白热化，中国放宽了对英伟达H200芯片的限制 - 英国金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNRF9wTFByQktUOHRwVGVOWVg3TXdURVhZXzVoOTYzY3VwX0J0cXdoZUJGbF9JSWJuLWQ0VVIwY1FpSWNNY2ZuLWREZlEwb1R1MmNnMGNhby12Nk1vako5NzA4VGtjeGJUOXdyTWxMYXpNQWh5TjdPTDdrVVF1dkFOUFFKSkc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T02:10:07.000Z",
-      "pub_sort_dt": "2026-08-19 10:10:07"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国四川一村庄房屋部分坍塌致5人死亡 - Reuters",
-      "title_cn": "中国四川一村庄房屋部分塌陷致5人死亡 - 路透中文网",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxQN3ZBMTNRRjltbmJqanJVWEM4YVVRVFJvV0Znb3A3aVRyYUc2TWVUMnNpMFJ5RWlZUkd4U1NFOVBwZEVQR3dpTUU0ZUsyUFAxYUpSODZfLXVDeElyOEo1ZmN4aDlFamk4VDVOb2JLU1c5ZDJjT1JtTkxyMUFYSnR3SlpRVTJMWGVaVWRXSlVGVmpGV1hkQnk5clNyWFFUalQzcmdYOHlBU2ZTbTFSd3Bncw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T02:07:00.000Z",
-      "pub_sort_dt": "2026-08-19 10:07:00"
     }
   ],
   "media_news": [
     {
-      "source": "Bloomberg",
-      "title_en": "纽约市炎热的夏天导致公寓租金涨至5,000美元，且未来情况将更加严峻",
-      "title_cn": "纽约市炎热的夏季导致公寓租金涨至5,000美元，且未来情况将更加严峻",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/nyc-s-hot-summer-brings-5-000-apartment-rents-with-more-pain-to-come",
-      "pub_raw": "2026-08-19T13:42:40.308Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
+      "source": "Financial Times",
+      "title_en": "哈德逊河公司借势市场动荡，交易收益激增114亿美元",
+      "title_cn": "哈德逊河公司借势市场动荡，交易收益飙升114亿美元",
+      "url": "https://www.ft.com/content/6a9f79b8-d47c-4cd2-b4ed-1ac77bd75576?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-19T21:42:10.003Z",
+      "pub_sort_dt": "2026-08-20 05:42:10"
     },
     {
       "source": "Bloomberg",
-      "title_en": "腐败调查和呼吁大选后，泽连斯基的国内困境加剧",
-      "title_cn": "腐败调查和呼吁大选后，泽连斯基的国内困境加强",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/corruption-probe-election-call-deepen-zelenskyy-s-domestic-woes",
-      "pub_raw": "2026-08-19T13:42:40.305Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
+      "title_en": "YouTube向创作者提供数百万美元，以阻止他们与Netflix合作",
+      "title_cn": "YouTube向创作者提供数百万美元，以阻止他们与Netflix合作",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/youtube-offers-creators-millions-to-not-work-with-netflix-mt0lbfaj",
+      "pub_raw": "2026-08-19T21:26:10.736Z",
+      "pub_sort_dt": "2026-08-20 05:26:10"
     },
     {
       "source": "Bloomberg",
-      "title_en": "Marvell 授予谷歌购买价值最高达 120 亿美元股票的权利",
-      "title_cn": "Marvell 授予谷歌购买价值最高 120 亿美元股票的权利",
+      "title_en": "科蒂股价下跌，公司警告未来一年将面临“转型”期",
+      "title_cn": "科蒂股价下跌，公司警告未来一年将面临“转型”期",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/coty-s-revenue-beats-expectations-amid-turnaround-push",
+      "pub_raw": "2026-08-19T21:26:10.719Z",
+      "pub_sort_dt": "2026-08-20 05:26:10"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中美人工智能竞赛：ChatGPT、Gemini、Deepseek 和 Kimi Agents 对比分析",
+      "title_cn": "中美人工智能竞赛：ChatGPT、Gemini、Deepseek 和 Kimi Agents 对比分析",
+      "url": "https://www.bloomberg.com/graphics/2026-us-china-ai-race/",
+      "pub_raw": "2026-08-19T21:10:02.444Z",
+      "pub_sort_dt": "2026-08-20 05:10:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "比亚迪推出专为日本市场设计的微型电动车，力图在他人失败之处取得突破",
+      "title_cn": "比亚迪推出专为日本市场设计的微型电动车，力图在别人失败的地方取得突破",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/byd-tries-where-others-failed-with-tiny-ev-designed-for-japan",
+      "pub_raw": "2026-08-19T21:10:02.440Z",
+      "pub_sort_dt": "2026-08-20 05:10:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "机器人、存储器、银行业？现在该把100万美元投到哪里去？",
+      "title_cn": "机器人、工厂、银行业？现在该把100万美元投到哪里去？",
+      "url": "https://www.bloomberg.com/features/2026-como-invertir-un-millon-de-dolares-q3-2026/",
+      "pub_raw": "2026-08-19T21:10:02.437Z",
+      "pub_sort_dt": "2026-08-20 05:10:02"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Breakingviews——华盛顿与AI引发的债务洪流正冲刷着消费者",
+      "title_cn": "Breakingviews——华盛顿与人工智能引发的债务洪流正冲刷着消费者",
+      "url": "https://reut.rs/45DTTc1",
+      "pub_raw": "2026-08-19T21:10:02.319Z",
+      "pub_sort_dt": "2026-08-20 05:10:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "制造商们焦急地等待着加美达成协议，以避免面临50%的关税",
+      "title_cn": "制造商们焦急地等待着加美协议，多达50%的关税",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/anxious-manufacturers-await-canada-us-deal-to-avoid-50-tariffs",
+      "pub_raw": "2026-08-19T20:53:59.841Z",
+      "pub_sort_dt": "2026-08-20 04:53:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "托马·布拉沃的软件收购交易体现了“客户拥抱”战略",
+      "title_cn": "托马·布拉沃的软件收购交易体现了“客户拥抱”战略",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/thoma-bravo-s-software-deals-reflect-customer-bear-hug-strategy",
+      "pub_raw": "2026-08-19T20:38:06.249Z",
+      "pub_sort_dt": "2026-08-20 04:38:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国公共债务达到40万亿美元，加剧了“死亡循环”风险",
+      "title_cn": "美国公共风险债务达40万亿美元，增强了“死亡循环”",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/us-public-debt-hits-40-trillion-high-raising-doom-loop-risk",
+      "pub_raw": "2026-08-19T20:38:06.243Z",
+      "pub_sort_dt": "2026-08-20 04:38:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "莫德纳股价暴涨177%，做空者蒙受55亿美元“惨痛”损失",
+      "title_cn": "莫德纳股价暴涨177%，做空者蒙受55亿美元“惨痛”损失",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/moderna-s-160-surge-burns-shorts-in-painful-5-billion-loss",
+      "pub_raw": "2026-08-19T20:38:06.206Z",
+      "pub_sort_dt": "2026-08-20 04:38:06"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "在美国总统特朗普和拜登任内，美国国债规模翻了一番，现已突破40万亿美元大关",
+      "title_cn": "在美国总统特朗普和拜登任内，美国国债规模翻了一番，现已突破40万亿美元大关",
+      "url": "https://reut.rs/46aehBB",
+      "pub_raw": "2026-08-19T20:38:06.133Z",
+      "pub_sort_dt": "2026-08-20 04:38:06"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "随着借贷规模以史无前例的速度增长，美国政府债务达到40万亿美元",
+      "title_cn": "随着网络规模以史无前例的速度增长，美国政府债务达到40万亿美元",
+      "url": "https://www.ft.com/content/673f8c35-1433-479f-803f-0597cbe7ef74?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-19T20:38:06.076Z",
+      "pub_sort_dt": "2026-08-20 04:38:06"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "美国国债规模刚刚突破40万亿美元：我们是如何走到这一步的",
+      "title_cn": "美国国债规模刚刚突破40万亿美元：我们是如何迈出这一步的",
+      "url": "https://on.wsj.com/4xePmZG",
+      "pub_raw": "2026-08-19T20:38:05.731Z",
+      "pub_sort_dt": "2026-08-20 04:38:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "为何政府债券的高收益率令人担忧",
+      "title_cn": "为何政府债券的高度令人担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/why-high-yields-on-government-bonds-are-causing-alarm",
+      "pub_raw": "2026-08-19T20:22:05.035Z",
+      "pub_sort_dt": "2026-08-20 04:22:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "高市直子直面其恩师在外交政策方面留下的褒贬不一的遗产",
+      "title_cn": "高市直子直面其恩师在账户政策方面留下的褒贬不一的遗产",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-19/takaichi-confronts-her-mentor-s-mixed-foreign-policy-legacy",
+      "pub_raw": "2026-08-19T20:22:05.032Z",
+      "pub_sort_dt": "2026-08-20 04:22:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "CFTC考虑推出人工智能计算期货，ICE和CME正瞄准新市场",
+      "title_cn": "CFTC考虑推出人工智能计算期货，ICE和CME瞄准新市场",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/cftc-considers-ai-compute-futures-as-ice-cme-eye-new-market",
+      "pub_raw": "2026-08-19T20:22:05.028Z",
+      "pub_sort_dt": "2026-08-20 04:22:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "国防科技公司Lyntris因缩减IPO规模股价下跌14%",
+      "title_cn": "国防科技公司Lyntris因缩减IPO规模股价下跌14%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/defense-tech-firm-lyntris-shares-plunge-11-after-downsized-ipo",
+      "pub_raw": "2026-08-19T20:22:04.964Z",
+      "pub_sort_dt": "2026-08-20 04:22:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "前Meta员工称其14岁女儿在Instagram上成为猎物",
+      "title_cn": "前Meta员工称其14岁女儿在Instagram上成为猎物",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ex-meta-staffer-testifies-daughter-14-was-prey-on-instagram",
+      "pub_raw": "2026-08-19T20:06:00.263Z",
+      "pub_sort_dt": "2026-08-20 04:06:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Marvell 授予客户 Google 122 亿美元股票的购买权",
+      "title_cn": "Marvell 赢得客户 Google 122 亿美元股票的购买权",
       "url": "https://www.bloomberg.com/news/articles/2026-08-19/marvell-gives-google-right-to-buy-up-to-12-2-billion-in-shares",
-      "pub_raw": "2026-08-19T13:42:40.298Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "贝森特在国债收益率攀升后加大了债务回购力度",
-      "title_cn": "贝森特在国债攀升后加大了债务债务力度",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/long-dated-treasuries-rally-as-treasury-boosts-bond-buybacks",
-      "pub_raw": "2026-08-19T13:42:40.291Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "人工智能云计算公司Nebius计划发行45亿美元可转换债券",
-      "title_cn": "人工智能云计算公司 Nebius 计划发行 45 亿美元可转换债券",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-cloud-firm-nebius-offers-4-5-billion-of-convertible-bonds",
-      "pub_raw": "2026-08-19T13:42:40.281Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国财政部出手支撑债券市场，股市随之上涨：市场综述",
-      "title_cn": "美国投资者出手支撑债券市场，股市跟随上涨：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
-      "pub_raw": "2026-08-19T13:42:40.197Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "法国表示，约旦河西岸的暴力事件为其对以色列部长本-格维尔实施制裁提供了依据",
-      "title_cn": "法国表示，约旦河西岸的暴力事件对以色列部长本-格维尔实施制裁提供了依据",
-      "url": "https://reut.rs/4xQLQ7L",
-      "pub_raw": "2026-08-19T13:42:40.166Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "“零事故愿景”提出十年后，里士满仍在等待更安全的街道",
-      "title_cn": "“零事故愿景”提出十年后，里士满等待更安全的街道",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/a-decade-after-vision-zero-richmond-is-still-waiting-for-safer-streets",
-      "pub_raw": "2026-08-19T13:26:10.597Z",
-      "pub_sort_dt": "2026-08-19 21:26:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国国债回购计划推动美债收益率走低，金价飙升",
-      "title_cn": "美国国债回购计划推动美债走低，金价高峰",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/gold-holds-losses-as-bond-selloff-hormuz-limbo-weigh-on-outlook",
-      "pub_raw": "2026-08-19T13:26:10.489Z",
-      "pub_sort_dt": "2026-08-19 21:26:10"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "随着Unitree的迅猛发展，德国VDMA行业协会呼吁欧洲在类人机器人领域加大投入",
-      "title_cn": "随着Unitree的迅猛发展，德国VDMA行业协会呼吁欧洲在类人机器人领域加大投入",
-      "url": "https://reut.rs/46g3aah",
-      "pub_raw": "2026-08-19T13:26:10.456Z",
-      "pub_sort_dt": "2026-08-19 21:26:10"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在SEC权衡监管措施之际，特朗普将接待加密货币高管",
-      "title_cn": "在SEC权衡监管措施之际，特朗普将接管加密货币加密货币",
-      "url": "https://reut.rs/3SJPdOO",
-      "pub_raw": "2026-08-19T13:26:10.453Z",
-      "pub_sort_dt": "2026-08-19 21:26:10"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "美国财政部将把长期国债回购规模翻一番",
-      "title_cn": "美国财政部将把长期国债回购规模搞一番",
-      "url": "https://www.ft.com/content/777c9014-2f12-45cf-8224-6bbe808c62cb?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-19T13:26:10.355Z",
-      "pub_sort_dt": "2026-08-19 21:26:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "火灾险经纪公司 RockRose Risk 筹集 1250 万美元",
-      "title_cn": "火灾险公司 RockRose Risk 认购 1250 万美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/fire-zone-insurance-broker-rockrose-risk-raises-12-5-million",
-      "pub_raw": "2026-08-19T13:10:28.713Z",
-      "pub_sort_dt": "2026-08-19 21:10:28"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Target 盈利：\"Target Run\" 卷土重来",
-      "title_cn": "目标盈利：“Target Run”卷土重来",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-08-19/target-earnings-the-target-run-is-making-a-comeback",
-      "pub_raw": "2026-08-19T12:54:13.021Z",
-      "pub_sort_dt": "2026-08-19 20:54:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国批评欧盟在调查京东案时行使域外管辖权",
-      "title_cn": "中国批评欧盟正在调查京东案件时无边界外接权",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/china-criticizes-eu-over-extraterritorial-reach-in-jd-com-probe",
-      "pub_raw": "2026-08-19T12:54:13.014Z",
-      "pub_sort_dt": "2026-08-19 20:54:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "印度一家初创公司致力于在竞争激烈的语音领域与OpenAI一较高下",
-      "title_cn": "印度一家公司与 OpenAI 一起致力于竞争激烈的语音领域一上下",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/india-startup-aims-to-compete-with-openai-in-crowded-voice-arena",
-      "pub_raw": "2026-08-19T12:54:13.007Z",
-      "pub_sort_dt": "2026-08-19 20:54:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "伊朗发出导弹威胁后，阿联酋对其实施金融封锁，使两国间的对抗再次成为焦点",
-      "title_cn": "伊朗发出导弹威胁后，仓库对此实施金融封锁，使集装箱间的对抗再次成为焦点",
-      "url": "https://reut.rs/4g7o6X5",
-      "pub_raw": "2026-08-19T12:38:04.476Z",
-      "pub_sort_dt": "2026-08-19 20:38:04"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "调查人员在英国火车脱轨事故现场附近发现轨道“异常”",
-      "title_cn": "调查人员在英国火车脱轨事故现场附近发现轨道“异常”",
-      "url": "https://www.ft.com/content/ec9afdc4-5fc8-4333-83a7-80b25e1009bb",
-      "pub_raw": "2026-08-19T12:38:04.410Z",
-      "pub_sort_dt": "2026-08-19 20:38:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "人工智能先驱李飞飞警告称，日益加剧的技术反噬将带来风险",
-      "title_cn": "人工智能先驱李飞飞警告称，剧烈的技术反腐蚀将带来风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-pioneer-fei-fei-li-warns-of-risks-from-growing-tech-backlash",
-      "pub_raw": "2026-08-19T12:22:23.707Z",
-      "pub_sort_dt": "2026-08-19 20:22:23"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "贝莱德、英杰华在长期债券市场疲软之际选择短期债券",
-      "title_cn": "贝莱德、英杰华在长期债券市场疲软之际选择短期债券",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/blackrock-aviva-turn-to-short-dated-bonds-as-long-debt-slumps",
-      "pub_raw": "2026-08-19T12:22:23.636Z",
-      "pub_sort_dt": "2026-08-19 20:22:23"
+      "pub_raw": "2026-08-19T20:06:00.214Z",
+      "pub_sort_dt": "2026-08-20 04:06:00"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "美国海军一艘驱逐舰在南海断电4天 - Military Times",
+      "title_cn": "美国海军一艘卸载舰在南海断电4天 - 军事时报",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxPNzVmNFBBdEwyRFVkbl9PaUdwMzhNWllGakFFLUJKMlNhRDQ5eU5jNkQxMGpCcWE2U1g1YmtJblpQLTJxV1ZrRkFXOXZVSDA2ZW4xQ1ZfUm5IeTJwdXgtRTF1eHdUcEEtR0hnWkZ0WG9oaE5Canl6Zzh4dDhSWVJ4NUozQVJxWmxLNEZPVkFDbjRnUUwyLWpjSjlaaWw5Mm9oa1VDbW5PTzV0Z2UwcGpNUUZIbjF6dXhNN1h0SS1aMDJ3dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T16:57:54.000Z",
+      "pub_sort_dt": "2026-08-20 00:57:54"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国在贸易问题上真的太怂，不敢与中国对抗吗？ - The Guardian",
+      "title_cn": "美国在贸易问题上真的太怂了，不敢与中国对抗吗？ - 英国卫报",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxPSW0yU3RqTkNxcmFnT1B5TWJEVDRXcklzaGVPUlpraWxlWUhnTTBmQlhXaENuRHJnZnVna09jOU0yc1FldXNRVzZzM0t4N25raldRVVBSUVN6QjhodGlpRW1keU5QY01xTzJCbldVM0ZjRlpoVFpUV3dLQW9yZVA5MQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T16:44:00.000Z",
+      "pub_sort_dt": "2026-08-20 00:44:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "报道称，古巴经济的急剧下滑掩盖着一个距离佛罗里达州仅数英里之遥的国家安全威胁 - Fox News",
+      "title_cn": "报道称，古巴经济的乍一看就察觉到距离佛罗里达州仅数英里之遥的国家安全威胁 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxQNFJzWlBMUy1SeEl2dmI3d0czbjBHbDJwY05XLVpwaTVaeW9BLTJoU2dtTjZHSTJSQVVET2xUWWJTeHdjTnh2T0luU2RCcXFJQVZqbzl5LXQ1c3EtMU1fcENRT0lPMkhJM2ZIZkxkR21BdURSc1B5SVhYeWZlT2tZSE4zU3NtVFRBMU9iZTFMaDVYVmozVTVzUlJWNms2Z0FmT1lVVFAwRmhKUEw5RWg5Q3lVX0JZNzTSAbwBQVVfeXFMTjc4SkRyc215OUotaHgwSmY3NmFHaVRGTmVjd0Z6WTNpN3dMZGxjRnZZUGVLbGMzNFJYeUpYaURtWG9sdnAtUGVfY0dRRDAxZlNhbmkxMXA3bGVPTF83WGpjUkhaUDNTYjBCT1hiTjBJSWVxSGswZHE4NUVJYjZfTWx5VUhPb3VqY01keElITU54MmpmOXJ5akZzNUViQUJBcGdZOElfb21BVmtCSDVfOWZsWUJYZUJ0SXBfQ0U?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T15:23:14.000Z",
+      "pub_sort_dt": "2026-08-19 23:23:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国海军一艘军舰在南海断电4天 - ABC7 Los Angeles",
+      "title_cn": "美国海军一支军舰在南海断电4天 - ABC7 洛杉矶",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTFBSazVkTnhhbjAtX1BTWlhyYnJUTUY2QUxmVDBHZTRBUWVudDF2VHpSZTYwMmN0aXZ1c0xxX0E3b2tHaXlQbmpIbFNoa2VGXy05Z2d3WmZiYjZ2NE0yZVNwS0xka3lkM011YkNfOHU0VXNmYTI0R2JlTE1TR1hkQdIBgwFBVV95cUxPQjJnTEZGRzBibVBMLVFwUWlqQmtsUWFSTkZJMktvS1hIVUxORDRMNTNLanNoM192c21SLVZnREVzZDUxaEVTWmtiYUo1LTlySlFaaG5uRWJsWXlXWS1DeTl5QWVDMDBJOWNueU95R0Jyekd6SkNIWTJPWU1Vc3Iwa1JIMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T15:23:14.000Z",
+      "pub_sort_dt": "2026-08-19 23:23:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "从机器人狗到辅助机器人，中国在世界大会上展示了其在机器人领域的雄心 - abcnews.com",
+      "title_cn": "从机器人狗到辅助机器人，中国在世界大会上展示了其在机器人领域的雄心",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxNWG4wT2h3aVU2NDRZQ3k1Z0RSZk13TkRfMTFRdktyRHIzaVNJMzZTdjYwX3puZEhkTmhidFVYWlYtRG5famxCc3V5U3hZck1kVHBZbG12QkdSX2dKZThGSmNFNkZLY1lkcDBoTFdWdURrS0UtcGVBRkQ2LVhwZktRUEpqUkM3ZUhCX3FhcVR3X3I2QXpIektzSmhySjFCZHFnallxQ24yb1BLMGfSAbABQVVfeXFMT2FqcFVSQnFuQ1R6OExzQi1uX2U1bFBpYkF0TTVDY3VTbkExMkVDbjVEdHR4ZlZUajRPQjVOZGdVRXowWUV4NWxGVjBmVHo4Q0RQY3ZQb3V4OWpFVW82RWFDQ0dVZTl6UHhwQk1VTTZzazBpMEQxMWc3WHRPZUNRbU52aU5mZHpTYlRhX2N5V1hxVXZSZGFScGhPNWJMTXd0Y0xaV2xXb1FUZUZjNXUyaXU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T13:34:55.000Z",
+      "pub_sort_dt": "2026-08-19 21:34:55"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国国防部下令30所大学审查与中国的联系 - Time Magazine",
+      "title_cn": "美国骨骼下令30所大学审查与中国的联系 - 时代杂志",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxQR2R0cWlJUmZpMzV0Z3Q1UkNWbzBoYzJCMlhPMkF1QUt2MmJybGlyako4Z1hVWWRtS1otNS04ejBfeTE4R2Q5WGNuUzRsMmpWWFpCNE4tMDNkZWdmazRHSm9KWEdkMmc3eW9CYi1mekpzM3YtNFo3aG5nUndJbnNtQ0lNcVRHVUR3R1VpUzA0MW1fNURNY1JQVXlBVlNUbVYxeFBLQnJrMl9UVEtyc1lLNk5R?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T11:00:00.000Z",
+      "pub_sort_dt": "2026-08-19 19:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国机器人制造商纷纷涌向北京展会，寻求实现大规模应用的途径 - Reuters",
+      "title_cn": "中国机器人制造商纷纷涌向北京展会，寻求实现大规模应用的现实 - 路透中文网",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T09:23:32.000Z",
+      "pub_sort_dt": "2026-08-19 17:23:32"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国机器人制造商纷纷涌向北京展会，寻求实现大规模应用的途径 - Yahoo Finance",
+      "title_cn": "中国机器人制造商纷纷涌向北京展会，寻求实现大规模应用的现实 - 雅虎财经",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxNWDVVSDNZa3hpUzJtNVZmZlM3YjI5YU9TNzJWNUR0TzJwU2RfeXVjRUxWcWliQTBOVFoxbnVQNmJGa3JpenVvVDZXd3BxRVNZNWxicml4Mk12TTB0YVdvMmpzMHpnaFhwcTRTZm1nNm9lM3BwZjZ2OVJseEZFSXN4TlNlTW40R1UtZFpHcXBJLTBEbWZlem1EVWJSdDg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T09:22:48.000Z",
+      "pub_sort_dt": "2026-08-19 17:22:48"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "欧洲争相为更多尖端企业提供资金，以与中国和美国竞争。 - The New York Times",
       "title_cn": "欧洲争相为更多尖端企业提供资金，以与中国和美国竞争。 - 纽约时报",
       "url": "https://news.google.com/read/CBMiqgFBVV95cUxOUFRMbVAtdzJCdjE1TmtUbE9sdjdhMWhjcjFNTm1rdDVlREgwMjlTZlVKLXZXMlNoRzBteWI0UmNsZll6ZmxKM0w5Tmg4M2VLUFZBTlBjcnRoREZFbE5QTVZTc3gwSlhudFNBWkc5bVNjWFRFcGtkUzI4a2JtU3VPdEVJX3p6QllFZ05Ha01XY3Ewa0FjNU9Ud283b1FWVDdqWUo3WVBldG5xZw?hl=en-US&gl=US&ceid=US%3Aen",
@@ -271,228 +335,164 @@
       "pub_sort_dt": "2026-08-19 17:00:49"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "图片显示，中国已在南海争议礁石上完成第一阶段工程 - Reuters",
-      "title_cn": "图片显示，中国已在南海争议礁石上完成第一阶段工程 - 路透社",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxOWjlHMXpDTU1lN0ZxdTV0cWJwMktYTG52MU5RX1JXVTFaemlzbl9TdzZRWS1IN3dCM0d4ZmdLaGtTVjI1NHU5U1N1Mi02bGVteGtDZXlOZWpOcmlMbExyMnpnX0V1WG5hUWJ2ZmlULUVxU1RjZWo3SllHU04tLVFIbmV0WDJEV1hFdllaRHR5Y0I4NkVNTjFub3VqTHV5aUFYdFhGMkU1SV96NlFsdEtHQmZNeGNVeVhPdHlwZDhBVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T07:19:44.000Z",
-      "pub_sort_dt": "2026-08-19 15:19:44"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "霍尔木兹海峡的动荡促使中国开辟了一条替代贸易路线：一条长达3,400英里、被称为“冰丝绸之路”的北极冰封航道。 - Yahoo Finance",
-      "title_cn": "霍尔木兹海峡的大西洋推动中国开辟了一条替代贸易路线：一条长达3,400英里、被称为“冰丝绸之路”的北极冰封航线。 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxOY09TUDZ6ZThMVlRxbl9waVRMb3pURlc4RDBmU1B6bVlKa0x4UzRuRklFOVJPU3VvdFgzdExEQUxtNzlkTmFIeUM0dzBJX2VubHRVM3Vwb0NZd2dsVWJnU0hWdGdUNjdqX1dBaFNGOGoyc3l0eDdEUXJIYThyUE1aWGc3OThzeG1qVnRiV3MyUk9lOVlZVFpxTXhZMEE5TktkTzlkWFFn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T07:00:00.000Z",
-      "pub_sort_dt": "2026-08-19 15:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "继此前在海上成功回收火箭级后，中国首次在陆地上回收了火箭级 - NBC News",
-      "title_cn": "继阿联酋在海上成功恢复了火箭级别后，中国首次在陆地上恢复了火箭级别 - NBC News",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxNYmtvXzVxV1BHX0NjWENOc1NIdHdiRXEtM2ZVbkVDX3pTZEp0Q1gzQlRfQy0zcjNsdEZHZWFZMG5xRFBzVkNnTWlOMWY0SkFqcFAyUW5EdThoOVlTUGZOLUliSWF2TlBJbzhzTEo3V0tIbFBJZ0dLVTYxcllLTTM1RkU5WjJHVE5TRUFLSlpUWXBUbE9lMHlZeEpyRW80UGVLOWFmRDRFNFNwUUxNUkVB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T05:35:00.000Z",
-      "pub_sort_dt": "2026-08-19 13:35:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在中国经济放缓之际，工薪阶层的故事引起了共鸣 - The New York Times",
-      "title_cn": "在中国经济恐慌之中，工薪阶层的故事引起共鸣 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxPSkJsWjVUYnNGVGVLaXpvTXN4ZjEzaE1UaFctNjBnUnZRZnQ1TWk2ZjBHejFYYkJJN2JFV1NFaVRSUzNnQUtnbVVXdHQzOE84Q3RwZUR4WmlIcWVHdWNnQm5PTGhHSGtLbExQbUtjUzh3NHNpSEg2aklnSEstZWtPeVZPbjlTOVJpazdOQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T04:00:08.000Z",
-      "pub_sort_dt": "2026-08-19 12:00:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "类人资源：中国机器人寻求劳动力领域的突破 - Yahoo Finance",
-      "title_cn": "类人资源：中国机器人寻求劳动力领域的突破 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxPUEJ4aDZfQ0FUd0dPMjdiYmtiVTRabTd0bTZTQkQyOUREcndNTjExNDBkVU92Q0k4ZmtXNGJlMGtyQ2pvbDRPMl9kV0pfSlF0RGRFYVVFR1ZFWTFVZ25TbWxBVWs2REstTG0yRHlaSmhTVGZZZEwwb0N1Z3ZtTHFxNWJtRDM5TGFlb2RzcXQzdFRBMXNxXy1zZkQzN0hfal9ESERGcU93?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T03:25:00.000Z",
-      "pub_sort_dt": "2026-08-19 11:25:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国在陆地上成功回收火箭，力争追赶SpaceX - Bloomberg.com",
-      "title_cn": "中国在上一届成功恢复火箭，力争追赶SpaceX - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxOTUpvMThZX3RIUDNYYzhkWDBvaE9NcWpsV0djVF9nYWVobDVzRExqN3FDZVl3U1FaZ255YjdFYXpVbGNVazlsVHpNSnVQVzYtdFVMenBVT0FuSUxRY3NGY3NSLW9LdndDUWxTM3p0MTlfY1BwWl9rUEZYMk9VcjJWWWJPVjdKVF9pMmpsZy1CWkQ2R2cxckp5ckdLaXhaeENRZXFEcmZHcjdXaENfWXp4cVJR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T02:26:00.000Z",
-      "pub_sort_dt": "2026-08-19 10:26:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着人工智能竞赛日趋白热化，中国放宽了对英伟达H200芯片的限制 - Financial Times",
-      "title_cn": "随着人工智能竞赛日趋白热化，中国放宽了对英伟达H200芯片的限制 - 英国金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNRF9wTFByQktUOHRwVGVOWVg3TXdURVhZXzVoOTYzY3VwX0J0cXdoZUJGbF9JSWJuLWQ0VVIwY1FpSWNNY2ZuLWREZlEwb1R1MmNnMGNhby12Nk1vako5NzA4VGtjeGJUOXdyTWxMYXpNQWh5TjdPTDdrVVF1dkFOUFFKSkc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T02:10:07.000Z",
-      "pub_sort_dt": "2026-08-19 10:10:07"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国四川一村庄房屋部分坍塌致5人死亡 - Reuters",
-      "title_cn": "中国四川一村庄房屋部分塌陷致5人死亡 - 路透中文网",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxQN3ZBMTNRRjltbmJqanJVWEM4YVVRVFJvV0Znb3A3aVRyYUc2TWVUMnNpMFJ5RWlZUkd4U1NFOVBwZEVQR3dpTUU0ZUsyUFAxYUpSODZfLXVDeElyOEo1ZmN4aDlFamk4VDVOb2JLU1c5ZDJjT1JtTkxyMUFYSnR3SlpRVTJMWGVaVWRXSlVGVmpGV1hkQnk5clNyWFFUalQzcmdYOHlBU2ZTbTFSd3Bncw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T02:07:00.000Z",
-      "pub_sort_dt": "2026-08-19 10:07:00"
+      "source": "Financial Times",
+      "title_en": "哈德逊河公司借势市场动荡，交易收益激增114亿美元",
+      "title_cn": "哈德逊河公司借势市场动荡，交易收益飙升114亿美元",
+      "url": "https://www.ft.com/content/6a9f79b8-d47c-4cd2-b4ed-1ac77bd75576?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-19T21:42:10.003Z",
+      "pub_sort_dt": "2026-08-20 05:42:10"
     },
     {
       "source": "Bloomberg",
-      "title_en": "纽约市炎热的夏天导致公寓租金涨至5,000美元，且未来情况将更加严峻",
-      "title_cn": "纽约市炎热的夏季导致公寓租金涨至5,000美元，且未来情况将更加严峻",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/nyc-s-hot-summer-brings-5-000-apartment-rents-with-more-pain-to-come",
-      "pub_raw": "2026-08-19T13:42:40.308Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
+      "title_en": "YouTube向创作者提供数百万美元，以阻止他们与Netflix合作",
+      "title_cn": "YouTube向创作者提供数百万美元，以阻止他们与Netflix合作",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/youtube-offers-creators-millions-to-not-work-with-netflix-mt0lbfaj",
+      "pub_raw": "2026-08-19T21:26:10.736Z",
+      "pub_sort_dt": "2026-08-20 05:26:10"
     },
     {
       "source": "Bloomberg",
-      "title_en": "腐败调查和呼吁大选后，泽连斯基的国内困境加剧",
-      "title_cn": "腐败调查和呼吁大选后，泽连斯基的国内困境加强",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/corruption-probe-election-call-deepen-zelenskyy-s-domestic-woes",
-      "pub_raw": "2026-08-19T13:42:40.305Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
+      "title_en": "科蒂股价下跌，公司警告未来一年将面临“转型”期",
+      "title_cn": "科蒂股价下跌，公司警告未来一年将面临“转型”期",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/coty-s-revenue-beats-expectations-amid-turnaround-push",
+      "pub_raw": "2026-08-19T21:26:10.719Z",
+      "pub_sort_dt": "2026-08-20 05:26:10"
     },
     {
       "source": "Bloomberg",
-      "title_en": "Marvell 授予谷歌购买价值最高达 120 亿美元股票的权利",
-      "title_cn": "Marvell 授予谷歌购买价值最高 120 亿美元股票的权利",
+      "title_en": "中美人工智能竞赛：ChatGPT、Gemini、Deepseek 和 Kimi Agents 对比分析",
+      "title_cn": "中美人工智能竞赛：ChatGPT、Gemini、Deepseek 和 Kimi Agents 对比分析",
+      "url": "https://www.bloomberg.com/graphics/2026-us-china-ai-race/",
+      "pub_raw": "2026-08-19T21:10:02.444Z",
+      "pub_sort_dt": "2026-08-20 05:10:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "比亚迪推出专为日本市场设计的微型电动车，力图在他人失败之处取得突破",
+      "title_cn": "比亚迪推出专为日本市场设计的微型电动车，力图在别人失败的地方取得突破",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/byd-tries-where-others-failed-with-tiny-ev-designed-for-japan",
+      "pub_raw": "2026-08-19T21:10:02.440Z",
+      "pub_sort_dt": "2026-08-20 05:10:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "机器人、存储器、银行业？现在该把100万美元投到哪里去？",
+      "title_cn": "机器人、工厂、银行业？现在该把100万美元投到哪里去？",
+      "url": "https://www.bloomberg.com/features/2026-como-invertir-un-millon-de-dolares-q3-2026/",
+      "pub_raw": "2026-08-19T21:10:02.437Z",
+      "pub_sort_dt": "2026-08-20 05:10:02"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Breakingviews——华盛顿与AI引发的债务洪流正冲刷着消费者",
+      "title_cn": "Breakingviews——华盛顿与人工智能引发的债务洪流正冲刷着消费者",
+      "url": "https://reut.rs/45DTTc1",
+      "pub_raw": "2026-08-19T21:10:02.319Z",
+      "pub_sort_dt": "2026-08-20 05:10:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "制造商们焦急地等待着加美达成协议，以避免面临50%的关税",
+      "title_cn": "制造商们焦急地等待着加美协议，多达50%的关税",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/anxious-manufacturers-await-canada-us-deal-to-avoid-50-tariffs",
+      "pub_raw": "2026-08-19T20:53:59.841Z",
+      "pub_sort_dt": "2026-08-20 04:53:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "托马·布拉沃的软件收购交易体现了“客户拥抱”战略",
+      "title_cn": "托马·布拉沃的软件收购交易体现了“客户拥抱”战略",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/thoma-bravo-s-software-deals-reflect-customer-bear-hug-strategy",
+      "pub_raw": "2026-08-19T20:38:06.249Z",
+      "pub_sort_dt": "2026-08-20 04:38:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国公共债务达到40万亿美元，加剧了“死亡循环”风险",
+      "title_cn": "美国公共风险债务达40万亿美元，增强了“死亡循环”",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/us-public-debt-hits-40-trillion-high-raising-doom-loop-risk",
+      "pub_raw": "2026-08-19T20:38:06.243Z",
+      "pub_sort_dt": "2026-08-20 04:38:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "莫德纳股价暴涨177%，做空者蒙受55亿美元“惨痛”损失",
+      "title_cn": "莫德纳股价暴涨177%，做空者蒙受55亿美元“惨痛”损失",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/moderna-s-160-surge-burns-shorts-in-painful-5-billion-loss",
+      "pub_raw": "2026-08-19T20:38:06.206Z",
+      "pub_sort_dt": "2026-08-20 04:38:06"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "在美国总统特朗普和拜登任内，美国国债规模翻了一番，现已突破40万亿美元大关",
+      "title_cn": "在美国总统特朗普和拜登任内，美国国债规模翻了一番，现已突破40万亿美元大关",
+      "url": "https://reut.rs/46aehBB",
+      "pub_raw": "2026-08-19T20:38:06.133Z",
+      "pub_sort_dt": "2026-08-20 04:38:06"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "随着借贷规模以史无前例的速度增长，美国政府债务达到40万亿美元",
+      "title_cn": "随着网络规模以史无前例的速度增长，美国政府债务达到40万亿美元",
+      "url": "https://www.ft.com/content/673f8c35-1433-479f-803f-0597cbe7ef74?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-19T20:38:06.076Z",
+      "pub_sort_dt": "2026-08-20 04:38:06"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "美国国债规模刚刚突破40万亿美元：我们是如何走到这一步的",
+      "title_cn": "美国国债规模刚刚突破40万亿美元：我们是如何迈出这一步的",
+      "url": "https://on.wsj.com/4xePmZG",
+      "pub_raw": "2026-08-19T20:38:05.731Z",
+      "pub_sort_dt": "2026-08-20 04:38:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "为何政府债券的高收益率令人担忧",
+      "title_cn": "为何政府债券的高度令人担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/why-high-yields-on-government-bonds-are-causing-alarm",
+      "pub_raw": "2026-08-19T20:22:05.035Z",
+      "pub_sort_dt": "2026-08-20 04:22:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "高市直子直面其恩师在外交政策方面留下的褒贬不一的遗产",
+      "title_cn": "高市直子直面其恩师在账户政策方面留下的褒贬不一的遗产",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-19/takaichi-confronts-her-mentor-s-mixed-foreign-policy-legacy",
+      "pub_raw": "2026-08-19T20:22:05.032Z",
+      "pub_sort_dt": "2026-08-20 04:22:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "CFTC考虑推出人工智能计算期货，ICE和CME正瞄准新市场",
+      "title_cn": "CFTC考虑推出人工智能计算期货，ICE和CME瞄准新市场",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/cftc-considers-ai-compute-futures-as-ice-cme-eye-new-market",
+      "pub_raw": "2026-08-19T20:22:05.028Z",
+      "pub_sort_dt": "2026-08-20 04:22:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "国防科技公司Lyntris因缩减IPO规模股价下跌14%",
+      "title_cn": "国防科技公司Lyntris因缩减IPO规模股价下跌14%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/defense-tech-firm-lyntris-shares-plunge-11-after-downsized-ipo",
+      "pub_raw": "2026-08-19T20:22:04.964Z",
+      "pub_sort_dt": "2026-08-20 04:22:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "前Meta员工称其14岁女儿在Instagram上成为猎物",
+      "title_cn": "前Meta员工称其14岁女儿在Instagram上成为猎物",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ex-meta-staffer-testifies-daughter-14-was-prey-on-instagram",
+      "pub_raw": "2026-08-19T20:06:00.263Z",
+      "pub_sort_dt": "2026-08-20 04:06:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Marvell 授予客户 Google 122 亿美元股票的购买权",
+      "title_cn": "Marvell 赢得客户 Google 122 亿美元股票的购买权",
       "url": "https://www.bloomberg.com/news/articles/2026-08-19/marvell-gives-google-right-to-buy-up-to-12-2-billion-in-shares",
-      "pub_raw": "2026-08-19T13:42:40.298Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "贝森特在国债收益率攀升后加大了债务回购力度",
-      "title_cn": "贝森特在国债攀升后加大了债务债务力度",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/long-dated-treasuries-rally-as-treasury-boosts-bond-buybacks",
-      "pub_raw": "2026-08-19T13:42:40.291Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "人工智能云计算公司Nebius计划发行45亿美元可转换债券",
-      "title_cn": "人工智能云计算公司 Nebius 计划发行 45 亿美元可转换债券",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-cloud-firm-nebius-offers-4-5-billion-of-convertible-bonds",
-      "pub_raw": "2026-08-19T13:42:40.281Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国财政部出手支撑债券市场，股市随之上涨：市场综述",
-      "title_cn": "美国投资者出手支撑债券市场，股市跟随上涨：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
-      "pub_raw": "2026-08-19T13:42:40.197Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "法国表示，约旦河西岸的暴力事件为其对以色列部长本-格维尔实施制裁提供了依据",
-      "title_cn": "法国表示，约旦河西岸的暴力事件对以色列部长本-格维尔实施制裁提供了依据",
-      "url": "https://reut.rs/4xQLQ7L",
-      "pub_raw": "2026-08-19T13:42:40.166Z",
-      "pub_sort_dt": "2026-08-19 21:42:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "“零事故愿景”提出十年后，里士满仍在等待更安全的街道",
-      "title_cn": "“零事故愿景”提出十年后，里士满等待更安全的街道",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/a-decade-after-vision-zero-richmond-is-still-waiting-for-safer-streets",
-      "pub_raw": "2026-08-19T13:26:10.597Z",
-      "pub_sort_dt": "2026-08-19 21:26:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国国债回购计划推动美债收益率走低，金价飙升",
-      "title_cn": "美国国债回购计划推动美债走低，金价高峰",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/gold-holds-losses-as-bond-selloff-hormuz-limbo-weigh-on-outlook",
-      "pub_raw": "2026-08-19T13:26:10.489Z",
-      "pub_sort_dt": "2026-08-19 21:26:10"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "随着Unitree的迅猛发展，德国VDMA行业协会呼吁欧洲在类人机器人领域加大投入",
-      "title_cn": "随着Unitree的迅猛发展，德国VDMA行业协会呼吁欧洲在类人机器人领域加大投入",
-      "url": "https://reut.rs/46g3aah",
-      "pub_raw": "2026-08-19T13:26:10.456Z",
-      "pub_sort_dt": "2026-08-19 21:26:10"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在SEC权衡监管措施之际，特朗普将接待加密货币高管",
-      "title_cn": "在SEC权衡监管措施之际，特朗普将接管加密货币加密货币",
-      "url": "https://reut.rs/3SJPdOO",
-      "pub_raw": "2026-08-19T13:26:10.453Z",
-      "pub_sort_dt": "2026-08-19 21:26:10"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "美国财政部将把长期国债回购规模翻一番",
-      "title_cn": "美国财政部将把长期国债回购规模搞一番",
-      "url": "https://www.ft.com/content/777c9014-2f12-45cf-8224-6bbe808c62cb?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-19T13:26:10.355Z",
-      "pub_sort_dt": "2026-08-19 21:26:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "火灾险经纪公司 RockRose Risk 筹集 1250 万美元",
-      "title_cn": "火灾险公司 RockRose Risk 认购 1250 万美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/fire-zone-insurance-broker-rockrose-risk-raises-12-5-million",
-      "pub_raw": "2026-08-19T13:10:28.713Z",
-      "pub_sort_dt": "2026-08-19 21:10:28"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Target 盈利：\"Target Run\" 卷土重来",
-      "title_cn": "目标盈利：“Target Run”卷土重来",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-08-19/target-earnings-the-target-run-is-making-a-comeback",
-      "pub_raw": "2026-08-19T12:54:13.021Z",
-      "pub_sort_dt": "2026-08-19 20:54:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国批评欧盟在调查京东案时行使域外管辖权",
-      "title_cn": "中国批评欧盟正在调查京东案件时无边界外接权",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/china-criticizes-eu-over-extraterritorial-reach-in-jd-com-probe",
-      "pub_raw": "2026-08-19T12:54:13.014Z",
-      "pub_sort_dt": "2026-08-19 20:54:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "印度一家初创公司致力于在竞争激烈的语音领域与OpenAI一较高下",
-      "title_cn": "印度一家公司与 OpenAI 一起致力于竞争激烈的语音领域一上下",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/india-startup-aims-to-compete-with-openai-in-crowded-voice-arena",
-      "pub_raw": "2026-08-19T12:54:13.007Z",
-      "pub_sort_dt": "2026-08-19 20:54:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "伊朗发出导弹威胁后，阿联酋对其实施金融封锁，使两国间的对抗再次成为焦点",
-      "title_cn": "伊朗发出导弹威胁后，仓库对此实施金融封锁，使集装箱间的对抗再次成为焦点",
-      "url": "https://reut.rs/4g7o6X5",
-      "pub_raw": "2026-08-19T12:38:04.476Z",
-      "pub_sort_dt": "2026-08-19 20:38:04"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "调查人员在英国火车脱轨事故现场附近发现轨道“异常”",
-      "title_cn": "调查人员在英国火车脱轨事故现场附近发现轨道“异常”",
-      "url": "https://www.ft.com/content/ec9afdc4-5fc8-4333-83a7-80b25e1009bb",
-      "pub_raw": "2026-08-19T12:38:04.410Z",
-      "pub_sort_dt": "2026-08-19 20:38:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "人工智能先驱李飞飞警告称，日益加剧的技术反噬将带来风险",
-      "title_cn": "人工智能先驱李飞飞警告称，剧烈的技术反腐蚀将带来风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-pioneer-fei-fei-li-warns-of-risks-from-growing-tech-backlash",
-      "pub_raw": "2026-08-19T12:22:23.707Z",
-      "pub_sort_dt": "2026-08-19 20:22:23"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "贝莱德、英杰华在长期债券市场疲软之际选择短期债券",
-      "title_cn": "贝莱德、英杰华在长期债券市场疲软之际选择短期债券",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/blackrock-aviva-turn-to-short-dated-bonds-as-long-debt-slumps",
-      "pub_raw": "2026-08-19T12:22:23.636Z",
-      "pub_sort_dt": "2026-08-19 20:22:23"
+      "pub_raw": "2026-08-19T20:06:00.214Z",
+      "pub_sort_dt": "2026-08-20 04:06:00"
     }
   ]
 }
