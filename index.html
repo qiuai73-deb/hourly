@@ -1,8 +1,3 @@
-from pathlib import Path
-
-# 使用昨天上传的 index.html 作为基础，直接重写为与新版 crawler.py
-# 数据结构一致的最终页面。
-out = Path("/mnt/data/index.html")
 
 html = r'''<!DOCTYPE html>
 <html lang="zh-CN">
@@ -549,5 +544,3 @@ document.addEventListener(
 </html>
 '''
 
-out.write_text(html, encoding="utf-8")
-print(out)
