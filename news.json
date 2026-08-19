@@ -1,15 +1,31 @@
 {
-  "update_cst": "2026-08-19 15:01:17 北京时间",
+  "update_cst": "2026-08-19 18:01:01 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 11,
-    "Financial Times": 1,
+    "Bloomberg": 19,
+    "Financial Times": 0,
     "Wall Street Journal": 0,
-    "Reuters": 8
+    "Reuters": 1
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "图片显示，中国已在南海争议礁石上完成第一阶段工程 - Reuters",
+      "title_cn": "图片显示，中国已在南海争议礁石上完成第一阶段工程 - 路透社",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxOWjlHMXpDTU1lN0ZxdTV0cWJwMktYTG52MU5RX1JXVTFaemlzbl9TdzZRWS1IN3dCM0d4ZmdLaGtTVjI1NHU5U1N1Mi02bGVteGtDZXlOZWpOcmlMbExyMnpnX0V1WG5hUWJ2ZmlULUVxU1RjZWo3SllHU04tLVFIbmV0WDJEV1hFdllaRHR5Y0I4NkVNTjFub3VqTHV5aUFYdFhGMkU1SV96NlFsdEtHQmZNeGNVeVhPdHlwZDhBVQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T07:19:44.000Z",
+      "pub_sort_dt": "2026-08-19 15:19:44"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "继此前在海上成功回收火箭级后，中国首次在陆地上回收了火箭级 - NBC News",
+      "title_cn": "继阿联酋在海上成功恢复了火箭级别后，中国首次在陆地上恢复了火箭级别 - NBC News",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxNYmtvXzVxV1BHX0NjWENOc1NIdHdiRXEtM2ZVbkVDX3pTZEp0Q1gzQlRfQy0zcjNsdEZHZWFZMG5xRFBzVkNnTWlOMWY0SkFqcFAyUW5EdThoOVlTUGZOLUliSWF2TlBJbzhzTEo3V0tIbFBJZ0dLVTYxcllLTTM1RkU5WjJHVE5TRUFLSlpUWXBUbE9lMHlZeEpyRW80UGVLOWFmRDRFNFNwUUxNUkVB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T05:35:00.000Z",
+      "pub_sort_dt": "2026-08-19 13:35:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "在中国经济放缓之际，工薪阶层的故事引起了共鸣 - The New York Times",
@@ -17,6 +33,22 @@
       "url": "https://news.google.com/read/CBMijAFBVV95cUxPSkJsWjVUYnNGVGVLaXpvTXN4ZjEzaE1UaFctNjBnUnZRZnQ1TWk2ZjBHejFYYkJJN2JFV1NFaVRSUzNnQUtnbVVXdHQzOE84Q3RwZUR4WmlIcWVHdWNnQm5PTGhHSGtLbExQbUtjUzh3NHNpSEg2aklnSEstZWtPeVZPbjlTOVJpazdOQQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-19T04:00:08.000Z",
       "pub_sort_dt": "2026-08-19 12:00:08"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "类人资源：中国机器人寻求劳动力领域的突破 - Yahoo Finance",
+      "title_cn": "类人资源：中国机器人寻求劳动力领域的突破 - 雅虎财经",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxPUEJ4aDZfQ0FUd0dPMjdiYmtiVTRabTd0bTZTQkQyOUREcndNTjExNDBkVU92Q0k4ZmtXNGJlMGtyQ2pvbDRPMl9kV0pfSlF0RGRFYVVFR1ZFWTFVZ25TbWxBVWs2REstTG0yRHlaSmhTVGZZZEwwb0N1Z3ZtTHFxNWJtRDM5TGFlb2RzcXQzdFRBMXNxXy1zZkQzN0hfal9ESERGcU93?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T03:25:00.000Z",
+      "pub_sort_dt": "2026-08-19 11:25:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国在陆地上成功回收火箭，力争追赶SpaceX - Bloomberg.com",
+      "title_cn": "中国在上一届成功恢复火箭，力争追赶SpaceX - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxOTUpvMThZX3RIUDNYYzhkWDBvaE9NcWpsV0djVF9nYWVobDVzRExqN3FDZVl3U1FaZ255YjdFYXpVbGNVazlsVHpNSnVQVzYtdFVMenBVT0FuSUxRY3NGY3NSLW9LdndDUWxTM3p0MTlfY1BwWl9rUEZYMk9VcjJWWWJPVjdKVF9pMmpsZy1CWkQ2R2cxckp5ckdLaXhaeENRZXFEcmZHcjdXaENfWXp4cVJR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T02:26:00.000Z",
+      "pub_sort_dt": "2026-08-19 10:26:00"
     },
     {
       "source": "China Buzzing",
@@ -57,203 +89,187 @@
       "url": "https://news.google.com/read/CBMimgFBVV95cUxOUkwtX3hYUHVJcU5sNkpFd01YM1JBSnlVRDVBYzZMLXlteVFzZVlJTTRFWXFpSkF5U09aUFpyVUpDOFo5MWRxSTROYzlaV0doMGR0SVFwcjlKS3FaWEI1aHdJa1JiZy01UkQ5ejA0Z1dFY0JVMjNOUUFaNnlqTDR2eERWdG82M20xQ1RUNDlhUnljNHNPUGFYbUln0gGfAUFVX3lxTE8wUFNpYWZ4N0tBX1RXNWFWZUVhRlpTRGZUUHV2RVp4emxfbUlOam0tTHhEOUlfN3gwR0V0UVJlMWtBOFd6Vl9rYWFsWm1WbzJMSm1jYlZrMlhLZ3BNM3NZajBndXlNSUlpaTV2ZTVQSWZSeUZxZUh5M0ZrbFFUdEUxMjEwLWlCTlN2MG1sRkFKeXkzUURPb21pcEJma3NqUQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-19T01:37:00.000Z",
       "pub_sort_dt": "2026-08-19 09:37:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "一部关于伊拉克战争的热门电影，反映了中国人怎样的世界观？ - scmp.com",
-      "title_cn": "一部关于伊朗战争的热门电影，反映了中国人怎样的世界观？ - scmp.com",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxNdW9XdjNYMVN4RG95aHlmeG5Wa1FZcGVfc2hhTnlvQ19IaktnT25EanJNVzNseElnS0k5d1E0QUdmdmhPb2tPQWx3TUo2dlBsLUZWMVZJMm1DeWQyanhOeXcwOC1ubjJXZ0swcFg0U0RKOEJMM1dOV3ZqWUo1N2M3cFRWcDdGajJZRlYtaVFMN3p5QkNFVXhwMkthTF9CSzBpNHdnTTVGRDFwWlJVMy1VUHFWT3Brd3JUekR6eG1B0gG-AUFVX3lxTE1zTWtXOUdtVnFWeDNvbThmLWtoeEh6NF90YS1iMGY4MENYUlpNSjlPUDlCaXV0dW1DT3pYY21xRmllS0FWb295THV2RG4wYjMwSVBYUlFBUDg0MzA2WjBTUGtNbS1jUGQxenBhN05KdUtLQXZYTU5OMkotdDIzclE2Mk53NlZWeGlWUFB0R0pxellwT2lWR1B3Rkd4TlNPdEtlOVFEaFpkWnJ0U3E0UjQwaTVUZ2pUZWhsMkJMWVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T01:00:08.000Z",
-      "pub_sort_dt": "2026-08-19 09:00:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国“天宇”公司在轨道发射后成功回收钢制助推器，超越了SpaceX - South China Morning Post",
-      "title_cn": "中国“天宇”公司在轨道发射后成功恢复钢制助推器，超越了SpaceX - 南华早报",
-      "url": "https://news.google.com/read/CBMiyAFBVV95cUxQMFQ0ZmRQdTJ5WlR6UndSakFYbTh2T290X19JVGJhUDF2UkhBcC1HQTBwWk1lTmJPVUdXdF85MFF5SHRISVVFZjRCTjgzSEhEdzdILXNubUVVZHE2Mjc2WUJhYm9pZ2xHTXBQMGl1OWlTbDBvSENHV20tdWllcGJVdHVXZU5GaG4xRkNWX3h0dDJqdGozWmJ2cmZpbDBSQmRfbnFKWkJpMjh6UDVvc1poVC11dWhWRW5aSFAzZkV4T0tzODJyOXV0UdIByAFBVV95cUxNN0hyV19CMi03VXZzWGtpMUFTNURYck9CUjhTSGJpVFpxT29fQklQRzUwZGp0ZUpKam40Wks2U1Mya0hHZXFzNUxCRnNOR2JmRWo3dlc0ZkxZRFhnTTdaUzJBVXVGOS1QM0Vyd21NU21Fek5kYnlwUWNiZWd1eG9ZWHRRamR3R0VmVmlmZ0F4MTVqVlQ1djhzaFg3QmZuWGNRc2p5ZUNON19pVVIzOThDLXA2YnNxQnNJLVRSOXEtdkxnRjByLWFFVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T00:28:33.000Z",
-      "pub_sort_dt": "2026-08-19 08:28:33"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“一切都由党做主，”获释牧师谈及中国对宗教的打压时表示 - PBS",
-      "title_cn": "“一切都由党做主”获释牧师谈及中国对宗教的打压时表示 - PBS",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPQzdDQzREd01DQlliNDZxLUhYY09yVnd4aFhVVWdwSDNYQW5saWo5VjhMbm91REh3U0NrcWxPbFhqeFlXUTZBV3NNV0tjSTRfWlFJeXlQa0RnTU92bmJVWmxwVFNjZ2c3NU9hd3FMWm9zOEI2aU9yMHg0UlN4WXF6amhjcHZsa2JJd3ctUzF4NXhJZWNWSXdPMzJjVW80Ml9qT0ctMmVCQlU5RFNhVFZCNmZITk5OUUpVdzNMYg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T22:20:07.000Z",
-      "pub_sort_dt": "2026-08-19 06:20:07"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "信任问题：中国富豪们正面临新的离岸资产税规带来的挑战 - South China Morning Post",
-      "title_cn": "信任问题：中国富豪们正面临新的离岸资产税规带来的挑战 - 南华早报",
-      "url": "https://news.google.com/read/CBMi0gFBVV95cUxQYmMyNUVVQUk4VWJxVE9JZFc5TjJUd0xFbFY1M1ZPREtRSWl3UENaSlpseVluUkdsMDhrODhyUUhhczloa3ROLUhodFhjalFHWGdqY1BSb0tYTC1sNTlwLXVEZkx1RW1iN0lMSDVibmtLWlR4bkM1NThHSmllU2NtUGltbFRiN2VsSThKN1Nhb1ktOUlLd0VScGdqeVJWRVlIV2drVmd5X01LbzFTbGN1Y1h6dG9aejBqNXR1b3hZanBEM3lVbEtOY2VmTTl2SXIzZFHSAdIBQVVfeXFMTXJrVjItcDd4cWZCMVQ0c0dZS3ZqNHVyazBqcnh4WG94Nl9YbEJCTGNOUGl1YW1vQ0RYV2RtRzN5bmR1cEhDd3IyT3phRGxYMERHTk9BR2NQUmJWUVNGbFZSejh1LWNBNUlKUmd6OE83RUJ6dHRLRVhZWXptUUsxVjRPYXBzam9BVTlRSjJOQnlmc2x0aWZkQ2tZcGhyYkJDblRCQ0dLWGFvTHV0NmltMUNQSmdGZkg4RjQwMWF2UlEzWjNMVFZzdHRlVHlaRUZsZXRR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T22:00:08.000Z",
-      "pub_sort_dt": "2026-08-19 06:00:08"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
-      "title_en": "全球债券抛售潮后，投资者抛售芯片股",
-      "title_cn": "全球债券抛售潮后，投资者抛售债券股",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/investors-ditch-chip-stocks-after-global-bond-selloff",
-      "pub_raw": "2026-08-19T06:45:56.209Z",
-      "pub_sort_dt": "2026-08-19 14:45:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "新加坡将为基金行业提供税收优惠和更便捷的签证政策",
-      "title_cn": "新加坡希望基金行业提供税收优惠和更便捷的签证政策",
-      "url": "https://reut.rs/4c0nYWJ",
-      "pub_raw": "2026-08-19T06:45:56.085Z",
-      "pub_sort_dt": "2026-08-19 14:45:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "英国将就定价问题对Trainline、维珍大西洋航空等公司展开调查",
-      "title_cn": "英镑将就定价问题对Trainline、维珍大西洋航空等公司展开调查",
-      "url": "https://reut.rs/4wG3qtX",
-      "pub_raw": "2026-08-19T06:45:56.081Z",
-      "pub_sort_dt": "2026-08-19 14:45:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "乌克兰反腐败机构正在调查一个涉及总统府官员的团伙",
-      "title_cn": "乌克兰反腐败机构正在调查涉及总统府官员的团伙",
-      "url": "https://reut.rs/4xSrrze",
-      "pub_raw": "2026-08-19T06:45:56.078Z",
-      "pub_sort_dt": "2026-08-19 14:45:56"
+      "title_en": "收益率上升推高了人工智能建设所需的借贷成本，科技股反弹面临风险",
+      "title_cn": "目前上升推高了人工智能建设所需的比特币成本，科技股反弹面临风险",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/tech-rally-at-risk-as-rising-yields-drive-up-borrowing-costs-for-ai-buildout",
+      "pub_raw": "2026-08-19T09:41:53.345Z",
+      "pub_sort_dt": "2026-08-19 17:41:53"
     },
     {
       "source": "Bloomberg",
-      "title_en": "在软饮料需求强劲的背景下，嘉士伯上调业绩预期",
-      "title_cn": "在需求疲软的背景下，嘉士伯上调业绩预期",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/carlsberg-nudges-outlook-higher-amid-strong-soft-drink-demand",
-      "pub_raw": "2026-08-19T06:30:18.088Z",
-      "pub_sort_dt": "2026-08-19 14:30:18"
+      "title_en": "人工智能导致的失业：关于帮助劳动者的提案指南",
+      "title_cn": "人工智能导致的暂停：关于帮助劳动者的倡议指南",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-job-losses-a-guide-to-the-proposals-for-helping-workers",
+      "pub_raw": "2026-08-19T09:41:53.338Z",
+      "pub_sort_dt": "2026-08-19 17:41:53"
     },
     {
       "source": "Bloomberg",
-      "title_en": "美银调查显示，印度股市在亚洲市场中被视为最不受青睐的，排名高于印尼",
-      "title_cn": "美银调查显示，印度股市在亚洲市场中被视为最不受青睐的，排名第一",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/india-stocks-top-indonesia-as-asia-s-least-favored-in-bofa-poll",
-      "pub_raw": "2026-08-19T06:30:18.085Z",
-      "pub_sort_dt": "2026-08-19 14:30:18"
+      "title_en": "壳牌交易员曼斯菲尔德在这家石油巨头任职26年后辞职",
+      "title_cn": "壳牌交易员曼斯菲尔德在该家石油工会26年后辞职",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/shell-trader-mansfield-resigns-after-26-years-at-oil-major",
+      "pub_raw": "2026-08-19T09:41:53.334Z",
+      "pub_sort_dt": "2026-08-19 17:41:53"
     },
     {
       "source": "Bloomberg",
-      "title_en": "韩国正探索在拥挤的首尔之外建立新的金融中心",
-      "title_cn": "韩国正探索在曼哈顿的首尔境外建立新的金融中心",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/south-korea-exploring-new-financial-hub-beyond-overcrowded-seoul",
-      "pub_raw": "2026-08-19T06:30:18.082Z",
-      "pub_sort_dt": "2026-08-19 14:30:18"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "泰国寻求新途径以结束南部致命的叛乱，谈判代表称",
-      "title_cn": "泰国寻求新途径以结束南部致命的叛乱，谈判代表称",
-      "url": "https://reut.rs/3SncN3R",
-      "pub_raw": "2026-08-19T06:30:17.963Z",
-      "pub_sort_dt": "2026-08-19 14:30:17"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：2026年世界机器人大会在北京拉开帷幕",
-      "title_cn": "直播：2026年世界机器人大会在北京拉开帷幕",
-      "url": "https://www.youtube.com/watch?v=aqRMnqcB2Jo",
-      "pub_raw": "2026-08-19T06:30:17.959Z",
-      "pub_sort_dt": "2026-08-19 14:30:17"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "印度法院将重新审理针对SpiceJet的破产申请",
-      "title_cn": "印度法院将对香料航空的破产申请重新提起诉讼",
-      "url": "https://reut.rs/3RUVAi8",
-      "pub_raw": "2026-08-19T06:30:17.955Z",
-      "pub_sort_dt": "2026-08-19 14:30:17"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "受中东能源危机影响，英国7月通胀率升至2.9%",
-      "title_cn": "受中东能源危机影响，英国7月通胀率飙升2.9%",
-      "url": "https://www.ft.com/content/5a606279-3473-4c5b-a16e-ad9db6debafb?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-19T06:30:17.854Z",
-      "pub_sort_dt": "2026-08-19 14:30:17"
+      "title_en": "贝恩旗下子公司Proterial计划通过出售日本公司筹集13亿美元",
+      "title_cn": "贝恩旗下子公司Proterial计划通过出售日本公司成交13亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/bain-unit-proterial-seeks-1-3-billion-from-japan-wire-firm-sale",
+      "pub_raw": "2026-08-19T09:41:53.258Z",
+      "pub_sort_dt": "2026-08-19 17:41:53"
     },
     {
       "source": "Bloomberg",
-      "title_en": "受能源账单上涨影响，英国通胀率攀升至四个月高点",
-      "title_cn": "受能源总额上涨影响，英国飙升率攀升至四个月高点",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/uk-inflation-climbs-to-four-month-high-as-energy-bills-rise",
-      "pub_raw": "2026-08-19T06:14:11.615Z",
-      "pub_sort_dt": "2026-08-19 14:14:11"
+      "title_en": "印尼央行新任行长表态将延续既有政策，重点关注印尼盾",
+      "title_cn": "对话央行新任行长表态将护佑大象，重点关注对话政策",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/indonesia-holds-rate-as-new-chief-forecasts-further-rupiah-gains",
+      "pub_raw": "2026-08-19T09:26:01.834Z",
+      "pub_sort_dt": "2026-08-19 17:26:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "埃塞俄比亚货币贬值，央行美元储备迅速耗尽",
-      "title_cn": "央行美元储备迅速增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ethiopia-s-currency-sinks-as-central-bank-burns-through-dollars",
-      "pub_raw": "2026-08-19T06:14:11.612Z",
-      "pub_sort_dt": "2026-08-19 14:14:11"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着长期债券跌幅加剧，韩国收益率曲线陡峭程度达到2021年以来最高水平",
-      "title_cn": "随着长期债券跌幅加大，韩国曲线陡峭程度达到2021年以来最高水平",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/korea-yield-curve-steepest-since-2021-as-long-bond-slump-deepens",
-      "pub_raw": "2026-08-19T06:14:11.608Z",
-      "pub_sort_dt": "2026-08-19 14:14:11"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "日元干预后，投资者将目光投向瑞士法郎，以进行广受欢迎的套利交易",
-      "title_cn": "日元干预后，投资者将目光投向瑞士法郎，以进行广受欢迎的套利交易",
-      "url": "https://reut.rs/4gs4kEG",
-      "pub_raw": "2026-08-19T06:14:11.499Z",
-      "pub_sort_dt": "2026-08-19 14:14:11"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "富时100指数实时行情：受全球股市下跌影响，期货走低",
-      "title_cn": "富时100指数实时行情：受全球股市下跌影响，期货走低",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-08-19/ftse-100-live-pound-bonds-cpi-inflation-iran-trump-oil-prices-hormuz-ai-stocks-what-s-moving-uk-markets-right-now-markets-today-mszo5tlt",
-      "pub_raw": "2026-08-19T05:57:54.887Z",
-      "pub_sort_dt": "2026-08-19 13:57:54"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Alphabet将发行长期澳元债券，收益率创下近7%的纪录",
-      "title_cn": "Alphabet将长期发行债券，目前已达到近7%的纪录",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/alphabet-set-to-sell-long-aussie-bond-at-record-near-7-cost",
-      "pub_raw": "2026-08-19T05:57:54.862Z",
-      "pub_sort_dt": "2026-08-19 13:57:54"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "两艘中国超级油轮在霍尔木兹海峡调头，因风险依然很高",
-      "title_cn": "两风险进口中国超级油轮在霍尔木兹海峡调头，因依然重要",
+      "title_en": "三艘中国油轮在霍尔木兹海峡掉头，因风险依然很高",
+      "title_cn": "三艘中国油轮在霍尔木兹海峡掉头，因依然",
       "url": "https://www.bloomberg.com/news/articles/2026-08-19/two-chinese-supertankers-u-turn-in-hormuz-as-risks-remain-high",
-      "pub_raw": "2026-08-19T05:41:58.265Z",
-      "pub_sort_dt": "2026-08-19 13:41:58"
+      "pub_raw": "2026-08-19T09:26:01.814Z",
+      "pub_sort_dt": "2026-08-19 17:26:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "香港交易所受惠于首次公开募股和交易热潮，创下利润新高",
-      "title_cn": "香港交易所受惠于首次公开募股和交易热潮，少量利润新高",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/hong-kong-exchange-posts-record-earnings-on-ipo-trading-boom",
-      "pub_raw": "2026-08-19T05:41:58.247Z",
-      "pub_sort_dt": "2026-08-19 13:41:58"
+      "title_en": "解决英国国民医疗服务体系（NHS）的低效问题或可为英国节省320亿英镑",
+      "title_cn": "解决英国国民医疗体系服务（NHS）的低效问题或解决英国节省320亿英镑",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/prize-worth-32-billion-if-uk-tackles-nhs-efficiency-crisis",
+      "pub_raw": "2026-08-19T09:26:01.789Z",
+      "pub_sort_dt": "2026-08-19 17:26:01"
     },
     {
       "source": "Reuters",
-      "title_en": "韩国一名部长表示，特朗普似乎正在就伊朗问题和投资问题向首尔施压",
-      "title_cn": "韩国一位部长表示，特朗普似乎正在就伊朗问题和投资问题向首尔施压",
-      "url": "https://reut.rs/4zslV7X",
-      "pub_raw": "2026-08-19T05:41:58.131Z",
-      "pub_sort_dt": "2026-08-19 13:41:58"
+      "title_en": "基里奥斯因可卡因检测呈阳性被暂时禁赛",
+      "title_cn": "基里奥斯因可卡因检测呈积极状态被暂时禁赛",
+      "url": "https://reut.rs/4xNsz75",
+      "pub_raw": "2026-08-19T09:26:01.707Z",
+      "pub_sort_dt": "2026-08-19 17:26:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "迈莱面临重大选举挑战：阿根廷失业率攀升",
+      "title_cn": "迈莱面临重大选举挑战：阿根廷攀升",
+      "url": "https://www.bloomberg.com/news/features/2026-08-19/milei-ante-gran-desafio-electoral-el-desempleo-crece-en-argentina",
+      "pub_raw": "2026-08-19T09:10:04.547Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "央行面临的19万亿美元债券难题",
+      "title_cn": "央行面临19万亿美元债券问题",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-19/the-19-trillion-bond-question-confronting-central-banks",
+      "pub_raw": "2026-08-19T09:10:04.543Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "乌冬面大亨押注粗面条将赢得美国人的青睐",
+      "title_cn": "乌冬面大亨押注粗面条将赢得美国人的青睐",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/udon-billionaire-bets-that-thick-noodles-will-win-over-americans",
+      "pub_raw": "2026-08-19T09:10:04.540Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "阿根廷的就业岗位流失和失业问题是米莱面临的最大政治风险",
+      "title_cn": "阿根廷就业岗位流失和失业问题是米莱面临的最大政治风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/argentina-job-losses-unemployment-are-milei-s-big-political-risk",
+      "pub_raw": "2026-08-19T09:10:04.536Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国最大美妆品牌普雅将通过与Ulta的合作于今年进军美国市场",
+      "title_cn": "中国最大美妆品牌普雅将通过与Ulta的合作于今年进军美国市场",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/china-s-biggest-beauty-brand-proya-to-enter-us-this-year-with-ulta-deal",
+      "pub_raw": "2026-08-19T09:10:04.533Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "LME交割缓解供应紧张，铜价维持跌势",
+      "title_cn": "LME交割缓解供应紧张，铜价维持跌势",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/copper-holds-loss-as-deliveries-to-lme-mitigate-supply-crunch",
+      "pub_raw": "2026-08-19T09:10:04.469Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国火箭首次成功回收，正逐步逼近SpaceX",
+      "title_cn": "中国火箭首次成功回归，正逐步逼近SpaceX",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/china-recovers-rocket-on-land-in-push-to-catch-up-with-spacex",
+      "pub_raw": "2026-08-19T09:10:04.454Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国人工智能机器人大亨的股价单日飙升130亿美元",
+      "title_cn": "中国人工智能机器人大亨的股价单日飙升130亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/robot-dogs-make-chinese-billionaire-even-richer-despite-us-curbs",
+      "pub_raw": "2026-08-19T09:10:04.415Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "冰岛将基准利率上调至8%，以降低物价螺旋式上涨的风险",
+      "title_cn": "挪威将基准利率上调至8%，以降低物价螺旋式上涨的风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/iceland-hikes-key-rate-to-8-to-lower-risk-of-prices-spiraling",
+      "pub_raw": "2026-08-19T08:53:56.137Z",
+      "pub_sort_dt": "2026-08-19 16:53:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "埃及债券风险降至2014年以来最低水平，表明持续十年的债务困境正在缓解",
+      "title_cn": "埃及风险债券降至2014年以来最低水平，表明十年的债务困境正在缓解",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/egypt-bond-risk-at-2014-low-shows-decade-of-debt-distress-easing",
+      "pub_raw": "2026-08-19T08:53:56.133Z",
+      "pub_sort_dt": "2026-08-19 16:53:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "南非通胀放缓，为维持利率提供了依据",
+      "title_cn": "南非为维持利率提供了参考",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/south-africa-inflation-cools-making-case-to-keep-rates-on-hold",
+      "pub_raw": "2026-08-19T08:53:56.130Z",
+      "pub_sort_dt": "2026-08-19 16:53:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "债券交易员正在对冲美联储在2027年转而降息的风险",
+      "title_cn": "债券交易员正在对冲美联储在2027年转而降息的风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bond-traders-are-hedging-risk-fed-pivots-to-rate-cuts-in-2027",
+      "pub_raw": "2026-08-19T08:53:56.020Z",
+      "pub_sort_dt": "2026-08-19 16:53:56"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "图片显示，中国已在南海争议礁石上完成第一阶段工程 - Reuters",
+      "title_cn": "图片显示，中国已在南海争议礁石上完成第一阶段工程 - 路透社",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxOWjlHMXpDTU1lN0ZxdTV0cWJwMktYTG52MU5RX1JXVTFaemlzbl9TdzZRWS1IN3dCM0d4ZmdLaGtTVjI1NHU5U1N1Mi02bGVteGtDZXlOZWpOcmlMbExyMnpnX0V1WG5hUWJ2ZmlULUVxU1RjZWo3SllHU04tLVFIbmV0WDJEV1hFdllaRHR5Y0I4NkVNTjFub3VqTHV5aUFYdFhGMkU1SV96NlFsdEtHQmZNeGNVeVhPdHlwZDhBVQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T07:19:44.000Z",
+      "pub_sort_dt": "2026-08-19 15:19:44"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "继此前在海上成功回收火箭级后，中国首次在陆地上回收了火箭级 - NBC News",
+      "title_cn": "继阿联酋在海上成功恢复了火箭级别后，中国首次在陆地上恢复了火箭级别 - NBC News",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxNYmtvXzVxV1BHX0NjWENOc1NIdHdiRXEtM2ZVbkVDX3pTZEp0Q1gzQlRfQy0zcjNsdEZHZWFZMG5xRFBzVkNnTWlOMWY0SkFqcFAyUW5EdThoOVlTUGZOLUliSWF2TlBJbzhzTEo3V0tIbFBJZ0dLVTYxcllLTTM1RkU5WjJHVE5TRUFLSlpUWXBUbE9lMHlZeEpyRW80UGVLOWFmRDRFNFNwUUxNUkVB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T05:35:00.000Z",
+      "pub_sort_dt": "2026-08-19 13:35:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "在中国经济放缓之际，工薪阶层的故事引起了共鸣 - The New York Times",
@@ -261,6 +277,22 @@
       "url": "https://news.google.com/read/CBMijAFBVV95cUxPSkJsWjVUYnNGVGVLaXpvTXN4ZjEzaE1UaFctNjBnUnZRZnQ1TWk2ZjBHejFYYkJJN2JFV1NFaVRSUzNnQUtnbVVXdHQzOE84Q3RwZUR4WmlIcWVHdWNnQm5PTGhHSGtLbExQbUtjUzh3NHNpSEg2aklnSEstZWtPeVZPbjlTOVJpazdOQQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-19T04:00:08.000Z",
       "pub_sort_dt": "2026-08-19 12:00:08"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "类人资源：中国机器人寻求劳动力领域的突破 - Yahoo Finance",
+      "title_cn": "类人资源：中国机器人寻求劳动力领域的突破 - 雅虎财经",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxPUEJ4aDZfQ0FUd0dPMjdiYmtiVTRabTd0bTZTQkQyOUREcndNTjExNDBkVU92Q0k4ZmtXNGJlMGtyQ2pvbDRPMl9kV0pfSlF0RGRFYVVFR1ZFWTFVZ25TbWxBVWs2REstTG0yRHlaSmhTVGZZZEwwb0N1Z3ZtTHFxNWJtRDM5TGFlb2RzcXQzdFRBMXNxXy1zZkQzN0hfal9ESERGcU93?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T03:25:00.000Z",
+      "pub_sort_dt": "2026-08-19 11:25:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国在陆地上成功回收火箭，力争追赶SpaceX - Bloomberg.com",
+      "title_cn": "中国在上一届成功恢复火箭，力争追赶SpaceX - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxOTUpvMThZX3RIUDNYYzhkWDBvaE9NcWpsV0djVF9nYWVobDVzRExqN3FDZVl3U1FaZ255YjdFYXpVbGNVazlsVHpNSnVQVzYtdFVMenBVT0FuSUxRY3NGY3NSLW9LdndDUWxTM3p0MTlfY1BwWl9rUEZYMk9VcjJWWWJPVjdKVF9pMmpsZy1CWkQ2R2cxckp5ckdLaXhaeENRZXFEcmZHcjdXaENfWXp4cVJR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-19T02:26:00.000Z",
+      "pub_sort_dt": "2026-08-19 10:26:00"
     },
     {
       "source": "China Buzzing",
@@ -303,196 +335,164 @@
       "pub_sort_dt": "2026-08-19 09:37:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "一部关于伊拉克战争的热门电影，反映了中国人怎样的世界观？ - scmp.com",
-      "title_cn": "一部关于伊朗战争的热门电影，反映了中国人怎样的世界观？ - scmp.com",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxNdW9XdjNYMVN4RG95aHlmeG5Wa1FZcGVfc2hhTnlvQ19IaktnT25EanJNVzNseElnS0k5d1E0QUdmdmhPb2tPQWx3TUo2dlBsLUZWMVZJMm1DeWQyanhOeXcwOC1ubjJXZ0swcFg0U0RKOEJMM1dOV3ZqWUo1N2M3cFRWcDdGajJZRlYtaVFMN3p5QkNFVXhwMkthTF9CSzBpNHdnTTVGRDFwWlJVMy1VUHFWT3Brd3JUekR6eG1B0gG-AUFVX3lxTE1zTWtXOUdtVnFWeDNvbThmLWtoeEh6NF90YS1iMGY4MENYUlpNSjlPUDlCaXV0dW1DT3pYY21xRmllS0FWb295THV2RG4wYjMwSVBYUlFBUDg0MzA2WjBTUGtNbS1jUGQxenBhN05KdUtLQXZYTU5OMkotdDIzclE2Mk53NlZWeGlWUFB0R0pxellwT2lWR1B3Rkd4TlNPdEtlOVFEaFpkWnJ0U3E0UjQwaTVUZ2pUZWhsMkJMWVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T01:00:08.000Z",
-      "pub_sort_dt": "2026-08-19 09:00:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国“天宇”公司在轨道发射后成功回收钢制助推器，超越了SpaceX - South China Morning Post",
-      "title_cn": "中国“天宇”公司在轨道发射后成功恢复钢制助推器，超越了SpaceX - 南华早报",
-      "url": "https://news.google.com/read/CBMiyAFBVV95cUxQMFQ0ZmRQdTJ5WlR6UndSakFYbTh2T290X19JVGJhUDF2UkhBcC1HQTBwWk1lTmJPVUdXdF85MFF5SHRISVVFZjRCTjgzSEhEdzdILXNubUVVZHE2Mjc2WUJhYm9pZ2xHTXBQMGl1OWlTbDBvSENHV20tdWllcGJVdHVXZU5GaG4xRkNWX3h0dDJqdGozWmJ2cmZpbDBSQmRfbnFKWkJpMjh6UDVvc1poVC11dWhWRW5aSFAzZkV4T0tzODJyOXV0UdIByAFBVV95cUxNN0hyV19CMi03VXZzWGtpMUFTNURYck9CUjhTSGJpVFpxT29fQklQRzUwZGp0ZUpKam40Wks2U1Mya0hHZXFzNUxCRnNOR2JmRWo3dlc0ZkxZRFhnTTdaUzJBVXVGOS1QM0Vyd21NU21Fek5kYnlwUWNiZWd1eG9ZWHRRamR3R0VmVmlmZ0F4MTVqVlQ1djhzaFg3QmZuWGNRc2p5ZUNON19pVVIzOThDLXA2YnNxQnNJLVRSOXEtdkxnRjByLWFFVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T00:28:33.000Z",
-      "pub_sort_dt": "2026-08-19 08:28:33"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“一切都由党做主，”获释牧师谈及中国对宗教的打压时表示 - PBS",
-      "title_cn": "“一切都由党做主”获释牧师谈及中国对宗教的打压时表示 - PBS",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPQzdDQzREd01DQlliNDZxLUhYY09yVnd4aFhVVWdwSDNYQW5saWo5VjhMbm91REh3U0NrcWxPbFhqeFlXUTZBV3NNV0tjSTRfWlFJeXlQa0RnTU92bmJVWmxwVFNjZ2c3NU9hd3FMWm9zOEI2aU9yMHg0UlN4WXF6amhjcHZsa2JJd3ctUzF4NXhJZWNWSXdPMzJjVW80Ml9qT0ctMmVCQlU5RFNhVFZCNmZITk5OUUpVdzNMYg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T22:20:07.000Z",
-      "pub_sort_dt": "2026-08-19 06:20:07"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "信任问题：中国富豪们正面临新的离岸资产税规带来的挑战 - South China Morning Post",
-      "title_cn": "信任问题：中国富豪们正面临新的离岸资产税规带来的挑战 - 南华早报",
-      "url": "https://news.google.com/read/CBMi0gFBVV95cUxQYmMyNUVVQUk4VWJxVE9JZFc5TjJUd0xFbFY1M1ZPREtRSWl3UENaSlpseVluUkdsMDhrODhyUUhhczloa3ROLUhodFhjalFHWGdqY1BSb0tYTC1sNTlwLXVEZkx1RW1iN0lMSDVibmtLWlR4bkM1NThHSmllU2NtUGltbFRiN2VsSThKN1Nhb1ktOUlLd0VScGdqeVJWRVlIV2drVmd5X01LbzFTbGN1Y1h6dG9aejBqNXR1b3hZanBEM3lVbEtOY2VmTTl2SXIzZFHSAdIBQVVfeXFMTXJrVjItcDd4cWZCMVQ0c0dZS3ZqNHVyazBqcnh4WG94Nl9YbEJCTGNOUGl1YW1vQ0RYV2RtRzN5bmR1cEhDd3IyT3phRGxYMERHTk9BR2NQUmJWUVNGbFZSejh1LWNBNUlKUmd6OE83RUJ6dHRLRVhZWXptUUsxVjRPYXBzam9BVTlRSjJOQnlmc2x0aWZkQ2tZcGhyYkJDblRCQ0dLWGFvTHV0NmltMUNQSmdGZkg4RjQwMWF2UlEzWjNMVFZzdHRlVHlaRUZsZXRR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-18T22:00:08.000Z",
-      "pub_sort_dt": "2026-08-19 06:00:08"
+      "source": "Bloomberg",
+      "title_en": "收益率上升推高了人工智能建设所需的借贷成本，科技股反弹面临风险",
+      "title_cn": "目前上升推高了人工智能建设所需的比特币成本，科技股反弹面临风险",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/tech-rally-at-risk-as-rising-yields-drive-up-borrowing-costs-for-ai-buildout",
+      "pub_raw": "2026-08-19T09:41:53.345Z",
+      "pub_sort_dt": "2026-08-19 17:41:53"
     },
     {
       "source": "Bloomberg",
-      "title_en": "全球债券抛售潮后，投资者抛售芯片股",
-      "title_cn": "全球债券抛售潮后，投资者抛售债券股",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/investors-ditch-chip-stocks-after-global-bond-selloff",
-      "pub_raw": "2026-08-19T06:45:56.209Z",
-      "pub_sort_dt": "2026-08-19 14:45:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "新加坡将为基金行业提供税收优惠和更便捷的签证政策",
-      "title_cn": "新加坡希望基金行业提供税收优惠和更便捷的签证政策",
-      "url": "https://reut.rs/4c0nYWJ",
-      "pub_raw": "2026-08-19T06:45:56.085Z",
-      "pub_sort_dt": "2026-08-19 14:45:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "英国将就定价问题对Trainline、维珍大西洋航空等公司展开调查",
-      "title_cn": "英镑将就定价问题对Trainline、维珍大西洋航空等公司展开调查",
-      "url": "https://reut.rs/4wG3qtX",
-      "pub_raw": "2026-08-19T06:45:56.081Z",
-      "pub_sort_dt": "2026-08-19 14:45:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "乌克兰反腐败机构正在调查一个涉及总统府官员的团伙",
-      "title_cn": "乌克兰反腐败机构正在调查涉及总统府官员的团伙",
-      "url": "https://reut.rs/4xSrrze",
-      "pub_raw": "2026-08-19T06:45:56.078Z",
-      "pub_sort_dt": "2026-08-19 14:45:56"
+      "title_en": "人工智能导致的失业：关于帮助劳动者的提案指南",
+      "title_cn": "人工智能导致的暂停：关于帮助劳动者的倡议指南",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-job-losses-a-guide-to-the-proposals-for-helping-workers",
+      "pub_raw": "2026-08-19T09:41:53.338Z",
+      "pub_sort_dt": "2026-08-19 17:41:53"
     },
     {
       "source": "Bloomberg",
-      "title_en": "在软饮料需求强劲的背景下，嘉士伯上调业绩预期",
-      "title_cn": "在需求疲软的背景下，嘉士伯上调业绩预期",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/carlsberg-nudges-outlook-higher-amid-strong-soft-drink-demand",
-      "pub_raw": "2026-08-19T06:30:18.088Z",
-      "pub_sort_dt": "2026-08-19 14:30:18"
+      "title_en": "壳牌交易员曼斯菲尔德在这家石油巨头任职26年后辞职",
+      "title_cn": "壳牌交易员曼斯菲尔德在该家石油工会26年后辞职",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/shell-trader-mansfield-resigns-after-26-years-at-oil-major",
+      "pub_raw": "2026-08-19T09:41:53.334Z",
+      "pub_sort_dt": "2026-08-19 17:41:53"
     },
     {
       "source": "Bloomberg",
-      "title_en": "美银调查显示，印度股市在亚洲市场中被视为最不受青睐的，排名高于印尼",
-      "title_cn": "美银调查显示，印度股市在亚洲市场中被视为最不受青睐的，排名第一",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/india-stocks-top-indonesia-as-asia-s-least-favored-in-bofa-poll",
-      "pub_raw": "2026-08-19T06:30:18.085Z",
-      "pub_sort_dt": "2026-08-19 14:30:18"
+      "title_en": "贝恩旗下子公司Proterial计划通过出售日本公司筹集13亿美元",
+      "title_cn": "贝恩旗下子公司Proterial计划通过出售日本公司成交13亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/bain-unit-proterial-seeks-1-3-billion-from-japan-wire-firm-sale",
+      "pub_raw": "2026-08-19T09:41:53.258Z",
+      "pub_sort_dt": "2026-08-19 17:41:53"
     },
     {
       "source": "Bloomberg",
-      "title_en": "韩国正探索在拥挤的首尔之外建立新的金融中心",
-      "title_cn": "韩国正探索在曼哈顿的首尔境外建立新的金融中心",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/south-korea-exploring-new-financial-hub-beyond-overcrowded-seoul",
-      "pub_raw": "2026-08-19T06:30:18.082Z",
-      "pub_sort_dt": "2026-08-19 14:30:18"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "泰国寻求新途径以结束南部致命的叛乱，谈判代表称",
-      "title_cn": "泰国寻求新途径以结束南部致命的叛乱，谈判代表称",
-      "url": "https://reut.rs/3SncN3R",
-      "pub_raw": "2026-08-19T06:30:17.963Z",
-      "pub_sort_dt": "2026-08-19 14:30:17"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：2026年世界机器人大会在北京拉开帷幕",
-      "title_cn": "直播：2026年世界机器人大会在北京拉开帷幕",
-      "url": "https://www.youtube.com/watch?v=aqRMnqcB2Jo",
-      "pub_raw": "2026-08-19T06:30:17.959Z",
-      "pub_sort_dt": "2026-08-19 14:30:17"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "印度法院将重新审理针对SpiceJet的破产申请",
-      "title_cn": "印度法院将对香料航空的破产申请重新提起诉讼",
-      "url": "https://reut.rs/3RUVAi8",
-      "pub_raw": "2026-08-19T06:30:17.955Z",
-      "pub_sort_dt": "2026-08-19 14:30:17"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "受中东能源危机影响，英国7月通胀率升至2.9%",
-      "title_cn": "受中东能源危机影响，英国7月通胀率飙升2.9%",
-      "url": "https://www.ft.com/content/5a606279-3473-4c5b-a16e-ad9db6debafb?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-19T06:30:17.854Z",
-      "pub_sort_dt": "2026-08-19 14:30:17"
+      "title_en": "印尼央行新任行长表态将延续既有政策，重点关注印尼盾",
+      "title_cn": "对话央行新任行长表态将护佑大象，重点关注对话政策",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/indonesia-holds-rate-as-new-chief-forecasts-further-rupiah-gains",
+      "pub_raw": "2026-08-19T09:26:01.834Z",
+      "pub_sort_dt": "2026-08-19 17:26:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "受能源账单上涨影响，英国通胀率攀升至四个月高点",
-      "title_cn": "受能源总额上涨影响，英国飙升率攀升至四个月高点",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/uk-inflation-climbs-to-four-month-high-as-energy-bills-rise",
-      "pub_raw": "2026-08-19T06:14:11.615Z",
-      "pub_sort_dt": "2026-08-19 14:14:11"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "埃塞俄比亚货币贬值，央行美元储备迅速耗尽",
-      "title_cn": "央行美元储备迅速增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ethiopia-s-currency-sinks-as-central-bank-burns-through-dollars",
-      "pub_raw": "2026-08-19T06:14:11.612Z",
-      "pub_sort_dt": "2026-08-19 14:14:11"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着长期债券跌幅加剧，韩国收益率曲线陡峭程度达到2021年以来最高水平",
-      "title_cn": "随着长期债券跌幅加大，韩国曲线陡峭程度达到2021年以来最高水平",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/korea-yield-curve-steepest-since-2021-as-long-bond-slump-deepens",
-      "pub_raw": "2026-08-19T06:14:11.608Z",
-      "pub_sort_dt": "2026-08-19 14:14:11"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "日元干预后，投资者将目光投向瑞士法郎，以进行广受欢迎的套利交易",
-      "title_cn": "日元干预后，投资者将目光投向瑞士法郎，以进行广受欢迎的套利交易",
-      "url": "https://reut.rs/4gs4kEG",
-      "pub_raw": "2026-08-19T06:14:11.499Z",
-      "pub_sort_dt": "2026-08-19 14:14:11"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "富时100指数实时行情：受全球股市下跌影响，期货走低",
-      "title_cn": "富时100指数实时行情：受全球股市下跌影响，期货走低",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-08-19/ftse-100-live-pound-bonds-cpi-inflation-iran-trump-oil-prices-hormuz-ai-stocks-what-s-moving-uk-markets-right-now-markets-today-mszo5tlt",
-      "pub_raw": "2026-08-19T05:57:54.887Z",
-      "pub_sort_dt": "2026-08-19 13:57:54"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Alphabet将发行长期澳元债券，收益率创下近7%的纪录",
-      "title_cn": "Alphabet将长期发行债券，目前已达到近7%的纪录",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/alphabet-set-to-sell-long-aussie-bond-at-record-near-7-cost",
-      "pub_raw": "2026-08-19T05:57:54.862Z",
-      "pub_sort_dt": "2026-08-19 13:57:54"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "两艘中国超级油轮在霍尔木兹海峡调头，因风险依然很高",
-      "title_cn": "两风险进口中国超级油轮在霍尔木兹海峡调头，因依然重要",
+      "title_en": "三艘中国油轮在霍尔木兹海峡掉头，因风险依然很高",
+      "title_cn": "三艘中国油轮在霍尔木兹海峡掉头，因依然",
       "url": "https://www.bloomberg.com/news/articles/2026-08-19/two-chinese-supertankers-u-turn-in-hormuz-as-risks-remain-high",
-      "pub_raw": "2026-08-19T05:41:58.265Z",
-      "pub_sort_dt": "2026-08-19 13:41:58"
+      "pub_raw": "2026-08-19T09:26:01.814Z",
+      "pub_sort_dt": "2026-08-19 17:26:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "香港交易所受惠于首次公开募股和交易热潮，创下利润新高",
-      "title_cn": "香港交易所受惠于首次公开募股和交易热潮，少量利润新高",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/hong-kong-exchange-posts-record-earnings-on-ipo-trading-boom",
-      "pub_raw": "2026-08-19T05:41:58.247Z",
-      "pub_sort_dt": "2026-08-19 13:41:58"
+      "title_en": "解决英国国民医疗服务体系（NHS）的低效问题或可为英国节省320亿英镑",
+      "title_cn": "解决英国国民医疗体系服务（NHS）的低效问题或解决英国节省320亿英镑",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/prize-worth-32-billion-if-uk-tackles-nhs-efficiency-crisis",
+      "pub_raw": "2026-08-19T09:26:01.789Z",
+      "pub_sort_dt": "2026-08-19 17:26:01"
     },
     {
       "source": "Reuters",
-      "title_en": "韩国一名部长表示，特朗普似乎正在就伊朗问题和投资问题向首尔施压",
-      "title_cn": "韩国一位部长表示，特朗普似乎正在就伊朗问题和投资问题向首尔施压",
-      "url": "https://reut.rs/4zslV7X",
-      "pub_raw": "2026-08-19T05:41:58.131Z",
-      "pub_sort_dt": "2026-08-19 13:41:58"
+      "title_en": "基里奥斯因可卡因检测呈阳性被暂时禁赛",
+      "title_cn": "基里奥斯因可卡因检测呈积极状态被暂时禁赛",
+      "url": "https://reut.rs/4xNsz75",
+      "pub_raw": "2026-08-19T09:26:01.707Z",
+      "pub_sort_dt": "2026-08-19 17:26:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "迈莱面临重大选举挑战：阿根廷失业率攀升",
+      "title_cn": "迈莱面临重大选举挑战：阿根廷攀升",
+      "url": "https://www.bloomberg.com/news/features/2026-08-19/milei-ante-gran-desafio-electoral-el-desempleo-crece-en-argentina",
+      "pub_raw": "2026-08-19T09:10:04.547Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "央行面临的19万亿美元债券难题",
+      "title_cn": "央行面临19万亿美元债券问题",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-19/the-19-trillion-bond-question-confronting-central-banks",
+      "pub_raw": "2026-08-19T09:10:04.543Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "乌冬面大亨押注粗面条将赢得美国人的青睐",
+      "title_cn": "乌冬面大亨押注粗面条将赢得美国人的青睐",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/udon-billionaire-bets-that-thick-noodles-will-win-over-americans",
+      "pub_raw": "2026-08-19T09:10:04.540Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "阿根廷的就业岗位流失和失业问题是米莱面临的最大政治风险",
+      "title_cn": "阿根廷就业岗位流失和失业问题是米莱面临的最大政治风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/argentina-job-losses-unemployment-are-milei-s-big-political-risk",
+      "pub_raw": "2026-08-19T09:10:04.536Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国最大美妆品牌普雅将通过与Ulta的合作于今年进军美国市场",
+      "title_cn": "中国最大美妆品牌普雅将通过与Ulta的合作于今年进军美国市场",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/china-s-biggest-beauty-brand-proya-to-enter-us-this-year-with-ulta-deal",
+      "pub_raw": "2026-08-19T09:10:04.533Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "LME交割缓解供应紧张，铜价维持跌势",
+      "title_cn": "LME交割缓解供应紧张，铜价维持跌势",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/copper-holds-loss-as-deliveries-to-lme-mitigate-supply-crunch",
+      "pub_raw": "2026-08-19T09:10:04.469Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国火箭首次成功回收，正逐步逼近SpaceX",
+      "title_cn": "中国火箭首次成功回归，正逐步逼近SpaceX",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/china-recovers-rocket-on-land-in-push-to-catch-up-with-spacex",
+      "pub_raw": "2026-08-19T09:10:04.454Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国人工智能机器人大亨的股价单日飙升130亿美元",
+      "title_cn": "中国人工智能机器人大亨的股价单日飙升130亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/robot-dogs-make-chinese-billionaire-even-richer-despite-us-curbs",
+      "pub_raw": "2026-08-19T09:10:04.415Z",
+      "pub_sort_dt": "2026-08-19 17:10:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "冰岛将基准利率上调至8%，以降低物价螺旋式上涨的风险",
+      "title_cn": "挪威将基准利率上调至8%，以降低物价螺旋式上涨的风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/iceland-hikes-key-rate-to-8-to-lower-risk-of-prices-spiraling",
+      "pub_raw": "2026-08-19T08:53:56.137Z",
+      "pub_sort_dt": "2026-08-19 16:53:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "埃及债券风险降至2014年以来最低水平，表明持续十年的债务困境正在缓解",
+      "title_cn": "埃及风险债券降至2014年以来最低水平，表明十年的债务困境正在缓解",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/egypt-bond-risk-at-2014-low-shows-decade-of-debt-distress-easing",
+      "pub_raw": "2026-08-19T08:53:56.133Z",
+      "pub_sort_dt": "2026-08-19 16:53:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "南非通胀放缓，为维持利率提供了依据",
+      "title_cn": "南非为维持利率提供了参考",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/south-africa-inflation-cools-making-case-to-keep-rates-on-hold",
+      "pub_raw": "2026-08-19T08:53:56.130Z",
+      "pub_sort_dt": "2026-08-19 16:53:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "债券交易员正在对冲美联储在2027年转而降息的风险",
+      "title_cn": "债券交易员正在对冲美联储在2027年转而降息的风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bond-traders-are-hedging-risk-fed-pivots-to-rate-cuts-in-2027",
+      "pub_raw": "2026-08-19T08:53:56.020Z",
+      "pub_sort_dt": "2026-08-19 16:53:56"
     }
   ]
 }
