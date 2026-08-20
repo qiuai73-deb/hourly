@@ -1,22 +1,62 @@
 {
-  "update_cst": "2026-08-20 18:01:11 北京时间",
+  "update_cst": "2026-08-20 22:01:15 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 2,
-    "Bloomberg": 12,
-    "Financial Times": 2,
+    "The Economist": 6,
+    "Bloomberg": 9,
+    "Financial Times": 1,
     "Wall Street Journal": 0,
     "Reuters": 4
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "台湾和南海为何对美国和世界如此重要 - AP News",
+      "title_cn": "台湾和南海为何对美国和世界如此重要 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxOQk1xaTMtNG9paFJkZC13NzlIYTZTZW52RlZiWWYxOGpqRDQ5T1JGRHIwMktjUEZZdVF1VklMUmtEVlFlbDhsN1Z3NElVWDEwbWtNc19hcG1sa2JSR0lOdEtZdF81c3p2ZTlxY3FSRXpyX0s3b1M0bEVXMGVPVy03R2VQbWJ1UUl5aVFEamNOWlRmOGVMN0hiRmNpcjY3eHRnVzJXSTNvMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T10:30:03.000Z",
+      "pub_sort_dt": "2026-08-20 18:30:03"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国敦促韩国不要偏袒任何一方，并将朝鲜半岛局势紧张归咎于美国政策 - NBC News",
+      "title_cn": "中国敦促韩国不要偏袒任何一方，朝鲜半岛安全归属于美国政策 - NBC News",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxNVGlXeWlXNmktVGZLelRVMmpfVmVLRVVmZ3hZVkpvOVNIX1pEN2FKcUpBZ0RtMWZEbzY1UHkwZ2tuSlVXMkllRjQ3U1dLdDM2Z0ZseXZkdnRwSko2RGVzbW9CbWRqR2o0T1lNcGNrNnMyLWlXSGJPN1prS2p3aHJpSEhPV0NWS2ZyWEFNWDdId3FERk9fTVp6eWxoTkQ1THlWeTZNN2pQZk94MmIzVHpQNHdmeHNkYm8?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T10:12:51.000Z",
+      "pub_sort_dt": "2026-08-20 18:12:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国将一名被中国扣留的美国公民认定为遭非法拘留 - NBC News",
+      "title_cn": "美国将一名被中国扣留的美国公民认定为遭非法拘留 - NBC News",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxNTkpyS1JoQjBpMFlkTkhLQjJMbTRUU0ZhY0RqZGZwWnA4T3gwNkUwcHk1S3NFMXpmLVBhRzZFQWE5azdHRXhqRDFyTzlXVjJRMkxtT1RNakhkek5VckxGV2oyWVVGXy1ySHl6cGxYT1VmR2w2MEJRYVRabW1zUkY2dUVhVXhxTUFVZzBDcUEwVldzU0JiU3dyaVZpekU0MzJlQTA1RXlVNXhtVEVINU9QYkUzSHg5Zw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T09:56:51.000Z",
+      "pub_sort_dt": "2026-08-20 17:56:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "独家：美国认定被中国扣留的美国公民系遭非法拘留 - Reuters",
+      "title_cn": "独家：美国认定被中国扣留的美国公民系遭非法拘留 - 路透社",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxNSDZ3UFNpc0w1UlZCenptNzdSNFYtdk5KOVc2MlNFQ1NvdVlRR19Kem9HUTBFTm9ZS2RtM211Z1NsMVZBTkRUeEQwaGRqZUotMGEtWW52LUtDMUI3SURnXzduRUJjblVQOVJEVU9ob0toUHlaNUdpbGxQc2ZkRXZMRExDVFNVbEpwUEZGbnpjanp2N2c2N2xWSlJOdXY0czFEMW1QMGFCTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T09:21:16.000Z",
+      "pub_sort_dt": "2026-08-20 17:21:16"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国会学会喜欢巧克力吗？ - The Economist",
       "title_cn": "中国会喜欢巧克力吗？ - 《经济学人》",
       "url": "https://news.google.com/read/CBMiigFBVV95cUxOUEJxUWt1NXFXQ0Z5ZnpMX3lTTy1Ib0g2T0w1WEdmVVloWnhsaEJwR2QxUzA0UWRjYlRHS0hhYzd0WWVEajBuZUoxWHpIcTlKclhDRHh4R1VMQzVqRmVDMzQ0QlNHWWpzeFhaMmp1M3lBakJyXzlVQ2N3a1p5clIwclA5alNoZ3N6MFE?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-20T08:21:40.000Z",
       "pub_sort_dt": "2026-08-20 16:21:40"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国对特朗普针对伊朗的“经济D日”行动予以反击 - Anadolu Ajansı",
+      "title_cn": "中国对特朗普针对伊朗的“经济D日”行动包装疗法 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxOaVFTNkdpUml0RDFGNUxNRGVFbDA1aVpDejBvdEszYkZTNjB2LVhGYkpUalU3Y2lZYURrRDZFLWFmLVdxaEsxZUlNNFA2SW9iR3lLaktKZzVzZ3hRRUNPM1dKb2k3R0p3dW43TGd2N2RwdjVKRWFyX2puOTNjcDZXYnE5ZjNUa29lbjB3X1VYM1dKQ1BhSGFiMzYtQkFPWDRvNlBRQlB1T1Byay12NENhQ3VHbzFEaU0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T07:54:09.000Z",
+      "pub_sort_dt": "2026-08-20 15:54:09"
     },
     {
       "source": "China Buzzing",
@@ -36,224 +76,216 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "许家印/恒大：身陷中国房地产危机漩涡的地产大亨被判终身监禁 - CNN",
-      "title_cn": "许家印/恒大：身陷中国房地产危机震荡的地产大亨被判终身监禁 - CNN",
-      "url": "https://news.google.com/read/CBMigwFBVV95cUxNMksxN3VPWEVwa2ZZYmNWMTVneTU2RTloanZ5UDJnTGYwajUxLTkwbTU1VzJRVjZNSzFnWW1oeW02QmRYUXlYcG4tcDRGOV9QNGcwVXBwdWYweFBRNUh3cUJRbzRlSFdLVmU5UmRaaU1Yc0JoNnJ5dW4zMkVrMEVhNFF6MA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T05:33:31.000Z",
-      "pub_sort_dt": "2026-08-20 13:33:31"
+      "title_en": "中国判处恒大创始人无期徒刑 - The New York Times",
+      "title_cn": "中国源自恒大创始人无期徒刑 - 纽约时报",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxPOFRvWjNQMUZXVzdCamhQZkZZSXJYUGFIcjF6eEdYX1RVakptb3E0Tkg1ZUN2akhTd2pobW9wMDRXNjF6OWI5em1TT3ZPX1A0Y3ljUXd0T2lPSE5uVURpdlpBLWE2X3MyOVdGcHY2SktSUklWT3ZYalI1Q0RZbUkzWERDVEFPUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T06:39:53.000Z",
+      "pub_sort_dt": "2026-08-20 14:39:53"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国判处恒大集团创始人许家印无期徒刑 - Bloomberg",
-      "title_cn": "中国恒大集团创始人许家印无期徒刑 - Bloomberg",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxOX3pvV3p5MUtYSTdHOXJReWNvTlJxNkNCWHRidnp0VHYzZUlKY2s3QlNvNHdpdE5IQUE3cFU4Q2lpOW9HRVpCeUd0cWcyX01OSXNRV2VOREZ4MGp1YUdRSDgySVBEY2dOd3lBbDV3NGZaZFFHQjBacVp1MHo4WWVNdExGMXZOU1FDblZvUmpqMUxzU2dlOTJwc0EtSkV1Mnd1YnpJVnZFTXZ4TjBOcEd0dGtkMV8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T04:16:00.000Z",
-      "pub_sort_dt": "2026-08-20 12:16:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国逆全球债券收益率飙升之势而行，增强了其资产配置的吸引力 - CNBC",
-      "title_cn": "中国逆全球债券激增之势而行，增强了其资产配置的吸引力 - CNBC",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxPQWFPcTRINVFBQmxzSGJPdWIyZVBkNUZTb0xxamwzeWVPZ01HWWhsT2lsb1RVQklwNXlWWC05Q0pzYjdwV1VuTHBvb2NWMlFBcFF3N2dkUnYtQWg2d05iOUh0bGlDMGhWX2FqQzhCUloxSTRmWnBUVDlUdXB2WlgzVTZlVC14LWlkZHpNU9IBkgFBVV95cUxOQjFNeGNHa29ncjNGWEVnXzFCQXhvM05SaVNRLXlNOGgwTy1QVDg3WHEzTzBrWVVGdldiYnBBd3I4Y3JMQkFWNTEzVGtGd0liamhJTk93TVBTY3MtaDdFM0pRRTJ4SC1TYnMtSnJteVFCSFhUc3ZCRVkwdGNQMTlJVUtKR2R1ZVp5ZWk2R2I3ZS01UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T02:39:00.000Z",
-      "pub_sort_dt": "2026-08-20 10:39:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "究竟是谁在购买中国的人形机器人？ - Financial Times",
-      "title_cn": "到底是什么在购买中国的人形机器人？ - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPT2d2YVVlRE1idGpzRnBVaHJPY3NTdk1SVU8wZmlVVU05ZVEyQzZDVlRGcXJmdlJzNGZiOTlsS2JKLXdhVjZld1BlNzNhZWpMbjNKQmhJdHpBRGU3QmhNLTBnVVdNSHV1NW5DTEJpV0IyYloxZFdjZ0hMeGExOXdGZHQ0ejA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T02:00:08.000Z",
-      "pub_sort_dt": "2026-08-20 10:00:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国黄金协会支持针对美国对中资黄金企业实施的限制措施所采取的一切必要反制措施 - Global Times",
-      "title_cn": "中国黄金协会支持针对美国对中资黄金企业实施限制措施所采取的一切必要反制措施 - 环球时报",
-      "url": "https://news.google.com/read/CBMiYkFVX3lxTE1MR0FaRWtwaXBGQnJXazZ4Z2k1VC1ZYTE5NUMxVGYwd3BHRkVLX2dZRE1QdTN4b1VrTzlVbkI2T0VsaFNwZEFCTDhqWXliVm5lVjFSNTJobTdnZGNSNG1Tb0NB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T02:00:00.000Z",
-      "pub_sort_dt": "2026-08-20 10:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国一项研究警告称应警惕国防承包商，并指出美国体系存在问题 - South China Morning Post",
-      "title_cn": "中国一项研究警告称应征国防承包商，并指出美国体系存在问题 - 南华早报",
-      "url": "https://news.google.com/read/CBMizAFBVV95cUxObHR0aXBwc05OY1NJbGd6dmVMZHZ2NUJYNFhhZnFldndtYVdDUnBJVVd2bjZRalVRQjZtTF9YTVltSTlfbU0zM0g2V3N2T3BKSGdkWFlZUHg0RTNXY19ablcydFNrcTVoX2xNTnVacHJTWW82ZTY3QVV3M0lZbERSTUQ1Q1cyOFhxZ1B6bEJDMm5Ya08tSGlVWUs5V0tFZTk0SFU3UnAxSzlHcWU1OXo2S2dRdWxKcjg0T2pXY2Q4RVBQVjBIVXZOMnNuNkHSAcwBQVVfeXFMTWVrRjM1aXRqTFZXRlRlQzBEM2dIdnF4Q3MtX0hYbmZrWEJ0TlMzZ1BkcXBzVzFzZTgxMVlyZTBObHhFdXkxN0didG1GOG8tME9hQV9WcjI0YnpRYTdyNXJJb0NOM1VidTJHN0pGcXlNeVZiMDYxRU1EUFZyM2x0MXR1cEVjRnczWlpIUFlwYXd6dzJaWUxXQnVCNERQUmc0ZHRuZjJYbWdEeUEzcmpkdDFYSnc2eHp1UTZ5WUlpaTVJeDg0bHZYREIwa01G?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T01:00:10.000Z",
-      "pub_sort_dt": "2026-08-20 09:00:10"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "为什么中国网络上的一部分人坚持认为“黄金时代”根本不存在？ - CNN",
-      "title_cn": "为什么中国网络上的一部分人坚持认为“黄金时代”根本不存在？ - CNN",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxNSm5TcVp1UndzLVRMN2xNMklHQVVSQjZVMnhpZ2RORzlfZ0FUeXJtUzJjVmxtN19DZkxrWEY2ZWJtYVoyRmtoRUV3QTRxaEtvek01ZG5jTUZyVHk5bi1MNlRhcWh2T2NRUEd1aWc0V2tiT1BuZThuNUJaOUczTWU5cmx6aUdweEd2ZGQ0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T23:55:29.000Z",
-      "pub_sort_dt": "2026-08-20 07:55:29"
+      "title_en": "为何中国这个庞大的汽车市场正面临有史以来最严重的衰退，并给全球传统汽车制造商带来压力 - Automotive News",
+      "title_cn": "为何中国这个庞大的汽车市场正面临着最严峻的设备，并给全球传统汽车制造商带来压力 - 汽车新闻",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxQTVpDTEIyWWR0QmtiQkxCT0FyM0ZXcFhBZTJRLTlpenpVZjJjWW50MGpPSWh4U0xQZ3JwbVBRQTlCUUJheWxyN1BteWt5eW9VRlZJUThsWkYxM1FRc2o1OVpCOEJsM3RrbVkwc0RxUl9mVHZDNklIT3ROVTZqUzY4VXpiaUpmdXR2ajJjTDl5ZWNtU2tCLUoyTTZCdk9ENHBFN3JGcmxB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T06:27:00.000Z",
+      "pub_sort_dt": "2026-08-20 14:27:00"
     }
   ],
   "media_news": [
     {
       "source": "The Economist",
-      "title_en": "无论用什么标准来衡量，中国的就业市场都表现疲软",
-      "title_cn": "无论用什么标准来宽松，中国就业市场都表现疲软",
-      "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
-      "pub_raw": "2026-08-20T09:42:14.210Z",
-      "pub_sort_dt": "2026-08-20 17:42:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "泰雷兹发行债券，为收购海面无人机制造商Exail提供资金",
-      "title_cn": "泰雷兹发行债券，为收购海面无人机制造商Exail提供资金",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/thales-selling-bonds-to-help-fund-deal-for-sea-drone-maker-exail",
-      "pub_raw": "2026-08-20T09:42:14.151Z",
-      "pub_sort_dt": "2026-08-20 17:42:14"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国敦促韩国不要偏袒任何一方，并将朝鲜半岛局势紧张归咎于美国政策",
-      "title_cn": "中国敦促韩国不要偏袒任何一方，朝鲜半岛安全归属于美国政策",
-      "url": "https://reut.rs/4wA8tMv",
-      "pub_raw": "2026-08-20T09:42:14.007Z",
-      "pub_sort_dt": "2026-08-20 17:42:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普转向经济战，将中国作为目标",
-      "title_cn": "特朗普转向经济战，将中国作为目标",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
-      "pub_raw": "2026-08-20T09:26:10.887Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "承包商称，特朗普的航母订单将推高成本",
-      "title_cn": "承包商称，特朗普的订单将推高成本",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/trump-s-aircraft-carrier-order-will-raise-costs-contractor-says",
-      "pub_raw": "2026-08-20T09:26:10.881Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Novonesis股价大涨，高蛋白需求助推股票回购",
-      "title_cn": "Novonesis股价大涨，高蛋白需求助推股票回购",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/novonesis-shares-jump-as-high-protein-demand-enables-buyback",
-      "pub_raw": "2026-08-20T09:26:10.874Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "俄罗斯空袭导致乌克兰农民积压大量滞销粮食",
-      "title_cn": "俄罗斯空袭导致乌克兰农民积压大量滞销粮食",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/russian-strikes-leave-ukraine-farmers-with-piles-of-unsold-grain",
-      "pub_raw": "2026-08-20T09:26:10.827Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国股市震荡，因国债行情涨势开始消退：市场综述",
-      "title_cn": "美国股市震荡，因国债行情涨势开始消退：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
-      "pub_raw": "2026-08-20T09:26:10.763Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：美国将一名被中国扣押的美国公民认定为遭非法拘留",
-      "title_cn": "独家：美国将一名被中国扣押的美国公民认定为遭非法拘留",
-      "url": "https://reut.rs/4bVlBEO",
-      "pub_raw": "2026-08-20T09:26:10.729Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
+      "title_en": "如何衡量人工智能的投资回报率",
+      "title_cn": "如何降低人工智能的投资回报率",
+      "url": "https://www.economist.com/business/2026/08/20/how-to-measure-returns-on-ai",
+      "pub_raw": "2026-08-20T13:42:12.008Z",
+      "pub_sort_dt": "2026-08-20 21:42:12"
     },
     {
       "source": "The Economist",
-      "title_en": "中国会学会喜欢巧克力吗？",
-      "title_cn": "中国学会喜欢巧克力吗？",
-      "url": "https://www.economist.com/china/2026/08/20/will-china-ever-learn-to-love-chocolate",
-      "pub_raw": "2026-08-20T09:09:56.234Z",
-      "pub_sort_dt": "2026-08-20 17:09:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国股市泡沫：AI热潮无法阻止剧烈回调",
-      "title_cn": "美国股市泡沫：AI热潮无法阻止回调回调",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-08-20/us-stock-market-bubble-ai-boom-won-t-prevent-a-sharp-correction",
-      "pub_raw": "2026-08-20T09:09:56.169Z",
-      "pub_sort_dt": "2026-08-20 17:09:56"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "特朗普宣布启动新一轮行动，旨在孤立和摧毁伊朗经济",
-      "title_cn": "特朗普宣布启动新一轮行动，旨在孤立和摧毁伊朗经济",
-      "url": "https://www.ft.com/content/785aafd1-705a-47da-b016-032d66e449c0?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-20T09:09:55.508Z",
-      "pub_sort_dt": "2026-08-20 17:09:55"
+      "title_en": "Reddit 能在人工智能时代生存下来吗？",
+      "title_cn": "Reddit能在人工智能时代生存下来吗？",
+      "url": "https://www.economist.com/business/2026/08/20/can-reddit-survive-in-the-ai-era",
+      "pub_raw": "2026-08-20T13:42:11.986Z",
+      "pub_sort_dt": "2026-08-20 21:42:11"
     },
     {
       "source": "Reuters",
-      "title_en": "哈里王子和梅根将搬回英国",
-      "title_cn": "哈里王子和梅根将搬回英国",
-      "url": "https://reut.rs/4zrVxef",
-      "pub_raw": "2026-08-20T08:54:00.656Z",
-      "pub_sort_dt": "2026-08-20 16:54:00"
+      "title_en": "上周美国初请失业金人数有所下降",
+      "title_cn": "上周美国初请失业金人数有所回升",
+      "url": "https://reut.rs/4qrnQ8J",
+      "pub_raw": "2026-08-20T13:42:11.652Z",
+      "pub_sort_dt": "2026-08-20 21:42:11"
     },
     {
-      "source": "Reuters",
-      "title_en": "德国情报机构为被俄罗斯、中国驱逐出境的人士开通求助热线",
-      "title_cn": "德国情报机构为被俄罗斯、中国驱逐出境的人士开通求助热线",
-      "url": "https://reut.rs/4gaNviE",
-      "pub_raw": "2026-08-20T08:54:00.652Z",
-      "pub_sort_dt": "2026-08-20 16:54:00"
+      "source": "The Economist",
+      "title_en": "赞比亚这场充满争议的选举威胁到该国的声誉",
+      "title_cn": "赞比亚充满了对该国的选举威胁的争议",
+      "url": "https://www.economist.com/middle-east-and-africa/2026/08/20/zambias-tainted-election-threatens-its-reputation",
+      "pub_raw": "2026-08-20T13:26:25.601Z",
+      "pub_sort_dt": "2026-08-20 21:26:25"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "马萨诸塞州严格的人工智能安全保障措施引发Anthropic与OpenAI之争",
+      "title_cn": "马萨诸塞州严格的人工智能安全措施引发人类与OpenAI之争",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/strict-massachusetts-ai-safeguards-spark-anthropic-openai-clash",
+      "pub_raw": "2026-08-20T13:26:25.481Z",
+      "pub_sort_dt": "2026-08-20 21:26:25"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国新北极航线的机遇与挑战",
+      "title_cn": "中国新北极航线的机遇与挑战",
+      "url": "https://www.economist.com/china/2026/08/20/the-promise-and-the-pitfalls-of-chinas-new-arctic-shipping-route",
+      "pub_raw": "2026-08-20T13:10:05.773Z",
+      "pub_sort_dt": "2026-08-20 21:10:05"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "英国要是放弃帕兰蒂尔，那可真是疯了",
+      "title_cn": "英国恐怕放弃了帕兰蒂尔，那可真是疯了",
+      "url": "https://www.economist.com/leaders/2026/08/20/britain-would-be-bonkers-to-ditch-palantir",
+      "pub_raw": "2026-08-20T13:10:05.741Z",
+      "pub_sort_dt": "2026-08-20 21:10:05"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "减少飞机尾迹对气候有益",
+      "title_cn": "减少尾飞机对气候有利",
+      "url": "https://www.economist.com/leaders/2026/08/20/fewer-contrails-would-be-good-for-the-climate",
+      "pub_raw": "2026-08-20T13:10:05.725Z",
+      "pub_sort_dt": "2026-08-20 21:10:05"
     },
     {
       "source": "Financial Times",
-      "title_en": "台湾提出创纪录的国防预算以抵御中国的压力",
-      "title_cn": "台湾提出创纪录的国防预算以承受中国的压力",
-      "url": "https://www.ft.com/content/07573ffc-5c7b-448e-867e-c3b8840b11ce?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-20T08:54:00.597Z",
-      "pub_sort_dt": "2026-08-20 16:54:00"
+      "title_en": "贝森特的干预未能安抚投资者，美国长期债券价格下跌",
+      "title_cn": "贝森特的干预未能安抚投资者，美国长期债券价格下跌",
+      "url": "https://www.ft.com/content/0c01cdd9-93e8-469c-8f09-a6d68c91fbc3?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-20T13:10:05.352Z",
+      "pub_sort_dt": "2026-08-20 21:10:05"
     },
     {
       "source": "Bloomberg",
-      "title_en": "随着贸易谈判临近，中国对欧盟动用新的法律手段",
-      "title_cn": "通过贸易谈判外汇，中国对欧盟动用新的法律手段",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/china-criticizes-eu-over-extraterritorial-reach-in-jd-com-probe",
-      "pub_raw": "2026-08-20T08:38:01.263Z",
-      "pub_sort_dt": "2026-08-20 16:38:01"
+      "title_en": "美国初请失业金人数微降，显示就业市场保持稳定",
+      "title_cn": "美国初请失业金大学生微降，保障就业市场保持稳定",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/us-weekly-jobless-claims-edged-lower-to-206-000-in-latest-week",
+      "pub_raw": "2026-08-20T12:54:06.302Z",
+      "pub_sort_dt": "2026-08-20 20:54:06"
     },
     {
       "source": "Bloomberg",
-      "title_en": "尼克·博斯特罗姆谈：如果人工智能解决了我们所有的问题，会发生什么",
-      "title_cn": "尼克·博斯特罗姆谈：如果人工智能解决了我们所有的问题，会发生什么",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/nick-bostrom-on-what-happens-if-ai-solves-all-of-our-problems",
-      "pub_raw": "2026-08-20T08:21:57.642Z",
-      "pub_sort_dt": "2026-08-20 16:21:57"
+      "title_en": "美国30年期国债收益率回吐了因财政部意外回购带来的涨幅",
+      "title_cn": "美国30年期国债回吐因意外回购带来的涨幅",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/bessent-s-plan-at-best-circuit-breaker-for-global-bond-slump",
+      "pub_raw": "2026-08-20T12:54:06.246Z",
+      "pub_sort_dt": "2026-08-20 20:54:06"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "市场全景：美股科技股暂作喘息，随后将再创涨幅",
+      "title_cn": "市场概览：美股科技股暂作喘息，并将再创涨幅",
+      "url": "https://reut.rs/3TXSF90",
+      "pub_raw": "2026-08-20T12:38:25.530Z",
+      "pub_sort_dt": "2026-08-20 20:38:25"
     },
     {
       "source": "Bloomberg",
-      "title_en": "随着人工智能重塑招聘格局，海斯将业务重心转向难以替代的岗位",
-      "title_cn": "随着人工智能人工智能招聘格局，海斯将业务重心转向难以替代的岗位",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
-      "pub_raw": "2026-08-20T08:05:58.553Z",
-      "pub_sort_dt": "2026-08-20 16:05:58"
+      "title_en": "乌克兰称已打击俄罗斯的塔内科炼油厂和一座小型石油码头",
+      "title_cn": "乌克兰称已打击俄罗斯的塔内科炼油厂和一个小型石油码头",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/ukraine-says-it-hit-russia-s-taneco-refinery-small-oil-terminal",
+      "pub_raw": "2026-08-20T12:22:09.412Z",
+      "pub_sort_dt": "2026-08-20 20:22:09"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "德国检方就一起税务欺诈案对四名前德国商业银行员工提起公诉",
+      "title_cn": "德国检方就联手税务欺诈案对四名前德国商业银行员工提起公诉",
+      "url": "https://reut.rs/4gcXhPK",
+      "pub_raw": "2026-08-20T12:22:09.262Z",
+      "pub_sort_dt": "2026-08-20 20:22:09"
     },
     {
       "source": "Bloomberg",
-      "title_en": "泰国总理家族企业瞄准15亿美元数据中心项目招标",
-      "title_cn": "泰国总理家族企业瞄准15亿美元数据中心评估项目",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/thai-pm-anutin-s-family-firm-eyes-1-5-billion-data-center-bids",
-      "pub_raw": "2026-08-20T08:05:58.533Z",
-      "pub_sort_dt": "2026-08-20 16:05:58"
+      "title_en": "委内瑞拉与美国之间的石油交易仍笼罩在保密之中",
+      "title_cn": "委内瑞拉与美国之间的石油交易仍处于保密状态",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/venezuela-us-oil-deals-remain-clouded-in-secrecy",
+      "pub_raw": "2026-08-20T12:06:01.570Z",
+      "pub_sort_dt": "2026-08-20 20:06:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "中国奢侈品销售额暴跌，税收政策冲击高净值消费者",
-      "title_cn": "中国奢侈品销售额暴跌，税收政策冲击高净值消费者",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/luxury-sales-plunge-in-china-as-tax-push-hits-wealthy-shoppers",
-      "pub_raw": "2026-08-20T08:05:58.526Z",
-      "pub_sort_dt": "2026-08-20 16:05:58"
+      "title_en": "哈德逊河公司签署价值数十亿美元的CoreWeave（CRWV）人工智能云服务协议",
+      "title_cn": "哈德逊河公司承诺价值亿美元的CoreWeave（CRWV）人工智能云服务协议",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/hudson-river-signs-multibillion-dollar-coreweave-crwv-deal-for-ai-cloud",
+      "pub_raw": "2026-08-20T12:06:01.566Z",
+      "pub_sort_dt": "2026-08-20 20:06:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "人工智能已渗透进美联储，至少在政策会议的讨论中是如此",
+      "title_cn": "人工智能已渗透进美联储，至少在政策会议的讨论中是如此",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/ai-has-infiltrated-the-fed-at-least-in-policy-meeting-debates",
+      "pub_raw": "2026-08-20T12:06:01.563Z",
+      "pub_sort_dt": "2026-08-20 20:06:01"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "塔吉特在生鲜领域的布局已初见成效。现在，它必须吸引顾客走出零食区",
+      "title_cn": "塔吉特在生鲜领域的布局已初见成效。现在，它必须吸引顾客走出零食区",
+      "url": "https://reut.rs/4bZA56s",
+      "pub_raw": "2026-08-20T12:06:01.417Z",
+      "pub_sort_dt": "2026-08-20 20:06:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "KKR数据中心负责人凭借与英伟达的合作一举成名",
+      "title_cn": "KKR数据中心负责人凭借与英伟达的合作一举成名",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/kkr-data-center-chief-vaults-to-prominence-with-nvidia-pact",
+      "pub_raw": "2026-08-20T11:50:03.274Z",
+      "pub_sort_dt": "2026-08-20 19:50:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "俄罗斯空袭造成16人死亡，泽连斯基呼吁爱国者挺身而出",
+      "title_cn": "俄罗斯空袭造成16人死亡，泽连斯基呼吁爱国者挺身而出",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/russian-missile-attack-on-kyiv-kills-12-wounds-33",
+      "pub_raw": "2026-08-20T11:50:03.189Z",
+      "pub_sort_dt": "2026-08-20 19:50:03"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "台湾和南海为何对美国和世界如此重要 - AP News",
+      "title_cn": "台湾和南海为何对美国和世界如此重要 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxOQk1xaTMtNG9paFJkZC13NzlIYTZTZW52RlZiWWYxOGpqRDQ5T1JGRHIwMktjUEZZdVF1VklMUmtEVlFlbDhsN1Z3NElVWDEwbWtNc19hcG1sa2JSR0lOdEtZdF81c3p2ZTlxY3FSRXpyX0s3b1M0bEVXMGVPVy03R2VQbWJ1UUl5aVFEamNOWlRmOGVMN0hiRmNpcjY3eHRnVzJXSTNvMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T10:30:03.000Z",
+      "pub_sort_dt": "2026-08-20 18:30:03"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国敦促韩国不要偏袒任何一方，并将朝鲜半岛局势紧张归咎于美国政策 - NBC News",
+      "title_cn": "中国敦促韩国不要偏袒任何一方，朝鲜半岛安全归属于美国政策 - NBC News",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxNVGlXeWlXNmktVGZLelRVMmpfVmVLRVVmZ3hZVkpvOVNIX1pEN2FKcUpBZ0RtMWZEbzY1UHkwZ2tuSlVXMkllRjQ3U1dLdDM2Z0ZseXZkdnRwSko2RGVzbW9CbWRqR2o0T1lNcGNrNnMyLWlXSGJPN1prS2p3aHJpSEhPV0NWS2ZyWEFNWDdId3FERk9fTVp6eWxoTkQ1THlWeTZNN2pQZk94MmIzVHpQNHdmeHNkYm8?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T10:12:51.000Z",
+      "pub_sort_dt": "2026-08-20 18:12:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国将一名被中国扣留的美国公民认定为遭非法拘留 - NBC News",
+      "title_cn": "美国将一名被中国扣留的美国公民认定为遭非法拘留 - NBC News",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxNTkpyS1JoQjBpMFlkTkhLQjJMbTRUU0ZhY0RqZGZwWnA4T3gwNkUwcHk1S3NFMXpmLVBhRzZFQWE5azdHRXhqRDFyTzlXVjJRMkxtT1RNakhkek5VckxGV2oyWVVGXy1ySHl6cGxYT1VmR2w2MEJRYVRabW1zUkY2dUVhVXhxTUFVZzBDcUEwVldzU0JiU3dyaVZpekU0MzJlQTA1RXlVNXhtVEVINU9QYkUzSHg5Zw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T09:56:51.000Z",
+      "pub_sort_dt": "2026-08-20 17:56:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "独家：美国认定被中国扣留的美国公民系遭非法拘留 - Reuters",
+      "title_cn": "独家：美国认定被中国扣留的美国公民系遭非法拘留 - 路透社",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxNSDZ3UFNpc0w1UlZCenptNzdSNFYtdk5KOVc2MlNFQ1NvdVlRR19Kem9HUTBFTm9ZS2RtM211Z1NsMVZBTkRUeEQwaGRqZUotMGEtWW52LUtDMUI3SURnXzduRUJjblVQOVJEVU9ob0toUHlaNUdpbGxQc2ZkRXZMRExDVFNVbEpwUEZGbnpjanp2N2c2N2xWSlJOdXY0czFEMW1QMGFCTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T09:21:16.000Z",
+      "pub_sort_dt": "2026-08-20 17:21:16"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国会学会喜欢巧克力吗？ - The Economist",
@@ -261,6 +293,14 @@
       "url": "https://news.google.com/read/CBMiigFBVV95cUxOUEJxUWt1NXFXQ0Z5ZnpMX3lTTy1Ib0g2T0w1WEdmVVloWnhsaEJwR2QxUzA0UWRjYlRHS0hhYzd0WWVEajBuZUoxWHpIcTlKclhDRHh4R1VMQzVqRmVDMzQ0QlNHWWpzeFhaMmp1M3lBakJyXzlVQ2N3a1p5clIwclA5alNoZ3N6MFE?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-20T08:21:40.000Z",
       "pub_sort_dt": "2026-08-20 16:21:40"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国对特朗普针对伊朗的“经济D日”行动予以反击 - Anadolu Ajansı",
+      "title_cn": "中国对特朗普针对伊朗的“经济D日”行动包装疗法 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxOaVFTNkdpUml0RDFGNUxNRGVFbDA1aVpDejBvdEszYkZTNjB2LVhGYkpUalU3Y2lZYURrRDZFLWFmLVdxaEsxZUlNNFA2SW9iR3lLaktKZzVzZ3hRRUNPM1dKb2k3R0p3dW43TGd2N2RwdjVKRWFyX2puOTNjcDZXYnE5ZjNUa29lbjB3X1VYM1dKQ1BhSGFiMzYtQkFPWDRvNlBRQlB1T1Byay12NENhQ3VHbzFEaU0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T07:54:09.000Z",
+      "pub_sort_dt": "2026-08-20 15:54:09"
     },
     {
       "source": "China Buzzing",
@@ -280,219 +320,179 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "许家印/恒大：身陷中国房地产危机漩涡的地产大亨被判终身监禁 - CNN",
-      "title_cn": "许家印/恒大：身陷中国房地产危机震荡的地产大亨被判终身监禁 - CNN",
-      "url": "https://news.google.com/read/CBMigwFBVV95cUxNMksxN3VPWEVwa2ZZYmNWMTVneTU2RTloanZ5UDJnTGYwajUxLTkwbTU1VzJRVjZNSzFnWW1oeW02QmRYUXlYcG4tcDRGOV9QNGcwVXBwdWYweFBRNUh3cUJRbzRlSFdLVmU5UmRaaU1Yc0JoNnJ5dW4zMkVrMEVhNFF6MA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T05:33:31.000Z",
-      "pub_sort_dt": "2026-08-20 13:33:31"
+      "title_en": "中国判处恒大创始人无期徒刑 - The New York Times",
+      "title_cn": "中国源自恒大创始人无期徒刑 - 纽约时报",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxPOFRvWjNQMUZXVzdCamhQZkZZSXJYUGFIcjF6eEdYX1RVakptb3E0Tkg1ZUN2akhTd2pobW9wMDRXNjF6OWI5em1TT3ZPX1A0Y3ljUXd0T2lPSE5uVURpdlpBLWE2X3MyOVdGcHY2SktSUklWT3ZYalI1Q0RZbUkzWERDVEFPUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T06:39:53.000Z",
+      "pub_sort_dt": "2026-08-20 14:39:53"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国判处恒大集团创始人许家印无期徒刑 - Bloomberg",
-      "title_cn": "中国恒大集团创始人许家印无期徒刑 - Bloomberg",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxOX3pvV3p5MUtYSTdHOXJReWNvTlJxNkNCWHRidnp0VHYzZUlKY2s3QlNvNHdpdE5IQUE3cFU4Q2lpOW9HRVpCeUd0cWcyX01OSXNRV2VOREZ4MGp1YUdRSDgySVBEY2dOd3lBbDV3NGZaZFFHQjBacVp1MHo4WWVNdExGMXZOU1FDblZvUmpqMUxzU2dlOTJwc0EtSkV1Mnd1YnpJVnZFTXZ4TjBOcEd0dGtkMV8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T04:16:00.000Z",
-      "pub_sort_dt": "2026-08-20 12:16:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国逆全球债券收益率飙升之势而行，增强了其资产配置的吸引力 - CNBC",
-      "title_cn": "中国逆全球债券激增之势而行，增强了其资产配置的吸引力 - CNBC",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxPQWFPcTRINVFBQmxzSGJPdWIyZVBkNUZTb0xxamwzeWVPZ01HWWhsT2lsb1RVQklwNXlWWC05Q0pzYjdwV1VuTHBvb2NWMlFBcFF3N2dkUnYtQWg2d05iOUh0bGlDMGhWX2FqQzhCUloxSTRmWnBUVDlUdXB2WlgzVTZlVC14LWlkZHpNU9IBkgFBVV95cUxOQjFNeGNHa29ncjNGWEVnXzFCQXhvM05SaVNRLXlNOGgwTy1QVDg3WHEzTzBrWVVGdldiYnBBd3I4Y3JMQkFWNTEzVGtGd0liamhJTk93TVBTY3MtaDdFM0pRRTJ4SC1TYnMtSnJteVFCSFhUc3ZCRVkwdGNQMTlJVUtKR2R1ZVp5ZWk2R2I3ZS01UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T02:39:00.000Z",
-      "pub_sort_dt": "2026-08-20 10:39:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "究竟是谁在购买中国的人形机器人？ - Financial Times",
-      "title_cn": "到底是什么在购买中国的人形机器人？ - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPT2d2YVVlRE1idGpzRnBVaHJPY3NTdk1SVU8wZmlVVU05ZVEyQzZDVlRGcXJmdlJzNGZiOTlsS2JKLXdhVjZld1BlNzNhZWpMbjNKQmhJdHpBRGU3QmhNLTBnVVdNSHV1NW5DTEJpV0IyYloxZFdjZ0hMeGExOXdGZHQ0ejA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T02:00:08.000Z",
-      "pub_sort_dt": "2026-08-20 10:00:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国黄金协会支持针对美国对中资黄金企业实施的限制措施所采取的一切必要反制措施 - Global Times",
-      "title_cn": "中国黄金协会支持针对美国对中资黄金企业实施限制措施所采取的一切必要反制措施 - 环球时报",
-      "url": "https://news.google.com/read/CBMiYkFVX3lxTE1MR0FaRWtwaXBGQnJXazZ4Z2k1VC1ZYTE5NUMxVGYwd3BHRkVLX2dZRE1QdTN4b1VrTzlVbkI2T0VsaFNwZEFCTDhqWXliVm5lVjFSNTJobTdnZGNSNG1Tb0NB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T02:00:00.000Z",
-      "pub_sort_dt": "2026-08-20 10:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国一项研究警告称应警惕国防承包商，并指出美国体系存在问题 - South China Morning Post",
-      "title_cn": "中国一项研究警告称应征国防承包商，并指出美国体系存在问题 - 南华早报",
-      "url": "https://news.google.com/read/CBMizAFBVV95cUxObHR0aXBwc05OY1NJbGd6dmVMZHZ2NUJYNFhhZnFldndtYVdDUnBJVVd2bjZRalVRQjZtTF9YTVltSTlfbU0zM0g2V3N2T3BKSGdkWFlZUHg0RTNXY19ablcydFNrcTVoX2xNTnVacHJTWW82ZTY3QVV3M0lZbERSTUQ1Q1cyOFhxZ1B6bEJDMm5Ya08tSGlVWUs5V0tFZTk0SFU3UnAxSzlHcWU1OXo2S2dRdWxKcjg0T2pXY2Q4RVBQVjBIVXZOMnNuNkHSAcwBQVVfeXFMTWVrRjM1aXRqTFZXRlRlQzBEM2dIdnF4Q3MtX0hYbmZrWEJ0TlMzZ1BkcXBzVzFzZTgxMVlyZTBObHhFdXkxN0didG1GOG8tME9hQV9WcjI0YnpRYTdyNXJJb0NOM1VidTJHN0pGcXlNeVZiMDYxRU1EUFZyM2x0MXR1cEVjRnczWlpIUFlwYXd6dzJaWUxXQnVCNERQUmc0ZHRuZjJYbWdEeUEzcmpkdDFYSnc2eHp1UTZ5WUlpaTVJeDg0bHZYREIwa01G?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T01:00:10.000Z",
-      "pub_sort_dt": "2026-08-20 09:00:10"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "为什么中国网络上的一部分人坚持认为“黄金时代”根本不存在？ - CNN",
-      "title_cn": "为什么中国网络上的一部分人坚持认为“黄金时代”根本不存在？ - CNN",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxNSm5TcVp1UndzLVRMN2xNMklHQVVSQjZVMnhpZ2RORzlfZ0FUeXJtUzJjVmxtN19DZkxrWEY2ZWJtYVoyRmtoRUV3QTRxaEtvek01ZG5jTUZyVHk5bi1MNlRhcWh2T2NRUEd1aWc0V2tiT1BuZThuNUJaOUczTWU5cmx6aUdweEd2ZGQ0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-19T23:55:29.000Z",
-      "pub_sort_dt": "2026-08-20 07:55:29"
+      "title_en": "为何中国这个庞大的汽车市场正面临有史以来最严重的衰退，并给全球传统汽车制造商带来压力 - Automotive News",
+      "title_cn": "为何中国这个庞大的汽车市场正面临着最严峻的设备，并给全球传统汽车制造商带来压力 - 汽车新闻",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxQTVpDTEIyWWR0QmtiQkxCT0FyM0ZXcFhBZTJRLTlpenpVZjJjWW50MGpPSWh4U0xQZ3JwbVBRQTlCUUJheWxyN1BteWt5eW9VRlZJUThsWkYxM1FRc2o1OVpCOEJsM3RrbVkwc0RxUl9mVHZDNklIT3ROVTZqUzY4VXpiaUpmdXR2ajJjTDl5ZWNtU2tCLUoyTTZCdk9ENHBFN3JGcmxB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T06:27:00.000Z",
+      "pub_sort_dt": "2026-08-20 14:27:00"
     },
     {
       "source": "The Economist",
-      "title_en": "无论用什么标准来衡量，中国的就业市场都表现疲软",
-      "title_cn": "无论用什么标准来宽松，中国就业市场都表现疲软",
-      "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
-      "pub_raw": "2026-08-20T09:42:14.210Z",
-      "pub_sort_dt": "2026-08-20 17:42:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "泰雷兹发行债券，为收购海面无人机制造商Exail提供资金",
-      "title_cn": "泰雷兹发行债券，为收购海面无人机制造商Exail提供资金",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/thales-selling-bonds-to-help-fund-deal-for-sea-drone-maker-exail",
-      "pub_raw": "2026-08-20T09:42:14.151Z",
-      "pub_sort_dt": "2026-08-20 17:42:14"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国敦促韩国不要偏袒任何一方，并将朝鲜半岛局势紧张归咎于美国政策",
-      "title_cn": "中国敦促韩国不要偏袒任何一方，朝鲜半岛安全归属于美国政策",
-      "url": "https://reut.rs/4wA8tMv",
-      "pub_raw": "2026-08-20T09:42:14.007Z",
-      "pub_sort_dt": "2026-08-20 17:42:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普转向经济战，将中国作为目标",
-      "title_cn": "特朗普转向经济战，将中国作为目标",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
-      "pub_raw": "2026-08-20T09:26:10.887Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "承包商称，特朗普的航母订单将推高成本",
-      "title_cn": "承包商称，特朗普的订单将推高成本",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/trump-s-aircraft-carrier-order-will-raise-costs-contractor-says",
-      "pub_raw": "2026-08-20T09:26:10.881Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Novonesis股价大涨，高蛋白需求助推股票回购",
-      "title_cn": "Novonesis股价大涨，高蛋白需求助推股票回购",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/novonesis-shares-jump-as-high-protein-demand-enables-buyback",
-      "pub_raw": "2026-08-20T09:26:10.874Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "俄罗斯空袭导致乌克兰农民积压大量滞销粮食",
-      "title_cn": "俄罗斯空袭导致乌克兰农民积压大量滞销粮食",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/russian-strikes-leave-ukraine-farmers-with-piles-of-unsold-grain",
-      "pub_raw": "2026-08-20T09:26:10.827Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国股市震荡，因国债行情涨势开始消退：市场综述",
-      "title_cn": "美国股市震荡，因国债行情涨势开始消退：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
-      "pub_raw": "2026-08-20T09:26:10.763Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：美国将一名被中国扣押的美国公民认定为遭非法拘留",
-      "title_cn": "独家：美国将一名被中国扣押的美国公民认定为遭非法拘留",
-      "url": "https://reut.rs/4bVlBEO",
-      "pub_raw": "2026-08-20T09:26:10.729Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
+      "title_en": "如何衡量人工智能的投资回报率",
+      "title_cn": "如何降低人工智能的投资回报率",
+      "url": "https://www.economist.com/business/2026/08/20/how-to-measure-returns-on-ai",
+      "pub_raw": "2026-08-20T13:42:12.008Z",
+      "pub_sort_dt": "2026-08-20 21:42:12"
     },
     {
       "source": "The Economist",
-      "title_en": "中国会学会喜欢巧克力吗？",
-      "title_cn": "中国学会喜欢巧克力吗？",
-      "url": "https://www.economist.com/china/2026/08/20/will-china-ever-learn-to-love-chocolate",
-      "pub_raw": "2026-08-20T09:09:56.234Z",
-      "pub_sort_dt": "2026-08-20 17:09:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国股市泡沫：AI热潮无法阻止剧烈回调",
-      "title_cn": "美国股市泡沫：AI热潮无法阻止回调回调",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-08-20/us-stock-market-bubble-ai-boom-won-t-prevent-a-sharp-correction",
-      "pub_raw": "2026-08-20T09:09:56.169Z",
-      "pub_sort_dt": "2026-08-20 17:09:56"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "特朗普宣布启动新一轮行动，旨在孤立和摧毁伊朗经济",
-      "title_cn": "特朗普宣布启动新一轮行动，旨在孤立和摧毁伊朗经济",
-      "url": "https://www.ft.com/content/785aafd1-705a-47da-b016-032d66e449c0?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-20T09:09:55.508Z",
-      "pub_sort_dt": "2026-08-20 17:09:55"
+      "title_en": "Reddit 能在人工智能时代生存下来吗？",
+      "title_cn": "Reddit能在人工智能时代生存下来吗？",
+      "url": "https://www.economist.com/business/2026/08/20/can-reddit-survive-in-the-ai-era",
+      "pub_raw": "2026-08-20T13:42:11.986Z",
+      "pub_sort_dt": "2026-08-20 21:42:11"
     },
     {
       "source": "Reuters",
-      "title_en": "哈里王子和梅根将搬回英国",
-      "title_cn": "哈里王子和梅根将搬回英国",
-      "url": "https://reut.rs/4zrVxef",
-      "pub_raw": "2026-08-20T08:54:00.656Z",
-      "pub_sort_dt": "2026-08-20 16:54:00"
+      "title_en": "上周美国初请失业金人数有所下降",
+      "title_cn": "上周美国初请失业金人数有所回升",
+      "url": "https://reut.rs/4qrnQ8J",
+      "pub_raw": "2026-08-20T13:42:11.652Z",
+      "pub_sort_dt": "2026-08-20 21:42:11"
     },
     {
-      "source": "Reuters",
-      "title_en": "德国情报机构为被俄罗斯、中国驱逐出境的人士开通求助热线",
-      "title_cn": "德国情报机构为被俄罗斯、中国驱逐出境的人士开通求助热线",
-      "url": "https://reut.rs/4gaNviE",
-      "pub_raw": "2026-08-20T08:54:00.652Z",
-      "pub_sort_dt": "2026-08-20 16:54:00"
+      "source": "The Economist",
+      "title_en": "赞比亚这场充满争议的选举威胁到该国的声誉",
+      "title_cn": "赞比亚充满了对该国的选举威胁的争议",
+      "url": "https://www.economist.com/middle-east-and-africa/2026/08/20/zambias-tainted-election-threatens-its-reputation",
+      "pub_raw": "2026-08-20T13:26:25.601Z",
+      "pub_sort_dt": "2026-08-20 21:26:25"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "马萨诸塞州严格的人工智能安全保障措施引发Anthropic与OpenAI之争",
+      "title_cn": "马萨诸塞州严格的人工智能安全措施引发人类与OpenAI之争",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/strict-massachusetts-ai-safeguards-spark-anthropic-openai-clash",
+      "pub_raw": "2026-08-20T13:26:25.481Z",
+      "pub_sort_dt": "2026-08-20 21:26:25"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国新北极航线的机遇与挑战",
+      "title_cn": "中国新北极航线的机遇与挑战",
+      "url": "https://www.economist.com/china/2026/08/20/the-promise-and-the-pitfalls-of-chinas-new-arctic-shipping-route",
+      "pub_raw": "2026-08-20T13:10:05.773Z",
+      "pub_sort_dt": "2026-08-20 21:10:05"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "英国要是放弃帕兰蒂尔，那可真是疯了",
+      "title_cn": "英国恐怕放弃了帕兰蒂尔，那可真是疯了",
+      "url": "https://www.economist.com/leaders/2026/08/20/britain-would-be-bonkers-to-ditch-palantir",
+      "pub_raw": "2026-08-20T13:10:05.741Z",
+      "pub_sort_dt": "2026-08-20 21:10:05"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "减少飞机尾迹对气候有益",
+      "title_cn": "减少尾飞机对气候有利",
+      "url": "https://www.economist.com/leaders/2026/08/20/fewer-contrails-would-be-good-for-the-climate",
+      "pub_raw": "2026-08-20T13:10:05.725Z",
+      "pub_sort_dt": "2026-08-20 21:10:05"
     },
     {
       "source": "Financial Times",
-      "title_en": "台湾提出创纪录的国防预算以抵御中国的压力",
-      "title_cn": "台湾提出创纪录的国防预算以承受中国的压力",
-      "url": "https://www.ft.com/content/07573ffc-5c7b-448e-867e-c3b8840b11ce?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-20T08:54:00.597Z",
-      "pub_sort_dt": "2026-08-20 16:54:00"
+      "title_en": "贝森特的干预未能安抚投资者，美国长期债券价格下跌",
+      "title_cn": "贝森特的干预未能安抚投资者，美国长期债券价格下跌",
+      "url": "https://www.ft.com/content/0c01cdd9-93e8-469c-8f09-a6d68c91fbc3?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-20T13:10:05.352Z",
+      "pub_sort_dt": "2026-08-20 21:10:05"
     },
     {
       "source": "Bloomberg",
-      "title_en": "随着贸易谈判临近，中国对欧盟动用新的法律手段",
-      "title_cn": "通过贸易谈判外汇，中国对欧盟动用新的法律手段",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/china-criticizes-eu-over-extraterritorial-reach-in-jd-com-probe",
-      "pub_raw": "2026-08-20T08:38:01.263Z",
-      "pub_sort_dt": "2026-08-20 16:38:01"
+      "title_en": "美国初请失业金人数微降，显示就业市场保持稳定",
+      "title_cn": "美国初请失业金大学生微降，保障就业市场保持稳定",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/us-weekly-jobless-claims-edged-lower-to-206-000-in-latest-week",
+      "pub_raw": "2026-08-20T12:54:06.302Z",
+      "pub_sort_dt": "2026-08-20 20:54:06"
     },
     {
       "source": "Bloomberg",
-      "title_en": "尼克·博斯特罗姆谈：如果人工智能解决了我们所有的问题，会发生什么",
-      "title_cn": "尼克·博斯特罗姆谈：如果人工智能解决了我们所有的问题，会发生什么",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/nick-bostrom-on-what-happens-if-ai-solves-all-of-our-problems",
-      "pub_raw": "2026-08-20T08:21:57.642Z",
-      "pub_sort_dt": "2026-08-20 16:21:57"
+      "title_en": "美国30年期国债收益率回吐了因财政部意外回购带来的涨幅",
+      "title_cn": "美国30年期国债回吐因意外回购带来的涨幅",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/bessent-s-plan-at-best-circuit-breaker-for-global-bond-slump",
+      "pub_raw": "2026-08-20T12:54:06.246Z",
+      "pub_sort_dt": "2026-08-20 20:54:06"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "市场全景：美股科技股暂作喘息，随后将再创涨幅",
+      "title_cn": "市场概览：美股科技股暂作喘息，并将再创涨幅",
+      "url": "https://reut.rs/3TXSF90",
+      "pub_raw": "2026-08-20T12:38:25.530Z",
+      "pub_sort_dt": "2026-08-20 20:38:25"
     },
     {
       "source": "Bloomberg",
-      "title_en": "随着人工智能重塑招聘格局，海斯将业务重心转向难以替代的岗位",
-      "title_cn": "随着人工智能人工智能招聘格局，海斯将业务重心转向难以替代的岗位",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
-      "pub_raw": "2026-08-20T08:05:58.553Z",
-      "pub_sort_dt": "2026-08-20 16:05:58"
+      "title_en": "乌克兰称已打击俄罗斯的塔内科炼油厂和一座小型石油码头",
+      "title_cn": "乌克兰称已打击俄罗斯的塔内科炼油厂和一个小型石油码头",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/ukraine-says-it-hit-russia-s-taneco-refinery-small-oil-terminal",
+      "pub_raw": "2026-08-20T12:22:09.412Z",
+      "pub_sort_dt": "2026-08-20 20:22:09"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "德国检方就一起税务欺诈案对四名前德国商业银行员工提起公诉",
+      "title_cn": "德国检方就联手税务欺诈案对四名前德国商业银行员工提起公诉",
+      "url": "https://reut.rs/4gcXhPK",
+      "pub_raw": "2026-08-20T12:22:09.262Z",
+      "pub_sort_dt": "2026-08-20 20:22:09"
     },
     {
       "source": "Bloomberg",
-      "title_en": "泰国总理家族企业瞄准15亿美元数据中心项目招标",
-      "title_cn": "泰国总理家族企业瞄准15亿美元数据中心评估项目",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/thai-pm-anutin-s-family-firm-eyes-1-5-billion-data-center-bids",
-      "pub_raw": "2026-08-20T08:05:58.533Z",
-      "pub_sort_dt": "2026-08-20 16:05:58"
+      "title_en": "委内瑞拉与美国之间的石油交易仍笼罩在保密之中",
+      "title_cn": "委内瑞拉与美国之间的石油交易仍处于保密状态",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/venezuela-us-oil-deals-remain-clouded-in-secrecy",
+      "pub_raw": "2026-08-20T12:06:01.570Z",
+      "pub_sort_dt": "2026-08-20 20:06:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "中国奢侈品销售额暴跌，税收政策冲击高净值消费者",
-      "title_cn": "中国奢侈品销售额暴跌，税收政策冲击高净值消费者",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/luxury-sales-plunge-in-china-as-tax-push-hits-wealthy-shoppers",
-      "pub_raw": "2026-08-20T08:05:58.526Z",
-      "pub_sort_dt": "2026-08-20 16:05:58"
+      "title_en": "哈德逊河公司签署价值数十亿美元的CoreWeave（CRWV）人工智能云服务协议",
+      "title_cn": "哈德逊河公司承诺价值亿美元的CoreWeave（CRWV）人工智能云服务协议",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/hudson-river-signs-multibillion-dollar-coreweave-crwv-deal-for-ai-cloud",
+      "pub_raw": "2026-08-20T12:06:01.566Z",
+      "pub_sort_dt": "2026-08-20 20:06:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "人工智能已渗透进美联储，至少在政策会议的讨论中是如此",
+      "title_cn": "人工智能已渗透进美联储，至少在政策会议的讨论中是如此",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/ai-has-infiltrated-the-fed-at-least-in-policy-meeting-debates",
+      "pub_raw": "2026-08-20T12:06:01.563Z",
+      "pub_sort_dt": "2026-08-20 20:06:01"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "塔吉特在生鲜领域的布局已初见成效。现在，它必须吸引顾客走出零食区",
+      "title_cn": "塔吉特在生鲜领域的布局已初见成效。现在，它必须吸引顾客走出零食区",
+      "url": "https://reut.rs/4bZA56s",
+      "pub_raw": "2026-08-20T12:06:01.417Z",
+      "pub_sort_dt": "2026-08-20 20:06:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "KKR数据中心负责人凭借与英伟达的合作一举成名",
+      "title_cn": "KKR数据中心负责人凭借与英伟达的合作一举成名",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/kkr-data-center-chief-vaults-to-prominence-with-nvidia-pact",
+      "pub_raw": "2026-08-20T11:50:03.274Z",
+      "pub_sort_dt": "2026-08-20 19:50:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "俄罗斯空袭造成16人死亡，泽连斯基呼吁爱国者挺身而出",
+      "title_cn": "俄罗斯空袭造成16人死亡，泽连斯基呼吁爱国者挺身而出",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/russian-missile-attack-on-kyiv-kills-12-wounds-33",
+      "pub_raw": "2026-08-20T11:50:03.189Z",
+      "pub_sort_dt": "2026-08-20 19:50:03"
     }
   ]
 }
