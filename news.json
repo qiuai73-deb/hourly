@@ -1,22 +1,70 @@
 {
-  "update_cst": "2026-08-21 18:00:56 北京时间",
+  "update_cst": "2026-08-21 22:01:04 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 10,
+    "Bloomberg": 12,
     "Financial Times": 2,
     "Wall Street Journal": 0,
-    "Reuters": 8
+    "Reuters": 6
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "为何美国一些最大品牌在中国市场正逐渐失势 - CNBC",
+      "title_cn": "为何美国一些最大品牌在中国市场正逐渐失势 - CNBC",
+      "url": "https://news.google.com/read/CBMickFVX3lxTE9JZGR2OUlUaTNacG1MWlVBaVZuYXhabWQtM3lQLWFsNHU2eUl4eUt5bVFGNGFQTXotLXpjTEl4NkN2a0dkWFNpSWJMS1BubEktb0dJUmZYNkQxSEo2TEd3T3p0aTZRMjMxM3pvM3Exc3FFZ9IBd0FVX3lxTE81Ylk5VThXOFBzVDYwRkVOX0ozU3FsV0JURDVtaFlkRDlJRzhjUFc2M193RERSMWZaVl9NckhfTEN5bVFlbFh5S0pYbWdOdGtZSnBuWU5pZzNOdWZ5bGRaNmtwY2I0RlFvWldiVzJNTTdoQTBsZTdZ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T11:30:02.000Z",
+      "pub_sort_dt": "2026-08-21 19:30:02"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特斯拉将对中国市场上的数百万辆中国制造及进口电动汽车进行软件更新 - Reuters",
+      "title_cn": "特斯拉将对中国市场上的数百万辆中国制造及进口电动汽车进行软件更新 - Reuters",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T10:59:13.000Z",
+      "pub_sort_dt": "2026-08-21 18:59:13"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一起性侵案件在网络上引发热议后，中国的企业饮酒文化正面临抨击 - CNN",
+      "title_cn": "一起性侵案件在网络上引发热议后，中国的企业饮酒文化正面临抨击 - CNN",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxPOVd5bVA1a21KNmVTRlcwaHpuTF9WVzJ6NXIxcEJ4aWZJY2VyaFZBYnRnS0VYbG1VckoybHpNXzl1UHZsaUFiYjA0TVc2b3dwOTFXNzU4ZC14YkduckZPanBtbktIRUlHX2o3QUc1VHNHOEF1Nm1OSFdhSThiT3N5Z3JLVXJxQmFaZGFNUXFn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T10:00:29.000Z",
+      "pub_sort_dt": "2026-08-21 18:00:29"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国抨击欧盟的外商补贴规则，并将此与贸易谈判挂钩 - politico.eu",
+      "title_cn": "中国抨击欧盟的外商补贴规则，并将此与贸易谈判挂钩 - politico.eu",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxNSEttUzNzaHA2bDM2T29EOUUwaXF6S1k0U3g4UER2TVNuRnpYVzNjOVZYZmtBb0pxSldxTzFqeWdNNjFOVTVadFVURGg0d3lMbHBPUTZReXE1djlmTXZKY25SZnE2Ulp4X1FDZVBuc2Q4YWx2YVY5dmFWUEh0YnFLVll2eHNKeEVxWGZJc2ptS1Y?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T09:40:00.000Z",
+      "pub_sort_dt": "2026-08-21 17:40:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "观点 “中国冲击”2.0 - The New York Times",
-      "title_cn": "观点“中国冲击”2.0 - 纽约时报",
+      "title_cn": "观点 “中国冲击”2.0 - The New York Times",
       "url": "https://news.google.com/read/CBMihAFBVV95cUxPX0JQcWVqLXg4OE9vM2xYaVlrQWVkeE1OV0xySXRqYTI4cWZwSGlBQW5tSTNvX0hCV0JrUXEwWGFxWHhsTGF2RHR3eXZIUG9mM2JHUXRDb0NqeVIwTk5mckJlZG9adVVNN0p1V0xMWFJpRWlER2FweUdxb1ljRjFSbUx2ZHk?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T09:02:36.000Z",
       "pub_sort_dt": "2026-08-21 17:02:36"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "消息人士称，随着美国封锁措施的加剧，伊朗向中国买家提供的石油报价有所下降 - Reuters",
+      "title_cn": "消息人士称，随着美国封锁措施的加剧，伊朗向中国买家提供的石油报价有所下降 - Reuters",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxPNTlOa0p6cWFWR2FCZ0dZY2tEZEZLMkNWR3RvQkUzdUwyTE11aVF0TkVpMExXM3otZy0wbVRZU0lBOUpLV2lhYTdPWHBMZ3plOGFwekxwbVdQLTM5anpldkwtTWpnak05T3VLdDVUT3ItVVpEeHllS3E5SjFOeHFCT0FPeXU5c1I3X203S0pGcENjeFRESF9YaTZnV0JNNGNZUnl4RUxGTFZIN2RNU0k0YXpJbVhyVW55UlB6Rw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T08:45:59.000Z",
+      "pub_sort_dt": "2026-08-21 16:45:59"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一块岩石与中国“三海”问题 - War on the Rocks",
+      "title_cn": "一块岩石与中国“三海”问题 - War on the Rocks",
+      "url": "https://news.google.com/read/CBMib0FVX3lxTE5DSHBFLUZsVnhwN0ZyZlZtOG10NkJmUG0xajVJODgwVDgxZUFnTTNqOE1LV2tGSDRQX18td1NSWHY3RTFNbUNGcGdKWGh5cFk4MW41TjlPZC1Vdk11bS1OZTBreU0yVDAycVhKLXlyQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T07:35:36.000Z",
+      "pub_sort_dt": "2026-08-21 15:35:36"
     },
     {
       "source": "China Buzzing",
@@ -29,7 +77,7 @@
     {
       "source": "China Buzzing",
       "title_en": "面对经济放缓，中国计划不久后出台新的财政支持政策 - Bloomberg.com",
-      "title_cn": "经济预期，中国计划不久后将面临新的财政支持政策 - Bloomberg.com",
+      "title_cn": "面对经济放缓，中国计划不久后出台新的财政支持政策 - Bloomberg.com",
       "url": "https://news.google.com/read/CBMitAFBVV95cUxQdkJjOGVfZFNCWTJMSmRPWENPZ2hfZEJINFpXU3BpUjR1bmRuTVF5QVhNcjI1RXpFcHpqT1JyM3NyYVF3RUJJT2NvbHpKbmhRYWlrZHMxSVNhazQ5endGT0cxR3BqdHYyWFJWNHFLbG1BTU5rbEJaVzRGV2dPQTRrQUFSbU12ZDNiNFZNWklKOXBEdDBKdHlZN1JfMHMtTXhEekE0RVJzclhNZFBTY0M5d3Z3QS0?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T05:25:00.000Z",
       "pub_sort_dt": "2026-08-21 13:25:00"
@@ -37,65 +85,57 @@
     {
       "source": "China Buzzing",
       "title_en": "亚洲日益增长的财富为保险公司提供了应对中国政策调整的保障 - Financial Times",
-      "title_cn": "亚洲日益增长的财富保险公司为应对中国政策调整的保障提供了支持 - 金融时报",
+      "title_cn": "亚洲日益增长的财富为保险公司提供了应对中国政策调整的保障 - Financial Times",
       "url": "https://news.google.com/read/CBMihAFBVV95cUxNQzItd2JXbHRiYlg0TGlfOENydmQ1R0FpMzQ4SWZFbnBtVVloMllpcEZhZmpVNk1zVXU5N05ucVduNENJTFpRNTlFNUJGbHh5dHFvRDlDaS1acXk4TTZiSXdaNDNCenVLalV0NTJGS1VZOEl3NDMzUndKejh0OVR3b0tFcHk?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T04:00:52.000Z",
       "pub_sort_dt": "2026-08-21 12:00:52"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国警告盟友和中国加入对伊朗的经济施压行动 - France 24",
-      "title_cn": "美国警告阿富汗和中国加入对伊朗的经济施压行动 - France 24",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxPVWttd3NDQ1ptMDA0cmEtTWRBclBqb2hibFFPLUhYNnJONDM3VmFvWmhZYVk4cVB1WVNPZUdOTjdYemI2eU1HUXd6YlJYQlg0emZyYTExQkpLaGNYaXdmbEtCaUx5MXdYSDBpRUVaak1GM1ZoNXJzMVFwVlk3RERualRZbXZZNklOSk5SNHg5dks4UlJ6UzRRUWt4WUhieGhzblRUb1FDUHBUX1ZwN0x3b2g4YkM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T02:38:09.000Z",
-      "pub_sort_dt": "2026-08-21 10:38:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在中国科技热潮中，上海版纳斯达克的表现超越了香港 - Financial Times",
-      "title_cn": "在中国科技热潮中，上海版纳斯达克的表现超越了香港 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPZGowMWk5N2xTT3VQa3ZHcXplOFZoSTZiaXM5a0UwelFKQUNpRGpMdTB4dzkwcExvWVAtR1hGR0RtZXJRN0VmbXRYOGNpUEpvbHVNZnJwSW5KNkNFSnJyVlVTTWh4Si1UajFOb3VfQUtzbU1NSkJSbUo4bU45OGR4S0RtSlU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T02:18:57.000Z",
-      "pub_sort_dt": "2026-08-21 10:18:57"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "香港“天安门守夜”活动组织者被裁定犯有煽动颠覆罪 - CNN",
-      "title_cn": "香港“天安门守夜”活动组织者被认定犯有撬动创新罪 - CNN",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxORDA5bFgyVnFreWhUeGRJcjQweEx5b3BxNUhfYWdsbDdJWkZZcDIxVGh6ZDc0cGRnOHc5cnZTeFh6M0pCSlVzbVZBWHQ4Q3A3M2FjZ3ZPWUZfejNnd3hpM1FlWEktVjFESElJbVJWb0FNd3pkWm85MC1RQXZMSkVOSE9pR2E3TE03RTJrNjVn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T02:09:00.000Z",
-      "pub_sort_dt": "2026-08-21 10:09:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国尚未在数字秩序中占据上风——至少目前如此 - The Diplomat – Asia",
-      "title_cn": "中国尚未在数字秩序中掀起风潮——至少目前如此 - The Diplomat – Asia",
-      "url": "https://news.google.com/read/CBMifkFVX3lxTFA3bHlkQ2RMdk83YTVtTXh3aXFGa3A2cjh6ZFRSQjJPbnI2cGFabm9EUzFiSndwTlNYRExmUno2MHZ4bnRJSjg3V3JfVnhldnRob0dfbDZXWWl4OU1GUjBFNEhjMHU4YXFRVHZhSWhULXlYWXdqSWtBRmxGNWRGdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T01:56:27.000Z",
-      "pub_sort_dt": "2026-08-21 09:56:27"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "日本议员将访华以缓和争端，但专家认为关系解冻的可能性不大 - South China Morning Post",
-      "title_cn": "日本议员将访问华以缓和，但专家认为关系解冻的可能性不大 - 南华早报",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxQZWdQbC1aSXB2WFZ0LVk1RTR3VWNSMHBuUnV6U1hWZ3BMV1hYUHN6M2hCdVd1Mi0zTGdRdUoxOHJWbEQzaDI1N3JEZkNyNDZhUWJ1QjVHcnBpLVVtUjlkcWpOOGF0R3hEMTVpWWlnd2M2cmNvU0Z3X2xZVlBjMGl1RkxoRXA1QVRlbFVoNDRfVkZ0MVJMQl9FdXNBRmRydklJRUM4VHBzV3B0V2Y0MVRoV1ZKS0VDY1VKTFpLVdIBvAFBVV95cUxOZDlZbHV1d29wMFJmZmVpczNNMmdNU0NZX0JKemZUVVlKX1ViRl9JbFMtY19zZTRjNjczMDdQbGtkb25TWUpFZGNKWTB1VTROUTRPQWdSemswQWp1dndwUFZCay12ZE1qTGlwb3BGWkZfSXNYdFNsNWM2aTVmUXNuSXozNm9BblYzVDI2eXQ4SEZ3S0xUSW45YnlXbk81OW9reHdrWnRwVUpqVUJYbGJCT2ZWazhIV2NibHZieQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T01:00:11.000Z",
-      "pub_sort_dt": "2026-08-21 09:00:11"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "世界简讯：中国就伊朗问题对美国予以回击；美国国债收益率攀升 - The Economist",
-      "title_cn": "世界简讯：中国就伊朗问题对美国包容性回击；美国国债攀升 - 经济学人",
-      "url": "https://news.google.com/read/CBMilwFBVV95cUxNSmVjclRnWTdlNU1sU0c4V0tESjdPZnJITC1Fd0VQNk83MnNhYk5PYkJpQ2dXcTl4Q3FBeGZsTE5SNHJQNmZQSU5TbmdpLVpCMWxlMG5BbVd1c0d6SFlFY3hSajN3dmY1OXNmQTlJa1VzVk8xN2ZHTDl1Y0F1Y0FxZUZpeWdHM283QlVkaDlHNzlIeDF5VVBZ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T00:00:00.000Z",
-      "pub_sort_dt": "2026-08-21 08:00:00"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
+      "title_cn": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/tesla-recalls-3-million-evs-as-china-cracks-down-on-door-handles",
+      "pub_raw": "2026-08-21T12:53:50.652Z",
+      "pub_sort_dt": "2026-08-21 20:53:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "华鸿、潍柴动力将纳入香港股市基准指数",
+      "title_cn": "华鸿、潍柴动力将纳入香港股市基准指数",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/hua-hong-grace-weichai-power-to-join-hong-kong-stock-benchmark",
+      "pub_raw": "2026-08-21T12:53:50.623Z",
+      "pub_sort_dt": "2026-08-21 20:53:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国正考虑主办2028年联合国气候谈判的提议",
+      "title_cn": "中国正考虑主办2028年联合国气候谈判的提议",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/china-considering-proposal-to-host-2028-un-climate-talks",
+      "pub_raw": "2026-08-21T12:21:37.439Z",
+      "pub_sort_dt": "2026-08-21 20:21:37"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
+      "title_cn": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
+      "url": "https://reut.rs/4gpAQas",
+      "pub_raw": "2026-08-21T11:17:15.581Z",
+      "pub_sort_dt": "2026-08-21 19:17:15"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国放缓紧缩政策，预算支出降幅收窄",
+      "title_cn": "中国放缓紧缩政策，预算支出降幅收窄",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-scales-back-austerity-with-smaller-drop-in-budget-spending",
+      "pub_raw": "2026-08-21T11:01:27.875Z",
+      "pub_sort_dt": "2026-08-21 19:01:27"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "据称中国正在考虑申办联合国气候峰会",
-      "title_cn": "呼吁中国正在考虑申办联合国气候峰会",
+      "title_cn": "据称中国正在考虑申办联合国气候峰会",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-said-to-weigh-potential-bid-to-host-2028-un-climate-summit",
       "pub_raw": "2026-08-21T09:09:15.678Z",
       "pub_sort_dt": "2026-08-21 17:09:15"
@@ -111,7 +151,7 @@
     {
       "source": "Reuters",
       "title_en": "消息人士称，随着美国封锁措施的加剧，伊朗向中国买家提供的石油报价有所下降",
-      "title_cn": "消息人士称，随着美国封锁措施的加强，伊朗向中国买家提供的石油报价有所下降",
+      "title_cn": "消息人士称，随着美国封锁措施的加剧，伊朗向中国买家提供的石油报价有所下降",
       "url": "https://reut.rs/4bXiNXM",
       "pub_raw": "2026-08-21T08:37:09.886Z",
       "pub_sort_dt": "2026-08-21 16:37:09"
@@ -119,7 +159,7 @@
     {
       "source": "Bloomberg",
       "title_en": "美国指责中国非法拘留一名美国学者",
-      "title_cn": "美国指控中国非法拘留一名美国学者",
+      "title_cn": "美国指责中国非法拘留一名美国学者",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-accuses-china-of-wrongful-detention-of-american-scholar",
       "pub_raw": "2026-08-21T08:05:14.203Z",
       "pub_sort_dt": "2026-08-21 16:05:14"
@@ -135,7 +175,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国与印度尼西亚在雅加达举行的高层会谈中就加强防务合作达成共识",
-      "title_cn": "中国与印度尼西亚在雅加达达成的高层楼梯中就加强防务合作达成共识",
+      "title_cn": "中国与印度尼西亚在雅加达举行的高层会谈中就加强防务合作达成共识",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-indonesia-agree-on-closer-defense-ties-in-high-level-talks-in-jakarta",
       "pub_raw": "2026-08-21T07:49:19.342Z",
       "pub_sort_dt": "2026-08-21 15:49:19"
@@ -151,7 +191,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国的高端24小时水疗中心为健康旅游者提供鱼子酱与放松体验",
-      "title_cn": "中国的旅游24小时水疗中心为健康游客提供鱼子酱与放松体验",
+      "title_cn": "中国的高端24小时水疗中心为健康旅游者提供鱼子酱与放松体验",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-s-luxury-24-hour-spas-offer-caviar-and-relaxation-to-wellness-travelers",
       "pub_raw": "2026-08-21T05:57:13.209Z",
       "pub_sort_dt": "2026-08-21 13:57:13"
@@ -159,7 +199,7 @@
     {
       "source": "Bloomberg",
       "title_en": "DayOne计划在赴美IPO前申请贷款以资助香港数据中心建设",
-      "title_cn": "DayOne计划赴美IPO前申请贷款以资助香港数据中心建设",
+      "title_cn": "DayOne计划在赴美IPO前申请贷款以资助香港数据中心建设",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/dayone-seeks-loan-to-fund-hong-kong-data-center-ahead-of-us-ipo",
       "pub_raw": "2026-08-21T05:57:13.199Z",
       "pub_sort_dt": "2026-08-21 13:57:13"
@@ -167,7 +207,7 @@
     {
       "source": "Reuters",
       "title_en": "广州一家中国法院受理了恒大旗下某公司的破产案",
-      "title_cn": "广州某中国法院受理了恒大某公司破产案",
+      "title_cn": "广州一家中国法院受理了恒大旗下某公司的破产案",
       "url": "https://reut.rs/4xebWBN",
       "pub_raw": "2026-08-21T05:57:13.044Z",
       "pub_sort_dt": "2026-08-21 13:57:13"
@@ -175,7 +215,7 @@
     {
       "source": "Bloomberg",
       "title_en": "在经济增长放缓之际，中国计划出台新的财政支持政策",
-      "title_cn": "在经济增长预期之际，中国计划出台新的财政支持政策",
+      "title_cn": "在经济增长放缓之际，中国计划出台新的财政支持政策",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-plans-new-fiscal-support-policies-this-year-amid-slowdown",
       "pub_raw": "2026-08-21T05:41:19.439Z",
       "pub_sort_dt": "2026-08-21 13:41:19"
@@ -183,7 +223,7 @@
     {
       "source": "Reuters",
       "title_en": "香港法院裁定天安门纪念团体犯有煽动颠覆罪",
-      "title_cn": "香港法院认定天安门纪念团体犯有煽动转移罪",
+      "title_cn": "香港法院裁定天安门纪念团体犯有煽动颠覆罪",
       "url": "https://reut.rs/4gpVNSy",
       "pub_raw": "2026-08-21T05:25:30.627Z",
       "pub_sort_dt": "2026-08-21 13:25:30"
@@ -191,7 +231,7 @@
     {
       "source": "Financial Times",
       "title_en": "亚洲日益增长的财富为保险公司提供了应对中国政策调整的保障",
-      "title_cn": "亚洲迫切增长的财富保险公司为应对中国调整政策的保障提供了依据",
+      "title_cn": "亚洲日益增长的财富为保险公司提供了应对中国政策调整的保障",
       "url": "https://www.ft.com/content/e24984a3-b87b-40a0-a6db-5b5f028ed712?syn-25a6b1a6=1",
       "pub_raw": "2026-08-21T05:25:30.499Z",
       "pub_sort_dt": "2026-08-21 13:25:30"
@@ -199,7 +239,7 @@
     {
       "source": "Bloomberg",
       "title_en": "为何中国决策者将对糟糕的经济数据保持冷静",
-      "title_cn": "为什么中国决策者出现了严重的经济数据保持紧张状态",
+      "title_cn": "为何中国决策者将对糟糕的经济数据保持冷静",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/why-china-s-policymakers-will-ride-out-poor-economic-data",
       "pub_raw": "2026-08-21T04:21:18.859Z",
       "pub_sort_dt": "2026-08-21 12:21:18"
@@ -211,56 +251,64 @@
       "url": "https://www.ft.com/content/83500ff8-31df-4031-9edd-8b3de5aff3e3?syn-25a6b1a6=1",
       "pub_raw": "2026-08-21T03:17:36.195Z",
       "pub_sort_dt": "2026-08-21 11:17:36"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港以颠覆罪判处天安门守夜活动组织者有罪",
-      "title_cn": "香港以犯罪依据天安门守夜活动组织者有罪",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/hong-kong-convicts-tiananmen-vigil-leaders-of-subversion",
-      "pub_raw": "2026-08-21T02:29:22.740Z",
-      "pub_sort_dt": "2026-08-21 10:29:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国在太阳系最寒冷的地方之一搜寻月球冰",
-      "title_cn": "中国在太阳系最寒冷的地方之一搜寻月球冰",
-      "url": "https://reut.rs/4gIJiTl",
-      "pub_raw": "2026-08-21T01:57:22.127Z",
-      "pub_sort_dt": "2026-08-21 09:57:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Breakingviews——AIA对中国市场的乐观态度与香港的整体情绪形成鲜明对比",
-      "title_cn": "突发观点——友邦保险对中国市场的乐观态度与香港的整体情绪突破对比",
-      "url": "https://reut.rs/4zvNJbC",
-      "pub_raw": "2026-08-21T00:05:59.177Z",
-      "pub_sort_dt": "2026-08-21 08:05:59"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国和印度尼西亚两国外长将于周五举行会晤，商讨安全与经济问题",
-      "title_cn": "中国和汉语词典外长将于周五召开会议，商讨安全与经济问题",
-      "url": "https://reut.rs/4gGuRiC",
-      "pub_raw": "2026-08-20T23:34:08.263Z",
-      "pub_sort_dt": "2026-08-21 07:34:08"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港书店因销售“煽动性”书籍面临严打",
-      "title_cn": "香港书店因销售“甩动性”书籍面临严打",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/hong-kong-bookstores-face-crackdown-over-seditious-books",
-      "pub_raw": "2026-08-20T23:18:06.329Z",
-      "pub_sort_dt": "2026-08-21 07:18:06"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "为何美国一些最大品牌在中国市场正逐渐失势 - CNBC",
+      "title_cn": "为何美国一些最大品牌在中国市场正逐渐失势 - CNBC",
+      "url": "https://news.google.com/read/CBMickFVX3lxTE9JZGR2OUlUaTNacG1MWlVBaVZuYXhabWQtM3lQLWFsNHU2eUl4eUt5bVFGNGFQTXotLXpjTEl4NkN2a0dkWFNpSWJMS1BubEktb0dJUmZYNkQxSEo2TEd3T3p0aTZRMjMxM3pvM3Exc3FFZ9IBd0FVX3lxTE81Ylk5VThXOFBzVDYwRkVOX0ozU3FsV0JURDVtaFlkRDlJRzhjUFc2M193RERSMWZaVl9NckhfTEN5bVFlbFh5S0pYbWdOdGtZSnBuWU5pZzNOdWZ5bGRaNmtwY2I0RlFvWldiVzJNTTdoQTBsZTdZ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T11:30:02.000Z",
+      "pub_sort_dt": "2026-08-21 19:30:02"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特斯拉将对中国市场上的数百万辆中国制造及进口电动汽车进行软件更新 - Reuters",
+      "title_cn": "特斯拉将对中国市场上的数百万辆中国制造及进口电动汽车进行软件更新 - Reuters",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T10:59:13.000Z",
+      "pub_sort_dt": "2026-08-21 18:59:13"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一起性侵案件在网络上引发热议后，中国的企业饮酒文化正面临抨击 - CNN",
+      "title_cn": "一起性侵案件在网络上引发热议后，中国的企业饮酒文化正面临抨击 - CNN",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxPOVd5bVA1a21KNmVTRlcwaHpuTF9WVzJ6NXIxcEJ4aWZJY2VyaFZBYnRnS0VYbG1VckoybHpNXzl1UHZsaUFiYjA0TVc2b3dwOTFXNzU4ZC14YkduckZPanBtbktIRUlHX2o3QUc1VHNHOEF1Nm1OSFdhSThiT3N5Z3JLVXJxQmFaZGFNUXFn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T10:00:29.000Z",
+      "pub_sort_dt": "2026-08-21 18:00:29"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国抨击欧盟的外商补贴规则，并将此与贸易谈判挂钩 - politico.eu",
+      "title_cn": "中国抨击欧盟的外商补贴规则，并将此与贸易谈判挂钩 - politico.eu",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxNSEttUzNzaHA2bDM2T29EOUUwaXF6S1k0U3g4UER2TVNuRnpYVzNjOVZYZmtBb0pxSldxTzFqeWdNNjFOVTVadFVURGg0d3lMbHBPUTZReXE1djlmTXZKY25SZnE2Ulp4X1FDZVBuc2Q4YWx2YVY5dmFWUEh0YnFLVll2eHNKeEVxWGZJc2ptS1Y?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T09:40:00.000Z",
+      "pub_sort_dt": "2026-08-21 17:40:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "观点 “中国冲击”2.0 - The New York Times",
-      "title_cn": "观点“中国冲击”2.0 - 纽约时报",
+      "title_cn": "观点 “中国冲击”2.0 - The New York Times",
       "url": "https://news.google.com/read/CBMihAFBVV95cUxPX0JQcWVqLXg4OE9vM2xYaVlrQWVkeE1OV0xySXRqYTI4cWZwSGlBQW5tSTNvX0hCV0JrUXEwWGFxWHhsTGF2RHR3eXZIUG9mM2JHUXRDb0NqeVIwTk5mckJlZG9adVVNN0p1V0xMWFJpRWlER2FweUdxb1ljRjFSbUx2ZHk?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T09:02:36.000Z",
       "pub_sort_dt": "2026-08-21 17:02:36"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "消息人士称，随着美国封锁措施的加剧，伊朗向中国买家提供的石油报价有所下降 - Reuters",
+      "title_cn": "消息人士称，随着美国封锁措施的加剧，伊朗向中国买家提供的石油报价有所下降 - Reuters",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxPNTlOa0p6cWFWR2FCZ0dZY2tEZEZLMkNWR3RvQkUzdUwyTE11aVF0TkVpMExXM3otZy0wbVRZU0lBOUpLV2lhYTdPWHBMZ3plOGFwekxwbVdQLTM5anpldkwtTWpnak05T3VLdDVUT3ItVVpEeHllS3E5SjFOeHFCT0FPeXU5c1I3X203S0pGcENjeFRESF9YaTZnV0JNNGNZUnl4RUxGTFZIN2RNU0k0YXpJbVhyVW55UlB6Rw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T08:45:59.000Z",
+      "pub_sort_dt": "2026-08-21 16:45:59"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一块岩石与中国“三海”问题 - War on the Rocks",
+      "title_cn": "一块岩石与中国“三海”问题 - War on the Rocks",
+      "url": "https://news.google.com/read/CBMib0FVX3lxTE5DSHBFLUZsVnhwN0ZyZlZtOG10NkJmUG0xajVJODgwVDgxZUFnTTNqOE1LV2tGSDRQX18td1NSWHY3RTFNbUNGcGdKWGh5cFk4MW41TjlPZC1Vdk11bS1OZTBreU0yVDAycVhKLXlyQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T07:35:36.000Z",
+      "pub_sort_dt": "2026-08-21 15:35:36"
     },
     {
       "source": "China Buzzing",
@@ -273,7 +321,7 @@
     {
       "source": "China Buzzing",
       "title_en": "面对经济放缓，中国计划不久后出台新的财政支持政策 - Bloomberg.com",
-      "title_cn": "经济预期，中国计划不久后将面临新的财政支持政策 - Bloomberg.com",
+      "title_cn": "面对经济放缓，中国计划不久后出台新的财政支持政策 - Bloomberg.com",
       "url": "https://news.google.com/read/CBMitAFBVV95cUxQdkJjOGVfZFNCWTJMSmRPWENPZ2hfZEJINFpXU3BpUjR1bmRuTVF5QVhNcjI1RXpFcHpqT1JyM3NyYVF3RUJJT2NvbHpKbmhRYWlrZHMxSVNhazQ5endGT0cxR3BqdHYyWFJWNHFLbG1BTU5rbEJaVzRGV2dPQTRrQUFSbU12ZDNiNFZNWklKOXBEdDBKdHlZN1JfMHMtTXhEekE0RVJzclhNZFBTY0M5d3Z3QS0?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T05:25:00.000Z",
       "pub_sort_dt": "2026-08-21 13:25:00"
@@ -281,63 +329,55 @@
     {
       "source": "China Buzzing",
       "title_en": "亚洲日益增长的财富为保险公司提供了应对中国政策调整的保障 - Financial Times",
-      "title_cn": "亚洲日益增长的财富保险公司为应对中国政策调整的保障提供了支持 - 金融时报",
+      "title_cn": "亚洲日益增长的财富为保险公司提供了应对中国政策调整的保障 - Financial Times",
       "url": "https://news.google.com/read/CBMihAFBVV95cUxNQzItd2JXbHRiYlg0TGlfOENydmQ1R0FpMzQ4SWZFbnBtVVloMllpcEZhZmpVNk1zVXU5N05ucVduNENJTFpRNTlFNUJGbHh5dHFvRDlDaS1acXk4TTZiSXdaNDNCenVLalV0NTJGS1VZOEl3NDMzUndKejh0OVR3b0tFcHk?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T04:00:52.000Z",
       "pub_sort_dt": "2026-08-21 12:00:52"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "美国警告盟友和中国加入对伊朗的经济施压行动 - France 24",
-      "title_cn": "美国警告阿富汗和中国加入对伊朗的经济施压行动 - France 24",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxPVWttd3NDQ1ptMDA0cmEtTWRBclBqb2hibFFPLUhYNnJONDM3VmFvWmhZYVk4cVB1WVNPZUdOTjdYemI2eU1HUXd6YlJYQlg0emZyYTExQkpLaGNYaXdmbEtCaUx5MXdYSDBpRUVaak1GM1ZoNXJzMVFwVlk3RERualRZbXZZNklOSk5SNHg5dks4UlJ6UzRRUWt4WUhieGhzblRUb1FDUHBUX1ZwN0x3b2g4YkM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T02:38:09.000Z",
-      "pub_sort_dt": "2026-08-21 10:38:09"
+      "source": "Bloomberg",
+      "title_en": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
+      "title_cn": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/tesla-recalls-3-million-evs-as-china-cracks-down-on-door-handles",
+      "pub_raw": "2026-08-21T12:53:50.652Z",
+      "pub_sort_dt": "2026-08-21 20:53:50"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "在中国科技热潮中，上海版纳斯达克的表现超越了香港 - Financial Times",
-      "title_cn": "在中国科技热潮中，上海版纳斯达克的表现超越了香港 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPZGowMWk5N2xTT3VQa3ZHcXplOFZoSTZiaXM5a0UwelFKQUNpRGpMdTB4dzkwcExvWVAtR1hGR0RtZXJRN0VmbXRYOGNpUEpvbHVNZnJwSW5KNkNFSnJyVlVTTWh4Si1UajFOb3VfQUtzbU1NSkJSbUo4bU45OGR4S0RtSlU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T02:18:57.000Z",
-      "pub_sort_dt": "2026-08-21 10:18:57"
+      "source": "Bloomberg",
+      "title_en": "华鸿、潍柴动力将纳入香港股市基准指数",
+      "title_cn": "华鸿、潍柴动力将纳入香港股市基准指数",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/hua-hong-grace-weichai-power-to-join-hong-kong-stock-benchmark",
+      "pub_raw": "2026-08-21T12:53:50.623Z",
+      "pub_sort_dt": "2026-08-21 20:53:50"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "香港“天安门守夜”活动组织者被裁定犯有煽动颠覆罪 - CNN",
-      "title_cn": "香港“天安门守夜”活动组织者被认定犯有撬动创新罪 - CNN",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxORDA5bFgyVnFreWhUeGRJcjQweEx5b3BxNUhfYWdsbDdJWkZZcDIxVGh6ZDc0cGRnOHc5cnZTeFh6M0pCSlVzbVZBWHQ4Q3A3M2FjZ3ZPWUZfejNnd3hpM1FlWEktVjFESElJbVJWb0FNd3pkWm85MC1RQXZMSkVOSE9pR2E3TE03RTJrNjVn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T02:09:00.000Z",
-      "pub_sort_dt": "2026-08-21 10:09:00"
+      "source": "Bloomberg",
+      "title_en": "中国正考虑主办2028年联合国气候谈判的提议",
+      "title_cn": "中国正考虑主办2028年联合国气候谈判的提议",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/china-considering-proposal-to-host-2028-un-climate-talks",
+      "pub_raw": "2026-08-21T12:21:37.439Z",
+      "pub_sort_dt": "2026-08-21 20:21:37"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国尚未在数字秩序中占据上风——至少目前如此 - The Diplomat – Asia",
-      "title_cn": "中国尚未在数字秩序中掀起风潮——至少目前如此 - The Diplomat – Asia",
-      "url": "https://news.google.com/read/CBMifkFVX3lxTFA3bHlkQ2RMdk83YTVtTXh3aXFGa3A2cjh6ZFRSQjJPbnI2cGFabm9EUzFiSndwTlNYRExmUno2MHZ4bnRJSjg3V3JfVnhldnRob0dfbDZXWWl4OU1GUjBFNEhjMHU4YXFRVHZhSWhULXlYWXdqSWtBRmxGNWRGdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T01:56:27.000Z",
-      "pub_sort_dt": "2026-08-21 09:56:27"
+      "source": "Reuters",
+      "title_en": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
+      "title_cn": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
+      "url": "https://reut.rs/4gpAQas",
+      "pub_raw": "2026-08-21T11:17:15.581Z",
+      "pub_sort_dt": "2026-08-21 19:17:15"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "日本议员将访华以缓和争端，但专家认为关系解冻的可能性不大 - South China Morning Post",
-      "title_cn": "日本议员将访问华以缓和，但专家认为关系解冻的可能性不大 - 南华早报",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxQZWdQbC1aSXB2WFZ0LVk1RTR3VWNSMHBuUnV6U1hWZ3BMV1hYUHN6M2hCdVd1Mi0zTGdRdUoxOHJWbEQzaDI1N3JEZkNyNDZhUWJ1QjVHcnBpLVVtUjlkcWpOOGF0R3hEMTVpWWlnd2M2cmNvU0Z3X2xZVlBjMGl1RkxoRXA1QVRlbFVoNDRfVkZ0MVJMQl9FdXNBRmRydklJRUM4VHBzV3B0V2Y0MVRoV1ZKS0VDY1VKTFpLVdIBvAFBVV95cUxOZDlZbHV1d29wMFJmZmVpczNNMmdNU0NZX0JKemZUVVlKX1ViRl9JbFMtY19zZTRjNjczMDdQbGtkb25TWUpFZGNKWTB1VTROUTRPQWdSemswQWp1dndwUFZCay12ZE1qTGlwb3BGWkZfSXNYdFNsNWM2aTVmUXNuSXozNm9BblYzVDI2eXQ4SEZ3S0xUSW45YnlXbk81OW9reHdrWnRwVUpqVUJYbGJCT2ZWazhIV2NibHZieQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T01:00:11.000Z",
-      "pub_sort_dt": "2026-08-21 09:00:11"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "世界简讯：中国就伊朗问题对美国予以回击；美国国债收益率攀升 - The Economist",
-      "title_cn": "世界简讯：中国就伊朗问题对美国包容性回击；美国国债攀升 - 经济学人",
-      "url": "https://news.google.com/read/CBMilwFBVV95cUxNSmVjclRnWTdlNU1sU0c4V0tESjdPZnJITC1Fd0VQNk83MnNhYk5PYkJpQ2dXcTl4Q3FBeGZsTE5SNHJQNmZQSU5TbmdpLVpCMWxlMG5BbVd1c0d6SFlFY3hSajN3dmY1OXNmQTlJa1VzVk8xN2ZHTDl1Y0F1Y0FxZUZpeWdHM283QlVkaDlHNzlIeDF5VVBZ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T00:00:00.000Z",
-      "pub_sort_dt": "2026-08-21 08:00:00"
+      "source": "Bloomberg",
+      "title_en": "中国放缓紧缩政策，预算支出降幅收窄",
+      "title_cn": "中国放缓紧缩政策，预算支出降幅收窄",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-scales-back-austerity-with-smaller-drop-in-budget-spending",
+      "pub_raw": "2026-08-21T11:01:27.875Z",
+      "pub_sort_dt": "2026-08-21 19:01:27"
     },
     {
       "source": "Bloomberg",
       "title_en": "据称中国正在考虑申办联合国气候峰会",
-      "title_cn": "呼吁中国正在考虑申办联合国气候峰会",
+      "title_cn": "据称中国正在考虑申办联合国气候峰会",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-said-to-weigh-potential-bid-to-host-2028-un-climate-summit",
       "pub_raw": "2026-08-21T09:09:15.678Z",
       "pub_sort_dt": "2026-08-21 17:09:15"
@@ -353,7 +393,7 @@
     {
       "source": "Reuters",
       "title_en": "消息人士称，随着美国封锁措施的加剧，伊朗向中国买家提供的石油报价有所下降",
-      "title_cn": "消息人士称，随着美国封锁措施的加强，伊朗向中国买家提供的石油报价有所下降",
+      "title_cn": "消息人士称，随着美国封锁措施的加剧，伊朗向中国买家提供的石油报价有所下降",
       "url": "https://reut.rs/4bXiNXM",
       "pub_raw": "2026-08-21T08:37:09.886Z",
       "pub_sort_dt": "2026-08-21 16:37:09"
@@ -361,7 +401,7 @@
     {
       "source": "Bloomberg",
       "title_en": "美国指责中国非法拘留一名美国学者",
-      "title_cn": "美国指控中国非法拘留一名美国学者",
+      "title_cn": "美国指责中国非法拘留一名美国学者",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-accuses-china-of-wrongful-detention-of-american-scholar",
       "pub_raw": "2026-08-21T08:05:14.203Z",
       "pub_sort_dt": "2026-08-21 16:05:14"
@@ -377,7 +417,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国与印度尼西亚在雅加达举行的高层会谈中就加强防务合作达成共识",
-      "title_cn": "中国与印度尼西亚在雅加达达成的高层楼梯中就加强防务合作达成共识",
+      "title_cn": "中国与印度尼西亚在雅加达举行的高层会谈中就加强防务合作达成共识",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-indonesia-agree-on-closer-defense-ties-in-high-level-talks-in-jakarta",
       "pub_raw": "2026-08-21T07:49:19.342Z",
       "pub_sort_dt": "2026-08-21 15:49:19"
@@ -393,7 +433,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国的高端24小时水疗中心为健康旅游者提供鱼子酱与放松体验",
-      "title_cn": "中国的旅游24小时水疗中心为健康游客提供鱼子酱与放松体验",
+      "title_cn": "中国的高端24小时水疗中心为健康旅游者提供鱼子酱与放松体验",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-s-luxury-24-hour-spas-offer-caviar-and-relaxation-to-wellness-travelers",
       "pub_raw": "2026-08-21T05:57:13.209Z",
       "pub_sort_dt": "2026-08-21 13:57:13"
@@ -401,7 +441,7 @@
     {
       "source": "Bloomberg",
       "title_en": "DayOne计划在赴美IPO前申请贷款以资助香港数据中心建设",
-      "title_cn": "DayOne计划赴美IPO前申请贷款以资助香港数据中心建设",
+      "title_cn": "DayOne计划在赴美IPO前申请贷款以资助香港数据中心建设",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/dayone-seeks-loan-to-fund-hong-kong-data-center-ahead-of-us-ipo",
       "pub_raw": "2026-08-21T05:57:13.199Z",
       "pub_sort_dt": "2026-08-21 13:57:13"
@@ -409,7 +449,7 @@
     {
       "source": "Reuters",
       "title_en": "广州一家中国法院受理了恒大旗下某公司的破产案",
-      "title_cn": "广州某中国法院受理了恒大某公司破产案",
+      "title_cn": "广州一家中国法院受理了恒大旗下某公司的破产案",
       "url": "https://reut.rs/4xebWBN",
       "pub_raw": "2026-08-21T05:57:13.044Z",
       "pub_sort_dt": "2026-08-21 13:57:13"
@@ -417,7 +457,7 @@
     {
       "source": "Bloomberg",
       "title_en": "在经济增长放缓之际，中国计划出台新的财政支持政策",
-      "title_cn": "在经济增长预期之际，中国计划出台新的财政支持政策",
+      "title_cn": "在经济增长放缓之际，中国计划出台新的财政支持政策",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-plans-new-fiscal-support-policies-this-year-amid-slowdown",
       "pub_raw": "2026-08-21T05:41:19.439Z",
       "pub_sort_dt": "2026-08-21 13:41:19"
@@ -425,7 +465,7 @@
     {
       "source": "Reuters",
       "title_en": "香港法院裁定天安门纪念团体犯有煽动颠覆罪",
-      "title_cn": "香港法院认定天安门纪念团体犯有煽动转移罪",
+      "title_cn": "香港法院裁定天安门纪念团体犯有煽动颠覆罪",
       "url": "https://reut.rs/4gpVNSy",
       "pub_raw": "2026-08-21T05:25:30.627Z",
       "pub_sort_dt": "2026-08-21 13:25:30"
@@ -433,7 +473,7 @@
     {
       "source": "Financial Times",
       "title_en": "亚洲日益增长的财富为保险公司提供了应对中国政策调整的保障",
-      "title_cn": "亚洲迫切增长的财富保险公司为应对中国调整政策的保障提供了依据",
+      "title_cn": "亚洲日益增长的财富为保险公司提供了应对中国政策调整的保障",
       "url": "https://www.ft.com/content/e24984a3-b87b-40a0-a6db-5b5f028ed712?syn-25a6b1a6=1",
       "pub_raw": "2026-08-21T05:25:30.499Z",
       "pub_sort_dt": "2026-08-21 13:25:30"
@@ -441,7 +481,7 @@
     {
       "source": "Bloomberg",
       "title_en": "为何中国决策者将对糟糕的经济数据保持冷静",
-      "title_cn": "为什么中国决策者出现了严重的经济数据保持紧张状态",
+      "title_cn": "为何中国决策者将对糟糕的经济数据保持冷静",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/why-china-s-policymakers-will-ride-out-poor-economic-data",
       "pub_raw": "2026-08-21T04:21:18.859Z",
       "pub_sort_dt": "2026-08-21 12:21:18"
@@ -453,46 +493,6 @@
       "url": "https://www.ft.com/content/83500ff8-31df-4031-9edd-8b3de5aff3e3?syn-25a6b1a6=1",
       "pub_raw": "2026-08-21T03:17:36.195Z",
       "pub_sort_dt": "2026-08-21 11:17:36"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港以颠覆罪判处天安门守夜活动组织者有罪",
-      "title_cn": "香港以犯罪依据天安门守夜活动组织者有罪",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/hong-kong-convicts-tiananmen-vigil-leaders-of-subversion",
-      "pub_raw": "2026-08-21T02:29:22.740Z",
-      "pub_sort_dt": "2026-08-21 10:29:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国在太阳系最寒冷的地方之一搜寻月球冰",
-      "title_cn": "中国在太阳系最寒冷的地方之一搜寻月球冰",
-      "url": "https://reut.rs/4gIJiTl",
-      "pub_raw": "2026-08-21T01:57:22.127Z",
-      "pub_sort_dt": "2026-08-21 09:57:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Breakingviews——AIA对中国市场的乐观态度与香港的整体情绪形成鲜明对比",
-      "title_cn": "突发观点——友邦保险对中国市场的乐观态度与香港的整体情绪突破对比",
-      "url": "https://reut.rs/4zvNJbC",
-      "pub_raw": "2026-08-21T00:05:59.177Z",
-      "pub_sort_dt": "2026-08-21 08:05:59"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国和印度尼西亚两国外长将于周五举行会晤，商讨安全与经济问题",
-      "title_cn": "中国和汉语词典外长将于周五召开会议，商讨安全与经济问题",
-      "url": "https://reut.rs/4gGuRiC",
-      "pub_raw": "2026-08-20T23:34:08.263Z",
-      "pub_sort_dt": "2026-08-21 07:34:08"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港书店因销售“煽动性”书籍面临严打",
-      "title_cn": "香港书店因销售“甩动性”书籍面临严打",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/hong-kong-bookstores-face-crackdown-over-seditious-books",
-      "pub_raw": "2026-08-20T23:18:06.329Z",
-      "pub_sort_dt": "2026-08-21 07:18:06"
     }
   ]
 }
