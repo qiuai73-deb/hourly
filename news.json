@@ -1,15 +1,39 @@
 {
-  "update_cst": "2026-08-21 09:01:08 北京时间",
+  "update_cst": "2026-08-21 12:00:57 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 10,
-    "Financial Times": 1,
-    "Wall Street Journal": 0,
-    "Reuters": 9
+    "The Economist": 2,
+    "Bloomberg": 8,
+    "Financial Times": 2,
+    "Wall Street Journal": 1,
+    "Reuters": 7
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "在中国科技热潮中，上海版纳斯达克的表现超越了香港 - Financial Times",
+      "title_cn": "在中国科技热潮中，上海版纳斯达克的表现超越了香港 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPZGowMWk5N2xTT3VQa3ZHcXplOFZoSTZiaXM5a0UwelFKQUNpRGpMdTB4dzkwcExvWVAtR1hGR0RtZXJRN0VmbXRYOGNpUEpvbHVNZnJwSW5KNkNFSnJyVlVTTWh4Si1UajFOb3VfQUtzbU1NSkJSbUo4bU45OGR4S0RtSlU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T02:18:57.000Z",
+      "pub_sort_dt": "2026-08-21 10:18:57"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "香港“天安门守夜”活动组织者被裁定犯有煽动颠覆罪 - CNN",
+      "title_cn": "香港“天安门守夜”活动组织者被认定犯有撬动创新罪 - CNN",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxORDA5bFgyVnFreWhUeGRJcjQweEx5b3BxNUhfYWdsbDdJWkZZcDIxVGh6ZDc0cGRnOHc5cnZTeFh6M0pCSlVzbVZBWHQ4Q3A3M2FjZ3ZPWUZfejNnd3hpM1FlWEktVjFESElJbVJWb0FNd3pkWm85MC1RQXZMSkVOSE9pR2E3TE03RTJrNjVn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T02:09:00.000Z",
+      "pub_sort_dt": "2026-08-21 10:09:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国和印度尼西亚两国外长将于周五举行会晤，商讨安全与经济问题 - Reuters",
+      "title_cn": "中国和汉语词典外长将于周五召开会议，商讨安全与经济问题 - 路透中文网",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxPYS1vaHdfWG55NkRDMU1xRU1DYnB4MV94eElsODBWaF95c0VoZGxHUlB5dEk2N2w1Qkt3U3JhbThRUDdpM1ZCM05GWWtqQmhBU1VNaFMtNloxbklpUEUtV1NDcllNN0hmVUhSc00zcDJiT0JaWkRjV0VsemRVelNLWVExWGxLejExNHZ3LURtOUVsTmxaeEV4c0lleDBaNDdJLTBwQjdvaGZnNE5SUkRoNjFJSUtodDIwbHc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T23:03:45.000Z",
+      "pub_sort_dt": "2026-08-21 07:03:45"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国最受欢迎的人形机器人的美国经销商在美国禁令后调整了业务方向 - Ars Technica",
@@ -36,11 +60,27 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "中国针对中亚的“SilkParasite”间谍行动利用人工智能辅助的恶意软件 - The Record from Recorded Future News",
+      "title_cn": "中国针对中亚的“丝绸寄生虫”间谍行动利用人工智能辅助的恶意软件 - 未来新闻记录",
+      "url": "https://news.google.com/read/CBMiakFVX3lxTFBNWmc4QnhnTXpnNG8yVkNrUGxaQzhQWkppcFRrMERGZmFpdml1bUJaanlMY2dYOUhRV3dqSHBkelFLM3prOFZITGxQQldOUU5yTElKd0FSNGt3TmplZ0poMWV1WUpXc3d6ZXc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T19:49:03.000Z",
+      "pub_sort_dt": "2026-08-21 03:49:03"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "随着美国在北极的利益日益增加，其在北极的权力博弈为其头号对手提供了与俄罗斯合作的新契机 - Fox News",
-      "title_cn": "随着美国在北极的利益日益增加，其在北极的权力博弈为其头号对手提供了与俄罗斯合作的新契机 - Fox News",
+      "title_cn": "随着美国在北极的利益日益增加，其在北极的权力博弈显然为头号对手提供了与俄罗斯合作的新契机 - 福克斯新闻",
       "url": "https://news.google.com/read/CBMipwFBVV95cUxNNmtUZFNHbUpEQmpmZVpiOElzY3N1ZjRJdkpsc3IyV3R4SGZhbW1jVXk4UHJJT05VVzFzWFhvM21CVk5weEJOWDJhcDVWeGJLTHVqT042LVVleTlITnc5QXlzZmdCZHluWGdoOVdmRVJBTGNPNS1GOHZBNWZVcVREWWZVclhudTFRSUlhd2t4WkUzUDN4aV9LSGVTU3VFNllZTFFEem5TUdIBrAFBVV95cUxQMUtEVFNGejFyNEhUQXJLQTlPMkQyN2xUWEJQa05rdi1oekFNeGN4WVRDS1FURDBObi1CTXQ3cEJGRGhzeVB4THdwOTJCUWh0QVJnV0RFaGVHRjJ2MEtWX002aTd2eEI1MVdhcmhELTROb2JVMERQSlgweDd3RkRTcjBhcE8tRlFxNnpxUk5GeTdZLUcwblZHUkFPVDduQnBvWFdPUzBOUkg3YnMz?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-20T18:22:17.000Z",
       "pub_sort_dt": "2026-08-21 02:22:17"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "为何全球针对中国稀土主导地位的对冲举措均告失败 - The Diplomat – Asia",
+      "title_cn": "为何全球针对中国稀土主导地位的对冲举措均告失败 - 外交官 – 亚洲",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxQV1FVSV9JNm1oU2tNVEdULVpvRmR0VHlxWmZJYkNhZU9jdkcxNGhzMldGZGhyRHVXSkxneGw0bVZoSFVqZmR0TXFROEpXaS15b0s5UFUyV3RjaWhWZGhUTXhseTNHVWtNZF9XdC0ybGdYMTFzeXp1N1JRci11OWUxUUlFOGRHZjNHQWg5WEVrTUpybTlxRHhMUzlzbHY3NmpZSFNQWFlDS0NJOHIz?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T17:34:55.000Z",
+      "pub_sort_dt": "2026-08-21 01:34:55"
     },
     {
       "source": "China Buzzing",
@@ -49,80 +89,32 @@
       "url": "https://news.google.com/read/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-20T17:34:02.000Z",
       "pub_sort_dt": "2026-08-21 01:34:02"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "独家：美国称中国对被扣押的美国学者的待遇“显著恶化” - The Hill",
-      "title_cn": "独家：美国称中国对被扣押的美国学者的待遇“显着恶化” - The Hill",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxPdko2VWE3QXdVVmFJcGZqY1d4QTR2dUYxb3pna3JmeElBWEVNX0FmNWJmeEhKUllRRXo1N0YtRlJSVUFvcjNWNG1YSkg1TS1PVVV3YnBXZE5wTlJrRFV6LXo0Z3dLQ1hoRVdjaDBiWjQtTlcybHFqVmY2cHNrOC01S0NBNG9sWlBfTWc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T15:03:00.000Z",
-      "pub_sort_dt": "2026-08-20 23:03:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "瑞士达成贸易协议，使其能够免关税进入中国市场 - Bloomberg.com",
-      "title_cn": "瑞士达成贸易协议，关税能够免关税进入中国市场 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxOdEoyYk9LR09HVGxiV1RJMEcwRFFHQ282d3NaR215OHVhTUhUV25KRnpLQlBOMzIydFRnQkdQWl8wQWpyV0lRR3R2N09vbkV6Q1RDMTRYcVFzSGs0d1c3UlZ6RE0xckw4eEgtcXF3NURRZ0tHWlpMWUl6dDdza2duYnlEQm1BYmpzOTRXb3h6T2ZHMXpyWVlqamFHbWJWQXAyLVpHd0FyN08ydmdoazh3NVNta08wQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T15:00:00.000Z",
-      "pub_sort_dt": "2026-08-20 23:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国国务院称一名在中国的美国公民遭到不当拘留 - The New York Times",
-      "title_cn": "美国国务院称一名在中国的美国公民遭到不当拘留 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxNQk9YaU5oanZGV0h6SmFnVWNsZzNzMWtvWlJVdldIUUhxbVJPWWR5a2RrQkV0VUJvR2NHSXNuYmw4TUFiVU5VWk5JakVFcmhkbUxubjIwTlVOZzJ6RjRvR2IzN2lqYjZXVWFQUzJDRmNnazZickN4ZXdBUTlLMU9tNUw3emU5U3FCOVdDV0tB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T14:59:45.000Z",
-      "pub_sort_dt": "2026-08-20 22:59:45"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国和俄罗斯如何可能阻碍特朗普孤立伊朗的计划 - Al Jazeera",
-      "title_cn": "中国和俄罗斯如何可能阻止特朗普孤立伊朗的计划 - 半岛电视台",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxQMTRxWkRqR01oeTkzV3V6alJCNGVsU0VkZjlBbHE2NTFBWkRqbVFvR1ZvbWcxaEE4aW1MeW4yMFBEVTdJc1JRTGdMWU8yUGo1Z3hXRXRkak12aG4zU0JTVzBuYmt4ZWdObkdOYWZxNGd5RjVoQUNyaTZQeEYzOXhNWVhtWW4ybVRNaUExb2NBRmpRT3dORkJpRWNGWVVhb1dGSTF1QWl30gGrAUFVX3lxTFA2czB2U3FiVVpHdHFYdWFEQXZvM3drYXNaZ1FqUDg1VThrUHE0YlQtQnlkbXVDZjRYMENIUGVTNHVZV0pueXBUY0RVbGpKNEVQZ0FEWU5PYVE5akllWUowd3F0N0xHYmxMVXRiM2ZaWmRyVTFaRENSS21PWVpvdGROQlZaZUh0NklzSGhyalJHbUJiX3d3a0FmSUZaME55RGpaT1JvVVEzbHNsNA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T14:58:08.000Z",
-      "pub_sort_dt": "2026-08-20 22:58:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美联社记者克里斯托弗·博丁——一位坚持不懈地记录中国崛起历程的记者——去世，享年55岁 - AP News",
-      "title_cn": "美联社记者克里斯托弗·博丁——一位坚持不懈地记录中国崛起历程的记者——去世，享年55岁 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMiwAFBVV95cUxQSlU2WkZpY3RCQnBVWDc2R3ZIY3BrVGxhdTBWbjRwbkZzek4yaFlwLTUzTXZBamdkbmFGUV9qVWtKbkNNczVhWm9kRUlHMGw0QlRLOW9feWdTaGZXZElNeDNiaHktN0Q2NmViY19oT2tNMHMyd2VyckNONlYxby1zYzNXQ2l3X2hlenp6MlZwXzBoMnYwd05paTVmMkl6enR3aGVoUnNQSzlUWUZwTjNneDBYNUg5TDJGYXktTVoycVg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T13:37:00.000Z",
-      "pub_sort_dt": "2026-08-20 21:37:00"
     }
   ],
   "media_news": [
     {
+      "source": "Financial Times",
+      "title_en": "在中国科技热潮中，上海版纳斯达克的表现超越了香港",
+      "title_cn": "在中国科技热潮中，上海版纳斯达克的表现超越了香港",
+      "url": "https://www.ft.com/content/83500ff8-31df-4031-9edd-8b3de5aff3e3?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-21T03:17:36.195Z",
+      "pub_sort_dt": "2026-08-21 11:17:36"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港以颠覆罪判处天安门守夜活动组织者有罪",
+      "title_cn": "香港以犯罪依据天安门守夜活动组织者有罪",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/hong-kong-convicts-tiananmen-vigil-leaders-of-subversion",
+      "pub_raw": "2026-08-21T02:29:22.740Z",
+      "pub_sort_dt": "2026-08-21 10:29:22"
+    },
+    {
       "source": "Reuters",
-      "title_en": "美国一名青少年在庭审前撤销了对Meta、谷歌和Snap的诉讼",
-      "title_cn": "美国一名青少年在法庭审理前撤销了对 Meta、谷歌和 Snap 的诉讼",
-      "url": "https://reut.rs/4gFcgU9",
-      "pub_raw": "2026-08-21T00:53:59.937Z",
-      "pub_sort_dt": "2026-08-21 08:53:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受美国国债回购计划提振，金价有望实现连续第三周上涨",
-      "title_cn": "受美国国债回购计划提振，金价有望实现连续第三周上涨",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/gold-set-for-third-weekly-gain-on-us-treasury-buyback-plans",
-      "pub_raw": "2026-08-21T00:38:03.118Z",
-      "pub_sort_dt": "2026-08-21 08:38:03"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "韩国早期出口数据延续涨势，为加息提供支撑",
-      "title_cn": "韩国早期出口数据上涨势头，为加息提供支撑",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/korea-early-exports-extend-gains-supporting-case-for-more-hikes",
-      "pub_raw": "2026-08-21T00:38:03.115Z",
-      "pub_sort_dt": "2026-08-21 08:38:03"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "根据巴基斯坦法院的命令，伊姆兰·汗从监狱被送往医院",
-      "title_cn": "根据巴基斯坦法院的命令，伊姆兰·汗从监狱被送往医院",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/imran-khan-moved-to-hospital-from-jail-on-pakistan-court-order",
-      "pub_raw": "2026-08-21T00:06:00.174Z",
-      "pub_sort_dt": "2026-08-21 08:06:00"
+      "title_en": "中国在太阳系最寒冷的地方之一搜寻月球冰",
+      "title_cn": "中国在太阳系最寒冷的地方之一搜寻月球冰",
+      "url": "https://reut.rs/4gIJiTl",
+      "pub_raw": "2026-08-21T01:57:22.127Z",
+      "pub_sort_dt": "2026-08-21 09:57:22"
     },
     {
       "source": "Reuters",
@@ -133,17 +125,9 @@
       "pub_sort_dt": "2026-08-21 08:05:59"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "据称，SpaceX和AST正寻求收购价值60亿美元的频谱",
-      "title_cn": "呼吁，SpaceX和AST正寻求收购价值60亿美元的价值",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/spacex-ast-said-seeking-to-buy-spectrum-valued-at-6-billion",
-      "pub_raw": "2026-08-20T23:34:08.419Z",
-      "pub_sort_dt": "2026-08-21 07:34:08"
-    },
-    {
       "source": "Reuters",
       "title_en": "中国和印度尼西亚两国外长将于周五举行会晤，商讨安全与经济问题",
-      "title_cn": "中国和印尼外交部长将于周五召开会议，商讨安全与经济问题",
+      "title_cn": "中国和汉语词典外长将于周五召开会议，商讨安全与经济问题",
       "url": "https://reut.rs/4gGuRiC",
       "pub_raw": "2026-08-20T23:34:08.263Z",
       "pub_sort_dt": "2026-08-21 07:34:08"
@@ -151,7 +135,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港书店因销售“煽动性”书籍面临严打",
-      "title_cn": "香港书店因销售“煽动性”书籍面临严打",
+      "title_cn": "香港书店因销售“甩动性”书籍面临严打",
       "url": "https://www.bloomberg.com/news/articles/2026-08-20/hong-kong-bookstores-face-crackdown-over-seditious-books",
       "pub_raw": "2026-08-20T23:18:06.329Z",
       "pub_sort_dt": "2026-08-21 07:18:06"
@@ -165,62 +149,6 @@
       "pub_sort_dt": "2026-08-21 07:18:06"
     },
     {
-      "source": "Reuters",
-      "title_en": "前谷歌工程师因窃取人工智能机密被定罪一案的部分判决被推翻",
-      "title_cn": "前谷歌工程师因窃取人工智能机密被定罪一案的部分奖励被改为",
-      "url": "https://reut.rs/4bZPwLU",
-      "pub_raw": "2026-08-20T23:18:06.192Z",
-      "pub_sort_dt": "2026-08-21 07:18:06"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "罗斯百货（Ross Stores）因折扣服装需求旺盛，再次上调年度利润预期",
-      "title_cn": "罗斯百货（Ross Stores）因服装需求旺盛，再次上调年度利润预期",
-      "url": "https://reut.rs/4zvx4om",
-      "pub_raw": "2026-08-20T23:02:19.885Z",
-      "pub_sort_dt": "2026-08-21 07:02:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "房地产市场低迷中的赢家与输家、澳大利亚房地产、Anthropic的IPO计划",
-      "title_cn": "房地产市场低迷中的赢家与输家、澳大利亚房地产、Anthropic的IPO计划",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/housing-slump-winners-and-losers-australia-housing-anthropic-ipo-plan",
-      "pub_raw": "2026-08-20T22:46:22.551Z",
-      "pub_sort_dt": "2026-08-21 06:46:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "巴西启动人工智能超级计算机计划，将项目分配给中、美企业",
-      "title_cn": "巴西启动人工智能计算机超级计划，将项目分配给中、美企业",
-      "url": "https://reut.rs/4godFNw",
-      "pub_raw": "2026-08-20T22:46:22.403Z",
-      "pub_sort_dt": "2026-08-21 06:46:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "突尼斯反对派在民众对经济状况不满的背景下抗议总统",
-      "title_cn": "突尼斯反对派在民众对经济形势不满的背景下抗议总统",
-      "url": "https://reut.rs/3TY7Zm5",
-      "pub_raw": "2026-08-20T22:46:22.399Z",
-      "pub_sort_dt": "2026-08-21 06:46:22"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "纽约市雷暴天气威胁晚高峰出行，导致航班停飞",
-      "title_cn": "纽约市雷暴天气威胁晚高峰出行，导致航班停飞",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/nyc-thunderstorms-threaten-evening-commute-disrupt-air-travel",
-      "pub_raw": "2026-08-20T22:14:03.583Z",
-      "pub_sort_dt": "2026-08-21 06:14:03"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "FirstFT：斯科特·贝森特为提振美国市场采取的干预措施未能安抚投资者",
-      "title_cn": "《金融时报》：斯科特·贝森特为提振美国市场采取的措施未能安抚投资者",
-      "url": "https://www.ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-20T21:58:03.640Z",
-      "pub_sort_dt": "2026-08-21 05:58:03"
-    },
-    {
       "source": "Bloomberg",
       "title_en": "中国将取消对瑞士商品的大部分关税",
       "title_cn": "中国将取消对瑞士商品的大部分关税",
@@ -229,33 +157,129 @@
       "pub_sort_dt": "2026-08-21 05:42:04"
     },
     {
+      "source": "Reuters",
+      "title_en": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片",
+      "title_cn": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片",
+      "url": "https://reut.rs/4cU3gIr",
+      "pub_raw": "2026-08-20T18:46:05.304Z",
+      "pub_sort_dt": "2026-08-21 02:46:05"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "当今的中国可以向江泽民和朱镕基学习",
+      "title_cn": "当今的中国可以向江泽民和朱镕基学习",
+      "url": "https://www.ft.com/content/47c8bc3b-c1b6-4fae-add9-e55898778936?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-20T17:58:07.275Z",
+      "pub_sort_dt": "2026-08-21 01:58:07"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "世界机器人大会上值得关注的中国企业",
+      "title_cn": "世界机器人大会值得关注的中国企业",
+      "url": "https://reut.rs/4qvic5F",
+      "pub_raw": "2026-08-20T17:26:25.243Z",
+      "pub_sort_dt": "2026-08-21 01:26:25"
+    },
+    {
       "source": "Bloomberg",
-      "title_en": "Anthropic 计划将花旗集团纳入其大型IPO项目中的主要承销银行名单",
-      "title_cn": "Anthropic计划将花旗集团纳入其大型IPO项目中的主要承销银行名单",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-set-to-add-citigroup-to-top-ipo-banks-on-mega-listing",
-      "pub_raw": "2026-08-20T21:42:04.461Z",
-      "pub_sort_dt": "2026-08-21 05:42:04"
+      "title_en": "德国财政部长称中国“不遵守规则”",
+      "title_cn": "德国财政部长称中国“不遵守规则”",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/china-not-playing-by-the-rules-german-finance-minister-says",
+      "pub_raw": "2026-08-20T17:10:23.161Z",
+      "pub_sort_dt": "2026-08-21 01:10:23"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "台湾公布创纪录的国防预算，向美国和中国发出信号",
+      "title_cn": "台湾公布创纪录的国防预算，向美国和中国发出信号",
+      "url": "https://on.wsj.com/4bUmNbu",
+      "pub_raw": "2026-08-20T15:18:05.597Z",
+      "pub_sort_dt": "2026-08-20 23:18:05"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国新北极航线的机遇与挑战",
+      "title_cn": "中国新北极航线的机遇与挑战",
+      "url": "https://www.economist.com/china/2026/08/20/the-promise-and-the-pitfalls-of-chinas-new-arctic-shipping-route",
+      "pub_raw": "2026-08-20T13:10:05.773Z",
+      "pub_sort_dt": "2026-08-20 21:10:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "OKX在短暂暂停后禁止克劳德在香港使用其服务",
+      "title_cn": "OKX在短暂暂停后禁止克劳德在香港使用其服务",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/crypto-firm-okx-bars-claude-use-in-hong-kong-after-suspension",
+      "pub_raw": "2026-08-20T11:33:55.001Z",
+      "pub_sort_dt": "2026-08-20 19:33:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普推动与金正恩举行会谈之际，韩国寻求中国协助",
+      "title_cn": "特朗普推动与金正恩举行捐赠之际，韩国寻求中国援助",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/south-korea-seeks-china-s-help-as-trump-pushes-for-kim-meeting",
+      "pub_raw": "2026-08-20T10:13:55.173Z",
+      "pub_sort_dt": "2026-08-20 18:13:55"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "无论用什么标准来衡量，中国的就业市场都表现疲软",
+      "title_cn": "无论用什么标准来宽松，中国就业市场都表现疲软",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
+      "pub_raw": "2026-08-20T09:42:14.210Z",
+      "pub_sort_dt": "2026-08-20 17:42:14"
     },
     {
       "source": "Reuters",
-      "title_en": "商业团体就雇主需承担的医疗补助计划费用起诉新泽西州",
-      "title_cn": "商业团体就雇主需承担的医疗补助计划费用起诉新泽西州",
-      "url": "https://reut.rs/4hGNJiB",
-      "pub_raw": "2026-08-20T21:42:04.313Z",
-      "pub_sort_dt": "2026-08-21 05:42:04"
+      "title_en": "中国敦促韩国不要偏袒任何一方，并将朝鲜半岛局势紧张归咎于美国政策",
+      "title_cn": "中国敦促韩国不要偏袒任何一方，朝鲜半岛安全归属于美国政策",
+      "url": "https://reut.rs/4wA8tMv",
+      "pub_raw": "2026-08-20T09:42:14.007Z",
+      "pub_sort_dt": "2026-08-20 17:42:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普转向经济战，将中国作为目标",
+      "title_cn": "特朗普转向经济战，将中国作为目标",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
+      "pub_raw": "2026-08-20T09:26:10.887Z",
+      "pub_sort_dt": "2026-08-20 17:26:10"
     },
     {
       "source": "Reuters",
-      "title_en": "据当地媒体报道，巴基斯坦前总理伊姆兰·汗正从监狱前往医院",
-      "title_cn": "据当地媒体报道，巴基斯坦前总理伊姆兰·汗正从监狱前往医院",
-      "url": "https://reut.rs/4c3qOKJ",
-      "pub_raw": "2026-08-20T21:26:20.475Z",
-      "pub_sort_dt": "2026-08-21 05:26:20"
+      "title_en": "独家：美国将一名被中国扣押的美国公民认定为遭非法拘留",
+      "title_cn": "独家：美国将一名被中国扣押的美国公民认定为遭非法拘留",
+      "url": "https://reut.rs/4bVlBEO",
+      "pub_raw": "2026-08-20T09:26:10.729Z",
+      "pub_sort_dt": "2026-08-20 17:26:10"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "在中国科技热潮中，上海版纳斯达克的表现超越了香港 - Financial Times",
+      "title_cn": "在中国科技热潮中，上海版纳斯达克的表现超越了香港 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPZGowMWk5N2xTT3VQa3ZHcXplOFZoSTZiaXM5a0UwelFKQUNpRGpMdTB4dzkwcExvWVAtR1hGR0RtZXJRN0VmbXRYOGNpUEpvbHVNZnJwSW5KNkNFSnJyVlVTTWh4Si1UajFOb3VfQUtzbU1NSkJSbUo4bU45OGR4S0RtSlU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T02:18:57.000Z",
+      "pub_sort_dt": "2026-08-21 10:18:57"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "香港“天安门守夜”活动组织者被裁定犯有煽动颠覆罪 - CNN",
+      "title_cn": "香港“天安门守夜”活动组织者被认定犯有撬动创新罪 - CNN",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxORDA5bFgyVnFreWhUeGRJcjQweEx5b3BxNUhfYWdsbDdJWkZZcDIxVGh6ZDc0cGRnOHc5cnZTeFh6M0pCSlVzbVZBWHQ4Q3A3M2FjZ3ZPWUZfejNnd3hpM1FlWEktVjFESElJbVJWb0FNd3pkWm85MC1RQXZMSkVOSE9pR2E3TE03RTJrNjVn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T02:09:00.000Z",
+      "pub_sort_dt": "2026-08-21 10:09:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国和印度尼西亚两国外长将于周五举行会晤，商讨安全与经济问题 - Reuters",
+      "title_cn": "中国和汉语词典外长将于周五召开会议，商讨安全与经济问题 - 路透中文网",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxPYS1vaHdfWG55NkRDMU1xRU1DYnB4MV94eElsODBWaF95c0VoZGxHUlB5dEk2N2w1Qkt3U3JhbThRUDdpM1ZCM05GWWtqQmhBU1VNaFMtNloxbklpUEUtV1NDcllNN0hmVUhSc00zcDJiT0JaWkRjV0VsemRVelNLWVExWGxLejExNHZ3LURtOUVsTmxaeEV4c0lleDBaNDdJLTBwQjdvaGZnNE5SUkRoNjFJSUtodDIwbHc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T23:03:45.000Z",
+      "pub_sort_dt": "2026-08-21 07:03:45"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国最受欢迎的人形机器人的美国经销商在美国禁令后调整了业务方向 - Ars Technica",
       "title_cn": "中国的人形机器人的美国经销商在美国最受欢迎后调整了业务方向 - Ars Technica",
       "url": "https://news.google.com/read/CBMitAFBVV95cUxOSjBhZDFLcW9qSjVGTjJMTVA2TVlBSUVYTjlHLUNncUxJMDdSRGsydnNQamJ1bmhiY09ReDJQOThfNDFueFJNRi1OSnNLODBkUVF6YUluV1dRWHpkSEJCZnA3LXZ0dVBKV0FPcTJoX3M4aVhuVmZfVHNZWW80SHFDS3I1VEVQbFAxTndiT3lxV1pQdXFEQUMtUE15anppRzJyX0gzeHYySU1sOEh6Q0h0MGJjR3k?hl=en-US&gl=US&ceid=US%3Aen",
@@ -280,11 +304,27 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "中国针对中亚的“SilkParasite”间谍行动利用人工智能辅助的恶意软件 - The Record from Recorded Future News",
+      "title_cn": "中国针对中亚的“丝绸寄生虫”间谍行动利用人工智能辅助的恶意软件 - 未来新闻记录",
+      "url": "https://news.google.com/read/CBMiakFVX3lxTFBNWmc4QnhnTXpnNG8yVkNrUGxaQzhQWkppcFRrMERGZmFpdml1bUJaanlMY2dYOUhRV3dqSHBkelFLM3prOFZITGxQQldOUU5yTElKd0FSNGt3TmplZ0poMWV1WUpXc3d6ZXc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T19:49:03.000Z",
+      "pub_sort_dt": "2026-08-21 03:49:03"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "随着美国在北极的利益日益增加，其在北极的权力博弈为其头号对手提供了与俄罗斯合作的新契机 - Fox News",
-      "title_cn": "随着美国在北极的利益日益增加，其在北极的权力博弈为其头号对手提供了与俄罗斯合作的新契机 - Fox News",
+      "title_cn": "随着美国在北极的利益日益增加，其在北极的权力博弈显然为头号对手提供了与俄罗斯合作的新契机 - 福克斯新闻",
       "url": "https://news.google.com/read/CBMipwFBVV95cUxNNmtUZFNHbUpEQmpmZVpiOElzY3N1ZjRJdkpsc3IyV3R4SGZhbW1jVXk4UHJJT05VVzFzWFhvM21CVk5weEJOWDJhcDVWeGJLTHVqT042LVVleTlITnc5QXlzZmdCZHluWGdoOVdmRVJBTGNPNS1GOHZBNWZVcVREWWZVclhudTFRSUlhd2t4WkUzUDN4aV9LSGVTU3VFNllZTFFEem5TUdIBrAFBVV95cUxQMUtEVFNGejFyNEhUQXJLQTlPMkQyN2xUWEJQa05rdi1oekFNeGN4WVRDS1FURDBObi1CTXQ3cEJGRGhzeVB4THdwOTJCUWh0QVJnV0RFaGVHRjJ2MEtWX002aTd2eEI1MVdhcmhELTROb2JVMERQSlgweDd3RkRTcjBhcE8tRlFxNnpxUk5GeTdZLUcwblZHUkFPVDduQnBvWFdPUzBOUkg3YnMz?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-20T18:22:17.000Z",
       "pub_sort_dt": "2026-08-21 02:22:17"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "为何全球针对中国稀土主导地位的对冲举措均告失败 - The Diplomat – Asia",
+      "title_cn": "为何全球针对中国稀土主导地位的对冲举措均告失败 - 外交官 – 亚洲",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxQV1FVSV9JNm1oU2tNVEdULVpvRmR0VHlxWmZJYkNhZU9jdkcxNGhzMldGZGhyRHVXSkxneGw0bVZoSFVqZmR0TXFROEpXaS15b0s5UFUyV3RjaWhWZGhUTXhseTNHVWtNZF9XdC0ybGdYMTFzeXp1N1JRci11OWUxUUlFOGRHZjNHQWg5WEVrTUpybTlxRHhMUzlzbHY3NmpZSFNQWFlDS0NJOHIz?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T17:34:55.000Z",
+      "pub_sort_dt": "2026-08-21 01:34:55"
     },
     {
       "source": "China Buzzing",
@@ -295,76 +335,28 @@
       "pub_sort_dt": "2026-08-21 01:34:02"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "独家：美国称中国对被扣押的美国学者的待遇“显著恶化” - The Hill",
-      "title_cn": "独家：美国称中国对被扣押的美国学者的待遇“显着恶化” - The Hill",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxPdko2VWE3QXdVVmFJcGZqY1d4QTR2dUYxb3pna3JmeElBWEVNX0FmNWJmeEhKUllRRXo1N0YtRlJSVUFvcjNWNG1YSkg1TS1PVVV3YnBXZE5wTlJrRFV6LXo0Z3dLQ1hoRVdjaDBiWjQtTlcybHFqVmY2cHNrOC01S0NBNG9sWlBfTWc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T15:03:00.000Z",
-      "pub_sort_dt": "2026-08-20 23:03:00"
+      "source": "Financial Times",
+      "title_en": "在中国科技热潮中，上海版纳斯达克的表现超越了香港",
+      "title_cn": "在中国科技热潮中，上海版纳斯达克的表现超越了香港",
+      "url": "https://www.ft.com/content/83500ff8-31df-4031-9edd-8b3de5aff3e3?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-21T03:17:36.195Z",
+      "pub_sort_dt": "2026-08-21 11:17:36"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "瑞士达成贸易协议，使其能够免关税进入中国市场 - Bloomberg.com",
-      "title_cn": "瑞士达成贸易协议，关税能够免关税进入中国市场 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxOdEoyYk9LR09HVGxiV1RJMEcwRFFHQ282d3NaR215OHVhTUhUV25KRnpLQlBOMzIydFRnQkdQWl8wQWpyV0lRR3R2N09vbkV6Q1RDMTRYcVFzSGs0d1c3UlZ6RE0xckw4eEgtcXF3NURRZ0tHWlpMWUl6dDdza2duYnlEQm1BYmpzOTRXb3h6T2ZHMXpyWVlqamFHbWJWQXAyLVpHd0FyN08ydmdoazh3NVNta08wQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T15:00:00.000Z",
-      "pub_sort_dt": "2026-08-20 23:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国国务院称一名在中国的美国公民遭到不当拘留 - The New York Times",
-      "title_cn": "美国国务院称一名在中国的美国公民遭到不当拘留 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxNQk9YaU5oanZGV0h6SmFnVWNsZzNzMWtvWlJVdldIUUhxbVJPWWR5a2RrQkV0VUJvR2NHSXNuYmw4TUFiVU5VWk5JakVFcmhkbUxubjIwTlVOZzJ6RjRvR2IzN2lqYjZXVWFQUzJDRmNnazZickN4ZXdBUTlLMU9tNUw3emU5U3FCOVdDV0tB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T14:59:45.000Z",
-      "pub_sort_dt": "2026-08-20 22:59:45"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国和俄罗斯如何可能阻碍特朗普孤立伊朗的计划 - Al Jazeera",
-      "title_cn": "中国和俄罗斯如何可能阻止特朗普孤立伊朗的计划 - 半岛电视台",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxQMTRxWkRqR01oeTkzV3V6alJCNGVsU0VkZjlBbHE2NTFBWkRqbVFvR1ZvbWcxaEE4aW1MeW4yMFBEVTdJc1JRTGdMWU8yUGo1Z3hXRXRkak12aG4zU0JTVzBuYmt4ZWdObkdOYWZxNGd5RjVoQUNyaTZQeEYzOXhNWVhtWW4ybVRNaUExb2NBRmpRT3dORkJpRWNGWVVhb1dGSTF1QWl30gGrAUFVX3lxTFA2czB2U3FiVVpHdHFYdWFEQXZvM3drYXNaZ1FqUDg1VThrUHE0YlQtQnlkbXVDZjRYMENIUGVTNHVZV0pueXBUY0RVbGpKNEVQZ0FEWU5PYVE5akllWUowd3F0N0xHYmxMVXRiM2ZaWmRyVTFaRENSS21PWVpvdGROQlZaZUh0NklzSGhyalJHbUJiX3d3a0FmSUZaME55RGpaT1JvVVEzbHNsNA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T14:58:08.000Z",
-      "pub_sort_dt": "2026-08-20 22:58:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美联社记者克里斯托弗·博丁——一位坚持不懈地记录中国崛起历程的记者——去世，享年55岁 - AP News",
-      "title_cn": "美联社记者克里斯托弗·博丁——一位坚持不懈地记录中国崛起历程的记者——去世，享年55岁 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMiwAFBVV95cUxQSlU2WkZpY3RCQnBVWDc2R3ZIY3BrVGxhdTBWbjRwbkZzek4yaFlwLTUzTXZBamdkbmFGUV9qVWtKbkNNczVhWm9kRUlHMGw0QlRLOW9feWdTaGZXZElNeDNiaHktN0Q2NmViY19oT2tNMHMyd2VyckNONlYxby1zYzNXQ2l3X2hlenp6MlZwXzBoMnYwd05paTVmMkl6enR3aGVoUnNQSzlUWUZwTjNneDBYNUg5TDJGYXktTVoycVg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T13:37:00.000Z",
-      "pub_sort_dt": "2026-08-20 21:37:00"
+      "source": "Bloomberg",
+      "title_en": "香港以颠覆罪判处天安门守夜活动组织者有罪",
+      "title_cn": "香港以犯罪依据天安门守夜活动组织者有罪",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/hong-kong-convicts-tiananmen-vigil-leaders-of-subversion",
+      "pub_raw": "2026-08-21T02:29:22.740Z",
+      "pub_sort_dt": "2026-08-21 10:29:22"
     },
     {
       "source": "Reuters",
-      "title_en": "美国一名青少年在庭审前撤销了对Meta、谷歌和Snap的诉讼",
-      "title_cn": "美国一名青少年在法庭审理前撤销了对 Meta、谷歌和 Snap 的诉讼",
-      "url": "https://reut.rs/4gFcgU9",
-      "pub_raw": "2026-08-21T00:53:59.937Z",
-      "pub_sort_dt": "2026-08-21 08:53:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受美国国债回购计划提振，金价有望实现连续第三周上涨",
-      "title_cn": "受美国国债回购计划提振，金价有望实现连续第三周上涨",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/gold-set-for-third-weekly-gain-on-us-treasury-buyback-plans",
-      "pub_raw": "2026-08-21T00:38:03.118Z",
-      "pub_sort_dt": "2026-08-21 08:38:03"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "韩国早期出口数据延续涨势，为加息提供支撑",
-      "title_cn": "韩国早期出口数据上涨势头，为加息提供支撑",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/korea-early-exports-extend-gains-supporting-case-for-more-hikes",
-      "pub_raw": "2026-08-21T00:38:03.115Z",
-      "pub_sort_dt": "2026-08-21 08:38:03"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "根据巴基斯坦法院的命令，伊姆兰·汗从监狱被送往医院",
-      "title_cn": "根据巴基斯坦法院的命令，伊姆兰·汗从监狱被送往医院",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/imran-khan-moved-to-hospital-from-jail-on-pakistan-court-order",
-      "pub_raw": "2026-08-21T00:06:00.174Z",
-      "pub_sort_dt": "2026-08-21 08:06:00"
+      "title_en": "中国在太阳系最寒冷的地方之一搜寻月球冰",
+      "title_cn": "中国在太阳系最寒冷的地方之一搜寻月球冰",
+      "url": "https://reut.rs/4gIJiTl",
+      "pub_raw": "2026-08-21T01:57:22.127Z",
+      "pub_sort_dt": "2026-08-21 09:57:22"
     },
     {
       "source": "Reuters",
@@ -375,17 +367,9 @@
       "pub_sort_dt": "2026-08-21 08:05:59"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "据称，SpaceX和AST正寻求收购价值60亿美元的频谱",
-      "title_cn": "呼吁，SpaceX和AST正寻求收购价值60亿美元的价值",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/spacex-ast-said-seeking-to-buy-spectrum-valued-at-6-billion",
-      "pub_raw": "2026-08-20T23:34:08.419Z",
-      "pub_sort_dt": "2026-08-21 07:34:08"
-    },
-    {
       "source": "Reuters",
       "title_en": "中国和印度尼西亚两国外长将于周五举行会晤，商讨安全与经济问题",
-      "title_cn": "中国和印尼外交部长将于周五召开会议，商讨安全与经济问题",
+      "title_cn": "中国和汉语词典外长将于周五召开会议，商讨安全与经济问题",
       "url": "https://reut.rs/4gGuRiC",
       "pub_raw": "2026-08-20T23:34:08.263Z",
       "pub_sort_dt": "2026-08-21 07:34:08"
@@ -393,7 +377,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港书店因销售“煽动性”书籍面临严打",
-      "title_cn": "香港书店因销售“煽动性”书籍面临严打",
+      "title_cn": "香港书店因销售“甩动性”书籍面临严打",
       "url": "https://www.bloomberg.com/news/articles/2026-08-20/hong-kong-bookstores-face-crackdown-over-seditious-books",
       "pub_raw": "2026-08-20T23:18:06.329Z",
       "pub_sort_dt": "2026-08-21 07:18:06"
@@ -407,62 +391,6 @@
       "pub_sort_dt": "2026-08-21 07:18:06"
     },
     {
-      "source": "Reuters",
-      "title_en": "前谷歌工程师因窃取人工智能机密被定罪一案的部分判决被推翻",
-      "title_cn": "前谷歌工程师因窃取人工智能机密被定罪一案的部分奖励被改为",
-      "url": "https://reut.rs/4bZPwLU",
-      "pub_raw": "2026-08-20T23:18:06.192Z",
-      "pub_sort_dt": "2026-08-21 07:18:06"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "罗斯百货（Ross Stores）因折扣服装需求旺盛，再次上调年度利润预期",
-      "title_cn": "罗斯百货（Ross Stores）因服装需求旺盛，再次上调年度利润预期",
-      "url": "https://reut.rs/4zvx4om",
-      "pub_raw": "2026-08-20T23:02:19.885Z",
-      "pub_sort_dt": "2026-08-21 07:02:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "房地产市场低迷中的赢家与输家、澳大利亚房地产、Anthropic的IPO计划",
-      "title_cn": "房地产市场低迷中的赢家与输家、澳大利亚房地产、Anthropic的IPO计划",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/housing-slump-winners-and-losers-australia-housing-anthropic-ipo-plan",
-      "pub_raw": "2026-08-20T22:46:22.551Z",
-      "pub_sort_dt": "2026-08-21 06:46:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "巴西启动人工智能超级计算机计划，将项目分配给中、美企业",
-      "title_cn": "巴西启动人工智能计算机超级计划，将项目分配给中、美企业",
-      "url": "https://reut.rs/4godFNw",
-      "pub_raw": "2026-08-20T22:46:22.403Z",
-      "pub_sort_dt": "2026-08-21 06:46:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "突尼斯反对派在民众对经济状况不满的背景下抗议总统",
-      "title_cn": "突尼斯反对派在民众对经济形势不满的背景下抗议总统",
-      "url": "https://reut.rs/3TY7Zm5",
-      "pub_raw": "2026-08-20T22:46:22.399Z",
-      "pub_sort_dt": "2026-08-21 06:46:22"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "纽约市雷暴天气威胁晚高峰出行，导致航班停飞",
-      "title_cn": "纽约市雷暴天气威胁晚高峰出行，导致航班停飞",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/nyc-thunderstorms-threaten-evening-commute-disrupt-air-travel",
-      "pub_raw": "2026-08-20T22:14:03.583Z",
-      "pub_sort_dt": "2026-08-21 06:14:03"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "FirstFT：斯科特·贝森特为提振美国市场采取的干预措施未能安抚投资者",
-      "title_cn": "《金融时报》：斯科特·贝森特为提振美国市场采取的措施未能安抚投资者",
-      "url": "https://www.ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-20T21:58:03.640Z",
-      "pub_sort_dt": "2026-08-21 05:58:03"
-    },
-    {
       "source": "Bloomberg",
       "title_en": "中国将取消对瑞士商品的大部分关税",
       "title_cn": "中国将取消对瑞士商品的大部分关税",
@@ -471,28 +399,100 @@
       "pub_sort_dt": "2026-08-21 05:42:04"
     },
     {
+      "source": "Reuters",
+      "title_en": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片",
+      "title_cn": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片",
+      "url": "https://reut.rs/4cU3gIr",
+      "pub_raw": "2026-08-20T18:46:05.304Z",
+      "pub_sort_dt": "2026-08-21 02:46:05"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "当今的中国可以向江泽民和朱镕基学习",
+      "title_cn": "当今的中国可以向江泽民和朱镕基学习",
+      "url": "https://www.ft.com/content/47c8bc3b-c1b6-4fae-add9-e55898778936?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-20T17:58:07.275Z",
+      "pub_sort_dt": "2026-08-21 01:58:07"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "世界机器人大会上值得关注的中国企业",
+      "title_cn": "世界机器人大会值得关注的中国企业",
+      "url": "https://reut.rs/4qvic5F",
+      "pub_raw": "2026-08-20T17:26:25.243Z",
+      "pub_sort_dt": "2026-08-21 01:26:25"
+    },
+    {
       "source": "Bloomberg",
-      "title_en": "Anthropic 计划将花旗集团纳入其大型IPO项目中的主要承销银行名单",
-      "title_cn": "Anthropic计划将花旗集团纳入其大型IPO项目中的主要承销银行名单",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-set-to-add-citigroup-to-top-ipo-banks-on-mega-listing",
-      "pub_raw": "2026-08-20T21:42:04.461Z",
-      "pub_sort_dt": "2026-08-21 05:42:04"
+      "title_en": "德国财政部长称中国“不遵守规则”",
+      "title_cn": "德国财政部长称中国“不遵守规则”",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/china-not-playing-by-the-rules-german-finance-minister-says",
+      "pub_raw": "2026-08-20T17:10:23.161Z",
+      "pub_sort_dt": "2026-08-21 01:10:23"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "台湾公布创纪录的国防预算，向美国和中国发出信号",
+      "title_cn": "台湾公布创纪录的国防预算，向美国和中国发出信号",
+      "url": "https://on.wsj.com/4bUmNbu",
+      "pub_raw": "2026-08-20T15:18:05.597Z",
+      "pub_sort_dt": "2026-08-20 23:18:05"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国新北极航线的机遇与挑战",
+      "title_cn": "中国新北极航线的机遇与挑战",
+      "url": "https://www.economist.com/china/2026/08/20/the-promise-and-the-pitfalls-of-chinas-new-arctic-shipping-route",
+      "pub_raw": "2026-08-20T13:10:05.773Z",
+      "pub_sort_dt": "2026-08-20 21:10:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "OKX在短暂暂停后禁止克劳德在香港使用其服务",
+      "title_cn": "OKX在短暂暂停后禁止克劳德在香港使用其服务",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/crypto-firm-okx-bars-claude-use-in-hong-kong-after-suspension",
+      "pub_raw": "2026-08-20T11:33:55.001Z",
+      "pub_sort_dt": "2026-08-20 19:33:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普推动与金正恩举行会谈之际，韩国寻求中国协助",
+      "title_cn": "特朗普推动与金正恩举行捐赠之际，韩国寻求中国援助",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/south-korea-seeks-china-s-help-as-trump-pushes-for-kim-meeting",
+      "pub_raw": "2026-08-20T10:13:55.173Z",
+      "pub_sort_dt": "2026-08-20 18:13:55"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "无论用什么标准来衡量，中国的就业市场都表现疲软",
+      "title_cn": "无论用什么标准来宽松，中国就业市场都表现疲软",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
+      "pub_raw": "2026-08-20T09:42:14.210Z",
+      "pub_sort_dt": "2026-08-20 17:42:14"
     },
     {
       "source": "Reuters",
-      "title_en": "商业团体就雇主需承担的医疗补助计划费用起诉新泽西州",
-      "title_cn": "商业团体就雇主需承担的医疗补助计划费用起诉新泽西州",
-      "url": "https://reut.rs/4hGNJiB",
-      "pub_raw": "2026-08-20T21:42:04.313Z",
-      "pub_sort_dt": "2026-08-21 05:42:04"
+      "title_en": "中国敦促韩国不要偏袒任何一方，并将朝鲜半岛局势紧张归咎于美国政策",
+      "title_cn": "中国敦促韩国不要偏袒任何一方，朝鲜半岛安全归属于美国政策",
+      "url": "https://reut.rs/4wA8tMv",
+      "pub_raw": "2026-08-20T09:42:14.007Z",
+      "pub_sort_dt": "2026-08-20 17:42:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普转向经济战，将中国作为目标",
+      "title_cn": "特朗普转向经济战，将中国作为目标",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
+      "pub_raw": "2026-08-20T09:26:10.887Z",
+      "pub_sort_dt": "2026-08-20 17:26:10"
     },
     {
       "source": "Reuters",
-      "title_en": "据当地媒体报道，巴基斯坦前总理伊姆兰·汗正从监狱前往医院",
-      "title_cn": "据当地媒体报道，巴基斯坦前总理伊姆兰·汗正从监狱前往医院",
-      "url": "https://reut.rs/4c3qOKJ",
-      "pub_raw": "2026-08-20T21:26:20.475Z",
-      "pub_sort_dt": "2026-08-21 05:26:20"
+      "title_en": "独家：美国将一名被中国扣押的美国公民认定为遭非法拘留",
+      "title_cn": "独家：美国将一名被中国扣押的美国公民认定为遭非法拘留",
+      "url": "https://reut.rs/4bVlBEO",
+      "pub_raw": "2026-08-20T09:26:10.729Z",
+      "pub_sort_dt": "2026-08-20 17:26:10"
     }
   ]
 }
