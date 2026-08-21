@@ -1,19 +1,43 @@
 {
-  "update_cst": "2026-08-21 06:01:06 北京时间",
+  "update_cst": "2026-08-21 09:01:08 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 1,
-    "Bloomberg": 15,
-    "Financial Times": 0,
+    "The Economist": 0,
+    "Bloomberg": 10,
+    "Financial Times": 1,
     "Wall Street Journal": 0,
-    "Reuters": 4
+    "Reuters": 9
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国最受欢迎的人形机器人的美国经销商在美国禁令后调整了业务方向 - Ars Technica",
+      "title_cn": "中国的人形机器人的美国经销商在美国最受欢迎后调整了业务方向 - Ars Technica",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxOSjBhZDFLcW9qSjVGTjJMTVA2TVlBSUVYTjlHLUNncUxJMDdSRGsydnNQamJ1bmhiY09ReDJQOThfNDFueFJNRi1OSnNLODBkUVF6YUluV1dRWHpkSEJCZnA3LXZ0dVBKV0FPcTJoX3M4aVhuVmZfVHNZWW80SHFDS3I1VEVQbFAxTndiT3lxV1pQdXFEQUMtUE15anppRzJyX0gzeHYySU1sOEh6Q0h0MGJjR3k?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T22:00:11.000Z",
+      "pub_sort_dt": "2026-08-21 06:00:11"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国“嫦娥七号”月球探测器将于本周末发射，这将是历史上规模最大的登月任务 - Space",
+      "title_cn": "中国“嫦娥七号”月球将于本周末发射，这将是历史上规模最大的登月任务 - 航天",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxOZWdTUjc4Q094QjhWa2lwN1o5RW1oUHJqODJOamU3RkdKNWM4YzNFZmFOd1N0SXd1OXVSb1JPQnJ4UzRJTzY5V1NpOUVYNzZqQVQ0dnBzdGRzY2JfcnByYjF1LS0zRkNRZHU0RHZILUt6NlBDUEdvNWduSEY4RDRnNEtKc0pGRE9ad01LbVVZQkxKN0RQb1FwUE0xTGdENGJCbDdrbmFYMkFTZWEzN3FzSzNXOS05dXdlekstN1c5UmgwdXZmV3dEc09ZNUh6amJk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T21:00:00.000Z",
+      "pub_sort_dt": "2026-08-21 05:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国正在启动一项月球探测任务，旨在寻找水冰。这与美国宇航局（NASA）以往开展的任何任务都截然不同。 - The Conversation",
+      "title_cn": "中国正在启动一项月球探测任务，旨在寻找宇水冰。这与美国航海局（NASA）以往开展的任何任务都不同。 - The Conversation",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxNeGtoS2RnQ2JfMEFCYUhxaG5fNkNEQlJJdTJEbXdmbUZ5UGRzTHZVZEI4eXI4OUx1R3E2RVZENHBFYy1LTTMzcDF0SGM4aUxPemx0eTBxbXdXdC1YVW5XMlBiejNLNF9yNzhvMFZvMjU0NmdWeWdhYmhtNnR6ZlZySlp3S3NCc2lHZ25GTkxXNlVXM01WQmVaejh1VngtNWRnVHNNOHRaLTh1UDlEUWVGMXdmV1REdEZpbGJIVA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T20:07:35.000Z",
+      "pub_sort_dt": "2026-08-21 04:07:35"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "随着美国在北极的利益日益增加，其在北极的权力博弈为其头号对手提供了与俄罗斯合作的新契机 - Fox News",
-      "title_cn": "随着美国在北极的利益日益增加，其在北极的权力博弈显然为头号对手提供了与俄罗斯合作的新契机 - 福克斯新闻",
+      "title_cn": "随着美国在北极的利益日益增加，其在北极的权力博弈为其头号对手提供了与俄罗斯合作的新契机 - Fox News",
       "url": "https://news.google.com/read/CBMipwFBVV95cUxNNmtUZFNHbUpEQmpmZVpiOElzY3N1ZjRJdkpsc3IyV3R4SGZhbW1jVXk4UHJJT05VVzFzWFhvM21CVk5weEJOWDJhcDVWeGJLTHVqT042LVVleTlITnc5QXlzZmdCZHluWGdoOVdmRVJBTGNPNS1GOHZBNWZVcVREWWZVclhudTFRSUlhd2t4WkUzUDN4aV9LSGVTU3VFNllZTFFEem5TUdIBrAFBVV95cUxQMUtEVFNGejFyNEhUQXJLQTlPMkQyN2xUWEJQa05rdi1oekFNeGN4WVRDS1FURDBObi1CTXQ3cEJGRGhzeVB4THdwOTJCUWh0QVJnV0RFaGVHRjJ2MEtWX002aTd2eEI1MVdhcmhELTROb2JVMERQSlgweDd3RkRTcjBhcE8tRlFxNnpxUk5GeTdZLUcwblZHUkFPVDduQnBvWFdPUzBOUkg3YnMz?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-20T18:22:17.000Z",
       "pub_sort_dt": "2026-08-21 02:22:17"
@@ -65,33 +89,137 @@
       "url": "https://news.google.com/read/CBMiwAFBVV95cUxQSlU2WkZpY3RCQnBVWDc2R3ZIY3BrVGxhdTBWbjRwbkZzek4yaFlwLTUzTXZBamdkbmFGUV9qVWtKbkNNczVhWm9kRUlHMGw0QlRLOW9feWdTaGZXZElNeDNiaHktN0Q2NmViY19oT2tNMHMyd2VyckNONlYxby1zYzNXQ2l3X2hlenp6MlZwXzBoMnYwd05paTVmMkl6enR3aGVoUnNQSzlUWUZwTjNneDBYNUg5TDJGYXktTVoycVg?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-20T13:37:00.000Z",
       "pub_sort_dt": "2026-08-20 21:37:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "巴拿马是中国基础设施战中的一场战役 - The Hill",
-      "title_cn": "巴拿马是中国基础设施战中的一场战役——山丘",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxPY2UyUmJHbnNMRE4tWGJNWmZ1dFZZQTJWQ09pcHNoaDhpaUFXUnhvM1RGdDJvaEZUNWRZNWdrSG5HamY2SkRQX2pHUGdaazhoekgycFdjV1NuUTNLT0ZweFdleDNuS2UydkRkUmJqa2lFb1pLN21tYTBoTTZMMEM5V0V6eDR0VF92WGfSAY8BQVVfeXFMUHJkblFyV1dHTFYyNHpkaV9MTmxSaUdzbjRlRzlFRE04MFo5aE1lcTN5N0E1TVQtVjZSV1hkbThNam9EOWMxdml3M0lrT3EwYWpadWZqQmhtY0ZRQXpjbElMQXVtaE9qdm9UNnJTZjJWYnNZelpiSkhlcjZ3TE9MVzhUVDlXZHoyLTJPUnN2bXM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T13:30:00.000Z",
-      "pub_sort_dt": "2026-08-20 21:30:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国将遭中国扣留的美国公民Min Zin认定为遭非法拘留 - CBS News",
-      "title_cn": "美国将遭中国扣留的美国公民Min Zin认定为遭非法拘留 - 哥伦比亚广播公司新闻",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxQbUh6R2MtXzZlLV9NaTY5dHFrbDB1SXFpbHUwYWNKbk9Ya3NrcldGY3NaWlZSSEgxNnVZazY2UTZhOHl0bW9ZQklueWY0SHlLa2pYWFByX2FIRVJsUkloWlhqelcxR1JFRzlDTVdkNktUT1gzOW5tX2hlcjUzaGhJb090Z1ZmNVdZamE0d0RLOHJnV1NjemNiWkZOaXpPRnN1TGNFVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T12:39:32.000Z",
-      "pub_sort_dt": "2026-08-20 20:39:32"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "观点 中国高考报考人数的下降揭示了耐人寻味的现状 - South China Morning Post",
-      "title_cn": "观点 中国高考报考 大学生的崛起揭示了耐人寻味的现状 - 南华早报",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxOa1dlNEhEUklLazNpblMxNHNVNmdFYlFwTmY5RGZWRHNxNk5SU3hLeldQdVl5d2E5Z05vVzFMeFBBNUNfcHVqODJ0bzdCcUdfUU15SGFzdWpXLUhNYkotcDdacnpGQWVWNU1LeU8wd0ZteWVxMTROMUM0TV9pbmx5QjdvSHR5NlQ3SHBKUHFtRW9vX0E4NERHYlo3Zy1IRkF6dzRzU2NGTUZPTGZ3a3czRWktb9IBswFBVV95cUxQcy1sX0tCNklWZjhHYkp0NlRqTGMzRmstd05sTUV2ZDh2OEZudlRpcmIycDVWZnZWbkhzRGpOOXVWczBHZWNVUy1xQjZVVHhKZF9GaFlfdk11WkZsZ0Q5UkhTTldpRVRvQldYQmxQNWdvSktOMEZ6M2k3WEtfcGw3QVZjMXZSTHNCaHlHRXd6SHExaUx0Nnh3cFd5cV9XdXo4NTFQUlVLNlBubTB2MktCX0lndw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T12:30:06.000Z",
-      "pub_sort_dt": "2026-08-20 20:30:06"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "美国一名青少年在庭审前撤销了对Meta、谷歌和Snap的诉讼",
+      "title_cn": "美国一名青少年在法庭审理前撤销了对 Meta、谷歌和 Snap 的诉讼",
+      "url": "https://reut.rs/4gFcgU9",
+      "pub_raw": "2026-08-21T00:53:59.937Z",
+      "pub_sort_dt": "2026-08-21 08:53:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受美国国债回购计划提振，金价有望实现连续第三周上涨",
+      "title_cn": "受美国国债回购计划提振，金价有望实现连续第三周上涨",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/gold-set-for-third-weekly-gain-on-us-treasury-buyback-plans",
+      "pub_raw": "2026-08-21T00:38:03.118Z",
+      "pub_sort_dt": "2026-08-21 08:38:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "韩国早期出口数据延续涨势，为加息提供支撑",
+      "title_cn": "韩国早期出口数据上涨势头，为加息提供支撑",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/korea-early-exports-extend-gains-supporting-case-for-more-hikes",
+      "pub_raw": "2026-08-21T00:38:03.115Z",
+      "pub_sort_dt": "2026-08-21 08:38:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "根据巴基斯坦法院的命令，伊姆兰·汗从监狱被送往医院",
+      "title_cn": "根据巴基斯坦法院的命令，伊姆兰·汗从监狱被送往医院",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/imran-khan-moved-to-hospital-from-jail-on-pakistan-court-order",
+      "pub_raw": "2026-08-21T00:06:00.174Z",
+      "pub_sort_dt": "2026-08-21 08:06:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Breakingviews——AIA对中国市场的乐观态度与香港的整体情绪形成鲜明对比",
+      "title_cn": "突发观点——友邦保险对中国市场的乐观态度与香港的整体情绪突破对比",
+      "url": "https://reut.rs/4zvNJbC",
+      "pub_raw": "2026-08-21T00:05:59.177Z",
+      "pub_sort_dt": "2026-08-21 08:05:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "据称，SpaceX和AST正寻求收购价值60亿美元的频谱",
+      "title_cn": "呼吁，SpaceX和AST正寻求收购价值60亿美元的价值",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/spacex-ast-said-seeking-to-buy-spectrum-valued-at-6-billion",
+      "pub_raw": "2026-08-20T23:34:08.419Z",
+      "pub_sort_dt": "2026-08-21 07:34:08"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国和印度尼西亚两国外长将于周五举行会晤，商讨安全与经济问题",
+      "title_cn": "中国和印尼外交部长将于周五召开会议，商讨安全与经济问题",
+      "url": "https://reut.rs/4gGuRiC",
+      "pub_raw": "2026-08-20T23:34:08.263Z",
+      "pub_sort_dt": "2026-08-21 07:34:08"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港书店因销售“煽动性”书籍面临严打",
+      "title_cn": "香港书店因销售“煽动性”书籍面临严打",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/hong-kong-bookstores-face-crackdown-over-seditious-books",
+      "pub_raw": "2026-08-20T23:18:06.329Z",
+      "pub_sort_dt": "2026-08-21 07:18:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "华鸿、建滔、紫金黄金或将纳入香港股指",
+      "title_cn": "华鸿、建滔、紫金黄金或将纳入香港股指",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/hua-hong-kingboard-zijin-gold-may-join-hong-kong-s-stock-index",
+      "pub_raw": "2026-08-20T23:18:06.326Z",
+      "pub_sort_dt": "2026-08-21 07:18:06"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "前谷歌工程师因窃取人工智能机密被定罪一案的部分判决被推翻",
+      "title_cn": "前谷歌工程师因窃取人工智能机密被定罪一案的部分奖励被改为",
+      "url": "https://reut.rs/4bZPwLU",
+      "pub_raw": "2026-08-20T23:18:06.192Z",
+      "pub_sort_dt": "2026-08-21 07:18:06"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "罗斯百货（Ross Stores）因折扣服装需求旺盛，再次上调年度利润预期",
+      "title_cn": "罗斯百货（Ross Stores）因服装需求旺盛，再次上调年度利润预期",
+      "url": "https://reut.rs/4zvx4om",
+      "pub_raw": "2026-08-20T23:02:19.885Z",
+      "pub_sort_dt": "2026-08-21 07:02:19"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "房地产市场低迷中的赢家与输家、澳大利亚房地产、Anthropic的IPO计划",
+      "title_cn": "房地产市场低迷中的赢家与输家、澳大利亚房地产、Anthropic的IPO计划",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/housing-slump-winners-and-losers-australia-housing-anthropic-ipo-plan",
+      "pub_raw": "2026-08-20T22:46:22.551Z",
+      "pub_sort_dt": "2026-08-21 06:46:22"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "巴西启动人工智能超级计算机计划，将项目分配给中、美企业",
+      "title_cn": "巴西启动人工智能计算机超级计划，将项目分配给中、美企业",
+      "url": "https://reut.rs/4godFNw",
+      "pub_raw": "2026-08-20T22:46:22.403Z",
+      "pub_sort_dt": "2026-08-21 06:46:22"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "突尼斯反对派在民众对经济状况不满的背景下抗议总统",
+      "title_cn": "突尼斯反对派在民众对经济形势不满的背景下抗议总统",
+      "url": "https://reut.rs/3TY7Zm5",
+      "pub_raw": "2026-08-20T22:46:22.399Z",
+      "pub_sort_dt": "2026-08-21 06:46:22"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "纽约市雷暴天气威胁晚高峰出行，导致航班停飞",
+      "title_cn": "纽约市雷暴天气威胁晚高峰出行，导致航班停飞",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/nyc-thunderstorms-threaten-evening-commute-disrupt-air-travel",
+      "pub_raw": "2026-08-20T22:14:03.583Z",
+      "pub_sort_dt": "2026-08-21 06:14:03"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "FirstFT：斯科特·贝森特为提振美国市场采取的干预措施未能安抚投资者",
+      "title_cn": "《金融时报》：斯科特·贝森特为提振美国市场采取的措施未能安抚投资者",
+      "url": "https://www.ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-20T21:58:03.640Z",
+      "pub_sort_dt": "2026-08-21 05:58:03"
+    },
     {
       "source": "Bloomberg",
       "title_en": "中国将取消对瑞士商品的大部分关税",
@@ -123,141 +251,37 @@
       "url": "https://reut.rs/4c3qOKJ",
       "pub_raw": "2026-08-20T21:26:20.475Z",
       "pub_sort_dt": "2026-08-21 05:26:20"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "财政部长斯科特·贝森特与美联储主席凯文·沃什意见相左",
-      "title_cn": "车队长斯科特·贝森特与美联储主席凯文·沃什相左",
-      "url": "https://www.bloomberg.com/opinion/newsletters/2026-08-20/treasury-secretary-scott-bessent-is-at-odds-with-fed-chair-kevin-warsh",
-      "pub_raw": "2026-08-20T21:10:32.709Z",
-      "pub_sort_dt": "2026-08-21 05:10:32"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "ChatGPT 现可控制 iMessage，这可能引发苹果方面的隐私担忧",
-      "title_cn": "ChatGPT 现在可控制 iMessage，这可能引发苹果方面的隐私担忧",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/chatgpt-can-now-control-imessage-potentially-raising-apple-privacy-concerns",
-      "pub_raw": "2026-08-20T21:10:32.694Z",
-      "pub_sort_dt": "2026-08-21 05:10:32"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "尤瓦尔·诺亚·哈拉里谈人工智能带来的经济与政治风险",
-      "title_cn": "尤瓦尔·诺亚·哈拉里谈人工智能带来的经济与政治风险",
-      "url": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
-      "pub_raw": "2026-08-20T20:53:55.152Z",
-      "pub_sort_dt": "2026-08-21 04:53:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Vylor在最新一轮分拆前的债券发行中筹集了11亿美元",
-      "title_cn": "Vylor在最新一轮分拆前的债券发行中募集了11亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/vylor-offers-high-grade-debt-in-market-s-latest-pre-spinoff-deal",
-      "pub_raw": "2026-08-20T20:53:55.020Z",
-      "pub_sort_dt": "2026-08-21 04:53:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "据称，豪西姆将收购詹姆斯·哈迪部分欧洲业务",
-      "title_cn": "被告，豪西姆将收购詹姆斯·哈迪欧洲部分业务",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/holcim-said-to-acquire-part-of-james-hardie-s-european-business",
-      "pub_raw": "2026-08-20T20:38:26.999Z",
-      "pub_sort_dt": "2026-08-21 04:38:26"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "雅培将支付6.7亿美元以了结2,000起婴儿配方奶粉索赔案",
-      "title_cn": "雅培将支付 6.7 亿美元以完成 2,000 份起始配方欺骗案",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/abbott-will-pay-670-million-to-end-2-000-infant-formula-claims",
-      "pub_raw": "2026-08-20T20:38:26.995Z",
-      "pub_sort_dt": "2026-08-21 04:38:26"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "博通在最新一轮AI融资中寻求超过600亿美元的债务融资",
-      "title_cn": "博通在最新风口AI融资中寻求超过600亿美元的债务融资",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal",
-      "pub_raw": "2026-08-20T20:22:02.855Z",
-      "pub_sort_dt": "2026-08-21 04:22:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "OpenAI 和 Meta 寻求帮助以应对数据中心公关危机",
-      "title_cn": "OpenAI 和 Meta 寻求帮助解决数据中心公关危机",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/openai-meta-seek-help-to-combat-data-center-pr-problem",
-      "pub_raw": "2026-08-20T20:22:02.848Z",
-      "pub_sort_dt": "2026-08-21 04:22:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "BlackSun为新设立的体育与媒体基金筹集10亿美元",
-      "title_cn": "BlackSun为新设立的体育与媒体基金募集10亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/blacksun-raises-1-billion-for-new-sports-and-media-fund",
-      "pub_raw": "2026-08-20T20:22:02.720Z",
-      "pub_sort_dt": "2026-08-21 04:22:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "德克萨斯证券交易所准备迎接PWRX——一只专注于人工智能和电力需求的ETF",
-      "title_cn": "德克萨斯证券交易所准备迎接PWRX——重点关注人工智能和电力需求的ETF",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/texas-stock-exchange-gets-ready-to-welcome-pwrx-etf-focused-on-ai-power-demand",
-      "pub_raw": "2026-08-20T19:50:05.583Z",
-      "pub_sort_dt": "2026-08-21 03:50:05"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "律师就用于训练人工智能的语音数据展开对峙",
-      "title_cn": "律师就用于训练人工智能的语音数据展开对峙",
-      "url": "https://reut.rs/3SGoSRP",
-      "pub_raw": "2026-08-20T19:50:05.429Z",
-      "pub_sort_dt": "2026-08-21 03:50:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Anthropic预计将追平或超越SpaceX创下的IPO规模纪录",
-      "title_cn": "Anthropic预计将追平或超越SpaceX精简的IPO规模纪录",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
-      "pub_raw": "2026-08-20T19:34:01.281Z",
-      "pub_sort_dt": "2026-08-21 03:34:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "纽约市雷暴天气将影响晚高峰通勤及航空出行",
-      "title_cn": "纽约市雷暴天气将影响晚高峰通勤及航空出行",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/nyc-thunderstorms-threaten-evening-commute-disrupt-air-travel",
-      "pub_raw": "2026-08-20T19:34:01.263Z",
-      "pub_sort_dt": "2026-08-21 03:34:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "反对“人工智能”的论点",
-      "title_cn": "反对“人工智能”的论点",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/the-case-against-ai",
-      "pub_raw": "2026-08-20T19:18:02.807Z",
-      "pub_sort_dt": "2026-08-21 03:18:02"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片",
-      "title_cn": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片",
-      "url": "https://reut.rs/4cU3gIr",
-      "pub_raw": "2026-08-20T18:46:05.304Z",
-      "pub_sort_dt": "2026-08-21 02:46:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Anthropic 计划调整其高级人工智能的数据保留政策",
-      "title_cn": "Anthropic计划调整其高级人工智能的数据保留政策",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
-      "pub_raw": "2026-08-20T18:14:19.258Z",
-      "pub_sort_dt": "2026-08-21 02:14:19"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国最受欢迎的人形机器人的美国经销商在美国禁令后调整了业务方向 - Ars Technica",
+      "title_cn": "中国的人形机器人的美国经销商在美国最受欢迎后调整了业务方向 - Ars Technica",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxOSjBhZDFLcW9qSjVGTjJMTVA2TVlBSUVYTjlHLUNncUxJMDdSRGsydnNQamJ1bmhiY09ReDJQOThfNDFueFJNRi1OSnNLODBkUVF6YUluV1dRWHpkSEJCZnA3LXZ0dVBKV0FPcTJoX3M4aVhuVmZfVHNZWW80SHFDS3I1VEVQbFAxTndiT3lxV1pQdXFEQUMtUE15anppRzJyX0gzeHYySU1sOEh6Q0h0MGJjR3k?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T22:00:11.000Z",
+      "pub_sort_dt": "2026-08-21 06:00:11"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国“嫦娥七号”月球探测器将于本周末发射，这将是历史上规模最大的登月任务 - Space",
+      "title_cn": "中国“嫦娥七号”月球将于本周末发射，这将是历史上规模最大的登月任务 - 航天",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxOZWdTUjc4Q094QjhWa2lwN1o5RW1oUHJqODJOamU3RkdKNWM4YzNFZmFOd1N0SXd1OXVSb1JPQnJ4UzRJTzY5V1NpOUVYNzZqQVQ0dnBzdGRzY2JfcnByYjF1LS0zRkNRZHU0RHZILUt6NlBDUEdvNWduSEY4RDRnNEtKc0pGRE9ad01LbVVZQkxKN0RQb1FwUE0xTGdENGJCbDdrbmFYMkFTZWEzN3FzSzNXOS05dXdlekstN1c5UmgwdXZmV3dEc09ZNUh6amJk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T21:00:00.000Z",
+      "pub_sort_dt": "2026-08-21 05:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国正在启动一项月球探测任务，旨在寻找水冰。这与美国宇航局（NASA）以往开展的任何任务都截然不同。 - The Conversation",
+      "title_cn": "中国正在启动一项月球探测任务，旨在寻找宇水冰。这与美国航海局（NASA）以往开展的任何任务都不同。 - The Conversation",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxNeGtoS2RnQ2JfMEFCYUhxaG5fNkNEQlJJdTJEbXdmbUZ5UGRzTHZVZEI4eXI4OUx1R3E2RVZENHBFYy1LTTMzcDF0SGM4aUxPemx0eTBxbXdXdC1YVW5XMlBiejNLNF9yNzhvMFZvMjU0NmdWeWdhYmhtNnR6ZlZySlp3S3NCc2lHZ25GTkxXNlVXM01WQmVaejh1VngtNWRnVHNNOHRaLTh1UDlEUWVGMXdmV1REdEZpbGJIVA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-20T20:07:35.000Z",
+      "pub_sort_dt": "2026-08-21 04:07:35"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "随着美国在北极的利益日益增加，其在北极的权力博弈为其头号对手提供了与俄罗斯合作的新契机 - Fox News",
-      "title_cn": "随着美国在北极的利益日益增加，其在北极的权力博弈显然为头号对手提供了与俄罗斯合作的新契机 - 福克斯新闻",
+      "title_cn": "随着美国在北极的利益日益增加，其在北极的权力博弈为其头号对手提供了与俄罗斯合作的新契机 - Fox News",
       "url": "https://news.google.com/read/CBMipwFBVV95cUxNNmtUZFNHbUpEQmpmZVpiOElzY3N1ZjRJdkpsc3IyV3R4SGZhbW1jVXk4UHJJT05VVzFzWFhvM21CVk5weEJOWDJhcDVWeGJLTHVqT042LVVleTlITnc5QXlzZmdCZHluWGdoOVdmRVJBTGNPNS1GOHZBNWZVcVREWWZVclhudTFRSUlhd2t4WkUzUDN4aV9LSGVTU3VFNllZTFFEem5TUdIBrAFBVV95cUxQMUtEVFNGejFyNEhUQXJLQTlPMkQyN2xUWEJQa05rdi1oekFNeGN4WVRDS1FURDBObi1CTXQ3cEJGRGhzeVB4THdwOTJCUWh0QVJnV0RFaGVHRjJ2MEtWX002aTd2eEI1MVdhcmhELTROb2JVMERQSlgweDd3RkRTcjBhcE8tRlFxNnpxUk5GeTdZLUcwblZHUkFPVDduQnBvWFdPUzBOUkg3YnMz?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-20T18:22:17.000Z",
       "pub_sort_dt": "2026-08-21 02:22:17"
@@ -311,28 +335,132 @@
       "pub_sort_dt": "2026-08-20 21:37:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "巴拿马是中国基础设施战中的一场战役 - The Hill",
-      "title_cn": "巴拿马是中国基础设施战中的一场战役——山丘",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxPY2UyUmJHbnNMRE4tWGJNWmZ1dFZZQTJWQ09pcHNoaDhpaUFXUnhvM1RGdDJvaEZUNWRZNWdrSG5HamY2SkRQX2pHUGdaazhoekgycFdjV1NuUTNLT0ZweFdleDNuS2UydkRkUmJqa2lFb1pLN21tYTBoTTZMMEM5V0V6eDR0VF92WGfSAY8BQVVfeXFMUHJkblFyV1dHTFYyNHpkaV9MTmxSaUdzbjRlRzlFRE04MFo5aE1lcTN5N0E1TVQtVjZSV1hkbThNam9EOWMxdml3M0lrT3EwYWpadWZqQmhtY0ZRQXpjbElMQXVtaE9qdm9UNnJTZjJWYnNZelpiSkhlcjZ3TE9MVzhUVDlXZHoyLTJPUnN2bXM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T13:30:00.000Z",
-      "pub_sort_dt": "2026-08-20 21:30:00"
+      "source": "Reuters",
+      "title_en": "美国一名青少年在庭审前撤销了对Meta、谷歌和Snap的诉讼",
+      "title_cn": "美国一名青少年在法庭审理前撤销了对 Meta、谷歌和 Snap 的诉讼",
+      "url": "https://reut.rs/4gFcgU9",
+      "pub_raw": "2026-08-21T00:53:59.937Z",
+      "pub_sort_dt": "2026-08-21 08:53:59"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "美国将遭中国扣留的美国公民Min Zin认定为遭非法拘留 - CBS News",
-      "title_cn": "美国将遭中国扣留的美国公民Min Zin认定为遭非法拘留 - 哥伦比亚广播公司新闻",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxQbUh6R2MtXzZlLV9NaTY5dHFrbDB1SXFpbHUwYWNKbk9Ya3NrcldGY3NaWlZSSEgxNnVZazY2UTZhOHl0bW9ZQklueWY0SHlLa2pYWFByX2FIRVJsUkloWlhqelcxR1JFRzlDTVdkNktUT1gzOW5tX2hlcjUzaGhJb090Z1ZmNVdZamE0d0RLOHJnV1NjemNiWkZOaXpPRnN1TGNFVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T12:39:32.000Z",
-      "pub_sort_dt": "2026-08-20 20:39:32"
+      "source": "Bloomberg",
+      "title_en": "受美国国债回购计划提振，金价有望实现连续第三周上涨",
+      "title_cn": "受美国国债回购计划提振，金价有望实现连续第三周上涨",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/gold-set-for-third-weekly-gain-on-us-treasury-buyback-plans",
+      "pub_raw": "2026-08-21T00:38:03.118Z",
+      "pub_sort_dt": "2026-08-21 08:38:03"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "观点 中国高考报考人数的下降揭示了耐人寻味的现状 - South China Morning Post",
-      "title_cn": "观点 中国高考报考 大学生的崛起揭示了耐人寻味的现状 - 南华早报",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxOa1dlNEhEUklLazNpblMxNHNVNmdFYlFwTmY5RGZWRHNxNk5SU3hLeldQdVl5d2E5Z05vVzFMeFBBNUNfcHVqODJ0bzdCcUdfUU15SGFzdWpXLUhNYkotcDdacnpGQWVWNU1LeU8wd0ZteWVxMTROMUM0TV9pbmx5QjdvSHR5NlQ3SHBKUHFtRW9vX0E4NERHYlo3Zy1IRkF6dzRzU2NGTUZPTGZ3a3czRWktb9IBswFBVV95cUxQcy1sX0tCNklWZjhHYkp0NlRqTGMzRmstd05sTUV2ZDh2OEZudlRpcmIycDVWZnZWbkhzRGpOOXVWczBHZWNVUy1xQjZVVHhKZF9GaFlfdk11WkZsZ0Q5UkhTTldpRVRvQldYQmxQNWdvSktOMEZ6M2k3WEtfcGw3QVZjMXZSTHNCaHlHRXd6SHExaUx0Nnh3cFd5cV9XdXo4NTFQUlVLNlBubTB2MktCX0lndw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T12:30:06.000Z",
-      "pub_sort_dt": "2026-08-20 20:30:06"
+      "source": "Bloomberg",
+      "title_en": "韩国早期出口数据延续涨势，为加息提供支撑",
+      "title_cn": "韩国早期出口数据上涨势头，为加息提供支撑",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/korea-early-exports-extend-gains-supporting-case-for-more-hikes",
+      "pub_raw": "2026-08-21T00:38:03.115Z",
+      "pub_sort_dt": "2026-08-21 08:38:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "根据巴基斯坦法院的命令，伊姆兰·汗从监狱被送往医院",
+      "title_cn": "根据巴基斯坦法院的命令，伊姆兰·汗从监狱被送往医院",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/imran-khan-moved-to-hospital-from-jail-on-pakistan-court-order",
+      "pub_raw": "2026-08-21T00:06:00.174Z",
+      "pub_sort_dt": "2026-08-21 08:06:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Breakingviews——AIA对中国市场的乐观态度与香港的整体情绪形成鲜明对比",
+      "title_cn": "突发观点——友邦保险对中国市场的乐观态度与香港的整体情绪突破对比",
+      "url": "https://reut.rs/4zvNJbC",
+      "pub_raw": "2026-08-21T00:05:59.177Z",
+      "pub_sort_dt": "2026-08-21 08:05:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "据称，SpaceX和AST正寻求收购价值60亿美元的频谱",
+      "title_cn": "呼吁，SpaceX和AST正寻求收购价值60亿美元的价值",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/spacex-ast-said-seeking-to-buy-spectrum-valued-at-6-billion",
+      "pub_raw": "2026-08-20T23:34:08.419Z",
+      "pub_sort_dt": "2026-08-21 07:34:08"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国和印度尼西亚两国外长将于周五举行会晤，商讨安全与经济问题",
+      "title_cn": "中国和印尼外交部长将于周五召开会议，商讨安全与经济问题",
+      "url": "https://reut.rs/4gGuRiC",
+      "pub_raw": "2026-08-20T23:34:08.263Z",
+      "pub_sort_dt": "2026-08-21 07:34:08"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港书店因销售“煽动性”书籍面临严打",
+      "title_cn": "香港书店因销售“煽动性”书籍面临严打",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/hong-kong-bookstores-face-crackdown-over-seditious-books",
+      "pub_raw": "2026-08-20T23:18:06.329Z",
+      "pub_sort_dt": "2026-08-21 07:18:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "华鸿、建滔、紫金黄金或将纳入香港股指",
+      "title_cn": "华鸿、建滔、紫金黄金或将纳入香港股指",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/hua-hong-kingboard-zijin-gold-may-join-hong-kong-s-stock-index",
+      "pub_raw": "2026-08-20T23:18:06.326Z",
+      "pub_sort_dt": "2026-08-21 07:18:06"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "前谷歌工程师因窃取人工智能机密被定罪一案的部分判决被推翻",
+      "title_cn": "前谷歌工程师因窃取人工智能机密被定罪一案的部分奖励被改为",
+      "url": "https://reut.rs/4bZPwLU",
+      "pub_raw": "2026-08-20T23:18:06.192Z",
+      "pub_sort_dt": "2026-08-21 07:18:06"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "罗斯百货（Ross Stores）因折扣服装需求旺盛，再次上调年度利润预期",
+      "title_cn": "罗斯百货（Ross Stores）因服装需求旺盛，再次上调年度利润预期",
+      "url": "https://reut.rs/4zvx4om",
+      "pub_raw": "2026-08-20T23:02:19.885Z",
+      "pub_sort_dt": "2026-08-21 07:02:19"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "房地产市场低迷中的赢家与输家、澳大利亚房地产、Anthropic的IPO计划",
+      "title_cn": "房地产市场低迷中的赢家与输家、澳大利亚房地产、Anthropic的IPO计划",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/housing-slump-winners-and-losers-australia-housing-anthropic-ipo-plan",
+      "pub_raw": "2026-08-20T22:46:22.551Z",
+      "pub_sort_dt": "2026-08-21 06:46:22"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "巴西启动人工智能超级计算机计划，将项目分配给中、美企业",
+      "title_cn": "巴西启动人工智能计算机超级计划，将项目分配给中、美企业",
+      "url": "https://reut.rs/4godFNw",
+      "pub_raw": "2026-08-20T22:46:22.403Z",
+      "pub_sort_dt": "2026-08-21 06:46:22"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "突尼斯反对派在民众对经济状况不满的背景下抗议总统",
+      "title_cn": "突尼斯反对派在民众对经济形势不满的背景下抗议总统",
+      "url": "https://reut.rs/3TY7Zm5",
+      "pub_raw": "2026-08-20T22:46:22.399Z",
+      "pub_sort_dt": "2026-08-21 06:46:22"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "纽约市雷暴天气威胁晚高峰出行，导致航班停飞",
+      "title_cn": "纽约市雷暴天气威胁晚高峰出行，导致航班停飞",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/nyc-thunderstorms-threaten-evening-commute-disrupt-air-travel",
+      "pub_raw": "2026-08-20T22:14:03.583Z",
+      "pub_sort_dt": "2026-08-21 06:14:03"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "FirstFT：斯科特·贝森特为提振美国市场采取的干预措施未能安抚投资者",
+      "title_cn": "《金融时报》：斯科特·贝森特为提振美国市场采取的措施未能安抚投资者",
+      "url": "https://www.ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-20T21:58:03.640Z",
+      "pub_sort_dt": "2026-08-21 05:58:03"
     },
     {
       "source": "Bloomberg",
@@ -365,134 +493,6 @@
       "url": "https://reut.rs/4c3qOKJ",
       "pub_raw": "2026-08-20T21:26:20.475Z",
       "pub_sort_dt": "2026-08-21 05:26:20"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "财政部长斯科特·贝森特与美联储主席凯文·沃什意见相左",
-      "title_cn": "车队长斯科特·贝森特与美联储主席凯文·沃什相左",
-      "url": "https://www.bloomberg.com/opinion/newsletters/2026-08-20/treasury-secretary-scott-bessent-is-at-odds-with-fed-chair-kevin-warsh",
-      "pub_raw": "2026-08-20T21:10:32.709Z",
-      "pub_sort_dt": "2026-08-21 05:10:32"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "ChatGPT 现可控制 iMessage，这可能引发苹果方面的隐私担忧",
-      "title_cn": "ChatGPT 现在可控制 iMessage，这可能引发苹果方面的隐私担忧",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/chatgpt-can-now-control-imessage-potentially-raising-apple-privacy-concerns",
-      "pub_raw": "2026-08-20T21:10:32.694Z",
-      "pub_sort_dt": "2026-08-21 05:10:32"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "尤瓦尔·诺亚·哈拉里谈人工智能带来的经济与政治风险",
-      "title_cn": "尤瓦尔·诺亚·哈拉里谈人工智能带来的经济与政治风险",
-      "url": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
-      "pub_raw": "2026-08-20T20:53:55.152Z",
-      "pub_sort_dt": "2026-08-21 04:53:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Vylor在最新一轮分拆前的债券发行中筹集了11亿美元",
-      "title_cn": "Vylor在最新一轮分拆前的债券发行中募集了11亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/vylor-offers-high-grade-debt-in-market-s-latest-pre-spinoff-deal",
-      "pub_raw": "2026-08-20T20:53:55.020Z",
-      "pub_sort_dt": "2026-08-21 04:53:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "据称，豪西姆将收购詹姆斯·哈迪部分欧洲业务",
-      "title_cn": "被告，豪西姆将收购詹姆斯·哈迪欧洲部分业务",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/holcim-said-to-acquire-part-of-james-hardie-s-european-business",
-      "pub_raw": "2026-08-20T20:38:26.999Z",
-      "pub_sort_dt": "2026-08-21 04:38:26"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "雅培将支付6.7亿美元以了结2,000起婴儿配方奶粉索赔案",
-      "title_cn": "雅培将支付 6.7 亿美元以完成 2,000 份起始配方欺骗案",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/abbott-will-pay-670-million-to-end-2-000-infant-formula-claims",
-      "pub_raw": "2026-08-20T20:38:26.995Z",
-      "pub_sort_dt": "2026-08-21 04:38:26"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "博通在最新一轮AI融资中寻求超过600亿美元的债务融资",
-      "title_cn": "博通在最新风口AI融资中寻求超过600亿美元的债务融资",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal",
-      "pub_raw": "2026-08-20T20:22:02.855Z",
-      "pub_sort_dt": "2026-08-21 04:22:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "OpenAI 和 Meta 寻求帮助以应对数据中心公关危机",
-      "title_cn": "OpenAI 和 Meta 寻求帮助解决数据中心公关危机",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/openai-meta-seek-help-to-combat-data-center-pr-problem",
-      "pub_raw": "2026-08-20T20:22:02.848Z",
-      "pub_sort_dt": "2026-08-21 04:22:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "BlackSun为新设立的体育与媒体基金筹集10亿美元",
-      "title_cn": "BlackSun为新设立的体育与媒体基金募集10亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/blacksun-raises-1-billion-for-new-sports-and-media-fund",
-      "pub_raw": "2026-08-20T20:22:02.720Z",
-      "pub_sort_dt": "2026-08-21 04:22:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "德克萨斯证券交易所准备迎接PWRX——一只专注于人工智能和电力需求的ETF",
-      "title_cn": "德克萨斯证券交易所准备迎接PWRX——重点关注人工智能和电力需求的ETF",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/texas-stock-exchange-gets-ready-to-welcome-pwrx-etf-focused-on-ai-power-demand",
-      "pub_raw": "2026-08-20T19:50:05.583Z",
-      "pub_sort_dt": "2026-08-21 03:50:05"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "律师就用于训练人工智能的语音数据展开对峙",
-      "title_cn": "律师就用于训练人工智能的语音数据展开对峙",
-      "url": "https://reut.rs/3SGoSRP",
-      "pub_raw": "2026-08-20T19:50:05.429Z",
-      "pub_sort_dt": "2026-08-21 03:50:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Anthropic预计将追平或超越SpaceX创下的IPO规模纪录",
-      "title_cn": "Anthropic预计将追平或超越SpaceX精简的IPO规模纪录",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
-      "pub_raw": "2026-08-20T19:34:01.281Z",
-      "pub_sort_dt": "2026-08-21 03:34:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "纽约市雷暴天气将影响晚高峰通勤及航空出行",
-      "title_cn": "纽约市雷暴天气将影响晚高峰通勤及航空出行",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/nyc-thunderstorms-threaten-evening-commute-disrupt-air-travel",
-      "pub_raw": "2026-08-20T19:34:01.263Z",
-      "pub_sort_dt": "2026-08-21 03:34:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "反对“人工智能”的论点",
-      "title_cn": "反对“人工智能”的论点",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/the-case-against-ai",
-      "pub_raw": "2026-08-20T19:18:02.807Z",
-      "pub_sort_dt": "2026-08-21 03:18:02"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片",
-      "title_cn": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片",
-      "url": "https://reut.rs/4cU3gIr",
-      "pub_raw": "2026-08-20T18:46:05.304Z",
-      "pub_sort_dt": "2026-08-21 02:46:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Anthropic 计划调整其高级人工智能的数据保留政策",
-      "title_cn": "Anthropic计划调整其高级人工智能的数据保留政策",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
-      "pub_raw": "2026-08-20T18:14:19.258Z",
-      "pub_sort_dt": "2026-08-21 02:14:19"
     }
   ]
 }
