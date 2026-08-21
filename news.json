@@ -1,17 +1,33 @@
 {
-  "update_cst": "2026-08-21 12:00:57 北京时间",
+  "update_cst": "2026-08-21 15:00:57 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 2,
-    "Bloomberg": 8,
-    "Financial Times": 2,
-    "Wall Street Journal": 1,
+    "The Economist": 0,
+    "Bloomberg": 10,
+    "Financial Times": 3,
+    "Wall Street Journal": 0,
     "Reuters": 7
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "香港“天安门广场”活动人士在国家安全案中被判有罪 - BBC",
+      "title_cn": "香港“天安门广场”活动人士在国家安全案中被判有罪 - BBC",
+      "url": "https://news.google.com/read/CBMiWkFVX3lxTE0wQTVYNHFydWprakYyQXJNeWVHejVJeWN3eE0tT0VxOHE4SXFBVUVuakRUU1hON2JJeTF3dkp6T3RjcFd1TmRueUl4TTBpZ3Q0eHJwM2hjUGtOZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T05:47:32.000Z",
+      "pub_sort_dt": "2026-08-21 13:47:32"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国警告盟友和中国加入对伊朗的经济施压行动 - France 24",
+      "title_cn": "美国警告阿富汗和中国加入对伊朗的经济施压行动 - France 24",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxPVWttd3NDQ1ptMDA0cmEtTWRBclBqb2hibFFPLUhYNnJONDM3VmFvWmhZYVk4cVB1WVNPZUdOTjdYemI2eU1HUXd6YlJYQlg0emZyYTExQkpLaGNYaXdmbEtCaUx5MXdYSDBpRUVaak1GM1ZoNXJzMVFwVlk3RERualRZbXZZNklOSk5SNHg5dks4UlJ6UzRRUWt4WUhieGhzblRUb1FDUHBUX1ZwN0x3b2g4YkM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T02:38:09.000Z",
+      "pub_sort_dt": "2026-08-21 10:38:09"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "在中国科技热潮中，上海版纳斯达克的表现超越了香港 - Financial Times",
       "title_cn": "在中国科技热潮中，上海版纳斯达克的表现超越了香港 - 金融时报",
       "url": "https://news.google.com/read/CBMihAFBVV95cUxPZGowMWk5N2xTT3VQa3ZHcXplOFZoSTZiaXM5a0UwelFKQUNpRGpMdTB4dzkwcExvWVAtR1hGR0RtZXJRN0VmbXRYOGNpUEpvbHVNZnJwSW5KNkNFSnJyVlVTTWh4Si1UajFOb3VfQUtzbU1NSkJSbUo4bU45OGR4S0RtSlU?hl=en-US&gl=US&ceid=US%3Aen",
@@ -25,6 +41,14 @@
       "url": "https://news.google.com/read/CBMijgFBVV95cUxORDA5bFgyVnFreWhUeGRJcjQweEx5b3BxNUhfYWdsbDdJWkZZcDIxVGh6ZDc0cGRnOHc5cnZTeFh6M0pCSlVzbVZBWHQ4Q3A3M2FjZ3ZPWUZfejNnd3hpM1FlWEktVjFESElJbVJWb0FNd3pkWm85MC1RQXZMSkVOSE9pR2E3TE03RTJrNjVn?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T02:09:00.000Z",
       "pub_sort_dt": "2026-08-21 10:09:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "世界简讯：中国就伊朗问题对美国予以回击；美国国债收益率攀升 - The Economist",
+      "title_cn": "世界简讯：中国就伊朗问题对美国包容性回击；美国国债攀升 - 经济学人",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxNSmVjclRnWTdlNU1sU0c4V0tESjdPZnJITC1Fd0VQNk83MnNhYk5PYkJpQ2dXcTl4Q3FBeGZsTE5SNHJQNmZQSU5TbmdpLVpCMWxlMG5BbVd1c0d6SFlFY3hSajN3dmY1OXNmQTlJa1VzVk8xN2ZHTDl1Y0F1Y0FxZUZpeWdHM283QlVkaDlHNzlIeDF5VVBZ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T00:00:00.000Z",
+      "pub_sort_dt": "2026-08-21 08:00:00"
     },
     {
       "source": "China Buzzing",
@@ -65,33 +89,73 @@
       "url": "https://news.google.com/read/CBMiakFVX3lxTFBNWmc4QnhnTXpnNG8yVkNrUGxaQzhQWkppcFRrMERGZmFpdml1bUJaanlMY2dYOUhRV3dqSHBkelFLM3prOFZITGxQQldOUU5yTElKd0FSNGt3TmplZ0poMWV1WUpXc3d6ZXc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-20T19:49:03.000Z",
       "pub_sort_dt": "2026-08-21 03:49:03"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着美国在北极的利益日益增加，其在北极的权力博弈为其头号对手提供了与俄罗斯合作的新契机 - Fox News",
-      "title_cn": "随着美国在北极的利益日益增加，其在北极的权力博弈显然为头号对手提供了与俄罗斯合作的新契机 - 福克斯新闻",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxNNmtUZFNHbUpEQmpmZVpiOElzY3N1ZjRJdkpsc3IyV3R4SGZhbW1jVXk4UHJJT05VVzFzWFhvM21CVk5weEJOWDJhcDVWeGJLTHVqT042LVVleTlITnc5QXlzZmdCZHluWGdoOVdmRVJBTGNPNS1GOHZBNWZVcVREWWZVclhudTFRSUlhd2t4WkUzUDN4aV9LSGVTU3VFNllZTFFEem5TUdIBrAFBVV95cUxQMUtEVFNGejFyNEhUQXJLQTlPMkQyN2xUWEJQa05rdi1oekFNeGN4WVRDS1FURDBObi1CTXQ3cEJGRGhzeVB4THdwOTJCUWh0QVJnV0RFaGVHRjJ2MEtWX002aTd2eEI1MVdhcmhELTROb2JVMERQSlgweDd3RkRTcjBhcE8tRlFxNnpxUk5GeTdZLUcwblZHUkFPVDduQnBvWFdPUzBOUkg3YnMz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T18:22:17.000Z",
-      "pub_sort_dt": "2026-08-21 02:22:17"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "为何全球针对中国稀土主导地位的对冲举措均告失败 - The Diplomat – Asia",
-      "title_cn": "为何全球针对中国稀土主导地位的对冲举措均告失败 - 外交官 – 亚洲",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxQV1FVSV9JNm1oU2tNVEdULVpvRmR0VHlxWmZJYkNhZU9jdkcxNGhzMldGZGhyRHVXSkxneGw0bVZoSFVqZmR0TXFROEpXaS15b0s5UFUyV3RjaWhWZGhUTXhseTNHVWtNZF9XdC0ybGdYMTFzeXp1N1JRci11OWUxUUlFOGRHZjNHQWg5WEVrTUpybTlxRHhMUzlzbHY3NmpZSFNQWFlDS0NJOHIz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T17:34:55.000Z",
-      "pub_sort_dt": "2026-08-21 01:34:55"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片 - Reuters",
-      "title_cn": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片 - 路透社",
-      "url": "https://news.google.com/read/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T17:34:02.000Z",
-      "pub_sort_dt": "2026-08-21 01:34:02"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普计划扼杀伊朗经济，或招致中国反制",
+      "title_cn": "特朗普计划扼杀伊朗经济，或招致中国反制",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/trump-risks-china-blowback-with-plan-to-isolate-iran-s-economy",
+      "pub_raw": "2026-08-21T06:13:21.486Z",
+      "pub_sort_dt": "2026-08-21 14:13:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国的高端24小时水疗中心为健康旅游者提供鱼子酱与放松体验",
+      "title_cn": "中国的旅游24小时水疗中心为健康游客提供鱼子酱与放松体验",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-s-luxury-24-hour-spas-offer-caviar-and-relaxation-to-wellness-travelers",
+      "pub_raw": "2026-08-21T05:57:13.209Z",
+      "pub_sort_dt": "2026-08-21 13:57:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "DayOne计划在赴美IPO前申请贷款以资助香港数据中心建设",
+      "title_cn": "DayOne计划赴美IPO前申请贷款以资助香港数据中心建设",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/dayone-seeks-loan-to-fund-hong-kong-data-center-ahead-of-us-ipo",
+      "pub_raw": "2026-08-21T05:57:13.199Z",
+      "pub_sort_dt": "2026-08-21 13:57:13"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "广州一家中国法院受理了恒大旗下某公司的破产案",
+      "title_cn": "广州某中国法院受理了恒大某公司破产案",
+      "url": "https://reut.rs/4xebWBN",
+      "pub_raw": "2026-08-21T05:57:13.044Z",
+      "pub_sort_dt": "2026-08-21 13:57:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在经济增长放缓之际，中国计划出台新的财政支持政策",
+      "title_cn": "在经济增长预期之际，中国计划出台新的财政支持政策",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-plans-new-fiscal-support-policies-this-year-amid-slowdown",
+      "pub_raw": "2026-08-21T05:41:19.439Z",
+      "pub_sort_dt": "2026-08-21 13:41:19"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "香港法院裁定天安门纪念团体犯有煽动颠覆罪",
+      "title_cn": "香港法院认定天安门纪念团体犯有煽动转移罪",
+      "url": "https://reut.rs/4gpVNSy",
+      "pub_raw": "2026-08-21T05:25:30.627Z",
+      "pub_sort_dt": "2026-08-21 13:25:30"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "亚洲日益增长的财富为保险公司提供了应对中国政策调整的保障",
+      "title_cn": "亚洲迫切增长的财富保险公司为应对中国调整政策的保障提供了依据",
+      "url": "https://www.ft.com/content/e24984a3-b87b-40a0-a6db-5b5f028ed712?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-21T05:25:30.499Z",
+      "pub_sort_dt": "2026-08-21 13:25:30"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "为何中国决策者将对糟糕的经济数据保持冷静",
+      "title_cn": "为什么中国决策者出现了严重的经济数据保持紧张状态",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/why-china-s-policymakers-will-ride-out-poor-economic-data",
+      "pub_raw": "2026-08-21T04:21:18.859Z",
+      "pub_sort_dt": "2026-08-21 12:21:18"
+    },
     {
       "source": "Financial Times",
       "title_en": "在中国科技热潮中，上海版纳斯达克的表现超越了香港",
@@ -187,75 +251,27 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-20/china-not-playing-by-the-rules-german-finance-minister-says",
       "pub_raw": "2026-08-20T17:10:23.161Z",
       "pub_sort_dt": "2026-08-21 01:10:23"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "台湾公布创纪录的国防预算，向美国和中国发出信号",
-      "title_cn": "台湾公布创纪录的国防预算，向美国和中国发出信号",
-      "url": "https://on.wsj.com/4bUmNbu",
-      "pub_raw": "2026-08-20T15:18:05.597Z",
-      "pub_sort_dt": "2026-08-20 23:18:05"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国新北极航线的机遇与挑战",
-      "title_cn": "中国新北极航线的机遇与挑战",
-      "url": "https://www.economist.com/china/2026/08/20/the-promise-and-the-pitfalls-of-chinas-new-arctic-shipping-route",
-      "pub_raw": "2026-08-20T13:10:05.773Z",
-      "pub_sort_dt": "2026-08-20 21:10:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "OKX在短暂暂停后禁止克劳德在香港使用其服务",
-      "title_cn": "OKX在短暂暂停后禁止克劳德在香港使用其服务",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/crypto-firm-okx-bars-claude-use-in-hong-kong-after-suspension",
-      "pub_raw": "2026-08-20T11:33:55.001Z",
-      "pub_sort_dt": "2026-08-20 19:33:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普推动与金正恩举行会谈之际，韩国寻求中国协助",
-      "title_cn": "特朗普推动与金正恩举行捐赠之际，韩国寻求中国援助",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/south-korea-seeks-china-s-help-as-trump-pushes-for-kim-meeting",
-      "pub_raw": "2026-08-20T10:13:55.173Z",
-      "pub_sort_dt": "2026-08-20 18:13:55"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "无论用什么标准来衡量，中国的就业市场都表现疲软",
-      "title_cn": "无论用什么标准来宽松，中国就业市场都表现疲软",
-      "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
-      "pub_raw": "2026-08-20T09:42:14.210Z",
-      "pub_sort_dt": "2026-08-20 17:42:14"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国敦促韩国不要偏袒任何一方，并将朝鲜半岛局势紧张归咎于美国政策",
-      "title_cn": "中国敦促韩国不要偏袒任何一方，朝鲜半岛安全归属于美国政策",
-      "url": "https://reut.rs/4wA8tMv",
-      "pub_raw": "2026-08-20T09:42:14.007Z",
-      "pub_sort_dt": "2026-08-20 17:42:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普转向经济战，将中国作为目标",
-      "title_cn": "特朗普转向经济战，将中国作为目标",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
-      "pub_raw": "2026-08-20T09:26:10.887Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：美国将一名被中国扣押的美国公民认定为遭非法拘留",
-      "title_cn": "独家：美国将一名被中国扣押的美国公民认定为遭非法拘留",
-      "url": "https://reut.rs/4bVlBEO",
-      "pub_raw": "2026-08-20T09:26:10.729Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "香港“天安门广场”活动人士在国家安全案中被判有罪 - BBC",
+      "title_cn": "香港“天安门广场”活动人士在国家安全案中被判有罪 - BBC",
+      "url": "https://news.google.com/read/CBMiWkFVX3lxTE0wQTVYNHFydWprakYyQXJNeWVHejVJeWN3eE0tT0VxOHE4SXFBVUVuakRUU1hON2JJeTF3dkp6T3RjcFd1TmRueUl4TTBpZ3Q0eHJwM2hjUGtOZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T05:47:32.000Z",
+      "pub_sort_dt": "2026-08-21 13:47:32"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国警告盟友和中国加入对伊朗的经济施压行动 - France 24",
+      "title_cn": "美国警告阿富汗和中国加入对伊朗的经济施压行动 - France 24",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxPVWttd3NDQ1ptMDA0cmEtTWRBclBqb2hibFFPLUhYNnJONDM3VmFvWmhZYVk4cVB1WVNPZUdOTjdYemI2eU1HUXd6YlJYQlg0emZyYTExQkpLaGNYaXdmbEtCaUx5MXdYSDBpRUVaak1GM1ZoNXJzMVFwVlk3RERualRZbXZZNklOSk5SNHg5dks4UlJ6UzRRUWt4WUhieGhzblRUb1FDUHBUX1ZwN0x3b2g4YkM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T02:38:09.000Z",
+      "pub_sort_dt": "2026-08-21 10:38:09"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "在中国科技热潮中，上海版纳斯达克的表现超越了香港 - Financial Times",
       "title_cn": "在中国科技热潮中，上海版纳斯达克的表现超越了香港 - 金融时报",
       "url": "https://news.google.com/read/CBMihAFBVV95cUxPZGowMWk5N2xTT3VQa3ZHcXplOFZoSTZiaXM5a0UwelFKQUNpRGpMdTB4dzkwcExvWVAtR1hGR0RtZXJRN0VmbXRYOGNpUEpvbHVNZnJwSW5KNkNFSnJyVlVTTWh4Si1UajFOb3VfQUtzbU1NSkJSbUo4bU45OGR4S0RtSlU?hl=en-US&gl=US&ceid=US%3Aen",
@@ -269,6 +285,14 @@
       "url": "https://news.google.com/read/CBMijgFBVV95cUxORDA5bFgyVnFreWhUeGRJcjQweEx5b3BxNUhfYWdsbDdJWkZZcDIxVGh6ZDc0cGRnOHc5cnZTeFh6M0pCSlVzbVZBWHQ4Q3A3M2FjZ3ZPWUZfejNnd3hpM1FlWEktVjFESElJbVJWb0FNd3pkWm85MC1RQXZMSkVOSE9pR2E3TE03RTJrNjVn?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T02:09:00.000Z",
       "pub_sort_dt": "2026-08-21 10:09:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "世界简讯：中国就伊朗问题对美国予以回击；美国国债收益率攀升 - The Economist",
+      "title_cn": "世界简讯：中国就伊朗问题对美国包容性回击；美国国债攀升 - 经济学人",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxNSmVjclRnWTdlNU1sU0c4V0tESjdPZnJITC1Fd0VQNk83MnNhYk5PYkJpQ2dXcTl4Q3FBeGZsTE5SNHJQNmZQSU5TbmdpLVpCMWxlMG5BbVd1c0d6SFlFY3hSajN3dmY1OXNmQTlJa1VzVk8xN2ZHTDl1Y0F1Y0FxZUZpeWdHM283QlVkaDlHNzlIeDF5VVBZ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T00:00:00.000Z",
+      "pub_sort_dt": "2026-08-21 08:00:00"
     },
     {
       "source": "China Buzzing",
@@ -311,28 +335,68 @@
       "pub_sort_dt": "2026-08-21 03:49:03"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "随着美国在北极的利益日益增加，其在北极的权力博弈为其头号对手提供了与俄罗斯合作的新契机 - Fox News",
-      "title_cn": "随着美国在北极的利益日益增加，其在北极的权力博弈显然为头号对手提供了与俄罗斯合作的新契机 - 福克斯新闻",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxNNmtUZFNHbUpEQmpmZVpiOElzY3N1ZjRJdkpsc3IyV3R4SGZhbW1jVXk4UHJJT05VVzFzWFhvM21CVk5weEJOWDJhcDVWeGJLTHVqT042LVVleTlITnc5QXlzZmdCZHluWGdoOVdmRVJBTGNPNS1GOHZBNWZVcVREWWZVclhudTFRSUlhd2t4WkUzUDN4aV9LSGVTU3VFNllZTFFEem5TUdIBrAFBVV95cUxQMUtEVFNGejFyNEhUQXJLQTlPMkQyN2xUWEJQa05rdi1oekFNeGN4WVRDS1FURDBObi1CTXQ3cEJGRGhzeVB4THdwOTJCUWh0QVJnV0RFaGVHRjJ2MEtWX002aTd2eEI1MVdhcmhELTROb2JVMERQSlgweDd3RkRTcjBhcE8tRlFxNnpxUk5GeTdZLUcwblZHUkFPVDduQnBvWFdPUzBOUkg3YnMz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T18:22:17.000Z",
-      "pub_sort_dt": "2026-08-21 02:22:17"
+      "source": "Bloomberg",
+      "title_en": "特朗普计划扼杀伊朗经济，或招致中国反制",
+      "title_cn": "特朗普计划扼杀伊朗经济，或招致中国反制",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/trump-risks-china-blowback-with-plan-to-isolate-iran-s-economy",
+      "pub_raw": "2026-08-21T06:13:21.486Z",
+      "pub_sort_dt": "2026-08-21 14:13:21"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "为何全球针对中国稀土主导地位的对冲举措均告失败 - The Diplomat – Asia",
-      "title_cn": "为何全球针对中国稀土主导地位的对冲举措均告失败 - 外交官 – 亚洲",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxQV1FVSV9JNm1oU2tNVEdULVpvRmR0VHlxWmZJYkNhZU9jdkcxNGhzMldGZGhyRHVXSkxneGw0bVZoSFVqZmR0TXFROEpXaS15b0s5UFUyV3RjaWhWZGhUTXhseTNHVWtNZF9XdC0ybGdYMTFzeXp1N1JRci11OWUxUUlFOGRHZjNHQWg5WEVrTUpybTlxRHhMUzlzbHY3NmpZSFNQWFlDS0NJOHIz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T17:34:55.000Z",
-      "pub_sort_dt": "2026-08-21 01:34:55"
+      "source": "Bloomberg",
+      "title_en": "中国的高端24小时水疗中心为健康旅游者提供鱼子酱与放松体验",
+      "title_cn": "中国的旅游24小时水疗中心为健康游客提供鱼子酱与放松体验",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-s-luxury-24-hour-spas-offer-caviar-and-relaxation-to-wellness-travelers",
+      "pub_raw": "2026-08-21T05:57:13.209Z",
+      "pub_sort_dt": "2026-08-21 13:57:13"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片 - Reuters",
-      "title_cn": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片 - 路透社",
-      "url": "https://news.google.com/read/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-20T17:34:02.000Z",
-      "pub_sort_dt": "2026-08-21 01:34:02"
+      "source": "Bloomberg",
+      "title_en": "DayOne计划在赴美IPO前申请贷款以资助香港数据中心建设",
+      "title_cn": "DayOne计划赴美IPO前申请贷款以资助香港数据中心建设",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/dayone-seeks-loan-to-fund-hong-kong-data-center-ahead-of-us-ipo",
+      "pub_raw": "2026-08-21T05:57:13.199Z",
+      "pub_sort_dt": "2026-08-21 13:57:13"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "广州一家中国法院受理了恒大旗下某公司的破产案",
+      "title_cn": "广州某中国法院受理了恒大某公司破产案",
+      "url": "https://reut.rs/4xebWBN",
+      "pub_raw": "2026-08-21T05:57:13.044Z",
+      "pub_sort_dt": "2026-08-21 13:57:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在经济增长放缓之际，中国计划出台新的财政支持政策",
+      "title_cn": "在经济增长预期之际，中国计划出台新的财政支持政策",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-plans-new-fiscal-support-policies-this-year-amid-slowdown",
+      "pub_raw": "2026-08-21T05:41:19.439Z",
+      "pub_sort_dt": "2026-08-21 13:41:19"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "香港法院裁定天安门纪念团体犯有煽动颠覆罪",
+      "title_cn": "香港法院认定天安门纪念团体犯有煽动转移罪",
+      "url": "https://reut.rs/4gpVNSy",
+      "pub_raw": "2026-08-21T05:25:30.627Z",
+      "pub_sort_dt": "2026-08-21 13:25:30"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "亚洲日益增长的财富为保险公司提供了应对中国政策调整的保障",
+      "title_cn": "亚洲迫切增长的财富保险公司为应对中国调整政策的保障提供了依据",
+      "url": "https://www.ft.com/content/e24984a3-b87b-40a0-a6db-5b5f028ed712?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-21T05:25:30.499Z",
+      "pub_sort_dt": "2026-08-21 13:25:30"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "为何中国决策者将对糟糕的经济数据保持冷静",
+      "title_cn": "为什么中国决策者出现了严重的经济数据保持紧张状态",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/why-china-s-policymakers-will-ride-out-poor-economic-data",
+      "pub_raw": "2026-08-21T04:21:18.859Z",
+      "pub_sort_dt": "2026-08-21 12:21:18"
     },
     {
       "source": "Financial Times",
@@ -429,70 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-20/china-not-playing-by-the-rules-german-finance-minister-says",
       "pub_raw": "2026-08-20T17:10:23.161Z",
       "pub_sort_dt": "2026-08-21 01:10:23"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "台湾公布创纪录的国防预算，向美国和中国发出信号",
-      "title_cn": "台湾公布创纪录的国防预算，向美国和中国发出信号",
-      "url": "https://on.wsj.com/4bUmNbu",
-      "pub_raw": "2026-08-20T15:18:05.597Z",
-      "pub_sort_dt": "2026-08-20 23:18:05"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国新北极航线的机遇与挑战",
-      "title_cn": "中国新北极航线的机遇与挑战",
-      "url": "https://www.economist.com/china/2026/08/20/the-promise-and-the-pitfalls-of-chinas-new-arctic-shipping-route",
-      "pub_raw": "2026-08-20T13:10:05.773Z",
-      "pub_sort_dt": "2026-08-20 21:10:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "OKX在短暂暂停后禁止克劳德在香港使用其服务",
-      "title_cn": "OKX在短暂暂停后禁止克劳德在香港使用其服务",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/crypto-firm-okx-bars-claude-use-in-hong-kong-after-suspension",
-      "pub_raw": "2026-08-20T11:33:55.001Z",
-      "pub_sort_dt": "2026-08-20 19:33:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普推动与金正恩举行会谈之际，韩国寻求中国协助",
-      "title_cn": "特朗普推动与金正恩举行捐赠之际，韩国寻求中国援助",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/south-korea-seeks-china-s-help-as-trump-pushes-for-kim-meeting",
-      "pub_raw": "2026-08-20T10:13:55.173Z",
-      "pub_sort_dt": "2026-08-20 18:13:55"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "无论用什么标准来衡量，中国的就业市场都表现疲软",
-      "title_cn": "无论用什么标准来宽松，中国就业市场都表现疲软",
-      "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
-      "pub_raw": "2026-08-20T09:42:14.210Z",
-      "pub_sort_dt": "2026-08-20 17:42:14"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国敦促韩国不要偏袒任何一方，并将朝鲜半岛局势紧张归咎于美国政策",
-      "title_cn": "中国敦促韩国不要偏袒任何一方，朝鲜半岛安全归属于美国政策",
-      "url": "https://reut.rs/4wA8tMv",
-      "pub_raw": "2026-08-20T09:42:14.007Z",
-      "pub_sort_dt": "2026-08-20 17:42:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普转向经济战，将中国作为目标",
-      "title_cn": "特朗普转向经济战，将中国作为目标",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
-      "pub_raw": "2026-08-20T09:26:10.887Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：美国将一名被中国扣押的美国公民认定为遭非法拘留",
-      "title_cn": "独家：美国将一名被中国扣押的美国公民认定为遭非法拘留",
-      "url": "https://reut.rs/4bVlBEO",
-      "pub_raw": "2026-08-20T09:26:10.729Z",
-      "pub_sort_dt": "2026-08-20 17:26:10"
     }
   ]
 }
