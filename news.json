@@ -1,15 +1,39 @@
 {
-  "update_cst": "2026-08-22 06:01:58 北京时间",
+  "update_cst": "2026-08-22 09:01:14 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 2,
-    "Bloomberg": 0,
-    "Financial Times": 3,
-    "Wall Street Journal": 1,
-    "Reuters": 14
+    "The Economist": 0,
+    "Bloomberg": 13,
+    "Financial Times": 0,
+    "Wall Street Journal": 0,
+    "Reuters": 7
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "特斯拉因车门把手存在安全隐患，在中国召回近300万辆汽车 - The Guardian",
+      "title_cn": "特斯拉因车门部分存在安全隐患，在中国召回近300万辆卡车 - The Guardian",
+      "url": "https://news.google.com/read/CBMigwFBVV95cUxOcVBmYzE5cWFjUHFoczVnNTFqOXJCSXN4YXBVcTNjWWRwRk82cnBTTE1DRGVOTHdKbmJMemlyMnk4aTQxNHhWYWlxNGlQaTJVN3MzV3NyaTZRdmpEVDJ1OXRKWFdER3c1dmlnNUk5SWNWWjNxV0ExT0VMZ0U1eFdYVllSOA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T23:48:00.000Z",
+      "pub_sort_dt": "2026-08-22 07:48:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国即将启动一项雄心勃勃的登月任务，旨在太阳系最寒冷的地方之一寻找冰 - NBC News",
+      "title_cn": "中国即将启动一项雄心勃勃的登月任务，旨在太阳系最寒冷的地方寻找冰点之一 - NBC新闻",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOMFlJeFNsLVRiNW1zZG0tLU9tMUN2U0loVnJxd0NOUmhneWJuanpCN1c4T1lraldYQms5ZkI2RHhwdklYQnM3ZFZ1Vjh0QkZXVDNCaGJzUzZuZzNuempUenJnRGx1aXlDV2dnTXBuZUU5UHhndUc0bGJnTzJjV0M3YkRBZUY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T22:28:18.000Z",
+      "pub_sort_dt": "2026-08-22 06:28:18"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国对一名喜剧演员展开调查，因其曾在舞台上篡改革命歌曲的歌词 - AP News",
+      "title_cn": "中国对一位喜剧演员展开调查，剔除曾在舞台上篡改革命歌曲的歌词 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxOYVVCc3RVS0lCWXQ0UW1LaUZ4VWE0NlpRZDZDLU5HVlFCdXFTODQzeFVlQkhEbFUzYkNPYmMxckxlc1FXaGxZM09sSVRXdG5FNE9IaGhFaW5sQnc1Zk43c2FSN2k5YnNlY2RfTnozTFJMU04tY19NenhLd2ZnNUxDR1lvR0QtMkhOdW8yYVU2bE5DN081ZUNUNjl3cFp4Z2FvNEVNclloSQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T22:20:00.000Z",
+      "pub_sort_dt": "2026-08-22 06:20:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "美国贸易负责人称，试图改变中国经济是“疯狂”之举 - Axios",
@@ -37,7 +61,7 @@
     {
       "source": "China Buzzing",
       "title_en": "印尼与中国商讨加强国防合作与能源安全 - AP News",
-      "title_cn": "对话与中国商加强国防合作与能源安全 - 美联社新闻",
+      "title_cn": "印尼与中国商讨加强国防合作与能源安全 - AP News",
       "url": "https://news.google.com/read/CBMilAFBVV95cUxPV1YtV0wwcVpTS3JYVERwRnZlZVJTc1o0bWluSzJBb2NsMWNkYVE3ekg0QjhoUGRYcGNIVU1PalM3cDVBN0NlakxBUkNhYnNiSGJ5TWVacHZVWDJzQ2hWdVVrd3JSZmxBbktCQUV3V3Q2ZjBJTmNudkxzX19jT01KQTFObkZfSEhYSkZqTnU3SWhSd01J?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T15:16:00.000Z",
       "pub_sort_dt": "2026-08-21 23:16:00"
@@ -45,7 +69,7 @@
     {
       "source": "China Buzzing",
       "title_en": "在中国史上最大规模的汽车召回行动中，特斯拉及另外8家企业将解决车门安全问题 - The New York Times",
-      "title_cn": "在中国史上最大规模的汽车召回行动中，特斯拉及其他8家企业将解决车门安全问题 - 纽约时报中文网",
+      "title_cn": "在中国史上最大规模的汽车召回行动中，特斯拉及另外8家企业将解决车门安全问题 - The New York Times",
       "url": "https://news.google.com/read/CBMie0FVX3lxTE92a1VCaGZfWlVRU2I2M2UwU2d0bUtPU3daOUpDMXBmZTVWYmd4dzFua0Via3RwenV2aktxZE82WURmbmlXaUdVcnBKMldTOHo0V2dhZUNRX2o0eWdvdG5laDBNR2FwMTV4Z1QxdndTQXB3b0xrU2JsaThXSQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T15:09:19.000Z",
       "pub_sort_dt": "2026-08-21 23:09:19"
@@ -53,7 +77,7 @@
     {
       "source": "China Buzzing",
       "title_en": "独家报道 Waico 与 Pax Silica：东南亚在中美人工智能竞赛中陷入两难 - South China Morning Post",
-      "title_cn": "独家报道Waico与Pax Silica：东南亚在中美人工智能竞赛中陷入两难 - 南华早报",
+      "title_cn": "独家报道 Waico 与 Pax Silica：东南亚在中美人工智能竞赛中陷入两难 - South China Morning Post",
       "url": "https://news.google.com/read/CBMi3gFBVV95cUxQWldldDhIaDExdDVRODFnenNDSnJGQmFKakpoV1FyNGlvWlRwa2NMb3BLaW15UGNQcmZMSV9JNEg5a0ZSc2t4d3VmWS1JRHl6QkhyeV82QU9mTFBHUWszUV9hZTY1ZTg1SXpRZFdCYk1uTDVQQWd1ZWE0THNSdHRuREE3RG5MYWVXMGw4RlBxVHM2WFg1UmpSNXNST09QeGl1TE5BM2pOOFhoWUl2QkR3WFpjdjlzaENUb1U3SGZFVG51RzA1UmNyY1NTTGJMMFV3WVp1Y3EwSDllcFJfN2fSAd4BQVVfeXFMTWc2akxrclVFU21aMVk0Zl9vMVF1SGhqeHdYOXFFQmZyYnBDWUNaVGtIMHJZRHFCb0NCYUVmNFZwdGN0NjctS2gyTjR1Rk80bkwxX1ZZeUFrclRaV0JGOWNoaUNRckVDM1F6cnZ2MlpSNUNxX3MwWWdfa1BIRVBTTFlOUVl5MWRmc2NrRzBlSmVFS0tmRU9qZmR3Vl8wU09FQldHaVItSE9GVnNXUzA0c1BBQkhwYlEyNXpfTWMwMTZfYTZjWFhlSEpZdlAxNW1aZEZacnp4U08yVm1BcnNB?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T15:00:05.000Z",
       "pub_sort_dt": "2026-08-21 23:00:05"
@@ -65,33 +89,17 @@
       "url": "https://news.google.com/read/CBMitAFBVV95cUxOMUF3OV85aTVBV2xiS1EzWWI2QnFWalJPZXNpeDRnU2JwMElxZXZ4TkxUTGhwZjZBTHhVN0E5ZHVRVzBITnV6eUtaWVdJOUJDaGJ5NFVhQnpwQnRCSU5YOVQ3Wk15ZUZiSkVvWkNzM3RIOG1uYS01bnYycVhnRWFaTXJzYjNzNHQzTExNSmlEZ2NYOFZMcDhQOVBXMzYzMWQzaVNydGlBRDZpVmZzNC0xNWRMX0Q?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T14:44:27.000Z",
       "pub_sort_dt": "2026-08-21 22:44:27"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国为何认为自己能够抵御特朗普对伊朗的经济威胁 - The New York Times",
-      "title_cn": "中国为何认为自己能够抵御特朗普对伊朗的经济威胁 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxPdHJjSlpTT1poSjFTMDJHcXN1VUxBeUU3bm81VWxWSVFYeEFtN2lzbFhMWEhfZERUeUYtb29TRWpuTlk1WG4tMk9VT0I0NWltR0tQeGlMaFhWQjEzbjNvTEJkT3FGRjVlMXFHUVllRzd4c0lMZnV6akl2cmpfa0s0cTRCVHFvV2xxZVFaRQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T13:44:41.000Z",
-      "pub_sort_dt": "2026-08-21 21:44:41"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国曾一度最富有的人已失去一切，但债权人仍有3000亿美元的欠款未收回 - Fortune",
-      "title_cn": "中国曾一度最富有的人失去了，但债权人损失3000亿美元的欠款未收回 - 财富",
-      "url": "https://news.google.com/read/CBMiZ0FVX3lxTFBSZXF1SncwVXQtdXViSTlHNTg3TEQtZHdnOWsyV0tGUlNCaGladkJzbTN0TGs0TGVZRWVHemVSdlVVVTl1bjJlR0pqMmF5cmtGVlQ5eXJGRHAwaXF5c2VYaTdKY2t6VEE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T13:40:00.000Z",
-      "pub_sort_dt": "2026-08-21 21:40:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国可重复使用火箭的突破为何对解放军的“杀伤链”至关重要 - South China Morning Post",
-      "title_cn": "中国可重复使用火箭的突破为何对解放军的“杀伤链”至关重要 - 南华早报",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxOeVdaSmUzNEtYeU1BVHBwaE93M1BUMTI1bnFvc2g0eExTOVJhVzlaRXJyVGpOYWtHZ00wUVRSSnVyUzlEY1V3R2puU3R3d3JOT2t0VlItZnQya185MFBEZTJuaXoxX29xcEMxa0FjWlJ2Qlk5ZHJFV0J5NkhGNERqTUlZRWFOV3IwNFZaeWVsVTNpRWstcEdOT0dQeUxURVlUVTBVRnBOTmlyUkQwMXFhbVh5Q3dhR1I4YUc2StIBvAFBVV95cUxPV01IellRS0lkS2pUdmFNQ29Da0VfYWExem93eGhCMFNMUXRYT3htb0I1cC1rNGoxcjZGSkJWSmlFR1d4VkRQemhteVdTVGNWRlc1RkZhRkZqaFUwSnhfTGtsY1YxMHAzanktTDZOQ0h5Sk56V2VobDBkak8ybWw0WEdiajVWWFMzRFc5VUkyYUtFdkpza002d1ptNV95TDJ5aVA5dl9rYVkxQ2pyQ2R0T1pMY0QyVlIxY1RoSg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T13:12:24.000Z",
-      "pub_sort_dt": "2026-08-21 21:12:24"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
+      "title_cn": "香港餐厅点评：Ninetta 提供家常风味的意大利美食",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-22/hong-kong-restaurant-review-ninetta-offers-home-style-italian-cuisine",
+      "pub_raw": "2026-08-22T00:21:21.369Z",
+      "pub_sort_dt": "2026-08-22 08:21:21"
+    },
     {
       "source": "Reuters",
       "title_en": "解读：关于引发中国史上最大规模汽车召回的车门把手，我们目前了解的情况",
@@ -99,6 +107,14 @@
       "url": "https://reut.rs/4goEtgO",
       "pub_raw": "2026-08-21T21:57:17.561Z",
       "pub_sort_dt": "2026-08-22 05:57:17"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "极端天气推高农产品价格，中国贸易面临风险",
+      "title_cn": "极端天气推高农产品价格，中国贸易面临风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/wild-weather-sends-crop-prices-soaring-in-risk-to-china-trade",
+      "pub_raw": "2026-08-21T20:37:19.856Z",
+      "pub_sort_dt": "2026-08-22 04:37:19"
     },
     {
       "source": "Reuters",
@@ -109,6 +125,22 @@
       "pub_sort_dt": "2026-08-22 03:17:21"
     },
     {
+      "source": "Bloomberg",
+      "title_en": "香港书店突袭事件、波多黎各债务危机：关于书籍",
+      "title_cn": "香港书店突袭事件、波多黎各债务危机：关于书籍",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/hong-kong-s-bookstore-raids-puerto-rico-s-debt-crisis-on-books",
+      "pub_raw": "2026-08-21T15:49:33.156Z",
+      "pub_sort_dt": "2026-08-21 23:49:33"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国芯片制造商YMTC计划通过在上海的首次公开募股（IPO）筹集49亿美元",
+      "title_cn": "中国芯片制造商长江存储计划通过在上海的首次公开募股（IPO）募集49亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-chipmaker-ymtc-seeks-to-raise-4-9-billion-in-shanghai-ipo",
+      "pub_raw": "2026-08-21T15:01:45.567Z",
+      "pub_sort_dt": "2026-08-21 23:01:45"
+    },
+    {
       "source": "Reuters",
       "title_en": "中国将修订对外投资相关规定",
       "title_cn": "中国将修订对外投资相关规定",
@@ -117,12 +149,52 @@
       "pub_sort_dt": "2026-08-21 21:57:46"
     },
     {
+      "source": "Bloomberg",
+      "title_en": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
+      "title_cn": "特斯拉因车门部分安全问题在中国召回300万辆电动汽车",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/tesla-recalls-3-million-evs-as-china-cracks-down-on-door-handles",
+      "pub_raw": "2026-08-21T12:53:50.652Z",
+      "pub_sort_dt": "2026-08-21 20:53:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "华鸿、潍柴动力将纳入香港股市基准指数",
+      "title_cn": "华鸿、潍柴动力将纳入香港股市基准指数",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/hua-hong-grace-weichai-power-to-join-hong-kong-stock-benchmark",
+      "pub_raw": "2026-08-21T12:53:50.623Z",
+      "pub_sort_dt": "2026-08-21 20:53:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国正考虑主办2028年联合国气候谈判的提议",
+      "title_cn": "中国正考虑主办2028年联合国气候谈判的提议",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/china-considering-proposal-to-host-2028-un-climate-talks",
+      "pub_raw": "2026-08-21T12:21:37.439Z",
+      "pub_sort_dt": "2026-08-21 20:21:37"
+    },
+    {
       "source": "Reuters",
       "title_en": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
-      "title_cn": "特斯拉对中国市场上的数百万辆卡车中国制造及进口电动汽车进行软件修复",
+      "title_cn": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
       "url": "https://reut.rs/4gpAQas",
       "pub_raw": "2026-08-21T11:17:15.581Z",
       "pub_sort_dt": "2026-08-21 19:17:15"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国放缓紧缩政策，预算支出降幅收窄",
+      "title_cn": "中国放缓紧缩政策，预算支出降幅收窄",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-scales-back-austerity-with-smaller-drop-in-budget-spending",
+      "pub_raw": "2026-08-21T11:01:27.875Z",
+      "pub_sort_dt": "2026-08-21 19:01:27"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "据称中国正在考虑申办联合国气候峰会",
+      "title_cn": "据称中国正在考虑申办联合国气候峰会",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-said-to-weigh-potential-bid-to-host-2028-un-climate-summit",
+      "pub_raw": "2026-08-21T09:09:15.678Z",
+      "pub_sort_dt": "2026-08-21 17:09:15"
     },
     {
       "source": "Reuters",
@@ -141,6 +213,14 @@
       "pub_sort_dt": "2026-08-21 16:37:09"
     },
     {
+      "source": "Bloomberg",
+      "title_en": "美国指责中国非法拘留一名美国学者",
+      "title_cn": "美国指控中国非法拘留一名美国学者",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-accuses-china-of-wrongful-detention-of-american-scholar",
+      "pub_raw": "2026-08-21T08:05:14.203Z",
+      "pub_sort_dt": "2026-08-21 16:05:14"
+    },
+    {
       "source": "Reuters",
       "title_en": "台湾对驶向其西侧的中国科研船发出警告并实施跟踪",
       "title_cn": "台湾对驶向其西侧的中国科研船发出警告并实施跟踪",
@@ -149,113 +229,57 @@
       "pub_sort_dt": "2026-08-21 16:05:14"
     },
     {
-      "source": "Reuters",
-      "title_en": "广州一家中国法院受理了恒大旗下某公司的破产案",
-      "title_cn": "广州某中国法院受理了恒大某公司破产案",
-      "url": "https://reut.rs/4xebWBN",
-      "pub_raw": "2026-08-21T05:57:13.044Z",
+      "source": "Bloomberg",
+      "title_en": "中国与印度尼西亚在雅加达举行的高层会谈中就加强防务合作达成共识",
+      "title_cn": "中国与印度尼西亚在雅加达达成的高层楼梯中就加强防务合作达成共识",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-indonesia-agree-on-closer-defense-ties-in-high-level-talks-in-jakarta",
+      "pub_raw": "2026-08-21T07:49:19.342Z",
+      "pub_sort_dt": "2026-08-21 15:49:19"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普计划扼杀伊朗经济，或招致中国反制",
+      "title_cn": "特朗普计划扼杀伊朗经济，或招致中国反制",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/trump-risks-china-blowback-with-plan-to-isolate-iran-s-economy",
+      "pub_raw": "2026-08-21T06:13:21.486Z",
+      "pub_sort_dt": "2026-08-21 14:13:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国的高端24小时水疗中心为健康旅游者提供鱼子酱与放松体验",
+      "title_cn": "中国的旅游24小时水疗中心为健康游客提供鱼子酱与放松体验",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-s-luxury-24-hour-spas-offer-caviar-and-relaxation-to-wellness-travelers",
+      "pub_raw": "2026-08-21T05:57:13.209Z",
       "pub_sort_dt": "2026-08-21 13:57:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "香港法院裁定天安门纪念团体犯有煽动颠覆罪",
-      "title_cn": "香港法院认定天安门纪念团体犯有杠杆转移罪",
-      "url": "https://reut.rs/4gpVNSy",
-      "pub_raw": "2026-08-21T05:25:30.627Z",
-      "pub_sort_dt": "2026-08-21 13:25:30"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "亚洲日益增长的财富为保险公司提供了应对中国政策调整的保障",
-      "title_cn": "亚洲迫切增长的财富保险公司为应对中国调整政策的保障提供了依据",
-      "url": "https://www.ft.com/content/e24984a3-b87b-40a0-a6db-5b5f028ed712?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-21T05:25:30.499Z",
-      "pub_sort_dt": "2026-08-21 13:25:30"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "在中国科技热潮中，上海版纳斯达克的表现超越了香港",
-      "title_cn": "在中国科技热潮中，上海版纳斯达克的表现超越了香港",
-      "url": "https://www.ft.com/content/83500ff8-31df-4031-9edd-8b3de5aff3e3?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-21T03:17:36.195Z",
-      "pub_sort_dt": "2026-08-21 11:17:36"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国在太阳系最寒冷的地方之一搜寻月球冰",
-      "title_cn": "中国在太阳系最寒冷的地方之一采购月球冰",
-      "url": "https://reut.rs/4gIJiTl",
-      "pub_raw": "2026-08-21T01:57:22.127Z",
-      "pub_sort_dt": "2026-08-21 09:57:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Breakingviews——AIA对中国市场的乐观态度与香港的整体情绪形成鲜明对比",
-      "title_cn": "突发观点——友邦保险对中国市场的乐观态度与香港的整体情绪突破对比",
-      "url": "https://reut.rs/4zvNJbC",
-      "pub_raw": "2026-08-21T00:05:59.177Z",
-      "pub_sort_dt": "2026-08-21 08:05:59"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国和印度尼西亚两国外长将于周五举行会晤，商讨安全与经济问题",
-      "title_cn": "中国和印尼外交部长将于周五召开会议，商讨安全与经济问题",
-      "url": "https://reut.rs/4gGuRiC",
-      "pub_raw": "2026-08-20T23:34:08.263Z",
-      "pub_sort_dt": "2026-08-21 07:34:08"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片",
-      "title_cn": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片",
-      "url": "https://reut.rs/4cU3gIr",
-      "pub_raw": "2026-08-20T18:46:05.304Z",
-      "pub_sort_dt": "2026-08-21 02:46:05"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "当今的中国可以向江泽民和朱镕基学习",
-      "title_cn": "当今的中国可以向江泽民和朱镕基学习",
-      "url": "https://www.ft.com/content/47c8bc3b-c1b6-4fae-add9-e55898778936?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-20T17:58:07.275Z",
-      "pub_sort_dt": "2026-08-21 01:58:07"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "世界机器人大会上值得关注的中国企业",
-      "title_cn": "世界机器人大会值得关注的中国企业",
-      "url": "https://reut.rs/4qvic5F",
-      "pub_raw": "2026-08-20T17:26:25.243Z",
-      "pub_sort_dt": "2026-08-21 01:26:25"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "台湾公布创纪录的国防预算，向美国和中国发出信号",
-      "title_cn": "台湾公布创纪录的国防预算，向美国和中国发出信号",
-      "url": "https://on.wsj.com/4bUmNbu",
-      "pub_raw": "2026-08-20T15:18:05.597Z",
-      "pub_sort_dt": "2026-08-20 23:18:05"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国新北极航线的机遇与挑战",
-      "title_cn": "中国新北极航线的机遇与挑战",
-      "url": "https://www.economist.com/china/2026/08/20/the-promise-and-the-pitfalls-of-chinas-new-arctic-shipping-route",
-      "pub_raw": "2026-08-20T13:10:05.773Z",
-      "pub_sort_dt": "2026-08-20 21:10:05"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "无论用什么标准来衡量，中国的就业市场都表现疲软",
-      "title_cn": "无论用什么标准来宽松，中国就业市场都表现疲软",
-      "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
-      "pub_raw": "2026-08-20T09:42:14.210Z",
-      "pub_sort_dt": "2026-08-20 17:42:14"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "特斯拉因车门把手存在安全隐患，在中国召回近300万辆汽车 - The Guardian",
+      "title_cn": "特斯拉因车门部分存在安全隐患，在中国召回近300万辆卡车 - The Guardian",
+      "url": "https://news.google.com/read/CBMigwFBVV95cUxOcVBmYzE5cWFjUHFoczVnNTFqOXJCSXN4YXBVcTNjWWRwRk82cnBTTE1DRGVOTHdKbmJMemlyMnk4aTQxNHhWYWlxNGlQaTJVN3MzV3NyaTZRdmpEVDJ1OXRKWFdER3c1dmlnNUk5SWNWWjNxV0ExT0VMZ0U1eFdYVllSOA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T23:48:00.000Z",
+      "pub_sort_dt": "2026-08-22 07:48:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国即将启动一项雄心勃勃的登月任务，旨在太阳系最寒冷的地方之一寻找冰 - NBC News",
+      "title_cn": "中国即将启动一项雄心勃勃的登月任务，旨在太阳系最寒冷的地方寻找冰点之一 - NBC新闻",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOMFlJeFNsLVRiNW1zZG0tLU9tMUN2U0loVnJxd0NOUmhneWJuanpCN1c4T1lraldYQms5ZkI2RHhwdklYQnM3ZFZ1Vjh0QkZXVDNCaGJzUzZuZzNuempUenJnRGx1aXlDV2dnTXBuZUU5UHhndUc0bGJnTzJjV0M3YkRBZUY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T22:28:18.000Z",
+      "pub_sort_dt": "2026-08-22 06:28:18"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国对一名喜剧演员展开调查，因其曾在舞台上篡改革命歌曲的歌词 - AP News",
+      "title_cn": "中国对一位喜剧演员展开调查，剔除曾在舞台上篡改革命歌曲的歌词 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxOYVVCc3RVS0lCWXQ0UW1LaUZ4VWE0NlpRZDZDLU5HVlFCdXFTODQzeFVlQkhEbFUzYkNPYmMxckxlc1FXaGxZM09sSVRXdG5FNE9IaGhFaW5sQnc1Zk43c2FSN2k5YnNlY2RfTnozTFJMU04tY19NenhLd2ZnNUxDR1lvR0QtMkhOdW8yYVU2bE5DN081ZUNUNjl3cFp4Z2FvNEVNclloSQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-21T22:20:00.000Z",
+      "pub_sort_dt": "2026-08-22 06:20:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "美国贸易负责人称，试图改变中国经济是“疯狂”之举 - Axios",
       "title_cn": "美国贸易负责人称，试图改变中国经济是“疯狂”之举 - Axios",
       "url": "https://news.google.com/read/CBMiakFVX3lxTE94aGlrZnJLcTZHMW1INTE0d0ZCOGlXVkNVRkJVUVlrMC04RE9ZY0sxWDVNaGNlOURaazZpcWFNMXMtcXlPQlc4ZmJaOUxVYnhEVEg3dk1UTndlcXpFeGVjeHhEeGNZWmpiWWc?hl=en-US&gl=US&ceid=US%3Aen",
@@ -281,7 +305,7 @@
     {
       "source": "China Buzzing",
       "title_en": "印尼与中国商讨加强国防合作与能源安全 - AP News",
-      "title_cn": "对话与中国商加强国防合作与能源安全 - 美联社新闻",
+      "title_cn": "印尼与中国商讨加强国防合作与能源安全 - AP News",
       "url": "https://news.google.com/read/CBMilAFBVV95cUxPV1YtV0wwcVpTS3JYVERwRnZlZVJTc1o0bWluSzJBb2NsMWNkYVE3ekg0QjhoUGRYcGNIVU1PalM3cDVBN0NlakxBUkNhYnNiSGJ5TWVacHZVWDJzQ2hWdVVrd3JSZmxBbktCQUV3V3Q2ZjBJTmNudkxzX19jT01KQTFObkZfSEhYSkZqTnU3SWhSd01J?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T15:16:00.000Z",
       "pub_sort_dt": "2026-08-21 23:16:00"
@@ -289,7 +313,7 @@
     {
       "source": "China Buzzing",
       "title_en": "在中国史上最大规模的汽车召回行动中，特斯拉及另外8家企业将解决车门安全问题 - The New York Times",
-      "title_cn": "在中国史上最大规模的汽车召回行动中，特斯拉及其他8家企业将解决车门安全问题 - 纽约时报中文网",
+      "title_cn": "在中国史上最大规模的汽车召回行动中，特斯拉及另外8家企业将解决车门安全问题 - The New York Times",
       "url": "https://news.google.com/read/CBMie0FVX3lxTE92a1VCaGZfWlVRU2I2M2UwU2d0bUtPU3daOUpDMXBmZTVWYmd4dzFua0Via3RwenV2aktxZE82WURmbmlXaUdVcnBKMldTOHo0V2dhZUNRX2o0eWdvdG5laDBNR2FwMTV4Z1QxdndTQXB3b0xrU2JsaThXSQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T15:09:19.000Z",
       "pub_sort_dt": "2026-08-21 23:09:19"
@@ -297,7 +321,7 @@
     {
       "source": "China Buzzing",
       "title_en": "独家报道 Waico 与 Pax Silica：东南亚在中美人工智能竞赛中陷入两难 - South China Morning Post",
-      "title_cn": "独家报道Waico与Pax Silica：东南亚在中美人工智能竞赛中陷入两难 - 南华早报",
+      "title_cn": "独家报道 Waico 与 Pax Silica：东南亚在中美人工智能竞赛中陷入两难 - South China Morning Post",
       "url": "https://news.google.com/read/CBMi3gFBVV95cUxQWldldDhIaDExdDVRODFnenNDSnJGQmFKakpoV1FyNGlvWlRwa2NMb3BLaW15UGNQcmZMSV9JNEg5a0ZSc2t4d3VmWS1JRHl6QkhyeV82QU9mTFBHUWszUV9hZTY1ZTg1SXpRZFdCYk1uTDVQQWd1ZWE0THNSdHRuREE3RG5MYWVXMGw4RlBxVHM2WFg1UmpSNXNST09QeGl1TE5BM2pOOFhoWUl2QkR3WFpjdjlzaENUb1U3SGZFVG51RzA1UmNyY1NTTGJMMFV3WVp1Y3EwSDllcFJfN2fSAd4BQVVfeXFMTWc2akxrclVFU21aMVk0Zl9vMVF1SGhqeHdYOXFFQmZyYnBDWUNaVGtIMHJZRHFCb0NCYUVmNFZwdGN0NjctS2gyTjR1Rk80bkwxX1ZZeUFrclRaV0JGOWNoaUNRckVDM1F6cnZ2MlpSNUNxX3MwWWdfa1BIRVBTTFlOUVl5MWRmc2NrRzBlSmVFS0tmRU9qZmR3Vl8wU09FQldHaVItSE9GVnNXUzA0c1BBQkhwYlEyNXpfTWMwMTZfYTZjWFhlSEpZdlAxNW1aZEZacnp4U08yVm1BcnNB?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T15:00:05.000Z",
       "pub_sort_dt": "2026-08-21 23:00:05"
@@ -311,28 +335,12 @@
       "pub_sort_dt": "2026-08-21 22:44:27"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国为何认为自己能够抵御特朗普对伊朗的经济威胁 - The New York Times",
-      "title_cn": "中国为何认为自己能够抵御特朗普对伊朗的经济威胁 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxPdHJjSlpTT1poSjFTMDJHcXN1VUxBeUU3bm81VWxWSVFYeEFtN2lzbFhMWEhfZERUeUYtb29TRWpuTlk1WG4tMk9VT0I0NWltR0tQeGlMaFhWQjEzbjNvTEJkT3FGRjVlMXFHUVllRzd4c0lMZnV6akl2cmpfa0s0cTRCVHFvV2xxZVFaRQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T13:44:41.000Z",
-      "pub_sort_dt": "2026-08-21 21:44:41"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国曾一度最富有的人已失去一切，但债权人仍有3000亿美元的欠款未收回 - Fortune",
-      "title_cn": "中国曾一度最富有的人失去了，但债权人损失3000亿美元的欠款未收回 - 财富",
-      "url": "https://news.google.com/read/CBMiZ0FVX3lxTFBSZXF1SncwVXQtdXViSTlHNTg3TEQtZHdnOWsyV0tGUlNCaGladkJzbTN0TGs0TGVZRWVHemVSdlVVVTl1bjJlR0pqMmF5cmtGVlQ5eXJGRHAwaXF5c2VYaTdKY2t6VEE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T13:40:00.000Z",
-      "pub_sort_dt": "2026-08-21 21:40:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国可重复使用火箭的突破为何对解放军的“杀伤链”至关重要 - South China Morning Post",
-      "title_cn": "中国可重复使用火箭的突破为何对解放军的“杀伤链”至关重要 - 南华早报",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxOeVdaSmUzNEtYeU1BVHBwaE93M1BUMTI1bnFvc2g0eExTOVJhVzlaRXJyVGpOYWtHZ00wUVRSSnVyUzlEY1V3R2puU3R3d3JOT2t0VlItZnQya185MFBEZTJuaXoxX29xcEMxa0FjWlJ2Qlk5ZHJFV0J5NkhGNERqTUlZRWFOV3IwNFZaeWVsVTNpRWstcEdOT0dQeUxURVlUVTBVRnBOTmlyUkQwMXFhbVh5Q3dhR1I4YUc2StIBvAFBVV95cUxPV01IellRS0lkS2pUdmFNQ29Da0VfYWExem93eGhCMFNMUXRYT3htb0I1cC1rNGoxcjZGSkJWSmlFR1d4VkRQemhteVdTVGNWRlc1RkZhRkZqaFUwSnhfTGtsY1YxMHAzanktTDZOQ0h5Sk56V2VobDBkak8ybWw0WEdiajVWWFMzRFc5VUkyYUtFdkpza002d1ptNV95TDJ5aVA5dl9rYVkxQ2pyQ2R0T1pMY0QyVlIxY1RoSg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T13:12:24.000Z",
-      "pub_sort_dt": "2026-08-21 21:12:24"
+      "source": "Bloomberg",
+      "title_en": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
+      "title_cn": "香港餐厅点评：Ninetta 提供家常风味的意大利美食",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-22/hong-kong-restaurant-review-ninetta-offers-home-style-italian-cuisine",
+      "pub_raw": "2026-08-22T00:21:21.369Z",
+      "pub_sort_dt": "2026-08-22 08:21:21"
     },
     {
       "source": "Reuters",
@@ -343,12 +351,36 @@
       "pub_sort_dt": "2026-08-22 05:57:17"
     },
     {
+      "source": "Bloomberg",
+      "title_en": "极端天气推高农产品价格，中国贸易面临风险",
+      "title_cn": "极端天气推高农产品价格，中国贸易面临风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/wild-weather-sends-crop-prices-soaring-in-risk-to-china-trade",
+      "pub_raw": "2026-08-21T20:37:19.856Z",
+      "pub_sort_dt": "2026-08-22 04:37:19"
+    },
+    {
       "source": "Reuters",
       "title_en": "信件显示，德国一名州级政界人士呼吁欧盟对中国的混合动力汽车征收关税",
       "title_cn": "信中显示，德国一个州级政界人士呼吁欧盟对中国的动力混合汽车征收关税",
       "url": "https://reut.rs/3SKJpok",
       "pub_raw": "2026-08-21T19:17:21.295Z",
       "pub_sort_dt": "2026-08-22 03:17:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港书店突袭事件、波多黎各债务危机：关于书籍",
+      "title_cn": "香港书店突袭事件、波多黎各债务危机：关于书籍",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/hong-kong-s-bookstore-raids-puerto-rico-s-debt-crisis-on-books",
+      "pub_raw": "2026-08-21T15:49:33.156Z",
+      "pub_sort_dt": "2026-08-21 23:49:33"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国芯片制造商YMTC计划通过在上海的首次公开募股（IPO）筹集49亿美元",
+      "title_cn": "中国芯片制造商长江存储计划通过在上海的首次公开募股（IPO）募集49亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-chipmaker-ymtc-seeks-to-raise-4-9-billion-in-shanghai-ipo",
+      "pub_raw": "2026-08-21T15:01:45.567Z",
+      "pub_sort_dt": "2026-08-21 23:01:45"
     },
     {
       "source": "Reuters",
@@ -359,12 +391,52 @@
       "pub_sort_dt": "2026-08-21 21:57:46"
     },
     {
+      "source": "Bloomberg",
+      "title_en": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
+      "title_cn": "特斯拉因车门部分安全问题在中国召回300万辆电动汽车",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/tesla-recalls-3-million-evs-as-china-cracks-down-on-door-handles",
+      "pub_raw": "2026-08-21T12:53:50.652Z",
+      "pub_sort_dt": "2026-08-21 20:53:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "华鸿、潍柴动力将纳入香港股市基准指数",
+      "title_cn": "华鸿、潍柴动力将纳入香港股市基准指数",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/hua-hong-grace-weichai-power-to-join-hong-kong-stock-benchmark",
+      "pub_raw": "2026-08-21T12:53:50.623Z",
+      "pub_sort_dt": "2026-08-21 20:53:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国正考虑主办2028年联合国气候谈判的提议",
+      "title_cn": "中国正考虑主办2028年联合国气候谈判的提议",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/china-considering-proposal-to-host-2028-un-climate-talks",
+      "pub_raw": "2026-08-21T12:21:37.439Z",
+      "pub_sort_dt": "2026-08-21 20:21:37"
+    },
+    {
       "source": "Reuters",
       "title_en": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
-      "title_cn": "特斯拉对中国市场上的数百万辆卡车中国制造及进口电动汽车进行软件修复",
+      "title_cn": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
       "url": "https://reut.rs/4gpAQas",
       "pub_raw": "2026-08-21T11:17:15.581Z",
       "pub_sort_dt": "2026-08-21 19:17:15"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国放缓紧缩政策，预算支出降幅收窄",
+      "title_cn": "中国放缓紧缩政策，预算支出降幅收窄",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-scales-back-austerity-with-smaller-drop-in-budget-spending",
+      "pub_raw": "2026-08-21T11:01:27.875Z",
+      "pub_sort_dt": "2026-08-21 19:01:27"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "据称中国正在考虑申办联合国气候峰会",
+      "title_cn": "据称中国正在考虑申办联合国气候峰会",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-said-to-weigh-potential-bid-to-host-2028-un-climate-summit",
+      "pub_raw": "2026-08-21T09:09:15.678Z",
+      "pub_sort_dt": "2026-08-21 17:09:15"
     },
     {
       "source": "Reuters",
@@ -383,6 +455,14 @@
       "pub_sort_dt": "2026-08-21 16:37:09"
     },
     {
+      "source": "Bloomberg",
+      "title_en": "美国指责中国非法拘留一名美国学者",
+      "title_cn": "美国指控中国非法拘留一名美国学者",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-accuses-china-of-wrongful-detention-of-american-scholar",
+      "pub_raw": "2026-08-21T08:05:14.203Z",
+      "pub_sort_dt": "2026-08-21 16:05:14"
+    },
+    {
       "source": "Reuters",
       "title_en": "台湾对驶向其西侧的中国科研船发出警告并实施跟踪",
       "title_cn": "台湾对驶向其西侧的中国科研船发出警告并实施跟踪",
@@ -391,108 +471,28 @@
       "pub_sort_dt": "2026-08-21 16:05:14"
     },
     {
-      "source": "Reuters",
-      "title_en": "广州一家中国法院受理了恒大旗下某公司的破产案",
-      "title_cn": "广州某中国法院受理了恒大某公司破产案",
-      "url": "https://reut.rs/4xebWBN",
-      "pub_raw": "2026-08-21T05:57:13.044Z",
+      "source": "Bloomberg",
+      "title_en": "中国与印度尼西亚在雅加达举行的高层会谈中就加强防务合作达成共识",
+      "title_cn": "中国与印度尼西亚在雅加达达成的高层楼梯中就加强防务合作达成共识",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-indonesia-agree-on-closer-defense-ties-in-high-level-talks-in-jakarta",
+      "pub_raw": "2026-08-21T07:49:19.342Z",
+      "pub_sort_dt": "2026-08-21 15:49:19"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普计划扼杀伊朗经济，或招致中国反制",
+      "title_cn": "特朗普计划扼杀伊朗经济，或招致中国反制",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/trump-risks-china-blowback-with-plan-to-isolate-iran-s-economy",
+      "pub_raw": "2026-08-21T06:13:21.486Z",
+      "pub_sort_dt": "2026-08-21 14:13:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国的高端24小时水疗中心为健康旅游者提供鱼子酱与放松体验",
+      "title_cn": "中国的旅游24小时水疗中心为健康游客提供鱼子酱与放松体验",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-s-luxury-24-hour-spas-offer-caviar-and-relaxation-to-wellness-travelers",
+      "pub_raw": "2026-08-21T05:57:13.209Z",
       "pub_sort_dt": "2026-08-21 13:57:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "香港法院裁定天安门纪念团体犯有煽动颠覆罪",
-      "title_cn": "香港法院认定天安门纪念团体犯有杠杆转移罪",
-      "url": "https://reut.rs/4gpVNSy",
-      "pub_raw": "2026-08-21T05:25:30.627Z",
-      "pub_sort_dt": "2026-08-21 13:25:30"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "亚洲日益增长的财富为保险公司提供了应对中国政策调整的保障",
-      "title_cn": "亚洲迫切增长的财富保险公司为应对中国调整政策的保障提供了依据",
-      "url": "https://www.ft.com/content/e24984a3-b87b-40a0-a6db-5b5f028ed712?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-21T05:25:30.499Z",
-      "pub_sort_dt": "2026-08-21 13:25:30"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "在中国科技热潮中，上海版纳斯达克的表现超越了香港",
-      "title_cn": "在中国科技热潮中，上海版纳斯达克的表现超越了香港",
-      "url": "https://www.ft.com/content/83500ff8-31df-4031-9edd-8b3de5aff3e3?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-21T03:17:36.195Z",
-      "pub_sort_dt": "2026-08-21 11:17:36"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国在太阳系最寒冷的地方之一搜寻月球冰",
-      "title_cn": "中国在太阳系最寒冷的地方之一采购月球冰",
-      "url": "https://reut.rs/4gIJiTl",
-      "pub_raw": "2026-08-21T01:57:22.127Z",
-      "pub_sort_dt": "2026-08-21 09:57:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Breakingviews——AIA对中国市场的乐观态度与香港的整体情绪形成鲜明对比",
-      "title_cn": "突发观点——友邦保险对中国市场的乐观态度与香港的整体情绪突破对比",
-      "url": "https://reut.rs/4zvNJbC",
-      "pub_raw": "2026-08-21T00:05:59.177Z",
-      "pub_sort_dt": "2026-08-21 08:05:59"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国和印度尼西亚两国外长将于周五举行会晤，商讨安全与经济问题",
-      "title_cn": "中国和印尼外交部长将于周五召开会议，商讨安全与经济问题",
-      "url": "https://reut.rs/4gGuRiC",
-      "pub_raw": "2026-08-20T23:34:08.263Z",
-      "pub_sort_dt": "2026-08-21 07:34:08"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片",
-      "title_cn": "据《The Information》报道，英伟达将于年底前向中国市场供应AI芯片",
-      "url": "https://reut.rs/4cU3gIr",
-      "pub_raw": "2026-08-20T18:46:05.304Z",
-      "pub_sort_dt": "2026-08-21 02:46:05"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "当今的中国可以向江泽民和朱镕基学习",
-      "title_cn": "当今的中国可以向江泽民和朱镕基学习",
-      "url": "https://www.ft.com/content/47c8bc3b-c1b6-4fae-add9-e55898778936?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-20T17:58:07.275Z",
-      "pub_sort_dt": "2026-08-21 01:58:07"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "世界机器人大会上值得关注的中国企业",
-      "title_cn": "世界机器人大会值得关注的中国企业",
-      "url": "https://reut.rs/4qvic5F",
-      "pub_raw": "2026-08-20T17:26:25.243Z",
-      "pub_sort_dt": "2026-08-21 01:26:25"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "台湾公布创纪录的国防预算，向美国和中国发出信号",
-      "title_cn": "台湾公布创纪录的国防预算，向美国和中国发出信号",
-      "url": "https://on.wsj.com/4bUmNbu",
-      "pub_raw": "2026-08-20T15:18:05.597Z",
-      "pub_sort_dt": "2026-08-20 23:18:05"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国新北极航线的机遇与挑战",
-      "title_cn": "中国新北极航线的机遇与挑战",
-      "url": "https://www.economist.com/china/2026/08/20/the-promise-and-the-pitfalls-of-chinas-new-arctic-shipping-route",
-      "pub_raw": "2026-08-20T13:10:05.773Z",
-      "pub_sort_dt": "2026-08-20 21:10:05"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "无论用什么标准来衡量，中国的就业市场都表现疲软",
-      "title_cn": "无论用什么标准来宽松，中国就业市场都表现疲软",
-      "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
-      "pub_raw": "2026-08-20T09:42:14.210Z",
-      "pub_sort_dt": "2026-08-20 17:42:14"
     }
   ]
 }
