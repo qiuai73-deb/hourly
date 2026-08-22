@@ -1,15 +1,47 @@
 {
-  "update_cst": "2026-08-22 09:01:14 北京时间",
+  "update_cst": "2026-08-22 12:01:01 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 13,
-    "Financial Times": 0,
+    "Bloomberg": 11,
+    "Financial Times": 1,
     "Wall Street Journal": 0,
-    "Reuters": 7
+    "Reuters": 8
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "为何中国外长访韩之行对首尔“是一记下作的打击” - South China Morning Post",
+      "title_cn": "为何中国外长访韩之行对首尔“是一记下作的打击” - 南华早报",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQUGlOWXJwUmtmd0pKaDh3cVZRUTR4dkZmTU9KcHBmbF9WTE4yUGxmSThFbUFyc2FXTndmc3I2TzVwVHFVSjRxdnhUZVZTOHpNZnFqTHRUNzZDNXpuZU9JYWFReVVSc2dxRzZMRVVJdllzZDFzQXBwZTlfTEwtcjkwZFdnb0J0cDZ5SE1MdjBmd01HWGZKYW1HZEVycDdoWkM3SzlIdmhfLWtQbEhveTJLS3IyTWVwSFpjcWtva3FoZUJvMkHSAcMBQVVfeXFMUFJQRkhUazZ1c2F2NDFCT1Awb1RQMjQ4eW9LZ1ZtSzU3YldJTUJ5dUFTaEhLemV6ME84dUY2OUJ0dE1kdGN2UHBnYnVnclF3OHdzU183R3V6YUUwS2I4WnMxalJpTXZrZEtnSzFRRU15M3lYN3VPRDUxMXlFRk1ja3pZcVBJem5YeEpmSG9zRVpsOEtFY0RCYnZvYjFzOUpJYnI2VGVLNks2QjFkeU9NVE5CaHlSaTFxR2NkS2h1MzJZTlNF?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-22T02:00:09.000Z",
+      "pub_sort_dt": "2026-08-22 10:00:09"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "看看中国是如何度过伊朗石油危机的 - WSJ",
+      "title_cn": "看看中国是如何度过伊朗石油危机的 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMilgFBVV95cUxNaEhzdTlmdjZ2WS1MS3FyY21JRk1OaUpkV0RlVEZ6dHZrbU43YXZERkZKLTZCaGpKaFNZNjZUdlEzaUxaREhfYmVXdTZfemh5TkRGQmllM3FiWTVvRjNma1FuMXZlZnIzLXdqQUdQTnp4V1FUMVpTZWU1QmxleHBqQVFYeGdIeEh2aldxTG0za2RJZmpwVWc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-22T02:00:00.000Z",
+      "pub_sort_dt": "2026-08-22 10:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在习近平与特朗普计划会晤前，美国海军飞机穿越台湾海峡 - Reuters",
+      "title_cn": "习近平与特朗普计划会晤前，美国海军飞机穿越台湾海峡 - 路透中文网",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-22T00:43:00.000Z",
+      "pub_sort_dt": "2026-08-22 08:43:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国的机器人会摇滚、打拳击和调制饮料。它们的表现能超越人类吗？ - Financial Times",
+      "title_cn": "中国的机器人会摇滚、打拳击和调制饮料。它们的表现能超越人类吗？ - 英国《金融时报》",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOMGM2MWNBTzVzYkZTRHBTOW4zcFNjUXFCYnBLUXN0bzB2aGVRbTlVcWRIY1hDWmxEQWlrQTlCNGZ4MFpDUndxUC14RFdBMmlsNmRsRlRTMXFBbUdjS2RYTmVpck5hVzduN0hLMVhQNFBDS2pTTkF3eU40SGlRbU14b2s2aVA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-22T00:41:11.000Z",
+      "pub_sort_dt": "2026-08-22 08:41:11"
+    },
     {
       "source": "China Buzzing",
       "title_en": "特斯拉因车门把手存在安全隐患，在中国召回近300万辆汽车 - The Guardian",
@@ -57,41 +89,33 @@
       "url": "https://news.google.com/read/CBMisgFBVV95cUxNZEtNUi1wY3VsajRUX3NNNEZKd3VkOXZtZEx2ektNUUhaOHpRSUFhZEZpbk1ZTElUZmJCVkJoQ3FfUXFBTVpJSU9LZUNWZmtpUnQ3M052VkJOVGlkZHpNSGJSMWZ2N1h4U2h2aGVYZEVteXcxSzlDSUk3SVczX29heTdtTmt3LXU0LXlmZk1aOTRVdjZDUWlYRDRHbEdFZ1kwQ0FYd3VHQ3ZxZGN3QV9yZFlR?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-21T15:23:48.000Z",
       "pub_sort_dt": "2026-08-21 23:23:48"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "印尼与中国商讨加强国防合作与能源安全 - AP News",
-      "title_cn": "印尼与中国商讨加强国防合作与能源安全 - AP News",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxPV1YtV0wwcVpTS3JYVERwRnZlZVJTc1o0bWluSzJBb2NsMWNkYVE3ekg0QjhoUGRYcGNIVU1PalM3cDVBN0NlakxBUkNhYnNiSGJ5TWVacHZVWDJzQ2hWdVVrd3JSZmxBbktCQUV3V3Q2ZjBJTmNudkxzX19jT01KQTFObkZfSEhYSkZqTnU3SWhSd01J?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T15:16:00.000Z",
-      "pub_sort_dt": "2026-08-21 23:16:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在中国史上最大规模的汽车召回行动中，特斯拉及另外8家企业将解决车门安全问题 - The New York Times",
-      "title_cn": "在中国史上最大规模的汽车召回行动中，特斯拉及另外8家企业将解决车门安全问题 - The New York Times",
-      "url": "https://news.google.com/read/CBMie0FVX3lxTE92a1VCaGZfWlVRU2I2M2UwU2d0bUtPU3daOUpDMXBmZTVWYmd4dzFua0Via3RwenV2aktxZE82WURmbmlXaUdVcnBKMldTOHo0V2dhZUNRX2o0eWdvdG5laDBNR2FwMTV4Z1QxdndTQXB3b0xrU2JsaThXSQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T15:09:19.000Z",
-      "pub_sort_dt": "2026-08-21 23:09:19"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "独家报道 Waico 与 Pax Silica：东南亚在中美人工智能竞赛中陷入两难 - South China Morning Post",
-      "title_cn": "独家报道 Waico 与 Pax Silica：东南亚在中美人工智能竞赛中陷入两难 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMi3gFBVV95cUxQWldldDhIaDExdDVRODFnenNDSnJGQmFKakpoV1FyNGlvWlRwa2NMb3BLaW15UGNQcmZMSV9JNEg5a0ZSc2t4d3VmWS1JRHl6QkhyeV82QU9mTFBHUWszUV9hZTY1ZTg1SXpRZFdCYk1uTDVQQWd1ZWE0THNSdHRuREE3RG5MYWVXMGw4RlBxVHM2WFg1UmpSNXNST09QeGl1TE5BM2pOOFhoWUl2QkR3WFpjdjlzaENUb1U3SGZFVG51RzA1UmNyY1NTTGJMMFV3WVp1Y3EwSDllcFJfN2fSAd4BQVVfeXFMTWc2akxrclVFU21aMVk0Zl9vMVF1SGhqeHdYOXFFQmZyYnBDWUNaVGtIMHJZRHFCb0NCYUVmNFZwdGN0NjctS2gyTjR1Rk80bkwxX1ZZeUFrclRaV0JGOWNoaUNRckVDM1F6cnZ2MlpSNUNxX3MwWWdfa1BIRVBTTFlOUVl5MWRmc2NrRzBlSmVFS0tmRU9qZmR3Vl8wU09FQldHaVItSE9GVnNXUzA0c1BBQkhwYlEyNXpfTWMwMTZfYTZjWFhlSEpZdlAxNW1aZEZacnp4U08yVm1BcnNB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T15:00:05.000Z",
-      "pub_sort_dt": "2026-08-21 23:00:05"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国芯片制造商YMTC计划通过在上海的首次公开募股（IPO）筹集49亿美元 - Bloomberg.com",
-      "title_cn": "中国芯片制造商长江存储计划通过在上海的首次公开募股（IPO）募集49亿美元 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxOMUF3OV85aTVBV2xiS1EzWWI2QnFWalJPZXNpeDRnU2JwMElxZXZ4TkxUTGhwZjZBTHhVN0E5ZHVRVzBITnV6eUtaWVdJOUJDaGJ5NFVhQnpwQnRCSU5YOVQ3Wk15ZUZiSkVvWkNzM3RIOG1uYS01bnYycVhnRWFaTXJzYjNzNHQzTExNSmlEZ2NYOFZMcDhQOVBXMzYzMWQzaVNydGlBRDZpVmZzNC0xNWRMX0Q?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T14:44:27.000Z",
-      "pub_sort_dt": "2026-08-21 22:44:27"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "据称，美国海军飞机穿越了台湾海峡",
+      "title_cn": "需求，美国海军飞机穿越了台湾海峡",
+      "url": "https://reut.rs/4gqybx5",
+      "pub_raw": "2026-08-22T03:17:16.155Z",
+      "pub_sort_dt": "2026-08-22 11:17:16"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国的机器人会摇滚、打拳击和调制饮料。它们能胜过人类吗？",
+      "title_cn": "中国的机器人会摇滚、打拳击和调制饮料。它们能胜过人类吗？",
+      "url": "https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-22T01:25:50.721Z",
+      "pub_sort_dt": "2026-08-22 09:25:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
+      "title_cn": "新加坡和香港正考虑通过减税优惠来吸引资金管理机构",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-22/singapore-and-hong-kong-weigh-tax-cut-race-to-secure-money-managers",
+      "pub_raw": "2026-08-22T01:09:34.493Z",
+      "pub_sort_dt": "2026-08-22 09:09:34"
+    },
     {
       "source": "Bloomberg",
       "title_en": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
@@ -167,7 +191,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国正考虑主办2028年联合国气候谈判的提议",
-      "title_cn": "中国正考虑主办2028年联合国气候谈判的提议",
+      "title_cn": "中国正考虑主办2028年联合国气候谈判的倡议",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/china-considering-proposal-to-host-2028-un-climate-talks",
       "pub_raw": "2026-08-21T12:21:37.439Z",
       "pub_sort_dt": "2026-08-21 20:21:37"
@@ -175,7 +199,7 @@
     {
       "source": "Reuters",
       "title_en": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
-      "title_cn": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
+      "title_cn": "特斯拉对中国市场上的数百万辆卡车中国制造及进口电动汽车进行软件修复",
       "url": "https://reut.rs/4gpAQas",
       "pub_raw": "2026-08-21T11:17:15.581Z",
       "pub_sort_dt": "2026-08-21 19:17:15"
@@ -183,7 +207,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国放缓紧缩政策，预算支出降幅收窄",
-      "title_cn": "中国放缓紧缩政策，预算支出降幅收窄",
+      "title_cn": "中国近期紧缩政策，预算支出降幅收窄",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-scales-back-austerity-with-smaller-drop-in-budget-spending",
       "pub_raw": "2026-08-21T11:01:27.875Z",
       "pub_sort_dt": "2026-08-21 19:01:27"
@@ -191,7 +215,7 @@
     {
       "source": "Bloomberg",
       "title_en": "据称中国正在考虑申办联合国气候峰会",
-      "title_cn": "据称中国正在考虑申办联合国气候峰会",
+      "title_cn": "提案中国正在考虑申办联合国气候峰会",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-said-to-weigh-potential-bid-to-host-2028-un-climate-summit",
       "pub_raw": "2026-08-21T09:09:15.678Z",
       "pub_sort_dt": "2026-08-21 17:09:15"
@@ -227,35 +251,43 @@
       "url": "https://reut.rs/4g5PfJS",
       "pub_raw": "2026-08-21T08:05:14.117Z",
       "pub_sort_dt": "2026-08-21 16:05:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国与印度尼西亚在雅加达举行的高层会谈中就加强防务合作达成共识",
-      "title_cn": "中国与印度尼西亚在雅加达达成的高层楼梯中就加强防务合作达成共识",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-indonesia-agree-on-closer-defense-ties-in-high-level-talks-in-jakarta",
-      "pub_raw": "2026-08-21T07:49:19.342Z",
-      "pub_sort_dt": "2026-08-21 15:49:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普计划扼杀伊朗经济，或招致中国反制",
-      "title_cn": "特朗普计划扼杀伊朗经济，或招致中国反制",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/trump-risks-china-blowback-with-plan-to-isolate-iran-s-economy",
-      "pub_raw": "2026-08-21T06:13:21.486Z",
-      "pub_sort_dt": "2026-08-21 14:13:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国的高端24小时水疗中心为健康旅游者提供鱼子酱与放松体验",
-      "title_cn": "中国的旅游24小时水疗中心为健康游客提供鱼子酱与放松体验",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-s-luxury-24-hour-spas-offer-caviar-and-relaxation-to-wellness-travelers",
-      "pub_raw": "2026-08-21T05:57:13.209Z",
-      "pub_sort_dt": "2026-08-21 13:57:13"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "为何中国外长访韩之行对首尔“是一记下作的打击” - South China Morning Post",
+      "title_cn": "为何中国外长访韩之行对首尔“是一记下作的打击” - 南华早报",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQUGlOWXJwUmtmd0pKaDh3cVZRUTR4dkZmTU9KcHBmbF9WTE4yUGxmSThFbUFyc2FXTndmc3I2TzVwVHFVSjRxdnhUZVZTOHpNZnFqTHRUNzZDNXpuZU9JYWFReVVSc2dxRzZMRVVJdllzZDFzQXBwZTlfTEwtcjkwZFdnb0J0cDZ5SE1MdjBmd01HWGZKYW1HZEVycDdoWkM3SzlIdmhfLWtQbEhveTJLS3IyTWVwSFpjcWtva3FoZUJvMkHSAcMBQVVfeXFMUFJQRkhUazZ1c2F2NDFCT1Awb1RQMjQ4eW9LZ1ZtSzU3YldJTUJ5dUFTaEhLemV6ME84dUY2OUJ0dE1kdGN2UHBnYnVnclF3OHdzU183R3V6YUUwS2I4WnMxalJpTXZrZEtnSzFRRU15M3lYN3VPRDUxMXlFRk1ja3pZcVBJem5YeEpmSG9zRVpsOEtFY0RCYnZvYjFzOUpJYnI2VGVLNks2QjFkeU9NVE5CaHlSaTFxR2NkS2h1MzJZTlNF?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-22T02:00:09.000Z",
+      "pub_sort_dt": "2026-08-22 10:00:09"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "看看中国是如何度过伊朗石油危机的 - WSJ",
+      "title_cn": "看看中国是如何度过伊朗石油危机的 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMilgFBVV95cUxNaEhzdTlmdjZ2WS1MS3FyY21JRk1OaUpkV0RlVEZ6dHZrbU43YXZERkZKLTZCaGpKaFNZNjZUdlEzaUxaREhfYmVXdTZfemh5TkRGQmllM3FiWTVvRjNma1FuMXZlZnIzLXdqQUdQTnp4V1FUMVpTZWU1QmxleHBqQVFYeGdIeEh2aldxTG0za2RJZmpwVWc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-22T02:00:00.000Z",
+      "pub_sort_dt": "2026-08-22 10:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在习近平与特朗普计划会晤前，美国海军飞机穿越台湾海峡 - Reuters",
+      "title_cn": "习近平与特朗普计划会晤前，美国海军飞机穿越台湾海峡 - 路透中文网",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-22T00:43:00.000Z",
+      "pub_sort_dt": "2026-08-22 08:43:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国的机器人会摇滚、打拳击和调制饮料。它们的表现能超越人类吗？ - Financial Times",
+      "title_cn": "中国的机器人会摇滚、打拳击和调制饮料。它们的表现能超越人类吗？ - 英国《金融时报》",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOMGM2MWNBTzVzYkZTRHBTOW4zcFNjUXFCYnBLUXN0bzB2aGVRbTlVcWRIY1hDWmxEQWlrQTlCNGZ4MFpDUndxUC14RFdBMmlsNmRsRlRTMXFBbUdjS2RYTmVpck5hVzduN0hLMVhQNFBDS2pTTkF3eU40SGlRbU14b2s2aVA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-22T00:41:11.000Z",
+      "pub_sort_dt": "2026-08-22 08:41:11"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "特斯拉因车门把手存在安全隐患，在中国召回近300万辆汽车 - The Guardian",
       "title_cn": "特斯拉因车门部分存在安全隐患，在中国召回近300万辆卡车 - The Guardian",
       "url": "https://news.google.com/read/CBMigwFBVV95cUxOcVBmYzE5cWFjUHFoczVnNTFqOXJCSXN4YXBVcTNjWWRwRk82cnBTTE1DRGVOTHdKbmJMemlyMnk4aTQxNHhWYWlxNGlQaTJVN3MzV3NyaTZRdmpEVDJ1OXRKWFdER3c1dmlnNUk5SWNWWjNxV0ExT0VMZ0U1eFdYVllSOA?hl=en-US&gl=US&ceid=US%3Aen",
@@ -303,36 +335,28 @@
       "pub_sort_dt": "2026-08-21 23:23:48"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "印尼与中国商讨加强国防合作与能源安全 - AP News",
-      "title_cn": "印尼与中国商讨加强国防合作与能源安全 - AP News",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxPV1YtV0wwcVpTS3JYVERwRnZlZVJTc1o0bWluSzJBb2NsMWNkYVE3ekg0QjhoUGRYcGNIVU1PalM3cDVBN0NlakxBUkNhYnNiSGJ5TWVacHZVWDJzQ2hWdVVrd3JSZmxBbktCQUV3V3Q2ZjBJTmNudkxzX19jT01KQTFObkZfSEhYSkZqTnU3SWhSd01J?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T15:16:00.000Z",
-      "pub_sort_dt": "2026-08-21 23:16:00"
+      "source": "Reuters",
+      "title_en": "据称，美国海军飞机穿越了台湾海峡",
+      "title_cn": "需求，美国海军飞机穿越了台湾海峡",
+      "url": "https://reut.rs/4gqybx5",
+      "pub_raw": "2026-08-22T03:17:16.155Z",
+      "pub_sort_dt": "2026-08-22 11:17:16"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "在中国史上最大规模的汽车召回行动中，特斯拉及另外8家企业将解决车门安全问题 - The New York Times",
-      "title_cn": "在中国史上最大规模的汽车召回行动中，特斯拉及另外8家企业将解决车门安全问题 - The New York Times",
-      "url": "https://news.google.com/read/CBMie0FVX3lxTE92a1VCaGZfWlVRU2I2M2UwU2d0bUtPU3daOUpDMXBmZTVWYmd4dzFua0Via3RwenV2aktxZE82WURmbmlXaUdVcnBKMldTOHo0V2dhZUNRX2o0eWdvdG5laDBNR2FwMTV4Z1QxdndTQXB3b0xrU2JsaThXSQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T15:09:19.000Z",
-      "pub_sort_dt": "2026-08-21 23:09:19"
+      "source": "Financial Times",
+      "title_en": "中国的机器人会摇滚、打拳击和调制饮料。它们能胜过人类吗？",
+      "title_cn": "中国的机器人会摇滚、打拳击和调制饮料。它们能胜过人类吗？",
+      "url": "https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-22T01:25:50.721Z",
+      "pub_sort_dt": "2026-08-22 09:25:50"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "独家报道 Waico 与 Pax Silica：东南亚在中美人工智能竞赛中陷入两难 - South China Morning Post",
-      "title_cn": "独家报道 Waico 与 Pax Silica：东南亚在中美人工智能竞赛中陷入两难 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMi3gFBVV95cUxQWldldDhIaDExdDVRODFnenNDSnJGQmFKakpoV1FyNGlvWlRwa2NMb3BLaW15UGNQcmZMSV9JNEg5a0ZSc2t4d3VmWS1JRHl6QkhyeV82QU9mTFBHUWszUV9hZTY1ZTg1SXpRZFdCYk1uTDVQQWd1ZWE0THNSdHRuREE3RG5MYWVXMGw4RlBxVHM2WFg1UmpSNXNST09QeGl1TE5BM2pOOFhoWUl2QkR3WFpjdjlzaENUb1U3SGZFVG51RzA1UmNyY1NTTGJMMFV3WVp1Y3EwSDllcFJfN2fSAd4BQVVfeXFMTWc2akxrclVFU21aMVk0Zl9vMVF1SGhqeHdYOXFFQmZyYnBDWUNaVGtIMHJZRHFCb0NCYUVmNFZwdGN0NjctS2gyTjR1Rk80bkwxX1ZZeUFrclRaV0JGOWNoaUNRckVDM1F6cnZ2MlpSNUNxX3MwWWdfa1BIRVBTTFlOUVl5MWRmc2NrRzBlSmVFS0tmRU9qZmR3Vl8wU09FQldHaVItSE9GVnNXUzA0c1BBQkhwYlEyNXpfTWMwMTZfYTZjWFhlSEpZdlAxNW1aZEZacnp4U08yVm1BcnNB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T15:00:05.000Z",
-      "pub_sort_dt": "2026-08-21 23:00:05"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国芯片制造商YMTC计划通过在上海的首次公开募股（IPO）筹集49亿美元 - Bloomberg.com",
-      "title_cn": "中国芯片制造商长江存储计划通过在上海的首次公开募股（IPO）募集49亿美元 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxOMUF3OV85aTVBV2xiS1EzWWI2QnFWalJPZXNpeDRnU2JwMElxZXZ4TkxUTGhwZjZBTHhVN0E5ZHVRVzBITnV6eUtaWVdJOUJDaGJ5NFVhQnpwQnRCSU5YOVQ3Wk15ZUZiSkVvWkNzM3RIOG1uYS01bnYycVhnRWFaTXJzYjNzNHQzTExNSmlEZ2NYOFZMcDhQOVBXMzYzMWQzaVNydGlBRDZpVmZzNC0xNWRMX0Q?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-21T14:44:27.000Z",
-      "pub_sort_dt": "2026-08-21 22:44:27"
+      "source": "Bloomberg",
+      "title_en": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
+      "title_cn": "新加坡和香港正考虑通过减税优惠来吸引资金管理机构",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-22/singapore-and-hong-kong-weigh-tax-cut-race-to-secure-money-managers",
+      "pub_raw": "2026-08-22T01:09:34.493Z",
+      "pub_sort_dt": "2026-08-22 09:09:34"
     },
     {
       "source": "Bloomberg",
@@ -409,7 +433,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国正考虑主办2028年联合国气候谈判的提议",
-      "title_cn": "中国正考虑主办2028年联合国气候谈判的提议",
+      "title_cn": "中国正考虑主办2028年联合国气候谈判的倡议",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/china-considering-proposal-to-host-2028-un-climate-talks",
       "pub_raw": "2026-08-21T12:21:37.439Z",
       "pub_sort_dt": "2026-08-21 20:21:37"
@@ -417,7 +441,7 @@
     {
       "source": "Reuters",
       "title_en": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
-      "title_cn": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
+      "title_cn": "特斯拉对中国市场上的数百万辆卡车中国制造及进口电动汽车进行软件修复",
       "url": "https://reut.rs/4gpAQas",
       "pub_raw": "2026-08-21T11:17:15.581Z",
       "pub_sort_dt": "2026-08-21 19:17:15"
@@ -425,7 +449,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国放缓紧缩政策，预算支出降幅收窄",
-      "title_cn": "中国放缓紧缩政策，预算支出降幅收窄",
+      "title_cn": "中国近期紧缩政策，预算支出降幅收窄",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-scales-back-austerity-with-smaller-drop-in-budget-spending",
       "pub_raw": "2026-08-21T11:01:27.875Z",
       "pub_sort_dt": "2026-08-21 19:01:27"
@@ -433,7 +457,7 @@
     {
       "source": "Bloomberg",
       "title_en": "据称中国正在考虑申办联合国气候峰会",
-      "title_cn": "据称中国正在考虑申办联合国气候峰会",
+      "title_cn": "提案中国正在考虑申办联合国气候峰会",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-said-to-weigh-potential-bid-to-host-2028-un-climate-summit",
       "pub_raw": "2026-08-21T09:09:15.678Z",
       "pub_sort_dt": "2026-08-21 17:09:15"
@@ -469,30 +493,6 @@
       "url": "https://reut.rs/4g5PfJS",
       "pub_raw": "2026-08-21T08:05:14.117Z",
       "pub_sort_dt": "2026-08-21 16:05:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国与印度尼西亚在雅加达举行的高层会谈中就加强防务合作达成共识",
-      "title_cn": "中国与印度尼西亚在雅加达达成的高层楼梯中就加强防务合作达成共识",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-indonesia-agree-on-closer-defense-ties-in-high-level-talks-in-jakarta",
-      "pub_raw": "2026-08-21T07:49:19.342Z",
-      "pub_sort_dt": "2026-08-21 15:49:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普计划扼杀伊朗经济，或招致中国反制",
-      "title_cn": "特朗普计划扼杀伊朗经济，或招致中国反制",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/trump-risks-china-blowback-with-plan-to-isolate-iran-s-economy",
-      "pub_raw": "2026-08-21T06:13:21.486Z",
-      "pub_sort_dt": "2026-08-21 14:13:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国的高端24小时水疗中心为健康旅游者提供鱼子酱与放松体验",
-      "title_cn": "中国的旅游24小时水疗中心为健康游客提供鱼子酱与放松体验",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-s-luxury-24-hour-spas-offer-caviar-and-relaxation-to-wellness-travelers",
-      "pub_raw": "2026-08-21T05:57:13.209Z",
-      "pub_sort_dt": "2026-08-21 13:57:13"
     }
   ]
 }
