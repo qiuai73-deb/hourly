@@ -1,10 +1,10 @@
 {
-  "update_cst": "2026-08-23 22:00:56 北京时间",
+  "update_cst": "2026-08-24 06:01:06 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 10,
+    "The Economist": 1,
+    "Bloomberg": 9,
     "Financial Times": 2,
     "Wall Street Journal": 2,
     "Reuters": 6
@@ -12,6 +12,46 @@
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "地球另一端的一个强国正在悄然影响着特朗普的最新贸易之争 - Fox Business",
+      "title_cn": "地球另一端的一个强国正在悄然影响着特朗普的最新贸易之争 - Fox Business",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxQdXpWZllXejZ6T3FtZF9BM3BrSWtzLVBTdlRhVjFnZnllaGVLdGNQV3B1WTZpTXI3bzNFc1F5Zk1nX19yU19JcGJKaXhKbExnNzVwR09ZQjZ3OVVoVDdMZFhEYjgzSi05bW8yczVLWVk4azZ0LTZzejFSYTFfV1NRNlpacmotRTVKSDhqVU9jdEtmTFdnSHl6OXMtTFN5MVdsREJKNE05ZkVsa0pna3BjNnhB0gG3AUFVX3lxTE92bkFRbEV2cmV3SVk5VWY0S29FaERrb0ZyMHh3ZktUYlZ4TWNGOE9heGhwV2d4UlpYMXlTdVNFeGVOdTBzN3U0TktHcmNJZERvdjZnV1hyRUlBNU9CbjRTY2ZkRVNiOGRNZGJTdzM3V3dZenE1NTBNRXEtMnhVTGhSZjhodFM2SGw2ZElfemtmRjVsVFFvbWxTTWpOeFNadVVQSHRkZW14YVpTb08yMUNDWDVBRWtEUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T18:41:00.000Z",
+      "pub_sort_dt": "2026-08-24 02:41:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国突然推迟了一项雄心勃勃的登月任务 - Politico",
+      "title_cn": "中国突然推迟了一项雄心勃勃的登月任务 - Politico",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPY1NEWTJoME93UWlqU0RwOURBTHFPZzBSZm44ODVDNGl0NG03TVJ6WXBuaGJZZVRaamZSTFZyb0pEMXY1SWhhTTlVQUUydlJKMDZ3bkdtUERnZ1Q4cVJMN3hadDhkRHpfQ3lLaVlObGI5SlhRaDZYNWo2YW1xam5USGVLQTc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T18:00:00.000Z",
+      "pub_sort_dt": "2026-08-24 02:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着紧张局势加剧，中国“积极致力于”伊朗问题谈判 - Bloomberg.com",
+      "title_cn": "随着紧张局势加剧，中国“积极致力于”伊朗问题谈判 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxNa3lCZ2FJNXI3ZmxaWWVnamxXbXc4bzQyZFpybEhObmYwWWM5Uk9qZnh6Q0UteUU1bDFHN0hjQWdpV2VpUFJ2U3FwbWplalk3Q0dRTFdmd0p6Z29Rdno3RmtDS3R5X05BMGtPUFVQVE14OXpEV1lLdk5IcGxJS0dvSVNRMGlrYkIxWXhPRkV4REFqVlJ6SWpZYVl1TUVMVmlydHo2SGo2Mm9sS3N1Tkg0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T13:42:45.000Z",
+      "pub_sort_dt": "2026-08-23 21:42:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国突然推迟了雄心勃勃的“嫦娥七号”登月任务的发射 - AP News",
+      "title_cn": "中国突然推迟了雄心勃勃的“嫦娥七号”登月任务的发射 - AP News",
+      "url": "https://news.google.com/read/CBMilgFBVV95cUxQWXEwX0JsZ3g2N2oyb1p1YkpvT3BneC1TUWxLWUFNdHNsc3pwOUF2UW1XZ014ZE9iVWVTSXJCQi1JUE1ueTBxQ3g4UkRBQnRoZWt4TzlUbTVEY0liS2g2QjJQNVdLS25LcXpkbjZ2cXJnUDFvdlhtQU9sZWRqQXY4QzlTZXMyU1ZtejlacGxLeWhRWjl2aVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T13:39:00.000Z",
+      "pub_sort_dt": "2026-08-23 21:39:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着中国人工智能的不断发展，非洲企业保持灵活应对 - South China Morning Post",
+      "title_cn": "随着中国人工智能的不断发展，非洲企业保持灵活应对 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxPakdKUWc4TkNfTWd0eUZtcWxHREUxWTBqYU1PSjR3NG03VWFnQ0F6Qm9MSi1qYlNpdUQtemRsWVdsQy1DazdVdHhncDJzN1dLWlBGZnpRZ2xJZ0NDbWo3Z0V0S3FzR2F2eXZlek9jWDFtTkZ6dFAxRml0UkI1SmUxdXprWnZzQmYtX2x5cWY2cEVVTXg5MVlHbnNVOTdIaHZETzFkcV9kT2oteW1nQ0diZ1h0cWZOLTVTLVdac9IBvAFBVV95cUxOR1R0NWJZOThjR1BpV2gxMlZPaWxxZ0Y4NjVhSWE3WFJoRm1Wa2EzVWtDNFgxbTNDS0F1NG9XQXZTWGZkYzZWNVByYzJPbC1UeHVnVmJxM3RnSTQzZFplUVN2ZFFaaWpLNk5idEhsRTl4Z1BCQ1FwZHUyMVZ0S0JCSHFmR1FabHNMS19IRHN3T3g4anh3YmlyWEVJRVo5N1RoSUZ2aUtEdHkzZmVxMkpCbkdnWWV5emJ0aTU5cg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T12:00:05.000Z",
+      "pub_sort_dt": "2026-08-23 20:00:05"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "新冷战的曙光 - The Intercept",
       "title_cn": "新冷战的曙光 - The Intercept",
       "url": "https://news.google.com/read/CBMid0FVX3lxTE5ma19kSnpSa0VsQW9RWVdweHhpand5d09pTW41dUZvWkVrRmRMdWltZ2VUOE1SbkhsSENmMElYc1I2YTBxdjgyVlNxUUtmX2E2Qm9EaFJsUVFhaTg5R0I3UEdubXljVjJUTmFsem5aQW9nVHNkZnVz?hl=en-US&gl=US&ceid=US%3Aen",
@@ -20,8 +60,24 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "为何中国媒体称美国历史学家正在为“分裂分子”提供“弹药” - South China Morning Post",
+      "title_cn": "为何中国媒体称美国历史学家正在为“分裂分子”提供“弹药” - South China Morning Post",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxQRWlrdnhZaTR6S2dHQm5fc3hEd3FqQ1hPMVUtXzBKLVpYcXdqUWpZYVFIOGZVRE52SkJDZTlscW5zOUJyX1VGUkd2OGo0LWZUR19KanFId2EwbGN6aXpvbGxFT3U3Z1pHVmR2ckZJV0R4Y2VrcmhEVDgtN0E2RWxhOS1EQU5tRW41NnZkYkJoNjRqZVN4amIzelVyeDRINXA2TWk2RThYZVAzV2FvVDF5aEJndW02NFpKWlJxQ3RuZVRjdUZIZ2Rv0gHHAUFVX3lxTE9BNlJkTlFXUGJSODN2TFJnYk1FajRub2Y3MGpTS09DTUVqenFWV0NjakJiNllfQWFVSTlleEZuNXNlQVpVa2loSnZuTTVHamJnX0J6U2VFdHlMT0p2cWdxLTRFT3JjN0FYRjZ0X1NpRmhYQUJOdnlWSTVTZS15UmZyQk9oX29Bc0o4SmpIdnBrdUNYYW5WTjI5NFBKX1F5MTlRazRnMlB6WG56VER5RHF2YUVPWWNCLXN0T2tOSXo0NlJJdV9VM3c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T10:00:14.000Z",
+      "pub_sort_dt": "2026-08-23 18:00:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "台湾总统在中国抗战纪念日上表示：“以实力求和平” - NBC News",
+      "title_cn": "台湾总统在中国抗战纪念日上表示：“以实力求和平” - NBC News",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxQcVFSOGtvQUVaUG12NDRxUTMxX0FFYUtSRXhRSDItRUpsYjYtRTBHUkotWjA1LXVkaE52dDBKLUhWUm9xdHNCSGNZT1gwczdaU1BDVEZvSGF1Q1dqV0dGbU0wdFMtdmRrS25WSFBfckVwWG5yemQtSTZtZm91cGV4X2d1Z1BZVWtJN2t1SHZtQVFIZnRocnN3d3JIajIxbENGS0pQQ0Mzaw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T07:05:16.000Z",
+      "pub_sort_dt": "2026-08-23 15:05:16"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "随着中国市场的销售前景黯淡，欧洲葡萄酒生产商正寻求开拓新市场 - South China Morning Post",
-      "title_cn": "随着中国市场的销售前景黯淡，欧洲葡萄酒生产商正寻求开拓新市场 - 南华早报",
+      "title_cn": "随着中国市场的销售前景黯淡，欧洲葡萄酒生产商正寻求开拓新市场 - South China Morning Post",
       "url": "https://news.google.com/read/CBMiwAFBVV95cUxPTUd5QnRrLXRBbVBiWmg1blBjVmFqeTFpWHRZX0stazdkS21lT29qZXZBY2NsblVqQi1fU0Q2Z3AwYWRKT21vSTRFT3B6bTRLSEpqZEFXMEJ4Ni04cUxLWmdBbHpoeFEwY2p3SUxQek9tVi12dmhPcm1yODFpRm12STlDUmFMak9tUEYyNFd2SFV4ejFRNDlTR2U3MUV1S3JzbzRxYTJ6dWREcks4YVNBRXljZDYyelYydFd5TUY2QnDSAcABQVVfeXFMUEtQeXdBaGk3Ti10U2hzcV82OEd6aEU4YWVlczU2SWNENlVyYjczcTVUazFQT2xvWllzdEVFcWN2eGY1M25tdjZ1NHdySEd1Uk5OSm5EM1hvLTZFU3ZpZnlBWEdFb0h4S1h4Y0RNQ1ZKT3R3X2ZkVEk1bXdYRVdEZXItYlBFTThVbEoxb3R1NUZ3Rzc0NXZSWFdCWFRHY3Jfczc1S0J2UGF6Nkh4V1ZwU2UxdHBSSEZJZVBGT3d1MUhl?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-23T07:00:04.000Z",
       "pub_sort_dt": "2026-08-23 15:00:04"
@@ -29,69 +85,21 @@
     {
       "source": "China Buzzing",
       "title_en": "费特曼在推动人工智能发展方面与特朗普立场一致，并警告称中国将从美国的“过度反应”中获益 - Fox News",
-      "title_cn": "费特曼在推动人工智能发展方面与特朗普观点一致，并警告称中国对美国的“过度反应”中举 - 福克斯新闻",
+      "title_cn": "费特曼在推动人工智能发展方面与特朗普立场一致，并警告称中国将从美国的“过度反应”中获益 - Fox News",
       "url": "https://news.google.com/read/CBMiogFBVV95cUxOQXFxSFVzLS0xOXIwY1VPeXFGemI1T0FxSnFvelVfY29LZGtxQzZ0alU2MHFMd2hUTXUyelMwUUZEY0FkVS01ZWYzOW9DdFpJdnJ1eGtnNlQ2cXNfWjlFemc0T0hTMVlRQVpQWmlyak5QS2pwaG5lYXBncjZTZ1ZJMWRzazNvZnZrZzVOZ2NDbTJUNjVsMC1JNlNDTU5yMEoxTXfSAacBQVVfeXFMTjU1d1JiNEx6TW11aC1HQzJtTFVSdmI5U0xtNFlpVkxBYTZwUW0tcDRDUllmMnZpNHhkMnJlcjY0cGRlRzFlOXZITzdqcVdxOGMtV3hWbk5ibXY1VVlBOElva21UTmItUUtlSHZzcGJfTUdYVkxUZnZuLVl6Y0p4ZjYtREdmWHNvZV9IakphOWx5cHdIajhOOUxIdHFyd2xJa09Kd2NhT2c?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-23T06:52:01.000Z",
       "pub_sort_dt": "2026-08-23 14:52:01"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "台湾总统在中国抗战纪念日当天表示：“以实力维护和平” - Reuters",
-      "title_cn": "台湾总统在中国抗战纪念日当天表示：“以维护实力和平” - 路透社",
-      "url": "https://news.google.com/read/CBMiuAFBVV95cUxNd29YcXQzMHVTQVR1SFNUb2tUV1AxR18yZFlfYzlZWXNQNVlBQVV5a21raGM0X3dobTU5cVFIZXAzYnIyVURoc0ZWOW45bFd6WWREOXhaazhiSFB4OHBxSWM4cEJhVVB6WHctM0RQOXBjbkJBdnVnZTB5RlhIY2NuUGpielJhVVNfM0lEZHdJNEEzSmVuWFZuNWlidkZMNlRFbE5LRHNXRDF5MEhfVHF3RWJnajFETktY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T05:33:00.000Z",
-      "pub_sort_dt": "2026-08-23 13:33:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国供应了全球大部分的血浆。没有哪个国家比中国更依赖血浆了。 - CNN",
-      "title_cn": "美国供应了全球大部分的艾滋病。没有哪个国家比中国更多的艾滋病。 - CNN",
-      "url": "https://news.google.com/read/CBMigAFBVV95cUxNWnZ3V2U1a1VJSXpIZ0tNQkVrTUFkNmtIZjd4T2kwdEJCQjlOT29sWVB3WkE0a0N2czNVcUVSOVYydmxralNoOUUzcFVERGU2RmhxSzZIN0NnLThrVTczRnl4djlqRFBGdDY1bGNzdGtWZ1YySWxjSVA4Nm1MX1NDeg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T04:01:29.000Z",
-      "pub_sort_dt": "2026-08-23 12:01:29"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "从山脉到海洋：中国打造环绕全国高速公路网的计划 - South China Morning Post",
-      "title_cn": "从山脉到海洋：中国打造环全国高速公路网的计划 - 南华早报",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxQNDdjcjBKNHB1VXBjbnFlaVVoWXh4a3JxLXFpcGpsWDA3bUpjS0JMb2xaY21wN01Jd0pDclJlMHVDYm1aZTNTLWgwbTNVSmFLenpLSVRMTU0yYWFxWmJHLUFhUS1GWVFnU2xMcmJxd1RSOXNOM2psQmIyR2J3djFkYnFMNlFrQl8zNl96N3ZUMmYyTF9mSzAzY2E4STZFN3h6REd2MVRSSkp0Rld3NXZIYV9OaUo3V0hiX3VBTlhHNG1qQmZhZVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T01:00:10.000Z",
-      "pub_sort_dt": "2026-08-23 09:00:10"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "太平洋国家如何在西方安全与中国贸易之间走钢丝 - South China Morning Post",
-      "title_cn": "太平洋国家如何在西方安全与中国贸易之间走钢丝 - 南华早报",
-      "url": "https://news.google.com/read/CBMi0AFBVV95cUxNeTNvRmRPU1VMV3I2UzR4TlBWckJGMzU4UlBmb0REUllxcV84T2dsUkh1bnZqZ1RESGNqYTNQQkFfclJXVVZqRnBOOUkxNjZVWEpsNFphcVRBT3l3NXcweHFMYTBxUmZwMmxydXo2SXhDLXdUMjZYRTg5bklrWEJmVElYWUNuRXZlZldMSHpWcXJMS1NRbWNDbUtOX0ZEbERxOG01TUZvY28tZDJtYTBxc0htQjJSc3JvT3loUTBLTnpsMHFQNTljTXVQWUgxV2RJ0gHQAUFVX3lxTE5TaHcyTDBMTndYNWRBM0NZTnNXR2hUOXdZSmlGaTZyRURhV056UXh1ZnhKd2FqZTlTLVVqYmtvZUVmLUMxSHhUZnMyNEgxbl9SLVlkTGVUWnF0MGo0T3k3MkJvTlFvcVdvTEw2OVNhR1VUeHRWYkc5VVcwN1dFRlBWb0hwalhxOF95ZTVQQ0NIUlRkWDZSVGRTdXlabnFMWFQ0REF0Z3llQ2JXN2VuMkxWTDVzOU5qYVJXMFBPMWhZWUM0N014RmxDa0NGd3F6Zms?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T22:00:10.000Z",
-      "pub_sort_dt": "2026-08-23 06:00:10"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在中国“机器人奥运会”上，终点线旁设有软垫墙和担架 - Business Insider",
-      "title_cn": "在中国“机器人奥运会”上，终点线旁设有软垫墙和担架 - 商业内幕",
-      "url": "https://news.google.com/read/CBMilwFBVV95cUxPS1Z6Qm5VdDA3NTNSbThxSTVGMUVMbExYa1VDOXBfRUxlOUE3VmVYVVZxWVlSVXVJVWY4WFlJb2Z4RGxWUzYzRlc4eWIzRTBhVlZJaVV1c2Q5a1hmQTdQZVllbmNBeW1MemxkRjAxMXRTY0lUdjF1SlMzRzRZYUdRVHJ6TEpiYzU0S1oyYmVWTFRvbWJiV1Jr?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T19:30:00.000Z",
-      "pub_sort_dt": "2026-08-23 03:30:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "伊朗战争正将美国的盟友和竞争对手推向全球贸易的一个充满风险的新前沿：北极 - NBC News",
-      "title_cn": "伊朗正将美国总统和竞争对手推向全球贸易的一条充满风险的新前沿：战争黑暗 - NBC新闻",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxOMENueFJLSUhoal8yM1RMNnFRVk54aGVLbU1LQU1WV1lxeHJHd0otbHBleEpHU0d2T0FkNGRELTdMbWlncHNydHQwS3pHeEVnTGxGcExpZWJ4a2c5aHNkSmtYdUdXbTBWUUVVWkdnWDZORjFMMDJmaTYxbG1kZXZsOTJYQzJuWUVscWRSdU9feHNCZDNSMUxwYjJhLVZ4MFU2N2xrZXFhd1E4WDZwcDBn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T19:00:41.000Z",
-      "pub_sort_dt": "2026-08-23 03:00:41"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - Yahoo Finance",
-      "title_cn": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxOUkdCeGdDaHJscWhNQ2JLV3ozcVBicTZwaUdiYy1hdlRBc25Gby1zcTlKUWJEVjI5Sm1qeXN4M1BRUHdmWHczTWtLM05BM3FucEVYQ1VVMk1fV1cyTl9wNDBLSTllY0kyRXYxRHJ2N0wtWWNlRlg3eVVHbWpZRUpYNW1FQTJiNFFsSzJGU1FLa1NZZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T18:01:08.000Z",
-      "pub_sort_dt": "2026-08-23 02:01:08"
     }
   ],
   "media_news": [
+    {
+      "source": "The Economist",
+      "title_en": "中国正在培训数千台类人机器人",
+      "title_cn": "中国正在培训数千台类人机器人",
+      "url": "https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots",
+      "pub_raw": "2026-08-23T14:29:56.154Z",
+      "pub_sort_dt": "2026-08-23 22:29:56"
+    },
     {
       "source": "Bloomberg",
       "title_en": "香港的陈某表示，香港必须应对人工智能对就业带来的风险",
@@ -111,7 +119,7 @@
     {
       "source": "Bloomberg",
       "title_en": "欧洲奢侈品巨头在中国这一关键市场中看到复苏迹象",
-      "title_cn": "欧洲奢侈品工会在中国这一关键市场中迎来复苏",
+      "title_cn": "欧洲奢侈品巨头在中国这一关键市场中看到复苏迹象",
       "url": "https://www.bloomberg.com/news/articles/2026-08-23/europe-s-luxury-giants-discern-green-shoots-in-key-china-market",
       "pub_raw": "2026-08-23T07:18:11.235Z",
       "pub_sort_dt": "2026-08-23 15:18:11"
@@ -119,7 +127,7 @@
     {
       "source": "Reuters",
       "title_en": "台湾总统在中国抗战纪念日发表讲话：以实力维护和平",
-      "title_cn": "台湾总统在中国抗战纪念日发表讲话：以维护实力和平",
+      "title_cn": "台湾总统在中国抗战纪念日发表讲话：以实力维护和平",
       "url": "https://reut.rs/4qxeHeF",
       "pub_raw": "2026-08-23T06:29:17.244Z",
       "pub_sort_dt": "2026-08-23 14:29:17"
@@ -135,7 +143,7 @@
     {
       "source": "Wall Street Journal",
       "title_en": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
-      "title_cn": "据知情人士透露，英伟达计划利用本周完成的60亿美元交易，构建全球最坚固的开放式人工智能模型，以与中国DeepSeek等行业工会。",
+      "title_cn": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
       "url": "https://on.wsj.com/4gmaUfG",
       "pub_raw": "2026-08-23T01:25:34.694Z",
       "pub_sort_dt": "2026-08-23 09:25:34"
@@ -151,7 +159,7 @@
     {
       "source": "Reuters",
       "title_en": "据官方媒体报道，中国类人机器人“闪电”打破了人类100米世界纪录",
-      "title_cn": "据官方媒体报道，中国类人机器人“闪电”突破了人类100米世界纪录",
+      "title_cn": "据官方媒体报道，中国类人机器人“闪电”打破了人类100米世界纪录",
       "url": "https://reut.rs/4wIK87k",
       "pub_raw": "2026-08-22T15:25:47.657Z",
       "pub_sort_dt": "2026-08-22 23:25:47"
@@ -159,7 +167,7 @@
     {
       "source": "Reuters",
       "title_en": "据称，美国海军飞机穿越了台湾海峡",
-      "title_cn": "需求，美国海军飞机穿越了台湾海峡",
+      "title_cn": "据称，美国海军飞机穿越了台湾海峡",
       "url": "https://reut.rs/4gqybx5",
       "pub_raw": "2026-08-22T03:17:16.155Z",
       "pub_sort_dt": "2026-08-22 11:17:16"
@@ -175,7 +183,7 @@
     {
       "source": "Bloomberg",
       "title_en": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
-      "title_cn": "新加坡和香港正考虑通过减税优惠来吸引资金管理机构",
+      "title_cn": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-22/singapore-and-hong-kong-weigh-tax-cut-race-to-secure-money-managers",
       "pub_raw": "2026-08-22T01:09:34.493Z",
       "pub_sort_dt": "2026-08-22 09:09:34"
@@ -183,7 +191,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
-      "title_cn": "香港餐厅点评：Ninetta 提供家常风味的意大利美食",
+      "title_cn": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
       "url": "https://www.bloomberg.com/news/articles/2026-08-22/hong-kong-restaurant-review-ninetta-offers-home-style-italian-cuisine",
       "pub_raw": "2026-08-22T00:21:21.369Z",
       "pub_sort_dt": "2026-08-22 08:21:21"
@@ -191,7 +199,7 @@
     {
       "source": "Reuters",
       "title_en": "解读：关于引发中国史上最大规模汽车召回的车门把手，我们目前了解的情况",
-      "title_cn": "解读：关于引发中国有史以来最大规模的汽车召回的车门部分，我们目前了解的情况",
+      "title_cn": "解读：关于引发中国史上最大规模汽车召回的车门把手，我们目前了解的情况",
       "url": "https://reut.rs/4goEtgO",
       "pub_raw": "2026-08-21T21:57:17.561Z",
       "pub_sort_dt": "2026-08-22 05:57:17"
@@ -207,7 +215,7 @@
     {
       "source": "Reuters",
       "title_en": "信件显示，德国一名州级政界人士呼吁欧盟对中国的混合动力汽车征收关税",
-      "title_cn": "信中显示，德国一个州级政界人士呼吁欧盟对中国的动力混合汽车征收关税",
+      "title_cn": "信件显示，德国一名州级政界人士呼吁欧盟对中国的混合动力汽车征收关税",
       "url": "https://reut.rs/3SKJpok",
       "pub_raw": "2026-08-21T19:17:21.295Z",
       "pub_sort_dt": "2026-08-22 03:17:21"
@@ -223,7 +231,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国芯片制造商YMTC计划通过在上海的首次公开募股（IPO）筹集49亿美元",
-      "title_cn": "中国芯片制造商长江存储计划通过在上海的首次公开募股（IPO）募集49亿美元",
+      "title_cn": "中国芯片制造商YMTC计划通过在上海的首次公开募股（IPO）筹集49亿美元",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-chipmaker-ymtc-seeks-to-raise-4-9-billion-in-shanghai-ipo",
       "pub_raw": "2026-08-21T15:01:45.567Z",
       "pub_sort_dt": "2026-08-21 23:01:45"
@@ -239,23 +247,55 @@
     {
       "source": "Bloomberg",
       "title_en": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
-      "title_cn": "特斯拉因车门部分安全问题在中国召回300万辆电动汽车",
+      "title_cn": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/tesla-recalls-3-million-evs-as-china-cracks-down-on-door-handles",
       "pub_raw": "2026-08-21T12:53:50.652Z",
-      "pub_sort_dt": "2026-08-21 20:53:50"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "华鸿、潍柴动力将纳入香港股市基准指数",
-      "title_cn": "华鸿、潍柴动力将纳入香港股市基准指数",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/hua-hong-grace-weichai-power-to-join-hong-kong-stock-benchmark",
-      "pub_raw": "2026-08-21T12:53:50.623Z",
       "pub_sort_dt": "2026-08-21 20:53:50"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "地球另一端的一个强国正在悄然影响着特朗普的最新贸易之争 - Fox Business",
+      "title_cn": "地球另一端的一个强国正在悄然影响着特朗普的最新贸易之争 - Fox Business",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxQdXpWZllXejZ6T3FtZF9BM3BrSWtzLVBTdlRhVjFnZnllaGVLdGNQV3B1WTZpTXI3bzNFc1F5Zk1nX19yU19JcGJKaXhKbExnNzVwR09ZQjZ3OVVoVDdMZFhEYjgzSi05bW8yczVLWVk4azZ0LTZzejFSYTFfV1NRNlpacmotRTVKSDhqVU9jdEtmTFdnSHl6OXMtTFN5MVdsREJKNE05ZkVsa0pna3BjNnhB0gG3AUFVX3lxTE92bkFRbEV2cmV3SVk5VWY0S29FaERrb0ZyMHh3ZktUYlZ4TWNGOE9heGhwV2d4UlpYMXlTdVNFeGVOdTBzN3U0TktHcmNJZERvdjZnV1hyRUlBNU9CbjRTY2ZkRVNiOGRNZGJTdzM3V3dZenE1NTBNRXEtMnhVTGhSZjhodFM2SGw2ZElfemtmRjVsVFFvbWxTTWpOeFNadVVQSHRkZW14YVpTb08yMUNDWDVBRWtEUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T18:41:00.000Z",
+      "pub_sort_dt": "2026-08-24 02:41:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国突然推迟了一项雄心勃勃的登月任务 - Politico",
+      "title_cn": "中国突然推迟了一项雄心勃勃的登月任务 - Politico",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPY1NEWTJoME93UWlqU0RwOURBTHFPZzBSZm44ODVDNGl0NG03TVJ6WXBuaGJZZVRaamZSTFZyb0pEMXY1SWhhTTlVQUUydlJKMDZ3bkdtUERnZ1Q4cVJMN3hadDhkRHpfQ3lLaVlObGI5SlhRaDZYNWo2YW1xam5USGVLQTc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T18:00:00.000Z",
+      "pub_sort_dt": "2026-08-24 02:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着紧张局势加剧，中国“积极致力于”伊朗问题谈判 - Bloomberg.com",
+      "title_cn": "随着紧张局势加剧，中国“积极致力于”伊朗问题谈判 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxNa3lCZ2FJNXI3ZmxaWWVnamxXbXc4bzQyZFpybEhObmYwWWM5Uk9qZnh6Q0UteUU1bDFHN0hjQWdpV2VpUFJ2U3FwbWplalk3Q0dRTFdmd0p6Z29Rdno3RmtDS3R5X05BMGtPUFVQVE14OXpEV1lLdk5IcGxJS0dvSVNRMGlrYkIxWXhPRkV4REFqVlJ6SWpZYVl1TUVMVmlydHo2SGo2Mm9sS3N1Tkg0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T13:42:45.000Z",
+      "pub_sort_dt": "2026-08-23 21:42:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国突然推迟了雄心勃勃的“嫦娥七号”登月任务的发射 - AP News",
+      "title_cn": "中国突然推迟了雄心勃勃的“嫦娥七号”登月任务的发射 - AP News",
+      "url": "https://news.google.com/read/CBMilgFBVV95cUxQWXEwX0JsZ3g2N2oyb1p1YkpvT3BneC1TUWxLWUFNdHNsc3pwOUF2UW1XZ014ZE9iVWVTSXJCQi1JUE1ueTBxQ3g4UkRBQnRoZWt4TzlUbTVEY0liS2g2QjJQNVdLS25LcXpkbjZ2cXJnUDFvdlhtQU9sZWRqQXY4QzlTZXMyU1ZtejlacGxLeWhRWjl2aVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T13:39:00.000Z",
+      "pub_sort_dt": "2026-08-23 21:39:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着中国人工智能的不断发展，非洲企业保持灵活应对 - South China Morning Post",
+      "title_cn": "随着中国人工智能的不断发展，非洲企业保持灵活应对 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxPakdKUWc4TkNfTWd0eUZtcWxHREUxWTBqYU1PSjR3NG03VWFnQ0F6Qm9MSi1qYlNpdUQtemRsWVdsQy1DazdVdHhncDJzN1dLWlBGZnpRZ2xJZ0NDbWo3Z0V0S3FzR2F2eXZlek9jWDFtTkZ6dFAxRml0UkI1SmUxdXprWnZzQmYtX2x5cWY2cEVVTXg5MVlHbnNVOTdIaHZETzFkcV9kT2oteW1nQ0diZ1h0cWZOLTVTLVdac9IBvAFBVV95cUxOR1R0NWJZOThjR1BpV2gxMlZPaWxxZ0Y4NjVhSWE3WFJoRm1Wa2EzVWtDNFgxbTNDS0F1NG9XQXZTWGZkYzZWNVByYzJPbC1UeHVnVmJxM3RnSTQzZFplUVN2ZFFaaWpLNk5idEhsRTl4Z1BCQ1FwZHUyMVZ0S0JCSHFmR1FabHNMS19IRHN3T3g4anh3YmlyWEVJRVo5N1RoSUZ2aUtEdHkzZmVxMkpCbkdnWWV5emJ0aTU5cg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T12:00:05.000Z",
+      "pub_sort_dt": "2026-08-23 20:00:05"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "新冷战的曙光 - The Intercept",
       "title_cn": "新冷战的曙光 - The Intercept",
       "url": "https://news.google.com/read/CBMid0FVX3lxTE5ma19kSnpSa0VsQW9RWVdweHhpand5d09pTW41dUZvWkVrRmRMdWltZ2VUOE1SbkhsSENmMElYc1I2YTBxdjgyVlNxUUtmX2E2Qm9EaFJsUVFhaTg5R0I3UEdubXljVjJUTmFsem5aQW9nVHNkZnVz?hl=en-US&gl=US&ceid=US%3Aen",
@@ -264,8 +304,24 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "为何中国媒体称美国历史学家正在为“分裂分子”提供“弹药” - South China Morning Post",
+      "title_cn": "为何中国媒体称美国历史学家正在为“分裂分子”提供“弹药” - South China Morning Post",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxQRWlrdnhZaTR6S2dHQm5fc3hEd3FqQ1hPMVUtXzBKLVpYcXdqUWpZYVFIOGZVRE52SkJDZTlscW5zOUJyX1VGUkd2OGo0LWZUR19KanFId2EwbGN6aXpvbGxFT3U3Z1pHVmR2ckZJV0R4Y2VrcmhEVDgtN0E2RWxhOS1EQU5tRW41NnZkYkJoNjRqZVN4amIzelVyeDRINXA2TWk2RThYZVAzV2FvVDF5aEJndW02NFpKWlJxQ3RuZVRjdUZIZ2Rv0gHHAUFVX3lxTE9BNlJkTlFXUGJSODN2TFJnYk1FajRub2Y3MGpTS09DTUVqenFWV0NjakJiNllfQWFVSTlleEZuNXNlQVpVa2loSnZuTTVHamJnX0J6U2VFdHlMT0p2cWdxLTRFT3JjN0FYRjZ0X1NpRmhYQUJOdnlWSTVTZS15UmZyQk9oX29Bc0o4SmpIdnBrdUNYYW5WTjI5NFBKX1F5MTlRazRnMlB6WG56VER5RHF2YUVPWWNCLXN0T2tOSXo0NlJJdV9VM3c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T10:00:14.000Z",
+      "pub_sort_dt": "2026-08-23 18:00:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "台湾总统在中国抗战纪念日上表示：“以实力求和平” - NBC News",
+      "title_cn": "台湾总统在中国抗战纪念日上表示：“以实力求和平” - NBC News",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxQcVFSOGtvQUVaUG12NDRxUTMxX0FFYUtSRXhRSDItRUpsYjYtRTBHUkotWjA1LXVkaE52dDBKLUhWUm9xdHNCSGNZT1gwczdaU1BDVEZvSGF1Q1dqV0dGbU0wdFMtdmRrS25WSFBfckVwWG5yemQtSTZtZm91cGV4X2d1Z1BZVWtJN2t1SHZtQVFIZnRocnN3d3JIajIxbENGS0pQQ0Mzaw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T07:05:16.000Z",
+      "pub_sort_dt": "2026-08-23 15:05:16"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "随着中国市场的销售前景黯淡，欧洲葡萄酒生产商正寻求开拓新市场 - South China Morning Post",
-      "title_cn": "随着中国市场的销售前景黯淡，欧洲葡萄酒生产商正寻求开拓新市场 - 南华早报",
+      "title_cn": "随着中国市场的销售前景黯淡，欧洲葡萄酒生产商正寻求开拓新市场 - South China Morning Post",
       "url": "https://news.google.com/read/CBMiwAFBVV95cUxPTUd5QnRrLXRBbVBiWmg1blBjVmFqeTFpWHRZX0stazdkS21lT29qZXZBY2NsblVqQi1fU0Q2Z3AwYWRKT21vSTRFT3B6bTRLSEpqZEFXMEJ4Ni04cUxLWmdBbHpoeFEwY2p3SUxQek9tVi12dmhPcm1yODFpRm12STlDUmFMak9tUEYyNFd2SFV4ejFRNDlTR2U3MUV1S3JzbzRxYTJ6dWREcks4YVNBRXljZDYyelYydFd5TUY2QnDSAcABQVVfeXFMUEtQeXdBaGk3Ti10U2hzcV82OEd6aEU4YWVlczU2SWNENlVyYjczcTVUazFQT2xvWllzdEVFcWN2eGY1M25tdjZ1NHdySEd1Uk5OSm5EM1hvLTZFU3ZpZnlBWEdFb0h4S1h4Y0RNQ1ZKT3R3X2ZkVEk1bXdYRVdEZXItYlBFTThVbEoxb3R1NUZ3Rzc0NXZSWFdCWFRHY3Jfczc1S0J2UGF6Nkh4V1ZwU2UxdHBSSEZJZVBGT3d1MUhl?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-23T07:00:04.000Z",
       "pub_sort_dt": "2026-08-23 15:00:04"
@@ -273,66 +329,18 @@
     {
       "source": "China Buzzing",
       "title_en": "费特曼在推动人工智能发展方面与特朗普立场一致，并警告称中国将从美国的“过度反应”中获益 - Fox News",
-      "title_cn": "费特曼在推动人工智能发展方面与特朗普观点一致，并警告称中国对美国的“过度反应”中举 - 福克斯新闻",
+      "title_cn": "费特曼在推动人工智能发展方面与特朗普立场一致，并警告称中国将从美国的“过度反应”中获益 - Fox News",
       "url": "https://news.google.com/read/CBMiogFBVV95cUxOQXFxSFVzLS0xOXIwY1VPeXFGemI1T0FxSnFvelVfY29LZGtxQzZ0alU2MHFMd2hUTXUyelMwUUZEY0FkVS01ZWYzOW9DdFpJdnJ1eGtnNlQ2cXNfWjlFemc0T0hTMVlRQVpQWmlyak5QS2pwaG5lYXBncjZTZ1ZJMWRzazNvZnZrZzVOZ2NDbTJUNjVsMC1JNlNDTU5yMEoxTXfSAacBQVVfeXFMTjU1d1JiNEx6TW11aC1HQzJtTFVSdmI5U0xtNFlpVkxBYTZwUW0tcDRDUllmMnZpNHhkMnJlcjY0cGRlRzFlOXZITzdqcVdxOGMtV3hWbk5ibXY1VVlBOElva21UTmItUUtlSHZzcGJfTUdYVkxUZnZuLVl6Y0p4ZjYtREdmWHNvZV9IakphOWx5cHdIajhOOUxIdHFyd2xJa09Kd2NhT2c?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-23T06:52:01.000Z",
       "pub_sort_dt": "2026-08-23 14:52:01"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "台湾总统在中国抗战纪念日当天表示：“以实力维护和平” - Reuters",
-      "title_cn": "台湾总统在中国抗战纪念日当天表示：“以维护实力和平” - 路透社",
-      "url": "https://news.google.com/read/CBMiuAFBVV95cUxNd29YcXQzMHVTQVR1SFNUb2tUV1AxR18yZFlfYzlZWXNQNVlBQVV5a21raGM0X3dobTU5cVFIZXAzYnIyVURoc0ZWOW45bFd6WWREOXhaazhiSFB4OHBxSWM4cEJhVVB6WHctM0RQOXBjbkJBdnVnZTB5RlhIY2NuUGpielJhVVNfM0lEZHdJNEEzSmVuWFZuNWlidkZMNlRFbE5LRHNXRDF5MEhfVHF3RWJnajFETktY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T05:33:00.000Z",
-      "pub_sort_dt": "2026-08-23 13:33:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国供应了全球大部分的血浆。没有哪个国家比中国更依赖血浆了。 - CNN",
-      "title_cn": "美国供应了全球大部分的艾滋病。没有哪个国家比中国更多的艾滋病。 - CNN",
-      "url": "https://news.google.com/read/CBMigAFBVV95cUxNWnZ3V2U1a1VJSXpIZ0tNQkVrTUFkNmtIZjd4T2kwdEJCQjlOT29sWVB3WkE0a0N2czNVcUVSOVYydmxralNoOUUzcFVERGU2RmhxSzZIN0NnLThrVTczRnl4djlqRFBGdDY1bGNzdGtWZ1YySWxjSVA4Nm1MX1NDeg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T04:01:29.000Z",
-      "pub_sort_dt": "2026-08-23 12:01:29"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "从山脉到海洋：中国打造环绕全国高速公路网的计划 - South China Morning Post",
-      "title_cn": "从山脉到海洋：中国打造环全国高速公路网的计划 - 南华早报",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxQNDdjcjBKNHB1VXBjbnFlaVVoWXh4a3JxLXFpcGpsWDA3bUpjS0JMb2xaY21wN01Jd0pDclJlMHVDYm1aZTNTLWgwbTNVSmFLenpLSVRMTU0yYWFxWmJHLUFhUS1GWVFnU2xMcmJxd1RSOXNOM2psQmIyR2J3djFkYnFMNlFrQl8zNl96N3ZUMmYyTF9mSzAzY2E4STZFN3h6REd2MVRSSkp0Rld3NXZIYV9OaUo3V0hiX3VBTlhHNG1qQmZhZVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T01:00:10.000Z",
-      "pub_sort_dt": "2026-08-23 09:00:10"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "太平洋国家如何在西方安全与中国贸易之间走钢丝 - South China Morning Post",
-      "title_cn": "太平洋国家如何在西方安全与中国贸易之间走钢丝 - 南华早报",
-      "url": "https://news.google.com/read/CBMi0AFBVV95cUxNeTNvRmRPU1VMV3I2UzR4TlBWckJGMzU4UlBmb0REUllxcV84T2dsUkh1bnZqZ1RESGNqYTNQQkFfclJXVVZqRnBOOUkxNjZVWEpsNFphcVRBT3l3NXcweHFMYTBxUmZwMmxydXo2SXhDLXdUMjZYRTg5bklrWEJmVElYWUNuRXZlZldMSHpWcXJMS1NRbWNDbUtOX0ZEbERxOG01TUZvY28tZDJtYTBxc0htQjJSc3JvT3loUTBLTnpsMHFQNTljTXVQWUgxV2RJ0gHQAUFVX3lxTE5TaHcyTDBMTndYNWRBM0NZTnNXR2hUOXdZSmlGaTZyRURhV056UXh1ZnhKd2FqZTlTLVVqYmtvZUVmLUMxSHhUZnMyNEgxbl9SLVlkTGVUWnF0MGo0T3k3MkJvTlFvcVdvTEw2OVNhR1VUeHRWYkc5VVcwN1dFRlBWb0hwalhxOF95ZTVQQ0NIUlRkWDZSVGRTdXlabnFMWFQ0REF0Z3llQ2JXN2VuMkxWTDVzOU5qYVJXMFBPMWhZWUM0N014RmxDa0NGd3F6Zms?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T22:00:10.000Z",
-      "pub_sort_dt": "2026-08-23 06:00:10"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在中国“机器人奥运会”上，终点线旁设有软垫墙和担架 - Business Insider",
-      "title_cn": "在中国“机器人奥运会”上，终点线旁设有软垫墙和担架 - 商业内幕",
-      "url": "https://news.google.com/read/CBMilwFBVV95cUxPS1Z6Qm5VdDA3NTNSbThxSTVGMUVMbExYa1VDOXBfRUxlOUE3VmVYVVZxWVlSVXVJVWY4WFlJb2Z4RGxWUzYzRlc4eWIzRTBhVlZJaVV1c2Q5a1hmQTdQZVllbmNBeW1MemxkRjAxMXRTY0lUdjF1SlMzRzRZYUdRVHJ6TEpiYzU0S1oyYmVWTFRvbWJiV1Jr?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T19:30:00.000Z",
-      "pub_sort_dt": "2026-08-23 03:30:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "伊朗战争正将美国的盟友和竞争对手推向全球贸易的一个充满风险的新前沿：北极 - NBC News",
-      "title_cn": "伊朗正将美国总统和竞争对手推向全球贸易的一条充满风险的新前沿：战争黑暗 - NBC新闻",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxOMENueFJLSUhoal8yM1RMNnFRVk54aGVLbU1LQU1WV1lxeHJHd0otbHBleEpHU0d2T0FkNGRELTdMbWlncHNydHQwS3pHeEVnTGxGcExpZWJ4a2c5aHNkSmtYdUdXbTBWUUVVWkdnWDZORjFMMDJmaTYxbG1kZXZsOTJYQzJuWUVscWRSdU9feHNCZDNSMUxwYjJhLVZ4MFU2N2xrZXFhd1E4WDZwcDBn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T19:00:41.000Z",
-      "pub_sort_dt": "2026-08-23 03:00:41"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - Yahoo Finance",
-      "title_cn": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxOUkdCeGdDaHJscWhNQ2JLV3ozcVBicTZwaUdiYy1hdlRBc25Gby1zcTlKUWJEVjI5Sm1qeXN4M1BRUHdmWHczTWtLM05BM3FucEVYQ1VVMk1fV1cyTl9wNDBLSTllY0kyRXYxRHJ2N0wtWWNlRlg3eVVHbWpZRUpYNW1FQTJiNFFsSzJGU1FLa1NZZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T18:01:08.000Z",
-      "pub_sort_dt": "2026-08-23 02:01:08"
+      "source": "The Economist",
+      "title_en": "中国正在培训数千台类人机器人",
+      "title_cn": "中国正在培训数千台类人机器人",
+      "url": "https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots",
+      "pub_raw": "2026-08-23T14:29:56.154Z",
+      "pub_sort_dt": "2026-08-23 22:29:56"
     },
     {
       "source": "Bloomberg",
@@ -353,7 +361,7 @@
     {
       "source": "Bloomberg",
       "title_en": "欧洲奢侈品巨头在中国这一关键市场中看到复苏迹象",
-      "title_cn": "欧洲奢侈品工会在中国这一关键市场中迎来复苏",
+      "title_cn": "欧洲奢侈品巨头在中国这一关键市场中看到复苏迹象",
       "url": "https://www.bloomberg.com/news/articles/2026-08-23/europe-s-luxury-giants-discern-green-shoots-in-key-china-market",
       "pub_raw": "2026-08-23T07:18:11.235Z",
       "pub_sort_dt": "2026-08-23 15:18:11"
@@ -361,7 +369,7 @@
     {
       "source": "Reuters",
       "title_en": "台湾总统在中国抗战纪念日发表讲话：以实力维护和平",
-      "title_cn": "台湾总统在中国抗战纪念日发表讲话：以维护实力和平",
+      "title_cn": "台湾总统在中国抗战纪念日发表讲话：以实力维护和平",
       "url": "https://reut.rs/4qxeHeF",
       "pub_raw": "2026-08-23T06:29:17.244Z",
       "pub_sort_dt": "2026-08-23 14:29:17"
@@ -377,7 +385,7 @@
     {
       "source": "Wall Street Journal",
       "title_en": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
-      "title_cn": "据知情人士透露，英伟达计划利用本周完成的60亿美元交易，构建全球最坚固的开放式人工智能模型，以与中国DeepSeek等行业工会。",
+      "title_cn": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
       "url": "https://on.wsj.com/4gmaUfG",
       "pub_raw": "2026-08-23T01:25:34.694Z",
       "pub_sort_dt": "2026-08-23 09:25:34"
@@ -393,7 +401,7 @@
     {
       "source": "Reuters",
       "title_en": "据官方媒体报道，中国类人机器人“闪电”打破了人类100米世界纪录",
-      "title_cn": "据官方媒体报道，中国类人机器人“闪电”突破了人类100米世界纪录",
+      "title_cn": "据官方媒体报道，中国类人机器人“闪电”打破了人类100米世界纪录",
       "url": "https://reut.rs/4wIK87k",
       "pub_raw": "2026-08-22T15:25:47.657Z",
       "pub_sort_dt": "2026-08-22 23:25:47"
@@ -401,7 +409,7 @@
     {
       "source": "Reuters",
       "title_en": "据称，美国海军飞机穿越了台湾海峡",
-      "title_cn": "需求，美国海军飞机穿越了台湾海峡",
+      "title_cn": "据称，美国海军飞机穿越了台湾海峡",
       "url": "https://reut.rs/4gqybx5",
       "pub_raw": "2026-08-22T03:17:16.155Z",
       "pub_sort_dt": "2026-08-22 11:17:16"
@@ -417,7 +425,7 @@
     {
       "source": "Bloomberg",
       "title_en": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
-      "title_cn": "新加坡和香港正考虑通过减税优惠来吸引资金管理机构",
+      "title_cn": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-22/singapore-and-hong-kong-weigh-tax-cut-race-to-secure-money-managers",
       "pub_raw": "2026-08-22T01:09:34.493Z",
       "pub_sort_dt": "2026-08-22 09:09:34"
@@ -425,7 +433,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
-      "title_cn": "香港餐厅点评：Ninetta 提供家常风味的意大利美食",
+      "title_cn": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
       "url": "https://www.bloomberg.com/news/articles/2026-08-22/hong-kong-restaurant-review-ninetta-offers-home-style-italian-cuisine",
       "pub_raw": "2026-08-22T00:21:21.369Z",
       "pub_sort_dt": "2026-08-22 08:21:21"
@@ -433,7 +441,7 @@
     {
       "source": "Reuters",
       "title_en": "解读：关于引发中国史上最大规模汽车召回的车门把手，我们目前了解的情况",
-      "title_cn": "解读：关于引发中国有史以来最大规模的汽车召回的车门部分，我们目前了解的情况",
+      "title_cn": "解读：关于引发中国史上最大规模汽车召回的车门把手，我们目前了解的情况",
       "url": "https://reut.rs/4goEtgO",
       "pub_raw": "2026-08-21T21:57:17.561Z",
       "pub_sort_dt": "2026-08-22 05:57:17"
@@ -449,7 +457,7 @@
     {
       "source": "Reuters",
       "title_en": "信件显示，德国一名州级政界人士呼吁欧盟对中国的混合动力汽车征收关税",
-      "title_cn": "信中显示，德国一个州级政界人士呼吁欧盟对中国的动力混合汽车征收关税",
+      "title_cn": "信件显示，德国一名州级政界人士呼吁欧盟对中国的混合动力汽车征收关税",
       "url": "https://reut.rs/3SKJpok",
       "pub_raw": "2026-08-21T19:17:21.295Z",
       "pub_sort_dt": "2026-08-22 03:17:21"
@@ -465,7 +473,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国芯片制造商YMTC计划通过在上海的首次公开募股（IPO）筹集49亿美元",
-      "title_cn": "中国芯片制造商长江存储计划通过在上海的首次公开募股（IPO）募集49亿美元",
+      "title_cn": "中国芯片制造商YMTC计划通过在上海的首次公开募股（IPO）筹集49亿美元",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-chipmaker-ymtc-seeks-to-raise-4-9-billion-in-shanghai-ipo",
       "pub_raw": "2026-08-21T15:01:45.567Z",
       "pub_sort_dt": "2026-08-21 23:01:45"
@@ -481,17 +489,9 @@
     {
       "source": "Bloomberg",
       "title_en": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
-      "title_cn": "特斯拉因车门部分安全问题在中国召回300万辆电动汽车",
+      "title_cn": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/tesla-recalls-3-million-evs-as-china-cracks-down-on-door-handles",
       "pub_raw": "2026-08-21T12:53:50.652Z",
-      "pub_sort_dt": "2026-08-21 20:53:50"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "华鸿、潍柴动力将纳入香港股市基准指数",
-      "title_cn": "华鸿、潍柴动力将纳入香港股市基准指数",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/hua-hong-grace-weichai-power-to-join-hong-kong-stock-benchmark",
-      "pub_raw": "2026-08-21T12:53:50.623Z",
       "pub_sort_dt": "2026-08-21 20:53:50"
     }
   ]
