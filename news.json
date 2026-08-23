@@ -1,19 +1,35 @@
 {
-  "update_cst": "2026-08-23 12:00:59 北京时间",
+  "update_cst": "2026-08-23 15:01:00 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 11,
+    "Bloomberg": 10,
     "Financial Times": 1,
     "Wall Street Journal": 2,
-    "Reuters": 6
+    "Reuters": 7
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "台湾总统在中国抗战纪念日当天表示：“以实力维护和平” - Reuters",
+      "title_cn": "台湾总统在中国抗战纪念日当天表示：“以维护实力和平” - 路透社",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxNd29YcXQzMHVTQVR1SFNUb2tUV1AxR18yZFlfYzlZWXNQNVlBQVV5a21raGM0X3dobTU5cVFIZXAzYnIyVURoc0ZWOW45bFd6WWREOXhaazhiSFB4OHBxSWM4cEJhVVB6WHctM0RQOXBjbkJBdnVnZTB5RlhIY2NuUGpielJhVVNfM0lEZHdJNEEzSmVuWFZuNWlidkZMNlRFbE5LRHNXRDF5MEhfVHF3RWJnajFETktY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T05:33:00.000Z",
+      "pub_sort_dt": "2026-08-23 13:33:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国供应了全球大部分的血浆。没有哪个国家比中国更依赖血浆了。 - CNN",
+      "title_cn": "美国供应了全球大部分的艾滋病。没有哪个国家比中国更多的艾滋病。 - CNN",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxNWnZ3V2U1a1VJSXpIZ0tNQkVrTUFkNmtIZjd4T2kwdEJCQjlOT29sWVB3WkE0a0N2czNVcUVSOVYydmxralNoOUUzcFVERGU2RmhxSzZIN0NnLThrVTczRnl4djlqRFBGdDY1bGNzdGtWZ1YySWxjSVA4Nm1MX1NDeg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T04:01:29.000Z",
+      "pub_sort_dt": "2026-08-23 12:01:29"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "从山脉到海洋：中国打造环绕全国高速公路网的计划 - South China Morning Post",
-      "title_cn": "从山脉到海洋：中国打造环绕全国高速公路网的计划 - South China Morning Post",
+      "title_cn": "从山脉到海洋：中国打造环全国高速公路网的计划 - 南华早报",
       "url": "https://news.google.com/read/CBMixgFBVV95cUxQNDdjcjBKNHB1VXBjbnFlaVVoWXh4a3JxLXFpcGpsWDA3bUpjS0JMb2xaY21wN01Jd0pDclJlMHVDYm1aZTNTLWgwbTNVSmFLenpLSVRMTU0yYWFxWmJHLUFhUS1GWVFnU2xMcmJxd1RSOXNOM2psQmIyR2J3djFkYnFMNlFrQl8zNl96N3ZUMmYyTF9mSzAzY2E4STZFN3h6REd2MVRSSkp0Rld3NXZIYV9OaUo3V0hiX3VBTlhHNG1qQmZhZVE?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-23T01:00:10.000Z",
       "pub_sort_dt": "2026-08-23 09:00:10"
@@ -21,7 +37,7 @@
     {
       "source": "China Buzzing",
       "title_en": "伊朗战争正将美国的盟友和竞争对手推向全球贸易的一个充满风险的新前沿：北极 - NBC News",
-      "title_cn": "伊朗战争正将美国的盟友和竞争对手推向全球贸易的一个充满风险的新前沿：北极 - NBC News",
+      "title_cn": "伊朗正将美国总统和竞争对手推向全球贸易的一条充满风险的新前沿：战争黑暗 - NBC新闻",
       "url": "https://news.google.com/read/CBMirwFBVV95cUxOMENueFJLSUhoal8yM1RMNnFRVk54aGVLbU1LQU1WV1lxeHJHd0otbHBleEpHU0d2T0FkNGRELTdMbWlncHNydHQwS3pHeEVnTGxGcExpZWJ4a2c5aHNkSmtYdUdXbTBWUUVVWkdnWDZORjFMMDJmaTYxbG1kZXZsOTJYQzJuWUVscWRSdU9feHNCZDNSMUxwYjJhLVZ4MFU2N2xrZXFhd1E4WDZwcDBn?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T19:00:41.000Z",
       "pub_sort_dt": "2026-08-23 03:00:41"
@@ -29,7 +45,7 @@
     {
       "source": "China Buzzing",
       "title_en": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - Yahoo Finance",
-      "title_cn": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - Yahoo Finance",
+      "title_cn": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - 雅虎财经",
       "url": "https://news.google.com/read/CBMikgFBVV95cUxOUkdCeGdDaHJscWhNQ2JLV3ozcVBicTZwaUdiYy1hdlRBc25Gby1zcTlKUWJEVjI5Sm1qeXN4M1BRUHdmWHczTWtLM05BM3FucEVYQ1VVMk1fV1cyTl9wNDBLSTllY0kyRXYxRHJ2N0wtWWNlRlg3eVVHbWpZRUpYNW1FQTJiNFFsSzJGU1FLa1NZZw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T18:01:08.000Z",
       "pub_sort_dt": "2026-08-23 02:01:08"
@@ -37,7 +53,7 @@
     {
       "source": "China Buzzing",
       "title_en": "在北京机器人运动会上，中国类人机器人打破了100米短跑和跳高的人类纪录 - AP News",
-      "title_cn": "在北京机器人运动会上，中国类人机器人打破了100米短跑和跳高的人类纪录 - AP News",
+      "title_cn": "在北京机器人运动会上，中国类人机器人打破了100米短跑和跳高的人类纪录 - 美联社新闻",
       "url": "https://news.google.com/read/CBMikwFBVV95cUxNMUkxanIwSTVhd2xuNTUteVpWQWJlQXF1M2c4R2RSM25vTTlENHZMSkRaNGJXR0Fsd1QwUmhyX3NtU3dNalg1dlBKWHJMRnJXOTNZZkJ4cDNxbmJDdEQ4YXdpZkdJZGxTT2gwR21NUzRnZnpfY1dibWF2cVVFRllELWJ1eDVzalBLLWh0M3lKNlVUR1k?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T16:16:00.000Z",
       "pub_sort_dt": "2026-08-23 00:16:00"
@@ -53,7 +69,7 @@
     {
       "source": "China Buzzing",
       "title_en": "为何在“元气大伤”的特朗普寻求与朝鲜对话之际，中国可能没什么可失去的 - South China Morning Post",
-      "title_cn": "为何在“元气大伤”的特朗普寻求与朝鲜对话之际，中国可能没什么可失去的 - South China Morning Post",
+      "title_cn": "为何在“元气大伤”中，特朗普寻求与朝鲜对话，中国可能没什么损失 - 南华早报",
       "url": "https://news.google.com/read/CBMixAFBVV95cUxOcGFkTkpMZFFEQldhMi15NXVEcm5ka05TNnU1dkZ1c2FvaVdEdGtJUlQ0Q3lLQU9WZ0hTT1ZfWllnVWVTeGdfSl9UektadVhCaDIzUGthWWRJT0xWUU91SHBRbnVDV2Z2YmpCSEJyNVo2bUdVWU1yZVBtSXFOekpXd3hyTHRzcTdaVmdRV0phcnJTalZ2eFR1emZMYk9pUUgxWDRhU1FHbUtfTmVKcWF2UFVXNG51MXJiWWpGcUNtRHBfQS1H?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T14:00:07.000Z",
       "pub_sort_dt": "2026-08-22 22:00:07"
@@ -61,7 +77,7 @@
     {
       "source": "China Buzzing",
       "title_en": "在中国人“抢先”登陆月球秘密区域之前，美国人还无法在月球上定居 - Futura, le média qui explore le monde",
-      "title_cn": "在中国人“抢先”登陆月球秘密区域之前，美国人还无法在月球上定居 - Futura, le média qui explore le monde",
+      "title_cn": "在中国人“抢先”登陆月球秘密区域之前，美国人还无法在月球上度假 - Futura, le media qui explore le monde",
       "url": "https://news.google.com/read/CBMiqgFBVV95cUxOOE5JcDB0dlpET1RQd2U2cjZOQ01yeXNkR0VpUmU0X1g3VjV5U2YyWTAxZXVLZkZoYVRWTTF4UUtRbnRDWFpZTU5zS1d1ODZXdTFDWTBQMzRnUFFoelNZQlc2MHBITEFJWExRU3kzWnQ4andhdVFTSUluMjVvS3o1OTJJUlk2SmRRLU1OT0VKdnFJQ1hXWW82QUhVdjYyOThXVUtnaWI5ZXZWZw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T13:03:43.000Z",
       "pub_sort_dt": "2026-08-22 21:03:43"
@@ -69,29 +85,21 @@
     {
       "source": "China Buzzing",
       "title_en": "印度称正与中国就商务签证延误问题进行磋商 - Bloomberg.com",
-      "title_cn": "印度称正与中国就商务签证延误问题进行磋商 - Bloomberg.com",
+      "title_cn": "称正印度与中国就商务签证问题进行中断 - Bloomberg.com",
       "url": "https://news.google.com/read/CBMirwFBVV95cUxQbzlsR2E2Q0RnV2JrQWliNEZKWlowbE5xTFhwZ3lLWGtUTEVtUmRzX1BGbU5aM2llQ3VSWUtub1owcFlRem5WX2pCVW9oaDV3UFlFSUlPVEVZWnRiR3RaOC0xWWMtZlRUcHhzTEliNzlSVGk1VE5IbTRMRU8zWHVqNjE3TWhKNHllOXkzNzRJSVZoTHRnV051OEt1dzhRM2ZoMlVzbWs3STUzQ2VCTFdV?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T11:11:43.000Z",
       "pub_sort_dt": "2026-08-22 19:11:43"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "拉姆斯塔德：与中国的商业往来正重回正轨 - Star Tribune",
-      "title_cn": "拉姆斯塔德：与中国的商业往来正重回正轨 - Star Tribune",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxQVk5qeXhxYl9jQk1IdjA2VUhLYjJGYmxhTmZBdmc3MDB5aVN0c0tCbVdnclF1N1prLVJTRElKRWd1WE95eG9IcWN1MnpqMGpvVVhfd29FaHlOUTBCSUR5T25lQTJZamJQY0lxQTlGMzRxcnIwYVFnR1hjMi1lOUNDM0NOZ3JncjZQOFBIMmo3TGxQQTdQNEU3dlQ4ZWh6NnhOMUp4eVRZWVZuSlc1?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T11:00:00.000Z",
-      "pub_sort_dt": "2026-08-22 19:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国会议上，机器人马和骑手成为全场焦点 - BBC",
-      "title_cn": "中国会议上，机器人马和骑手成为全场焦点 - BBC",
-      "url": "https://news.google.com/read/CBMiV0FVX3lxTE1VLURHRGRvbXBoU3BwNTF6cDMtcnhhZkZ6VXo1Yzk5YzJjNFdBMF9UYzRKVFhIemhXRDJ2cVF1dVZzTjU0YmtBUS1vYTZ6dThiMlQ2ZFdQZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T10:01:18.000Z",
-      "pub_sort_dt": "2026-08-22 18:01:18"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "台湾总统在中国抗战纪念日发表讲话：以实力维护和平",
+      "title_cn": "台湾总统在中国抗战纪念日发表讲话：以维护实力和平",
+      "url": "https://reut.rs/4qxeHeF",
+      "pub_raw": "2026-08-23T06:29:17.244Z",
+      "pub_sort_dt": "2026-08-23 14:29:17"
+    },
     {
       "source": "Wall Street Journal",
       "title_en": "英伟达斥资60亿美元，旨在打造一款能够与中国的AI技术抗衡的强大美国替代方案",
@@ -103,7 +111,7 @@
     {
       "source": "Wall Street Journal",
       "title_en": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
-      "title_cn": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
+      "title_cn": "据知情人士透露，英伟达计划利用本周完成的60亿美元交易，构建全球最坚固的开放式人工智能模型，以与中国DeepSeek等行业工会。",
       "url": "https://on.wsj.com/4gmaUfG",
       "pub_raw": "2026-08-23T01:25:34.694Z",
       "pub_sort_dt": "2026-08-23 09:25:34"
@@ -119,7 +127,7 @@
     {
       "source": "Reuters",
       "title_en": "据官方媒体报道，中国类人机器人“闪电”打破了人类100米世界纪录",
-      "title_cn": "据官方媒体报道，中国类人机器人“闪电”打破了人类100米世界纪录",
+      "title_cn": "据官方媒体报道，中国类人机器人“闪电”突破了人类100米世界纪录",
       "url": "https://reut.rs/4wIK87k",
       "pub_raw": "2026-08-22T15:25:47.657Z",
       "pub_sort_dt": "2026-08-22 23:25:47"
@@ -127,7 +135,7 @@
     {
       "source": "Reuters",
       "title_en": "据称，美国海军飞机穿越了台湾海峡",
-      "title_cn": "据称，美国海军飞机穿越了台湾海峡",
+      "title_cn": "需求，美国海军飞机穿越了台湾海峡",
       "url": "https://reut.rs/4gqybx5",
       "pub_raw": "2026-08-22T03:17:16.155Z",
       "pub_sort_dt": "2026-08-22 11:17:16"
@@ -143,7 +151,7 @@
     {
       "source": "Bloomberg",
       "title_en": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
-      "title_cn": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
+      "title_cn": "新加坡和香港正考虑通过减税优惠来吸引资金管理机构",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-22/singapore-and-hong-kong-weigh-tax-cut-race-to-secure-money-managers",
       "pub_raw": "2026-08-22T01:09:34.493Z",
       "pub_sort_dt": "2026-08-22 09:09:34"
@@ -151,7 +159,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
-      "title_cn": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
+      "title_cn": "香港餐厅点评：Ninetta 提供家常风味的意大利美食",
       "url": "https://www.bloomberg.com/news/articles/2026-08-22/hong-kong-restaurant-review-ninetta-offers-home-style-italian-cuisine",
       "pub_raw": "2026-08-22T00:21:21.369Z",
       "pub_sort_dt": "2026-08-22 08:21:21"
@@ -159,7 +167,7 @@
     {
       "source": "Reuters",
       "title_en": "解读：关于引发中国史上最大规模汽车召回的车门把手，我们目前了解的情况",
-      "title_cn": "解读：关于引发中国史上最大规模汽车召回的车门把手，我们目前了解的情况",
+      "title_cn": "解读：关于引发中国有史以来最大规模的汽车召回的车门部分，我们目前了解的情况",
       "url": "https://reut.rs/4goEtgO",
       "pub_raw": "2026-08-21T21:57:17.561Z",
       "pub_sort_dt": "2026-08-22 05:57:17"
@@ -175,7 +183,7 @@
     {
       "source": "Reuters",
       "title_en": "信件显示，德国一名州级政界人士呼吁欧盟对中国的混合动力汽车征收关税",
-      "title_cn": "信件显示，德国一名州级政界人士呼吁欧盟对中国的混合动力汽车征收关税",
+      "title_cn": "信中显示，德国一个州级政界人士呼吁欧盟对中国的动力混合汽车征收关税",
       "url": "https://reut.rs/3SKJpok",
       "pub_raw": "2026-08-21T19:17:21.295Z",
       "pub_sort_dt": "2026-08-22 03:17:21"
@@ -191,7 +199,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国芯片制造商YMTC计划通过在上海的首次公开募股（IPO）筹集49亿美元",
-      "title_cn": "中国芯片制造商YMTC计划通过在上海的首次公开募股（IPO）筹集49亿美元",
+      "title_cn": "中国芯片制造商长江存储计划通过在上海的首次公开募股（IPO）募集49亿美元",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-chipmaker-ymtc-seeks-to-raise-4-9-billion-in-shanghai-ipo",
       "pub_raw": "2026-08-21T15:01:45.567Z",
       "pub_sort_dt": "2026-08-21 23:01:45"
@@ -207,7 +215,7 @@
     {
       "source": "Bloomberg",
       "title_en": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
-      "title_cn": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
+      "title_cn": "特斯拉因车门部分安全问题在中国召回300万辆电动汽车",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/tesla-recalls-3-million-evs-as-china-cracks-down-on-door-handles",
       "pub_raw": "2026-08-21T12:53:50.652Z",
       "pub_sort_dt": "2026-08-21 20:53:50"
@@ -223,7 +231,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国正考虑主办2028年联合国气候谈判的提议",
-      "title_cn": "中国正考虑主办2028年联合国气候谈判的提议",
+      "title_cn": "中国正考虑主办2028年联合国气候谈判的倡议",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/china-considering-proposal-to-host-2028-un-climate-talks",
       "pub_raw": "2026-08-21T12:21:37.439Z",
       "pub_sort_dt": "2026-08-21 20:21:37"
@@ -231,7 +239,7 @@
     {
       "source": "Reuters",
       "title_en": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
-      "title_cn": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
+      "title_cn": "特斯拉对中国市场上的数百万辆卡车中国制造及进口电动汽车进行软件修复",
       "url": "https://reut.rs/4gpAQas",
       "pub_raw": "2026-08-21T11:17:15.581Z",
       "pub_sort_dt": "2026-08-21 19:17:15"
@@ -239,25 +247,33 @@
     {
       "source": "Bloomberg",
       "title_en": "中国放缓紧缩政策，预算支出降幅收窄",
-      "title_cn": "中国放缓紧缩政策，预算支出降幅收窄",
+      "title_cn": "中国近期紧缩政策，预算支出降幅收窄",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-scales-back-austerity-with-smaller-drop-in-budget-spending",
       "pub_raw": "2026-08-21T11:01:27.875Z",
       "pub_sort_dt": "2026-08-21 19:01:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "据称中国正在考虑申办联合国气候峰会",
-      "title_cn": "据称中国正在考虑申办联合国气候峰会",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-said-to-weigh-potential-bid-to-host-2028-un-climate-summit",
-      "pub_raw": "2026-08-21T09:09:15.678Z",
-      "pub_sort_dt": "2026-08-21 17:09:15"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "台湾总统在中国抗战纪念日当天表示：“以实力维护和平” - Reuters",
+      "title_cn": "台湾总统在中国抗战纪念日当天表示：“以维护实力和平” - 路透社",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxNd29YcXQzMHVTQVR1SFNUb2tUV1AxR18yZFlfYzlZWXNQNVlBQVV5a21raGM0X3dobTU5cVFIZXAzYnIyVURoc0ZWOW45bFd6WWREOXhaazhiSFB4OHBxSWM4cEJhVVB6WHctM0RQOXBjbkJBdnVnZTB5RlhIY2NuUGpielJhVVNfM0lEZHdJNEEzSmVuWFZuNWlidkZMNlRFbE5LRHNXRDF5MEhfVHF3RWJnajFETktY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T05:33:00.000Z",
+      "pub_sort_dt": "2026-08-23 13:33:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国供应了全球大部分的血浆。没有哪个国家比中国更依赖血浆了。 - CNN",
+      "title_cn": "美国供应了全球大部分的艾滋病。没有哪个国家比中国更多的艾滋病。 - CNN",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxNWnZ3V2U1a1VJSXpIZ0tNQkVrTUFkNmtIZjd4T2kwdEJCQjlOT29sWVB3WkE0a0N2czNVcUVSOVYydmxralNoOUUzcFVERGU2RmhxSzZIN0NnLThrVTczRnl4djlqRFBGdDY1bGNzdGtWZ1YySWxjSVA4Nm1MX1NDeg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T04:01:29.000Z",
+      "pub_sort_dt": "2026-08-23 12:01:29"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "从山脉到海洋：中国打造环绕全国高速公路网的计划 - South China Morning Post",
-      "title_cn": "从山脉到海洋：中国打造环绕全国高速公路网的计划 - South China Morning Post",
+      "title_cn": "从山脉到海洋：中国打造环全国高速公路网的计划 - 南华早报",
       "url": "https://news.google.com/read/CBMixgFBVV95cUxQNDdjcjBKNHB1VXBjbnFlaVVoWXh4a3JxLXFpcGpsWDA3bUpjS0JMb2xaY21wN01Jd0pDclJlMHVDYm1aZTNTLWgwbTNVSmFLenpLSVRMTU0yYWFxWmJHLUFhUS1GWVFnU2xMcmJxd1RSOXNOM2psQmIyR2J3djFkYnFMNlFrQl8zNl96N3ZUMmYyTF9mSzAzY2E4STZFN3h6REd2MVRSSkp0Rld3NXZIYV9OaUo3V0hiX3VBTlhHNG1qQmZhZVE?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-23T01:00:10.000Z",
       "pub_sort_dt": "2026-08-23 09:00:10"
@@ -265,7 +281,7 @@
     {
       "source": "China Buzzing",
       "title_en": "伊朗战争正将美国的盟友和竞争对手推向全球贸易的一个充满风险的新前沿：北极 - NBC News",
-      "title_cn": "伊朗战争正将美国的盟友和竞争对手推向全球贸易的一个充满风险的新前沿：北极 - NBC News",
+      "title_cn": "伊朗正将美国总统和竞争对手推向全球贸易的一条充满风险的新前沿：战争黑暗 - NBC新闻",
       "url": "https://news.google.com/read/CBMirwFBVV95cUxOMENueFJLSUhoal8yM1RMNnFRVk54aGVLbU1LQU1WV1lxeHJHd0otbHBleEpHU0d2T0FkNGRELTdMbWlncHNydHQwS3pHeEVnTGxGcExpZWJ4a2c5aHNkSmtYdUdXbTBWUUVVWkdnWDZORjFMMDJmaTYxbG1kZXZsOTJYQzJuWUVscWRSdU9feHNCZDNSMUxwYjJhLVZ4MFU2N2xrZXFhd1E4WDZwcDBn?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T19:00:41.000Z",
       "pub_sort_dt": "2026-08-23 03:00:41"
@@ -273,7 +289,7 @@
     {
       "source": "China Buzzing",
       "title_en": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - Yahoo Finance",
-      "title_cn": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - Yahoo Finance",
+      "title_cn": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - 雅虎财经",
       "url": "https://news.google.com/read/CBMikgFBVV95cUxOUkdCeGdDaHJscWhNQ2JLV3ozcVBicTZwaUdiYy1hdlRBc25Gby1zcTlKUWJEVjI5Sm1qeXN4M1BRUHdmWHczTWtLM05BM3FucEVYQ1VVMk1fV1cyTl9wNDBLSTllY0kyRXYxRHJ2N0wtWWNlRlg3eVVHbWpZRUpYNW1FQTJiNFFsSzJGU1FLa1NZZw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T18:01:08.000Z",
       "pub_sort_dt": "2026-08-23 02:01:08"
@@ -281,7 +297,7 @@
     {
       "source": "China Buzzing",
       "title_en": "在北京机器人运动会上，中国类人机器人打破了100米短跑和跳高的人类纪录 - AP News",
-      "title_cn": "在北京机器人运动会上，中国类人机器人打破了100米短跑和跳高的人类纪录 - AP News",
+      "title_cn": "在北京机器人运动会上，中国类人机器人打破了100米短跑和跳高的人类纪录 - 美联社新闻",
       "url": "https://news.google.com/read/CBMikwFBVV95cUxNMUkxanIwSTVhd2xuNTUteVpWQWJlQXF1M2c4R2RSM25vTTlENHZMSkRaNGJXR0Fsd1QwUmhyX3NtU3dNalg1dlBKWHJMRnJXOTNZZkJ4cDNxbmJDdEQ4YXdpZkdJZGxTT2gwR21NUzRnZnpfY1dibWF2cVVFRllELWJ1eDVzalBLLWh0M3lKNlVUR1k?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T16:16:00.000Z",
       "pub_sort_dt": "2026-08-23 00:16:00"
@@ -297,7 +313,7 @@
     {
       "source": "China Buzzing",
       "title_en": "为何在“元气大伤”的特朗普寻求与朝鲜对话之际，中国可能没什么可失去的 - South China Morning Post",
-      "title_cn": "为何在“元气大伤”的特朗普寻求与朝鲜对话之际，中国可能没什么可失去的 - South China Morning Post",
+      "title_cn": "为何在“元气大伤”中，特朗普寻求与朝鲜对话，中国可能没什么损失 - 南华早报",
       "url": "https://news.google.com/read/CBMixAFBVV95cUxOcGFkTkpMZFFEQldhMi15NXVEcm5ka05TNnU1dkZ1c2FvaVdEdGtJUlQ0Q3lLQU9WZ0hTT1ZfWllnVWVTeGdfSl9UektadVhCaDIzUGthWWRJT0xWUU91SHBRbnVDV2Z2YmpCSEJyNVo2bUdVWU1yZVBtSXFOekpXd3hyTHRzcTdaVmdRV0phcnJTalZ2eFR1emZMYk9pUUgxWDRhU1FHbUtfTmVKcWF2UFVXNG51MXJiWWpGcUNtRHBfQS1H?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T14:00:07.000Z",
       "pub_sort_dt": "2026-08-22 22:00:07"
@@ -305,7 +321,7 @@
     {
       "source": "China Buzzing",
       "title_en": "在中国人“抢先”登陆月球秘密区域之前，美国人还无法在月球上定居 - Futura, le média qui explore le monde",
-      "title_cn": "在中国人“抢先”登陆月球秘密区域之前，美国人还无法在月球上定居 - Futura, le média qui explore le monde",
+      "title_cn": "在中国人“抢先”登陆月球秘密区域之前，美国人还无法在月球上度假 - Futura, le media qui explore le monde",
       "url": "https://news.google.com/read/CBMiqgFBVV95cUxOOE5JcDB0dlpET1RQd2U2cjZOQ01yeXNkR0VpUmU0X1g3VjV5U2YyWTAxZXVLZkZoYVRWTTF4UUtRbnRDWFpZTU5zS1d1ODZXdTFDWTBQMzRnUFFoelNZQlc2MHBITEFJWExRU3kzWnQ4andhdVFTSUluMjVvS3o1OTJJUlk2SmRRLU1OT0VKdnFJQ1hXWW82QUhVdjYyOThXVUtnaWI5ZXZWZw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T13:03:43.000Z",
       "pub_sort_dt": "2026-08-22 21:03:43"
@@ -313,26 +329,18 @@
     {
       "source": "China Buzzing",
       "title_en": "印度称正与中国就商务签证延误问题进行磋商 - Bloomberg.com",
-      "title_cn": "印度称正与中国就商务签证延误问题进行磋商 - Bloomberg.com",
+      "title_cn": "称正印度与中国就商务签证问题进行中断 - Bloomberg.com",
       "url": "https://news.google.com/read/CBMirwFBVV95cUxQbzlsR2E2Q0RnV2JrQWliNEZKWlowbE5xTFhwZ3lLWGtUTEVtUmRzX1BGbU5aM2llQ3VSWUtub1owcFlRem5WX2pCVW9oaDV3UFlFSUlPVEVZWnRiR3RaOC0xWWMtZlRUcHhzTEliNzlSVGk1VE5IbTRMRU8zWHVqNjE3TWhKNHllOXkzNzRJSVZoTHRnV051OEt1dzhRM2ZoMlVzbWs3STUzQ2VCTFdV?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T11:11:43.000Z",
       "pub_sort_dt": "2026-08-22 19:11:43"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "拉姆斯塔德：与中国的商业往来正重回正轨 - Star Tribune",
-      "title_cn": "拉姆斯塔德：与中国的商业往来正重回正轨 - Star Tribune",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxQVk5qeXhxYl9jQk1IdjA2VUhLYjJGYmxhTmZBdmc3MDB5aVN0c0tCbVdnclF1N1prLVJTRElKRWd1WE95eG9IcWN1MnpqMGpvVVhfd29FaHlOUTBCSUR5T25lQTJZamJQY0lxQTlGMzRxcnIwYVFnR1hjMi1lOUNDM0NOZ3JncjZQOFBIMmo3TGxQQTdQNEU3dlQ4ZWh6NnhOMUp4eVRZWVZuSlc1?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T11:00:00.000Z",
-      "pub_sort_dt": "2026-08-22 19:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国会议上，机器人马和骑手成为全场焦点 - BBC",
-      "title_cn": "中国会议上，机器人马和骑手成为全场焦点 - BBC",
-      "url": "https://news.google.com/read/CBMiV0FVX3lxTE1VLURHRGRvbXBoU3BwNTF6cDMtcnhhZkZ6VXo1Yzk5YzJjNFdBMF9UYzRKVFhIemhXRDJ2cVF1dVZzTjU0YmtBUS1vYTZ6dThiMlQ2ZFdQZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T10:01:18.000Z",
-      "pub_sort_dt": "2026-08-22 18:01:18"
+      "source": "Reuters",
+      "title_en": "台湾总统在中国抗战纪念日发表讲话：以实力维护和平",
+      "title_cn": "台湾总统在中国抗战纪念日发表讲话：以维护实力和平",
+      "url": "https://reut.rs/4qxeHeF",
+      "pub_raw": "2026-08-23T06:29:17.244Z",
+      "pub_sort_dt": "2026-08-23 14:29:17"
     },
     {
       "source": "Wall Street Journal",
@@ -345,7 +353,7 @@
     {
       "source": "Wall Street Journal",
       "title_en": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
-      "title_cn": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
+      "title_cn": "据知情人士透露，英伟达计划利用本周完成的60亿美元交易，构建全球最坚固的开放式人工智能模型，以与中国DeepSeek等行业工会。",
       "url": "https://on.wsj.com/4gmaUfG",
       "pub_raw": "2026-08-23T01:25:34.694Z",
       "pub_sort_dt": "2026-08-23 09:25:34"
@@ -361,7 +369,7 @@
     {
       "source": "Reuters",
       "title_en": "据官方媒体报道，中国类人机器人“闪电”打破了人类100米世界纪录",
-      "title_cn": "据官方媒体报道，中国类人机器人“闪电”打破了人类100米世界纪录",
+      "title_cn": "据官方媒体报道，中国类人机器人“闪电”突破了人类100米世界纪录",
       "url": "https://reut.rs/4wIK87k",
       "pub_raw": "2026-08-22T15:25:47.657Z",
       "pub_sort_dt": "2026-08-22 23:25:47"
@@ -369,7 +377,7 @@
     {
       "source": "Reuters",
       "title_en": "据称，美国海军飞机穿越了台湾海峡",
-      "title_cn": "据称，美国海军飞机穿越了台湾海峡",
+      "title_cn": "需求，美国海军飞机穿越了台湾海峡",
       "url": "https://reut.rs/4gqybx5",
       "pub_raw": "2026-08-22T03:17:16.155Z",
       "pub_sort_dt": "2026-08-22 11:17:16"
@@ -385,7 +393,7 @@
     {
       "source": "Bloomberg",
       "title_en": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
-      "title_cn": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
+      "title_cn": "新加坡和香港正考虑通过减税优惠来吸引资金管理机构",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-22/singapore-and-hong-kong-weigh-tax-cut-race-to-secure-money-managers",
       "pub_raw": "2026-08-22T01:09:34.493Z",
       "pub_sort_dt": "2026-08-22 09:09:34"
@@ -393,7 +401,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
-      "title_cn": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
+      "title_cn": "香港餐厅点评：Ninetta 提供家常风味的意大利美食",
       "url": "https://www.bloomberg.com/news/articles/2026-08-22/hong-kong-restaurant-review-ninetta-offers-home-style-italian-cuisine",
       "pub_raw": "2026-08-22T00:21:21.369Z",
       "pub_sort_dt": "2026-08-22 08:21:21"
@@ -401,7 +409,7 @@
     {
       "source": "Reuters",
       "title_en": "解读：关于引发中国史上最大规模汽车召回的车门把手，我们目前了解的情况",
-      "title_cn": "解读：关于引发中国史上最大规模汽车召回的车门把手，我们目前了解的情况",
+      "title_cn": "解读：关于引发中国有史以来最大规模的汽车召回的车门部分，我们目前了解的情况",
       "url": "https://reut.rs/4goEtgO",
       "pub_raw": "2026-08-21T21:57:17.561Z",
       "pub_sort_dt": "2026-08-22 05:57:17"
@@ -417,7 +425,7 @@
     {
       "source": "Reuters",
       "title_en": "信件显示，德国一名州级政界人士呼吁欧盟对中国的混合动力汽车征收关税",
-      "title_cn": "信件显示，德国一名州级政界人士呼吁欧盟对中国的混合动力汽车征收关税",
+      "title_cn": "信中显示，德国一个州级政界人士呼吁欧盟对中国的动力混合汽车征收关税",
       "url": "https://reut.rs/3SKJpok",
       "pub_raw": "2026-08-21T19:17:21.295Z",
       "pub_sort_dt": "2026-08-22 03:17:21"
@@ -433,7 +441,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国芯片制造商YMTC计划通过在上海的首次公开募股（IPO）筹集49亿美元",
-      "title_cn": "中国芯片制造商YMTC计划通过在上海的首次公开募股（IPO）筹集49亿美元",
+      "title_cn": "中国芯片制造商长江存储计划通过在上海的首次公开募股（IPO）募集49亿美元",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-chipmaker-ymtc-seeks-to-raise-4-9-billion-in-shanghai-ipo",
       "pub_raw": "2026-08-21T15:01:45.567Z",
       "pub_sort_dt": "2026-08-21 23:01:45"
@@ -449,7 +457,7 @@
     {
       "source": "Bloomberg",
       "title_en": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
-      "title_cn": "特斯拉因车门把手安全问题在中国召回300万辆电动汽车",
+      "title_cn": "特斯拉因车门部分安全问题在中国召回300万辆电动汽车",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/tesla-recalls-3-million-evs-as-china-cracks-down-on-door-handles",
       "pub_raw": "2026-08-21T12:53:50.652Z",
       "pub_sort_dt": "2026-08-21 20:53:50"
@@ -465,7 +473,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国正考虑主办2028年联合国气候谈判的提议",
-      "title_cn": "中国正考虑主办2028年联合国气候谈判的提议",
+      "title_cn": "中国正考虑主办2028年联合国气候谈判的倡议",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/china-considering-proposal-to-host-2028-un-climate-talks",
       "pub_raw": "2026-08-21T12:21:37.439Z",
       "pub_sort_dt": "2026-08-21 20:21:37"
@@ -473,7 +481,7 @@
     {
       "source": "Reuters",
       "title_en": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
-      "title_cn": "特斯拉将为中国市场上的数百万辆中国制造及进口电动汽车进行软件修复",
+      "title_cn": "特斯拉对中国市场上的数百万辆卡车中国制造及进口电动汽车进行软件修复",
       "url": "https://reut.rs/4gpAQas",
       "pub_raw": "2026-08-21T11:17:15.581Z",
       "pub_sort_dt": "2026-08-21 19:17:15"
@@ -481,18 +489,10 @@
     {
       "source": "Bloomberg",
       "title_en": "中国放缓紧缩政策，预算支出降幅收窄",
-      "title_cn": "中国放缓紧缩政策，预算支出降幅收窄",
+      "title_cn": "中国近期紧缩政策，预算支出降幅收窄",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-scales-back-austerity-with-smaller-drop-in-budget-spending",
       "pub_raw": "2026-08-21T11:01:27.875Z",
       "pub_sort_dt": "2026-08-21 19:01:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "据称中国正在考虑申办联合国气候峰会",
-      "title_cn": "据称中国正在考虑申办联合国气候峰会",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-said-to-weigh-potential-bid-to-host-2028-un-climate-summit",
-      "pub_raw": "2026-08-21T09:09:15.678Z",
-      "pub_sort_dt": "2026-08-21 17:09:15"
     }
   ]
 }
