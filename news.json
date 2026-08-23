@@ -1,15 +1,23 @@
 {
-  "update_cst": "2026-08-23 09:01:00 北京时间",
+  "update_cst": "2026-08-23 12:00:59 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
     "Bloomberg": 11,
     "Financial Times": 1,
-    "Wall Street Journal": 0,
-    "Reuters": 8
+    "Wall Street Journal": 2,
+    "Reuters": 6
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "从山脉到海洋：中国打造环绕全国高速公路网的计划 - South China Morning Post",
+      "title_cn": "从山脉到海洋：中国打造环绕全国高速公路网的计划 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMixgFBVV95cUxQNDdjcjBKNHB1VXBjbnFlaVVoWXh4a3JxLXFpcGpsWDA3bUpjS0JMb2xaY21wN01Jd0pDclJlMHVDYm1aZTNTLWgwbTNVSmFLenpLSVRMTU0yYWFxWmJHLUFhUS1GWVFnU2xMcmJxd1RSOXNOM2psQmIyR2J3djFkYnFMNlFrQl8zNl96N3ZUMmYyTF9mSzAzY2E4STZFN3h6REd2MVRSSkp0Rld3NXZIYV9OaUo3V0hiX3VBTlhHNG1qQmZhZVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T01:00:10.000Z",
+      "pub_sort_dt": "2026-08-23 09:00:10"
+    },
     {
       "source": "China Buzzing",
       "title_en": "伊朗战争正将美国的盟友和竞争对手推向全球贸易的一个充满风险的新前沿：北极 - NBC News",
@@ -17,6 +25,14 @@
       "url": "https://news.google.com/read/CBMirwFBVV95cUxOMENueFJLSUhoal8yM1RMNnFRVk54aGVLbU1LQU1WV1lxeHJHd0otbHBleEpHU0d2T0FkNGRELTdMbWlncHNydHQwS3pHeEVnTGxGcExpZWJ4a2c5aHNkSmtYdUdXbTBWUUVVWkdnWDZORjFMMDJmaTYxbG1kZXZsOTJYQzJuWUVscWRSdU9feHNCZDNSMUxwYjJhLVZ4MFU2N2xrZXFhd1E4WDZwcDBn?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T19:00:41.000Z",
       "pub_sort_dt": "2026-08-23 03:00:41"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - Yahoo Finance",
+      "title_cn": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - Yahoo Finance",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxOUkdCeGdDaHJscWhNQ2JLV3ozcVBicTZwaUdiYy1hdlRBc25Gby1zcTlKUWJEVjI5Sm1qeXN4M1BRUHdmWHczTWtLM05BM3FucEVYQ1VVMk1fV1cyTl9wNDBLSTllY0kyRXYxRHJ2N0wtWWNlRlg3eVVHbWpZRUpYNW1FQTJiNFFsSzJGU1FLa1NZZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-22T18:01:08.000Z",
+      "pub_sort_dt": "2026-08-23 02:01:08"
     },
     {
       "source": "China Buzzing",
@@ -73,25 +89,25 @@
       "url": "https://news.google.com/read/CBMiV0FVX3lxTE1VLURHRGRvbXBoU3BwNTF6cDMtcnhhZkZ6VXo1Yzk5YzJjNFdBMF9UYzRKVFhIemhXRDJ2cVF1dVZzTjU0YmtBUS1vYTZ6dThiMlQ2ZFdQZw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T10:01:18.000Z",
       "pub_sort_dt": "2026-08-22 18:01:18"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "为何中国电动汽车的蓬勃发展被视为非洲的“史无前例的机遇” - South China Morning Post",
-      "title_cn": "为何中国电动汽车的蓬勃发展被视为非洲的“史无前例的机遇” - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxPOU4xU2dKazZndnlSdEhnRV9iSnY1Z0xxVjlST0tHcTFheEtoTGgya0g1bEpkUWJBYklTY2V0NmNzaEUwN0h2V2JXTzZoaUpvQzQyUXN5M0RINWgwNW5CdUZKaW44UzZvOTYtUVRGNlBTN1JTdFdyWnBIWFAtYmZ3UVY2eEJ2bzZqbEtmNGN4bjRNVGtwZXJLXzNWeFZiR0FfZGttTjYzdmE0MWV5YzJwVzU0UdIBswFBVV95cUxQUnZoNklsSi00WFZOclV1Sm8ycXNwSjNZTFdFUmpKTTdONl9Gdkc3S3A3SG5vZ2pxa1E4OHR4SktHUTBTOVpiZzB6NVdJMFhGQnBNSVh5NEdPbFRzZTlrUE9qV19DLXZvOUo0YTZOU1FwNlJFUTdfVXhIcFBMa090Sm5ISmNpUkdFelJpV1pGU1hCRW9wLWpyMlEzdnNMRXZTeTBfNjVYUkZrWTFWWWhmMWZfbw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T10:00:06.000Z",
-      "pub_sort_dt": "2026-08-22 18:00:06"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在洛杉矶的“华裔比佛利山庄”，抵制中国共产党势力的渗透 - Los Angeles Times",
-      "title_cn": "在洛杉矶的“华裔比佛利山庄”，抵制中国共产党势力的渗透 - Los Angeles Times",
-      "url": "https://news.google.com/read/CBMi0AFBVV95cUxPZmZGR0pZaWRGbWtGNFpkVm9CQnZDUEJ5ZkVkbFJ6MTBzQU1CQlprRlVoZWVYcGZxcDJ4endMMS1GRUliSEFCdTlLWlh3YUZRaHd6djFmbDdPSHlUV2FCVjB2aUM5NkpRc0xkR2tmTDFiWHM1N1FoNXJLWEZwUXFmbkN5UjRtUWZOMkZ1cDJVWWs2dE9WeEl3RXVXUHpOdjBkSXI4UzBYY2NVeHZwMTlGM0pLcHIwbkxSRUljN0pTMU1Vdkc3S1Z2U2kxcDlrTDJn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T10:00:00.000Z",
-      "pub_sort_dt": "2026-08-22 18:00:00"
     }
   ],
   "media_news": [
+    {
+      "source": "Wall Street Journal",
+      "title_en": "英伟达斥资60亿美元，旨在打造一款能够与中国的AI技术抗衡的强大美国替代方案",
+      "title_cn": "英伟达斥资60亿美元，旨在打造一款能够与中国的AI技术抗衡的强大美国替代方案",
+      "url": "https://on.wsj.com/4xl40P6",
+      "pub_raw": "2026-08-23T03:49:29.994Z",
+      "pub_sort_dt": "2026-08-23 11:49:29"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
+      "title_cn": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
+      "url": "https://on.wsj.com/4gmaUfG",
+      "pub_raw": "2026-08-23T01:25:34.694Z",
+      "pub_sort_dt": "2026-08-23 09:25:34"
+    },
     {
       "source": "Bloomberg",
       "title_en": "德国经济低迷加速中欧向中国转型：《新经济》",
@@ -235,32 +251,32 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-said-to-weigh-potential-bid-to-host-2028-un-climate-summit",
       "pub_raw": "2026-08-21T09:09:15.678Z",
       "pub_sort_dt": "2026-08-21 17:09:15"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "7月的台风“梅萨克”在中国西南地区造成至少159人死亡",
-      "title_cn": "7月的台风“梅萨克”在中国西南地区造成至少159人死亡",
-      "url": "https://reut.rs/4x7bDbH",
-      "pub_raw": "2026-08-21T08:53:23.720Z",
-      "pub_sort_dt": "2026-08-21 16:53:23"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "消息人士称，随着美国封锁措施的加剧，伊朗向中国买家提供的石油报价有所下降",
-      "title_cn": "消息人士称，随着美国封锁措施的加剧，伊朗向中国买家提供的石油报价有所下降",
-      "url": "https://reut.rs/4bXiNXM",
-      "pub_raw": "2026-08-21T08:37:09.886Z",
-      "pub_sort_dt": "2026-08-21 16:37:09"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "从山脉到海洋：中国打造环绕全国高速公路网的计划 - South China Morning Post",
+      "title_cn": "从山脉到海洋：中国打造环绕全国高速公路网的计划 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMixgFBVV95cUxQNDdjcjBKNHB1VXBjbnFlaVVoWXh4a3JxLXFpcGpsWDA3bUpjS0JMb2xaY21wN01Jd0pDclJlMHVDYm1aZTNTLWgwbTNVSmFLenpLSVRMTU0yYWFxWmJHLUFhUS1GWVFnU2xMcmJxd1RSOXNOM2psQmIyR2J3djFkYnFMNlFrQl8zNl96N3ZUMmYyTF9mSzAzY2E4STZFN3h6REd2MVRSSkp0Rld3NXZIYV9OaUo3V0hiX3VBTlhHNG1qQmZhZVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T01:00:10.000Z",
+      "pub_sort_dt": "2026-08-23 09:00:10"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "伊朗战争正将美国的盟友和竞争对手推向全球贸易的一个充满风险的新前沿：北极 - NBC News",
       "title_cn": "伊朗战争正将美国的盟友和竞争对手推向全球贸易的一个充满风险的新前沿：北极 - NBC News",
       "url": "https://news.google.com/read/CBMirwFBVV95cUxOMENueFJLSUhoal8yM1RMNnFRVk54aGVLbU1LQU1WV1lxeHJHd0otbHBleEpHU0d2T0FkNGRELTdMbWlncHNydHQwS3pHeEVnTGxGcExpZWJ4a2c5aHNkSmtYdUdXbTBWUUVVWkdnWDZORjFMMDJmaTYxbG1kZXZsOTJYQzJuWUVscWRSdU9feHNCZDNSMUxwYjJhLVZ4MFU2N2xrZXFhd1E4WDZwcDBn?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-22T19:00:41.000Z",
       "pub_sort_dt": "2026-08-23 03:00:41"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - Yahoo Finance",
+      "title_cn": "埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，这一表态呼应了2011年的警告，而SPCX正面临新的火箭竞争对手 - Yahoo Finance",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxOUkdCeGdDaHJscWhNQ2JLV3ozcVBicTZwaUdiYy1hdlRBc25Gby1zcTlKUWJEVjI5Sm1qeXN4M1BRUHdmWHczTWtLM05BM3FucEVYQ1VVMk1fV1cyTl9wNDBLSTllY0kyRXYxRHJ2N0wtWWNlRlg3eVVHbWpZRUpYNW1FQTJiNFFsSzJGU1FLa1NZZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-22T18:01:08.000Z",
+      "pub_sort_dt": "2026-08-23 02:01:08"
     },
     {
       "source": "China Buzzing",
@@ -319,20 +335,20 @@
       "pub_sort_dt": "2026-08-22 18:01:18"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "为何中国电动汽车的蓬勃发展被视为非洲的“史无前例的机遇” - South China Morning Post",
-      "title_cn": "为何中国电动汽车的蓬勃发展被视为非洲的“史无前例的机遇” - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxPOU4xU2dKazZndnlSdEhnRV9iSnY1Z0xxVjlST0tHcTFheEtoTGgya0g1bEpkUWJBYklTY2V0NmNzaEUwN0h2V2JXTzZoaUpvQzQyUXN5M0RINWgwNW5CdUZKaW44UzZvOTYtUVRGNlBTN1JTdFdyWnBIWFAtYmZ3UVY2eEJ2bzZqbEtmNGN4bjRNVGtwZXJLXzNWeFZiR0FfZGttTjYzdmE0MWV5YzJwVzU0UdIBswFBVV95cUxQUnZoNklsSi00WFZOclV1Sm8ycXNwSjNZTFdFUmpKTTdONl9Gdkc3S3A3SG5vZ2pxa1E4OHR4SktHUTBTOVpiZzB6NVdJMFhGQnBNSVh5NEdPbFRzZTlrUE9qV19DLXZvOUo0YTZOU1FwNlJFUTdfVXhIcFBMa090Sm5ISmNpUkdFelJpV1pGU1hCRW9wLWpyMlEzdnNMRXZTeTBfNjVYUkZrWTFWWWhmMWZfbw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T10:00:06.000Z",
-      "pub_sort_dt": "2026-08-22 18:00:06"
+      "source": "Wall Street Journal",
+      "title_en": "英伟达斥资60亿美元，旨在打造一款能够与中国的AI技术抗衡的强大美国替代方案",
+      "title_cn": "英伟达斥资60亿美元，旨在打造一款能够与中国的AI技术抗衡的强大美国替代方案",
+      "url": "https://on.wsj.com/4xl40P6",
+      "pub_raw": "2026-08-23T03:49:29.994Z",
+      "pub_sort_dt": "2026-08-23 11:49:29"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "在洛杉矶的“华裔比佛利山庄”，抵制中国共产党势力的渗透 - Los Angeles Times",
-      "title_cn": "在洛杉矶的“华裔比佛利山庄”，抵制中国共产党势力的渗透 - Los Angeles Times",
-      "url": "https://news.google.com/read/CBMi0AFBVV95cUxPZmZGR0pZaWRGbWtGNFpkVm9CQnZDUEJ5ZkVkbFJ6MTBzQU1CQlprRlVoZWVYcGZxcDJ4endMMS1GRUliSEFCdTlLWlh3YUZRaHd6djFmbDdPSHlUV2FCVjB2aUM5NkpRc0xkR2tmTDFiWHM1N1FoNXJLWEZwUXFmbkN5UjRtUWZOMkZ1cDJVWWs2dE9WeEl3RXVXUHpOdjBkSXI4UzBYY2NVeHZwMTlGM0pLcHIwbkxSRUljN0pTMU1Vdkc3S1Z2U2kxcDlrTDJn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-22T10:00:00.000Z",
-      "pub_sort_dt": "2026-08-22 18:00:00"
+      "source": "Wall Street Journal",
+      "title_en": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
+      "title_cn": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
+      "url": "https://on.wsj.com/4gmaUfG",
+      "pub_raw": "2026-08-23T01:25:34.694Z",
+      "pub_sort_dt": "2026-08-23 09:25:34"
     },
     {
       "source": "Bloomberg",
@@ -477,22 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-said-to-weigh-potential-bid-to-host-2028-un-climate-summit",
       "pub_raw": "2026-08-21T09:09:15.678Z",
       "pub_sort_dt": "2026-08-21 17:09:15"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "7月的台风“梅萨克”在中国西南地区造成至少159人死亡",
-      "title_cn": "7月的台风“梅萨克”在中国西南地区造成至少159人死亡",
-      "url": "https://reut.rs/4x7bDbH",
-      "pub_raw": "2026-08-21T08:53:23.720Z",
-      "pub_sort_dt": "2026-08-21 16:53:23"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "消息人士称，随着美国封锁措施的加剧，伊朗向中国买家提供的石油报价有所下降",
-      "title_cn": "消息人士称，随着美国封锁措施的加剧，伊朗向中国买家提供的石油报价有所下降",
-      "url": "https://reut.rs/4bXiNXM",
-      "pub_raw": "2026-08-21T08:37:09.886Z",
-      "pub_sort_dt": "2026-08-21 16:37:09"
     }
   ]
 }
