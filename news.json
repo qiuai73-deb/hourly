@@ -1,15 +1,23 @@
 {
-  "update_cst": "2026-08-24 09:01:03 北京时间",
+  "update_cst": "2026-08-24 12:01:04 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
-    "Bloomberg": 9,
+    "Bloomberg": 10,
     "Financial Times": 2,
     "Wall Street Journal": 2,
-    "Reuters": 6
+    "Reuters": 5
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "恒大宣判后，中国房地产危机仍在持续 - Reuters",
+      "title_cn": "恒大宣判后，中国房地产危机仍在持续 - Reuters",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxQOEFtRENfZGN4U3JLT3U2Mld5dC1TRnZNdHpXMnJJUEI4TUk3UjhFTl9yT3EzblF2WnJ5a3IzTFRCSklxa3ZuMVE1Vk9NaGRacFZod1hRRlZaZERRWW9GNlM3MW5jWkhkbVhfVXRsTDhGSGQyUjdvN2JxcnJFc0FuQldGNG9HWmxKY1RPYVkyWmhjczZfOFJ5SzIzUEVJZTdtemVYeGszXzk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T23:07:00.000Z",
+      "pub_sort_dt": "2026-08-24 07:07:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "泽尔丁以中国为例，警告不要在美国禁止数据中心 - The Hill",
@@ -33,6 +41,14 @@
       "url": "https://news.google.com/read/CBMihAFBVV95cUxPY1NEWTJoME93UWlqU0RwOURBTHFPZzBSZm44ODVDNGl0NG03TVJ6WXBuaGJZZVRaamZSTFZyb0pEMXY1SWhhTTlVQUUydlJKMDZ3bkdtUERnZ1Q4cVJMN3hadDhkRHpfQ3lLaVlObGI5SlhRaDZYNWo2YW1xam5USGVLQTc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-23T18:00:00.000Z",
       "pub_sort_dt": "2026-08-24 02:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国突然推迟了旨在寻找月球水冰的雄心勃勃的“嫦娥七号”任务 - France 24",
+      "title_cn": "中国突然推迟了旨在寻找月球水冰的雄心勃勃的“嫦娥七号”任务 - France 24",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxPcVBNUl9Id201QkQ2RnZDTjQyajBSZFJvOE13dm9Td0ZVcGFGeGZnTUFJU3Bnc2RqdklVbVQ0Uno5YVBULVI0YmJaaHhmZEJyR1Y2MW1vTGF5OEdfWXlaSEx2OWNsNnpMcmdlT2ptWVU3R3VsMzYtS0dGZklXS0JsSmxiRmpqeVE3ck1BTV9hbFctdWdLWHVaQ0V5d0RpR294VjByZW9iRHJGODdRYjlhaTRMWDZHQzV0TmpfVEFiTTBMR1k?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T14:23:11.000Z",
+      "pub_sort_dt": "2026-08-23 22:23:11"
     },
     {
       "source": "China Buzzing",
@@ -73,25 +89,81 @@
       "url": "https://news.google.com/read/CBMixwFBVV95cUxQRWlrdnhZaTR6S2dHQm5fc3hEd3FqQ1hPMVUtXzBKLVpYcXdqUWpZYVFIOGZVRE52SkJDZTlscW5zOUJyX1VGUkd2OGo0LWZUR19KanFId2EwbGN6aXpvbGxFT3U3Z1pHVmR2ckZJV0R4Y2VrcmhEVDgtN0E2RWxhOS1EQU5tRW41NnZkYkJoNjRqZVN4amIzelVyeDRINXA2TWk2RThYZVAzV2FvVDF5aEJndW02NFpKWlJxQ3RuZVRjdUZIZ2Rv0gHHAUFVX3lxTE9BNlJkTlFXUGJSODN2TFJnYk1FajRub2Y3MGpTS09DTUVqenFWV0NjakJiNllfQWFVSTlleEZuNXNlQVpVa2loSnZuTTVHamJnX0J6U2VFdHlMT0p2cWdxLTRFT3JjN0FYRjZ0X1NpRmhYQUJOdnlWSTVTZS15UmZyQk9oX29Bc0o4SmpIdnBrdUNYYW5WTjI5NFBKX1F5MTlRazRnMlB6WG56VER5RHF2YUVPWWNCLXN0T2tOSXo0NlJJdV9VM3c?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-23T10:00:14.000Z",
       "pub_sort_dt": "2026-08-23 18:00:14"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "台湾总统在中国抗战纪念日上表示：“以实力求和平” - NBC News",
-      "title_cn": "台湾总统在中国抗战纪念日上表示：“以实力求和平” - NBC News",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxQcVFSOGtvQUVaUG12NDRxUTMxX0FFYUtSRXhRSDItRUpsYjYtRTBHUkotWjA1LXVkaE52dDBKLUhWUm9xdHNCSGNZT1gwczdaU1BDVEZvSGF1Q1dqV0dGbU0wdFMtdmRrS25WSFBfckVwWG5yemQtSTZtZm91cGV4X2d1Z1BZVWtJN2t1SHZtQVFIZnRocnN3d3JIajIxbENGS0pQQ0Mzaw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T07:05:16.000Z",
-      "pub_sort_dt": "2026-08-23 15:05:16"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着中国市场的销售前景黯淡，欧洲葡萄酒生产商正寻求开拓新市场 - South China Morning Post",
-      "title_cn": "随着中国市场的销售前景黯淡，欧洲葡萄酒生产商正寻求开拓新市场 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiwAFBVV95cUxPTUd5QnRrLXRBbVBiWmg1blBjVmFqeTFpWHRZX0stazdkS21lT29qZXZBY2NsblVqQi1fU0Q2Z3AwYWRKT21vSTRFT3B6bTRLSEpqZEFXMEJ4Ni04cUxLWmdBbHpoeFEwY2p3SUxQek9tVi12dmhPcm1yODFpRm12STlDUmFMak9tUEYyNFd2SFV4ejFRNDlTR2U3MUV1S3JzbzRxYTJ6dWREcks4YVNBRXljZDYyelYydFd5TUY2QnDSAcABQVVfeXFMUEtQeXdBaGk3Ti10U2hzcV82OEd6aEU4YWVlczU2SWNENlVyYjczcTVUazFQT2xvWllzdEVFcWN2eGY1M25tdjZ1NHdySEd1Uk5OSm5EM1hvLTZFU3ZpZnlBWEdFb0h4S1h4Y0RNQ1ZKT3R3X2ZkVEk1bXdYRVdEZXItYlBFTThVbEoxb3R1NUZ3Rzc0NXZSWFdCWFRHY3Jfczc1S0J2UGF6Nkh4V1ZwU2UxdHBSSEZJZVBGT3d1MUhl?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T07:00:04.000Z",
-      "pub_sort_dt": "2026-08-23 15:00:04"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "随着紧张局势升级，中国“积极致力于”伊朗核谈判",
+      "title_cn": "随着紧张局势升级，中国“积极致力于”伊朗核谈判",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/china-actively-committed-to-iran-talks-with-tensions-rising",
+      "pub_raw": "2026-08-24T03:17:41.495Z",
+      "pub_sort_dt": "2026-08-24 11:17:41"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国针对投资疲软推出的1190亿美元对策来得有些迟了",
+      "title_cn": "中国针对投资疲软推出的1190亿美元对策来得有些迟了",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/china-s-119-billion-answer-to-sagging-investment-is-coming-late",
+      "pub_raw": "2026-08-24T03:01:31.534Z",
+      "pub_sort_dt": "2026-08-24 11:01:31"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "偏远科技中心的房价令香港购房者望而却步",
+      "title_cn": "偏远科技中心的房价令香港购房者望而却步",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-homebuyers-left-cold-by-prices-in-far-flung-tech-hub",
+      "pub_raw": "2026-08-24T02:29:29.477Z",
+      "pub_sort_dt": "2026-08-24 10:29:29"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Shein计划在备受期待的香港IPO中实现高达270亿美元的估值",
+      "title_cn": "Shein计划在备受期待的香港IPO中实现高达270亿美元的估值",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/shein-seeks-up-to-1-8-billion-in-long-awaited-hong-kong-ipo",
+      "pub_raw": "2026-08-24T02:29:29.473Z",
+      "pub_sort_dt": "2026-08-24 10:29:29"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "Shein计划通过在香港上市筹集18亿美元",
+      "title_cn": "Shein计划通过在香港上市筹集18亿美元",
+      "url": "https://www.ft.com/content/1d310566-94ee-48e2-acfa-25de646fc41a?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-24T02:29:29.272Z",
+      "pub_sort_dt": "2026-08-24 10:29:29"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "CXMT、AI硬件企业领跑，中国企业财报季进入高峰期",
+      "title_cn": "CXMT、AI硬件企业领跑，中国企业财报季进入高峰期",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak",
+      "pub_raw": "2026-08-24T01:57:29.415Z",
+      "pub_sort_dt": "2026-08-24 09:57:29"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "阿里巴巴通过创纪录的香港股票发售筹集了100亿美元",
+      "title_cn": "阿里巴巴通过创纪录的香港股票发售筹集了100亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+      "pub_raw": "2026-08-24T01:41:37.276Z",
+      "pub_sort_dt": "2026-08-24 09:41:37"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国最大炼油企业称，油价飙升后燃料需求骤降",
+      "title_cn": "中国最大炼油企业称，油价飙升后燃料需求骤降",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/sinopec-first-half-profit-rises-12-after-surge-in-energy-prices",
+      "pub_raw": "2026-08-24T01:25:11.959Z",
+      "pub_sort_dt": "2026-08-24 09:25:11"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "台湾南部因暴雨，办公场所和学校停课",
+      "title_cn": "台湾南部因暴雨，办公场所和学校停课",
+      "url": "https://reut.rs/3UAERBr",
+      "pub_raw": "2026-08-24T01:09:15.952Z",
+      "pub_sort_dt": "2026-08-24 09:09:15"
+    },
     {
       "source": "Reuters",
       "title_en": "恒大宣判后，中国房地产危机仍在持续",
@@ -99,22 +171,6 @@
       "url": "https://reut.rs/3UeQON3",
       "pub_raw": "2026-08-24T00:05:33.647Z",
       "pub_sort_dt": "2026-08-24 08:05:33"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港购房者对遥远科技中心的高房价望而却步",
-      "title_cn": "香港购房者对遥远科技中心的高房价望而却步",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-homebuyers-left-cold-by-prices-in-far-flung-tech-hub",
-      "pub_raw": "2026-08-23T23:17:15.294Z",
-      "pub_sort_dt": "2026-08-24 07:17:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Shein计划通过备受期待的香港IPO筹集最高18亿美元",
-      "title_cn": "Shein计划通过备受期待的香港IPO筹集最高18亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/shein-seeks-up-to-1-8-billion-in-long-awaited-hong-kong-ipo",
-      "pub_raw": "2026-08-23T23:17:15.290Z",
-      "pub_sort_dt": "2026-08-24 07:17:15"
     },
     {
       "source": "The Economist",
@@ -195,67 +251,19 @@
       "url": "https://reut.rs/4gqybx5",
       "pub_raw": "2026-08-22T03:17:16.155Z",
       "pub_sort_dt": "2026-08-22 11:17:16"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国的机器人会摇滚、打拳击和调制饮料。它们能胜过人类吗？",
-      "title_cn": "中国的机器人会摇滚、打拳击和调制饮料。它们能胜过人类吗？",
-      "url": "https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-22T01:25:50.721Z",
-      "pub_sort_dt": "2026-08-22 09:25:50"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
-      "title_cn": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-22/singapore-and-hong-kong-weigh-tax-cut-race-to-secure-money-managers",
-      "pub_raw": "2026-08-22T01:09:34.493Z",
-      "pub_sort_dt": "2026-08-22 09:09:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
-      "title_cn": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-22/hong-kong-restaurant-review-ninetta-offers-home-style-italian-cuisine",
-      "pub_raw": "2026-08-22T00:21:21.369Z",
-      "pub_sort_dt": "2026-08-22 08:21:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "解读：关于引发中国史上最大规模汽车召回的车门把手，我们目前了解的情况",
-      "title_cn": "解读：关于引发中国史上最大规模汽车召回的车门把手，我们目前了解的情况",
-      "url": "https://reut.rs/4goEtgO",
-      "pub_raw": "2026-08-21T21:57:17.561Z",
-      "pub_sort_dt": "2026-08-22 05:57:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "极端天气推高农产品价格，中国贸易面临风险",
-      "title_cn": "极端天气推高农产品价格，中国贸易面临风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/wild-weather-sends-crop-prices-soaring-in-risk-to-china-trade",
-      "pub_raw": "2026-08-21T20:37:19.856Z",
-      "pub_sort_dt": "2026-08-22 04:37:19"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "信件显示，德国一名州级政界人士呼吁欧盟对中国的混合动力汽车征收关税",
-      "title_cn": "信件显示，德国一名州级政界人士呼吁欧盟对中国的混合动力汽车征收关税",
-      "url": "https://reut.rs/3SKJpok",
-      "pub_raw": "2026-08-21T19:17:21.295Z",
-      "pub_sort_dt": "2026-08-22 03:17:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港书店突袭事件、波多黎各债务危机：关于书籍",
-      "title_cn": "香港书店突袭事件、波多黎各债务危机：关于书籍",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/hong-kong-s-bookstore-raids-puerto-rico-s-debt-crisis-on-books",
-      "pub_raw": "2026-08-21T15:49:33.156Z",
-      "pub_sort_dt": "2026-08-21 23:49:33"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "恒大宣判后，中国房地产危机仍在持续 - Reuters",
+      "title_cn": "恒大宣判后，中国房地产危机仍在持续 - Reuters",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxQOEFtRENfZGN4U3JLT3U2Mld5dC1TRnZNdHpXMnJJUEI4TUk3UjhFTl9yT3EzblF2WnJ5a3IzTFRCSklxa3ZuMVE1Vk9NaGRacFZod1hRRlZaZERRWW9GNlM3MW5jWkhkbVhfVXRsTDhGSGQyUjdvN2JxcnJFc0FuQldGNG9HWmxKY1RPYVkyWmhjczZfOFJ5SzIzUEVJZTdtemVYeGszXzk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T23:07:00.000Z",
+      "pub_sort_dt": "2026-08-24 07:07:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "泽尔丁以中国为例，警告不要在美国禁止数据中心 - The Hill",
       "title_cn": "泽尔丁以中国为例，警告不要在美国禁止数据中心 - The Hill",
       "url": "https://news.google.com/read/CBMilwFBVV95cUxORUdwdmNaZHh2MDRDaHlBVmhEQ0tiaVJwMzc5X1M5amFPbTN5dzlEVjJfWHVhMzlDbFlFaG16dTNMZHB5NWUwak5QMW40OEFLXzZMUEtHS3NyY0lERDk3RVcwWExVcUxiMGFBRy1EUVA1dy1sb21zRGlXYmk1ZUdHdTE0UXJOM05zSmxUMVB3V18yUVdaVjk00gGcAUFVX3lxTE5pWl9yXzB0VEIzd2w4NmhJaS1QNUxaR2ZFcjRBYzE5bFRudHltcmRwQVJkYUdDWGgxNjBhMC1xV3U5c0J4enJNd296UDkyRjQtLVkxb3czenFpdU4wNk01NVoyWG5PMnRaOFBfdXA4TnBBODlDN2dCaUdUdEhpM2VQMjUxcVlqbGw3VTB5ZXBueDBVcVlodHJyNXF3Nw?hl=en-US&gl=US&ceid=US%3Aen",
@@ -277,6 +285,14 @@
       "url": "https://news.google.com/read/CBMihAFBVV95cUxPY1NEWTJoME93UWlqU0RwOURBTHFPZzBSZm44ODVDNGl0NG03TVJ6WXBuaGJZZVRaamZSTFZyb0pEMXY1SWhhTTlVQUUydlJKMDZ3bkdtUERnZ1Q4cVJMN3hadDhkRHpfQ3lLaVlObGI5SlhRaDZYNWo2YW1xam5USGVLQTc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-23T18:00:00.000Z",
       "pub_sort_dt": "2026-08-24 02:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国突然推迟了旨在寻找月球水冰的雄心勃勃的“嫦娥七号”任务 - France 24",
+      "title_cn": "中国突然推迟了旨在寻找月球水冰的雄心勃勃的“嫦娥七号”任务 - France 24",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxPcVBNUl9Id201QkQ2RnZDTjQyajBSZFJvOE13dm9Td0ZVcGFGeGZnTUFJU3Bnc2RqdklVbVQ0Uno5YVBULVI0YmJaaHhmZEJyR1Y2MW1vTGF5OEdfWXlaSEx2OWNsNnpMcmdlT2ptWVU3R3VsMzYtS0dGZklXS0JsSmxiRmpqeVE3ck1BTV9hbFctdWdLWHVaQ0V5d0RpR294VjByZW9iRHJGODdRYjlhaTRMWDZHQzV0TmpfVEFiTTBMR1k?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-23T14:23:11.000Z",
+      "pub_sort_dt": "2026-08-23 22:23:11"
     },
     {
       "source": "China Buzzing",
@@ -319,20 +335,76 @@
       "pub_sort_dt": "2026-08-23 18:00:14"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "台湾总统在中国抗战纪念日上表示：“以实力求和平” - NBC News",
-      "title_cn": "台湾总统在中国抗战纪念日上表示：“以实力求和平” - NBC News",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxQcVFSOGtvQUVaUG12NDRxUTMxX0FFYUtSRXhRSDItRUpsYjYtRTBHUkotWjA1LXVkaE52dDBKLUhWUm9xdHNCSGNZT1gwczdaU1BDVEZvSGF1Q1dqV0dGbU0wdFMtdmRrS25WSFBfckVwWG5yemQtSTZtZm91cGV4X2d1Z1BZVWtJN2t1SHZtQVFIZnRocnN3d3JIajIxbENGS0pQQ0Mzaw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T07:05:16.000Z",
-      "pub_sort_dt": "2026-08-23 15:05:16"
+      "source": "Bloomberg",
+      "title_en": "随着紧张局势升级，中国“积极致力于”伊朗核谈判",
+      "title_cn": "随着紧张局势升级，中国“积极致力于”伊朗核谈判",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/china-actively-committed-to-iran-talks-with-tensions-rising",
+      "pub_raw": "2026-08-24T03:17:41.495Z",
+      "pub_sort_dt": "2026-08-24 11:17:41"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "随着中国市场的销售前景黯淡，欧洲葡萄酒生产商正寻求开拓新市场 - South China Morning Post",
-      "title_cn": "随着中国市场的销售前景黯淡，欧洲葡萄酒生产商正寻求开拓新市场 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiwAFBVV95cUxPTUd5QnRrLXRBbVBiWmg1blBjVmFqeTFpWHRZX0stazdkS21lT29qZXZBY2NsblVqQi1fU0Q2Z3AwYWRKT21vSTRFT3B6bTRLSEpqZEFXMEJ4Ni04cUxLWmdBbHpoeFEwY2p3SUxQek9tVi12dmhPcm1yODFpRm12STlDUmFMak9tUEYyNFd2SFV4ejFRNDlTR2U3MUV1S3JzbzRxYTJ6dWREcks4YVNBRXljZDYyelYydFd5TUY2QnDSAcABQVVfeXFMUEtQeXdBaGk3Ti10U2hzcV82OEd6aEU4YWVlczU2SWNENlVyYjczcTVUazFQT2xvWllzdEVFcWN2eGY1M25tdjZ1NHdySEd1Uk5OSm5EM1hvLTZFU3ZpZnlBWEdFb0h4S1h4Y0RNQ1ZKT3R3X2ZkVEk1bXdYRVdEZXItYlBFTThVbEoxb3R1NUZ3Rzc0NXZSWFdCWFRHY3Jfczc1S0J2UGF6Nkh4V1ZwU2UxdHBSSEZJZVBGT3d1MUhl?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T07:00:04.000Z",
-      "pub_sort_dt": "2026-08-23 15:00:04"
+      "source": "Bloomberg",
+      "title_en": "中国针对投资疲软推出的1190亿美元对策来得有些迟了",
+      "title_cn": "中国针对投资疲软推出的1190亿美元对策来得有些迟了",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/china-s-119-billion-answer-to-sagging-investment-is-coming-late",
+      "pub_raw": "2026-08-24T03:01:31.534Z",
+      "pub_sort_dt": "2026-08-24 11:01:31"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "偏远科技中心的房价令香港购房者望而却步",
+      "title_cn": "偏远科技中心的房价令香港购房者望而却步",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-homebuyers-left-cold-by-prices-in-far-flung-tech-hub",
+      "pub_raw": "2026-08-24T02:29:29.477Z",
+      "pub_sort_dt": "2026-08-24 10:29:29"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Shein计划在备受期待的香港IPO中实现高达270亿美元的估值",
+      "title_cn": "Shein计划在备受期待的香港IPO中实现高达270亿美元的估值",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/shein-seeks-up-to-1-8-billion-in-long-awaited-hong-kong-ipo",
+      "pub_raw": "2026-08-24T02:29:29.473Z",
+      "pub_sort_dt": "2026-08-24 10:29:29"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "Shein计划通过在香港上市筹集18亿美元",
+      "title_cn": "Shein计划通过在香港上市筹集18亿美元",
+      "url": "https://www.ft.com/content/1d310566-94ee-48e2-acfa-25de646fc41a?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-24T02:29:29.272Z",
+      "pub_sort_dt": "2026-08-24 10:29:29"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "CXMT、AI硬件企业领跑，中国企业财报季进入高峰期",
+      "title_cn": "CXMT、AI硬件企业领跑，中国企业财报季进入高峰期",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak",
+      "pub_raw": "2026-08-24T01:57:29.415Z",
+      "pub_sort_dt": "2026-08-24 09:57:29"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "阿里巴巴通过创纪录的香港股票发售筹集了100亿美元",
+      "title_cn": "阿里巴巴通过创纪录的香港股票发售筹集了100亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+      "pub_raw": "2026-08-24T01:41:37.276Z",
+      "pub_sort_dt": "2026-08-24 09:41:37"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国最大炼油企业称，油价飙升后燃料需求骤降",
+      "title_cn": "中国最大炼油企业称，油价飙升后燃料需求骤降",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/sinopec-first-half-profit-rises-12-after-surge-in-energy-prices",
+      "pub_raw": "2026-08-24T01:25:11.959Z",
+      "pub_sort_dt": "2026-08-24 09:25:11"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "台湾南部因暴雨，办公场所和学校停课",
+      "title_cn": "台湾南部因暴雨，办公场所和学校停课",
+      "url": "https://reut.rs/3UAERBr",
+      "pub_raw": "2026-08-24T01:09:15.952Z",
+      "pub_sort_dt": "2026-08-24 09:09:15"
     },
     {
       "source": "Reuters",
@@ -341,22 +413,6 @@
       "url": "https://reut.rs/3UeQON3",
       "pub_raw": "2026-08-24T00:05:33.647Z",
       "pub_sort_dt": "2026-08-24 08:05:33"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港购房者对遥远科技中心的高房价望而却步",
-      "title_cn": "香港购房者对遥远科技中心的高房价望而却步",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-homebuyers-left-cold-by-prices-in-far-flung-tech-hub",
-      "pub_raw": "2026-08-23T23:17:15.294Z",
-      "pub_sort_dt": "2026-08-24 07:17:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Shein计划通过备受期待的香港IPO筹集最高18亿美元",
-      "title_cn": "Shein计划通过备受期待的香港IPO筹集最高18亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/shein-seeks-up-to-1-8-billion-in-long-awaited-hong-kong-ipo",
-      "pub_raw": "2026-08-23T23:17:15.290Z",
-      "pub_sort_dt": "2026-08-24 07:17:15"
     },
     {
       "source": "The Economist",
@@ -437,62 +493,6 @@
       "url": "https://reut.rs/4gqybx5",
       "pub_raw": "2026-08-22T03:17:16.155Z",
       "pub_sort_dt": "2026-08-22 11:17:16"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国的机器人会摇滚、打拳击和调制饮料。它们能胜过人类吗？",
-      "title_cn": "中国的机器人会摇滚、打拳击和调制饮料。它们能胜过人类吗？",
-      "url": "https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-22T01:25:50.721Z",
-      "pub_sort_dt": "2026-08-22 09:25:50"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
-      "title_cn": "新加坡和香港正考虑通过减税竞争来吸引资金管理机构",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-22/singapore-and-hong-kong-weigh-tax-cut-race-to-secure-money-managers",
-      "pub_raw": "2026-08-22T01:09:34.493Z",
-      "pub_sort_dt": "2026-08-22 09:09:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
-      "title_cn": "香港餐厅点评：Ninetta 提供家常风味的意大利菜肴",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-22/hong-kong-restaurant-review-ninetta-offers-home-style-italian-cuisine",
-      "pub_raw": "2026-08-22T00:21:21.369Z",
-      "pub_sort_dt": "2026-08-22 08:21:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "解读：关于引发中国史上最大规模汽车召回的车门把手，我们目前了解的情况",
-      "title_cn": "解读：关于引发中国史上最大规模汽车召回的车门把手，我们目前了解的情况",
-      "url": "https://reut.rs/4goEtgO",
-      "pub_raw": "2026-08-21T21:57:17.561Z",
-      "pub_sort_dt": "2026-08-22 05:57:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "极端天气推高农产品价格，中国贸易面临风险",
-      "title_cn": "极端天气推高农产品价格，中国贸易面临风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/wild-weather-sends-crop-prices-soaring-in-risk-to-china-trade",
-      "pub_raw": "2026-08-21T20:37:19.856Z",
-      "pub_sort_dt": "2026-08-22 04:37:19"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "信件显示，德国一名州级政界人士呼吁欧盟对中国的混合动力汽车征收关税",
-      "title_cn": "信件显示，德国一名州级政界人士呼吁欧盟对中国的混合动力汽车征收关税",
-      "url": "https://reut.rs/3SKJpok",
-      "pub_raw": "2026-08-21T19:17:21.295Z",
-      "pub_sort_dt": "2026-08-22 03:17:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港书店突袭事件、波多黎各债务危机：关于书籍",
-      "title_cn": "香港书店突袭事件、波多黎各债务危机：关于书籍",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/hong-kong-s-bookstore-raids-puerto-rico-s-debt-crisis-on-books",
-      "pub_raw": "2026-08-21T15:49:33.156Z",
-      "pub_sort_dt": "2026-08-21 23:49:33"
     }
   ]
 }
