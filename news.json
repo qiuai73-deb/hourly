@@ -1,15 +1,63 @@
 {
-  "update_cst": "2026-08-24 12:01:04 北京时间",
+  "update_cst": "2026-08-24 15:01:07 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
     "Bloomberg": 10,
-    "Financial Times": 2,
-    "Wall Street Journal": 2,
-    "Reuters": 5
+    "Financial Times": 1,
+    "Wall Street Journal": 0,
+    "Reuters": 8
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "阿里巴巴在香港发行的100亿美元股票认购超额三倍 - South China Morning Post",
+      "title_cn": "阿里巴巴在香港发行的100亿美元股票认购超额三倍 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxNRmlGQ1NyWWh2d2k2WkhpbFlLOFFkNGV1SkloclR1cjJOWDlQNmYycjc0LTlBc1U3azAycUJyOWdMbGdadzVYZ1IzRHBUVWFBdGtKTmNHZ2xkUXdLVElxSU5QTTNLa0QzV2lMQkJQSnp1YzlKaUljcEpPZ3hIRVhzRGZXN2lGb2l6UVFjbWFFS1lTX1FqcG1vNUVUV0hwZllVbnRkWUE2ZTdFNGhUTkdxU0ZFUnhma1hj0gG4AUFVX3lxTFBoWUQtekY4eHk1OUhnczNmT29KZ3VyU1pPNjVGY3JlS00wMEZDMldzVUpWX2l3eUtNektpS1BUaDJDMzF0eV9wZGNHeUJBQTYtXzBwTTYwU0xkamctSFFjVl9fRVVFTk56a0M3MExMYnNrSS1GemRMUmVXN2dPdlpQWUtFNmJTTTVEcjFvcVdmcG5QV1pmUHhzTTFDNm8wWmpzZzFfM25BVXY4Yy1BZlBxV0pZNUlCZmc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T05:44:05.000Z",
+      "pub_sort_dt": "2026-08-24 13:44:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着人工智能对就业的影响日益加深，中国工人一边适应这种变化，一边担心自己会被取代 - AP News",
+      "title_cn": "随着人工智能对就业的影响日益加深，中国工人一边适应这种变化，一边担心自己会被取代 - AP News",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxPUmhEZTlRaWhWYU9QcmxqT1ZnODQ4dGhtbUFrSUNDelpOdzlsNEFhMnhhQ09PZXdHb3pLV3B3QW9qQ0Q4Y0RNOXA0UUVoWjlhY3k5MWl6eXV2MnhOb0pDdUY5dmxkLTc0VUZBOU9WUEJGcWlsdTM0S19aN2tlOVFZNmtHeTFOdTdFRlVoTGk2Z3JMbjhQZnhn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T03:42:00.000Z",
+      "pub_sort_dt": "2026-08-24 11:42:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国突然推迟了雄心勃勃的“嫦娥七号”月球探测任务的发射 - NBC News",
+      "title_cn": "中国突然推迟了雄心勃勃的“嫦娥七号”月球探测任务的发射 - NBC News",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxQOHZkd1I0aGxnNUN0MjcyV2VwVGJUdm5pWFFCNFlxdkQ0azJ1UTd0am9FTkhoRm1HZWlPaUhlbVh4UzJfb2NvR0lLWWRIak5TVzZSb2hOaHVXWmw4c3pQU1Z2eUNkb1FTODBLbmFIdE1Za1FNd01YdDd6dmQ3d09ITUZUR1FpUlliWm0wT216clNsc2J2aG4zWWYxYTMzNE1lN1hmcFhuOUZGSnhpQTYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T03:21:00.000Z",
+      "pub_sort_dt": "2026-08-24 11:21:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国为应对投资疲软而推出的1190亿美元对策来得有些迟 - Bloomberg",
+      "title_cn": "中国为应对投资疲软而推出的1190亿美元对策来得有些迟 - Bloomberg",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQNjY5SnZtYm8weDJNaU9pT2xHVFIzeHdYV000TGNpSmVtOGN4dWdjUTdycmRHYS1ielVndzJZaWl0djZpMHhyNEJZR1hGcmlfQmVrdXZTak9QdGRTUUc3OGsweWJ1NlM3VzVsMThsSWp4SkNFV0VLS3psd1hCakdZUmN3SmtxaG4wNTNudWthOURUNWtqZzFtMTZqOGFJcnZUaHVDYUItREtYODk0VXpPbHdGRlM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T02:32:00.000Z",
+      "pub_sort_dt": "2026-08-24 10:32:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在曾经是牲畜放牧之地，内蒙古如今正为中国的AI雄心提供支持 - South China Morning Post",
+      "title_cn": "在曾经是牲畜放牧之地，内蒙古如今正为中国的AI雄心提供支持 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxNTUo2UzlpZWJGdzRNVEtleHpvWGMxYW5BZ2JORHVyQXlxUjBJeVVkZTF1OE1RUG9oY3hMUE05UnN0SDZCRW0yam1JcmhzWVdtNlBUSmdJdmJVbWxNc2R6QTkwMFgxMDNWV2RvYUNpTFF1M1kwYTJEbTkwWjVLaFQwemVMOWFDazVpSEpvREJaYzlab2x4QjBCdlk0VXA1OUlvTWZCRHpNbWprdkJvMG0wVWRaU2E3N3Vqa3dERmhaQ0fSAcABQVVfeXFMTWR0ODJiR3p4eXJXTnR1M2EtZWFrOWJieVV4WWNtcFZnZTJQODZqdFhRZHJwal9mODFDRkNUMTNFdGtzb2ZpUmNjRVF1U2ZxekJreEwtMGtGZjFoZXFMQ1gxU3hVcTBaUEx1cDdKTXJGZ0pVUHI3ZUtHSS1sS0t5UUJ6WTYyaWktMUdzWGVfdlZIMk9KYjd3Z3oxZ1hhNUNOVkFJYjc2Z1U2ang1ODA4SGhqNUJKeU5xeC1ZRkNoV3It?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T02:00:17.000Z",
+      "pub_sort_dt": "2026-08-24 10:00:17"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "澳大利亚正准备通过新建稀土精炼厂与中国展开竞争 - Le Monde.fr",
+      "title_cn": "澳大利亚正准备通过新建稀土精炼厂与中国展开竞争 - Le Monde.fr",
+      "url": "https://news.google.com/read/CBMi1wFBVV95cUxNQWtuOFl5ZjFzTnZoenNqeTY4V01sSEFLdkYyNGpWZzRhdzZxRDBfb3hkVC1NQmNjUGhxNU1HOW00MWhRM2JVcnE5SkNkcFV5THZFVmRuYm1VbFBHMFBRbFVzSnk4Z3ZrNXh5dnhET09LWTRKTXNJVVUyM3lLdS1kb2NWQ3RyXzB2a0hSMlk5TEF1NmJ4TFdlT0piTDR0aXpCTmxoZEVmUXhhTjZmUGt6U1Z3YXRsSnhrMmcyblZxLTVrRDV6dlpFdVVaeG04dEVWXzhkdkFJTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T00:59:30.000Z",
+      "pub_sort_dt": "2026-08-24 08:59:30"
+    },
     {
       "source": "China Buzzing",
       "title_en": "恒大宣判后，中国房地产危机仍在持续 - Reuters",
@@ -41,59 +89,75 @@
       "url": "https://news.google.com/read/CBMihAFBVV95cUxPY1NEWTJoME93UWlqU0RwOURBTHFPZzBSZm44ODVDNGl0NG03TVJ6WXBuaGJZZVRaamZSTFZyb0pEMXY1SWhhTTlVQUUydlJKMDZ3bkdtUERnZ1Q4cVJMN3hadDhkRHpfQ3lLaVlObGI5SlhRaDZYNWo2YW1xam5USGVLQTc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-23T18:00:00.000Z",
       "pub_sort_dt": "2026-08-24 02:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国突然推迟了旨在寻找月球水冰的雄心勃勃的“嫦娥七号”任务 - France 24",
-      "title_cn": "中国突然推迟了旨在寻找月球水冰的雄心勃勃的“嫦娥七号”任务 - France 24",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxPcVBNUl9Id201QkQ2RnZDTjQyajBSZFJvOE13dm9Td0ZVcGFGeGZnTUFJU3Bnc2RqdklVbVQ0Uno5YVBULVI0YmJaaHhmZEJyR1Y2MW1vTGF5OEdfWXlaSEx2OWNsNnpMcmdlT2ptWVU3R3VsMzYtS0dGZklXS0JsSmxiRmpqeVE3ck1BTV9hbFctdWdLWHVaQ0V5d0RpR294VjByZW9iRHJGODdRYjlhaTRMWDZHQzV0TmpfVEFiTTBMR1k?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T14:23:11.000Z",
-      "pub_sort_dt": "2026-08-23 22:23:11"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着紧张局势加剧，中国“积极致力于”伊朗问题谈判 - Bloomberg.com",
-      "title_cn": "随着紧张局势加剧，中国“积极致力于”伊朗问题谈判 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxNa3lCZ2FJNXI3ZmxaWWVnamxXbXc4bzQyZFpybEhObmYwWWM5Uk9qZnh6Q0UteUU1bDFHN0hjQWdpV2VpUFJ2U3FwbWplalk3Q0dRTFdmd0p6Z29Rdno3RmtDS3R5X05BMGtPUFVQVE14OXpEV1lLdk5IcGxJS0dvSVNRMGlrYkIxWXhPRkV4REFqVlJ6SWpZYVl1TUVMVmlydHo2SGo2Mm9sS3N1Tkg0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T13:42:45.000Z",
-      "pub_sort_dt": "2026-08-23 21:42:45"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国突然推迟了雄心勃勃的“嫦娥七号”登月任务的发射 - AP News",
-      "title_cn": "中国突然推迟了雄心勃勃的“嫦娥七号”登月任务的发射 - AP News",
-      "url": "https://news.google.com/read/CBMilgFBVV95cUxQWXEwX0JsZ3g2N2oyb1p1YkpvT3BneC1TUWxLWUFNdHNsc3pwOUF2UW1XZ014ZE9iVWVTSXJCQi1JUE1ueTBxQ3g4UkRBQnRoZWt4TzlUbTVEY0liS2g2QjJQNVdLS25LcXpkbjZ2cXJnUDFvdlhtQU9sZWRqQXY4QzlTZXMyU1ZtejlacGxLeWhRWjl2aVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T13:39:00.000Z",
-      "pub_sort_dt": "2026-08-23 21:39:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着中国人工智能的不断发展，非洲企业保持灵活应对 - South China Morning Post",
-      "title_cn": "随着中国人工智能的不断发展，非洲企业保持灵活应对 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPakdKUWc4TkNfTWd0eUZtcWxHREUxWTBqYU1PSjR3NG03VWFnQ0F6Qm9MSi1qYlNpdUQtemRsWVdsQy1DazdVdHhncDJzN1dLWlBGZnpRZ2xJZ0NDbWo3Z0V0S3FzR2F2eXZlek9jWDFtTkZ6dFAxRml0UkI1SmUxdXprWnZzQmYtX2x5cWY2cEVVTXg5MVlHbnNVOTdIaHZETzFkcV9kT2oteW1nQ0diZ1h0cWZOLTVTLVdac9IBvAFBVV95cUxOR1R0NWJZOThjR1BpV2gxMlZPaWxxZ0Y4NjVhSWE3WFJoRm1Wa2EzVWtDNFgxbTNDS0F1NG9XQXZTWGZkYzZWNVByYzJPbC1UeHVnVmJxM3RnSTQzZFplUVN2ZFFaaWpLNk5idEhsRTl4Z1BCQ1FwZHUyMVZ0S0JCSHFmR1FabHNMS19IRHN3T3g4anh3YmlyWEVJRVo5N1RoSUZ2aUtEdHkzZmVxMkpCbkdnWWV5emJ0aTU5cg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T12:00:05.000Z",
-      "pub_sort_dt": "2026-08-23 20:00:05"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "新冷战的曙光 - The Intercept",
-      "title_cn": "新冷战的曙光 - The Intercept",
-      "url": "https://news.google.com/read/CBMid0FVX3lxTE5ma19kSnpSa0VsQW9RWVdweHhpand5d09pTW41dUZvWkVrRmRMdWltZ2VUOE1SbkhsSENmMElYc1I2YTBxdjgyVlNxUUtmX2E2Qm9EaFJsUVFhaTg5R0I3UEdubXljVjJUTmFsem5aQW9nVHNkZnVz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T10:10:00.000Z",
-      "pub_sort_dt": "2026-08-23 18:10:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "为何中国媒体称美国历史学家正在为“分裂分子”提供“弹药” - South China Morning Post",
-      "title_cn": "为何中国媒体称美国历史学家正在为“分裂分子”提供“弹药” - South China Morning Post",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxQRWlrdnhZaTR6S2dHQm5fc3hEd3FqQ1hPMVUtXzBKLVpYcXdqUWpZYVFIOGZVRE52SkJDZTlscW5zOUJyX1VGUkd2OGo0LWZUR19KanFId2EwbGN6aXpvbGxFT3U3Z1pHVmR2ckZJV0R4Y2VrcmhEVDgtN0E2RWxhOS1EQU5tRW41NnZkYkJoNjRqZVN4amIzelVyeDRINXA2TWk2RThYZVAzV2FvVDF5aEJndW02NFpKWlJxQ3RuZVRjdUZIZ2Rv0gHHAUFVX3lxTE9BNlJkTlFXUGJSODN2TFJnYk1FajRub2Y3MGpTS09DTUVqenFWV0NjakJiNllfQWFVSTlleEZuNXNlQVpVa2loSnZuTTVHamJnX0J6U2VFdHlMT0p2cWdxLTRFT3JjN0FYRjZ0X1NpRmhYQUJOdnlWSTVTZS15UmZyQk9oX29Bc0o4SmpIdnBrdUNYYW5WTjI5NFBKX1F5MTlRazRnMlB6WG56VER5RHF2YUVPWWNCLXN0T2tOSXo0NlJJdV9VM3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T10:00:14.000Z",
-      "pub_sort_dt": "2026-08-23 18:00:14"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "越南批准为延误的中国铁路连接项目追加30亿美元资金",
+      "title_cn": "越南批准为延误的中国铁路连接项目追加30亿美元资金",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/vietnam-approves-extra-3-billion-for-delayed-china-rail-link",
+      "pub_raw": "2026-08-24T06:45:20.123Z",
+      "pub_sort_dt": "2026-08-24 14:45:20"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "打鼾、地铁和隐形广告：大型制药公司如何瞄准中国人的腰围",
+      "title_cn": "打鼾、地铁和隐形广告：大型制药公司如何瞄准中国人的腰围",
+      "url": "https://reut.rs/4gegn9D",
+      "pub_raw": "2026-08-24T06:29:18.821Z",
+      "pub_sort_dt": "2026-08-24 14:29:18"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "直播：机器人在北京举行的“世界类人机器人运动会”上展开角逐",
+      "title_cn": "直播：机器人在北京举行的“世界类人机器人运动会”上展开角逐",
+      "url": "https://www.youtube.com/watch?v=d1q5iu29wZk",
+      "pub_raw": "2026-08-24T06:13:34.673Z",
+      "pub_sort_dt": "2026-08-24 14:13:34"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "快时尚巨头Shein在香港IPO中的估值高达270亿美元",
+      "title_cn": "快时尚巨头Shein在香港IPO中的估值高达270亿美元",
+      "url": "https://reut.rs/4wMg2Qr",
+      "pub_raw": "2026-08-24T06:13:34.669Z",
+      "pub_sort_dt": "2026-08-24 14:13:34"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "阿里巴巴在香港完成100亿美元股票发行后，股价下跌8%",
+      "title_cn": "阿里巴巴在香港完成100亿美元股票发行后，股价下跌8%",
+      "url": "https://reut.rs/46kxTmG",
+      "pub_raw": "2026-08-24T05:57:13.801Z",
+      "pub_sort_dt": "2026-08-24 13:57:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "阿里巴巴、YMTC的融资活动因供应问题拖累中国科技股",
+      "title_cn": "阿里巴巴、YMTC的融资活动因供应问题拖累中国科技股",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-ymtc-fundraising-hits-china-tech-stocks-on-supply-woes",
+      "pub_raw": "2026-08-24T04:53:14.565Z",
+      "pub_sort_dt": "2026-08-24 12:53:14"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "台风“纳拉”带来的暴雨肆虐中国西南地区，中国已疏散数万人",
+      "title_cn": "台风“纳拉”带来的暴雨肆虐中国西南地区，中国已疏散数万人",
+      "url": "https://reut.rs/4gtH1Kq",
+      "pub_raw": "2026-08-24T04:21:37.701Z",
+      "pub_sort_dt": "2026-08-24 12:21:37"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Shein启动最高达18亿美元的香港IPO",
+      "title_cn": "Shein启动最高达18亿美元的香港IPO",
+      "url": "https://reut.rs/4xatUoC",
+      "pub_raw": "2026-08-24T04:05:32.401Z",
+      "pub_sort_dt": "2026-08-24 12:05:32"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "随着紧张局势升级，中国“积极致力于”伊朗核谈判",
       "title_cn": "随着紧张局势升级，中国“积极致力于”伊朗核谈判",
       "url": "https://www.bloomberg.com/news/articles/2026-08-23/china-actively-committed-to-iran-talks-with-tensions-rising",
@@ -187,73 +251,57 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-s-chan-says-city-must-respond-to-ai-s-risks-for-jobs",
       "pub_raw": "2026-08-23T09:41:21.191Z",
       "pub_sort_dt": "2026-08-23 17:41:21"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "随着中国企业扩大人工智能投资，阿里巴巴宣布进行102亿美元的配售",
-      "title_cn": "随着中国企业扩大人工智能投资，阿里巴巴宣布进行102亿美元的配售",
-      "url": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-23T08:53:13.765Z",
-      "pub_sort_dt": "2026-08-23 16:53:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "欧洲奢侈品巨头在中国这一关键市场中看到复苏迹象",
-      "title_cn": "欧洲奢侈品巨头在中国这一关键市场中看到复苏迹象",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/europe-s-luxury-giants-discern-green-shoots-in-key-china-market",
-      "pub_raw": "2026-08-23T07:18:11.235Z",
-      "pub_sort_dt": "2026-08-23 15:18:11"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾总统在中国抗战纪念日发表讲话：以实力维护和平",
-      "title_cn": "台湾总统在中国抗战纪念日发表讲话：以实力维护和平",
-      "url": "https://reut.rs/4qxeHeF",
-      "pub_raw": "2026-08-23T06:29:17.244Z",
-      "pub_sort_dt": "2026-08-23 14:29:17"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "英伟达斥资60亿美元，旨在打造一款能够与中国的AI技术抗衡的强大美国替代方案",
-      "title_cn": "英伟达斥资60亿美元，旨在打造一款能够与中国的AI技术抗衡的强大美国替代方案",
-      "url": "https://on.wsj.com/4xl40P6",
-      "pub_raw": "2026-08-23T03:49:29.994Z",
-      "pub_sort_dt": "2026-08-23 11:49:29"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
-      "title_cn": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
-      "url": "https://on.wsj.com/4gmaUfG",
-      "pub_raw": "2026-08-23T01:25:34.694Z",
-      "pub_sort_dt": "2026-08-23 09:25:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "德国经济低迷加速中欧向中国转型：《新经济》",
-      "title_cn": "德国经济低迷加速中欧向中国转型：《新经济》",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-22/german-slump-speeds-central-europe-s-china-pivot-new-economy",
-      "pub_raw": "2026-08-22T15:25:48.196Z",
-      "pub_sort_dt": "2026-08-22 23:25:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据官方媒体报道，中国类人机器人“闪电”打破了人类100米世界纪录",
-      "title_cn": "据官方媒体报道，中国类人机器人“闪电”打破了人类100米世界纪录",
-      "url": "https://reut.rs/4wIK87k",
-      "pub_raw": "2026-08-22T15:25:47.657Z",
-      "pub_sort_dt": "2026-08-22 23:25:47"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据称，美国海军飞机穿越了台湾海峡",
-      "title_cn": "据称，美国海军飞机穿越了台湾海峡",
-      "url": "https://reut.rs/4gqybx5",
-      "pub_raw": "2026-08-22T03:17:16.155Z",
-      "pub_sort_dt": "2026-08-22 11:17:16"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "阿里巴巴在香港发行的100亿美元股票认购超额三倍 - South China Morning Post",
+      "title_cn": "阿里巴巴在香港发行的100亿美元股票认购超额三倍 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxNRmlGQ1NyWWh2d2k2WkhpbFlLOFFkNGV1SkloclR1cjJOWDlQNmYycjc0LTlBc1U3azAycUJyOWdMbGdadzVYZ1IzRHBUVWFBdGtKTmNHZ2xkUXdLVElxSU5QTTNLa0QzV2lMQkJQSnp1YzlKaUljcEpPZ3hIRVhzRGZXN2lGb2l6UVFjbWFFS1lTX1FqcG1vNUVUV0hwZllVbnRkWUE2ZTdFNGhUTkdxU0ZFUnhma1hj0gG4AUFVX3lxTFBoWUQtekY4eHk1OUhnczNmT29KZ3VyU1pPNjVGY3JlS00wMEZDMldzVUpWX2l3eUtNektpS1BUaDJDMzF0eV9wZGNHeUJBQTYtXzBwTTYwU0xkamctSFFjVl9fRVVFTk56a0M3MExMYnNrSS1GemRMUmVXN2dPdlpQWUtFNmJTTTVEcjFvcVdmcG5QV1pmUHhzTTFDNm8wWmpzZzFfM25BVXY4Yy1BZlBxV0pZNUlCZmc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T05:44:05.000Z",
+      "pub_sort_dt": "2026-08-24 13:44:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着人工智能对就业的影响日益加深，中国工人一边适应这种变化，一边担心自己会被取代 - AP News",
+      "title_cn": "随着人工智能对就业的影响日益加深，中国工人一边适应这种变化，一边担心自己会被取代 - AP News",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxPUmhEZTlRaWhWYU9QcmxqT1ZnODQ4dGhtbUFrSUNDelpOdzlsNEFhMnhhQ09PZXdHb3pLV3B3QW9qQ0Q4Y0RNOXA0UUVoWjlhY3k5MWl6eXV2MnhOb0pDdUY5dmxkLTc0VUZBOU9WUEJGcWlsdTM0S19aN2tlOVFZNmtHeTFOdTdFRlVoTGk2Z3JMbjhQZnhn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T03:42:00.000Z",
+      "pub_sort_dt": "2026-08-24 11:42:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国突然推迟了雄心勃勃的“嫦娥七号”月球探测任务的发射 - NBC News",
+      "title_cn": "中国突然推迟了雄心勃勃的“嫦娥七号”月球探测任务的发射 - NBC News",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxQOHZkd1I0aGxnNUN0MjcyV2VwVGJUdm5pWFFCNFlxdkQ0azJ1UTd0am9FTkhoRm1HZWlPaUhlbVh4UzJfb2NvR0lLWWRIak5TVzZSb2hOaHVXWmw4c3pQU1Z2eUNkb1FTODBLbmFIdE1Za1FNd01YdDd6dmQ3d09ITUZUR1FpUlliWm0wT216clNsc2J2aG4zWWYxYTMzNE1lN1hmcFhuOUZGSnhpQTYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T03:21:00.000Z",
+      "pub_sort_dt": "2026-08-24 11:21:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国为应对投资疲软而推出的1190亿美元对策来得有些迟 - Bloomberg",
+      "title_cn": "中国为应对投资疲软而推出的1190亿美元对策来得有些迟 - Bloomberg",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQNjY5SnZtYm8weDJNaU9pT2xHVFIzeHdYV000TGNpSmVtOGN4dWdjUTdycmRHYS1ielVndzJZaWl0djZpMHhyNEJZR1hGcmlfQmVrdXZTak9QdGRTUUc3OGsweWJ1NlM3VzVsMThsSWp4SkNFV0VLS3psd1hCakdZUmN3SmtxaG4wNTNudWthOURUNWtqZzFtMTZqOGFJcnZUaHVDYUItREtYODk0VXpPbHdGRlM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T02:32:00.000Z",
+      "pub_sort_dt": "2026-08-24 10:32:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在曾经是牲畜放牧之地，内蒙古如今正为中国的AI雄心提供支持 - South China Morning Post",
+      "title_cn": "在曾经是牲畜放牧之地，内蒙古如今正为中国的AI雄心提供支持 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxNTUo2UzlpZWJGdzRNVEtleHpvWGMxYW5BZ2JORHVyQXlxUjBJeVVkZTF1OE1RUG9oY3hMUE05UnN0SDZCRW0yam1JcmhzWVdtNlBUSmdJdmJVbWxNc2R6QTkwMFgxMDNWV2RvYUNpTFF1M1kwYTJEbTkwWjVLaFQwemVMOWFDazVpSEpvREJaYzlab2x4QjBCdlk0VXA1OUlvTWZCRHpNbWprdkJvMG0wVWRaU2E3N3Vqa3dERmhaQ0fSAcABQVVfeXFMTWR0ODJiR3p4eXJXTnR1M2EtZWFrOWJieVV4WWNtcFZnZTJQODZqdFhRZHJwal9mODFDRkNUMTNFdGtzb2ZpUmNjRVF1U2ZxekJreEwtMGtGZjFoZXFMQ1gxU3hVcTBaUEx1cDdKTXJGZ0pVUHI3ZUtHSS1sS0t5UUJ6WTYyaWktMUdzWGVfdlZIMk9KYjd3Z3oxZ1hhNUNOVkFJYjc2Z1U2ang1ODA4SGhqNUJKeU5xeC1ZRkNoV3It?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T02:00:17.000Z",
+      "pub_sort_dt": "2026-08-24 10:00:17"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "澳大利亚正准备通过新建稀土精炼厂与中国展开竞争 - Le Monde.fr",
+      "title_cn": "澳大利亚正准备通过新建稀土精炼厂与中国展开竞争 - Le Monde.fr",
+      "url": "https://news.google.com/read/CBMi1wFBVV95cUxNQWtuOFl5ZjFzTnZoenNqeTY4V01sSEFLdkYyNGpWZzRhdzZxRDBfb3hkVC1NQmNjUGhxNU1HOW00MWhRM2JVcnE5SkNkcFV5THZFVmRuYm1VbFBHMFBRbFVzSnk4Z3ZrNXh5dnhET09LWTRKTXNJVVUyM3lLdS1kb2NWQ3RyXzB2a0hSMlk5TEF1NmJ4TFdlT0piTDR0aXpCTmxoZEVmUXhhTjZmUGt6U1Z3YXRsSnhrMmcyblZxLTVrRDV6dlpFdVVaeG04dEVWXzhkdkFJTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T00:59:30.000Z",
+      "pub_sort_dt": "2026-08-24 08:59:30"
+    },
     {
       "source": "China Buzzing",
       "title_en": "恒大宣判后，中国房地产危机仍在持续 - Reuters",
@@ -287,52 +335,68 @@
       "pub_sort_dt": "2026-08-24 02:00:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国突然推迟了旨在寻找月球水冰的雄心勃勃的“嫦娥七号”任务 - France 24",
-      "title_cn": "中国突然推迟了旨在寻找月球水冰的雄心勃勃的“嫦娥七号”任务 - France 24",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxPcVBNUl9Id201QkQ2RnZDTjQyajBSZFJvOE13dm9Td0ZVcGFGeGZnTUFJU3Bnc2RqdklVbVQ0Uno5YVBULVI0YmJaaHhmZEJyR1Y2MW1vTGF5OEdfWXlaSEx2OWNsNnpMcmdlT2ptWVU3R3VsMzYtS0dGZklXS0JsSmxiRmpqeVE3ck1BTV9hbFctdWdLWHVaQ0V5d0RpR294VjByZW9iRHJGODdRYjlhaTRMWDZHQzV0TmpfVEFiTTBMR1k?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T14:23:11.000Z",
-      "pub_sort_dt": "2026-08-23 22:23:11"
+      "source": "Bloomberg",
+      "title_en": "越南批准为延误的中国铁路连接项目追加30亿美元资金",
+      "title_cn": "越南批准为延误的中国铁路连接项目追加30亿美元资金",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/vietnam-approves-extra-3-billion-for-delayed-china-rail-link",
+      "pub_raw": "2026-08-24T06:45:20.123Z",
+      "pub_sort_dt": "2026-08-24 14:45:20"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "随着紧张局势加剧，中国“积极致力于”伊朗问题谈判 - Bloomberg.com",
-      "title_cn": "随着紧张局势加剧，中国“积极致力于”伊朗问题谈判 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxNa3lCZ2FJNXI3ZmxaWWVnamxXbXc4bzQyZFpybEhObmYwWWM5Uk9qZnh6Q0UteUU1bDFHN0hjQWdpV2VpUFJ2U3FwbWplalk3Q0dRTFdmd0p6Z29Rdno3RmtDS3R5X05BMGtPUFVQVE14OXpEV1lLdk5IcGxJS0dvSVNRMGlrYkIxWXhPRkV4REFqVlJ6SWpZYVl1TUVMVmlydHo2SGo2Mm9sS3N1Tkg0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T13:42:45.000Z",
-      "pub_sort_dt": "2026-08-23 21:42:45"
+      "source": "Reuters",
+      "title_en": "打鼾、地铁和隐形广告：大型制药公司如何瞄准中国人的腰围",
+      "title_cn": "打鼾、地铁和隐形广告：大型制药公司如何瞄准中国人的腰围",
+      "url": "https://reut.rs/4gegn9D",
+      "pub_raw": "2026-08-24T06:29:18.821Z",
+      "pub_sort_dt": "2026-08-24 14:29:18"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国突然推迟了雄心勃勃的“嫦娥七号”登月任务的发射 - AP News",
-      "title_cn": "中国突然推迟了雄心勃勃的“嫦娥七号”登月任务的发射 - AP News",
-      "url": "https://news.google.com/read/CBMilgFBVV95cUxQWXEwX0JsZ3g2N2oyb1p1YkpvT3BneC1TUWxLWUFNdHNsc3pwOUF2UW1XZ014ZE9iVWVTSXJCQi1JUE1ueTBxQ3g4UkRBQnRoZWt4TzlUbTVEY0liS2g2QjJQNVdLS25LcXpkbjZ2cXJnUDFvdlhtQU9sZWRqQXY4QzlTZXMyU1ZtejlacGxLeWhRWjl2aVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T13:39:00.000Z",
-      "pub_sort_dt": "2026-08-23 21:39:00"
+      "source": "Reuters",
+      "title_en": "直播：机器人在北京举行的“世界类人机器人运动会”上展开角逐",
+      "title_cn": "直播：机器人在北京举行的“世界类人机器人运动会”上展开角逐",
+      "url": "https://www.youtube.com/watch?v=d1q5iu29wZk",
+      "pub_raw": "2026-08-24T06:13:34.673Z",
+      "pub_sort_dt": "2026-08-24 14:13:34"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "随着中国人工智能的不断发展，非洲企业保持灵活应对 - South China Morning Post",
-      "title_cn": "随着中国人工智能的不断发展，非洲企业保持灵活应对 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPakdKUWc4TkNfTWd0eUZtcWxHREUxWTBqYU1PSjR3NG03VWFnQ0F6Qm9MSi1qYlNpdUQtemRsWVdsQy1DazdVdHhncDJzN1dLWlBGZnpRZ2xJZ0NDbWo3Z0V0S3FzR2F2eXZlek9jWDFtTkZ6dFAxRml0UkI1SmUxdXprWnZzQmYtX2x5cWY2cEVVTXg5MVlHbnNVOTdIaHZETzFkcV9kT2oteW1nQ0diZ1h0cWZOLTVTLVdac9IBvAFBVV95cUxOR1R0NWJZOThjR1BpV2gxMlZPaWxxZ0Y4NjVhSWE3WFJoRm1Wa2EzVWtDNFgxbTNDS0F1NG9XQXZTWGZkYzZWNVByYzJPbC1UeHVnVmJxM3RnSTQzZFplUVN2ZFFaaWpLNk5idEhsRTl4Z1BCQ1FwZHUyMVZ0S0JCSHFmR1FabHNMS19IRHN3T3g4anh3YmlyWEVJRVo5N1RoSUZ2aUtEdHkzZmVxMkpCbkdnWWV5emJ0aTU5cg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T12:00:05.000Z",
-      "pub_sort_dt": "2026-08-23 20:00:05"
+      "source": "Reuters",
+      "title_en": "快时尚巨头Shein在香港IPO中的估值高达270亿美元",
+      "title_cn": "快时尚巨头Shein在香港IPO中的估值高达270亿美元",
+      "url": "https://reut.rs/4wMg2Qr",
+      "pub_raw": "2026-08-24T06:13:34.669Z",
+      "pub_sort_dt": "2026-08-24 14:13:34"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "新冷战的曙光 - The Intercept",
-      "title_cn": "新冷战的曙光 - The Intercept",
-      "url": "https://news.google.com/read/CBMid0FVX3lxTE5ma19kSnpSa0VsQW9RWVdweHhpand5d09pTW41dUZvWkVrRmRMdWltZ2VUOE1SbkhsSENmMElYc1I2YTBxdjgyVlNxUUtmX2E2Qm9EaFJsUVFhaTg5R0I3UEdubXljVjJUTmFsem5aQW9nVHNkZnVz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T10:10:00.000Z",
-      "pub_sort_dt": "2026-08-23 18:10:00"
+      "source": "Reuters",
+      "title_en": "阿里巴巴在香港完成100亿美元股票发行后，股价下跌8%",
+      "title_cn": "阿里巴巴在香港完成100亿美元股票发行后，股价下跌8%",
+      "url": "https://reut.rs/46kxTmG",
+      "pub_raw": "2026-08-24T05:57:13.801Z",
+      "pub_sort_dt": "2026-08-24 13:57:13"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "为何中国媒体称美国历史学家正在为“分裂分子”提供“弹药” - South China Morning Post",
-      "title_cn": "为何中国媒体称美国历史学家正在为“分裂分子”提供“弹药” - South China Morning Post",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxQRWlrdnhZaTR6S2dHQm5fc3hEd3FqQ1hPMVUtXzBKLVpYcXdqUWpZYVFIOGZVRE52SkJDZTlscW5zOUJyX1VGUkd2OGo0LWZUR19KanFId2EwbGN6aXpvbGxFT3U3Z1pHVmR2ckZJV0R4Y2VrcmhEVDgtN0E2RWxhOS1EQU5tRW41NnZkYkJoNjRqZVN4amIzelVyeDRINXA2TWk2RThYZVAzV2FvVDF5aEJndW02NFpKWlJxQ3RuZVRjdUZIZ2Rv0gHHAUFVX3lxTE9BNlJkTlFXUGJSODN2TFJnYk1FajRub2Y3MGpTS09DTUVqenFWV0NjakJiNllfQWFVSTlleEZuNXNlQVpVa2loSnZuTTVHamJnX0J6U2VFdHlMT0p2cWdxLTRFT3JjN0FYRjZ0X1NpRmhYQUJOdnlWSTVTZS15UmZyQk9oX29Bc0o4SmpIdnBrdUNYYW5WTjI5NFBKX1F5MTlRazRnMlB6WG56VER5RHF2YUVPWWNCLXN0T2tOSXo0NlJJdV9VM3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T10:00:14.000Z",
-      "pub_sort_dt": "2026-08-23 18:00:14"
+      "source": "Bloomberg",
+      "title_en": "阿里巴巴、YMTC的融资活动因供应问题拖累中国科技股",
+      "title_cn": "阿里巴巴、YMTC的融资活动因供应问题拖累中国科技股",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-ymtc-fundraising-hits-china-tech-stocks-on-supply-woes",
+      "pub_raw": "2026-08-24T04:53:14.565Z",
+      "pub_sort_dt": "2026-08-24 12:53:14"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "台风“纳拉”带来的暴雨肆虐中国西南地区，中国已疏散数万人",
+      "title_cn": "台风“纳拉”带来的暴雨肆虐中国西南地区，中国已疏散数万人",
+      "url": "https://reut.rs/4gtH1Kq",
+      "pub_raw": "2026-08-24T04:21:37.701Z",
+      "pub_sort_dt": "2026-08-24 12:21:37"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Shein启动最高达18亿美元的香港IPO",
+      "title_cn": "Shein启动最高达18亿美元的香港IPO",
+      "url": "https://reut.rs/4xatUoC",
+      "pub_raw": "2026-08-24T04:05:32.401Z",
+      "pub_sort_dt": "2026-08-24 12:05:32"
     },
     {
       "source": "Bloomberg",
@@ -429,70 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-s-chan-says-city-must-respond-to-ai-s-risks-for-jobs",
       "pub_raw": "2026-08-23T09:41:21.191Z",
       "pub_sort_dt": "2026-08-23 17:41:21"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "随着中国企业扩大人工智能投资，阿里巴巴宣布进行102亿美元的配售",
-      "title_cn": "随着中国企业扩大人工智能投资，阿里巴巴宣布进行102亿美元的配售",
-      "url": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-23T08:53:13.765Z",
-      "pub_sort_dt": "2026-08-23 16:53:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "欧洲奢侈品巨头在中国这一关键市场中看到复苏迹象",
-      "title_cn": "欧洲奢侈品巨头在中国这一关键市场中看到复苏迹象",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/europe-s-luxury-giants-discern-green-shoots-in-key-china-market",
-      "pub_raw": "2026-08-23T07:18:11.235Z",
-      "pub_sort_dt": "2026-08-23 15:18:11"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾总统在中国抗战纪念日发表讲话：以实力维护和平",
-      "title_cn": "台湾总统在中国抗战纪念日发表讲话：以实力维护和平",
-      "url": "https://reut.rs/4qxeHeF",
-      "pub_raw": "2026-08-23T06:29:17.244Z",
-      "pub_sort_dt": "2026-08-23 14:29:17"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "英伟达斥资60亿美元，旨在打造一款能够与中国的AI技术抗衡的强大美国替代方案",
-      "title_cn": "英伟达斥资60亿美元，旨在打造一款能够与中国的AI技术抗衡的强大美国替代方案",
-      "url": "https://on.wsj.com/4xl40P6",
-      "pub_raw": "2026-08-23T03:49:29.994Z",
-      "pub_sort_dt": "2026-08-23 11:49:29"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
-      "title_cn": "据知情人士透露，英伟达计划利用本周达成的这笔60亿美元交易，构建全球最强大的开放式AI模型之一，以与中国DeepSeek等行业巨头竞争。",
-      "url": "https://on.wsj.com/4gmaUfG",
-      "pub_raw": "2026-08-23T01:25:34.694Z",
-      "pub_sort_dt": "2026-08-23 09:25:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "德国经济低迷加速中欧向中国转型：《新经济》",
-      "title_cn": "德国经济低迷加速中欧向中国转型：《新经济》",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-22/german-slump-speeds-central-europe-s-china-pivot-new-economy",
-      "pub_raw": "2026-08-22T15:25:48.196Z",
-      "pub_sort_dt": "2026-08-22 23:25:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据官方媒体报道，中国类人机器人“闪电”打破了人类100米世界纪录",
-      "title_cn": "据官方媒体报道，中国类人机器人“闪电”打破了人类100米世界纪录",
-      "url": "https://reut.rs/4wIK87k",
-      "pub_raw": "2026-08-22T15:25:47.657Z",
-      "pub_sort_dt": "2026-08-22 23:25:47"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据称，美国海军飞机穿越了台湾海峡",
-      "title_cn": "据称，美国海军飞机穿越了台湾海峡",
-      "url": "https://reut.rs/4gqybx5",
-      "pub_raw": "2026-08-22T03:17:16.155Z",
-      "pub_sort_dt": "2026-08-22 11:17:16"
     }
   ]
 }
