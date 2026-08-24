@@ -1,10 +1,10 @@
 {
-  "update_cst": "2026-08-24 15:01:07 北京时间",
+  "update_cst": "2026-08-24 18:01:02 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 1,
-    "Bloomberg": 10,
+    "The Economist": 0,
+    "Bloomberg": 11,
     "Financial Times": 1,
     "Wall Street Journal": 0,
     "Reuters": 8
@@ -12,11 +12,51 @@
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益 - Reuters",
+      "title_cn": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益 - Reuters",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxOQVl6Z2NfVHEtWVZtei15eVVoMG1mSHJQZXdJVnJFZlc3QklQS1c3NVcwWHhaYXlDYkNDbDNhM3pCNkV6ZmJTMXFMWGxUTVZCdXJ1aGlqckJibFo5cDFxYzlKYWVmaVNGeElSdHBLbkZvOWVGbUpvSjFUUGdtUGVHYXVSUTF3T0VQdDZESVBHSE1PQlZkS2ZiZmpxcXRObWYxV2FDdA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T08:05:38.000Z",
+      "pub_sort_dt": "2026-08-24 16:05:38"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "印度针对中国的情报收集为何可能导致误判 - South China Morning Post",
+      "title_cn": "印度针对中国的情报收集为何可能导致误判 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiywFBVV95cUxQOXlRUHFkR0tOQmItTTJVNWFJZjFzV2ZMX2ZnX29wdjhxczZKYnBDbUJ0REJENVFuZXlGTmpzc1lqYnRsYzh3UHpWeVNWQ1QtQnBwb2JjcmlhWW9yR3AzZmZEMGJxWXEtV3Nxa2hhc0FZSEFQYVQ4S0trc1dTRU95NWd4eUlfTmd0aWhSVGFOLU52VWgyM1k4UW5NRnpRVEpGTTZSWFUxNTM5eVBiR0hTMXlsbEN3NVFKNXFZUDFVcGZBZGIySjZwUThiSdIBywFBVV95cUxOSjhuV0x6V3dmZzlvRXp0RzhscXRNNkowQmw5WGg5c3p5TVl4THhJZWhKcFB2RWpudFFtTFdtOEJ5elI3SkRkVzFPOTZaSHpFRFo5dFZiNWQ3a0J4blRpTVlubjFCNnZNeDM5VXZZMjhuYWxyVUQ4bWJ0Mkd5dERrRUdkRFlLaGZFZGJ5TC1hWm5UdkI2alhnWGhVdmxTZ0MxeDZsVS1rRmpEWkdkNm5PSlE5eER2eWdER3RKbVJRWkZ2N3o3Qnl0RFhmcw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T06:34:24.000Z",
+      "pub_sort_dt": "2026-08-24 14:34:24"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "阿里巴巴在香港发行的100亿美元股票认购超额三倍 - South China Morning Post",
       "title_cn": "阿里巴巴在香港发行的100亿美元股票认购超额三倍 - South China Morning Post",
       "url": "https://news.google.com/read/CBMiuAFBVV95cUxNRmlGQ1NyWWh2d2k2WkhpbFlLOFFkNGV1SkloclR1cjJOWDlQNmYycjc0LTlBc1U3azAycUJyOWdMbGdadzVYZ1IzRHBUVWFBdGtKTmNHZ2xkUXdLVElxSU5QTTNLa0QzV2lMQkJQSnp1YzlKaUljcEpPZ3hIRVhzRGZXN2lGb2l6UVFjbWFFS1lTX1FqcG1vNUVUV0hwZllVbnRkWUE2ZTdFNGhUTkdxU0ZFUnhma1hj0gG4AUFVX3lxTFBoWUQtekY4eHk1OUhnczNmT29KZ3VyU1pPNjVGY3JlS00wMEZDMldzVUpWX2l3eUtNektpS1BUaDJDMzF0eV9wZGNHeUJBQTYtXzBwTTYwU0xkamctSFFjVl9fRVVFTk56a0M3MExMYnNrSS1GemRMUmVXN2dPdlpQWUtFNmJTTTVEcjFvcVdmcG5QV1pmUHhzTTFDNm8wWmpzZzFfM25BVXY4Yy1BZlBxV0pZNUlCZmc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-24T05:44:05.000Z",
       "pub_sort_dt": "2026-08-24 13:44:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国战斗机在演习中获得难得的机会与“阵风”战机交锋 - Bloomberg",
+      "title_cn": "中国战斗机在演习中获得难得的机会与“阵风”战机交锋 - Bloomberg",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxOVVA5Skl2Ykh6a2N6UGRrMnJhd1AxYjBEX3VJSjR3QWlNcVRVNnRvQ0ZuQ2NUdHZzLVBPQVNkQ3pLTnNQWkNtY254QTM4ZTlzMDl1X0I1aUNUeWNHMFlCTnB6U2Rub2JpV2JMSWo4cjIwSU13QURnbEdKdHE2VGJaZXk1U2JPbmpTRVduckM5M3JkOUhPNGdzbXN3eDlTRDRMN2t0MVJCVHBnYThfM1BmWVVTS2QtZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T05:21:00.000Z",
+      "pub_sort_dt": "2026-08-24 13:21:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国团队凭借一款紧凑型高速“幽灵”摄像机，将“X光视力”变为现实 - South China Morning Post",
+      "title_cn": "中国团队凭借一款紧凑型高速“幽灵”摄像机，将“X光视力”变为现实 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxNSjBNR29BS1paLS1NTnA4Q19sVW5IdmRSMlJZSjJlSnBpR0wzdFZGSzV0VklLREMxT0lDTUlNN3BKQ080RzQyVmRfNC12alpqNnpLMzhVaWRlZ2ZBQkhTWE9XSU5wREs2WlJacG5yam1SQmVVUVNvenNQTWFtTXI4RXB5NXZLU2pXWEFCdEEzTkwzOW0yU1FiR2NTU3ozLTZfOVdKRjhaVzdlNkxteDEzeHR5UFN4RW1ZZ1hDbGFHWWQxbGZx0gHEAUFVX3lxTE5Sek1UNGFwb0hXb2c1WXFJaWVSeUZYN19IOHdTMUs4VXRySmN4b1owOEt2bnVrSlVWSUdSZkRTMEF3N0ZpaHBDUEEzRnVYQnVsamRqWnZFa0s5bGZJRUhObHpQU01rSURZUGN5amhsc0xYazhVbEd0Mkp0UkluNlVLNFlCdk1UcHZIcjR0RHNCNEJPR19pa1BPWEtseUZhcTRoLWhiSEs2eThkeWdqTmhJa2Vic19BZld1M3ZOR0Y4X1pqUEY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T04:00:07.000Z",
+      "pub_sort_dt": "2026-08-24 12:00:07"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "图表：25年来，中国与上合组织成员国的贸易额增长了40多倍 - news.cgtn.com",
+      "title_cn": "图表：25年来，中国与上合组织成员国的贸易额增长了40多倍 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxNb0dBSHE1eVRBWms2aFF1M0QtdExVYXFzVnVmWXZ1M1c4akMzR2NfT2ZVZ2s2ZUM5WEs3S3YyRWxoRG1sTDZPbHNlSlF4ZE5lYWRfbjlic0NMZkx6MDVRb3djUjl3ZFJXbTBIdHB0NzBBbGJnMHltWjAyaEF1bmprcnd2ZHVYRnlSaWV5RGpVQWNQZ3plTkVGWDI0TUhidGRGWmdhbUhNXzE4bTU0TlUxM2NORVl5S1Z1OWl2RHgxMjU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T03:52:23.000Z",
+      "pub_sort_dt": "2026-08-24 11:52:23"
     },
     {
       "source": "China Buzzing",
@@ -49,51 +89,67 @@
       "url": "https://news.google.com/read/CBMiwAFBVV95cUxNTUo2UzlpZWJGdzRNVEtleHpvWGMxYW5BZ2JORHVyQXlxUjBJeVVkZTF1OE1RUG9oY3hMUE05UnN0SDZCRW0yam1JcmhzWVdtNlBUSmdJdmJVbWxNc2R6QTkwMFgxMDNWV2RvYUNpTFF1M1kwYTJEbTkwWjVLaFQwemVMOWFDazVpSEpvREJaYzlab2x4QjBCdlk0VXA1OUlvTWZCRHpNbWprdkJvMG0wVWRaU2E3N3Vqa3dERmhaQ0fSAcABQVVfeXFMTWR0ODJiR3p4eXJXTnR1M2EtZWFrOWJieVV4WWNtcFZnZTJQODZqdFhRZHJwal9mODFDRkNUMTNFdGtzb2ZpUmNjRVF1U2ZxekJreEwtMGtGZjFoZXFMQ1gxU3hVcTBaUEx1cDdKTXJGZ0pVUHI3ZUtHSS1sS0t5UUJ6WTYyaWktMUdzWGVfdlZIMk9KYjd3Z3oxZ1hhNUNOVkFJYjc2Z1U2ang1ODA4SGhqNUJKeU5xeC1ZRkNoV3It?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-24T02:00:17.000Z",
       "pub_sort_dt": "2026-08-24 10:00:17"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "澳大利亚正准备通过新建稀土精炼厂与中国展开竞争 - Le Monde.fr",
-      "title_cn": "澳大利亚正准备通过新建稀土精炼厂与中国展开竞争 - Le Monde.fr",
-      "url": "https://news.google.com/read/CBMi1wFBVV95cUxNQWtuOFl5ZjFzTnZoenNqeTY4V01sSEFLdkYyNGpWZzRhdzZxRDBfb3hkVC1NQmNjUGhxNU1HOW00MWhRM2JVcnE5SkNkcFV5THZFVmRuYm1VbFBHMFBRbFVzSnk4Z3ZrNXh5dnhET09LWTRKTXNJVVUyM3lLdS1kb2NWQ3RyXzB2a0hSMlk5TEF1NmJ4TFdlT0piTDR0aXpCTmxoZEVmUXhhTjZmUGt6U1Z3YXRsSnhrMmcyblZxLTVrRDV6dlpFdVVaeG04dEVWXzhkdkFJTQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T00:59:30.000Z",
-      "pub_sort_dt": "2026-08-24 08:59:30"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "恒大宣判后，中国房地产危机仍在持续 - Reuters",
-      "title_cn": "恒大宣判后，中国房地产危机仍在持续 - Reuters",
-      "url": "https://news.google.com/read/CBMiqAFBVV95cUxQOEFtRENfZGN4U3JLT3U2Mld5dC1TRnZNdHpXMnJJUEI4TUk3UjhFTl9yT3EzblF2WnJ5a3IzTFRCSklxa3ZuMVE1Vk9NaGRacFZod1hRRlZaZERRWW9GNlM3MW5jWkhkbVhfVXRsTDhGSGQyUjdvN2JxcnJFc0FuQldGNG9HWmxKY1RPYVkyWmhjczZfOFJ5SzIzUEVJZTdtemVYeGszXzk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T23:07:00.000Z",
-      "pub_sort_dt": "2026-08-24 07:07:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "泽尔丁以中国为例，警告不要在美国禁止数据中心 - The Hill",
-      "title_cn": "泽尔丁以中国为例，警告不要在美国禁止数据中心 - The Hill",
-      "url": "https://news.google.com/read/CBMilwFBVV95cUxORUdwdmNaZHh2MDRDaHlBVmhEQ0tiaVJwMzc5X1M5amFPbTN5dzlEVjJfWHVhMzlDbFlFaG16dTNMZHB5NWUwak5QMW40OEFLXzZMUEtHS3NyY0lERDk3RVcwWExVcUxiMGFBRy1EUVA1dy1sb21zRGlXYmk1ZUdHdTE0UXJOM05zSmxUMVB3V18yUVdaVjk00gGcAUFVX3lxTE5pWl9yXzB0VEIzd2w4NmhJaS1QNUxaR2ZFcjRBYzE5bFRudHltcmRwQVJkYUdDWGgxNjBhMC1xV3U5c0J4enJNd296UDkyRjQtLVkxb3czenFpdU4wNk01NVoyWG5PMnRaOFBfdXA4TnBBODlDN2dCaUdUdEhpM2VQMjUxcVlqbGw3VTB5ZXBueDBVcVlodHJyNXF3Nw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T21:26:00.000Z",
-      "pub_sort_dt": "2026-08-24 05:26:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "地球另一端的一个强国正在悄然影响着特朗普的最新贸易之争 - Fox Business",
-      "title_cn": "地球另一端的一个强国正在悄然影响着特朗普的最新贸易之争 - Fox Business",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQdXpWZllXejZ6T3FtZF9BM3BrSWtzLVBTdlRhVjFnZnllaGVLdGNQV3B1WTZpTXI3bzNFc1F5Zk1nX19yU19JcGJKaXhKbExnNzVwR09ZQjZ3OVVoVDdMZFhEYjgzSi05bW8yczVLWVk4azZ0LTZzejFSYTFfV1NRNlpacmotRTVKSDhqVU9jdEtmTFdnSHl6OXMtTFN5MVdsREJKNE05ZkVsa0pna3BjNnhB0gG3AUFVX3lxTE92bkFRbEV2cmV3SVk5VWY0S29FaERrb0ZyMHh3ZktUYlZ4TWNGOE9heGhwV2d4UlpYMXlTdVNFeGVOdTBzN3U0TktHcmNJZERvdjZnV1hyRUlBNU9CbjRTY2ZkRVNiOGRNZGJTdzM3V3dZenE1NTBNRXEtMnhVTGhSZjhodFM2SGw2ZElfemtmRjVsVFFvbWxTTWpOeFNadVVQSHRkZW14YVpTb08yMUNDWDVBRWtEUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T18:41:00.000Z",
-      "pub_sort_dt": "2026-08-24 02:41:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国突然推迟了一项雄心勃勃的登月任务 - Politico",
-      "title_cn": "中国突然推迟了一项雄心勃勃的登月任务 - Politico",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPY1NEWTJoME93UWlqU0RwOURBTHFPZzBSZm44ODVDNGl0NG03TVJ6WXBuaGJZZVRaamZSTFZyb0pEMXY1SWhhTTlVQUUydlJKMDZ3bkdtUERnZ1Q4cVJMN3hadDhkRHpfQ3lLaVlObGI5SlhRaDZYNWo2YW1xam5USGVLQTc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T18:00:00.000Z",
-      "pub_sort_dt": "2026-08-24 02:00:00"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "在双边关系陷入冰点之际，日本议员访问中国",
+      "title_cn": "在双边关系陷入冰点之际，日本议员访问中国",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/japan-lawmakers-visit-china-amid-deep-freeze-in-bilateral-ties",
+      "pub_raw": "2026-08-24T09:41:32.822Z",
+      "pub_sort_dt": "2026-08-24 17:41:32"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普未能遏制中国在拉丁美洲的经济影响力",
+      "title_cn": "特朗普未能遏制中国在拉丁美洲的经济影响力",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/trump-fails-to-curb-china-s-economic-influence-in-latin-america",
+      "pub_raw": "2026-08-24T09:25:18.152Z",
+      "pub_sort_dt": "2026-08-24 17:25:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普在拉丁美洲遭遇中国经济实力的冲击",
+      "title_cn": "特朗普在拉丁美洲遭遇中国经济实力的冲击",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/trump-choca-con-el-poder-economico-de-china-en-america-latina-mt709ham",
+      "pub_raw": "2026-08-24T09:09:17.702Z",
+      "pub_sort_dt": "2026-08-24 17:09:17"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国面对经济增长乏力仍强作镇定，罕见地为经济辩护",
+      "title_cn": "中国面对经济增长乏力仍强作镇定，罕见地为经济辩护",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/china-puts-brave-face-on-weak-growth-in-rare-defense-of-economy",
+      "pub_raw": "2026-08-24T09:09:17.698Z",
+      "pub_sort_dt": "2026-08-24 17:09:17"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益",
+      "title_cn": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益",
+      "url": "https://reut.rs/4czESf6",
+      "pub_raw": "2026-08-24T08:37:24.160Z",
+      "pub_sort_dt": "2026-08-24 16:37:24"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国建筑商洛根的债务重组方案获法院批准",
+      "title_cn": "中国建筑商洛根的债务重组方案获法院批准",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-builder-logan-wins-court-approval-for-debt-restructuring",
+      "pub_raw": "2026-08-24T07:17:40.130Z",
+      "pub_sort_dt": "2026-08-24 15:17:40"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国网民猛烈抨击一位将零工工作称为“福利”的教授",
+      "title_cn": "中国网民猛烈抨击一位将零工工作称为“福利”的教授",
+      "url": "https://reut.rs/4zyjJf9",
+      "pub_raw": "2026-08-24T07:01:20.268Z",
+      "pub_sort_dt": "2026-08-24 15:01:20"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "越南批准为延误的中国铁路连接项目追加30亿美元资金",
       "title_cn": "越南批准为延误的中国铁路连接项目追加30亿美元资金",
       "url": "https://www.bloomberg.com/news/articles/2026-08-24/vietnam-approves-extra-3-billion-for-delayed-china-rail-link",
@@ -195,65 +251,25 @@
       "url": "https://www.ft.com/content/1d310566-94ee-48e2-acfa-25de646fc41a?syn-25a6b1a6=1",
       "pub_raw": "2026-08-24T02:29:29.272Z",
       "pub_sort_dt": "2026-08-24 10:29:29"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "CXMT、AI硬件企业领跑，中国企业财报季进入高峰期",
-      "title_cn": "CXMT、AI硬件企业领跑，中国企业财报季进入高峰期",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak",
-      "pub_raw": "2026-08-24T01:57:29.415Z",
-      "pub_sort_dt": "2026-08-24 09:57:29"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "阿里巴巴通过创纪录的香港股票发售筹集了100亿美元",
-      "title_cn": "阿里巴巴通过创纪录的香港股票发售筹集了100亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
-      "pub_raw": "2026-08-24T01:41:37.276Z",
-      "pub_sort_dt": "2026-08-24 09:41:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国最大炼油企业称，油价飙升后燃料需求骤降",
-      "title_cn": "中国最大炼油企业称，油价飙升后燃料需求骤降",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/sinopec-first-half-profit-rises-12-after-surge-in-energy-prices",
-      "pub_raw": "2026-08-24T01:25:11.959Z",
-      "pub_sort_dt": "2026-08-24 09:25:11"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾南部因暴雨，办公场所和学校停课",
-      "title_cn": "台湾南部因暴雨，办公场所和学校停课",
-      "url": "https://reut.rs/3UAERBr",
-      "pub_raw": "2026-08-24T01:09:15.952Z",
-      "pub_sort_dt": "2026-08-24 09:09:15"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "恒大宣判后，中国房地产危机仍在持续",
-      "title_cn": "恒大宣判后，中国房地产危机仍在持续",
-      "url": "https://reut.rs/3UeQON3",
-      "pub_raw": "2026-08-24T00:05:33.647Z",
-      "pub_sort_dt": "2026-08-24 08:05:33"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国正在培训数千台类人机器人",
-      "title_cn": "中国正在培训数千台类人机器人",
-      "url": "https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots",
-      "pub_raw": "2026-08-23T14:29:56.154Z",
-      "pub_sort_dt": "2026-08-23 22:29:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港的陈某表示，香港必须应对人工智能对就业带来的风险",
-      "title_cn": "香港的陈某表示，香港必须应对人工智能对就业带来的风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-s-chan-says-city-must-respond-to-ai-s-risks-for-jobs",
-      "pub_raw": "2026-08-23T09:41:21.191Z",
-      "pub_sort_dt": "2026-08-23 17:41:21"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益 - Reuters",
+      "title_cn": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益 - Reuters",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxOQVl6Z2NfVHEtWVZtei15eVVoMG1mSHJQZXdJVnJFZlc3QklQS1c3NVcwWHhaYXlDYkNDbDNhM3pCNkV6ZmJTMXFMWGxUTVZCdXJ1aGlqckJibFo5cDFxYzlKYWVmaVNGeElSdHBLbkZvOWVGbUpvSjFUUGdtUGVHYXVSUTF3T0VQdDZESVBHSE1PQlZkS2ZiZmpxcXRObWYxV2FDdA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T08:05:38.000Z",
+      "pub_sort_dt": "2026-08-24 16:05:38"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "印度针对中国的情报收集为何可能导致误判 - South China Morning Post",
+      "title_cn": "印度针对中国的情报收集为何可能导致误判 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiywFBVV95cUxQOXlRUHFkR0tOQmItTTJVNWFJZjFzV2ZMX2ZnX29wdjhxczZKYnBDbUJ0REJENVFuZXlGTmpzc1lqYnRsYzh3UHpWeVNWQ1QtQnBwb2JjcmlhWW9yR3AzZmZEMGJxWXEtV3Nxa2hhc0FZSEFQYVQ4S0trc1dTRU95NWd4eUlfTmd0aWhSVGFOLU52VWgyM1k4UW5NRnpRVEpGTTZSWFUxNTM5eVBiR0hTMXlsbEN3NVFKNXFZUDFVcGZBZGIySjZwUThiSdIBywFBVV95cUxOSjhuV0x6V3dmZzlvRXp0RzhscXRNNkowQmw5WGg5c3p5TVl4THhJZWhKcFB2RWpudFFtTFdtOEJ5elI3SkRkVzFPOTZaSHpFRFo5dFZiNWQ3a0J4blRpTVlubjFCNnZNeDM5VXZZMjhuYWxyVUQ4bWJ0Mkd5dERrRUdkRFlLaGZFZGJ5TC1hWm5UdkI2alhnWGhVdmxTZ0MxeDZsVS1rRmpEWkdkNm5PSlE5eER2eWdER3RKbVJRWkZ2N3o3Qnl0RFhmcw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T06:34:24.000Z",
+      "pub_sort_dt": "2026-08-24 14:34:24"
+    },
     {
       "source": "China Buzzing",
       "title_en": "阿里巴巴在香港发行的100亿美元股票认购超额三倍 - South China Morning Post",
@@ -261,6 +277,30 @@
       "url": "https://news.google.com/read/CBMiuAFBVV95cUxNRmlGQ1NyWWh2d2k2WkhpbFlLOFFkNGV1SkloclR1cjJOWDlQNmYycjc0LTlBc1U3azAycUJyOWdMbGdadzVYZ1IzRHBUVWFBdGtKTmNHZ2xkUXdLVElxSU5QTTNLa0QzV2lMQkJQSnp1YzlKaUljcEpPZ3hIRVhzRGZXN2lGb2l6UVFjbWFFS1lTX1FqcG1vNUVUV0hwZllVbnRkWUE2ZTdFNGhUTkdxU0ZFUnhma1hj0gG4AUFVX3lxTFBoWUQtekY4eHk1OUhnczNmT29KZ3VyU1pPNjVGY3JlS00wMEZDMldzVUpWX2l3eUtNektpS1BUaDJDMzF0eV9wZGNHeUJBQTYtXzBwTTYwU0xkamctSFFjVl9fRVVFTk56a0M3MExMYnNrSS1GemRMUmVXN2dPdlpQWUtFNmJTTTVEcjFvcVdmcG5QV1pmUHhzTTFDNm8wWmpzZzFfM25BVXY4Yy1BZlBxV0pZNUlCZmc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-24T05:44:05.000Z",
       "pub_sort_dt": "2026-08-24 13:44:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国战斗机在演习中获得难得的机会与“阵风”战机交锋 - Bloomberg",
+      "title_cn": "中国战斗机在演习中获得难得的机会与“阵风”战机交锋 - Bloomberg",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxOVVA5Skl2Ykh6a2N6UGRrMnJhd1AxYjBEX3VJSjR3QWlNcVRVNnRvQ0ZuQ2NUdHZzLVBPQVNkQ3pLTnNQWkNtY254QTM4ZTlzMDl1X0I1aUNUeWNHMFlCTnB6U2Rub2JpV2JMSWo4cjIwSU13QURnbEdKdHE2VGJaZXk1U2JPbmpTRVduckM5M3JkOUhPNGdzbXN3eDlTRDRMN2t0MVJCVHBnYThfM1BmWVVTS2QtZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T05:21:00.000Z",
+      "pub_sort_dt": "2026-08-24 13:21:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国团队凭借一款紧凑型高速“幽灵”摄像机，将“X光视力”变为现实 - South China Morning Post",
+      "title_cn": "中国团队凭借一款紧凑型高速“幽灵”摄像机，将“X光视力”变为现实 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxNSjBNR29BS1paLS1NTnA4Q19sVW5IdmRSMlJZSjJlSnBpR0wzdFZGSzV0VklLREMxT0lDTUlNN3BKQ080RzQyVmRfNC12alpqNnpLMzhVaWRlZ2ZBQkhTWE9XSU5wREs2WlJacG5yam1SQmVVUVNvenNQTWFtTXI4RXB5NXZLU2pXWEFCdEEzTkwzOW0yU1FiR2NTU3ozLTZfOVdKRjhaVzdlNkxteDEzeHR5UFN4RW1ZZ1hDbGFHWWQxbGZx0gHEAUFVX3lxTE5Sek1UNGFwb0hXb2c1WXFJaWVSeUZYN19IOHdTMUs4VXRySmN4b1owOEt2bnVrSlVWSUdSZkRTMEF3N0ZpaHBDUEEzRnVYQnVsamRqWnZFa0s5bGZJRUhObHpQU01rSURZUGN5amhsc0xYazhVbEd0Mkp0UkluNlVLNFlCdk1UcHZIcjR0RHNCNEJPR19pa1BPWEtseUZhcTRoLWhiSEs2eThkeWdqTmhJa2Vic19BZld1M3ZOR0Y4X1pqUEY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T04:00:07.000Z",
+      "pub_sort_dt": "2026-08-24 12:00:07"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "图表：25年来，中国与上合组织成员国的贸易额增长了40多倍 - news.cgtn.com",
+      "title_cn": "图表：25年来，中国与上合组织成员国的贸易额增长了40多倍 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxNb0dBSHE1eVRBWms2aFF1M0QtdExVYXFzVnVmWXZ1M1c4akMzR2NfT2ZVZ2s2ZUM5WEs3S3YyRWxoRG1sTDZPbHNlSlF4ZE5lYWRfbjlic0NMZkx6MDVRb3djUjl3ZFJXbTBIdHB0NzBBbGJnMHltWjAyaEF1bmprcnd2ZHVYRnlSaWV5RGpVQWNQZ3plTkVGWDI0TUhidGRGWmdhbUhNXzE4bTU0TlUxM2NORVl5S1Z1OWl2RHgxMjU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T03:52:23.000Z",
+      "pub_sort_dt": "2026-08-24 11:52:23"
     },
     {
       "source": "China Buzzing",
@@ -295,44 +335,60 @@
       "pub_sort_dt": "2026-08-24 10:00:17"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "澳大利亚正准备通过新建稀土精炼厂与中国展开竞争 - Le Monde.fr",
-      "title_cn": "澳大利亚正准备通过新建稀土精炼厂与中国展开竞争 - Le Monde.fr",
-      "url": "https://news.google.com/read/CBMi1wFBVV95cUxNQWtuOFl5ZjFzTnZoenNqeTY4V01sSEFLdkYyNGpWZzRhdzZxRDBfb3hkVC1NQmNjUGhxNU1HOW00MWhRM2JVcnE5SkNkcFV5THZFVmRuYm1VbFBHMFBRbFVzSnk4Z3ZrNXh5dnhET09LWTRKTXNJVVUyM3lLdS1kb2NWQ3RyXzB2a0hSMlk5TEF1NmJ4TFdlT0piTDR0aXpCTmxoZEVmUXhhTjZmUGt6U1Z3YXRsSnhrMmcyblZxLTVrRDV6dlpFdVVaeG04dEVWXzhkdkFJTQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T00:59:30.000Z",
-      "pub_sort_dt": "2026-08-24 08:59:30"
+      "source": "Bloomberg",
+      "title_en": "在双边关系陷入冰点之际，日本议员访问中国",
+      "title_cn": "在双边关系陷入冰点之际，日本议员访问中国",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/japan-lawmakers-visit-china-amid-deep-freeze-in-bilateral-ties",
+      "pub_raw": "2026-08-24T09:41:32.822Z",
+      "pub_sort_dt": "2026-08-24 17:41:32"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "恒大宣判后，中国房地产危机仍在持续 - Reuters",
-      "title_cn": "恒大宣判后，中国房地产危机仍在持续 - Reuters",
-      "url": "https://news.google.com/read/CBMiqAFBVV95cUxQOEFtRENfZGN4U3JLT3U2Mld5dC1TRnZNdHpXMnJJUEI4TUk3UjhFTl9yT3EzblF2WnJ5a3IzTFRCSklxa3ZuMVE1Vk9NaGRacFZod1hRRlZaZERRWW9GNlM3MW5jWkhkbVhfVXRsTDhGSGQyUjdvN2JxcnJFc0FuQldGNG9HWmxKY1RPYVkyWmhjczZfOFJ5SzIzUEVJZTdtemVYeGszXzk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T23:07:00.000Z",
-      "pub_sort_dt": "2026-08-24 07:07:00"
+      "source": "Bloomberg",
+      "title_en": "特朗普未能遏制中国在拉丁美洲的经济影响力",
+      "title_cn": "特朗普未能遏制中国在拉丁美洲的经济影响力",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/trump-fails-to-curb-china-s-economic-influence-in-latin-america",
+      "pub_raw": "2026-08-24T09:25:18.152Z",
+      "pub_sort_dt": "2026-08-24 17:25:18"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "泽尔丁以中国为例，警告不要在美国禁止数据中心 - The Hill",
-      "title_cn": "泽尔丁以中国为例，警告不要在美国禁止数据中心 - The Hill",
-      "url": "https://news.google.com/read/CBMilwFBVV95cUxORUdwdmNaZHh2MDRDaHlBVmhEQ0tiaVJwMzc5X1M5amFPbTN5dzlEVjJfWHVhMzlDbFlFaG16dTNMZHB5NWUwak5QMW40OEFLXzZMUEtHS3NyY0lERDk3RVcwWExVcUxiMGFBRy1EUVA1dy1sb21zRGlXYmk1ZUdHdTE0UXJOM05zSmxUMVB3V18yUVdaVjk00gGcAUFVX3lxTE5pWl9yXzB0VEIzd2w4NmhJaS1QNUxaR2ZFcjRBYzE5bFRudHltcmRwQVJkYUdDWGgxNjBhMC1xV3U5c0J4enJNd296UDkyRjQtLVkxb3czenFpdU4wNk01NVoyWG5PMnRaOFBfdXA4TnBBODlDN2dCaUdUdEhpM2VQMjUxcVlqbGw3VTB5ZXBueDBVcVlodHJyNXF3Nw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T21:26:00.000Z",
-      "pub_sort_dt": "2026-08-24 05:26:00"
+      "source": "Bloomberg",
+      "title_en": "特朗普在拉丁美洲遭遇中国经济实力的冲击",
+      "title_cn": "特朗普在拉丁美洲遭遇中国经济实力的冲击",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/trump-choca-con-el-poder-economico-de-china-en-america-latina-mt709ham",
+      "pub_raw": "2026-08-24T09:09:17.702Z",
+      "pub_sort_dt": "2026-08-24 17:09:17"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "地球另一端的一个强国正在悄然影响着特朗普的最新贸易之争 - Fox Business",
-      "title_cn": "地球另一端的一个强国正在悄然影响着特朗普的最新贸易之争 - Fox Business",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQdXpWZllXejZ6T3FtZF9BM3BrSWtzLVBTdlRhVjFnZnllaGVLdGNQV3B1WTZpTXI3bzNFc1F5Zk1nX19yU19JcGJKaXhKbExnNzVwR09ZQjZ3OVVoVDdMZFhEYjgzSi05bW8yczVLWVk4azZ0LTZzejFSYTFfV1NRNlpacmotRTVKSDhqVU9jdEtmTFdnSHl6OXMtTFN5MVdsREJKNE05ZkVsa0pna3BjNnhB0gG3AUFVX3lxTE92bkFRbEV2cmV3SVk5VWY0S29FaERrb0ZyMHh3ZktUYlZ4TWNGOE9heGhwV2d4UlpYMXlTdVNFeGVOdTBzN3U0TktHcmNJZERvdjZnV1hyRUlBNU9CbjRTY2ZkRVNiOGRNZGJTdzM3V3dZenE1NTBNRXEtMnhVTGhSZjhodFM2SGw2ZElfemtmRjVsVFFvbWxTTWpOeFNadVVQSHRkZW14YVpTb08yMUNDWDVBRWtEUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T18:41:00.000Z",
-      "pub_sort_dt": "2026-08-24 02:41:00"
+      "source": "Bloomberg",
+      "title_en": "中国面对经济增长乏力仍强作镇定，罕见地为经济辩护",
+      "title_cn": "中国面对经济增长乏力仍强作镇定，罕见地为经济辩护",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/china-puts-brave-face-on-weak-growth-in-rare-defense-of-economy",
+      "pub_raw": "2026-08-24T09:09:17.698Z",
+      "pub_sort_dt": "2026-08-24 17:09:17"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国突然推迟了一项雄心勃勃的登月任务 - Politico",
-      "title_cn": "中国突然推迟了一项雄心勃勃的登月任务 - Politico",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPY1NEWTJoME93UWlqU0RwOURBTHFPZzBSZm44ODVDNGl0NG03TVJ6WXBuaGJZZVRaamZSTFZyb0pEMXY1SWhhTTlVQUUydlJKMDZ3bkdtUERnZ1Q4cVJMN3hadDhkRHpfQ3lLaVlObGI5SlhRaDZYNWo2YW1xam5USGVLQTc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-23T18:00:00.000Z",
-      "pub_sort_dt": "2026-08-24 02:00:00"
+      "source": "Reuters",
+      "title_en": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益",
+      "title_cn": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益",
+      "url": "https://reut.rs/4czESf6",
+      "pub_raw": "2026-08-24T08:37:24.160Z",
+      "pub_sort_dt": "2026-08-24 16:37:24"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国建筑商洛根的债务重组方案获法院批准",
+      "title_cn": "中国建筑商洛根的债务重组方案获法院批准",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-builder-logan-wins-court-approval-for-debt-restructuring",
+      "pub_raw": "2026-08-24T07:17:40.130Z",
+      "pub_sort_dt": "2026-08-24 15:17:40"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国网民猛烈抨击一位将零工工作称为“福利”的教授",
+      "title_cn": "中国网民猛烈抨击一位将零工工作称为“福利”的教授",
+      "url": "https://reut.rs/4zyjJf9",
+      "pub_raw": "2026-08-24T07:01:20.268Z",
+      "pub_sort_dt": "2026-08-24 15:01:20"
     },
     {
       "source": "Bloomberg",
@@ -437,62 +493,6 @@
       "url": "https://www.ft.com/content/1d310566-94ee-48e2-acfa-25de646fc41a?syn-25a6b1a6=1",
       "pub_raw": "2026-08-24T02:29:29.272Z",
       "pub_sort_dt": "2026-08-24 10:29:29"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "CXMT、AI硬件企业领跑，中国企业财报季进入高峰期",
-      "title_cn": "CXMT、AI硬件企业领跑，中国企业财报季进入高峰期",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak",
-      "pub_raw": "2026-08-24T01:57:29.415Z",
-      "pub_sort_dt": "2026-08-24 09:57:29"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "阿里巴巴通过创纪录的香港股票发售筹集了100亿美元",
-      "title_cn": "阿里巴巴通过创纪录的香港股票发售筹集了100亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
-      "pub_raw": "2026-08-24T01:41:37.276Z",
-      "pub_sort_dt": "2026-08-24 09:41:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国最大炼油企业称，油价飙升后燃料需求骤降",
-      "title_cn": "中国最大炼油企业称，油价飙升后燃料需求骤降",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/sinopec-first-half-profit-rises-12-after-surge-in-energy-prices",
-      "pub_raw": "2026-08-24T01:25:11.959Z",
-      "pub_sort_dt": "2026-08-24 09:25:11"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾南部因暴雨，办公场所和学校停课",
-      "title_cn": "台湾南部因暴雨，办公场所和学校停课",
-      "url": "https://reut.rs/3UAERBr",
-      "pub_raw": "2026-08-24T01:09:15.952Z",
-      "pub_sort_dt": "2026-08-24 09:09:15"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "恒大宣判后，中国房地产危机仍在持续",
-      "title_cn": "恒大宣判后，中国房地产危机仍在持续",
-      "url": "https://reut.rs/3UeQON3",
-      "pub_raw": "2026-08-24T00:05:33.647Z",
-      "pub_sort_dt": "2026-08-24 08:05:33"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国正在培训数千台类人机器人",
-      "title_cn": "中国正在培训数千台类人机器人",
-      "url": "https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots",
-      "pub_raw": "2026-08-23T14:29:56.154Z",
-      "pub_sort_dt": "2026-08-23 22:29:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港的陈某表示，香港必须应对人工智能对就业带来的风险",
-      "title_cn": "香港的陈某表示，香港必须应对人工智能对就业带来的风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-s-chan-says-city-must-respond-to-ai-s-risks-for-jobs",
-      "pub_raw": "2026-08-23T09:41:21.191Z",
-      "pub_sort_dt": "2026-08-23 17:41:21"
     }
   ]
 }
