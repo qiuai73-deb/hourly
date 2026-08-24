@@ -1,101 +1,133 @@
 {
-  "update_cst": "2026-08-24 22:01:06 北京时间",
+  "update_cst": "2026-08-25 06:01:05 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 9,
+    "The Economist": 1,
+    "Bloomberg": 10,
     "Financial Times": 1,
     "Wall Street Journal": 0,
-    "Reuters": 10
+    "Reuters": 8
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "摆脱对中国稀土的依赖并非易事。问问日本就知道了。 - Foreign Policy",
+      "title_cn": "改善对中国稀土的依赖并非易事。问日本就知道了。 - 外交政策",
+      "url": "https://news.google.com/read/CBMiogFBVV95cUxNVnh1ZjkwcHY5anFLTWdZTkcxbHg1Q1FxNWRDNUoyRXJ5OUctSUs4cHYyU2h5ektaRC16djNIV0Y0X09qLXZjVmJMd2E1bmlHYkVIanpKY3k1VDI2MHctbGhrMmZJVVJMM3lrYzFEMUlCYlUzdk1hTk5Vb3RNaldKRkZBV2YxUlo4MUZST211ZDdnWndvclUxbmJnMkkySHl3NGc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T21:14:14.000Z",
+      "pub_sort_dt": "2026-08-25 05:14:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "据报道，谷歌计划在2027年前将所有Pixel手机的生产转移出中国 - Fox Business",
+      "title_cn": "据福克斯商业报道，谷歌计划在 2027 年前将所有 Pixel 手机的生产转移到中国",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxNV1lvbkllWkZ2dUx4NnFIODZWRTA5Q1RteldXeTQtMmZTa2RGcEVEbFppaXJ1dWU2V2Z0M2xGQVRQZEVDQm9MaXhWNUd6cDU4U2ExNDRzWEI5OEZtZjE5VVZtbGgydWlOeVcxQkR4SWtYQjUzME9JWk1YWHEzckxGalVyandWbGRBZFRHazdjRVJEZTRjaHVV0gGcAUFVX3lxTE5wMUxmUV94SzB5Y2RSV3RtRXJPZnExVEZhQ1A4a3lSdldxNTAtRms0WWdGcmhtWmNPR3doZkhrTlNSbE9WU2tFejFaS1pnUDFjOEtGejREV2Z5ZU9oSmtoSzh6NVlMNzZ3dGF1WldTaFBDazNSWEtNTnd1MXZSWDZSU3FCQUtrNWpoUkF5R29lenRrdTJBcURyanl1bA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T20:26:00.000Z",
+      "pub_sort_dt": "2026-08-25 04:26:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特朗普政府公布针对伊朗的全球制裁计划，暗示中国也不例外 - CNBC",
+      "title_cn": "特朗普政府公布针对伊朗的全球制裁计划，暗示中国也不例外 - CNBC",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxPTzhCNHl5dWJ2ODQyMjBRX2V1RUUtQnlQY0xrVmtEOFRwTEk0VlMwNmFyUkI5NFlvd2pFdEpORFQ4Qi1xckNXeG1uME5JTk1tdktsSDBDNHo4ZXRTVENSY29JRWNMdkxzQzdnRm0weGFzcERCV0l2Y3pQTVkzaXZjdFBUWVQ4UdIBiwFBVV95cUxNajJTNU1wcExfNXpiUDliTFVycGlFbk9TT2tFdWdZbFdZdThxRmZob1ZsVVRycnFObFFqTHRZenVlcXdYWGlOZzVyLWZoZF8waGRYUFVVeGxvck5yS1k4WlFfRzRsZEZEMlZkSi1QYnJGd2FUa2RlcV9qSFpkN0JGQmpObFpPQmpFWTJn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T17:27:11.000Z",
+      "pub_sort_dt": "2026-08-25 01:27:11"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "日本代表团力图缓和与中国的紧张关系 - Al Jazeera",
+      "title_cn": "日本四力图缓和与中国的紧张关系 - 半岛电视台",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxNU0JXdWN5VXRVRnBjODBQYTZZMDE5aHJ4LU5SWnliZlRET1FOUE9GYXB4ZG5jaVoxeTVQVEc2MEdnMUU5REhkaE1lTmxGMkotcGhBTnhaOXNnTXgxUEctV0xBUDlZSWhrVTBfX25UT2hsTzlUSWM5Y1Jua1ZRM3FWbENvc1BwNk1qbFBYNWs0QTBuWmFvMUt3Q3J2N0FxSmlNbnRF0gGoAUFVX3lxTE1naWxUcmNZSWVvam9CY1lKMmJReDNjaTNQelU2cUxmUzUyZUhiY3A5N3lkU0twcXZvYnIzMWttTGNLbXRKUVptVEtiTzNUMGhNay00dVd5M0ZWaTZwd2w1dk1HbDJhWW1xOVZQak82RFVLVDRSdWFFTGRGRXBScUpaaENRVkZOUkRKVnNuaElDb25RLTJ2MjNjZm80bHlJX2Z4ZzNfM2hkbA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T17:24:15.000Z",
+      "pub_sort_dt": "2026-08-25 01:24:15"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在习近平与特朗普会晤前，美国正考虑对中国的产能过剩产品征收7.5%的关税 - Bloomberg",
+      "title_cn": "在习近平与特朗普会议之前，美国正考虑对中国产能过剩产品征收7.5%的关税 - 彭博社",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxOY1cySzg1bmVQS2h5QnlFSllIV3VwWWNnQzRTVURxSjlhNnlRd3lvTmtOcE83dWs4UVQ3S05sUVZiR1h1dENiWU9hWnZXeVh4SjRDbzFTX1lrUVRROTNIUTdXNGJlcFVqbGs4Q3RCRUFaWHpSNkxreTZkYnNCYWIxbEg3V19WdURwamwxaU83TllhdWQ5X0lRQ1VXd1MwUzB1WVUyTmNaU2xzbzlxZVNDTndlWEk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T15:29:51.000Z",
+      "pub_sort_dt": "2026-08-24 23:29:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在习近平与特朗普会晤前，美国正考虑对中国的产能过剩产品征收7.5%的关税 - Yahoo Finance",
+      "title_cn": "在习近平与特朗普会议前，美国正考虑对中国产能过剩产品征收7.5%的关税 - 雅虎财经",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxPN3lBNy1hbk5KNHpGdkJJMkRmSTFzTEpNcVpQOVNqNGlaczZramJzbHRmOGFyNXlzcVk5dUh6NjN1YmVVVU40SFJpRW53dGRvWVkwd0V3d1pxUDJzV0Z6T1Z4STRRS1ZqWmxOZFRGLWdhNjdMbHpyWkpudXVpUTRWWjNSSEdSSDhmXzlhajhBSlNQZTJHQ1pzOF9uSFlxVTUt?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T15:29:51.000Z",
+      "pub_sort_dt": "2026-08-24 23:29:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "莫德纳首席执行官警告称，随着北京方面在生物技术领域向美国发起挑战，中国正在大力投资mRNA技术 - Fox Business",
+      "title_cn": "莫德纳提出警告称，随着北京方面在生物技术领域向美国发起挑战，中国正在大力投资mRNA技术 - Fox Business",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxNQU5uWmJGdlVRYmNmeUlSb056bEU4aTY2SnpVM2xnWnlHZy1PWWlxMWZIaXVJaThyTzNmZmVCR2lhSWNhSjdvZ25KTHg3T01MOGlaM0JUZVNLbm5Qa3ZzS3dCYXlqSUF1MGpsNG9lOEhKTVFiYmNueGd2OHBVS3l0a3pYN284WExtTVNPZWxPRm0xZXFrTTJ1R1F6UTJDMjJ1bTJESE9xWGl3TEJzMG4wT3BHN0FMRGNNT2lHY2F30gHDAUFVX3lxTE01Uncxc0tUdV9QdDJET05mQ1BJNnNyd0VuYTBVa1JxZklvckIwanZyOVEyTndWZmhTQ2JXMFlnWUo4M05aanZ0aDg2MXpOLVc5MUowZ21PUm82ekpFUW1qU1ZqZE5CVU5oWWhfS3JnNTZBOXh6QXRjQ1poaGV3Unh1TUVkUEdmWE9XcGJTV1hTcmtvVHc2bnJ6T1VxTEUxQWxnQkVVNHNtbXNPajJSYVU0ckhRSUlIS1ZSMWxvSjhNREc2MA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T14:59:00.000Z",
+      "pub_sort_dt": "2026-08-24 22:59:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "台湾以涉嫌向中国走私AI服务器为由起诉9人 - WSJ",
+      "title_cn": "台湾以涉嫌向中国走私AI服务器为由起诉9人 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxPMkhwcmRIRXVKYTRlTEwzQmYzQTVSZkZoYmY5eWVUVWxhR1FFTk1FVUpWYzhSM1czMy1meXVxU1pncVNtR3BsUUM4WU5fSUpsQ1BYOGMwcjZhZmhzZ1JZTnM5NEdDN2F0TVMyZnNQVHFuWW5XZmlOc1ZfWlVzaTV3RXlvcUNkSHZTTkdYekpqR1ZWaXJzaUdxVm9JOXRLaFVVR1dJUkkwUHo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T14:53:00.000Z",
+      "pub_sort_dt": "2026-08-24 22:53:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国机器人热潮背后的开发者之一向CBS新闻透露，类人型机器人士兵可能只需5到10年就能问世 - CBS News",
+      "title_cn": "中国机器人热潮背后的开发者之一向CBS新闻透露，类人型机器人士兵可能只需5到10年就能问世 - CBS新闻",
+      "url": "https://news.google.com/read/CBMiogFBVV95cUxNcVNUWTZUUFRMSWJGemltTmNtb3c2ZXFXZkNtQ25kTXhNbDZQenhuYVBEUnduQTZsRndFWnBkXzByLWJRSVF0ZXl3Zl83eDJDNXRGMG9tYkxxSnhiU253RDBldWNlQ19DQUVLZ2hNZjQydlIwTURKdWFjZnpUTFFGSzFSd2VObFNMejlDY3pTWHZ5aGhza09ISUJxbFZqbDBvVVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T14:09:00.000Z",
+      "pub_sort_dt": "2026-08-24 22:09:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国国家主席习近平有望率大型代表团访问印度，这将是七年来首次 - Reuters",
-      "title_cn": "中国国家主席习近平有望率大型代表团访问印度，这将是七年来首次 - Reuters",
+      "title_cn": "中国国家主席习近平成功两次访问印度，这将是七年来首次 - 路透中文网",
       "url": "https://news.google.com/read/CBMiuwFBVV95cUxOOTN3N054U1RWSGR0WVMxRlBWTi1xNTU3Q0hDSGpsQ05KbEpUWG03UU05RGlYRGFJdDBVeDduSlFRX0tqeHlKYjVwX3gxd1JfSnkySWx5NGdmRm8zOW5NT1B4dUZFVkJRM0lqYmZqdGM4a0V5bzJBUFAtM2h0d1JNWFRuRDdFX2FnVG5hejAxVEFUUEdDSXlNb3pid3RtbkpNdEpyMDZjT3daaFlockxXUTg5MUR0YWszTHpz?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-24T12:41:28.000Z",
       "pub_sort_dt": "2026-08-24 20:41:28"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国计划组建核动力商船队，以挑战中国在造船领域的霸主地位 - Financial Times",
-      "title_cn": "美国计划组建核动力商船队，以挑战中国在造船领域的霸主地位 - Financial Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNUUhzTGJkekdMSVlCekthal9LZS02NzV5RHpmdE9jdThPcjVQc2x1Skw2VGMwNVJUMHJsZW1fZ0syamtxY1p1YkY0OUJmMFFLVzdzdnZFZGZLU1dIaDNndHdwbDZiOGFuSFhzX2xPcUdOc1U0Rl9ZblNxeEVGMS1oWXMyVC0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T12:00:01.000Z",
-      "pub_sort_dt": "2026-08-24 20:00:01"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "遭美军致命袭击的“影子舰队”油轮在中国重新现身 - TradeWinds News",
-      "title_cn": "遭美军致命袭击的“影子舰队”油轮在中国重新现身 - TradeWinds News",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxPNWh4YTU1OG1tTTZib1h3WHBob245czc2S3BZazNIOElFZkF0RGRhc050OTBQNDRRdUs0eFFiclBXMzRJLTJqbElpZzJNOVJNZmpqZ0hVOHVVUGFhbnFYZFlmTHhWNHhQNkJJYU1Ma0ZXb1d6Y0lQbFptR3M2ckZoRE1sUkFzemw2M0lGbURCTTNfN1haRnVESUdtbXRzbWMtcWlQS2lHanp3LWNjM2RTTXNnVDY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T11:49:55.000Z",
-      "pub_sort_dt": "2026-08-24 19:49:55"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国国家主席习近平表示，巴勒斯坦问题是中东事务的核心 - The Times of Israel",
-      "title_cn": "中国国家主席习近平表示，巴勒斯坦问题是中东事务的核心 - The Times of Israel",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxPaTh5b1VpMUNsSjNwNjFUMmZ1N0htcl9OSWlrVWlfaDg0ejg4ZURNdnhmWEtsWUFEWkdzaTlHVDZpSy1YSGlmOWoza3JTVmJHUFJqcDA1OHd4MThZbGZHWGNnQWs1elpvaFBSSlFyeFJDenNGVzZ2cXdBc2ZrLTFLZVdWVHJjMUR2b0dFMkZaTkk4SFFHdHQ4SDdFcl9uTGk2cFFQRkpwWTltX211YXIw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T11:37:47.000Z",
-      "pub_sort_dt": "2026-08-24 19:37:47"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国称中东局势处于关键时刻，呼吁缓和紧张局势并开展对话 - Reuters",
-      "title_cn": "中国称中东局势处于关键时刻，呼吁缓和紧张局势并开展对话 - Reuters",
-      "url": "https://news.google.com/read/CBMiuAFBVV95cUxPbHZKbGNlSkFyUnFGaFRSQWtQc1JQUElUeDVnLVZCNUR1SmhMV3I5VkYxWm93NkFLOWNYckFscUR6YXNMTFBGWTl4aHdNcjdwaE9reTdSTEpCUWlEd3hKVTMzZy1qX0ZsRVF3dnU0dVJRdVBod1J0SW8yT3JxQXpoLXlKMGlQdnRKdi1JZXNnSVc5U1hNRG52RkxaNXJ1YjhUV2RDVlRIVnhoU3Q2SzZ5MmpFekhPelVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T09:59:43.000Z",
-      "pub_sort_dt": "2026-08-24 17:59:43"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国对伊朗发出“经济诺曼底登陆日”的威胁，考验着特朗普对华缓和政策 - Al Jazeera",
-      "title_cn": "美国对伊朗发出“经济诺曼底登陆日”的威胁，考验着特朗普对华缓和政策 - Al Jazeera",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxPUVZFT0QzeHhsdVV3NzUtWURkN3VCR3pYT2dzeXNET1pyU3pfQzFCeEpBVnM1UjZjbkViMW9RTV9MWEYweGl2NEJBMzMtNTdtREVpLVQwTDNVd3hGZExndVBTd1B1a3VUQUFrN2VyYVRobVVZZmpHVGh6ZE5pdjc5d2ZOMTZkTGVaT1drcGE2b00yU2ZpWGQ3VHdfSUxveTEzUW16UUtwOC1PS2PSAbABQVVfeXFMT3lRWkVkN3hIQWJLYXFDUmpDVVpUV1JGR3R4WHlSZlRCWGJycDVWaTc5ZmNwVmN1Nzkzbk96S1hyWlBwU0xWM0N3VU4ydGJNMHRkblJTSVB4WERBMnRJWUgxSUxJRjB3SlNsV1VhX1ZDVi1MUFo2SGpkdF9OM1pEVjZqei00RVhKRVkyYTFBa3RQOVI0SXFrdTVFamwtRENiSi1uU2Jhci12aFVrUHNYNkg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T09:17:48.000Z",
-      "pub_sort_dt": "2026-08-24 17:17:48"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益 - Reuters",
-      "title_cn": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益 - Reuters",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxOQVl6Z2NfVHEtWVZtei15eVVoMG1mSHJQZXdJVnJFZlc3QklQS1c3NVcwWHhaYXlDYkNDbDNhM3pCNkV6ZmJTMXFMWGxUTVZCdXJ1aGlqckJibFo5cDFxYzlKYWVmaVNGeElSdHBLbkZvOWVGbUpvSjFUUGdtUGVHYXVSUTF3T0VQdDZESVBHSE1PQlZkS2ZiZmpxcXRObWYxV2FDdA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T08:05:38.000Z",
-      "pub_sort_dt": "2026-08-24 16:05:38"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "低估中国军事力量的风险 - War on the Rocks",
-      "title_cn": "低估中国军事力量的风险 - War on the Rocks",
-      "url": "https://news.google.com/read/CBMidkFVX3lxTE5zakZkV1FYT1lIX3BuQTFSNjI4TTNqdjRkZUctSDNIVjVUNXRiSmVybTVfVU1aX0w1R1N2THBWeEJHdzJUaUd4ZFRzUkFBcHAxLU9YR2F2cUZDU2Z0U2FiemxCYUh3UlIwWGNIemwxTFk2Y1VKVUE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T07:35:46.000Z",
-      "pub_sort_dt": "2026-08-24 15:35:46"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "印度针对中国的情报收集为何可能导致误判 - South China Morning Post",
-      "title_cn": "印度针对中国的情报收集为何可能导致误判 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiywFBVV95cUxQOXlRUHFkR0tOQmItTTJVNWFJZjFzV2ZMX2ZnX29wdjhxczZKYnBDbUJ0REJENVFuZXlGTmpzc1lqYnRsYzh3UHpWeVNWQ1QtQnBwb2JjcmlhWW9yR3AzZmZEMGJxWXEtV3Nxa2hhc0FZSEFQYVQ4S0trc1dTRU95NWd4eUlfTmd0aWhSVGFOLU52VWgyM1k4UW5NRnpRVEpGTTZSWFUxNTM5eVBiR0hTMXlsbEN3NVFKNXFZUDFVcGZBZGIySjZwUThiSdIBywFBVV95cUxOSjhuV0x6V3dmZzlvRXp0RzhscXRNNkowQmw5WGg5c3p5TVl4THhJZWhKcFB2RWpudFFtTFdtOEJ5elI3SkRkVzFPOTZaSHpFRFo5dFZiNWQ3a0J4blRpTVlubjFCNnZNeDM5VXZZMjhuYWxyVUQ4bWJ0Mkd5dERrRUdkRFlLaGZFZGJ5TC1hWm5UdkI2alhnWGhVdmxTZ0MxeDZsVS1rRmpEWkdkNm5PSlE5eER2eWdER3RKbVJRWkZ2N3o3Qnl0RFhmcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T06:34:24.000Z",
-      "pub_sort_dt": "2026-08-24 14:34:24"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "台湾以涉嫌向中国非法出口AI服务器为由起诉9人 - Yahoo Finance",
-      "title_cn": "台湾以涉嫌向中国非法出口AI服务器为由起诉9人 - Yahoo Finance",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxNb3pMTXIwaFBtYlBPSUlZc0d6OEd2U3FzdEJPNXhqZHk2MlRlWms3T243V2Nia19ZNXlnMmN5Yi14LW15UGpJZW5nUUlBclRmUVR0ZmJ5QXRqNEVKY0xfbVFLa1ZXYWJoeW96OHhjNl9PaWpjN1FhWWtVZlc3WnpOWmd3WTR0RnVNT1k0WTFvdDlRWlJwTUl6cA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T06:24:00.000Z",
-      "pub_sort_dt": "2026-08-24 14:24:00"
     }
   ],
   "media_news": [
     {
+      "source": "The Economist",
+      "title_en": "中国女性在职场中正逐渐落后",
+      "title_cn": "中国女性在职场中正逐渐落后",
+      "url": "https://www.economist.com/china/2026/08/24/chinese-women-are-falling-behind-in-the-office",
+      "pub_raw": "2026-08-24T17:41:37.935Z",
+      "pub_sort_dt": "2026-08-25 01:41:37"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "据彭博社报道，在习近平与特朗普会晤前，美国正考虑对中国的产能过剩产品征收7.5%的关税",
+      "title_cn": "据彭博社报道，在习近平与特朗普会晤前，美国正考虑对中国的产能过剩产品征收7.5%的关税",
+      "url": "https://reut.rs/4cYlc4F",
+      "pub_raw": "2026-08-24T17:41:37.488Z",
+      "pub_sort_dt": "2026-08-25 01:41:37"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在习近平与特朗普会晤前，美国正考虑对中国的产能过剩产品征收7.5%的关税",
+      "title_cn": "在习近平与特朗普会议前，美国正考虑对中国产能过剩产品征收7.5%的关税",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks",
+      "pub_raw": "2026-08-24T15:49:23.067Z",
+      "pub_sort_dt": "2026-08-24 23:49:23"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾在芯片走私调查后起诉英伟达一名高管",
+      "title_cn": "台湾在芯片走私人调查后起诉英伟达一名高管",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/taiwan-indicts-nvidia-manager-following-chip-smuggling-probe",
+      "pub_raw": "2026-08-24T14:45:25.281Z",
+      "pub_sort_dt": "2026-08-24 22:45:25"
+    },
+    {
       "source": "Reuters",
       "title_en": "中国国家主席习近平有望率庞大代表团访问印度，这将是七年来首次",
-      "title_cn": "中国国家主席习近平有望率庞大代表团访问印度，这将是七年来首次",
+      "title_cn": "中国国家主席习近平两次访问印度大获成功，这将是七年来首次",
       "url": "https://reut.rs/4wPoVZw",
       "pub_raw": "2026-08-24T12:37:14.895Z",
       "pub_sort_dt": "2026-08-24 20:37:14"
@@ -111,7 +143,7 @@
     {
       "source": "Reuters",
       "title_en": "美国对伊朗的制裁迫在眉睫，中国购油问题成为关注焦点",
-      "title_cn": "美国对伊朗的制裁迫在眉睫，中国购油问题成为关注焦点",
+      "title_cn": "美国对伊朗的制裁在艺术宫，中国购油问题成为焦点关注",
       "url": "https://reut.rs/4wNsVK9",
       "pub_raw": "2026-08-24T11:33:39.874Z",
       "pub_sort_dt": "2026-08-24 19:33:39"
@@ -135,7 +167,7 @@
     {
       "source": "Bloomberg",
       "title_en": "阿里巴巴与Shein在香港的股票发售标志着中国股市估值的剧烈重估",
-      "title_cn": "阿里巴巴与Shein在香港的股票发售标志着中国股市估值的剧烈重估",
+      "title_cn": "阿里巴巴与Shein在香港的股票首次公开募股创下中国股市估值的惊人重估",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-24/alibaba-shein-s-hong-kong-share-sales-mark-a-dramatic-repricing-of-china",
       "pub_raw": "2026-08-24T09:57:24.964Z",
       "pub_sort_dt": "2026-08-24 17:57:24"
@@ -159,7 +191,7 @@
     {
       "source": "Bloomberg",
       "title_en": "特朗普未能遏制中国在拉丁美洲的经济影响力",
-      "title_cn": "特朗普未能遏制中国在拉丁美洲的经济影响力",
+      "title_cn": "特朗普未能实行民主中国在拉丁美洲的经济影响力",
       "url": "https://www.bloomberg.com/news/articles/2026-08-24/trump-fails-to-curb-china-s-economic-influence-in-latin-america",
       "pub_raw": "2026-08-24T09:25:18.152Z",
       "pub_sort_dt": "2026-08-24 17:25:18"
@@ -183,7 +215,7 @@
     {
       "source": "Reuters",
       "title_en": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益",
-      "title_cn": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益",
+      "title_cn": "美国准备对伊朗制裁实施之际，中国誓言维护自身权益",
       "url": "https://reut.rs/4czESf6",
       "pub_raw": "2026-08-24T08:37:24.160Z",
       "pub_sort_dt": "2026-08-24 16:37:24"
@@ -191,7 +223,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国建筑商洛根的债务重组方案获法院批准",
-      "title_cn": "中国建筑商洛根的债务重组方案获法院批准",
+      "title_cn": "中国建筑商洛根债务重组方案获法院批准",
       "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-builder-logan-wins-court-approval-for-debt-restructuring",
       "pub_raw": "2026-08-24T07:17:40.130Z",
       "pub_sort_dt": "2026-08-24 15:17:40"
@@ -199,7 +231,7 @@
     {
       "source": "Reuters",
       "title_en": "中国网民猛烈抨击一位将零工工作称为“福利”的教授",
-      "title_cn": "中国网民猛烈抨击一位将零工工作称为“福利”的教授",
+      "title_cn": "中国网民猛烈摔跤一位将零工工作称为“福利”的教授",
       "url": "https://reut.rs/4zyjJf9",
       "pub_raw": "2026-08-24T07:01:20.268Z",
       "pub_sort_dt": "2026-08-24 15:01:20"
@@ -207,7 +239,7 @@
     {
       "source": "Bloomberg",
       "title_en": "越南批准为延误的中国铁路连接项目追加30亿美元资金",
-      "title_cn": "越南批准为延误的中国铁路连接项目追加30亿美元资金",
+      "title_cn": "越南批准为上半年的中国铁路连接项目追加30亿美元资金",
       "url": "https://www.bloomberg.com/news/articles/2026-08-24/vietnam-approves-extra-3-billion-for-delayed-china-rail-link",
       "pub_raw": "2026-08-24T06:45:20.123Z",
       "pub_sort_dt": "2026-08-24 14:45:20"
@@ -219,125 +251,125 @@
       "url": "https://reut.rs/4gegn9D",
       "pub_raw": "2026-08-24T06:29:18.821Z",
       "pub_sort_dt": "2026-08-24 14:29:18"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：机器人在北京举行的“世界类人机器人运动会”上展开角逐",
-      "title_cn": "直播：机器人在北京举行的“世界类人机器人运动会”上展开角逐",
-      "url": "https://www.youtube.com/watch?v=d1q5iu29wZk",
-      "pub_raw": "2026-08-24T06:13:34.673Z",
-      "pub_sort_dt": "2026-08-24 14:13:34"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "快时尚巨头Shein在香港IPO中的估值高达270亿美元",
-      "title_cn": "快时尚巨头Shein在香港IPO中的估值高达270亿美元",
-      "url": "https://reut.rs/4wMg2Qr",
-      "pub_raw": "2026-08-24T06:13:34.669Z",
-      "pub_sort_dt": "2026-08-24 14:13:34"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "阿里巴巴在香港完成100亿美元股票发行后，股价下跌8%",
-      "title_cn": "阿里巴巴在香港完成100亿美元股票发行后，股价下跌8%",
-      "url": "https://reut.rs/46kxTmG",
-      "pub_raw": "2026-08-24T05:57:13.801Z",
-      "pub_sort_dt": "2026-08-24 13:57:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "阿里巴巴、YMTC的融资活动因供应问题拖累中国科技股",
-      "title_cn": "阿里巴巴、YMTC的融资活动因供应问题拖累中国科技股",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-ymtc-fundraising-hits-china-tech-stocks-on-supply-woes",
-      "pub_raw": "2026-08-24T04:53:14.565Z",
-      "pub_sort_dt": "2026-08-24 12:53:14"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "摆脱对中国稀土的依赖并非易事。问问日本就知道了。 - Foreign Policy",
+      "title_cn": "改善对中国稀土的依赖并非易事。问日本就知道了。 - 外交政策",
+      "url": "https://news.google.com/read/CBMiogFBVV95cUxNVnh1ZjkwcHY5anFLTWdZTkcxbHg1Q1FxNWRDNUoyRXJ5OUctSUs4cHYyU2h5ektaRC16djNIV0Y0X09qLXZjVmJMd2E1bmlHYkVIanpKY3k1VDI2MHctbGhrMmZJVVJMM3lrYzFEMUlCYlUzdk1hTk5Vb3RNaldKRkZBV2YxUlo4MUZST211ZDdnWndvclUxbmJnMkkySHl3NGc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T21:14:14.000Z",
+      "pub_sort_dt": "2026-08-25 05:14:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "据报道，谷歌计划在2027年前将所有Pixel手机的生产转移出中国 - Fox Business",
+      "title_cn": "据福克斯商业报道，谷歌计划在 2027 年前将所有 Pixel 手机的生产转移到中国",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxNV1lvbkllWkZ2dUx4NnFIODZWRTA5Q1RteldXeTQtMmZTa2RGcEVEbFppaXJ1dWU2V2Z0M2xGQVRQZEVDQm9MaXhWNUd6cDU4U2ExNDRzWEI5OEZtZjE5VVZtbGgydWlOeVcxQkR4SWtYQjUzME9JWk1YWHEzckxGalVyandWbGRBZFRHazdjRVJEZTRjaHVV0gGcAUFVX3lxTE5wMUxmUV94SzB5Y2RSV3RtRXJPZnExVEZhQ1A4a3lSdldxNTAtRms0WWdGcmhtWmNPR3doZkhrTlNSbE9WU2tFejFaS1pnUDFjOEtGejREV2Z5ZU9oSmtoSzh6NVlMNzZ3dGF1WldTaFBDazNSWEtNTnd1MXZSWDZSU3FCQUtrNWpoUkF5R29lenRrdTJBcURyanl1bA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T20:26:00.000Z",
+      "pub_sort_dt": "2026-08-25 04:26:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特朗普政府公布针对伊朗的全球制裁计划，暗示中国也不例外 - CNBC",
+      "title_cn": "特朗普政府公布针对伊朗的全球制裁计划，暗示中国也不例外 - CNBC",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxPTzhCNHl5dWJ2ODQyMjBRX2V1RUUtQnlQY0xrVmtEOFRwTEk0VlMwNmFyUkI5NFlvd2pFdEpORFQ4Qi1xckNXeG1uME5JTk1tdktsSDBDNHo4ZXRTVENSY29JRWNMdkxzQzdnRm0weGFzcERCV0l2Y3pQTVkzaXZjdFBUWVQ4UdIBiwFBVV95cUxNajJTNU1wcExfNXpiUDliTFVycGlFbk9TT2tFdWdZbFdZdThxRmZob1ZsVVRycnFObFFqTHRZenVlcXdYWGlOZzVyLWZoZF8waGRYUFVVeGxvck5yS1k4WlFfRzRsZEZEMlZkSi1QYnJGd2FUa2RlcV9qSFpkN0JGQmpObFpPQmpFWTJn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T17:27:11.000Z",
+      "pub_sort_dt": "2026-08-25 01:27:11"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "日本代表团力图缓和与中国的紧张关系 - Al Jazeera",
+      "title_cn": "日本四力图缓和与中国的紧张关系 - 半岛电视台",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxNU0JXdWN5VXRVRnBjODBQYTZZMDE5aHJ4LU5SWnliZlRET1FOUE9GYXB4ZG5jaVoxeTVQVEc2MEdnMUU5REhkaE1lTmxGMkotcGhBTnhaOXNnTXgxUEctV0xBUDlZSWhrVTBfX25UT2hsTzlUSWM5Y1Jua1ZRM3FWbENvc1BwNk1qbFBYNWs0QTBuWmFvMUt3Q3J2N0FxSmlNbnRF0gGoAUFVX3lxTE1naWxUcmNZSWVvam9CY1lKMmJReDNjaTNQelU2cUxmUzUyZUhiY3A5N3lkU0twcXZvYnIzMWttTGNLbXRKUVptVEtiTzNUMGhNay00dVd5M0ZWaTZwd2w1dk1HbDJhWW1xOVZQak82RFVLVDRSdWFFTGRGRXBScUpaaENRVkZOUkRKVnNuaElDb25RLTJ2MjNjZm80bHlJX2Z4ZzNfM2hkbA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T17:24:15.000Z",
+      "pub_sort_dt": "2026-08-25 01:24:15"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在习近平与特朗普会晤前，美国正考虑对中国的产能过剩产品征收7.5%的关税 - Bloomberg",
+      "title_cn": "在习近平与特朗普会议之前，美国正考虑对中国产能过剩产品征收7.5%的关税 - 彭博社",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxOY1cySzg1bmVQS2h5QnlFSllIV3VwWWNnQzRTVURxSjlhNnlRd3lvTmtOcE83dWs4UVQ3S05sUVZiR1h1dENiWU9hWnZXeVh4SjRDbzFTX1lrUVRROTNIUTdXNGJlcFVqbGs4Q3RCRUFaWHpSNkxreTZkYnNCYWIxbEg3V19WdURwamwxaU83TllhdWQ5X0lRQ1VXd1MwUzB1WVUyTmNaU2xzbzlxZVNDTndlWEk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T15:29:51.000Z",
+      "pub_sort_dt": "2026-08-24 23:29:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在习近平与特朗普会晤前，美国正考虑对中国的产能过剩产品征收7.5%的关税 - Yahoo Finance",
+      "title_cn": "在习近平与特朗普会议前，美国正考虑对中国产能过剩产品征收7.5%的关税 - 雅虎财经",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxPN3lBNy1hbk5KNHpGdkJJMkRmSTFzTEpNcVpQOVNqNGlaczZramJzbHRmOGFyNXlzcVk5dUh6NjN1YmVVVU40SFJpRW53dGRvWVkwd0V3d1pxUDJzV0Z6T1Z4STRRS1ZqWmxOZFRGLWdhNjdMbHpyWkpudXVpUTRWWjNSSEdSSDhmXzlhajhBSlNQZTJHQ1pzOF9uSFlxVTUt?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T15:29:51.000Z",
+      "pub_sort_dt": "2026-08-24 23:29:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "莫德纳首席执行官警告称，随着北京方面在生物技术领域向美国发起挑战，中国正在大力投资mRNA技术 - Fox Business",
+      "title_cn": "莫德纳提出警告称，随着北京方面在生物技术领域向美国发起挑战，中国正在大力投资mRNA技术 - Fox Business",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxNQU5uWmJGdlVRYmNmeUlSb056bEU4aTY2SnpVM2xnWnlHZy1PWWlxMWZIaXVJaThyTzNmZmVCR2lhSWNhSjdvZ25KTHg3T01MOGlaM0JUZVNLbm5Qa3ZzS3dCYXlqSUF1MGpsNG9lOEhKTVFiYmNueGd2OHBVS3l0a3pYN284WExtTVNPZWxPRm0xZXFrTTJ1R1F6UTJDMjJ1bTJESE9xWGl3TEJzMG4wT3BHN0FMRGNNT2lHY2F30gHDAUFVX3lxTE01Uncxc0tUdV9QdDJET05mQ1BJNnNyd0VuYTBVa1JxZklvckIwanZyOVEyTndWZmhTQ2JXMFlnWUo4M05aanZ0aDg2MXpOLVc5MUowZ21PUm82ekpFUW1qU1ZqZE5CVU5oWWhfS3JnNTZBOXh6QXRjQ1poaGV3Unh1TUVkUEdmWE9XcGJTV1hTcmtvVHc2bnJ6T1VxTEUxQWxnQkVVNHNtbXNPajJSYVU0ckhRSUlIS1ZSMWxvSjhNREc2MA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T14:59:00.000Z",
+      "pub_sort_dt": "2026-08-24 22:59:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "台湾以涉嫌向中国走私AI服务器为由起诉9人 - WSJ",
+      "title_cn": "台湾以涉嫌向中国走私AI服务器为由起诉9人 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxPMkhwcmRIRXVKYTRlTEwzQmYzQTVSZkZoYmY5eWVUVWxhR1FFTk1FVUpWYzhSM1czMy1meXVxU1pncVNtR3BsUUM4WU5fSUpsQ1BYOGMwcjZhZmhzZ1JZTnM5NEdDN2F0TVMyZnNQVHFuWW5XZmlOc1ZfWlVzaTV3RXlvcUNkSHZTTkdYekpqR1ZWaXJzaUdxVm9JOXRLaFVVR1dJUkkwUHo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T14:53:00.000Z",
+      "pub_sort_dt": "2026-08-24 22:53:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国机器人热潮背后的开发者之一向CBS新闻透露，类人型机器人士兵可能只需5到10年就能问世 - CBS News",
+      "title_cn": "中国机器人热潮背后的开发者之一向CBS新闻透露，类人型机器人士兵可能只需5到10年就能问世 - CBS新闻",
+      "url": "https://news.google.com/read/CBMiogFBVV95cUxNcVNUWTZUUFRMSWJGemltTmNtb3c2ZXFXZkNtQ25kTXhNbDZQenhuYVBEUnduQTZsRndFWnBkXzByLWJRSVF0ZXl3Zl83eDJDNXRGMG9tYkxxSnhiU253RDBldWNlQ19DQUVLZ2hNZjQydlIwTURKdWFjZnpUTFFGSzFSd2VObFNMejlDY3pTWHZ5aGhza09ISUJxbFZqbDBvVVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-24T14:09:00.000Z",
+      "pub_sort_dt": "2026-08-24 22:09:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国国家主席习近平有望率大型代表团访问印度，这将是七年来首次 - Reuters",
-      "title_cn": "中国国家主席习近平有望率大型代表团访问印度，这将是七年来首次 - Reuters",
+      "title_cn": "中国国家主席习近平成功两次访问印度，这将是七年来首次 - 路透中文网",
       "url": "https://news.google.com/read/CBMiuwFBVV95cUxOOTN3N054U1RWSGR0WVMxRlBWTi1xNTU3Q0hDSGpsQ05KbEpUWG03UU05RGlYRGFJdDBVeDduSlFRX0tqeHlKYjVwX3gxd1JfSnkySWx5NGdmRm8zOW5NT1B4dUZFVkJRM0lqYmZqdGM4a0V5bzJBUFAtM2h0d1JNWFRuRDdFX2FnVG5hejAxVEFUUEdDSXlNb3pid3RtbkpNdEpyMDZjT3daaFlockxXUTg5MUR0YWszTHpz?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-24T12:41:28.000Z",
       "pub_sort_dt": "2026-08-24 20:41:28"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "美国计划组建核动力商船队，以挑战中国在造船领域的霸主地位 - Financial Times",
-      "title_cn": "美国计划组建核动力商船队，以挑战中国在造船领域的霸主地位 - Financial Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNUUhzTGJkekdMSVlCekthal9LZS02NzV5RHpmdE9jdThPcjVQc2x1Skw2VGMwNVJUMHJsZW1fZ0syamtxY1p1YkY0OUJmMFFLVzdzdnZFZGZLU1dIaDNndHdwbDZiOGFuSFhzX2xPcUdOc1U0Rl9ZblNxeEVGMS1oWXMyVC0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T12:00:01.000Z",
-      "pub_sort_dt": "2026-08-24 20:00:01"
+      "source": "The Economist",
+      "title_en": "中国女性在职场中正逐渐落后",
+      "title_cn": "中国女性在职场中正逐渐落后",
+      "url": "https://www.economist.com/china/2026/08/24/chinese-women-are-falling-behind-in-the-office",
+      "pub_raw": "2026-08-24T17:41:37.935Z",
+      "pub_sort_dt": "2026-08-25 01:41:37"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "遭美军致命袭击的“影子舰队”油轮在中国重新现身 - TradeWinds News",
-      "title_cn": "遭美军致命袭击的“影子舰队”油轮在中国重新现身 - TradeWinds News",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxPNWh4YTU1OG1tTTZib1h3WHBob245czc2S3BZazNIOElFZkF0RGRhc050OTBQNDRRdUs0eFFiclBXMzRJLTJqbElpZzJNOVJNZmpqZ0hVOHVVUGFhbnFYZFlmTHhWNHhQNkJJYU1Ma0ZXb1d6Y0lQbFptR3M2ckZoRE1sUkFzemw2M0lGbURCTTNfN1haRnVESUdtbXRzbWMtcWlQS2lHanp3LWNjM2RTTXNnVDY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T11:49:55.000Z",
-      "pub_sort_dt": "2026-08-24 19:49:55"
+      "source": "Reuters",
+      "title_en": "据彭博社报道，在习近平与特朗普会晤前，美国正考虑对中国的产能过剩产品征收7.5%的关税",
+      "title_cn": "据彭博社报道，在习近平与特朗普会晤前，美国正考虑对中国的产能过剩产品征收7.5%的关税",
+      "url": "https://reut.rs/4cYlc4F",
+      "pub_raw": "2026-08-24T17:41:37.488Z",
+      "pub_sort_dt": "2026-08-25 01:41:37"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国国家主席习近平表示，巴勒斯坦问题是中东事务的核心 - The Times of Israel",
-      "title_cn": "中国国家主席习近平表示，巴勒斯坦问题是中东事务的核心 - The Times of Israel",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxPaTh5b1VpMUNsSjNwNjFUMmZ1N0htcl9OSWlrVWlfaDg0ejg4ZURNdnhmWEtsWUFEWkdzaTlHVDZpSy1YSGlmOWoza3JTVmJHUFJqcDA1OHd4MThZbGZHWGNnQWs1elpvaFBSSlFyeFJDenNGVzZ2cXdBc2ZrLTFLZVdWVHJjMUR2b0dFMkZaTkk4SFFHdHQ4SDdFcl9uTGk2cFFQRkpwWTltX211YXIw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T11:37:47.000Z",
-      "pub_sort_dt": "2026-08-24 19:37:47"
+      "source": "Bloomberg",
+      "title_en": "在习近平与特朗普会晤前，美国正考虑对中国的产能过剩产品征收7.5%的关税",
+      "title_cn": "在习近平与特朗普会议前，美国正考虑对中国产能过剩产品征收7.5%的关税",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks",
+      "pub_raw": "2026-08-24T15:49:23.067Z",
+      "pub_sort_dt": "2026-08-24 23:49:23"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国称中东局势处于关键时刻，呼吁缓和紧张局势并开展对话 - Reuters",
-      "title_cn": "中国称中东局势处于关键时刻，呼吁缓和紧张局势并开展对话 - Reuters",
-      "url": "https://news.google.com/read/CBMiuAFBVV95cUxPbHZKbGNlSkFyUnFGaFRSQWtQc1JQUElUeDVnLVZCNUR1SmhMV3I5VkYxWm93NkFLOWNYckFscUR6YXNMTFBGWTl4aHdNcjdwaE9reTdSTEpCUWlEd3hKVTMzZy1qX0ZsRVF3dnU0dVJRdVBod1J0SW8yT3JxQXpoLXlKMGlQdnRKdi1JZXNnSVc5U1hNRG52RkxaNXJ1YjhUV2RDVlRIVnhoU3Q2SzZ5MmpFekhPelVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T09:59:43.000Z",
-      "pub_sort_dt": "2026-08-24 17:59:43"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国对伊朗发出“经济诺曼底登陆日”的威胁，考验着特朗普对华缓和政策 - Al Jazeera",
-      "title_cn": "美国对伊朗发出“经济诺曼底登陆日”的威胁，考验着特朗普对华缓和政策 - Al Jazeera",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxPUVZFT0QzeHhsdVV3NzUtWURkN3VCR3pYT2dzeXNET1pyU3pfQzFCeEpBVnM1UjZjbkViMW9RTV9MWEYweGl2NEJBMzMtNTdtREVpLVQwTDNVd3hGZExndVBTd1B1a3VUQUFrN2VyYVRobVVZZmpHVGh6ZE5pdjc5d2ZOMTZkTGVaT1drcGE2b00yU2ZpWGQ3VHdfSUxveTEzUW16UUtwOC1PS2PSAbABQVVfeXFMT3lRWkVkN3hIQWJLYXFDUmpDVVpUV1JGR3R4WHlSZlRCWGJycDVWaTc5ZmNwVmN1Nzkzbk96S1hyWlBwU0xWM0N3VU4ydGJNMHRkblJTSVB4WERBMnRJWUgxSUxJRjB3SlNsV1VhX1ZDVi1MUFo2SGpkdF9OM1pEVjZqei00RVhKRVkyYTFBa3RQOVI0SXFrdTVFamwtRENiSi1uU2Jhci12aFVrUHNYNkg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T09:17:48.000Z",
-      "pub_sort_dt": "2026-08-24 17:17:48"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益 - Reuters",
-      "title_cn": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益 - Reuters",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxOQVl6Z2NfVHEtWVZtei15eVVoMG1mSHJQZXdJVnJFZlc3QklQS1c3NVcwWHhaYXlDYkNDbDNhM3pCNkV6ZmJTMXFMWGxUTVZCdXJ1aGlqckJibFo5cDFxYzlKYWVmaVNGeElSdHBLbkZvOWVGbUpvSjFUUGdtUGVHYXVSUTF3T0VQdDZESVBHSE1PQlZkS2ZiZmpxcXRObWYxV2FDdA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T08:05:38.000Z",
-      "pub_sort_dt": "2026-08-24 16:05:38"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "低估中国军事力量的风险 - War on the Rocks",
-      "title_cn": "低估中国军事力量的风险 - War on the Rocks",
-      "url": "https://news.google.com/read/CBMidkFVX3lxTE5zakZkV1FYT1lIX3BuQTFSNjI4TTNqdjRkZUctSDNIVjVUNXRiSmVybTVfVU1aX0w1R1N2THBWeEJHdzJUaUd4ZFRzUkFBcHAxLU9YR2F2cUZDU2Z0U2FiemxCYUh3UlIwWGNIemwxTFk2Y1VKVUE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T07:35:46.000Z",
-      "pub_sort_dt": "2026-08-24 15:35:46"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "印度针对中国的情报收集为何可能导致误判 - South China Morning Post",
-      "title_cn": "印度针对中国的情报收集为何可能导致误判 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiywFBVV95cUxQOXlRUHFkR0tOQmItTTJVNWFJZjFzV2ZMX2ZnX29wdjhxczZKYnBDbUJ0REJENVFuZXlGTmpzc1lqYnRsYzh3UHpWeVNWQ1QtQnBwb2JjcmlhWW9yR3AzZmZEMGJxWXEtV3Nxa2hhc0FZSEFQYVQ4S0trc1dTRU95NWd4eUlfTmd0aWhSVGFOLU52VWgyM1k4UW5NRnpRVEpGTTZSWFUxNTM5eVBiR0hTMXlsbEN3NVFKNXFZUDFVcGZBZGIySjZwUThiSdIBywFBVV95cUxOSjhuV0x6V3dmZzlvRXp0RzhscXRNNkowQmw5WGg5c3p5TVl4THhJZWhKcFB2RWpudFFtTFdtOEJ5elI3SkRkVzFPOTZaSHpFRFo5dFZiNWQ3a0J4blRpTVlubjFCNnZNeDM5VXZZMjhuYWxyVUQ4bWJ0Mkd5dERrRUdkRFlLaGZFZGJ5TC1hWm5UdkI2alhnWGhVdmxTZ0MxeDZsVS1rRmpEWkdkNm5PSlE5eER2eWdER3RKbVJRWkZ2N3o3Qnl0RFhmcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T06:34:24.000Z",
-      "pub_sort_dt": "2026-08-24 14:34:24"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "台湾以涉嫌向中国非法出口AI服务器为由起诉9人 - Yahoo Finance",
-      "title_cn": "台湾以涉嫌向中国非法出口AI服务器为由起诉9人 - Yahoo Finance",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxNb3pMTXIwaFBtYlBPSUlZc0d6OEd2U3FzdEJPNXhqZHk2MlRlWms3T243V2Nia19ZNXlnMmN5Yi14LW15UGpJZW5nUUlBclRmUVR0ZmJ5QXRqNEVKY0xfbVFLa1ZXYWJoeW96OHhjNl9PaWpjN1FhWWtVZlc3WnpOWmd3WTR0RnVNT1k0WTFvdDlRWlJwTUl6cA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T06:24:00.000Z",
-      "pub_sort_dt": "2026-08-24 14:24:00"
+      "source": "Bloomberg",
+      "title_en": "台湾在芯片走私调查后起诉英伟达一名高管",
+      "title_cn": "台湾在芯片走私人调查后起诉英伟达一名高管",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/taiwan-indicts-nvidia-manager-following-chip-smuggling-probe",
+      "pub_raw": "2026-08-24T14:45:25.281Z",
+      "pub_sort_dt": "2026-08-24 22:45:25"
     },
     {
       "source": "Reuters",
       "title_en": "中国国家主席习近平有望率庞大代表团访问印度，这将是七年来首次",
-      "title_cn": "中国国家主席习近平有望率庞大代表团访问印度，这将是七年来首次",
+      "title_cn": "中国国家主席习近平两次访问印度大获成功，这将是七年来首次",
       "url": "https://reut.rs/4wPoVZw",
       "pub_raw": "2026-08-24T12:37:14.895Z",
       "pub_sort_dt": "2026-08-24 20:37:14"
@@ -353,7 +385,7 @@
     {
       "source": "Reuters",
       "title_en": "美国对伊朗的制裁迫在眉睫，中国购油问题成为关注焦点",
-      "title_cn": "美国对伊朗的制裁迫在眉睫，中国购油问题成为关注焦点",
+      "title_cn": "美国对伊朗的制裁在艺术宫，中国购油问题成为焦点关注",
       "url": "https://reut.rs/4wNsVK9",
       "pub_raw": "2026-08-24T11:33:39.874Z",
       "pub_sort_dt": "2026-08-24 19:33:39"
@@ -377,7 +409,7 @@
     {
       "source": "Bloomberg",
       "title_en": "阿里巴巴与Shein在香港的股票发售标志着中国股市估值的剧烈重估",
-      "title_cn": "阿里巴巴与Shein在香港的股票发售标志着中国股市估值的剧烈重估",
+      "title_cn": "阿里巴巴与Shein在香港的股票首次公开募股创下中国股市估值的惊人重估",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-24/alibaba-shein-s-hong-kong-share-sales-mark-a-dramatic-repricing-of-china",
       "pub_raw": "2026-08-24T09:57:24.964Z",
       "pub_sort_dt": "2026-08-24 17:57:24"
@@ -401,7 +433,7 @@
     {
       "source": "Bloomberg",
       "title_en": "特朗普未能遏制中国在拉丁美洲的经济影响力",
-      "title_cn": "特朗普未能遏制中国在拉丁美洲的经济影响力",
+      "title_cn": "特朗普未能实行民主中国在拉丁美洲的经济影响力",
       "url": "https://www.bloomberg.com/news/articles/2026-08-24/trump-fails-to-curb-china-s-economic-influence-in-latin-america",
       "pub_raw": "2026-08-24T09:25:18.152Z",
       "pub_sort_dt": "2026-08-24 17:25:18"
@@ -425,7 +457,7 @@
     {
       "source": "Reuters",
       "title_en": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益",
-      "title_cn": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益",
+      "title_cn": "美国准备对伊朗制裁实施之际，中国誓言维护自身权益",
       "url": "https://reut.rs/4czESf6",
       "pub_raw": "2026-08-24T08:37:24.160Z",
       "pub_sort_dt": "2026-08-24 16:37:24"
@@ -433,7 +465,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国建筑商洛根的债务重组方案获法院批准",
-      "title_cn": "中国建筑商洛根的债务重组方案获法院批准",
+      "title_cn": "中国建筑商洛根债务重组方案获法院批准",
       "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-builder-logan-wins-court-approval-for-debt-restructuring",
       "pub_raw": "2026-08-24T07:17:40.130Z",
       "pub_sort_dt": "2026-08-24 15:17:40"
@@ -441,7 +473,7 @@
     {
       "source": "Reuters",
       "title_en": "中国网民猛烈抨击一位将零工工作称为“福利”的教授",
-      "title_cn": "中国网民猛烈抨击一位将零工工作称为“福利”的教授",
+      "title_cn": "中国网民猛烈摔跤一位将零工工作称为“福利”的教授",
       "url": "https://reut.rs/4zyjJf9",
       "pub_raw": "2026-08-24T07:01:20.268Z",
       "pub_sort_dt": "2026-08-24 15:01:20"
@@ -449,7 +481,7 @@
     {
       "source": "Bloomberg",
       "title_en": "越南批准为延误的中国铁路连接项目追加30亿美元资金",
-      "title_cn": "越南批准为延误的中国铁路连接项目追加30亿美元资金",
+      "title_cn": "越南批准为上半年的中国铁路连接项目追加30亿美元资金",
       "url": "https://www.bloomberg.com/news/articles/2026-08-24/vietnam-approves-extra-3-billion-for-delayed-china-rail-link",
       "pub_raw": "2026-08-24T06:45:20.123Z",
       "pub_sort_dt": "2026-08-24 14:45:20"
@@ -461,38 +493,6 @@
       "url": "https://reut.rs/4gegn9D",
       "pub_raw": "2026-08-24T06:29:18.821Z",
       "pub_sort_dt": "2026-08-24 14:29:18"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：机器人在北京举行的“世界类人机器人运动会”上展开角逐",
-      "title_cn": "直播：机器人在北京举行的“世界类人机器人运动会”上展开角逐",
-      "url": "https://www.youtube.com/watch?v=d1q5iu29wZk",
-      "pub_raw": "2026-08-24T06:13:34.673Z",
-      "pub_sort_dt": "2026-08-24 14:13:34"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "快时尚巨头Shein在香港IPO中的估值高达270亿美元",
-      "title_cn": "快时尚巨头Shein在香港IPO中的估值高达270亿美元",
-      "url": "https://reut.rs/4wMg2Qr",
-      "pub_raw": "2026-08-24T06:13:34.669Z",
-      "pub_sort_dt": "2026-08-24 14:13:34"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "阿里巴巴在香港完成100亿美元股票发行后，股价下跌8%",
-      "title_cn": "阿里巴巴在香港完成100亿美元股票发行后，股价下跌8%",
-      "url": "https://reut.rs/46kxTmG",
-      "pub_raw": "2026-08-24T05:57:13.801Z",
-      "pub_sort_dt": "2026-08-24 13:57:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "阿里巴巴、YMTC的融资活动因供应问题拖累中国科技股",
-      "title_cn": "阿里巴巴、YMTC的融资活动因供应问题拖累中国科技股",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-ymtc-fundraising-hits-china-tech-stocks-on-supply-woes",
-      "pub_raw": "2026-08-24T04:53:14.565Z",
-      "pub_sort_dt": "2026-08-24 12:53:14"
     }
   ]
 }
