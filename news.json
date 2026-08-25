@@ -1,15 +1,39 @@
 {
-  "update_cst": "2026-08-25 12:01:02 北京时间",
+  "update_cst": "2026-08-25 15:01:03 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
-    "Bloomberg": 9,
-    "Financial Times": 3,
+    "Bloomberg": 7,
+    "Financial Times": 6,
     "Wall Street Journal": 0,
-    "Reuters": 7
+    "Reuters": 6
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国艺术家因创作毛泽东雕塑被判处三年有期徒刑 - The New York Times",
+      "title_cn": "中国艺术家因创作毛泽东雕塑被判处三年有期徒刑 - The New York Times",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxNeHBxQjRKX2JjdHN5cklYZjRmZXR6bGRIM0ZSWWFhUVZWZll5elk3TUZxaEdNYUJCZ3RhdXZ1ckNUMFU5UUdSNVJJMWhoUzkySkdTOWdTaGh0R3VNMHMwMk9lVDlEUXRPTDZndjZnQnVFUWpuZTFyNjNYLUNKWXVPM2d6Zi1EY2t1NVZNY3U3eURlaVhNbjJWbg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T05:32:53.000Z",
+      "pub_sort_dt": "2026-08-25 13:32:53"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "观点 中国是伊朗战争中意想不到的赢家 - The New York Times",
+      "title_cn": "观点 中国是伊朗战争中意想不到的赢家 - The New York Times",
+      "url": "https://news.google.com/read/CBMie0FVX3lxTE1XTF80cHBYSHZfX05sbkFiUWdoR0g1QjR1RDhzWEVreUdQdHUzcTQzZzl3Y1MxODVNVF9KR3hJeEVic0tqRjhEZC1fMlRnc1J2R00wZWNfeHpqRlhtZFVqdkZmd0M3R09YOU9qcnBKaHZwazVXOS1uUkU4Zw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T05:00:05.000Z",
+      "pub_sort_dt": "2026-08-25 13:00:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国是伊朗石油的最大买家。美国的制裁会威胁到两国之间的关系吗？ - The Guardian",
+      "title_cn": "中国是伊朗石油的最大买家。美国的制裁会威胁到两国之间的关系吗？ - The Guardian",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxNWmNZcjhRZjlkQ1FuM0sxTDg4V0tIRFZDQ3JzZGRfY3ltX21rdE45TXZMTHRzUG1uQnRvMjBnb0xtcFJtVVViXzk4WGtpTnZyRGNXLV91OE51ampWVmV2RUlRb3FjSjhPX0NjUDRKMjNZWmVvRXVvUmhTWTl5RzFMVUNRb3lxSUZUNU5Cd0ZjemtlMnJpTUhJWjBSUnRmZ2xZTHk5aQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T02:45:53.000Z",
+      "pub_sort_dt": "2026-08-25 10:45:53"
+    },
     {
       "source": "China Buzzing",
       "title_en": "观点 伊朗遏制战略初具雏形 - The Washington Post",
@@ -65,33 +89,73 @@
       "url": "https://news.google.com/read/CBMiTkFVX3lxTE1SbHN0am5kMldMQm1WUE8xMXUtcEN4aWZObDRRZFhDMFFxanhfNWRUeUNseHlNR0NMczZnc1N4R0pjbDFQNGFQRWFlVHY5QdIBUEFVX3lxTE1tTndLMmtVR2hyQkhRdUJZQ0RVQzcxT2xOOVNPSjZYVmFqaDZLdG1LcGNERWpRY1o0NHE3b29Obmg5QW5VM1NHSEdyUGtWLWU5?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-24T21:30:13.000Z",
       "pub_sort_dt": "2026-08-25 05:30:13"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "摆脱对中国稀土的依赖并非易事。问问日本就知道了。 - Foreign Policy",
-      "title_cn": "摆脱对中国稀土的依赖并非易事。问问日本就知道了。 - Foreign Policy",
-      "url": "https://news.google.com/read/CBMiogFBVV95cUxNVnh1ZjkwcHY5anFLTWdZTkcxbHg1Q1FxNWRDNUoyRXJ5OUctSUs4cHYyU2h5ektaRC16djNIV0Y0X09qLXZjVmJMd2E1bmlHYkVIanpKY3k1VDI2MHctbGhrMmZJVVJMM3lrYzFEMUlCYlUzdk1hTk5Vb3RNaldKRkZBV2YxUlo4MUZST211ZDdnWndvclUxbmJnMkkySHl3NGc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T21:14:14.000Z",
-      "pub_sort_dt": "2026-08-25 05:14:14"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "据报道，谷歌计划在2027年前将所有Pixel手机的生产转移出中国 - Fox Business",
-      "title_cn": "据报道，谷歌计划在2027年前将所有Pixel手机的生产转移出中国 - Fox Business",
-      "url": "https://news.google.com/read/CBMilwFBVV95cUxNV1lvbkllWkZ2dUx4NnFIODZWRTA5Q1RteldXeTQtMmZTa2RGcEVEbFppaXJ1dWU2V2Z0M2xGQVRQZEVDQm9MaXhWNUd6cDU4U2ExNDRzWEI5OEZtZjE5VVZtbGgydWlOeVcxQkR4SWtYQjUzME9JWk1YWHEzckxGalVyandWbGRBZFRHazdjRVJEZTRjaHVV0gGcAUFVX3lxTE5wMUxmUV94SzB5Y2RSV3RtRXJPZnExVEZhQ1A4a3lSdldxNTAtRms0WWdGcmhtWmNPR3doZkhrTlNSbE9WU2tFejFaS1pnUDFjOEtGejREV2Z5ZU9oSmtoSzh6NVlMNzZ3dGF1WldTaFBDazNSWEtNTnd1MXZSWDZSU3FCQUtrNWpoUkF5R29lenRrdTJBcURyanl1bA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T20:26:00.000Z",
-      "pub_sort_dt": "2026-08-25 04:26:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "万斯称加拿大在贸易问题上对中国的态度比对美国更友好：“这简直是疯了” - Fox News",
-      "title_cn": "万斯称加拿大在贸易问题上对中国的态度比对美国更友好：“这简直是疯了” - Fox News",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxNMzRlc0F1OERRaGIzclJKWDhWNHBjSUtOb1laSTR4eko1Q3BtNWFtQWozRm9KTndCbDFMUVdTckFfOXUzcjNoY3VzTm1IamJlaWIxWFpIbVdiQVRBcFlaeVJjNmFNN2FJeEFMaEUwNW90Zzl3aVhjYnU2bFc5YVZELWkyekQtblJWbERFMjN30gGTAUFVX3lxTE1zODA5SS1IaDZxeEtFSklWbU5PbklpQ1NUZGNRMlE3ZERyZTBVaWZQZEtpem40andveW5teDNab1Rnc05nOGZDai1ZNnp5bHBmS3c0ckQ2T2Z2RVk1UnZPZFdBZXJBcnRucWFIT0FDeHBXU2paUzR3amRJNnV6RlNESzZIb00wWm91N1RpcUgxV1ZuZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T17:54:07.000Z",
-      "pub_sort_dt": "2026-08-25 01:54:07"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "中国审议新法律，旨在将反腐败行动的触角延伸至海外",
+      "title_cn": "中国审议新法律，旨在将反腐败行动的触角延伸至海外",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/china-reviews-new-law-to-extend-its-anti-corruption-reach-abroad",
+      "pub_raw": "2026-08-25T06:29:15.578Z",
+      "pub_sort_dt": "2026-08-25 14:29:15"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "直播：机器人在北京参加世界类人机器人大赛",
+      "title_cn": "直播：机器人在北京参加世界类人机器人大赛",
+      "url": "https://www.youtube.com/watch?v=RfeFyjSMIBg",
+      "pub_raw": "2026-08-25T06:29:15.430Z",
+      "pub_sort_dt": "2026-08-25 14:29:15"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "英伟达一名员工被指控向中国走私先进芯片",
+      "title_cn": "英伟达一名员工被指控向中国走私先进芯片",
+      "url": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-25T05:57:42.956Z",
+      "pub_sort_dt": "2026-08-25 13:57:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "数十家中国企业受贝森特“D日”伊朗制裁影响",
+      "title_cn": "数十家中国企业受贝森特“D日”伊朗制裁影响",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/dozens-of-chinese-firms-hit-by-bessent-s-d-day-iran-sanctions",
+      "pub_raw": "2026-08-25T05:41:17.877Z",
+      "pub_sort_dt": "2026-08-25 13:41:17"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "新华社报道称，中国提议修订《道路交通法》，增设自动驾驶车辆相关条款",
+      "title_cn": "新华社报道称，中国提议修订《道路交通法》，增设自动驾驶车辆相关条款",
+      "url": "https://reut.rs/4c9O5dV",
+      "pub_raw": "2026-08-25T05:25:23.853Z",
+      "pub_sort_dt": "2026-08-25 13:25:23"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国在罕见地为经济辩护时，对经济增长表现得泰然自若",
+      "title_cn": "中国在罕见地为经济辩护时，对经济增长表现得泰然自若",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/china-puts-brave-face-on-weak-growth-in-rare-defense-of-economy",
+      "pub_raw": "2026-08-25T04:53:26.588Z",
+      "pub_sort_dt": "2026-08-25 12:53:26"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "如果中国愿意的话，它或许能再次拯救石油市场——",
+      "title_cn": "如果中国愿意的话，它或许能再次拯救石油市场——",
+      "url": "https://www.ft.com/content/7b7d407c-98b8-450f-a8d4-3776608ae67b?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-25T04:21:50.367Z",
+      "pub_sort_dt": "2026-08-25 12:21:50"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "尽管面临政治障碍，中国风力涡轮机制造商仍将欧洲作为目标市场",
+      "title_cn": "尽管面临政治障碍，中国风力涡轮机制造商仍将欧洲作为目标市场",
+      "url": "https://www.ft.com/content/48a0f1e7-25e3-42fb-a8ad-98e81dedc4f6?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-25T04:21:50.029Z",
+      "pub_sort_dt": "2026-08-25 12:21:50"
+    },
     {
       "source": "Financial Times",
       "title_en": "巴基斯坦寻求美国资金支持，以摆脱对中国的依赖",
@@ -187,75 +251,35 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-24/alibaba-shein-s-hong-kong-share-sales-mark-a-dramatic-repricing-of-china",
       "pub_raw": "2026-08-24T09:57:24.964Z",
       "pub_sort_dt": "2026-08-24 17:57:24"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾以涉嫌向中国非法出口AI服务器为由起诉9人",
-      "title_cn": "台湾以涉嫌向中国非法出口AI服务器为由起诉9人",
-      "url": "https://reut.rs/4gOez7p",
-      "pub_raw": "2026-08-24T09:57:24.803Z",
-      "pub_sort_dt": "2026-08-24 17:57:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "在双边关系陷入冰点之际，日本议员访问中国",
-      "title_cn": "在双边关系陷入冰点之际，日本议员访问中国",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/japan-lawmakers-visit-china-amid-deep-freeze-in-bilateral-ties",
-      "pub_raw": "2026-08-24T09:41:32.822Z",
-      "pub_sort_dt": "2026-08-24 17:41:32"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普未能遏制中国在拉丁美洲的经济影响力",
-      "title_cn": "特朗普未能遏制中国在拉丁美洲的经济影响力",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/trump-fails-to-curb-china-s-economic-influence-in-latin-america",
-      "pub_raw": "2026-08-24T09:25:18.152Z",
-      "pub_sort_dt": "2026-08-24 17:25:18"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普在拉丁美洲遭遇中国经济实力的冲击",
-      "title_cn": "特朗普在拉丁美洲遭遇中国经济实力的冲击",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/trump-choca-con-el-poder-economico-de-china-en-america-latina-mt709ham",
-      "pub_raw": "2026-08-24T09:09:17.702Z",
-      "pub_sort_dt": "2026-08-24 17:09:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国面对经济增长乏力仍强作镇定，罕见地为经济辩护",
-      "title_cn": "中国面对经济增长乏力仍强作镇定，罕见地为经济辩护",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/china-puts-brave-face-on-weak-growth-in-rare-defense-of-economy",
-      "pub_raw": "2026-08-24T09:09:17.698Z",
-      "pub_sort_dt": "2026-08-24 17:09:17"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益",
-      "title_cn": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益",
-      "url": "https://reut.rs/4czESf6",
-      "pub_raw": "2026-08-24T08:37:24.160Z",
-      "pub_sort_dt": "2026-08-24 16:37:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国建筑商洛根的债务重组方案获法院批准",
-      "title_cn": "中国建筑商洛根的债务重组方案获法院批准",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-builder-logan-wins-court-approval-for-debt-restructuring",
-      "pub_raw": "2026-08-24T07:17:40.130Z",
-      "pub_sort_dt": "2026-08-24 15:17:40"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国网民猛烈抨击一位将零工工作称为“福利”的教授",
-      "title_cn": "中国网民猛烈抨击一位将零工工作称为“福利”的教授",
-      "url": "https://reut.rs/4zyjJf9",
-      "pub_raw": "2026-08-24T07:01:20.268Z",
-      "pub_sort_dt": "2026-08-24 15:01:20"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国艺术家因创作毛泽东雕塑被判处三年有期徒刑 - The New York Times",
+      "title_cn": "中国艺术家因创作毛泽东雕塑被判处三年有期徒刑 - The New York Times",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxNeHBxQjRKX2JjdHN5cklYZjRmZXR6bGRIM0ZSWWFhUVZWZll5elk3TUZxaEdNYUJCZ3RhdXZ1ckNUMFU5UUdSNVJJMWhoUzkySkdTOWdTaGh0R3VNMHMwMk9lVDlEUXRPTDZndjZnQnVFUWpuZTFyNjNYLUNKWXVPM2d6Zi1EY2t1NVZNY3U3eURlaVhNbjJWbg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T05:32:53.000Z",
+      "pub_sort_dt": "2026-08-25 13:32:53"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "观点 中国是伊朗战争中意想不到的赢家 - The New York Times",
+      "title_cn": "观点 中国是伊朗战争中意想不到的赢家 - The New York Times",
+      "url": "https://news.google.com/read/CBMie0FVX3lxTE1XTF80cHBYSHZfX05sbkFiUWdoR0g1QjR1RDhzWEVreUdQdHUzcTQzZzl3Y1MxODVNVF9KR3hJeEVic0tqRjhEZC1fMlRnc1J2R00wZWNfeHpqRlhtZFVqdkZmd0M3R09YOU9qcnBKaHZwazVXOS1uUkU4Zw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T05:00:05.000Z",
+      "pub_sort_dt": "2026-08-25 13:00:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国是伊朗石油的最大买家。美国的制裁会威胁到两国之间的关系吗？ - The Guardian",
+      "title_cn": "中国是伊朗石油的最大买家。美国的制裁会威胁到两国之间的关系吗？ - The Guardian",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxNWmNZcjhRZjlkQ1FuM0sxTDg4V0tIRFZDQ3JzZGRfY3ltX21rdE45TXZMTHRzUG1uQnRvMjBnb0xtcFJtVVViXzk4WGtpTnZyRGNXLV91OE51ampWVmV2RUlRb3FjSjhPX0NjUDRKMjNZWmVvRXVvUmhTWTl5RzFMVUNRb3lxSUZUNU5Cd0ZjemtlMnJpTUhJWjBSUnRmZ2xZTHk5aQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T02:45:53.000Z",
+      "pub_sort_dt": "2026-08-25 10:45:53"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "观点 伊朗遏制战略初具雏形 - The Washington Post",
       "title_cn": "观点 伊朗遏制战略初具雏形 - The Washington Post",
       "url": "https://news.google.com/read/CBMitgFBVV95cUxNRXpqZmdTa2lxay12TXdEb3ZmdjRxcUw5SmFCSUg1Y2VFSzl1NGg5bDJ1NVdSTHZzMk5fS2RCMDZqYUhCOGxNbFQwc1I2WkNyRTBkTUdpTURyN2M5MXh1alVJMkFVdzQ1MGRiX1JpYlV5VDlfU3VnV28yY3ZpLVI4SGo4a2FEU2hHbXJyd0pSTUxPOWFZOE4yY0R0dmxmWmxuZlNrbk5KLUt2elBFalhiQUFpVHVuUQ?hl=en-US&gl=US&ceid=US%3Aen",
@@ -311,28 +335,68 @@
       "pub_sort_dt": "2026-08-25 05:30:13"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "摆脱对中国稀土的依赖并非易事。问问日本就知道了。 - Foreign Policy",
-      "title_cn": "摆脱对中国稀土的依赖并非易事。问问日本就知道了。 - Foreign Policy",
-      "url": "https://news.google.com/read/CBMiogFBVV95cUxNVnh1ZjkwcHY5anFLTWdZTkcxbHg1Q1FxNWRDNUoyRXJ5OUctSUs4cHYyU2h5ektaRC16djNIV0Y0X09qLXZjVmJMd2E1bmlHYkVIanpKY3k1VDI2MHctbGhrMmZJVVJMM3lrYzFEMUlCYlUzdk1hTk5Vb3RNaldKRkZBV2YxUlo4MUZST211ZDdnWndvclUxbmJnMkkySHl3NGc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T21:14:14.000Z",
-      "pub_sort_dt": "2026-08-25 05:14:14"
+      "source": "Bloomberg",
+      "title_en": "中国审议新法律，旨在将反腐败行动的触角延伸至海外",
+      "title_cn": "中国审议新法律，旨在将反腐败行动的触角延伸至海外",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/china-reviews-new-law-to-extend-its-anti-corruption-reach-abroad",
+      "pub_raw": "2026-08-25T06:29:15.578Z",
+      "pub_sort_dt": "2026-08-25 14:29:15"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "据报道，谷歌计划在2027年前将所有Pixel手机的生产转移出中国 - Fox Business",
-      "title_cn": "据报道，谷歌计划在2027年前将所有Pixel手机的生产转移出中国 - Fox Business",
-      "url": "https://news.google.com/read/CBMilwFBVV95cUxNV1lvbkllWkZ2dUx4NnFIODZWRTA5Q1RteldXeTQtMmZTa2RGcEVEbFppaXJ1dWU2V2Z0M2xGQVRQZEVDQm9MaXhWNUd6cDU4U2ExNDRzWEI5OEZtZjE5VVZtbGgydWlOeVcxQkR4SWtYQjUzME9JWk1YWHEzckxGalVyandWbGRBZFRHazdjRVJEZTRjaHVV0gGcAUFVX3lxTE5wMUxmUV94SzB5Y2RSV3RtRXJPZnExVEZhQ1A4a3lSdldxNTAtRms0WWdGcmhtWmNPR3doZkhrTlNSbE9WU2tFejFaS1pnUDFjOEtGejREV2Z5ZU9oSmtoSzh6NVlMNzZ3dGF1WldTaFBDazNSWEtNTnd1MXZSWDZSU3FCQUtrNWpoUkF5R29lenRrdTJBcURyanl1bA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T20:26:00.000Z",
-      "pub_sort_dt": "2026-08-25 04:26:00"
+      "source": "Reuters",
+      "title_en": "直播：机器人在北京参加世界类人机器人大赛",
+      "title_cn": "直播：机器人在北京参加世界类人机器人大赛",
+      "url": "https://www.youtube.com/watch?v=RfeFyjSMIBg",
+      "pub_raw": "2026-08-25T06:29:15.430Z",
+      "pub_sort_dt": "2026-08-25 14:29:15"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "万斯称加拿大在贸易问题上对中国的态度比对美国更友好：“这简直是疯了” - Fox News",
-      "title_cn": "万斯称加拿大在贸易问题上对中国的态度比对美国更友好：“这简直是疯了” - Fox News",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxNMzRlc0F1OERRaGIzclJKWDhWNHBjSUtOb1laSTR4eko1Q3BtNWFtQWozRm9KTndCbDFMUVdTckFfOXUzcjNoY3VzTm1IamJlaWIxWFpIbVdiQVRBcFlaeVJjNmFNN2FJeEFMaEUwNW90Zzl3aVhjYnU2bFc5YVZELWkyekQtblJWbERFMjN30gGTAUFVX3lxTE1zODA5SS1IaDZxeEtFSklWbU5PbklpQ1NUZGNRMlE3ZERyZTBVaWZQZEtpem40andveW5teDNab1Rnc05nOGZDai1ZNnp5bHBmS3c0ckQ2T2Z2RVk1UnZPZFdBZXJBcnRucWFIT0FDeHBXU2paUzR3amRJNnV6RlNESzZIb00wWm91N1RpcUgxV1ZuZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-24T17:54:07.000Z",
-      "pub_sort_dt": "2026-08-25 01:54:07"
+      "source": "Financial Times",
+      "title_en": "英伟达一名员工被指控向中国走私先进芯片",
+      "title_cn": "英伟达一名员工被指控向中国走私先进芯片",
+      "url": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-25T05:57:42.956Z",
+      "pub_sort_dt": "2026-08-25 13:57:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "数十家中国企业受贝森特“D日”伊朗制裁影响",
+      "title_cn": "数十家中国企业受贝森特“D日”伊朗制裁影响",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/dozens-of-chinese-firms-hit-by-bessent-s-d-day-iran-sanctions",
+      "pub_raw": "2026-08-25T05:41:17.877Z",
+      "pub_sort_dt": "2026-08-25 13:41:17"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "新华社报道称，中国提议修订《道路交通法》，增设自动驾驶车辆相关条款",
+      "title_cn": "新华社报道称，中国提议修订《道路交通法》，增设自动驾驶车辆相关条款",
+      "url": "https://reut.rs/4c9O5dV",
+      "pub_raw": "2026-08-25T05:25:23.853Z",
+      "pub_sort_dt": "2026-08-25 13:25:23"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国在罕见地为经济辩护时，对经济增长表现得泰然自若",
+      "title_cn": "中国在罕见地为经济辩护时，对经济增长表现得泰然自若",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/china-puts-brave-face-on-weak-growth-in-rare-defense-of-economy",
+      "pub_raw": "2026-08-25T04:53:26.588Z",
+      "pub_sort_dt": "2026-08-25 12:53:26"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "如果中国愿意的话，它或许能再次拯救石油市场——",
+      "title_cn": "如果中国愿意的话，它或许能再次拯救石油市场——",
+      "url": "https://www.ft.com/content/7b7d407c-98b8-450f-a8d4-3776608ae67b?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-25T04:21:50.367Z",
+      "pub_sort_dt": "2026-08-25 12:21:50"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "尽管面临政治障碍，中国风力涡轮机制造商仍将欧洲作为目标市场",
+      "title_cn": "尽管面临政治障碍，中国风力涡轮机制造商仍将欧洲作为目标市场",
+      "url": "https://www.ft.com/content/48a0f1e7-25e3-42fb-a8ad-98e81dedc4f6?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-25T04:21:50.029Z",
+      "pub_sort_dt": "2026-08-25 12:21:50"
     },
     {
       "source": "Financial Times",
@@ -429,70 +493,6 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-24/alibaba-shein-s-hong-kong-share-sales-mark-a-dramatic-repricing-of-china",
       "pub_raw": "2026-08-24T09:57:24.964Z",
       "pub_sort_dt": "2026-08-24 17:57:24"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾以涉嫌向中国非法出口AI服务器为由起诉9人",
-      "title_cn": "台湾以涉嫌向中国非法出口AI服务器为由起诉9人",
-      "url": "https://reut.rs/4gOez7p",
-      "pub_raw": "2026-08-24T09:57:24.803Z",
-      "pub_sort_dt": "2026-08-24 17:57:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "在双边关系陷入冰点之际，日本议员访问中国",
-      "title_cn": "在双边关系陷入冰点之际，日本议员访问中国",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/japan-lawmakers-visit-china-amid-deep-freeze-in-bilateral-ties",
-      "pub_raw": "2026-08-24T09:41:32.822Z",
-      "pub_sort_dt": "2026-08-24 17:41:32"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普未能遏制中国在拉丁美洲的经济影响力",
-      "title_cn": "特朗普未能遏制中国在拉丁美洲的经济影响力",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/trump-fails-to-curb-china-s-economic-influence-in-latin-america",
-      "pub_raw": "2026-08-24T09:25:18.152Z",
-      "pub_sort_dt": "2026-08-24 17:25:18"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普在拉丁美洲遭遇中国经济实力的冲击",
-      "title_cn": "特朗普在拉丁美洲遭遇中国经济实力的冲击",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/trump-choca-con-el-poder-economico-de-china-en-america-latina-mt709ham",
-      "pub_raw": "2026-08-24T09:09:17.702Z",
-      "pub_sort_dt": "2026-08-24 17:09:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国面对经济增长乏力仍强作镇定，罕见地为经济辩护",
-      "title_cn": "中国面对经济增长乏力仍强作镇定，罕见地为经济辩护",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/china-puts-brave-face-on-weak-growth-in-rare-defense-of-economy",
-      "pub_raw": "2026-08-24T09:09:17.698Z",
-      "pub_sort_dt": "2026-08-24 17:09:17"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益",
-      "title_cn": "美国准备对伊朗实施制裁之际，中国誓言捍卫自身权益",
-      "url": "https://reut.rs/4czESf6",
-      "pub_raw": "2026-08-24T08:37:24.160Z",
-      "pub_sort_dt": "2026-08-24 16:37:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国建筑商洛根的债务重组方案获法院批准",
-      "title_cn": "中国建筑商洛根的债务重组方案获法院批准",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-builder-logan-wins-court-approval-for-debt-restructuring",
-      "pub_raw": "2026-08-24T07:17:40.130Z",
-      "pub_sort_dt": "2026-08-24 15:17:40"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国网民猛烈抨击一位将零工工作称为“福利”的教授",
-      "title_cn": "中国网民猛烈抨击一位将零工工作称为“福利”的教授",
-      "url": "https://reut.rs/4zyjJf9",
-      "pub_raw": "2026-08-24T07:01:20.268Z",
-      "pub_sort_dt": "2026-08-24 15:01:20"
     }
   ]
 }
