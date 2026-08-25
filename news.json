@@ -1,97 +1,161 @@
 {
-  "update_cst": "2026-08-25 22:01:06 北京时间",
+  "update_cst": "2026-08-26 06:01:03 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
     "Bloomberg": 8,
-    "Financial Times": 5,
-    "Wall Street Journal": 0,
-    "Reuters": 7
+    "Financial Times": 2,
+    "Wall Street Journal": 1,
+    "Reuters": 9
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国艺术家因创作讽刺毛泽东的雕像被判处3年有期徒刑 - AP News",
-      "title_cn": "中国艺术家因创作讽刺毛泽东的雕像被判处3年有期徒刑 - AP News",
-      "url": "https://news.google.com/read/CBMimgFBVV95cUxOUTJMaFREMUh4WV9DM2tZUXBnemNiRHBEZGRzbmNfX1hpS0dUZjBWa3pWOUtsNlhQVkpsNjZaLVJVMXpscElMUTJ3WThvV1lGS2RXdkZyTmVfek9tS21ISHotMGJxbEExUFRTcTJLU0wyTVZ5d1NpRWh6UlNFTldsTlZNVS1BdzIzMldfdUszeVlONkpBWFc3bm5n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T12:24:46.000Z",
-      "pub_sort_dt": "2026-08-25 20:24:46"
+      "title_en": "台湾以走私“高端”AI服务器至中国为由起诉9人 - The Guardian",
+      "title_cn": "台湾以走私“高端”AI服务器至中国为由起诉9人 - The Guardian",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxPSWEybW9zR0FwdjFZNVd0eV9NNllqdUVTVEFUM20zUFRIa1doVFV3dUg1cmZzRnpoUnNMZlRWQWNDV3ZndFhDTGJSZTJZYVEwWFIteXNraXVPNTJXemdlbDFVcDBITVNjbUVVNUNzbkVZLVctc2c2SDBJREtXTU5abExB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T19:02:00.000Z",
+      "pub_sort_dt": "2026-08-26 03:02:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国谴责美国就与伊朗的贸易问题威胁实施制裁 - The Guardian",
-      "title_cn": "中国谴责美国就与伊朗的贸易问题威胁实施制裁 - The Guardian",
-      "url": "https://news.google.com/read/CBMifkFVX3lxTE9ZRzVaNkNpTzdlV2Y2TE5LOTEwbXVlOXd2LXdKejI1OGp2eXlGM3JOZlNaQjk5U1RlSXFKc0dETVk3Uy16MDV0LWIwdmpUdTZla09FdS1NRjR3TlFEOWZ0eXVuV0lRa0FSbDhvaWtLYlYxSnlrSGpEUkd1SzVsdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T12:15:00.000Z",
-      "pub_sort_dt": "2026-08-25 20:15:00"
+      "title_en": "印度驻华大使馆称，印度和中国在北京举行的会谈中回顾了两国关系，并讨论了边境问题 - U.S. News & World Report",
+      "title_cn": "印度驻华大使馆称，印度和中国在北京举行的会谈中回顾了两国关系，并讨论了边境问题 - U.S. News & World Report",
+      "url": "https://news.google.com/read/CBMi3AFBVV95cUxONG8xZmQzQ1c4WXYxc0ItQnk2TDBHbkpLclFuaTZKOVJ4bkNlSlltX195Z3gxVlhxVW1vUjNVYV8xekN4UkhqNUtlbko5a3NBWndnNE1Ic1haU0NHR1hQVjRTZzBOZFpFcG1UcWZodkxwcE0xTzdWQmtSdjhkbWV6UGdhOUVfc1V2aXpUck9VMzlBOXg0OF81SlNzaUhrMmMzU1ZLOW8xWnhzOGdCRDVYVGIyZ21UM0Y5aHZUeWxmUkJSdmlKUjZKX2FVNEdCZVpOZW9rRVBpRkNKMXBW?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T15:42:37.000Z",
+      "pub_sort_dt": "2026-08-25 23:42:37"
     },
     {
       "source": "China Buzzing",
-      "title_en": "CGTN民调：中国作为“超级买家与卖家”所体现的共赢逻辑 - news.cgtn.com",
-      "title_cn": "CGTN民调：中国作为“超级买家与卖家”所体现的共赢逻辑 - news.cgtn.com",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxOZkpwT1E0NDl4QW9LZzlVNDM0OVNPaDV5RWNZbDZGTDRFNDRndWJtMGxDaVVLYnREczFjX2t2OGxBYUVDMkg5R2c0THMxRW5KVW0zNDVFVE95WkhDYTBEMkJBQ1VIajd5UXI2V0ZKQ2FIcFVUUDgxd0UxR1NXX0pVY2xpdWhZMFlSQmhIR2xvNzZsZ1dFV1dScDh0Rk8zczdGU0ZMU1lRbnRaNm93ZHA4M2t5QmZieGxtQ0FV?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T11:35:30.000Z",
-      "pub_sort_dt": "2026-08-25 19:35:30"
+      "title_en": "中欧货运运力下降近30% - Air Cargo News",
+      "title_cn": "中欧货运运力下降近30% - Air Cargo News",
+      "url": "https://news.google.com/read/CBMikwFBVV95cUxQUkhyNUlobmozWWM1ZUVuRnNMSE9ReUxaQl9Md2NWNU5ZZkx4c3hqY2g5MzVXblRkSzNKNFp5b2NPMEVsc3JuQUZGWW5YRk81WDV5VF9kLXU3U25wci1hVjNvN0hma2djV0R0eEZfTTV3dXI3ak84bnJNeFlINVV0M29qV0hVUUVqTlA0WDdxWVRFa1U?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T15:37:11.000Z",
+      "pub_sort_dt": "2026-08-25 23:37:11"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国发现秘密铀矿：这会引发全球核军备竞赛吗？ - Futura, le média qui explore le monde",
-      "title_cn": "中国发现秘密铀矿：这会引发全球核军备竞赛吗？ - Futura, le média qui explore le monde",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxNU1ZkSmRrbzNUOWd4QmRFUWc0VDA2ckN1VVBYZlltWHFjMkFNRFpDTFRfOTlWdU9WV2FmdGtJa2NJZ2FpeTZlNWJIMENMa3BLRk40aHVSaUNzTkN1QUdkeFJkUnBzdmpQc0djenlpa000XzZmNE9NOHg1YjZYWHludDNVTjNva1I4d3B4bWZHdzM0NnFhakZlTUEyX3FwcmlVWm90WGdfcHNYTnRYREE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T11:21:50.000Z",
-      "pub_sort_dt": "2026-08-25 19:21:50"
+      "title_en": "特朗普对伊朗施加更大压力后，中国予以回击 - The New York Times",
+      "title_cn": "特朗普对伊朗施加更大压力后，中国予以回击 - The New York Times",
+      "url": "https://news.google.com/read/CBMiekFVX3lxTE02d0FKSFllRjgtb3lWTnR0NjZ0RU56OFVSQ1RINGZKWUNtelRyQ1prNTFydnVUSWRUekxpOG5YdmlkOFdMOXVsdVF1eEVOc2FOY0tIT2w2ZXFpb21fQVBQUktIMWkxT19UTV9MTUdmUHZjVWVhRE5DUzJB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T14:59:39.000Z",
+      "pub_sort_dt": "2026-08-25 22:59:39"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在伊朗战争持续发酵之际，中国J-16战机与埃及的“阵风”战机在实战演习中展开对决 - South China Morning Post",
-      "title_cn": "在伊朗战争持续发酵之际，中国J-16战机与埃及的“阵风”战机在实战演习中展开对决 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxQWFY0b0E4S0xlQlM3ZkNXN1pWNUZ3QkFfa3c1cXdlUlhjTnA3a0pTem9xLTJPQWdOYUowa1dXbEJxZDZ4aXo3a1AxSmRMWFFtSTFmeFBsN2I2SWRZRzRaUnk0T21tTTFIamFOSUtjdmd4cVBzRmdGX0Q3elhGNHU0Q2NFdi12YmxERElLY0JhRG9tTzVRem9Rb1hNWGxNUFhXaGcxb0lGUnRDQ3VpOGRSUl9wbTFQZEVXVWVqaVVpenU3X3d4U1NV0gHHAUFVX3lxTE1IV0Vkck5sTW9WbFNHYjlWelkycmZBcndZbWM3bTIweXZ5eGJwLUlTR3pGQmRYTDJKVFczc2t6Y1IyQlBvWFBLRWFPejcwZ3lzRno4allHcExVSXFOMnh6TEl4TzZtdXpWOHB0bW9BckFDR0xTa01MZE9wMll0ZEJDZWxnbFBQa3AyRElQWXA2aDE4dU1JeFdvekc2bmZtemNhNURsMUh2bUlfRkRCSjhlX0h6S09JbnN3U0xTdTNCTnhQMDVSWVk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T10:00:11.000Z",
-      "pub_sort_dt": "2026-08-25 18:00:11"
+      "title_en": "美国承认在矿产争夺战中输给了中国。巴西能否利用这种竞争关系？ - South China Morning Post",
+      "title_cn": "美国承认在矿产争夺战中输给了中国。巴西能否利用这种竞争关系？ - South China Morning Post",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxNbUhIV2kwLXBCRnBtOG5XTzlKRXVsVXVUNHkxQ0JPNFdDVUZvT1MyVUxtWUpTWEtZTy1iUWUzVWljcFpGWlNrSzdBSXhNTnR5TnZZc3Vsc0VSVzRabHI3RE90S1B1WUo2WXJlNEZtbHVMNVZ4VmhTWmg5SV9aNE5mamowRVVNeVFwX2paNV9TalpFVnBKQ1ZPRjE4X0Vfa1lrRFFLYUlUaHk1bXpyUHRlQ3UxMWMwQ1pwNDVmNjY3cXQ3ajBkWEhOdGg5WEJfUdIBzgFBVV95cUxNYkd2aWMtdDFIeUt3MnoxS0YzRHVmYXpRWEIzMFJFR1FMN0h2ckg4Wkgtd2ZvdnRiT2wxY05vZ010bUVhMHJLWjhjTk50WmxUUV9vUlFxazVDbjZzMEZZTlN2eFNYU1ZkOUtCakN0dkJNZWxidkpHWEtRY0NKcDVhWnhPWjNRbFJYYWFRNU1vZW9UVnBQOU9SaTd1eGVXMC1OUllZWm9Femt4T1Jqa2NOSG5OQUcxdTZERVk5TC1mSjIybTdXaVZLVUZnRkU0dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T13:48:52.000Z",
+      "pub_sort_dt": "2026-08-25 21:48:52"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着中国加快在南海的军事建设，小岛上陆续出现新的设施 - Reuters",
-      "title_cn": "随着中国加快在南海的军事建设，小岛上陆续出现新的设施 - Reuters",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxNNVNLQXVYZlJVS2s4RkVMRlB3anJuLUd2WlVoTk5QMm96YVhTWHZCLXdBcUptQWdGclRKc0NRaTBaZFM4MjQ2UFVFanFoYndGRmgyVFlZWko2Q1RxRVhhU0QxSmhubmFEeHduMUJRUDdNVmVkSnREQnJQY0EydnNTamhMUnJZWldaSmF6Rkl5bXBIcEF6WVV1dU1Dby1KNjU5Yi1Dalk5Z1pUNVpVMlhxUUpBb09fdXpxTDYwaFd3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T09:42:36.000Z",
-      "pub_sort_dt": "2026-08-25 17:42:36"
+      "title_en": "以创作毛泽东雕塑而闻名的艺术家因诽谤“英雄和烈士”被判入狱 - The Guardian",
+      "title_cn": "以创作毛泽东雕塑而闻名的艺术家因诽谤“英雄和烈士”被判入狱 - The Guardian",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxNQVpaRlUtV2U3Qm1ITjFPc1JKUkgwME5FQkM2LU9QakRfdUxVWkV6WV9vZmlHcFVxcDNZTk9zcE9CUVU4ekhnRGZOX1FsbnpteXhDNjFDbHRSdEZwYUNNVVZhUEJuX1pQN3dSZmFRM1AwdGxWbE9hRFNCMFpnbm52UFpXZDFFWmJBazJRRDNOLVFVQTQ1ZExEUDV4djU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T13:18:00.000Z",
+      "pub_sort_dt": "2026-08-25 21:18:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国警告美国，可能就伊朗制裁采取报复措施 - Financial Times",
-      "title_cn": "中国警告美国，可能就伊朗制裁采取报复措施 - Financial Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQeE9vVDVrbmZ4ZTFWOHNpc0UtY0VDTWd0TUhJbFhqN3JOcEZxWTN6ZDhyZ2xxd3J6bVh3S05adUtiYlJIN2dWdGh0Y3JwRlQzbHI3SEJEakwzM1FJOWZjLVF6aFNuc3A5RE1JbTVNTVQyUTlqbldPRVM0dm9sby0zckt6blY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T09:27:37.000Z",
-      "pub_sort_dt": "2026-08-25 17:27:37"
+      "title_en": "独家：随着10月最后期限临近，欧盟官员将赴华 - Euronews.com",
+      "title_cn": "独家：随着10月最后期限临近，欧盟官员将赴华 - Euronews.com",
+      "url": "https://news.google.com/read/CBMi0gFBVV95cUxOcE5MdGRLM25EQ21TUUdyTEUyYTNOY01vWWpsc0RkWWFhNDdLZ09Ia0YwQlc2V2lVU3BSU3YxYTg3ZXpjY25tWnJLRV9lZkhpd3ZXRUVtLWR1cHZ5R0VET3lyMU5oUGNfdEo3Q3ZfV1JyZGNUNFpwejFTenVNQVNTbnlPN1ZQeU42ekxjMWN5YmhQZDZEZWcxeHJ2TjhCZWVEdDk5S2hsOEZTS2VMMXZHMmxSM3dnV000aHJCeUdmRmhmTkI4T2lXSmU4QkRKWGFaanc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T13:11:25.000Z",
+      "pub_sort_dt": "2026-08-25 21:11:25"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国提议将H-1B签证费用上调至103,265美元，收费范围将扩大至新申请者以外的群体 - South China Morning Post",
-      "title_cn": "美国提议将H-1B签证费用上调至103,265美元，收费范围将扩大至新申请者以外的群体 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiywFBVV95cUxPM3pwckd3SlBYYWRUOVZVYTZQcUYxQTY5ZG5sTW5sODFCNUxOM2JwZGstQWREdjYwaFBXUUN5dEIyY2VlSlN1NVFYNnFGUGliWlh6SFlkM3F3ZmZScTFTdTZmWEpwanlmVENMOWJQb2lHMXkyWXNxQjNtX1JZdG8teXFaazlDRjVhSHY5cmlaaU9xaDNucDJmR3dydlkzUUJjZEs5RmJwbVNwYTNORDJWX1pKblVhRW9pc2RCWGt2eWJBak1ReVA4N0RnMNIBywFBVV95cUxOa3VJYjV5RHcwQkQ2WUZNQWJ0ZUtOWFhmMVpkMTkyUUJkd2JnRlJXbElXcjFSWVFYMFYzNkNMRGk0UHdER29qUzR6UTdsRGJXY2hRUWY5QlRKa0JCc0xnZGtGTU40dEVDUkkyUkNMdDFaU1ZBWXFMUXdfQnZyWDk3MENua2N4clNLRFZLNDdUb0ktLVRxMThIOHl3emEzbl9vZDZuWDV4RmxhZFNqek9GbVR1OHFtaXhZWGlucUdJRFVQTFNDWWJIMUtCQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T07:00:31.000Z",
-      "pub_sort_dt": "2026-08-25 15:00:31"
+      "title_en": "中国的电气化进程意味着石油行业可能已达到峰值 - Yahoo Finance",
+      "title_cn": "中国的电气化进程意味着石油行业可能已达到峰值 - Yahoo Finance",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxPRFgtQUFUYkltVGhLRE5WSmRLaTYxYjRYa1g1Q1dDbmxUQ2x3ZVZ4ZDVaYXFxclQ2UTk4RFR2WFgzZFNOM1RsUFBIZkI3LVRRM3dlSFVSREhnTHphNXp5OXNmTTB0RmhXMDBnMmROT0xPMnV6T3NMWjBSWW81bFlLWGdZTTFrQ0hqanlMRktBYXhYWFhLNDItVXVnOHE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T12:52:12.000Z",
+      "pub_sort_dt": "2026-08-25 20:52:12"
     },
     {
       "source": "China Buzzing",
-      "title_en": "CNBC《每日开盘》：中国成为焦点，比特币卷土重来，以及《龙珠Z》外交 - CNBC",
-      "title_cn": "CNBC《每日开盘》：中国成为焦点，比特币卷土重来，以及《龙珠Z》外交 - CNBC",
-      "url": "https://news.google.com/read/CBMihwFBVV95cUxPSDFFemZJTkg5ZWxOTGxZa3FBMDRNNUVscTE4RmwwUG96YUNYVlBIX1V3eGYxRnI0V0QyRHdkYVA2N3NBQzRGYUhXQmpaWHdVWlRSTlNWTk1UczlyUGpaVExGSXBxTVhsU3J6NHlwdEl4SWVyTkpRclc5Vk9NcDhESmdCdndCQ2PSAYwBQVVfeXFMT0prNG1jb01XTzlTbWxwZVBjOVlUVUFCUW1oLTAtamx2TExQRHNHMlEzXzFQWGRuZS0zU2tUQTFxaDFxcDBTYmhJYjEzR1liMVNWM1NMN3ZJVGhKU205cHZ3YmszNndxNWtFSEVaUUg3cEFPay10dkVlcmI5Ql85ckpwUmVBTDRYZjVDS0s?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T06:03:28.000Z",
-      "pub_sort_dt": "2026-08-25 14:03:28"
+      "title_en": "“我们得回中国了”：网红IShowSpeed被中国机器人模仿克里斯蒂亚诺·罗纳尔多的“SIU”庆祝动作惊呆了 - Global Times",
+      "title_cn": "“我们得回中国了”：网红IShowSpeed被中国机器人模仿克里斯蒂亚诺·罗纳尔多的“SIU”庆祝动作惊呆了 - Global Times",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTFBIX3dmZG1FcUh5OEc3aWdhMEY5bk9sNkNOb3dKMEM5clk4LWVuOFAzRUVSRUZCOHNLY3VLOERNQ01zbmFiSl9UTDFIY1pEOXQ5ODlkcEhjZlZRQTBDbzFSdnVn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T12:50:00.000Z",
+      "pub_sort_dt": "2026-08-25 20:50:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国审议新法律，旨在将反腐败行动的范围扩展至境外 - Bloomberg",
-      "title_cn": "中国审议新法律，旨在将反腐败行动的范围扩展至境外 - Bloomberg",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxObzY5bGlzWGxvdzFkenJ1U1pvd0VPbEZEbDF0VkRxbjBoR3dUMTlaWGh1Z0UwcnFLcjBlcXFtSHktck9yX3duZF9XeVl5a0JkTFdEUVgwVFlpLVRvZElYaXFvN2xxYWZDdVRNWHBJNGNYWnVCUERrSFoxT3RqMFlmckdRQkQtbFRPTW1pdFFqRVJOX1pQdjhxWnMxT3phYzBvMWd0Q2MwNHdzblR0Q2VkX3RBTkRNdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T06:03:00.000Z",
-      "pub_sort_dt": "2026-08-25 14:03:00"
+      "title_en": "中国需要美元，但正在为应对华盛顿的制裁建立对冲机制 - CNBC",
+      "title_cn": "中国需要美元，但正在为应对华盛顿的制裁建立对冲机制 - CNBC",
+      "url": "https://news.google.com/read/CBMie0FVX3lxTE1famY5dkNNeXZoLUR5aDdZMlhPYURwNE0wMy1ZSkhDWG9lMUtJX19UbExFS0FYdWhVUkQ2cmFDa3BtR2N1NGJoNjhPRWxlVHI2cDRiSWE5eldnWGcyN09rV0tfUFpKaXVVYUwwT1JoMmtYc21wdDF1NnhJa9IBgAFBVV95cUxNcmRGTmIwWlF4T3N0MDZOR24wMEYwam04UFV1N3BsMmhZM0lHeTdUX1ZsZXFHejlIaWFpeVM1SGkyak5JekZHckZ3X3RwUzcyQW51Ml9lbWN3RFV1cW12Z1FHallHT1pFNTNlUWw4TDNDUVlhMHAwLXhQVWJLQjNocQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T12:42:15.000Z",
+      "pub_sort_dt": "2026-08-25 20:42:15"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "奢侈品行业应拥抱中国二手市场的繁荣",
+      "title_cn": "奢侈品行业应拥抱中国二手市场的繁荣",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-25/luxury-should-embrace-china-s-secondhand-boom",
+      "pub_raw": "2026-08-25T18:13:32.683Z",
+      "pub_sort_dt": "2026-08-26 02:13:32"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "美国对伊朗的经济战面临着“中国问题”",
+      "title_cn": "美国对伊朗的经济战面临着“中国问题”",
+      "url": "https://www.ft.com/content/3bce2d44-0067-455a-9b8d-d5e1a27fbf0a?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-25T17:26:26.171Z",
+      "pub_sort_dt": "2026-08-26 01:26:26"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国无视美国孤立伊朗的企图",
+      "title_cn": "中国无视美国孤立伊朗的企图",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-25/china-defies-us-efforts-to-isolate-iran",
+      "pub_raw": "2026-08-25T16:37:24.345Z",
+      "pub_sort_dt": "2026-08-26 00:37:24"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国、印度举行边界会谈，同意继续寻求边界问题的解决办法",
+      "title_cn": "中国、印度举行边界会谈，同意继续寻求边界问题的解决办法",
+      "url": "https://reut.rs/4zDV2Ou",
+      "pub_raw": "2026-08-25T16:37:23.950Z",
+      "pub_sort_dt": "2026-08-26 00:37:23"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "印度驻华大使馆称，印度和中国在北京举行的会谈中回顾了双边关系，并讨论了边界问题",
+      "title_cn": "印度驻华大使馆称，印度和中国在北京举行的会谈中回顾了双边关系，并讨论了边界问题",
+      "url": "https://reut.rs/3UdvyHC",
+      "pub_raw": "2026-08-25T16:21:36.224Z",
+      "pub_sort_dt": "2026-08-26 00:21:36"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国机器人“天宫”在北京跑出9秒内100米成绩",
+      "title_cn": "中国机器人“天宫”在北京跑出9秒内100米成绩",
+      "url": "https://reut.rs/4gmF9TC",
+      "pub_raw": "2026-08-25T14:29:29.450Z",
+      "pub_sort_dt": "2026-08-25 22:29:29"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国呼吁公众提供线索，举报火箭军采购违规行为",
+      "title_cn": "中国呼吁公众提供线索，举报火箭军采购违规行为",
+      "url": "https://reut.rs/4gDJ7rs",
+      "pub_raw": "2026-08-25T13:57:23.932Z",
+      "pub_sort_dt": "2026-08-25 21:57:23"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "美国对伊朗施压，但避免触及其最重要的生命线：中国",
+      "title_cn": "美国对伊朗施压，但避免触及其最重要的生命线：中国",
+      "url": "https://on.wsj.com/4y4bXIw",
+      "pub_raw": "2026-08-25T13:57:23.790Z",
+      "pub_sort_dt": "2026-08-25 21:57:23"
+    },
     {
       "source": "Reuters",
       "title_en": "据其家人和人权组织称，一名中国异见艺术家因创作毛泽东雕塑被判处3年监禁",
@@ -187,152 +251,152 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-25/china-reviews-new-law-to-extend-its-anti-corruption-reach-abroad",
       "pub_raw": "2026-08-25T06:29:15.578Z",
       "pub_sort_dt": "2026-08-25 14:29:15"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：机器人在北京参加世界类人机器人大赛",
-      "title_cn": "直播：机器人在北京参加世界类人机器人大赛",
-      "url": "https://www.youtube.com/watch?v=RfeFyjSMIBg",
-      "pub_raw": "2026-08-25T06:29:15.430Z",
-      "pub_sort_dt": "2026-08-25 14:29:15"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "英伟达一名员工被指控向中国走私先进芯片",
-      "title_cn": "英伟达一名员工被指控向中国走私先进芯片",
-      "url": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-25T05:57:42.956Z",
-      "pub_sort_dt": "2026-08-25 13:57:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "新华社报道称，中国提议修订《道路交通法》，增设自动驾驶车辆相关条款",
-      "title_cn": "新华社报道称，中国提议修订《道路交通法》，增设自动驾驶车辆相关条款",
-      "url": "https://reut.rs/4c9O5dV",
-      "pub_raw": "2026-08-25T05:25:23.853Z",
-      "pub_sort_dt": "2026-08-25 13:25:23"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国在罕见地为经济辩护时，对经济增长表现得泰然自若",
-      "title_cn": "中国在罕见地为经济辩护时，对经济增长表现得泰然自若",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/china-puts-brave-face-on-weak-growth-in-rare-defense-of-economy",
-      "pub_raw": "2026-08-25T04:53:26.588Z",
-      "pub_sort_dt": "2026-08-25 12:53:26"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "如果中国愿意的话，它或许能再次拯救石油市场——",
-      "title_cn": "如果中国愿意的话，它或许能再次拯救石油市场——",
-      "url": "https://www.ft.com/content/7b7d407c-98b8-450f-a8d4-3776608ae67b?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-25T04:21:50.367Z",
-      "pub_sort_dt": "2026-08-25 12:21:50"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "尽管面临政治障碍，中国风力涡轮机制造商仍将欧洲作为目标市场",
-      "title_cn": "尽管面临政治障碍，中国风力涡轮机制造商仍将欧洲作为目标市场",
-      "url": "https://www.ft.com/content/48a0f1e7-25e3-42fb-a8ad-98e81dedc4f6?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-25T04:21:50.029Z",
-      "pub_sort_dt": "2026-08-25 12:21:50"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "巴基斯坦寻求美国资金支持，以摆脱对中国的依赖",
-      "title_cn": "巴基斯坦寻求美国资金支持，以摆脱对中国的依赖",
-      "url": "https://www.ft.com/content/9e1158f8-bf37-41cc-9db1-e3e79834b5d0?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-25T02:29:15.725Z",
-      "pub_sort_dt": "2026-08-25 10:29:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "习近平访美前，美国考虑对中国的产能过剩产品征收7.5%的关税",
-      "title_cn": "习近平访美前，美国考虑对中国的产能过剩产品征收7.5%的关税",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks",
-      "pub_raw": "2026-08-25T00:05:39.132Z",
-      "pub_sort_dt": "2026-08-25 08:05:39"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国艺术家因创作讽刺毛泽东的雕像被判处3年有期徒刑 - AP News",
-      "title_cn": "中国艺术家因创作讽刺毛泽东的雕像被判处3年有期徒刑 - AP News",
-      "url": "https://news.google.com/read/CBMimgFBVV95cUxOUTJMaFREMUh4WV9DM2tZUXBnemNiRHBEZGRzbmNfX1hpS0dUZjBWa3pWOUtsNlhQVkpsNjZaLVJVMXpscElMUTJ3WThvV1lGS2RXdkZyTmVfek9tS21ISHotMGJxbEExUFRTcTJLU0wyTVZ5d1NpRWh6UlNFTldsTlZNVS1BdzIzMldfdUszeVlONkpBWFc3bm5n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T12:24:46.000Z",
-      "pub_sort_dt": "2026-08-25 20:24:46"
+      "title_en": "台湾以走私“高端”AI服务器至中国为由起诉9人 - The Guardian",
+      "title_cn": "台湾以走私“高端”AI服务器至中国为由起诉9人 - The Guardian",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxPSWEybW9zR0FwdjFZNVd0eV9NNllqdUVTVEFUM20zUFRIa1doVFV3dUg1cmZzRnpoUnNMZlRWQWNDV3ZndFhDTGJSZTJZYVEwWFIteXNraXVPNTJXemdlbDFVcDBITVNjbUVVNUNzbkVZLVctc2c2SDBJREtXTU5abExB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T19:02:00.000Z",
+      "pub_sort_dt": "2026-08-26 03:02:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国谴责美国就与伊朗的贸易问题威胁实施制裁 - The Guardian",
-      "title_cn": "中国谴责美国就与伊朗的贸易问题威胁实施制裁 - The Guardian",
-      "url": "https://news.google.com/read/CBMifkFVX3lxTE9ZRzVaNkNpTzdlV2Y2TE5LOTEwbXVlOXd2LXdKejI1OGp2eXlGM3JOZlNaQjk5U1RlSXFKc0dETVk3Uy16MDV0LWIwdmpUdTZla09FdS1NRjR3TlFEOWZ0eXVuV0lRa0FSbDhvaWtLYlYxSnlrSGpEUkd1SzVsdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T12:15:00.000Z",
-      "pub_sort_dt": "2026-08-25 20:15:00"
+      "title_en": "印度驻华大使馆称，印度和中国在北京举行的会谈中回顾了两国关系，并讨论了边境问题 - U.S. News & World Report",
+      "title_cn": "印度驻华大使馆称，印度和中国在北京举行的会谈中回顾了两国关系，并讨论了边境问题 - U.S. News & World Report",
+      "url": "https://news.google.com/read/CBMi3AFBVV95cUxONG8xZmQzQ1c4WXYxc0ItQnk2TDBHbkpLclFuaTZKOVJ4bkNlSlltX195Z3gxVlhxVW1vUjNVYV8xekN4UkhqNUtlbko5a3NBWndnNE1Ic1haU0NHR1hQVjRTZzBOZFpFcG1UcWZodkxwcE0xTzdWQmtSdjhkbWV6UGdhOUVfc1V2aXpUck9VMzlBOXg0OF81SlNzaUhrMmMzU1ZLOW8xWnhzOGdCRDVYVGIyZ21UM0Y5aHZUeWxmUkJSdmlKUjZKX2FVNEdCZVpOZW9rRVBpRkNKMXBW?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T15:42:37.000Z",
+      "pub_sort_dt": "2026-08-25 23:42:37"
     },
     {
       "source": "China Buzzing",
-      "title_en": "CGTN民调：中国作为“超级买家与卖家”所体现的共赢逻辑 - news.cgtn.com",
-      "title_cn": "CGTN民调：中国作为“超级买家与卖家”所体现的共赢逻辑 - news.cgtn.com",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxOZkpwT1E0NDl4QW9LZzlVNDM0OVNPaDV5RWNZbDZGTDRFNDRndWJtMGxDaVVLYnREczFjX2t2OGxBYUVDMkg5R2c0THMxRW5KVW0zNDVFVE95WkhDYTBEMkJBQ1VIajd5UXI2V0ZKQ2FIcFVUUDgxd0UxR1NXX0pVY2xpdWhZMFlSQmhIR2xvNzZsZ1dFV1dScDh0Rk8zczdGU0ZMU1lRbnRaNm93ZHA4M2t5QmZieGxtQ0FV?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T11:35:30.000Z",
-      "pub_sort_dt": "2026-08-25 19:35:30"
+      "title_en": "中欧货运运力下降近30% - Air Cargo News",
+      "title_cn": "中欧货运运力下降近30% - Air Cargo News",
+      "url": "https://news.google.com/read/CBMikwFBVV95cUxQUkhyNUlobmozWWM1ZUVuRnNMSE9ReUxaQl9Md2NWNU5ZZkx4c3hqY2g5MzVXblRkSzNKNFp5b2NPMEVsc3JuQUZGWW5YRk81WDV5VF9kLXU3U25wci1hVjNvN0hma2djV0R0eEZfTTV3dXI3ak84bnJNeFlINVV0M29qV0hVUUVqTlA0WDdxWVRFa1U?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T15:37:11.000Z",
+      "pub_sort_dt": "2026-08-25 23:37:11"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国发现秘密铀矿：这会引发全球核军备竞赛吗？ - Futura, le média qui explore le monde",
-      "title_cn": "中国发现秘密铀矿：这会引发全球核军备竞赛吗？ - Futura, le média qui explore le monde",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxNU1ZkSmRrbzNUOWd4QmRFUWc0VDA2ckN1VVBYZlltWHFjMkFNRFpDTFRfOTlWdU9WV2FmdGtJa2NJZ2FpeTZlNWJIMENMa3BLRk40aHVSaUNzTkN1QUdkeFJkUnBzdmpQc0djenlpa000XzZmNE9NOHg1YjZYWHludDNVTjNva1I4d3B4bWZHdzM0NnFhakZlTUEyX3FwcmlVWm90WGdfcHNYTnRYREE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T11:21:50.000Z",
-      "pub_sort_dt": "2026-08-25 19:21:50"
+      "title_en": "特朗普对伊朗施加更大压力后，中国予以回击 - The New York Times",
+      "title_cn": "特朗普对伊朗施加更大压力后，中国予以回击 - The New York Times",
+      "url": "https://news.google.com/read/CBMiekFVX3lxTE02d0FKSFllRjgtb3lWTnR0NjZ0RU56OFVSQ1RINGZKWUNtelRyQ1prNTFydnVUSWRUekxpOG5YdmlkOFdMOXVsdVF1eEVOc2FOY0tIT2w2ZXFpb21fQVBQUktIMWkxT19UTV9MTUdmUHZjVWVhRE5DUzJB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T14:59:39.000Z",
+      "pub_sort_dt": "2026-08-25 22:59:39"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在伊朗战争持续发酵之际，中国J-16战机与埃及的“阵风”战机在实战演习中展开对决 - South China Morning Post",
-      "title_cn": "在伊朗战争持续发酵之际，中国J-16战机与埃及的“阵风”战机在实战演习中展开对决 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxQWFY0b0E4S0xlQlM3ZkNXN1pWNUZ3QkFfa3c1cXdlUlhjTnA3a0pTem9xLTJPQWdOYUowa1dXbEJxZDZ4aXo3a1AxSmRMWFFtSTFmeFBsN2I2SWRZRzRaUnk0T21tTTFIamFOSUtjdmd4cVBzRmdGX0Q3elhGNHU0Q2NFdi12YmxERElLY0JhRG9tTzVRem9Rb1hNWGxNUFhXaGcxb0lGUnRDQ3VpOGRSUl9wbTFQZEVXVWVqaVVpenU3X3d4U1NV0gHHAUFVX3lxTE1IV0Vkck5sTW9WbFNHYjlWelkycmZBcndZbWM3bTIweXZ5eGJwLUlTR3pGQmRYTDJKVFczc2t6Y1IyQlBvWFBLRWFPejcwZ3lzRno4allHcExVSXFOMnh6TEl4TzZtdXpWOHB0bW9BckFDR0xTa01MZE9wMll0ZEJDZWxnbFBQa3AyRElQWXA2aDE4dU1JeFdvekc2bmZtemNhNURsMUh2bUlfRkRCSjhlX0h6S09JbnN3U0xTdTNCTnhQMDVSWVk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T10:00:11.000Z",
-      "pub_sort_dt": "2026-08-25 18:00:11"
+      "title_en": "美国承认在矿产争夺战中输给了中国。巴西能否利用这种竞争关系？ - South China Morning Post",
+      "title_cn": "美国承认在矿产争夺战中输给了中国。巴西能否利用这种竞争关系？ - South China Morning Post",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxNbUhIV2kwLXBCRnBtOG5XTzlKRXVsVXVUNHkxQ0JPNFdDVUZvT1MyVUxtWUpTWEtZTy1iUWUzVWljcFpGWlNrSzdBSXhNTnR5TnZZc3Vsc0VSVzRabHI3RE90S1B1WUo2WXJlNEZtbHVMNVZ4VmhTWmg5SV9aNE5mamowRVVNeVFwX2paNV9TalpFVnBKQ1ZPRjE4X0Vfa1lrRFFLYUlUaHk1bXpyUHRlQ3UxMWMwQ1pwNDVmNjY3cXQ3ajBkWEhOdGg5WEJfUdIBzgFBVV95cUxNYkd2aWMtdDFIeUt3MnoxS0YzRHVmYXpRWEIzMFJFR1FMN0h2ckg4Wkgtd2ZvdnRiT2wxY05vZ010bUVhMHJLWjhjTk50WmxUUV9vUlFxazVDbjZzMEZZTlN2eFNYU1ZkOUtCakN0dkJNZWxidkpHWEtRY0NKcDVhWnhPWjNRbFJYYWFRNU1vZW9UVnBQOU9SaTd1eGVXMC1OUllZWm9Femt4T1Jqa2NOSG5OQUcxdTZERVk5TC1mSjIybTdXaVZLVUZnRkU0dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T13:48:52.000Z",
+      "pub_sort_dt": "2026-08-25 21:48:52"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着中国加快在南海的军事建设，小岛上陆续出现新的设施 - Reuters",
-      "title_cn": "随着中国加快在南海的军事建设，小岛上陆续出现新的设施 - Reuters",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxNNVNLQXVYZlJVS2s4RkVMRlB3anJuLUd2WlVoTk5QMm96YVhTWHZCLXdBcUptQWdGclRKc0NRaTBaZFM4MjQ2UFVFanFoYndGRmgyVFlZWko2Q1RxRVhhU0QxSmhubmFEeHduMUJRUDdNVmVkSnREQnJQY0EydnNTamhMUnJZWldaSmF6Rkl5bXBIcEF6WVV1dU1Dby1KNjU5Yi1Dalk5Z1pUNVpVMlhxUUpBb09fdXpxTDYwaFd3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T09:42:36.000Z",
-      "pub_sort_dt": "2026-08-25 17:42:36"
+      "title_en": "以创作毛泽东雕塑而闻名的艺术家因诽谤“英雄和烈士”被判入狱 - The Guardian",
+      "title_cn": "以创作毛泽东雕塑而闻名的艺术家因诽谤“英雄和烈士”被判入狱 - The Guardian",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxNQVpaRlUtV2U3Qm1ITjFPc1JKUkgwME5FQkM2LU9QakRfdUxVWkV6WV9vZmlHcFVxcDNZTk9zcE9CUVU4ekhnRGZOX1FsbnpteXhDNjFDbHRSdEZwYUNNVVZhUEJuX1pQN3dSZmFRM1AwdGxWbE9hRFNCMFpnbm52UFpXZDFFWmJBazJRRDNOLVFVQTQ1ZExEUDV4djU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T13:18:00.000Z",
+      "pub_sort_dt": "2026-08-25 21:18:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国警告美国，可能就伊朗制裁采取报复措施 - Financial Times",
-      "title_cn": "中国警告美国，可能就伊朗制裁采取报复措施 - Financial Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQeE9vVDVrbmZ4ZTFWOHNpc0UtY0VDTWd0TUhJbFhqN3JOcEZxWTN6ZDhyZ2xxd3J6bVh3S05adUtiYlJIN2dWdGh0Y3JwRlQzbHI3SEJEakwzM1FJOWZjLVF6aFNuc3A5RE1JbTVNTVQyUTlqbldPRVM0dm9sby0zckt6blY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T09:27:37.000Z",
-      "pub_sort_dt": "2026-08-25 17:27:37"
+      "title_en": "独家：随着10月最后期限临近，欧盟官员将赴华 - Euronews.com",
+      "title_cn": "独家：随着10月最后期限临近，欧盟官员将赴华 - Euronews.com",
+      "url": "https://news.google.com/read/CBMi0gFBVV95cUxOcE5MdGRLM25EQ21TUUdyTEUyYTNOY01vWWpsc0RkWWFhNDdLZ09Ia0YwQlc2V2lVU3BSU3YxYTg3ZXpjY25tWnJLRV9lZkhpd3ZXRUVtLWR1cHZ5R0VET3lyMU5oUGNfdEo3Q3ZfV1JyZGNUNFpwejFTenVNQVNTbnlPN1ZQeU42ekxjMWN5YmhQZDZEZWcxeHJ2TjhCZWVEdDk5S2hsOEZTS2VMMXZHMmxSM3dnV000aHJCeUdmRmhmTkI4T2lXSmU4QkRKWGFaanc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T13:11:25.000Z",
+      "pub_sort_dt": "2026-08-25 21:11:25"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国提议将H-1B签证费用上调至103,265美元，收费范围将扩大至新申请者以外的群体 - South China Morning Post",
-      "title_cn": "美国提议将H-1B签证费用上调至103,265美元，收费范围将扩大至新申请者以外的群体 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiywFBVV95cUxPM3pwckd3SlBYYWRUOVZVYTZQcUYxQTY5ZG5sTW5sODFCNUxOM2JwZGstQWREdjYwaFBXUUN5dEIyY2VlSlN1NVFYNnFGUGliWlh6SFlkM3F3ZmZScTFTdTZmWEpwanlmVENMOWJQb2lHMXkyWXNxQjNtX1JZdG8teXFaazlDRjVhSHY5cmlaaU9xaDNucDJmR3dydlkzUUJjZEs5RmJwbVNwYTNORDJWX1pKblVhRW9pc2RCWGt2eWJBak1ReVA4N0RnMNIBywFBVV95cUxOa3VJYjV5RHcwQkQ2WUZNQWJ0ZUtOWFhmMVpkMTkyUUJkd2JnRlJXbElXcjFSWVFYMFYzNkNMRGk0UHdER29qUzR6UTdsRGJXY2hRUWY5QlRKa0JCc0xnZGtGTU40dEVDUkkyUkNMdDFaU1ZBWXFMUXdfQnZyWDk3MENua2N4clNLRFZLNDdUb0ktLVRxMThIOHl3emEzbl9vZDZuWDV4RmxhZFNqek9GbVR1OHFtaXhZWGlucUdJRFVQTFNDWWJIMUtCQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T07:00:31.000Z",
-      "pub_sort_dt": "2026-08-25 15:00:31"
+      "title_en": "中国的电气化进程意味着石油行业可能已达到峰值 - Yahoo Finance",
+      "title_cn": "中国的电气化进程意味着石油行业可能已达到峰值 - Yahoo Finance",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxPRFgtQUFUYkltVGhLRE5WSmRLaTYxYjRYa1g1Q1dDbmxUQ2x3ZVZ4ZDVaYXFxclQ2UTk4RFR2WFgzZFNOM1RsUFBIZkI3LVRRM3dlSFVSREhnTHphNXp5OXNmTTB0RmhXMDBnMmROT0xPMnV6T3NMWjBSWW81bFlLWGdZTTFrQ0hqanlMRktBYXhYWFhLNDItVXVnOHE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T12:52:12.000Z",
+      "pub_sort_dt": "2026-08-25 20:52:12"
     },
     {
       "source": "China Buzzing",
-      "title_en": "CNBC《每日开盘》：中国成为焦点，比特币卷土重来，以及《龙珠Z》外交 - CNBC",
-      "title_cn": "CNBC《每日开盘》：中国成为焦点，比特币卷土重来，以及《龙珠Z》外交 - CNBC",
-      "url": "https://news.google.com/read/CBMihwFBVV95cUxPSDFFemZJTkg5ZWxOTGxZa3FBMDRNNUVscTE4RmwwUG96YUNYVlBIX1V3eGYxRnI0V0QyRHdkYVA2N3NBQzRGYUhXQmpaWHdVWlRSTlNWTk1UczlyUGpaVExGSXBxTVhsU3J6NHlwdEl4SWVyTkpRclc5Vk9NcDhESmdCdndCQ2PSAYwBQVVfeXFMT0prNG1jb01XTzlTbWxwZVBjOVlUVUFCUW1oLTAtamx2TExQRHNHMlEzXzFQWGRuZS0zU2tUQTFxaDFxcDBTYmhJYjEzR1liMVNWM1NMN3ZJVGhKU205cHZ3YmszNndxNWtFSEVaUUg3cEFPay10dkVlcmI5Ql85ckpwUmVBTDRYZjVDS0s?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T06:03:28.000Z",
-      "pub_sort_dt": "2026-08-25 14:03:28"
+      "title_en": "“我们得回中国了”：网红IShowSpeed被中国机器人模仿克里斯蒂亚诺·罗纳尔多的“SIU”庆祝动作惊呆了 - Global Times",
+      "title_cn": "“我们得回中国了”：网红IShowSpeed被中国机器人模仿克里斯蒂亚诺·罗纳尔多的“SIU”庆祝动作惊呆了 - Global Times",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTFBIX3dmZG1FcUh5OEc3aWdhMEY5bk9sNkNOb3dKMEM5clk4LWVuOFAzRUVSRUZCOHNLY3VLOERNQ01zbmFiSl9UTDFIY1pEOXQ5ODlkcEhjZlZRQTBDbzFSdnVn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T12:50:00.000Z",
+      "pub_sort_dt": "2026-08-25 20:50:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国审议新法律，旨在将反腐败行动的范围扩展至境外 - Bloomberg",
-      "title_cn": "中国审议新法律，旨在将反腐败行动的范围扩展至境外 - Bloomberg",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxObzY5bGlzWGxvdzFkenJ1U1pvd0VPbEZEbDF0VkRxbjBoR3dUMTlaWGh1Z0UwcnFLcjBlcXFtSHktck9yX3duZF9XeVl5a0JkTFdEUVgwVFlpLVRvZElYaXFvN2xxYWZDdVRNWHBJNGNYWnVCUERrSFoxT3RqMFlmckdRQkQtbFRPTW1pdFFqRVJOX1pQdjhxWnMxT3phYzBvMWd0Q2MwNHdzblR0Q2VkX3RBTkRNdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-25T06:03:00.000Z",
-      "pub_sort_dt": "2026-08-25 14:03:00"
+      "title_en": "中国需要美元，但正在为应对华盛顿的制裁建立对冲机制 - CNBC",
+      "title_cn": "中国需要美元，但正在为应对华盛顿的制裁建立对冲机制 - CNBC",
+      "url": "https://news.google.com/read/CBMie0FVX3lxTE1famY5dkNNeXZoLUR5aDdZMlhPYURwNE0wMy1ZSkhDWG9lMUtJX19UbExFS0FYdWhVUkQ2cmFDa3BtR2N1NGJoNjhPRWxlVHI2cDRiSWE5eldnWGcyN09rV0tfUFpKaXVVYUwwT1JoMmtYc21wdDF1NnhJa9IBgAFBVV95cUxNcmRGTmIwWlF4T3N0MDZOR24wMEYwam04UFV1N3BsMmhZM0lHeTdUX1ZsZXFHejlIaWFpeVM1SGkyak5JekZHckZ3X3RwUzcyQW51Ml9lbWN3RFV1cW12Z1FHallHT1pFNTNlUWw4TDNDUVlhMHAwLXhQVWJLQjNocQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-25T12:42:15.000Z",
+      "pub_sort_dt": "2026-08-25 20:42:15"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "奢侈品行业应拥抱中国二手市场的繁荣",
+      "title_cn": "奢侈品行业应拥抱中国二手市场的繁荣",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-25/luxury-should-embrace-china-s-secondhand-boom",
+      "pub_raw": "2026-08-25T18:13:32.683Z",
+      "pub_sort_dt": "2026-08-26 02:13:32"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "美国对伊朗的经济战面临着“中国问题”",
+      "title_cn": "美国对伊朗的经济战面临着“中国问题”",
+      "url": "https://www.ft.com/content/3bce2d44-0067-455a-9b8d-d5e1a27fbf0a?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-25T17:26:26.171Z",
+      "pub_sort_dt": "2026-08-26 01:26:26"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国无视美国孤立伊朗的企图",
+      "title_cn": "中国无视美国孤立伊朗的企图",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-25/china-defies-us-efforts-to-isolate-iran",
+      "pub_raw": "2026-08-25T16:37:24.345Z",
+      "pub_sort_dt": "2026-08-26 00:37:24"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国、印度举行边界会谈，同意继续寻求边界问题的解决办法",
+      "title_cn": "中国、印度举行边界会谈，同意继续寻求边界问题的解决办法",
+      "url": "https://reut.rs/4zDV2Ou",
+      "pub_raw": "2026-08-25T16:37:23.950Z",
+      "pub_sort_dt": "2026-08-26 00:37:23"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "印度驻华大使馆称，印度和中国在北京举行的会谈中回顾了双边关系，并讨论了边界问题",
+      "title_cn": "印度驻华大使馆称，印度和中国在北京举行的会谈中回顾了双边关系，并讨论了边界问题",
+      "url": "https://reut.rs/3UdvyHC",
+      "pub_raw": "2026-08-25T16:21:36.224Z",
+      "pub_sort_dt": "2026-08-26 00:21:36"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国机器人“天宫”在北京跑出9秒内100米成绩",
+      "title_cn": "中国机器人“天宫”在北京跑出9秒内100米成绩",
+      "url": "https://reut.rs/4gmF9TC",
+      "pub_raw": "2026-08-25T14:29:29.450Z",
+      "pub_sort_dt": "2026-08-25 22:29:29"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国呼吁公众提供线索，举报火箭军采购违规行为",
+      "title_cn": "中国呼吁公众提供线索，举报火箭军采购违规行为",
+      "url": "https://reut.rs/4gDJ7rs",
+      "pub_raw": "2026-08-25T13:57:23.932Z",
+      "pub_sort_dt": "2026-08-25 21:57:23"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "美国对伊朗施压，但避免触及其最重要的生命线：中国",
+      "title_cn": "美国对伊朗施压，但避免触及其最重要的生命线：中国",
+      "url": "https://on.wsj.com/4y4bXIw",
+      "pub_raw": "2026-08-25T13:57:23.790Z",
+      "pub_sort_dt": "2026-08-25 21:57:23"
     },
     {
       "source": "Reuters",
@@ -429,70 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-25/china-reviews-new-law-to-extend-its-anti-corruption-reach-abroad",
       "pub_raw": "2026-08-25T06:29:15.578Z",
       "pub_sort_dt": "2026-08-25 14:29:15"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：机器人在北京参加世界类人机器人大赛",
-      "title_cn": "直播：机器人在北京参加世界类人机器人大赛",
-      "url": "https://www.youtube.com/watch?v=RfeFyjSMIBg",
-      "pub_raw": "2026-08-25T06:29:15.430Z",
-      "pub_sort_dt": "2026-08-25 14:29:15"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "英伟达一名员工被指控向中国走私先进芯片",
-      "title_cn": "英伟达一名员工被指控向中国走私先进芯片",
-      "url": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-25T05:57:42.956Z",
-      "pub_sort_dt": "2026-08-25 13:57:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "新华社报道称，中国提议修订《道路交通法》，增设自动驾驶车辆相关条款",
-      "title_cn": "新华社报道称，中国提议修订《道路交通法》，增设自动驾驶车辆相关条款",
-      "url": "https://reut.rs/4c9O5dV",
-      "pub_raw": "2026-08-25T05:25:23.853Z",
-      "pub_sort_dt": "2026-08-25 13:25:23"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国在罕见地为经济辩护时，对经济增长表现得泰然自若",
-      "title_cn": "中国在罕见地为经济辩护时，对经济增长表现得泰然自若",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/china-puts-brave-face-on-weak-growth-in-rare-defense-of-economy",
-      "pub_raw": "2026-08-25T04:53:26.588Z",
-      "pub_sort_dt": "2026-08-25 12:53:26"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "如果中国愿意的话，它或许能再次拯救石油市场——",
-      "title_cn": "如果中国愿意的话，它或许能再次拯救石油市场——",
-      "url": "https://www.ft.com/content/7b7d407c-98b8-450f-a8d4-3776608ae67b?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-25T04:21:50.367Z",
-      "pub_sort_dt": "2026-08-25 12:21:50"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "尽管面临政治障碍，中国风力涡轮机制造商仍将欧洲作为目标市场",
-      "title_cn": "尽管面临政治障碍，中国风力涡轮机制造商仍将欧洲作为目标市场",
-      "url": "https://www.ft.com/content/48a0f1e7-25e3-42fb-a8ad-98e81dedc4f6?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-25T04:21:50.029Z",
-      "pub_sort_dt": "2026-08-25 12:21:50"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "巴基斯坦寻求美国资金支持，以摆脱对中国的依赖",
-      "title_cn": "巴基斯坦寻求美国资金支持，以摆脱对中国的依赖",
-      "url": "https://www.ft.com/content/9e1158f8-bf37-41cc-9db1-e3e79834b5d0?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-25T02:29:15.725Z",
-      "pub_sort_dt": "2026-08-25 10:29:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "习近平访美前，美国考虑对中国的产能过剩产品征收7.5%的关税",
-      "title_cn": "习近平访美前，美国考虑对中国的产能过剩产品征收7.5%的关税",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks",
-      "pub_raw": "2026-08-25T00:05:39.132Z",
-      "pub_sort_dt": "2026-08-25 08:05:39"
     }
   ]
 }
