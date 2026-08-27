@@ -1,15 +1,47 @@
 {
-  "update_cst": "2026-08-27 06:01:08 北京时间",
+  "update_cst": "2026-08-27 09:01:00 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 10,
+    "Bloomberg": 11,
     "Financial Times": 2,
     "Wall Street Journal": 1,
-    "Reuters": 7
+    "Reuters": 6
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "伊朗战争导致美国武器短缺，这令正与中国对抗的盟友们感到担忧 - The Washington Post",
+      "title_cn": "伊朗战争导致美国武器浩劫，这个令正与中国对抗的将军们感到担忧 - 华盛顿邮报",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxQbDRJMVdCeHNjUHhqX3NCckNmTjFLeC10ZzBxZm1vMktFVmVJTDNvUjMxRGxaTjh1UmFIZWgteWFPbU1vVnQ0WWQ1WmtXRjd6R1NGR0xwMGEwWWQ1UDJuNVEzNG5LLTQ2Um9aN2JiQ01QTURfX3BTV09GdldxQ0ZVNUc3eHZzdGJhbGxJTlppbkZkQWx6cVdKdVhXSGFSWEZqb2xtRWw0NjRVSnZiSE51ZnE4MUFiOWlKOFNxT09R?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T23:40:53.000Z",
+      "pub_sort_dt": "2026-08-27 07:40:53"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "议员敦促财政部针对中国银行实施制裁，以应对伊朗问题 - Politico",
+      "title_cn": "国务院敦促加强针对中国银行实施制裁，以应对伊朗问题 - Politico",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxQOW9DTS1HR2JBOUlIT3hYOTFVeVBKYk81OXpRWnFqanFJRmpFNFNGbkg3ZXZZbjNZWmluenJzbHR4NkhxaS1LdkdXbVd4R1pGYWJZZ1EzOXBzSldOYnI3Zm5OM201LUI4eTVXYTdwSl9weFJJZ1lCWVoxN1lSMkFhaDNfNFl1UFZzbUZrQkl1blRYY0tsY1pr?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T23:25:00.000Z",
+      "pub_sort_dt": "2026-08-27 07:25:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国为何钟爱人工智能 - The New York Times",
+      "title_cn": "中国为何钟爱人工智能 - 纽约时报",
+      "url": "https://news.google.com/read/CBMifEFVX3lxTE9kYTBZRFQwQ3g5aURmeVVBNXAwYm01VkxURDUwdUFIekpwcTEza1FTU05keGJBWmctZjJjcmg4UldzMnFjVUNUY2ptNjc2TUVwMDFHN2FfQ3daanVmdC1sSFM3djlIa2JON0hENk5IUDdUbjRWdVg5Mk1FX0s?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T20:50:51.000Z",
+      "pub_sort_dt": "2026-08-27 04:50:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "标普全球：中国的“黄金之路”倡议是其国家安全、去美元化和“全球南方”战略的核心——标普全球 - KITCO",
+      "title_cn": "标普全球：中国的“之路黄金”倡议是其国家安全、去美元化和“全球南方”战略的核心——标普全球 - KITCO",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxQcGxHNEN1UlM2NVk5ZFpLTi1ad2FmTmFXcjlPOWk3V2I3T2NwM3hhTlRVSHpXX1Y4X3lpZjdFMWMxQ2swRTM0cV9kSFY5UXdDMkh2TmI2Sm8xV05scV9vckVHclNRemhWTWlzam1KOFZMVGFGQVd2VEtQQ2hjWUtBMUdmWkxmU09mR1RHaEs0X29nSzg1M0dNeVdMdWdpNFk3ODBkaU1kTFNBeUQ5VnBWYUVITEdvU2N0NU1yOA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T20:42:49.000Z",
+      "pub_sort_dt": "2026-08-27 04:42:49"
+    },
     {
       "source": "China Buzzing",
       "title_en": "沙特阿美找到新途径，确保沙特原油持续输往中国 - Crude Oil Prices Today | OilPrice.com",
@@ -28,70 +60,46 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "随着中国国内原油产量增加，中海油创下利润新高 - Crude Oil Prices Today | OilPrice.com",
+      "title_cn": "随着中国国内原油产量增加，中海油利润新高 - 今日原油价格石油价格网",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxQS3Rnc1M3bDd6N1lzVy1RYkpmWXA1OTlZa2lXakhuMzZTNGtxZlRfQjlJWVFmS1Utd043bUNEUC0wbnRra2ItTV9rZGJ5b2QyVFh5SEpQZy1ZYTdDWWpnNDd5bFYtclN6YkVyR2UwQUZPNXRLYzhJSnBrSnJzTFNRNVRFRENNMDk2bWg1U2N0dFh0N2xydmk1UmpqYU11V3ZZb0NZQXdReXpaVzhJclQybWRNMNIBuAFBVV95cUxOTWhrcG5GR19sdjB0c0lRSF9sRlJqN3laQ3JoM3ZHU2hDaFdWM19VUGh2RVctSmNDb2VuZ3BJeTVLc2NISmlaUXNFUnNtd3Jmakl1V3RxVS1DRUNMTENUS0laYWVPS1hsNE4yamdWc05ZUXlNcXlpZkpLdDlIbmhvdzlNNXJpX1RpQXh3YkpQWTl5RWd0OEhQMm1NaURxY01vdVpxcmNCQWlFaDdjYTBaOWpBbjhUa2RE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T19:45:00.000Z",
+      "pub_sort_dt": "2026-08-27 03:45:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国应用生活 - ChinaFile",
+      "title_cn": "中国应用生活 - ChinaFile",
+      "url": "https://news.google.com/read/CBMidkFVX3lxTE5JeGJ5R2w5ZE5qd3ZwZzlYeDdZaklGZHh4TWY0YklKakRSd3c2QkRURGVPTTM0bG1TZnJTSGJFcXcxUlRWcC1FbThPNDJOQS1lUGhwellYbTUtTXhFZmlKclFLaEV4Rkc1c2h6cUdXSGEtNUhNYVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T19:11:52.000Z",
+      "pub_sort_dt": "2026-08-27 03:11:52"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "观点 与加拿大打贸易战，赢家只有一个 - The New York Times",
+      "title_cn": "观点与加拿大打贸易战，赢家只有一个 - 纽约时报",
+      "url": "https://news.google.com/read/CBMiiAFBVV95cUxNYWxCbW8zN0xBZUI1UGZaQTU2Z2pDSzVGWFJfVlZSRmhMX1ZhTWViMEFkSDAyWVJpT3dYVEtVWGdMRHlMWEpSQlNSa1JuVlBON0RrV0czWGppYkdJNDBPdUdfd3N1YVo0c3JMYTYtTXNzX19yUzlVRnpJVzVMSDYtQjA4QkRRd0pU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T19:00:06.000Z",
+      "pub_sort_dt": "2026-08-27 03:00:06"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "尼泊尔与中国边境突发山洪，数十人遇难，数百人失踪 - The Washington Post",
       "title_cn": "尼泊尔与中国边境突发山洪，失踪人员遇难，数百人失踪 - 《华盛顿邮报》",
       "url": "https://news.google.com/read/CBMisAFBVV95cUxQN1FkZE4wNzNobmlKZGg0SXJSRC1zbmpqZHpVRzhsbndWVGR5ZVBFN3Y1ZlVkRmdQNGJ5MldVNDJuRkZiT25rUVdGOFc0T0cxZGhyaE9RY0pyeTV0TVJHWU53Tk1wVzhQM1NXWS1uam9icWkzMWNoVE9JbVJtZUhhWnU2aXRqbmVRTTFvY2dMdXAtTkZLaDB4ZGlSMUMzMlJsR2t5akpBTDBNbnJ1LWFpbQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-26T18:16:19.000Z",
       "pub_sort_dt": "2026-08-27 02:16:19"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国机器人大赛上的类人机器人跑得比乌塞恩·博尔特还快——但我更佩服它们运用镊子的娴熟技巧 - WIRED",
-      "title_cn": "中国机器人上的机器人跑得比乌塞恩·博尔特还快——但我更佩服他们运用大赛子的娴熟技巧 - WIRED",
-      "url": "https://news.google.com/read/CBMifkFVX3lxTE1PSUZxVXhjWjdDbzdCaFYzWVFXNUpHS2R1ZTEwRU9WYlZsQXBIejBkT3dTaDV6XzNGTHNfNS11MUtjc0k3X1FZNlNCY3ZsamgyelBHeXk5cy1jRmtrVVpRc0tHQko0eG9FZW11YzQzT045Q1k1bUFTR18yeVVSZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T18:15:00.000Z",
-      "pub_sort_dt": "2026-08-27 02:15:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "一段令人毛骨悚然的视频记录下尼泊尔与中国边境地区民众逃离即将袭来的泥石流的场景 - Fox News",
-      "title_cn": "一段令人毛骨悚然的视频记录下尼泊尔与中国边境地区民众关注即将袭来的泥石流的场景 - 福克斯新闻",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxOT09aTWFtbjgzWV9OSktoMERla0Y4SzBWdHlKamFaeFRVdlU1M3NFTm4tUXVyb0ZRb1lvTUVNaWlsejVGczRwaktJYl9BSlAzOTd1UW1qZXhxdU5pNDNtSVp0UU5QRGFkenljbUNxNHJUVkNqRTdySUNEeWRYeG80dlAtd3I5QTh2NUdBaWhaWnZIT3E1ZFB1Vk5DTEZuV2VJblVFM0o2c3p0UmPSAbABQVVfeXFMTTVrN1drcUV2SlJCQ09wODFGUVB0c1NjbVg3cUZxNnQ3cEdpZlVtMXJRaUN0dENnNHRTTFFYYl9PSjdTMUJKTDM3WGNTZUg5UGNMX3M4RndHc3BwYzd4VHJ2UDhzVkVUdDNoWjZqaUVaSTBsYk9lQ0RfaHhEclRKeERXSHNtVGluX3FScG1ET09tazA1YmdkbUZ2TDlhQWJ0bDc0NTl2eGNtaTc2VUk0dVg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T17:49:05.000Z",
-      "pub_sort_dt": "2026-08-27 01:49:05"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "是什么推动了中国在汽车领域的全球主导地位 - Axios",
-      "title_cn": "是什么推动了中国在汽车领域的全球主导地位 - Axios",
-      "url": "https://news.google.com/read/CBMib0FVX3lxTE5ZUURmUVotU3JsalZfWjFMenFOMVE5VXhDUC04VTgzZDlyTDF0ams3czktdXlVb3A0M2hRRWZwWlZQTnlhd25vR2JZSTlxZlE3RHNBQVFCaHJhMG1KMEdPLWc1NUU0RmZ0bm1VVDJuMA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T16:47:29.000Z",
-      "pub_sort_dt": "2026-08-27 00:47:29"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔和中国发生山洪暴发，造成至少98人死亡，数百人失踪 - CNBC",
-      "title_cn": "尼泊尔和中国发生山洪暴发，造成至少 98 人死亡，数百人失踪 - CNBC",
-      "url": "https://news.google.com/read/CBMiggFBVV95cUxPbDd2TXZwTlduaTR0d3paV0lsN21vQ3JPZ0oydTJha2o2WXA1ZUlhV3BUUmk0WDhmcEtQbzRpTzUtbU41X0FxUzJRc2UxQi1rNkFpb3VJLU1pbTl1UGNMTHAyblVrdHM0OGVNaVNEZlFsM1VDenlZN3Z5QjV1SHF4ZVhR0gGHAUFVX3lxTE5DUkRjVWZsRmF4a01XNkhvX2p4TUItOC05N2dIbF9yQktSNVh3aHZmbVlQNmhQbkt4azVJaDJrWDF2alh1dkdYX0NKQXlNZ0Ntdlk2NEpYcEVfaWFWcUVfZ0xrQWdrMjJkcGg3Wm9OQjJ0X21HN0hZY2l2azdCNi1NbEVjQUtlSQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T15:16:16.000Z",
-      "pub_sort_dt": "2026-08-26 23:16:16"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国称中国黑客入侵了司法部、美国宇航局、美联储、参议院等机构 - Reuters",
-      "title_cn": "美国称中国黑客入侵了司法部、美国宇航局、美联储、参议院等机构 - 路透社",
-      "url": "https://news.google.com/read/CBMiugFBVV95cUxPNWZiUFZqM2pSUlNEQmtJVEllRGF1a04tVG43Q0s2ZDYzME5GRlNsVEdaaW9ScDFDZFhyWElFbEVtQ1JGamZsMDRoaDhtRTJaQUNKaVh0VlpLYTBCVVRHUGtiWEZMdFBTTzBMdU5lV2tVUU11SUxubVVPcTNZVzRDM0Z4TGdDVVp4M085bXdmT1ZiV0Jvcjg3OC1QY0tYT1MtT0pxX3hIa0RZMFRLTTVuMElMY1I0VmFSY2c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T15:13:23.000Z",
-      "pub_sort_dt": "2026-08-26 23:13:23"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "别让中国来拯救古巴 - The Hill",
-      "title_cn": "别让中国来拯救古巴 - The Hill",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxOUnRGcURheTlvQzBuUERiOWEzLVFmdmhPQUlnQzRpUU5xa3NrWHBjUVdWMG9NSHVjb21IcWlLZG55NVhPcGhzUDVVcDc1bmxJbURGbGVpSF91b0ExNHh4a0Vncm51Zm5kU1NvcXRtdnR1MFVBYldLVENRYUdCd1VJaXg0cDJuamNiUzBIU2F6S0XSAZYBQVVfeXFMT2xzWDFhaXh5TkZMYjlIdXNhVmhObGJ6SnNpRDlMUkNEZVN2VEc1NE9kTU1kV1VKSTUxRzVTRHppWTJXcUQ4XzFVcHc4WFBfUWZyRWZadVlJSUFkMDc0TXctSHlQQnlIRmc0Ynl3MUhWWDdJb0VJaUR4ODZxNHlTLXh0OXVlSWRCQTNOZGFlRVNqV0Q3UkpR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T14:30:00.000Z",
-      "pub_sort_dt": "2026-08-26 22:30:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔和中国发生山洪暴发，造成至少98人死亡，数百人失踪 - PBS",
-      "title_cn": "尼泊尔和中国发生山洪暴发，造成至少98人死亡，数百人失踪 - PBS",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxPb3FBeUJZZC1kQTJzZkVJWi1FNUpDU1RKcmJiQnpNU2EybFlJQ0Rsb0FfdS1TZVlkS1B2RGJDYzdESk01dzhHREJXOHFralhaenplRDFVRVpXZndzdVR1OGpoeVZPQ1BYbkpmYUc1bV9mUTNpM3JGVzJpMjBtekFYSnpJNVNjV0tJRjNXZTQ3N2tPdm13VlgxcjRkUWhuSlFiOHQxeWdPQkI3YVE5aWwwNS0tSlFPcElIYXk1YXcwdmt6UWdTb0VR0gHMAUFVX3lxTFBnWmg1ZFU1R0ZKa1BpZkR3aVZ2TUF3LUc2YUFTMDdKZW5Ma1dRWVpzVmxXMndIeEhQZmh5VXhiaGg5UFdnNktUZUEteGkxOTNJZHpubFZheUw0RFBKZEdJSkg5d1NMWmlFYnBRTTVJU0YtUDM3WWNBcWR1VW9yYkhmcHMtUTdvbEtXMG05ZHRvVGxLRDdjQXEzQ3N2WW1pRGxRWHNSRk9xeFRkam9PRzBJNjkydHpWcW5jS2RiOE9aN3k2MkFJc0hmOUQ2MQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T13:58:46.000Z",
-      "pub_sort_dt": "2026-08-26 21:58:46"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "中国对绿色氢能的大胆押注或将决定这种燃料的未来",
+      "title_cn": "中国对绿色氢能的参与或将决定这种燃料的未来",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-bold-bet-on-green-hydrogen-could-determine-fuel-s-future",
+      "pub_raw": "2026-08-26T23:17:42.871Z",
+      "pub_sort_dt": "2026-08-27 07:17:42"
+    },
     {
       "source": "Wall Street Journal",
       "title_en": "伊朗“沙赫德”无人机如何改变了战争格局——得益于中国的帮助",
@@ -242,20 +250,44 @@
       "title_cn": "随着欧盟贸易紧张局势加剧，一些中国工人将布鲁塞尔视为首都",
       "url": "https://reut.rs/4y6aC3W",
       "pub_raw": "2026-08-26T10:29:38.993Z",
-      "pub_sort_dt": "2026-08-26 18:29:38"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "比尔·盖茨对人工智能感到担忧，他希望就一些政策构想与中国国家主席习近平进行讨论",
-      "title_cn": "比尔·盖茨对人工智能感到担忧，他希望就一些政策构想与中国国家主席习近平进行讨论",
-      "url": "https://reut.rs/3SfGd3Y",
-      "pub_raw": "2026-08-26T10:29:38.986Z",
       "pub_sort_dt": "2026-08-26 18:29:38"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "伊朗战争导致美国武器短缺，这令正与中国对抗的盟友们感到担忧 - The Washington Post",
+      "title_cn": "伊朗战争导致美国武器浩劫，这个令正与中国对抗的将军们感到担忧 - 华盛顿邮报",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxQbDRJMVdCeHNjUHhqX3NCckNmTjFLeC10ZzBxZm1vMktFVmVJTDNvUjMxRGxaTjh1UmFIZWgteWFPbU1vVnQ0WWQ1WmtXRjd6R1NGR0xwMGEwWWQ1UDJuNVEzNG5LLTQ2Um9aN2JiQ01QTURfX3BTV09GdldxQ0ZVNUc3eHZzdGJhbGxJTlppbkZkQWx6cVdKdVhXSGFSWEZqb2xtRWw0NjRVSnZiSE51ZnE4MUFiOWlKOFNxT09R?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T23:40:53.000Z",
+      "pub_sort_dt": "2026-08-27 07:40:53"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "议员敦促财政部针对中国银行实施制裁，以应对伊朗问题 - Politico",
+      "title_cn": "国务院敦促加强针对中国银行实施制裁，以应对伊朗问题 - Politico",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxQOW9DTS1HR2JBOUlIT3hYOTFVeVBKYk81OXpRWnFqanFJRmpFNFNGbkg3ZXZZbjNZWmluenJzbHR4NkhxaS1LdkdXbVd4R1pGYWJZZ1EzOXBzSldOYnI3Zm5OM201LUI4eTVXYTdwSl9weFJJZ1lCWVoxN1lSMkFhaDNfNFl1UFZzbUZrQkl1blRYY0tsY1pr?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T23:25:00.000Z",
+      "pub_sort_dt": "2026-08-27 07:25:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国为何钟爱人工智能 - The New York Times",
+      "title_cn": "中国为何钟爱人工智能 - 纽约时报",
+      "url": "https://news.google.com/read/CBMifEFVX3lxTE9kYTBZRFQwQ3g5aURmeVVBNXAwYm01VkxURDUwdUFIekpwcTEza1FTU05keGJBWmctZjJjcmg4UldzMnFjVUNUY2ptNjc2TUVwMDFHN2FfQ3daanVmdC1sSFM3djlIa2JON0hENk5IUDdUbjRWdVg5Mk1FX0s?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T20:50:51.000Z",
+      "pub_sort_dt": "2026-08-27 04:50:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "标普全球：中国的“黄金之路”倡议是其国家安全、去美元化和“全球南方”战略的核心——标普全球 - KITCO",
+      "title_cn": "标普全球：中国的“之路黄金”倡议是其国家安全、去美元化和“全球南方”战略的核心——标普全球 - KITCO",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxQcGxHNEN1UlM2NVk5ZFpLTi1ad2FmTmFXcjlPOWk3V2I3T2NwM3hhTlRVSHpXX1Y4X3lpZjdFMWMxQ2swRTM0cV9kSFY5UXdDMkh2TmI2Sm8xV05scV9vckVHclNRemhWTWlzam1KOFZMVGFGQVd2VEtQQ2hjWUtBMUdmWkxmU09mR1RHaEs0X29nSzg1M0dNeVdMdWdpNFk3ODBkaU1kTFNBeUQ5VnBWYUVITEdvU2N0NU1yOA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T20:42:49.000Z",
+      "pub_sort_dt": "2026-08-27 04:42:49"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "沙特阿美找到新途径，确保沙特原油持续输往中国 - Crude Oil Prices Today | OilPrice.com",
       "title_cn": "沙特阿美找到新途径，确保沙特原油持续输往中国 - 今日原油价格| 中国石油价格网",
       "url": "https://news.google.com/read/CBMipAFBVV95cUxPbTJaY0EwVU92c2xSdmpyZjUyM0kyQ2FNQ0tzeWJVN3J1VzJPczA0SS15b2l5a250UjNxWVp3bXFtZnc0czdZdmdOc0tOUFFoeGlaMWxPY25OMS1kWmFudDZ0MjdhUHY1aG5xdjhTUTY2OF9HWm5oUzhPTVM2TWd3UUZ4SnNoaVRzOF9iWDRaOUFUVHJ4QjhNYmZKbXhhcnVyZW9tX9IBqgFBVV95cUxPNm9VSy1EX0VNbk5TVmRkZmJJOHk2SE1uSXBVTkpBYUtKZERYTE5WX3VFbU1YR0ozejdZWUhYU0h0dXFiMHJvMDVzYzg5a0ZPeF9sRjFQV0RWVVRLMlo0Tm9hZkNEQVhneG9vd3pXbVR0cVlmZGs5ZGNGR2VTaWFXN1I5d3gyaGQ3UXd4Szk5dlhXdVFNaUdRUlVkdktsU3FYeWZKcWpuYnRGdw?hl=en-US&gl=US&ceid=US%3Aen",
@@ -272,6 +304,30 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "随着中国国内原油产量增加，中海油创下利润新高 - Crude Oil Prices Today | OilPrice.com",
+      "title_cn": "随着中国国内原油产量增加，中海油利润新高 - 今日原油价格石油价格网",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxQS3Rnc1M3bDd6N1lzVy1RYkpmWXA1OTlZa2lXakhuMzZTNGtxZlRfQjlJWVFmS1Utd043bUNEUC0wbnRra2ItTV9rZGJ5b2QyVFh5SEpQZy1ZYTdDWWpnNDd5bFYtclN6YkVyR2UwQUZPNXRLYzhJSnBrSnJzTFNRNVRFRENNMDk2bWg1U2N0dFh0N2xydmk1UmpqYU11V3ZZb0NZQXdReXpaVzhJclQybWRNMNIBuAFBVV95cUxOTWhrcG5GR19sdjB0c0lRSF9sRlJqN3laQ3JoM3ZHU2hDaFdWM19VUGh2RVctSmNDb2VuZ3BJeTVLc2NISmlaUXNFUnNtd3Jmakl1V3RxVS1DRUNMTENUS0laYWVPS1hsNE4yamdWc05ZUXlNcXlpZkpLdDlIbmhvdzlNNXJpX1RpQXh3YkpQWTl5RWd0OEhQMm1NaURxY01vdVpxcmNCQWlFaDdjYTBaOWpBbjhUa2RE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T19:45:00.000Z",
+      "pub_sort_dt": "2026-08-27 03:45:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国应用生活 - ChinaFile",
+      "title_cn": "中国应用生活 - ChinaFile",
+      "url": "https://news.google.com/read/CBMidkFVX3lxTE5JeGJ5R2w5ZE5qd3ZwZzlYeDdZaklGZHh4TWY0YklKakRSd3c2QkRURGVPTTM0bG1TZnJTSGJFcXcxUlRWcC1FbThPNDJOQS1lUGhwellYbTUtTXhFZmlKclFLaEV4Rkc1c2h6cUdXSGEtNUhNYVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T19:11:52.000Z",
+      "pub_sort_dt": "2026-08-27 03:11:52"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "观点 与加拿大打贸易战，赢家只有一个 - The New York Times",
+      "title_cn": "观点与加拿大打贸易战，赢家只有一个 - 纽约时报",
+      "url": "https://news.google.com/read/CBMiiAFBVV95cUxNYWxCbW8zN0xBZUI1UGZaQTU2Z2pDSzVGWFJfVlZSRmhMX1ZhTWViMEFkSDAyWVJpT3dYVEtVWGdMRHlMWEpSQlNSa1JuVlBON0RrV0czWGppYkdJNDBPdUdfd3N1YVo0c3JMYTYtTXNzX19yUzlVRnpJVzVMSDYtQjA4QkRRd0pU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-26T19:00:06.000Z",
+      "pub_sort_dt": "2026-08-27 03:00:06"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "尼泊尔与中国边境突发山洪，数十人遇难，数百人失踪 - The Washington Post",
       "title_cn": "尼泊尔与中国边境突发山洪，失踪人员遇难，数百人失踪 - 《华盛顿邮报》",
       "url": "https://news.google.com/read/CBMisAFBVV95cUxQN1FkZE4wNzNobmlKZGg0SXJSRC1zbmpqZHpVRzhsbndWVGR5ZVBFN3Y1ZlVkRmdQNGJ5MldVNDJuRkZiT25rUVdGOFc0T0cxZGhyaE9RY0pyeTV0TVJHWU53Tk1wVzhQM1NXWS1uam9icWkzMWNoVE9JbVJtZUhhWnU2aXRqbmVRTTFvY2dMdXAtTkZLaDB4ZGlSMUMzMlJsR2t5akpBTDBNbnJ1LWFpbQ?hl=en-US&gl=US&ceid=US%3Aen",
@@ -279,60 +335,12 @@
       "pub_sort_dt": "2026-08-27 02:16:19"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国机器人大赛上的类人机器人跑得比乌塞恩·博尔特还快——但我更佩服它们运用镊子的娴熟技巧 - WIRED",
-      "title_cn": "中国机器人上的机器人跑得比乌塞恩·博尔特还快——但我更佩服他们运用大赛子的娴熟技巧 - WIRED",
-      "url": "https://news.google.com/read/CBMifkFVX3lxTE1PSUZxVXhjWjdDbzdCaFYzWVFXNUpHS2R1ZTEwRU9WYlZsQXBIejBkT3dTaDV6XzNGTHNfNS11MUtjc0k3X1FZNlNCY3ZsamgyelBHeXk5cy1jRmtrVVpRc0tHQko0eG9FZW11YzQzT045Q1k1bUFTR18yeVVSZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T18:15:00.000Z",
-      "pub_sort_dt": "2026-08-27 02:15:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "一段令人毛骨悚然的视频记录下尼泊尔与中国边境地区民众逃离即将袭来的泥石流的场景 - Fox News",
-      "title_cn": "一段令人毛骨悚然的视频记录下尼泊尔与中国边境地区民众关注即将袭来的泥石流的场景 - 福克斯新闻",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxOT09aTWFtbjgzWV9OSktoMERla0Y4SzBWdHlKamFaeFRVdlU1M3NFTm4tUXVyb0ZRb1lvTUVNaWlsejVGczRwaktJYl9BSlAzOTd1UW1qZXhxdU5pNDNtSVp0UU5QRGFkenljbUNxNHJUVkNqRTdySUNEeWRYeG80dlAtd3I5QTh2NUdBaWhaWnZIT3E1ZFB1Vk5DTEZuV2VJblVFM0o2c3p0UmPSAbABQVVfeXFMTTVrN1drcUV2SlJCQ09wODFGUVB0c1NjbVg3cUZxNnQ3cEdpZlVtMXJRaUN0dENnNHRTTFFYYl9PSjdTMUJKTDM3WGNTZUg5UGNMX3M4RndHc3BwYzd4VHJ2UDhzVkVUdDNoWjZqaUVaSTBsYk9lQ0RfaHhEclRKeERXSHNtVGluX3FScG1ET09tazA1YmdkbUZ2TDlhQWJ0bDc0NTl2eGNtaTc2VUk0dVg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T17:49:05.000Z",
-      "pub_sort_dt": "2026-08-27 01:49:05"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "是什么推动了中国在汽车领域的全球主导地位 - Axios",
-      "title_cn": "是什么推动了中国在汽车领域的全球主导地位 - Axios",
-      "url": "https://news.google.com/read/CBMib0FVX3lxTE5ZUURmUVotU3JsalZfWjFMenFOMVE5VXhDUC04VTgzZDlyTDF0ams3czktdXlVb3A0M2hRRWZwWlZQTnlhd25vR2JZSTlxZlE3RHNBQVFCaHJhMG1KMEdPLWc1NUU0RmZ0bm1VVDJuMA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T16:47:29.000Z",
-      "pub_sort_dt": "2026-08-27 00:47:29"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔和中国发生山洪暴发，造成至少98人死亡，数百人失踪 - CNBC",
-      "title_cn": "尼泊尔和中国发生山洪暴发，造成至少 98 人死亡，数百人失踪 - CNBC",
-      "url": "https://news.google.com/read/CBMiggFBVV95cUxPbDd2TXZwTlduaTR0d3paV0lsN21vQ3JPZ0oydTJha2o2WXA1ZUlhV3BUUmk0WDhmcEtQbzRpTzUtbU41X0FxUzJRc2UxQi1rNkFpb3VJLU1pbTl1UGNMTHAyblVrdHM0OGVNaVNEZlFsM1VDenlZN3Z5QjV1SHF4ZVhR0gGHAUFVX3lxTE5DUkRjVWZsRmF4a01XNkhvX2p4TUItOC05N2dIbF9yQktSNVh3aHZmbVlQNmhQbkt4azVJaDJrWDF2alh1dkdYX0NKQXlNZ0Ntdlk2NEpYcEVfaWFWcUVfZ0xrQWdrMjJkcGg3Wm9OQjJ0X21HN0hZY2l2azdCNi1NbEVjQUtlSQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T15:16:16.000Z",
-      "pub_sort_dt": "2026-08-26 23:16:16"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国称中国黑客入侵了司法部、美国宇航局、美联储、参议院等机构 - Reuters",
-      "title_cn": "美国称中国黑客入侵了司法部、美国宇航局、美联储、参议院等机构 - 路透社",
-      "url": "https://news.google.com/read/CBMiugFBVV95cUxPNWZiUFZqM2pSUlNEQmtJVEllRGF1a04tVG43Q0s2ZDYzME5GRlNsVEdaaW9ScDFDZFhyWElFbEVtQ1JGamZsMDRoaDhtRTJaQUNKaVh0VlpLYTBCVVRHUGtiWEZMdFBTTzBMdU5lV2tVUU11SUxubVVPcTNZVzRDM0Z4TGdDVVp4M085bXdmT1ZiV0Jvcjg3OC1QY0tYT1MtT0pxX3hIa0RZMFRLTTVuMElMY1I0VmFSY2c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T15:13:23.000Z",
-      "pub_sort_dt": "2026-08-26 23:13:23"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "别让中国来拯救古巴 - The Hill",
-      "title_cn": "别让中国来拯救古巴 - The Hill",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxOUnRGcURheTlvQzBuUERiOWEzLVFmdmhPQUlnQzRpUU5xa3NrWHBjUVdWMG9NSHVjb21IcWlLZG55NVhPcGhzUDVVcDc1bmxJbURGbGVpSF91b0ExNHh4a0Vncm51Zm5kU1NvcXRtdnR1MFVBYldLVENRYUdCd1VJaXg0cDJuamNiUzBIU2F6S0XSAZYBQVVfeXFMT2xzWDFhaXh5TkZMYjlIdXNhVmhObGJ6SnNpRDlMUkNEZVN2VEc1NE9kTU1kV1VKSTUxRzVTRHppWTJXcUQ4XzFVcHc4WFBfUWZyRWZadVlJSUFkMDc0TXctSHlQQnlIRmc0Ynl3MUhWWDdJb0VJaUR4ODZxNHlTLXh0OXVlSWRCQTNOZGFlRVNqV0Q3UkpR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T14:30:00.000Z",
-      "pub_sort_dt": "2026-08-26 22:30:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔和中国发生山洪暴发，造成至少98人死亡，数百人失踪 - PBS",
-      "title_cn": "尼泊尔和中国发生山洪暴发，造成至少98人死亡，数百人失踪 - PBS",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxPb3FBeUJZZC1kQTJzZkVJWi1FNUpDU1RKcmJiQnpNU2EybFlJQ0Rsb0FfdS1TZVlkS1B2RGJDYzdESk01dzhHREJXOHFralhaenplRDFVRVpXZndzdVR1OGpoeVZPQ1BYbkpmYUc1bV9mUTNpM3JGVzJpMjBtekFYSnpJNVNjV0tJRjNXZTQ3N2tPdm13VlgxcjRkUWhuSlFiOHQxeWdPQkI3YVE5aWwwNS0tSlFPcElIYXk1YXcwdmt6UWdTb0VR0gHMAUFVX3lxTFBnWmg1ZFU1R0ZKa1BpZkR3aVZ2TUF3LUc2YUFTMDdKZW5Ma1dRWVpzVmxXMndIeEhQZmh5VXhiaGg5UFdnNktUZUEteGkxOTNJZHpubFZheUw0RFBKZEdJSkg5d1NMWmlFYnBRTTVJU0YtUDM3WWNBcWR1VW9yYkhmcHMtUTdvbEtXMG05ZHRvVGxLRDdjQXEzQ3N2WW1pRGxRWHNSRk9xeFRkam9PRzBJNjkydHpWcW5jS2RiOE9aN3k2MkFJc0hmOUQ2MQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-26T13:58:46.000Z",
-      "pub_sort_dt": "2026-08-26 21:58:46"
+      "source": "Bloomberg",
+      "title_en": "中国对绿色氢能的大胆押注或将决定这种燃料的未来",
+      "title_cn": "中国对绿色氢能的参与或将决定这种燃料的未来",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-bold-bet-on-green-hydrogen-could-determine-fuel-s-future",
+      "pub_raw": "2026-08-26T23:17:42.871Z",
+      "pub_sort_dt": "2026-08-27 07:17:42"
     },
     {
       "source": "Wall Street Journal",
@@ -484,14 +492,6 @@
       "title_cn": "随着欧盟贸易紧张局势加剧，一些中国工人将布鲁塞尔视为首都",
       "url": "https://reut.rs/4y6aC3W",
       "pub_raw": "2026-08-26T10:29:38.993Z",
-      "pub_sort_dt": "2026-08-26 18:29:38"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "比尔·盖茨对人工智能感到担忧，他希望就一些政策构想与中国国家主席习近平进行讨论",
-      "title_cn": "比尔·盖茨对人工智能感到担忧，他希望就一些政策构想与中国国家主席习近平进行讨论",
-      "url": "https://reut.rs/3SfGd3Y",
-      "pub_raw": "2026-08-26T10:29:38.986Z",
       "pub_sort_dt": "2026-08-26 18:29:38"
     }
   ]
