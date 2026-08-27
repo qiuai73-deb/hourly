@@ -1,15 +1,55 @@
 {
-  "update_cst": "2026-08-27 18:01:02 北京时间",
+  "update_cst": "2026-08-27 22:01:12 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 1,
-    "Bloomberg": 13,
-    "Financial Times": 2,
-    "Wall Street Journal": 0,
-    "Reuters": 4
+    "The Economist": 2,
+    "Bloomberg": 11,
+    "Financial Times": 1,
+    "Wall Street Journal": 1,
+    "Reuters": 5
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "喜马拉雅山地区发生毁灭性洪灾后，尼泊尔和中国境内近1,500人失踪 - CNBC",
+      "title_cn": "喜马拉雅山地区发生毁灭性洪灾后，尼泊尔和中国境内近1,500人失踪 - CNBC",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxPLUZCeV94N0d5VE1fSzRhU1NrOHh4Y3EzTFhiMkx5STE3M3RLQm41cm9NMXlaSVk2RW9LYWNyNERmSG8tai1aaDJIV0dWNkNraTRYaGdrUG0tOVh2bzQ4d0RUNXY2Z1NCckxBRFB2aVlVQWd6VkF6WXlQU29ZRHV6eEtFaEdqSkxJRU9GeGtUd2RyYUpZ0gGaAUFVX3lxTE9UWjBfWGZ6YVdQbmUwRzJHM0ZUc3RFcndNY3ZveW4wcHNGNVI1T3QwZlB3TEJYNm92NndlN1lBc0hsSG5oWWRKcU51UVpZWnBrYTlLQzJMVTdHLVF2cm5QMXNZVWFzTWxyeExScDgtMEg0U3NoOWMyUGtSQ1VqcUhST29oNWRNalh3ckNsVzc1aGJfeGtRWUExckE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T11:16:50.000Z",
+      "pub_sort_dt": "2026-08-27 19:16:50"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国政府的长臂 - The Economist",
+      "title_cn": "中国政府的长臂 - 经济学人",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxQTVQ0MXM1ZkIzQk5YNjRONzJtbm8xbjZCYjFtaW8xQV9oUkJ4T0phNTI1aFAxWk5WZ3YycXpobUNLbTFZWHVXajExVjdqUVZwR3ZDV0lIREluQnJVOEp4YUhwY1d3aHlDWl91blR6dDhVN2lMZnVTRW1oSzZlRzFReFN3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T10:59:51.000Z",
+      "pub_sort_dt": "2026-08-27 18:59:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着北京的“冲击波”席卷非洲经济体，美国对华采取反制措施 - Fox News",
+      "title_cn": "随着北京“冲击波”席卷非洲经济体，美国对华采取反制措施 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxQZXUySk0wcUVXZUsyMFlJZ09nUVZIQm5IZGdHTG11c0U0UDc0ZDRaNUMxWkktSFY1NUUzN2dzcDZBVXRrLUY1UEJjdUhnbkNscUZQWE1ZVnV5bE1ELWdkeDN5ZzBZdzRLVmNDRWw3MlBGcHlua2VCVVZPS1JzQUJmd1JpUV9XWUVGR3NpeEhUV2luNmlQ0gGaAUFVX3lxTE9zLWZQajlzMWJaekxKMHNZTmxhcHdFeU5lX2VpcHpab25CRDFOWmkxX004MVFrM2tUeEtmcE9KQWpDbTNkMnhyODNFVVFmR0R5OS1tS09BNklhVUtmSHVZT2tuUU03S0xXWHVKZG5mSVhEUF9oY0RiX25fVFRDU2xKMC13SU04aV84clRiRDN2RVFZN0lzT01Xamc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T10:00:04.000Z",
+      "pub_sort_dt": "2026-08-27 18:00:04"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特朗普的“独特”外交给被拘留在中国的家庭带来了希望 - The Hill",
+      "title_cn": "特朗普的“独特”笨拙给被拘留的中国家庭带来了希望 - The Hill",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxNbk5qaG5vY1BpN09INV9ab2MyWWx2aXlycWRQcDNkWUI3X3d4NGtTY0JlSzFTUEJ5VnlBYXZWdTM2dXlmNjN0dXNubkFrS2RlREVPVlNuZnZpTVg4ck5rZk4yUVJwWm12LTBOTmo5bEptNG56WDNPc0NHR2xVanlqMENR0gGHAUFVX3lxTE9MWnVzMXpQSEhtSkp6cDRGNS1DTkJYbjdtNVI2OFhEeGUxcklyVEw4ZkZNNUxFMHp4Q0JHb3RjY2lLR29pOW1lbUUxMnJNV3B5ckljM2h6RXVSb1JVSWQtU21YRUNERGg4UEpjOC11ZGduOFhhTTduWUVpQV85bjJMaVpkSS1IMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T10:00:00.000Z",
+      "pub_sort_dt": "2026-08-27 18:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着中国加强半导体供应链建设，一位前教授成为亿万富翁 - Forbes",
+      "title_cn": "随着中国加强半导体供应链建设，一位前教授成为亿万富翁 - 福布斯",
+      "url": "https://news.google.com/read/CBMizAFBVV95cUxQZE5sTHZVejdHcU9aWVZ1Z3hiSEp1cnpFOVRqZHRVdzYzV3VHdmFVd0pRYVl5VFMxRm1WeTkxaHRYb0NkYlZZenRDMXBtY2wtNmN2ZWN3bGFSb1MyR3FuZVdIVUhXTnRDa2pFSngyR0ZieVQxTW1yODZERE5DMDR4SUxXZlBkYi14RThwajhha1NwV21VM0tyQURUakVIUlUwMlplUXpEd3VPSXhNR2JIMURMbUU3RVJhSjhmdF80UF95RjZ1RFl0N0VoUkY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T09:38:16.000Z",
+      "pub_sort_dt": "2026-08-27 17:38:16"
+    },
     {
       "source": "China Buzzing",
       "title_en": "美国调查对华芯片出口，英伟达正谋求一笔130亿美元的人工智能交易 - Bloomberg.com",
@@ -28,70 +68,78 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "看看尼泊尔的突发洪灾是如何造成大范围破坏的 - The New York Times",
+      "title_cn": "看看尼泊尔的突发洪灾是如何造成大范围破坏的 - 纽约时报",
+      "url": "https://news.google.com/read/CBMijwFBVV95cUxNczhaNEN1UEFrRThsalFDQldJb2hQcE5oZ3lyTHRkUS1YdEU0Qmxld1pvb0JySGF3MHluTWZyY3MxMnVzUXFMXzNZYnhGNmNOMmd6QUR4V3JjQmZ6Tk9HT3ZjSFZlVnN6Y0tHWlFBYU95WVd3emVFa2pyajZZbkxEb2VkSDRjVmY2eUNiNEllMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T08:50:00.000Z",
+      "pub_sort_dt": "2026-08-27 16:50:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国将通过一笔重大交易，为印度化肥招标项目提供大部分供应 - Bloomberg.com",
+      "title_cn": "中国将通过重大交易，为印度化肥招标项目提供大部分供应 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxNMDdlX3ItMmJ1THQxb0x4NGNtSUFfTVFHclNWWnE5UTlJa0NPUXA0MWV5dTB5RlJmNHJXbGlaa0VRV3F4SWE1QTJ6S08xdWhwS0ZFNDNldUk1bGk3cUJzMmQwZElQUnBfZ2xXQ3lzZlFVaFlKNmJMaHI0aEVyY2k3czJSNnZvSE12cE0xVDU3ck52OWczUVh2aFd3SEhaRnVaVUVSODNBd203anNnZmNWdGNRMEM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T08:20:20.000Z",
+      "pub_sort_dt": "2026-08-27 16:20:20"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "受英伟达亮眼财报提振，中国股市上涨；深圳JLC科技股价上涨10% - Moomoo",
-      "title_cn": "受英伟达亮眼财报提，中国股市上涨；深圳JLC科技股价振振10% - Moomoo",
+      "title_cn": "受英伟达亮眼财报提，中国股市上涨；深圳JLC科技股价振涨10% - Moomoo",
       "url": "https://news.google.com/read/CBMirgFBVV95cUxPQ2UyWThzOEJGaGNGdkw4TndCUWZadGF1X05QNnd3M3EtZDFuRjVSaWFFU0JKVk80VTFTZ0dGeVlFZXFRdVhjLVVBekpHZ20tYTc5OV92dmdPeVprRktkd0ZyOHdGcW5MOUxXV1gzVmVfSVpFTHhmR2x1VTFTZFdKODVUTmpUS2podXVDOGtEbXc1NVV3N1NEekhhTHNUMzIwYjdFRW5mR3hEREtrZGc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-27T08:18:09.000Z",
       "pub_sort_dt": "2026-08-27 16:18:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔救援人员正在搜寻这场毁灭性洪灾的幸存者，死亡人数持续攀升 - The Japan Times",
-      "title_cn": "尼泊尔人员正在搜寻洪灾的死亡人数，死亡人数持续攀升 - 日本时报",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxOT2lvTGVVTDJiYUlaVHhvR2pRRXBTZXZ4OGEwVDRyTnNVbmNUNy03Q1ViYy1QUkQtb3RyUkpMRFVrbm1KT2hmT291QUV6dVdwWTVuRnN2bDFUZndHMTAtRm8zcTh6SDBTWFh3Q0gxWGpmMjZXd2VvX1BqVEVBSXZiVHZfcGhTdkRncXR4WXpXVU5UcnZDUHBfQ09yQ1I1N1NTT0hqeHQ0bw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T08:15:00.000Z",
-      "pub_sort_dt": "2026-08-27 16:15:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在伊朗战争中，欧佩克在石油市场上的影响力减弱，而中国的影响力则日益增强 - Reuters",
-      "title_cn": "在伊朗中，欧佩克在石油市场上的影响力减弱，而中国的影响力战争则急剧增强 - 路透中文网",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxOdzQ5cjA0LVhLZTN3aEpkcDBvMXNmV3BnTHVtMFBzZnFfN05PSXFjZFAyUTZ3OEtBTnVCRDhIQXkwbGMwUFZSSTBLek9IbmNqTG16bGdlVlVjOHZ1ZER2c3Z5aXJuaV95ZFFObV9XZlYwNHNqdXcxN2FzeVRkSDF1OURPRThrUHhjOThzTEFyY1NBSG10Zlh4VXRTQWhzMXg3TGJINkRyWGhHLTd1NHc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T07:14:25.000Z",
-      "pub_sort_dt": "2026-08-27 15:14:25"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔-中国洪灾发生后，世界各地的人们都在焦急地寻找失踪亲人的消息 - CNN",
-      "title_cn": "尼泊尔-中国洪灾发生后，世界各地的人们都在焦急地寻找失踪亲人的消息 - CNN",
-      "url": "https://news.google.com/read/CBMihgFBVV95cUxNMmlXd3MyMkxFcVRLSHdJN0tTN2djQUMyLTBWNmdPdXlRQzhkc2EteUZlYklXWDJ5dW5VQXdLVkZWVGVRaVBoMXlaek42VkRMZGNDZXNycFpmTVhxaU9UYjF4RkU4dGdMajNXamtwSEV1SHN0bXhDdE1lbV9DQ1pDZkJCOVdZUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T06:52:01.000Z",
-      "pub_sort_dt": "2026-08-27 14:52:01"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔实时动态：洪灾肆虐尼泊尔和西藏，已造成至少160人死亡，数百人失踪 - The New York Times",
-      "title_cn": "尼泊尔实时动态：洪灾肆虐尼泊尔和西藏，已造成至少160人死亡，数百人失踪 - 纽约时报",
-      "url": "https://news.google.com/read/CBMiakFVX3lxTE1xYUczYWpscGpLQXZYdm5mNHJUOUM4LXFCeUtkaW83WmhJcGRCRTM3NGwyMjhrczlOTlljRGZ3dUp4MWE1emt6WEdDajRxN1BOX2ZXNkVmazVtWUZqcVl4Q2x4MTAtZWhkd3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T06:12:53.000Z",
-      "pub_sort_dt": "2026-08-27 14:12:53"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国外长呼吁中美双方在总统峰会前“克服障碍” - AP News",
-      "title_cn": "中国外长呼吁中美两国在总统峰会前“克服障碍” - 美联社新闻",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxPOGJWSi1oUWg4WHNTdG1KcDV3RTlPSXkzNWphR1VuTjNPWXNHaXFCOHcyVnZwUDFuMDQ0WWIxSHFKZUhURU9scURuWmJud0dKRzEybG1YYzFFaFppc2d5Y2pnbzFYb2JVUWFJc2FSYm84Unk4cUhnSFZVRkpubkNuYTVYS3dKdXVvbjhLWV9EMW0yMm9EQ3dpSw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T06:12:00.000Z",
-      "pub_sort_dt": "2026-08-27 14:12:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国的人形机器人还不够聪明，无法取代你的工作——至少目前还不能 - Reuters",
-      "title_cn": "中国的人形机器人还不够聪明，无法取代你的工作——至少目前还不能 - 路透社",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxOVTJ2ay1qRWJVMWZvZGExU0JfeWpqQ0tfRUNrNU5TZ3JzOUIyZGl5WnQ3VVJZMHdaT2hteV9IUkV1NHVMXzVqUGI1QlNoeFFibFUzVnR2bXV5WmFQYzFYb2RaX1N3RWVQVTJsYmFMdlQ1c2daSTVkejk5bG5nYWxkQ0k2OWxsc3ZXTGpyaXNaclNuLXF6RkZCbWV3SWZ3dFNsQWUyQ3lkdURQdkVVZXNz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T05:00:00.000Z",
-      "pub_sort_dt": "2026-08-27 13:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔灾后，中国发出山体滑坡预警 - Financial Times",
-      "title_cn": "尼泊尔灾后，中国发布山体滑坡预警 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQd1B4R1d5NjJySnJxUEowZnh1c1A3TWZnTDJxYWRvWExYZV9iWkRCZlFBRFBRU21DN3NSc3oxM0VSUWx3S0JLU0N3eUJaR2k3OE1pX2M4TUVoaERLdHVyN1BPUGRZdDBoQWVLNThBcF9icmNoZTVGOFUwNndBMDhkaDFFbG8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T04:34:24.000Z",
-      "pub_sort_dt": "2026-08-27 12:34:24"
     }
   ],
   "media_news": [
+    {
+      "source": "Wall Street Journal",
+      "title_en": "尼泊尔与中国交界地区洪水已造成1,450余人失踪、270人死亡，此次洪水很可能是冰川崩塌引发的",
+      "title_cn": "尼泊尔与中国交界地区洪水已造成1,450余人失踪、270人死亡，此次洪水很可能是冰川崩塌引发的",
+      "url": "https://on.wsj.com/4wUftEl",
+      "pub_raw": "2026-08-27T13:25:35.412Z",
+      "pub_sort_dt": "2026-08-27 21:25:35"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着债务压力加剧，中国万科亏损22亿美元",
+      "title_cn": "随着债务压力加剧，中国万科损失22亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/china-vanke-posts-2-2-billion-loss-as-debt-pressure-intensifies",
+      "pub_raw": "2026-08-27T12:37:18.956Z",
+      "pub_sort_dt": "2026-08-27 20:37:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "据称，Shein在确定香港IPO定价后将筹集17亿美元",
+      "title_cn": "股票，Shein在确定香港IPO定价后将认购17亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/shein-is-said-to-guide-hong-kong-ipo-price-to-middle-of-range",
+      "pub_raw": "2026-08-27T12:13:35.800Z",
+      "pub_sort_dt": "2026-08-27 20:13:35"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国政府的长臂",
+      "title_cn": "中国政府的长臂",
+      "url": "https://www.economist.com/china/2026/08/27/the-long-arm-of-the-chinese-state",
+      "pub_raw": "2026-08-27T11:49:14.976Z",
+      "pub_sort_dt": "2026-08-27 19:49:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "洪灾肆虐尼泊尔和中国，至少1400人失踪",
+      "title_cn": "洪灾肆虐尼泊尔和中国，至少1400人失踪",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/deadly-nepal-flood-kills-at-least-157-with-india-on-high-alert",
+      "pub_raw": "2026-08-27T11:49:14.784Z",
+      "pub_sort_dt": "2026-08-27 19:49:14"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "研究人员在中国产的Zbtlink路由器中发现了更多后门",
+      "title_cn": "研究人员在中国产的Zbtlink路由器中发现了更多后门",
+      "url": "https://reut.rs/4xWSb1w",
+      "pub_raw": "2026-08-27T11:17:15.346Z",
+      "pub_sort_dt": "2026-08-27 19:17:15"
+    },
     {
       "source": "Bloomberg",
       "title_en": "战争、中国、特朗普和人工智能共同造就了“永久性危机”",
@@ -103,7 +151,7 @@
     {
       "source": "The Economist",
       "title_en": "中国本应放松财政政策，但实际上却在采取相反的做法。",
-      "title_cn": "中国本应放松财政政策，但实际上却在采取相反的做法。",
+      "title_cn": "中国本应放松财政政策，但实际上却采取了相反的做法。",
       "url": "https://www.economist.com/finance-and-economics/2026/08/27/china-should-be-loosening-budgetary-policy-its-doing-the-opposite",
       "pub_raw": "2026-08-27T09:25:17.584Z",
       "pub_sort_dt": "2026-08-27 17:25:17"
@@ -111,7 +159,7 @@
     {
       "source": "Bloomberg",
       "title_en": "美国调查向中国出口芯片的情况，英伟达正瞄准一笔130亿美元的人工智能交易",
-      "title_cn": "美国调查向中国出口芯片的情况，英伟达正瞄准一笔130亿美元的人工智能交易",
+      "title_cn": "美国调查了中国出口芯片的情况，英伟达瞄准了130亿美元的人工智能交易",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-27/us-probes-chip-shipments-to-china-as-nvidia-eyes-13-billion-ai-deal",
       "pub_raw": "2026-08-27T09:09:10.467Z",
       "pub_sort_dt": "2026-08-27 17:09:10"
@@ -133,14 +181,6 @@
       "pub_sort_dt": "2026-08-27 16:37:35"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "尼泊尔-中国边境地区遭遇洪灾，至少1300人失踪",
-      "title_cn": "尼泊尔-中国边境地区遭遇洪灾，至少1300人失踪",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/deadly-nepal-flood-kills-at-least-157-with-india-on-high-alert",
-      "pub_raw": "2026-08-27T07:49:50.686Z",
-      "pub_sort_dt": "2026-08-27 15:49:50"
-    },
-    {
       "source": "Reuters",
       "title_en": "随着中国影响力日益增强，欧佩克在伊朗战争中丧失了对石油市场的主导权",
       "title_cn": "随着中国影响力急剧增强，欧佩克在伊朗战争中失去了对石油市场的主导权",
@@ -151,7 +191,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国Z.AI公布了热门Ox Alpha机型的价格和配置",
-      "title_cn": "中国Z.AI公布了热门Ox Alpha机型的价格和配置",
+      "title_cn": "中国Z.AI公布了热门Ox Alpha配件的价格和配置",
       "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "pub_raw": "2026-08-27T06:45:25.145Z",
       "pub_sort_dt": "2026-08-27 14:45:25"
@@ -175,7 +215,7 @@
     {
       "source": "Reuters",
       "title_en": "尼泊尔泥石流导致西藏失踪人数超过550人；中国警示上游风险",
-      "title_cn": "尼泊尔泥石流导致西藏失踪人数超过550人；中国警示上游风险",
+      "title_cn": "尼泊尔泥石流导致西藏失踪人数超过550人；中国警惕上游风险",
       "url": "https://reut.rs/4cbp4ix",
       "pub_raw": "2026-08-27T05:25:21.383Z",
       "pub_sort_dt": "2026-08-27 13:25:21"
@@ -183,7 +223,7 @@
     {
       "source": "Reuters",
       "title_en": "中国药品监管部门受理诺和诺德关于口服制剂Wegovy的申请",
-      "title_cn": "中国药品监管部门受理诺和诺德关于口服制剂Wegovy的申请",
+      "title_cn": "中国药品监管部门受理诺和诺德关于出口制剂Wegovy的申请",
       "url": "https://reut.rs/4qEWiN3",
       "pub_raw": "2026-08-27T04:53:26.945Z",
       "pub_sort_dt": "2026-08-27 12:53:26"
@@ -191,7 +231,7 @@
     {
       "source": "Financial Times",
       "title_en": "尼泊尔灾情发生后，中国警告可能发生山体滑坡",
-      "title_cn": "尼泊尔灾情发生后，中国警告可能发生山体滑坡",
+      "title_cn": "西藏地震发生后，中国警告可能发生山体滑坡",
       "url": "https://www.ft.com/content/7fbae161-96a0-4e72-9366-0f2f3f4667c8?syn-25a6b1a6=1",
       "pub_raw": "2026-08-27T04:53:26.875Z",
       "pub_sort_dt": "2026-08-27 12:53:26"
@@ -199,7 +239,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港开发商将空置的写字楼改造成外国留学生宿舍",
-      "title_cn": "香港开发商将空置的写字楼改造成外国留学生宿舍",
+      "title_cn": "香港将空置的写字楼改造成外国留学生宿舍",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-27/hong-kong-developers-turn-empty-office-towers-into-dorms-for-foreign-students",
       "pub_raw": "2026-08-27T03:49:12.909Z",
       "pub_sort_dt": "2026-08-27 11:49:12"
@@ -207,55 +247,55 @@
     {
       "source": "Bloomberg",
       "title_en": "台风“萨乌德”给已饱和的中国东南地区带来暴雨",
-      "title_cn": "台风“萨乌德”给已饱和的中国东南地区带来暴雨",
+      "title_cn": "台风“萨乌德”给已泄洪的中国东南地区带来暴雨",
       "url": "https://www.bloomberg.com/news/articles/2026-08-27/typhoon-saudel-brings-heavy-rain-to-saturated-southeastern-china",
       "pub_raw": "2026-08-27T03:33:15.519Z",
       "pub_sort_dt": "2026-08-27 11:33:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "是什么引发了尼泊尔与中国边境的致命山洪暴发",
-      "title_cn": "是什么引发了尼泊尔与中国边境的致命山洪暴发",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/what-fueled-the-deadly-flash-floods-on-the-nepal-china-border",
-      "pub_raw": "2026-08-27T03:01:21.628Z",
-      "pub_sort_dt": "2026-08-27 11:01:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港房价下跌，终结了自2018年以来最长的上涨期",
-      "title_cn": "香港房价下跌，终结了自2018年以来最长的上涨期",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/hong-kong-home-prices-dip-snap-longest-growth-run-since-2018",
-      "pub_raw": "2026-08-27T03:01:21.621Z",
-      "pub_sort_dt": "2026-08-27 11:01:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国工业利润增速放缓至今年最低水平",
-      "title_cn": "中国工业利润增速放缓至今年最低水平",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/china-s-industrial-profit-growth-slows-to-weakest-this-year",
-      "pub_raw": "2026-08-27T02:13:18.711Z",
-      "pub_sort_dt": "2026-08-27 10:13:18"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "普华永道在中国遭遇挫折，这对“四大”意味着什么？",
-      "title_cn": "普华永道在中国遭遇挫折，这对“四大”意味着什么？",
-      "url": "https://www.ft.com/content/37b8967f-1e6b-4fa9-b261-6f7765cdc6a0?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-27T01:57:15.422Z",
-      "pub_sort_dt": "2026-08-27 09:57:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国对绿色氢能的大胆押注或将决定这种燃料的未来",
-      "title_cn": "中国对绿色氢能的大胆押注或将决定这种燃料的未来",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-bold-bet-on-green-hydrogen-could-determine-fuel-s-future",
-      "pub_raw": "2026-08-26T23:17:42.871Z",
-      "pub_sort_dt": "2026-08-27 07:17:42"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "喜马拉雅山地区发生毁灭性洪灾后，尼泊尔和中国境内近1,500人失踪 - CNBC",
+      "title_cn": "喜马拉雅山地区发生毁灭性洪灾后，尼泊尔和中国境内近1,500人失踪 - CNBC",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxPLUZCeV94N0d5VE1fSzRhU1NrOHh4Y3EzTFhiMkx5STE3M3RLQm41cm9NMXlaSVk2RW9LYWNyNERmSG8tai1aaDJIV0dWNkNraTRYaGdrUG0tOVh2bzQ4d0RUNXY2Z1NCckxBRFB2aVlVQWd6VkF6WXlQU29ZRHV6eEtFaEdqSkxJRU9GeGtUd2RyYUpZ0gGaAUFVX3lxTE9UWjBfWGZ6YVdQbmUwRzJHM0ZUc3RFcndNY3ZveW4wcHNGNVI1T3QwZlB3TEJYNm92NndlN1lBc0hsSG5oWWRKcU51UVpZWnBrYTlLQzJMVTdHLVF2cm5QMXNZVWFzTWxyeExScDgtMEg0U3NoOWMyUGtSQ1VqcUhST29oNWRNalh3ckNsVzc1aGJfeGtRWUExckE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T11:16:50.000Z",
+      "pub_sort_dt": "2026-08-27 19:16:50"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国政府的长臂 - The Economist",
+      "title_cn": "中国政府的长臂 - 经济学人",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxQTVQ0MXM1ZkIzQk5YNjRONzJtbm8xbjZCYjFtaW8xQV9oUkJ4T0phNTI1aFAxWk5WZ3YycXpobUNLbTFZWHVXajExVjdqUVZwR3ZDV0lIREluQnJVOEp4YUhwY1d3aHlDWl91blR6dDhVN2lMZnVTRW1oSzZlRzFReFN3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T10:59:51.000Z",
+      "pub_sort_dt": "2026-08-27 18:59:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着北京的“冲击波”席卷非洲经济体，美国对华采取反制措施 - Fox News",
+      "title_cn": "随着北京“冲击波”席卷非洲经济体，美国对华采取反制措施 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxQZXUySk0wcUVXZUsyMFlJZ09nUVZIQm5IZGdHTG11c0U0UDc0ZDRaNUMxWkktSFY1NUUzN2dzcDZBVXRrLUY1UEJjdUhnbkNscUZQWE1ZVnV5bE1ELWdkeDN5ZzBZdzRLVmNDRWw3MlBGcHlua2VCVVZPS1JzQUJmd1JpUV9XWUVGR3NpeEhUV2luNmlQ0gGaAUFVX3lxTE9zLWZQajlzMWJaekxKMHNZTmxhcHdFeU5lX2VpcHpab25CRDFOWmkxX004MVFrM2tUeEtmcE9KQWpDbTNkMnhyODNFVVFmR0R5OS1tS09BNklhVUtmSHVZT2tuUU03S0xXWHVKZG5mSVhEUF9oY0RiX25fVFRDU2xKMC13SU04aV84clRiRDN2RVFZN0lzT01Xamc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T10:00:04.000Z",
+      "pub_sort_dt": "2026-08-27 18:00:04"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特朗普的“独特”外交给被拘留在中国的家庭带来了希望 - The Hill",
+      "title_cn": "特朗普的“独特”笨拙给被拘留的中国家庭带来了希望 - The Hill",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxNbk5qaG5vY1BpN09INV9ab2MyWWx2aXlycWRQcDNkWUI3X3d4NGtTY0JlSzFTUEJ5VnlBYXZWdTM2dXlmNjN0dXNubkFrS2RlREVPVlNuZnZpTVg4ck5rZk4yUVJwWm12LTBOTmo5bEptNG56WDNPc0NHR2xVanlqMENR0gGHAUFVX3lxTE9MWnVzMXpQSEhtSkp6cDRGNS1DTkJYbjdtNVI2OFhEeGUxcklyVEw4ZkZNNUxFMHp4Q0JHb3RjY2lLR29pOW1lbUUxMnJNV3B5ckljM2h6RXVSb1JVSWQtU21YRUNERGg4UEpjOC11ZGduOFhhTTduWUVpQV85bjJMaVpkSS1IMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T10:00:00.000Z",
+      "pub_sort_dt": "2026-08-27 18:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着中国加强半导体供应链建设，一位前教授成为亿万富翁 - Forbes",
+      "title_cn": "随着中国加强半导体供应链建设，一位前教授成为亿万富翁 - 福布斯",
+      "url": "https://news.google.com/read/CBMizAFBVV95cUxQZE5sTHZVejdHcU9aWVZ1Z3hiSEp1cnpFOVRqZHRVdzYzV3VHdmFVd0pRYVl5VFMxRm1WeTkxaHRYb0NkYlZZenRDMXBtY2wtNmN2ZWN3bGFSb1MyR3FuZVdIVUhXTnRDa2pFSngyR0ZieVQxTW1yODZERE5DMDR4SUxXZlBkYi14RThwajhha1NwV21VM0tyQURUakVIUlUwMlplUXpEd3VPSXhNR2JIMURMbUU3RVJhSjhmdF80UF95RjZ1RFl0N0VoUkY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T09:38:16.000Z",
+      "pub_sort_dt": "2026-08-27 17:38:16"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "美国调查对华芯片出口，英伟达正谋求一笔130亿美元的人工智能交易 - Bloomberg.com",
       "title_cn": "美国对华芯片出口调查，英伟达正谋划130亿美元的人工智能交易 - Bloomberg.com",
       "url": "https://news.google.com/read/CBMivgFBVV95cUxONUtXUTQxU3JfOVNocUE4RG82Z2NZaGhMekZKU3ZkNlBZUzF0SWVnLWR3LWJpNUh5RDFHTElLSVNOYVJnZmEtZEtUT0JTVnNuZS1pVmhHY0FVTWdOVUl2ampNaW5uc1dWQ1A4VzNicF9jM05iTm9GaXdkdnd0TmR0OTFFSm03Ulo1eEV5cWwtN21XZVh6UUQ3YjZNYTJzZ1hKbV9PdVUwenN6aXhKWXhOUWJSYUFiNkVWMjNlaHRn?hl=en-US&gl=US&ceid=US%3Aen",
@@ -272,67 +312,75 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "看看尼泊尔的突发洪灾是如何造成大范围破坏的 - The New York Times",
+      "title_cn": "看看尼泊尔的突发洪灾是如何造成大范围破坏的 - 纽约时报",
+      "url": "https://news.google.com/read/CBMijwFBVV95cUxNczhaNEN1UEFrRThsalFDQldJb2hQcE5oZ3lyTHRkUS1YdEU0Qmxld1pvb0JySGF3MHluTWZyY3MxMnVzUXFMXzNZYnhGNmNOMmd6QUR4V3JjQmZ6Tk9HT3ZjSFZlVnN6Y0tHWlFBYU95WVd3emVFa2pyajZZbkxEb2VkSDRjVmY2eUNiNEllMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T08:50:00.000Z",
+      "pub_sort_dt": "2026-08-27 16:50:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国将通过一笔重大交易，为印度化肥招标项目提供大部分供应 - Bloomberg.com",
+      "title_cn": "中国将通过重大交易，为印度化肥招标项目提供大部分供应 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxNMDdlX3ItMmJ1THQxb0x4NGNtSUFfTVFHclNWWnE5UTlJa0NPUXA0MWV5dTB5RlJmNHJXbGlaa0VRV3F4SWE1QTJ6S08xdWhwS0ZFNDNldUk1bGk3cUJzMmQwZElQUnBfZ2xXQ3lzZlFVaFlKNmJMaHI0aEVyY2k3czJSNnZvSE12cE0xVDU3ck52OWczUVh2aFd3SEhaRnVaVUVSODNBd203anNnZmNWdGNRMEM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-27T08:20:20.000Z",
+      "pub_sort_dt": "2026-08-27 16:20:20"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "受英伟达亮眼财报提振，中国股市上涨；深圳JLC科技股价上涨10% - Moomoo",
-      "title_cn": "受英伟达亮眼财报提，中国股市上涨；深圳JLC科技股价振振10% - Moomoo",
+      "title_cn": "受英伟达亮眼财报提，中国股市上涨；深圳JLC科技股价振涨10% - Moomoo",
       "url": "https://news.google.com/read/CBMirgFBVV95cUxPQ2UyWThzOEJGaGNGdkw4TndCUWZadGF1X05QNnd3M3EtZDFuRjVSaWFFU0JKVk80VTFTZ0dGeVlFZXFRdVhjLVVBekpHZ20tYTc5OV92dmdPeVprRktkd0ZyOHdGcW5MOUxXV1gzVmVfSVpFTHhmR2x1VTFTZFdKODVUTmpUS2podXVDOGtEbXc1NVV3N1NEekhhTHNUMzIwYjdFRW5mR3hEREtrZGc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-27T08:18:09.000Z",
       "pub_sort_dt": "2026-08-27 16:18:09"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔救援人员正在搜寻这场毁灭性洪灾的幸存者，死亡人数持续攀升 - The Japan Times",
-      "title_cn": "尼泊尔人员正在搜寻洪灾的死亡人数，死亡人数持续攀升 - 日本时报",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxOT2lvTGVVTDJiYUlaVHhvR2pRRXBTZXZ4OGEwVDRyTnNVbmNUNy03Q1ViYy1QUkQtb3RyUkpMRFVrbm1KT2hmT291QUV6dVdwWTVuRnN2bDFUZndHMTAtRm8zcTh6SDBTWFh3Q0gxWGpmMjZXd2VvX1BqVEVBSXZiVHZfcGhTdkRncXR4WXpXVU5UcnZDUHBfQ09yQ1I1N1NTT0hqeHQ0bw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T08:15:00.000Z",
-      "pub_sort_dt": "2026-08-27 16:15:00"
+      "source": "Wall Street Journal",
+      "title_en": "尼泊尔与中国交界地区洪水已造成1,450余人失踪、270人死亡，此次洪水很可能是冰川崩塌引发的",
+      "title_cn": "尼泊尔与中国交界地区洪水已造成1,450余人失踪、270人死亡，此次洪水很可能是冰川崩塌引发的",
+      "url": "https://on.wsj.com/4wUftEl",
+      "pub_raw": "2026-08-27T13:25:35.412Z",
+      "pub_sort_dt": "2026-08-27 21:25:35"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "在伊朗战争中，欧佩克在石油市场上的影响力减弱，而中国的影响力则日益增强 - Reuters",
-      "title_cn": "在伊朗中，欧佩克在石油市场上的影响力减弱，而中国的影响力战争则急剧增强 - 路透中文网",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxOdzQ5cjA0LVhLZTN3aEpkcDBvMXNmV3BnTHVtMFBzZnFfN05PSXFjZFAyUTZ3OEtBTnVCRDhIQXkwbGMwUFZSSTBLek9IbmNqTG16bGdlVlVjOHZ1ZER2c3Z5aXJuaV95ZFFObV9XZlYwNHNqdXcxN2FzeVRkSDF1OURPRThrUHhjOThzTEFyY1NBSG10Zlh4VXRTQWhzMXg3TGJINkRyWGhHLTd1NHc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T07:14:25.000Z",
-      "pub_sort_dt": "2026-08-27 15:14:25"
+      "source": "Bloomberg",
+      "title_en": "随着债务压力加剧，中国万科亏损22亿美元",
+      "title_cn": "随着债务压力加剧，中国万科损失22亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/china-vanke-posts-2-2-billion-loss-as-debt-pressure-intensifies",
+      "pub_raw": "2026-08-27T12:37:18.956Z",
+      "pub_sort_dt": "2026-08-27 20:37:18"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔-中国洪灾发生后，世界各地的人们都在焦急地寻找失踪亲人的消息 - CNN",
-      "title_cn": "尼泊尔-中国洪灾发生后，世界各地的人们都在焦急地寻找失踪亲人的消息 - CNN",
-      "url": "https://news.google.com/read/CBMihgFBVV95cUxNMmlXd3MyMkxFcVRLSHdJN0tTN2djQUMyLTBWNmdPdXlRQzhkc2EteUZlYklXWDJ5dW5VQXdLVkZWVGVRaVBoMXlaek42VkRMZGNDZXNycFpmTVhxaU9UYjF4RkU4dGdMajNXamtwSEV1SHN0bXhDdE1lbV9DQ1pDZkJCOVdZUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T06:52:01.000Z",
-      "pub_sort_dt": "2026-08-27 14:52:01"
+      "source": "Bloomberg",
+      "title_en": "据称，Shein在确定香港IPO定价后将筹集17亿美元",
+      "title_cn": "股票，Shein在确定香港IPO定价后将认购17亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/shein-is-said-to-guide-hong-kong-ipo-price-to-middle-of-range",
+      "pub_raw": "2026-08-27T12:13:35.800Z",
+      "pub_sort_dt": "2026-08-27 20:13:35"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔实时动态：洪灾肆虐尼泊尔和西藏，已造成至少160人死亡，数百人失踪 - The New York Times",
-      "title_cn": "尼泊尔实时动态：洪灾肆虐尼泊尔和西藏，已造成至少160人死亡，数百人失踪 - 纽约时报",
-      "url": "https://news.google.com/read/CBMiakFVX3lxTE1xYUczYWpscGpLQXZYdm5mNHJUOUM4LXFCeUtkaW83WmhJcGRCRTM3NGwyMjhrczlOTlljRGZ3dUp4MWE1emt6WEdDajRxN1BOX2ZXNkVmazVtWUZqcVl4Q2x4MTAtZWhkd3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T06:12:53.000Z",
-      "pub_sort_dt": "2026-08-27 14:12:53"
+      "source": "The Economist",
+      "title_en": "中国政府的长臂",
+      "title_cn": "中国政府的长臂",
+      "url": "https://www.economist.com/china/2026/08/27/the-long-arm-of-the-chinese-state",
+      "pub_raw": "2026-08-27T11:49:14.976Z",
+      "pub_sort_dt": "2026-08-27 19:49:14"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国外长呼吁中美双方在总统峰会前“克服障碍” - AP News",
-      "title_cn": "中国外长呼吁中美两国在总统峰会前“克服障碍” - 美联社新闻",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxPOGJWSi1oUWg4WHNTdG1KcDV3RTlPSXkzNWphR1VuTjNPWXNHaXFCOHcyVnZwUDFuMDQ0WWIxSHFKZUhURU9scURuWmJud0dKRzEybG1YYzFFaFppc2d5Y2pnbzFYb2JVUWFJc2FSYm84Unk4cUhnSFZVRkpubkNuYTVYS3dKdXVvbjhLWV9EMW0yMm9EQ3dpSw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T06:12:00.000Z",
-      "pub_sort_dt": "2026-08-27 14:12:00"
+      "source": "Bloomberg",
+      "title_en": "洪灾肆虐尼泊尔和中国，至少1400人失踪",
+      "title_cn": "洪灾肆虐尼泊尔和中国，至少1400人失踪",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/deadly-nepal-flood-kills-at-least-157-with-india-on-high-alert",
+      "pub_raw": "2026-08-27T11:49:14.784Z",
+      "pub_sort_dt": "2026-08-27 19:49:14"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国的人形机器人还不够聪明，无法取代你的工作——至少目前还不能 - Reuters",
-      "title_cn": "中国的人形机器人还不够聪明，无法取代你的工作——至少目前还不能 - 路透社",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxOVTJ2ay1qRWJVMWZvZGExU0JfeWpqQ0tfRUNrNU5TZ3JzOUIyZGl5WnQ3VVJZMHdaT2hteV9IUkV1NHVMXzVqUGI1QlNoeFFibFUzVnR2bXV5WmFQYzFYb2RaX1N3RWVQVTJsYmFMdlQ1c2daSTVkejk5bG5nYWxkQ0k2OWxsc3ZXTGpyaXNaclNuLXF6RkZCbWV3SWZ3dFNsQWUyQ3lkdURQdkVVZXNz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T05:00:00.000Z",
-      "pub_sort_dt": "2026-08-27 13:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔灾后，中国发出山体滑坡预警 - Financial Times",
-      "title_cn": "尼泊尔灾后，中国发布山体滑坡预警 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQd1B4R1d5NjJySnJxUEowZnh1c1A3TWZnTDJxYWRvWExYZV9iWkRCZlFBRFBRU21DN3NSc3oxM0VSUWx3S0JLU0N3eUJaR2k3OE1pX2M4TUVoaERLdHVyN1BPUGRZdDBoQWVLNThBcF9icmNoZTVGOFUwNndBMDhkaDFFbG8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-27T04:34:24.000Z",
-      "pub_sort_dt": "2026-08-27 12:34:24"
+      "source": "Reuters",
+      "title_en": "研究人员在中国产的Zbtlink路由器中发现了更多后门",
+      "title_cn": "研究人员在中国产的Zbtlink路由器中发现了更多后门",
+      "url": "https://reut.rs/4xWSb1w",
+      "pub_raw": "2026-08-27T11:17:15.346Z",
+      "pub_sort_dt": "2026-08-27 19:17:15"
     },
     {
       "source": "Bloomberg",
@@ -345,7 +393,7 @@
     {
       "source": "The Economist",
       "title_en": "中国本应放松财政政策，但实际上却在采取相反的做法。",
-      "title_cn": "中国本应放松财政政策，但实际上却在采取相反的做法。",
+      "title_cn": "中国本应放松财政政策，但实际上却采取了相反的做法。",
       "url": "https://www.economist.com/finance-and-economics/2026/08/27/china-should-be-loosening-budgetary-policy-its-doing-the-opposite",
       "pub_raw": "2026-08-27T09:25:17.584Z",
       "pub_sort_dt": "2026-08-27 17:25:17"
@@ -353,7 +401,7 @@
     {
       "source": "Bloomberg",
       "title_en": "美国调查向中国出口芯片的情况，英伟达正瞄准一笔130亿美元的人工智能交易",
-      "title_cn": "美国调查向中国出口芯片的情况，英伟达正瞄准一笔130亿美元的人工智能交易",
+      "title_cn": "美国调查了中国出口芯片的情况，英伟达瞄准了130亿美元的人工智能交易",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-27/us-probes-chip-shipments-to-china-as-nvidia-eyes-13-billion-ai-deal",
       "pub_raw": "2026-08-27T09:09:10.467Z",
       "pub_sort_dt": "2026-08-27 17:09:10"
@@ -375,14 +423,6 @@
       "pub_sort_dt": "2026-08-27 16:37:35"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "尼泊尔-中国边境地区遭遇洪灾，至少1300人失踪",
-      "title_cn": "尼泊尔-中国边境地区遭遇洪灾，至少1300人失踪",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/deadly-nepal-flood-kills-at-least-157-with-india-on-high-alert",
-      "pub_raw": "2026-08-27T07:49:50.686Z",
-      "pub_sort_dt": "2026-08-27 15:49:50"
-    },
-    {
       "source": "Reuters",
       "title_en": "随着中国影响力日益增强，欧佩克在伊朗战争中丧失了对石油市场的主导权",
       "title_cn": "随着中国影响力急剧增强，欧佩克在伊朗战争中失去了对石油市场的主导权",
@@ -393,7 +433,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国Z.AI公布了热门Ox Alpha机型的价格和配置",
-      "title_cn": "中国Z.AI公布了热门Ox Alpha机型的价格和配置",
+      "title_cn": "中国Z.AI公布了热门Ox Alpha配件的价格和配置",
       "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "pub_raw": "2026-08-27T06:45:25.145Z",
       "pub_sort_dt": "2026-08-27 14:45:25"
@@ -417,7 +457,7 @@
     {
       "source": "Reuters",
       "title_en": "尼泊尔泥石流导致西藏失踪人数超过550人；中国警示上游风险",
-      "title_cn": "尼泊尔泥石流导致西藏失踪人数超过550人；中国警示上游风险",
+      "title_cn": "尼泊尔泥石流导致西藏失踪人数超过550人；中国警惕上游风险",
       "url": "https://reut.rs/4cbp4ix",
       "pub_raw": "2026-08-27T05:25:21.383Z",
       "pub_sort_dt": "2026-08-27 13:25:21"
@@ -425,7 +465,7 @@
     {
       "source": "Reuters",
       "title_en": "中国药品监管部门受理诺和诺德关于口服制剂Wegovy的申请",
-      "title_cn": "中国药品监管部门受理诺和诺德关于口服制剂Wegovy的申请",
+      "title_cn": "中国药品监管部门受理诺和诺德关于出口制剂Wegovy的申请",
       "url": "https://reut.rs/4qEWiN3",
       "pub_raw": "2026-08-27T04:53:26.945Z",
       "pub_sort_dt": "2026-08-27 12:53:26"
@@ -433,7 +473,7 @@
     {
       "source": "Financial Times",
       "title_en": "尼泊尔灾情发生后，中国警告可能发生山体滑坡",
-      "title_cn": "尼泊尔灾情发生后，中国警告可能发生山体滑坡",
+      "title_cn": "西藏地震发生后，中国警告可能发生山体滑坡",
       "url": "https://www.ft.com/content/7fbae161-96a0-4e72-9366-0f2f3f4667c8?syn-25a6b1a6=1",
       "pub_raw": "2026-08-27T04:53:26.875Z",
       "pub_sort_dt": "2026-08-27 12:53:26"
@@ -441,7 +481,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港开发商将空置的写字楼改造成外国留学生宿舍",
-      "title_cn": "香港开发商将空置的写字楼改造成外国留学生宿舍",
+      "title_cn": "香港将空置的写字楼改造成外国留学生宿舍",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-27/hong-kong-developers-turn-empty-office-towers-into-dorms-for-foreign-students",
       "pub_raw": "2026-08-27T03:49:12.909Z",
       "pub_sort_dt": "2026-08-27 11:49:12"
@@ -449,50 +489,10 @@
     {
       "source": "Bloomberg",
       "title_en": "台风“萨乌德”给已饱和的中国东南地区带来暴雨",
-      "title_cn": "台风“萨乌德”给已饱和的中国东南地区带来暴雨",
+      "title_cn": "台风“萨乌德”给已泄洪的中国东南地区带来暴雨",
       "url": "https://www.bloomberg.com/news/articles/2026-08-27/typhoon-saudel-brings-heavy-rain-to-saturated-southeastern-china",
       "pub_raw": "2026-08-27T03:33:15.519Z",
       "pub_sort_dt": "2026-08-27 11:33:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "是什么引发了尼泊尔与中国边境的致命山洪暴发",
-      "title_cn": "是什么引发了尼泊尔与中国边境的致命山洪暴发",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/what-fueled-the-deadly-flash-floods-on-the-nepal-china-border",
-      "pub_raw": "2026-08-27T03:01:21.628Z",
-      "pub_sort_dt": "2026-08-27 11:01:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港房价下跌，终结了自2018年以来最长的上涨期",
-      "title_cn": "香港房价下跌，终结了自2018年以来最长的上涨期",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/hong-kong-home-prices-dip-snap-longest-growth-run-since-2018",
-      "pub_raw": "2026-08-27T03:01:21.621Z",
-      "pub_sort_dt": "2026-08-27 11:01:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国工业利润增速放缓至今年最低水平",
-      "title_cn": "中国工业利润增速放缓至今年最低水平",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/china-s-industrial-profit-growth-slows-to-weakest-this-year",
-      "pub_raw": "2026-08-27T02:13:18.711Z",
-      "pub_sort_dt": "2026-08-27 10:13:18"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "普华永道在中国遭遇挫折，这对“四大”意味着什么？",
-      "title_cn": "普华永道在中国遭遇挫折，这对“四大”意味着什么？",
-      "url": "https://www.ft.com/content/37b8967f-1e6b-4fa9-b261-6f7765cdc6a0?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-27T01:57:15.422Z",
-      "pub_sort_dt": "2026-08-27 09:57:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国对绿色氢能的大胆押注或将决定这种燃料的未来",
-      "title_cn": "中国对绿色氢能的大胆押注或将决定这种燃料的未来",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-bold-bet-on-green-hydrogen-could-determine-fuel-s-future",
-      "pub_raw": "2026-08-26T23:17:42.871Z",
-      "pub_sort_dt": "2026-08-27 07:17:42"
     }
   ]
 }
