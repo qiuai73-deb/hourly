@@ -1,97 +1,145 @@
 {
-  "update_cst": "2026-08-28 22:01:05 北京时间",
+  "update_cst": "2026-08-29 06:01:05 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 13,
+    "Bloomberg": 11,
     "Financial Times": 2,
     "Wall Street Journal": 0,
-    "Reuters": 5
+    "Reuters": 7
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国撤换中央军事委员会高级将领 - Reuters",
-      "title_cn": "中国撤换中央军事委员会高级将领 - Reuters",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxOZGdpVEN0UGhYb1lHSjN6dGk5YWZBTXJrX3N1R0dSbjhmUzlCZTJJVFZReFNBbG5iSWZIQVlnN3FPekJ4OXJ5RlJ4d0VkQkdITjdRVmY0UklpOUdPeTJPVVFXOWtFNzU0aG85LVlRdXVZRmdiU3ZCSE5ZZ1dpVWxpNVEtLVFDakNUQ01XVlV1V0hKcVI2X05TX1Vqb09uQXBLYjJwU1VvOFFHaXV5WDB6SVVDQTRBZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T11:19:26.000Z",
-      "pub_sort_dt": "2026-08-28 19:19:26"
+      "title_en": "中国AI“分身”们准备好近距离亮相，就业问题引发热议 - Financial Times",
+      "title_cn": "中国AI“分身”们准备好近距离亮相，就业问题引发热议 - Financial Times",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNZFBGdG1VS2pBN3RmSV93WDd4X01iaDVBaHprTnZ2X0p1a0ZlSWxtV2Jadk0zeFZteUp5VjZ4Ql84OUxLWWp6WU5CUnJGUEZHTmZTY0h2OFl6TFJuTncwTEZHenRvSFN5Y0NWNU04THFyZzc4b1ZSaW9ZdGNVcm5ycHlJNzM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T20:00:06.000Z",
+      "pub_sort_dt": "2026-08-29 04:00:06"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国对生物技术行业的强劲牛市构成威胁 - WSJ",
-      "title_cn": "中国对生物技术行业的强劲牛市构成威胁 - WSJ",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxNQ3dHb0pJVkxRR01BUHlFb2VYdHRwS0FVZ3BvUjhjZjR5enFoeDkwRVp5bkVqS05tb21JdmZnU2pDeE9vbklJa2pCMDZ1OWFZVUIwaUN6MGt3Zk5fbHo3X0dqSDUxMGxWX3hKM1drMjUyZFlCeWxKUG43aDRSM1pLMzE1eXBKYmdHTkhVQm80NEszLTJv?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T10:11:00.000Z",
-      "pub_sort_dt": "2026-08-28 18:11:00"
+      "title_en": "尼泊尔和西藏洪灾死亡人数超过500人，仍有数千人失踪 - DW.com",
+      "title_cn": "尼泊尔和西藏洪灾死亡人数超过500人，仍有数千人失踪 - DW.com",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxNMllxN3NwUE5EV2k5djVxcUpvUmpTclpUXzVjZ2pTOHpkUmtkUGQ1ZTRTWDdKOXJtQjBIb0dsTHF2Z0ozUG9lNW1JYXdibEpVWEtXNm13ODFTN0NDcjNITnFPeWJLc2VHS0FjRDBJT1FzRTh4LTlhUWsxZWY4ZThNR2p1MXJ2WHE2ZUs1d2lZZ0EydFVT0gGUAUFVX3lxTE0yUTVwVXVhV0xHMXFnSUVLUkVyMzdWRVFyajRMM2tGd3A3YkZrWXg3R0dZWHlTbUg1T0JZTWF3WE5QeFFJWnM5Zms0MHpWaENEa0hJVXFMa1d6T094OGdWRW1zLTZzaUM0dmFkMV9SblBlT2JPSkE3WXBJSzYwUjQ2NlhFYnloMmFPSVplLTJMVmpSZkI?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T19:11:29.000Z",
+      "pub_sort_dt": "2026-08-29 03:11:29"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国加强对电动汽车的监管，对汽车制造商展开突击检查 - Bloomberg.com",
-      "title_cn": "中国加强对电动汽车的监管，对汽车制造商展开突击检查 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxNbjVJVWQtelQ0ZUhoUUctek1xY3dDTGl3ZU44blNpUUtwdmNPbVpLcUowWXVmbXZXamR3WU8xcEVpUmdrZHhHaktfQjRycWdmejN5bTBVSnZ5dnRGaGNoalhtZ1VsaU40aVVzTjNpQ1pKVXBuUmY3MkNYN1hGcjUwd1VjX3hteWFiRlhQMkp4S3QzTWFyd0RQbmhDQWNlSXpBaV9mRFJFNHZxb3RrYVo5Mg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T10:00:19.000Z",
-      "pub_sort_dt": "2026-08-28 18:00:19"
+      "title_en": "在与中国的竞争背景下，特朗普下令成立美国“太空学院” - South China Morning Post",
+      "title_cn": "在与中国的竞争背景下，特朗普下令成立美国“太空学院” - South China Morning Post",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxNQUJVbk1FR0FDbm0tckVVWDQtRHl1dVZyUnIzejFvZE5NdUVVaEMtRkhHSGxOWHpKZzBRMWF2alh6SjNWd2pyZHRaLTBON3d3dmpacGpMTm9ZXzZlYUJrTDRMWFNoNjhsYVFvVTdGZkhKcDdMMmpPWE1PWVE0Yjl0bThjQV9pWjl5VFRITENxWFRNdWFNc1ZtWkE1cnR5QmR2YmF4MTFRNjJ4Wl9XajFIWXpyTF90ZXJMYWVGVi1oNHp6d3R20gHEAUFVX3lxTFA0WDVOSXlTOHN5RXpNMkJyNnRuQi1BRkVsTTF1NWhaNEFIUDBvN3E1MlA2bmJtNnZaUnlETmoxVlZwMGdsc3BQdmxnQ25GSVk0R2xKWkdEOTVLZUc0NEszRE5vb1NsSVdrMkxzSUF0blV6WGFlQzUxR3A2REQ3VVcwb2pLdHZ6MWlSRWd2Z0tpR1NBODdLaElpWTBQdjlWTGU5VHZJcXZwTk9BWUFjNFNmQ2JsSXFxSzg3UzVWT2FyQTczeHo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T19:07:43.000Z",
+      "pub_sort_dt": "2026-08-29 03:07:43"
     },
     {
       "source": "China Buzzing",
-      "title_en": "7月，台湾海域发现的中国政府船只数量创下历史新高 - CNN",
-      "title_cn": "7月，台湾海域发现的中国政府船只数量创下历史新高 - CNN",
-      "url": "https://news.google.com/read/CBMiekFVX3lxTE9UZVd5V0pObnoyY1B2bnMxenVaakx2UXpxTDlqV2xIYUR0MXdYUkpzbjFxVllVTlVFb19mcTJ6NzI1dUJFbmtCek1vRWlzRnc2N2EzNnJweUdLb2RiWjR3MTFienBNb1l4RzdlN2JmanpUbkZkcklaUkR3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T09:03:18.000Z",
-      "pub_sort_dt": "2026-08-28 17:03:18"
+      "title_en": "中国救援队在受洪水影响的喜马拉雅边境口岸发现“尽是废墟” - Reuters",
+      "title_cn": "中国救援队在受洪水影响的喜马拉雅边境口岸发现“尽是废墟” - Reuters",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxQNTU5TmV6N2N0dHN6Q293S0JVZjRwbGtkQ2lyV1ZpTUt0eTBTNDJvVkI1Qk5mTWFlM25yOUFQVG1VQWZqbjhrLVNRQU81UjBhakxqRmlETF9rVDNCUm4zUzVrY1dTaWlsMkoxeGpHYUREcjJvdldPX2hTTk5HVlU3anBIbGlQMlpuODB4OUdDNmJVSUdCeHQwZmMzd3pVRDFSRVFxeTBpWU9fZWh2NEhtbFJhT0pwUVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T19:03:30.000Z",
+      "pub_sort_dt": "2026-08-29 03:03:30"
     },
     {
       "source": "China Buzzing",
-      "title_en": "湖水泛滥导致救援工作受阻，尼泊尔和西藏地区洪灾死亡人数升至474人 - The Guardian",
-      "title_cn": "湖水泛滥导致救援工作受阻，尼泊尔和西藏地区洪灾死亡人数升至474人 - The Guardian",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxNVnluNExnWUJjLW9OeGNENVdNaU5xOWJ0TlM5b1lEdk1LYkZlQ2M0UDVZMXJUNDZRVWQxVFM3bnVWS1VhQ0hjT18weG5HYTFNZ1ZQQUpWUE1IMEFvSWxZTGR5dHNSajJfRW5ZWFQ5SmpwWGpnRjJHb290OWFwenFCdk5IbWF4clNiY3RkNkY2TFBXMzhjUGloWWhvTW9Jcm0yVTktdk9RUGQ2QVpTRVp4TFFpVm4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T05:45:00.000Z",
-      "pub_sort_dt": "2026-08-28 13:45:00"
+      "title_en": "如果给机器人赋予躯体：中国为争夺人工智能主导地位而推进的“具身化”战略 - The Christian Science Monitor",
+      "title_cn": "如果给机器人赋予躯体：中国为争夺人工智能主导地位而推进的“具身化”战略 - The Christian Science Monitor",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxQUVA3b240N3Z2WGlfV3FfNkt6RExGSjBIQl9HMkE1RkFaNDhVYkFxZVRCRHpQcXBWaURHVnA4a1Yza3BjLS16MXpCdm1BN2JIVi1pNFN6WkRxNVFNZ25JN0lHZ2YzMzQ4cVloTm16WFMzU3gzaU5TMHVJbWdKM2w1RHFLazI0aFpoMVVxczN0dklYQdIBqwFBVV95cUxONVJSZzljZFJUVnVOMV9VcGZCdUVVVG04WTh1cEs0Y3RKU3pkTkZPZmpMVHB3cDNyRVdmZFdURWxLbHpJY1J4bUdqZ0FfejFTZ3o1TkVxelJVSG5rVHExZjhOMl9uRW1ZWXo1cTdtUlVac205ZmxvRFNVc0ZYQWY1X21DN1JjTlpJbVBRRGNSTEpiNkpHRkRIb2xHN21fekVUSDhJRHhGTG1PM00?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T18:27:49.000Z",
+      "pub_sort_dt": "2026-08-29 02:27:49"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国向日本议员表示，台湾问题是紧张局势的核心 - Bloomberg.com",
-      "title_cn": "中国向日本议员表示，台湾问题是紧张局势的核心 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxOSE12aGFSV0ctZW9EdmVvalZVYWlhd3paLUJhT1gxLW95emRHamFNWmllc0hwaEJqMlZLZzBjY29lZlBtMk83S1VFcFhBa0M3ZFBPeGlZekw1b3paTnVpc2I0SHE3TU5NRXZwNFE5RDJVcFNtVU5Uc1VaZ3c5ZVZMUVRmNHpia095V2VDSDVaQzRFUmpkRUVDaW1XZUJXMVl3dXF3dHlVa2tleFJLclBadXNn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T04:45:00.000Z",
-      "pub_sort_dt": "2026-08-28 12:45:00"
+      "title_en": "Shein如何与中国达成和解，最终实现上市 - Reuters",
+      "title_cn": "Shein如何与中国达成和解，最终实现上市 - Reuters",
+      "url": "https://news.google.com/read/CBMirgFBVV95cUxPbmNmNVFvR0sxT0xUWHc3Y0E4UTFjUzFnaVpGRTMteFNhckVoUVdxcTlMaGJnTE43X2NVWDdmM1FJVG0zUzI1RllldVFaUFF2SmZDN2JoVUJuZHppMWh2UmtjcHFIUTAyQWl6cUZoQVhzcjAzN1JBX05FSHZXbUJ4a2dJa25QdGJxcG5jWjVpcVdJOVhDS2l2Zk1yZU5ZSmVxbWJzQ3ZhN2duRmhsUkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T17:26:54.000Z",
+      "pub_sort_dt": "2026-08-29 01:26:54"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国的“睿智骆驼”会是美伊战争的赢家吗？ - Financial Times",
-      "title_cn": "中国的“睿智骆驼”会是美伊战争的赢家吗？ - Financial Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxOdHl0LU95QnBUUlVaZzg4eWhrM0wwMnFQeF9hRnJxOElXNkp5bFcyV2RMZHpBazJaQ01MY25DMFJEdXFaQ285dksxTVlZMmhCRUY4Y21GTEtiUUFENnQ4aTdhTkQwN1kwOVdtYkxhNXZvTmZrNy1zUk9tZGEyR01MZkljdW8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T04:00:16.000Z",
-      "pub_sort_dt": "2026-08-28 12:00:16"
+      "title_en": "中国从美国近期的人工智能安全恐慌中看到了机遇 - The New York Times",
+      "title_cn": "中国从美国近期的人工智能安全恐慌中看到了机遇 - The New York Times",
+      "url": "https://news.google.com/read/CBMiigFBVV95cUxNcWFHS0xYa2x6MXU2dWl0SjZzLXNScUNfMlNLZ21GZXhQT25ZNEtwOUVBQXFhM3NZc3FvQ1Y5eE9vQnpiVmlpSms2SmV3a2ZiekQ0M3VHNEVWcnNtaGM5TVpxWExRN1ZMWlZwY3JDc3hNc0NjMDBSSUVwaERkU0JzTkV6RzMyVmxubnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T16:10:22.000Z",
+      "pub_sort_dt": "2026-08-29 00:10:22"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在贸易紧张局势下，中国对欧洲的绿色出口成为一抹亮色 - The Diplomat – Asia-Pacific",
-      "title_cn": "在贸易紧张局势下，中国对欧洲的绿色出口成为一抹亮色 - The Diplomat – Asia-Pacific",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxNY0ZsQnY1SFk5QnRZY2h0N2VuSko0QUxWSXdiOXZ1ZF9RY0RZTEprOXZxb1h3NmhaWDYyZDVoY09KVmZsQUU4UlNKaC16RmFTR3FGdGNKQXViWGVOeFRCU0lzdTlybWxwYkNKM0ttd1RxZllibVEyQkU3dE9KVkhiQnc4NjdfNmRtZTJSRWVtQ2o5eUFPNGhMcTRReloyQ0pFRndn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T03:34:41.000Z",
-      "pub_sort_dt": "2026-08-28 11:34:41"
+      "title_en": "与中方有关联的机器人账号助长了美国民众对人工智能数据中心的真实愤怒 - Axios",
+      "title_cn": "与中方有关联的机器人账号助长了美国民众对人工智能数据中心的真实愤怒 - Axios",
+      "url": "https://news.google.com/read/CBMidkFVX3lxTE5NcmR4M2dyQXBORXF0clRmR1E2bHBWZ3hGdEJCQmIyOEphU3VRSnFmX0Q5VmVjRVczNGdlZTAweFI5bGo3aW9nT3pyb0NVRFNpUmY4ZDJ1QzFpVFl4RTNsOFk4S2JENEhJYUs2Nzl3X1J5Z0JkNGc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T16:10:21.000Z",
+      "pub_sort_dt": "2026-08-29 00:10:21"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国正加紧采取措施，以最大限度地降低尼泊尔边境附近冰川碎石湖带来的风险 - Reuters",
-      "title_cn": "中国正加紧采取措施，以最大限度地降低尼泊尔边境附近冰川碎石湖带来的风险 - Reuters",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxNT1hIS3RucjdoUFAtckVOa3l5N2tHQk5KZGRzU1JmRnpUTVdHbHFXZDktd3RjNllOWDZLRFE5YnYxdUxGaDF3dWliVGdMSWRBdmNHZUtvWlhrTExOX241cDFIdy1MZjZ0ZHFwUEZjWGs0WVdUZUx3SUg4U0JLT0xUdHZjSHlZMDhudDJSNDNqbW9nbGpHaTJobmVtYVhGUG9VQWY1b0JQaTNQWmgtVGszU2czMERicjVmNTNrNFN4R1o5eDA2WEZB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T03:21:00.000Z",
-      "pub_sort_dt": "2026-08-28 11:21:00"
+      "title_en": "埃隆·马斯克旗下的X平台称，中国曾试图利用X煽动美国民众反对人工智能数据中心。这一做法奏效了吗？ - Business Insider",
+      "title_cn": "埃隆·马斯克旗下的X平台称，中国曾试图利用X煽动美国民众反对人工智能数据中心。这一做法奏效了吗？ - Business Insider",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxPTzF3UjN0aFh0ZndGWlRlU0dIcVprYTM3OUZBRXlYY0g2Rk5TLVliYnFjNkwzMzlnV2x5Tl9kZ3F2N3JVQ0tHaXpiQVZPX0JYcDl4WjlWN1d3Wl9seF94ZW80QjRiNDBFTEZpSGlTVHo2YjRxMTNmQnY0ZUJMMDR6Qnc1Y0pYb1lQYXd5VHVn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T15:49:39.000Z",
+      "pub_sort_dt": "2026-08-28 23:49:39"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在中美官员就习近平访美事宜举行会晤之际，特朗普对北京的强硬言论进一步升级 - CNBC",
-      "title_cn": "在中美官员就习近平访美事宜举行会晤之际，特朗普对北京的强硬言论进一步升级 - CNBC",
-      "url": "https://news.google.com/read/CBMiggFBVV95cUxQb3U2SThGRmpjMzg2OWxFU3Y0VXExcDJQem50Rl83NkpZTGhjejBxRDBHaEc3TFh0ZTE3U29iVFozU19qelhDMVhSZzNtcjlTVUJZM0ZXcHBrbDBEbE9lN1V0a1FKYUYzR3dXWkVZcFBQQjFpMWpXZEpMUU14NWdMZXBB0gGHAUFVX3lxTE9oOVdDNi1taHl4bXJIZ3NYSUhtMzlfajh2NUFfMDJrSU9wNFJHRlpOVlh1SEYtRzNsR3FrWGRBV2NjTWtUZjdmZ2FyMUc4SE1TOVpzN0FMcl92ZEZTV1NQNjEtekNFWDFheDZTaVZTc1BIRjVIbW5scG9wdWxIRUtMQkQ0YUVIYw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T01:35:00.000Z",
-      "pub_sort_dt": "2026-08-28 09:35:00"
+      "title_en": "中国一处大型机器人农场被发现正在开展针对美国的“影响力行动”，推动协调一致的网络叙事 - Fox News",
+      "title_cn": "中国一处大型机器人农场被发现正在开展针对美国的“影响力行动”，推动协调一致的网络叙事 - Fox News",
+      "url": "https://news.google.com/read/CBMi0gFBVV95cUxPYzE5SUNpTDYzOEVvNkNiQ0t0M0ZNT01oSExCQmlkVjlKWkJ3cVJ4bHVab3pMQTNKMHpmYURzc0RhaFlqVzR5eDhJZkF5bnRxaFdFQWpZcEk2Vm1ORVZGOEl5X2R5MTR6bWxBRG0zbVhtNWlBYU9ObzBXV2dJMUJZLXd4RWVkZmRRMFlucnFtMngwQm5YeUtSNGFjeVhESUhkUVNXT2s5ZUF1cy1tUlJHbVYtbTBMOVRjRlZPWjVUeGVkanJPdUdkREFmRERLN28wb2fSAdcBQVVfeXFMT0Q4UDRMUk5vRU1YNEZuN3Y2MlBjVWRpN2o1ZmFHY2NZbzJrX3Z2WlFncF9VZWUxcU1CVTZnR0EzR3J5T09Ma211c29YdGRDWmFRZ1Jic3d2M2s1cHo3cVBid0pSUEktWXNFS0tZS1RraXNfajJvZEhaS2tlNjByMjh0OGd2N0xPbDlFUU5nd2hsWC1qWUo1RGdsV1dPa3Rpc3EyZ0JPUUNJZkJJby1QMVcybHA5UUstMWh4NU8tTWdoaTNncnkyYUNpakdFVktMS2VXdy1fRFU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T15:32:29.000Z",
+      "pub_sort_dt": "2026-08-28 23:32:29"
     }
   ],
   "media_news": [
+    {
+      "source": "Financial Times",
+      "title_en": "中国AI“分身”准备亮相，就业问题引发关注",
+      "title_cn": "中国AI“分身”准备亮相，就业问题引发关注",
+      "url": "https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-28T20:52:36.633Z",
+      "pub_sort_dt": "2026-08-29 04:52:36"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国官员就“政府机构遭中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
+      "title_cn": "美国官员就“政府机构遭中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
+      "url": "https://reut.rs/46v3Okq",
+      "pub_raw": "2026-08-28T20:21:04.759Z",
+      "pub_sort_dt": "2026-08-29 04:21:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国汽车制造商正瞄准英国标志性的路虎品牌",
+      "title_cn": "中国汽车制造商正瞄准英国标志性的路虎品牌",
+      "url": "https://www.bloomberg.com/opinion/newsletters/2026-08-28/china-s-carmakers-are-coming-for-britain-s-iconic-land-rover",
+      "pub_raw": "2026-08-28T15:48:36.656Z",
+      "pub_sort_dt": "2026-08-28 23:48:36"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "评论：周末读物：Meta的人工智能反抗、中国的权力博弈、美联储的表态之争",
+      "title_cn": "评论：周末读物：Meta的人工智能反抗、中国的权力博弈、美联储的表态之争",
+      "url": "https://reut.rs/4zF4qRW",
+      "pub_raw": "2026-08-28T14:44:32.975Z",
+      "pub_sort_dt": "2026-08-28 22:44:32"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "习近平的军事清洗导致亲信被逐出中国立法机构",
+      "title_cn": "习近平的军事清洗导致亲信被逐出中国立法机构",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/xi-s-military-purge-sees-loyalists-ousted-from-china-legislature",
+      "pub_raw": "2026-08-28T13:56:25.900Z",
+      "pub_sort_dt": "2026-08-28 21:56:25"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国将多名高级将领从中央军事委员会中撤职",
+      "title_cn": "中国将多名高级将领从中央军事委员会中撤职",
+      "url": "https://reut.rs/4zH0QGX",
+      "pub_raw": "2026-08-28T13:56:25.746Z",
+      "pub_sort_dt": "2026-08-28 21:56:25"
+    },
     {
       "source": "Bloomberg",
       "title_en": "荷兰情报机构寻求广泛权力以应对中国和俄罗斯",
@@ -203,136 +251,136 @@
       "url": "https://reut.rs/4hYG3Zd",
       "pub_raw": "2026-08-28T06:29:22.727Z",
       "pub_sort_dt": "2026-08-28 14:29:22"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受中国市场需求疲软影响，丰田汽车销量连续第六个月下滑",
-      "title_cn": "受中国市场需求疲软影响，丰田汽车销量连续第六个月下滑",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/toyota-sales-fall-for-six-straight-months-on-weak-china-demand",
-      "pub_raw": "2026-08-28T06:13:50.886Z",
-      "pub_sort_dt": "2026-08-28 14:13:50"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "受中国和中东市场销量大幅下滑影响，丰田销量和产量双双下滑",
-      "title_cn": "受中国和中东市场销量大幅下滑影响，丰田销量和产量双双下滑",
-      "url": "https://reut.rs/4c9NmcQ",
-      "pub_raw": "2026-08-28T05:41:25.296Z",
-      "pub_sort_dt": "2026-08-28 13:41:25"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国向日本议员表示，台湾问题是紧张局势的核心",
-      "title_cn": "中国向日本议员表示，台湾问题是紧张局势的核心",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/china-tells-japanese-lawmakers-taiwan-is-at-heart-of-tensions",
-      "pub_raw": "2026-08-28T05:10:02.038Z",
-      "pub_sort_dt": "2026-08-28 13:10:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着混合动力车型销量激增，中国车企在欧洲的市场份额不断扩大",
-      "title_cn": "随着混合动力车型销量激增，中国车企在欧洲的市场份额不断扩大",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/chinese-carmakers-grow-market-share-in-europe-with-hybrid-surge",
-      "pub_raw": "2026-08-28T04:21:16.059Z",
-      "pub_sort_dt": "2026-08-28 12:21:16"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国的“睿智骆驼”会是美伊战争的赢家吗？",
-      "title_cn": "中国的“睿智骆驼”会是美伊战争的赢家吗？",
-      "url": "https://www.ft.com/content/42935d28-2998-4c1b-a2f3-82ec0e462ec4?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-28T04:21:15.637Z",
-      "pub_sort_dt": "2026-08-28 12:21:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国铜冶炼厂通过销售高价酸获利",
-      "title_cn": "中国铜冶炼厂通过销售高价酸获利",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/china-s-copper-smelters-get-boost-from-selling-expensive-acid",
-      "pub_raw": "2026-08-28T04:05:19.198Z",
-      "pub_sort_dt": "2026-08-28 12:05:19"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国撤换中央军事委员会高级将领 - Reuters",
-      "title_cn": "中国撤换中央军事委员会高级将领 - Reuters",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxOZGdpVEN0UGhYb1lHSjN6dGk5YWZBTXJrX3N1R0dSbjhmUzlCZTJJVFZReFNBbG5iSWZIQVlnN3FPekJ4OXJ5RlJ4d0VkQkdITjdRVmY0UklpOUdPeTJPVVFXOWtFNzU0aG85LVlRdXVZRmdiU3ZCSE5ZZ1dpVWxpNVEtLVFDakNUQ01XVlV1V0hKcVI2X05TX1Vqb09uQXBLYjJwU1VvOFFHaXV5WDB6SVVDQTRBZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T11:19:26.000Z",
-      "pub_sort_dt": "2026-08-28 19:19:26"
+      "title_en": "中国AI“分身”们准备好近距离亮相，就业问题引发热议 - Financial Times",
+      "title_cn": "中国AI“分身”们准备好近距离亮相，就业问题引发热议 - Financial Times",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNZFBGdG1VS2pBN3RmSV93WDd4X01iaDVBaHprTnZ2X0p1a0ZlSWxtV2Jadk0zeFZteUp5VjZ4Ql84OUxLWWp6WU5CUnJGUEZHTmZTY0h2OFl6TFJuTncwTEZHenRvSFN5Y0NWNU04THFyZzc4b1ZSaW9ZdGNVcm5ycHlJNzM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T20:00:06.000Z",
+      "pub_sort_dt": "2026-08-29 04:00:06"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国对生物技术行业的强劲牛市构成威胁 - WSJ",
-      "title_cn": "中国对生物技术行业的强劲牛市构成威胁 - WSJ",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxNQ3dHb0pJVkxRR01BUHlFb2VYdHRwS0FVZ3BvUjhjZjR5enFoeDkwRVp5bkVqS05tb21JdmZnU2pDeE9vbklJa2pCMDZ1OWFZVUIwaUN6MGt3Zk5fbHo3X0dqSDUxMGxWX3hKM1drMjUyZFlCeWxKUG43aDRSM1pLMzE1eXBKYmdHTkhVQm80NEszLTJv?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T10:11:00.000Z",
-      "pub_sort_dt": "2026-08-28 18:11:00"
+      "title_en": "尼泊尔和西藏洪灾死亡人数超过500人，仍有数千人失踪 - DW.com",
+      "title_cn": "尼泊尔和西藏洪灾死亡人数超过500人，仍有数千人失踪 - DW.com",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxNMllxN3NwUE5EV2k5djVxcUpvUmpTclpUXzVjZ2pTOHpkUmtkUGQ1ZTRTWDdKOXJtQjBIb0dsTHF2Z0ozUG9lNW1JYXdibEpVWEtXNm13ODFTN0NDcjNITnFPeWJLc2VHS0FjRDBJT1FzRTh4LTlhUWsxZWY4ZThNR2p1MXJ2WHE2ZUs1d2lZZ0EydFVT0gGUAUFVX3lxTE0yUTVwVXVhV0xHMXFnSUVLUkVyMzdWRVFyajRMM2tGd3A3YkZrWXg3R0dZWHlTbUg1T0JZTWF3WE5QeFFJWnM5Zms0MHpWaENEa0hJVXFMa1d6T094OGdWRW1zLTZzaUM0dmFkMV9SblBlT2JPSkE3WXBJSzYwUjQ2NlhFYnloMmFPSVplLTJMVmpSZkI?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T19:11:29.000Z",
+      "pub_sort_dt": "2026-08-29 03:11:29"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国加强对电动汽车的监管，对汽车制造商展开突击检查 - Bloomberg.com",
-      "title_cn": "中国加强对电动汽车的监管，对汽车制造商展开突击检查 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxNbjVJVWQtelQ0ZUhoUUctek1xY3dDTGl3ZU44blNpUUtwdmNPbVpLcUowWXVmbXZXamR3WU8xcEVpUmdrZHhHaktfQjRycWdmejN5bTBVSnZ5dnRGaGNoalhtZ1VsaU40aVVzTjNpQ1pKVXBuUmY3MkNYN1hGcjUwd1VjX3hteWFiRlhQMkp4S3QzTWFyd0RQbmhDQWNlSXpBaV9mRFJFNHZxb3RrYVo5Mg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T10:00:19.000Z",
-      "pub_sort_dt": "2026-08-28 18:00:19"
+      "title_en": "在与中国的竞争背景下，特朗普下令成立美国“太空学院” - South China Morning Post",
+      "title_cn": "在与中国的竞争背景下，特朗普下令成立美国“太空学院” - South China Morning Post",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxNQUJVbk1FR0FDbm0tckVVWDQtRHl1dVZyUnIzejFvZE5NdUVVaEMtRkhHSGxOWHpKZzBRMWF2alh6SjNWd2pyZHRaLTBON3d3dmpacGpMTm9ZXzZlYUJrTDRMWFNoNjhsYVFvVTdGZkhKcDdMMmpPWE1PWVE0Yjl0bThjQV9pWjl5VFRITENxWFRNdWFNc1ZtWkE1cnR5QmR2YmF4MTFRNjJ4Wl9XajFIWXpyTF90ZXJMYWVGVi1oNHp6d3R20gHEAUFVX3lxTFA0WDVOSXlTOHN5RXpNMkJyNnRuQi1BRkVsTTF1NWhaNEFIUDBvN3E1MlA2bmJtNnZaUnlETmoxVlZwMGdsc3BQdmxnQ25GSVk0R2xKWkdEOTVLZUc0NEszRE5vb1NsSVdrMkxzSUF0blV6WGFlQzUxR3A2REQ3VVcwb2pLdHZ6MWlSRWd2Z0tpR1NBODdLaElpWTBQdjlWTGU5VHZJcXZwTk9BWUFjNFNmQ2JsSXFxSzg3UzVWT2FyQTczeHo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T19:07:43.000Z",
+      "pub_sort_dt": "2026-08-29 03:07:43"
     },
     {
       "source": "China Buzzing",
-      "title_en": "7月，台湾海域发现的中国政府船只数量创下历史新高 - CNN",
-      "title_cn": "7月，台湾海域发现的中国政府船只数量创下历史新高 - CNN",
-      "url": "https://news.google.com/read/CBMiekFVX3lxTE9UZVd5V0pObnoyY1B2bnMxenVaakx2UXpxTDlqV2xIYUR0MXdYUkpzbjFxVllVTlVFb19mcTJ6NzI1dUJFbmtCek1vRWlzRnc2N2EzNnJweUdLb2RiWjR3MTFienBNb1l4RzdlN2JmanpUbkZkcklaUkR3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T09:03:18.000Z",
-      "pub_sort_dt": "2026-08-28 17:03:18"
+      "title_en": "中国救援队在受洪水影响的喜马拉雅边境口岸发现“尽是废墟” - Reuters",
+      "title_cn": "中国救援队在受洪水影响的喜马拉雅边境口岸发现“尽是废墟” - Reuters",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxQNTU5TmV6N2N0dHN6Q293S0JVZjRwbGtkQ2lyV1ZpTUt0eTBTNDJvVkI1Qk5mTWFlM25yOUFQVG1VQWZqbjhrLVNRQU81UjBhakxqRmlETF9rVDNCUm4zUzVrY1dTaWlsMkoxeGpHYUREcjJvdldPX2hTTk5HVlU3anBIbGlQMlpuODB4OUdDNmJVSUdCeHQwZmMzd3pVRDFSRVFxeTBpWU9fZWh2NEhtbFJhT0pwUVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T19:03:30.000Z",
+      "pub_sort_dt": "2026-08-29 03:03:30"
     },
     {
       "source": "China Buzzing",
-      "title_en": "湖水泛滥导致救援工作受阻，尼泊尔和西藏地区洪灾死亡人数升至474人 - The Guardian",
-      "title_cn": "湖水泛滥导致救援工作受阻，尼泊尔和西藏地区洪灾死亡人数升至474人 - The Guardian",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxNVnluNExnWUJjLW9OeGNENVdNaU5xOWJ0TlM5b1lEdk1LYkZlQ2M0UDVZMXJUNDZRVWQxVFM3bnVWS1VhQ0hjT18weG5HYTFNZ1ZQQUpWUE1IMEFvSWxZTGR5dHNSajJfRW5ZWFQ5SmpwWGpnRjJHb290OWFwenFCdk5IbWF4clNiY3RkNkY2TFBXMzhjUGloWWhvTW9Jcm0yVTktdk9RUGQ2QVpTRVp4TFFpVm4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T05:45:00.000Z",
-      "pub_sort_dt": "2026-08-28 13:45:00"
+      "title_en": "如果给机器人赋予躯体：中国为争夺人工智能主导地位而推进的“具身化”战略 - The Christian Science Monitor",
+      "title_cn": "如果给机器人赋予躯体：中国为争夺人工智能主导地位而推进的“具身化”战略 - The Christian Science Monitor",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxQUVA3b240N3Z2WGlfV3FfNkt6RExGSjBIQl9HMkE1RkFaNDhVYkFxZVRCRHpQcXBWaURHVnA4a1Yza3BjLS16MXpCdm1BN2JIVi1pNFN6WkRxNVFNZ25JN0lHZ2YzMzQ4cVloTm16WFMzU3gzaU5TMHVJbWdKM2w1RHFLazI0aFpoMVVxczN0dklYQdIBqwFBVV95cUxONVJSZzljZFJUVnVOMV9VcGZCdUVVVG04WTh1cEs0Y3RKU3pkTkZPZmpMVHB3cDNyRVdmZFdURWxLbHpJY1J4bUdqZ0FfejFTZ3o1TkVxelJVSG5rVHExZjhOMl9uRW1ZWXo1cTdtUlVac205ZmxvRFNVc0ZYQWY1X21DN1JjTlpJbVBRRGNSTEpiNkpHRkRIb2xHN21fekVUSDhJRHhGTG1PM00?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T18:27:49.000Z",
+      "pub_sort_dt": "2026-08-29 02:27:49"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国向日本议员表示，台湾问题是紧张局势的核心 - Bloomberg.com",
-      "title_cn": "中国向日本议员表示，台湾问题是紧张局势的核心 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxOSE12aGFSV0ctZW9EdmVvalZVYWlhd3paLUJhT1gxLW95emRHamFNWmllc0hwaEJqMlZLZzBjY29lZlBtMk83S1VFcFhBa0M3ZFBPeGlZekw1b3paTnVpc2I0SHE3TU5NRXZwNFE5RDJVcFNtVU5Uc1VaZ3c5ZVZMUVRmNHpia095V2VDSDVaQzRFUmpkRUVDaW1XZUJXMVl3dXF3dHlVa2tleFJLclBadXNn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T04:45:00.000Z",
-      "pub_sort_dt": "2026-08-28 12:45:00"
+      "title_en": "Shein如何与中国达成和解，最终实现上市 - Reuters",
+      "title_cn": "Shein如何与中国达成和解，最终实现上市 - Reuters",
+      "url": "https://news.google.com/read/CBMirgFBVV95cUxPbmNmNVFvR0sxT0xUWHc3Y0E4UTFjUzFnaVpGRTMteFNhckVoUVdxcTlMaGJnTE43X2NVWDdmM1FJVG0zUzI1RllldVFaUFF2SmZDN2JoVUJuZHppMWh2UmtjcHFIUTAyQWl6cUZoQVhzcjAzN1JBX05FSHZXbUJ4a2dJa25QdGJxcG5jWjVpcVdJOVhDS2l2Zk1yZU5ZSmVxbWJzQ3ZhN2duRmhsUkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T17:26:54.000Z",
+      "pub_sort_dt": "2026-08-29 01:26:54"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国的“睿智骆驼”会是美伊战争的赢家吗？ - Financial Times",
-      "title_cn": "中国的“睿智骆驼”会是美伊战争的赢家吗？ - Financial Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxOdHl0LU95QnBUUlVaZzg4eWhrM0wwMnFQeF9hRnJxOElXNkp5bFcyV2RMZHpBazJaQ01MY25DMFJEdXFaQ285dksxTVlZMmhCRUY4Y21GTEtiUUFENnQ4aTdhTkQwN1kwOVdtYkxhNXZvTmZrNy1zUk9tZGEyR01MZkljdW8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T04:00:16.000Z",
-      "pub_sort_dt": "2026-08-28 12:00:16"
+      "title_en": "中国从美国近期的人工智能安全恐慌中看到了机遇 - The New York Times",
+      "title_cn": "中国从美国近期的人工智能安全恐慌中看到了机遇 - The New York Times",
+      "url": "https://news.google.com/read/CBMiigFBVV95cUxNcWFHS0xYa2x6MXU2dWl0SjZzLXNScUNfMlNLZ21GZXhQT25ZNEtwOUVBQXFhM3NZc3FvQ1Y5eE9vQnpiVmlpSms2SmV3a2ZiekQ0M3VHNEVWcnNtaGM5TVpxWExRN1ZMWlZwY3JDc3hNc0NjMDBSSUVwaERkU0JzTkV6RzMyVmxubnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T16:10:22.000Z",
+      "pub_sort_dt": "2026-08-29 00:10:22"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在贸易紧张局势下，中国对欧洲的绿色出口成为一抹亮色 - The Diplomat – Asia-Pacific",
-      "title_cn": "在贸易紧张局势下，中国对欧洲的绿色出口成为一抹亮色 - The Diplomat – Asia-Pacific",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxNY0ZsQnY1SFk5QnRZY2h0N2VuSko0QUxWSXdiOXZ1ZF9RY0RZTEprOXZxb1h3NmhaWDYyZDVoY09KVmZsQUU4UlNKaC16RmFTR3FGdGNKQXViWGVOeFRCU0lzdTlybWxwYkNKM0ttd1RxZllibVEyQkU3dE9KVkhiQnc4NjdfNmRtZTJSRWVtQ2o5eUFPNGhMcTRReloyQ0pFRndn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T03:34:41.000Z",
-      "pub_sort_dt": "2026-08-28 11:34:41"
+      "title_en": "与中方有关联的机器人账号助长了美国民众对人工智能数据中心的真实愤怒 - Axios",
+      "title_cn": "与中方有关联的机器人账号助长了美国民众对人工智能数据中心的真实愤怒 - Axios",
+      "url": "https://news.google.com/read/CBMidkFVX3lxTE5NcmR4M2dyQXBORXF0clRmR1E2bHBWZ3hGdEJCQmIyOEphU3VRSnFmX0Q5VmVjRVczNGdlZTAweFI5bGo3aW9nT3pyb0NVRFNpUmY4ZDJ1QzFpVFl4RTNsOFk4S2JENEhJYUs2Nzl3X1J5Z0JkNGc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T16:10:21.000Z",
+      "pub_sort_dt": "2026-08-29 00:10:21"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国正加紧采取措施，以最大限度地降低尼泊尔边境附近冰川碎石湖带来的风险 - Reuters",
-      "title_cn": "中国正加紧采取措施，以最大限度地降低尼泊尔边境附近冰川碎石湖带来的风险 - Reuters",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxNT1hIS3RucjdoUFAtckVOa3l5N2tHQk5KZGRzU1JmRnpUTVdHbHFXZDktd3RjNllOWDZLRFE5YnYxdUxGaDF3dWliVGdMSWRBdmNHZUtvWlhrTExOX241cDFIdy1MZjZ0ZHFwUEZjWGs0WVdUZUx3SUg4U0JLT0xUdHZjSHlZMDhudDJSNDNqbW9nbGpHaTJobmVtYVhGUG9VQWY1b0JQaTNQWmgtVGszU2czMERicjVmNTNrNFN4R1o5eDA2WEZB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T03:21:00.000Z",
-      "pub_sort_dt": "2026-08-28 11:21:00"
+      "title_en": "埃隆·马斯克旗下的X平台称，中国曾试图利用X煽动美国民众反对人工智能数据中心。这一做法奏效了吗？ - Business Insider",
+      "title_cn": "埃隆·马斯克旗下的X平台称，中国曾试图利用X煽动美国民众反对人工智能数据中心。这一做法奏效了吗？ - Business Insider",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxPTzF3UjN0aFh0ZndGWlRlU0dIcVprYTM3OUZBRXlYY0g2Rk5TLVliYnFjNkwzMzlnV2x5Tl9kZ3F2N3JVQ0tHaXpiQVZPX0JYcDl4WjlWN1d3Wl9seF94ZW80QjRiNDBFTEZpSGlTVHo2YjRxMTNmQnY0ZUJMMDR6Qnc1Y0pYb1lQYXd5VHVn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T15:49:39.000Z",
+      "pub_sort_dt": "2026-08-28 23:49:39"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在中美官员就习近平访美事宜举行会晤之际，特朗普对北京的强硬言论进一步升级 - CNBC",
-      "title_cn": "在中美官员就习近平访美事宜举行会晤之际，特朗普对北京的强硬言论进一步升级 - CNBC",
-      "url": "https://news.google.com/read/CBMiggFBVV95cUxQb3U2SThGRmpjMzg2OWxFU3Y0VXExcDJQem50Rl83NkpZTGhjejBxRDBHaEc3TFh0ZTE3U29iVFozU19qelhDMVhSZzNtcjlTVUJZM0ZXcHBrbDBEbE9lN1V0a1FKYUYzR3dXWkVZcFBQQjFpMWpXZEpMUU14NWdMZXBB0gGHAUFVX3lxTE9oOVdDNi1taHl4bXJIZ3NYSUhtMzlfajh2NUFfMDJrSU9wNFJHRlpOVlh1SEYtRzNsR3FrWGRBV2NjTWtUZjdmZ2FyMUc4SE1TOVpzN0FMcl92ZEZTV1NQNjEtekNFWDFheDZTaVZTc1BIRjVIbW5scG9wdWxIRUtMQkQ0YUVIYw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T01:35:00.000Z",
-      "pub_sort_dt": "2026-08-28 09:35:00"
+      "title_en": "中国一处大型机器人农场被发现正在开展针对美国的“影响力行动”，推动协调一致的网络叙事 - Fox News",
+      "title_cn": "中国一处大型机器人农场被发现正在开展针对美国的“影响力行动”，推动协调一致的网络叙事 - Fox News",
+      "url": "https://news.google.com/read/CBMi0gFBVV95cUxPYzE5SUNpTDYzOEVvNkNiQ0t0M0ZNT01oSExCQmlkVjlKWkJ3cVJ4bHVab3pMQTNKMHpmYURzc0RhaFlqVzR5eDhJZkF5bnRxaFdFQWpZcEk2Vm1ORVZGOEl5X2R5MTR6bWxBRG0zbVhtNWlBYU9ObzBXV2dJMUJZLXd4RWVkZmRRMFlucnFtMngwQm5YeUtSNGFjeVhESUhkUVNXT2s5ZUF1cy1tUlJHbVYtbTBMOVRjRlZPWjVUeGVkanJPdUdkREFmRERLN28wb2fSAdcBQVVfeXFMT0Q4UDRMUk5vRU1YNEZuN3Y2MlBjVWRpN2o1ZmFHY2NZbzJrX3Z2WlFncF9VZWUxcU1CVTZnR0EzR3J5T09Ma211c29YdGRDWmFRZ1Jic3d2M2s1cHo3cVBid0pSUEktWXNFS0tZS1RraXNfajJvZEhaS2tlNjByMjh0OGd2N0xPbDlFUU5nd2hsWC1qWUo1RGdsV1dPa3Rpc3EyZ0JPUUNJZkJJby1QMVcybHA5UUstMWh4NU8tTWdoaTNncnkyYUNpakdFVktMS2VXdy1fRFU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T15:32:29.000Z",
+      "pub_sort_dt": "2026-08-28 23:32:29"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国AI“分身”准备亮相，就业问题引发关注",
+      "title_cn": "中国AI“分身”准备亮相，就业问题引发关注",
+      "url": "https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?syn-25a6b1a6=1",
+      "pub_raw": "2026-08-28T20:52:36.633Z",
+      "pub_sort_dt": "2026-08-29 04:52:36"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国官员就“政府机构遭中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
+      "title_cn": "美国官员就“政府机构遭中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
+      "url": "https://reut.rs/46v3Okq",
+      "pub_raw": "2026-08-28T20:21:04.759Z",
+      "pub_sort_dt": "2026-08-29 04:21:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国汽车制造商正瞄准英国标志性的路虎品牌",
+      "title_cn": "中国汽车制造商正瞄准英国标志性的路虎品牌",
+      "url": "https://www.bloomberg.com/opinion/newsletters/2026-08-28/china-s-carmakers-are-coming-for-britain-s-iconic-land-rover",
+      "pub_raw": "2026-08-28T15:48:36.656Z",
+      "pub_sort_dt": "2026-08-28 23:48:36"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "评论：周末读物：Meta的人工智能反抗、中国的权力博弈、美联储的表态之争",
+      "title_cn": "评论：周末读物：Meta的人工智能反抗、中国的权力博弈、美联储的表态之争",
+      "url": "https://reut.rs/4zF4qRW",
+      "pub_raw": "2026-08-28T14:44:32.975Z",
+      "pub_sort_dt": "2026-08-28 22:44:32"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "习近平的军事清洗导致亲信被逐出中国立法机构",
+      "title_cn": "习近平的军事清洗导致亲信被逐出中国立法机构",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/xi-s-military-purge-sees-loyalists-ousted-from-china-legislature",
+      "pub_raw": "2026-08-28T13:56:25.900Z",
+      "pub_sort_dt": "2026-08-28 21:56:25"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国将多名高级将领从中央军事委员会中撤职",
+      "title_cn": "中国将多名高级将领从中央军事委员会中撤职",
+      "url": "https://reut.rs/4zH0QGX",
+      "pub_raw": "2026-08-28T13:56:25.746Z",
+      "pub_sort_dt": "2026-08-28 21:56:25"
     },
     {
       "source": "Bloomberg",
@@ -445,54 +493,6 @@
       "url": "https://reut.rs/4hYG3Zd",
       "pub_raw": "2026-08-28T06:29:22.727Z",
       "pub_sort_dt": "2026-08-28 14:29:22"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受中国市场需求疲软影响，丰田汽车销量连续第六个月下滑",
-      "title_cn": "受中国市场需求疲软影响，丰田汽车销量连续第六个月下滑",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/toyota-sales-fall-for-six-straight-months-on-weak-china-demand",
-      "pub_raw": "2026-08-28T06:13:50.886Z",
-      "pub_sort_dt": "2026-08-28 14:13:50"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "受中国和中东市场销量大幅下滑影响，丰田销量和产量双双下滑",
-      "title_cn": "受中国和中东市场销量大幅下滑影响，丰田销量和产量双双下滑",
-      "url": "https://reut.rs/4c9NmcQ",
-      "pub_raw": "2026-08-28T05:41:25.296Z",
-      "pub_sort_dt": "2026-08-28 13:41:25"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国向日本议员表示，台湾问题是紧张局势的核心",
-      "title_cn": "中国向日本议员表示，台湾问题是紧张局势的核心",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/china-tells-japanese-lawmakers-taiwan-is-at-heart-of-tensions",
-      "pub_raw": "2026-08-28T05:10:02.038Z",
-      "pub_sort_dt": "2026-08-28 13:10:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着混合动力车型销量激增，中国车企在欧洲的市场份额不断扩大",
-      "title_cn": "随着混合动力车型销量激增，中国车企在欧洲的市场份额不断扩大",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/chinese-carmakers-grow-market-share-in-europe-with-hybrid-surge",
-      "pub_raw": "2026-08-28T04:21:16.059Z",
-      "pub_sort_dt": "2026-08-28 12:21:16"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国的“睿智骆驼”会是美伊战争的赢家吗？",
-      "title_cn": "中国的“睿智骆驼”会是美伊战争的赢家吗？",
-      "url": "https://www.ft.com/content/42935d28-2998-4c1b-a2f3-82ec0e462ec4?syn-25a6b1a6=1",
-      "pub_raw": "2026-08-28T04:21:15.637Z",
-      "pub_sort_dt": "2026-08-28 12:21:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国铜冶炼厂通过销售高价酸获利",
-      "title_cn": "中国铜冶炼厂通过销售高价酸获利",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/china-s-copper-smelters-get-boost-from-selling-expensive-acid",
-      "pub_raw": "2026-08-28T04:05:19.198Z",
-      "pub_sort_dt": "2026-08-28 12:05:19"
     }
   ]
 }
