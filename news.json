@@ -1,15 +1,31 @@
 {
-  "update_cst": "2026-08-29 12:01:04 北京时间",
+  "update_cst": "2026-08-29 15:01:06 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 13,
+    "Bloomberg": 12,
     "Financial Times": 2,
     "Wall Street Journal": 0,
-    "Reuters": 5
+    "Reuters": 6
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "欢笑、不安与如释重负：这些比赛表明，在中国的人形机器人竞赛中，中国尚未冲过终点线 - The Guardian",
+      "title_cn": "欢笑、不安与如释重负：这些比赛表明，在中国的人形机器人竞赛中，中国尚未冲过终点线 - The Guardian",
+      "url": "https://news.google.com/read/CBMi6gFBVV95cUxOcXl5UVk1QnBWNVhVT3JVbkFrMElUdE5vUXA5WVJOckpJTS1EUk1sX1poV1d4dm8tRlZPNFFXa2VDSUJwb0hqS3dBbk5qZEp3QmxzRUJKc1ZMUVN0TXUyXzJyWkl3WlpvbkdiaHI5ekxUSlZfNzZUdldoeVhnWmVJSHE4LWotdEdvVUlFOEN6WFVaQUtjMnFad3JaTjlwRDBhZW9STWVLbGh0WlpnYWR5ZWJ4bkxIcmtrVHNRQzV2MThHSU9NTG9qODFaQ0IyZGdyd1Bid2V0OUE5STF0ejB1VHJPWmg4dmpQQlE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-29T05:00:00.000Z",
+      "pub_sort_dt": "2026-08-29 13:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "喜马拉雅山脉变化莫测。但各国正在那里进行前所未有的建设 - CNN",
+      "title_cn": "喜马拉雅山脉变化莫测。但各国正在那里进行前所未有的建设 - CNN",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxPS2R2TWdTdEQ1Z3otd3FTN2hINURZV1FvbUxlQVNRd09wcEdYSVBnTnVZeUxZNjVRTmt3bDZWaEFpWFlLM0wxbmRKQXdUZXRlQW54b3MxM1hsekNMS2pCeHp6eFhDUGdUcFJBX0QxM054V2J0NDZsYk9oRmRzNHFCTmNCdE9PdHc2S2s4OXQwMldnTk40YXVR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-29T04:06:54.000Z",
+      "pub_sort_dt": "2026-08-29 12:06:54"
+    },
     {
       "source": "China Buzzing",
       "title_en": "习近平如何将石油从软肋转变为地缘政治武器 - WSJ",
@@ -17,6 +33,14 @@
       "url": "https://news.google.com/read/CBMiaEFVX3lxTE1YZmRZdEtickdiNVlKZk56RlBmbTFsTFNGa0lsb2liTUthT1NNTzZmbUpaZHlTNHd5Z0ZDY2JPNVpMRHgxcE9VSWNkMDFGSmJzY3JGeWtBMHp6ZDdWZER3cnViX0ctaFB6?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T03:00:00.000Z",
       "pub_sort_dt": "2026-08-29 11:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "尼泊尔和中国加紧救援行动，失踪人数接近2500人 - Bloomberg.com",
+      "title_cn": "尼泊尔和中国加紧救援行动，失踪人数接近2500人 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxQbUJsR3pkTjM5WFZSVzdlQ1NwSWp1b2lybVF2WEgzdjg1ZGdHVkxVbHBEM1pfNktDbjZNOWtqRHdJOVZRellDcG83aTlnZUtDWmV3YTRkT3FWOG9DRURWbFN4OFhqak1WbnA0d24xdzJ3S3hZbjVqN09fb1VUOXRzbldCbmg3ODN6R0NEUVlnT0w3endMYzNINTVDSjl4UXVpcV9WQU1kX1RrdEZmUFk0ag?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-29T01:21:00.000Z",
+      "pub_sort_dt": "2026-08-29 09:21:00"
     },
     {
       "source": "China Buzzing",
@@ -60,45 +84,29 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "尼泊尔和西藏洪灾死亡人数超过500人，仍有数千人失踪 - DW.com",
-      "title_cn": "尼泊尔和西藏洪灾死亡人数超过500人，仍有数千人失踪 - DW.com",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxNMllxN3NwUE5EV2k5djVxcUpvUmpTclpUXzVjZ2pTOHpkUmtkUGQ1ZTRTWDdKOXJtQjBIb0dsTHF2Z0ozUG9lNW1JYXdibEpVWEtXNm13ODFTN0NDcjNITnFPeWJLc2VHS0FjRDBJT1FzRTh4LTlhUWsxZWY4ZThNR2p1MXJ2WHE2ZUs1d2lZZ0EydFVT0gGUAUFVX3lxTE0yUTVwVXVhV0xHMXFnSUVLUkVyMzdWRVFyajRMM2tGd3A3YkZrWXg3R0dZWHlTbUg1T0JZTWF3WE5QeFFJWnM5Zms0MHpWaENEa0hJVXFMa1d6T094OGdWRW1zLTZzaUM0dmFkMV9SblBlT2JPSkE3WXBJSzYwUjQ2NlhFYnloMmFPSVplLTJMVmpSZkI?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T19:11:29.000Z",
-      "pub_sort_dt": "2026-08-29 03:11:29"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在与中国的竞争背景下，特朗普下令成立美国“太空学院” - South China Morning Post",
-      "title_cn": "在与中国的竞争背景下，特朗普下令成立美国“太空学院” - South China Morning Post",
-      "url": "https://news.google.com/read/CBMixAFBVV95cUxNQUJVbk1FR0FDbm0tckVVWDQtRHl1dVZyUnIzejFvZE5NdUVVaEMtRkhHSGxOWHpKZzBRMWF2alh6SjNWd2pyZHRaLTBON3d3dmpacGpMTm9ZXzZlYUJrTDRMWFNoNjhsYVFvVTdGZkhKcDdMMmpPWE1PWVE0Yjl0bThjQV9pWjl5VFRITENxWFRNdWFNc1ZtWkE1cnR5QmR2YmF4MTFRNjJ4Wl9XajFIWXpyTF90ZXJMYWVGVi1oNHp6d3R20gHEAUFVX3lxTFA0WDVOSXlTOHN5RXpNMkJyNnRuQi1BRkVsTTF1NWhaNEFIUDBvN3E1MlA2bmJtNnZaUnlETmoxVlZwMGdsc3BQdmxnQ25GSVk0R2xKWkdEOTVLZUc0NEszRE5vb1NsSVdrMkxzSUF0blV6WGFlQzUxR3A2REQ3VVcwb2pLdHZ6MWlSRWd2Z0tpR1NBODdLaElpWTBQdjlWTGU5VHZJcXZwTk9BWUFjNFNmQ2JsSXFxSzg3UzVWT2FyQTczeHo?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T19:07:43.000Z",
-      "pub_sort_dt": "2026-08-29 03:07:43"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国救援队在受洪水影响的喜马拉雅边境口岸发现“尽是废墟” - Reuters",
-      "title_cn": "中国救援队在受洪水影响的喜马拉雅边境口岸发现“尽是废墟” - Reuters",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxQNTU5TmV6N2N0dHN6Q293S0JVZjRwbGtkQ2lyV1ZpTUt0eTBTNDJvVkI1Qk5mTWFlM25yOUFQVG1VQWZqbjhrLVNRQU81UjBhakxqRmlETF9rVDNCUm4zUzVrY1dTaWlsMkoxeGpHYUREcjJvdldPX2hTTk5HVlU3anBIbGlQMlpuODB4OUdDNmJVSUdCeHQwZmMzd3pVRDFSRVFxeTBpWU9fZWh2NEhtbFJhT0pwUVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T19:03:30.000Z",
-      "pub_sort_dt": "2026-08-29 03:03:30"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "如果给机器人赋予躯体：中国为争夺人工智能主导地位而推进的“具身化”战略 - The Christian Science Monitor",
-      "title_cn": "如果给机器人赋予躯体：中国为争夺人工智能主导地位而推进的“具身化”战略 - The Christian Science Monitor",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxQUVA3b240N3Z2WGlfV3FfNkt6RExGSjBIQl9HMkE1RkFaNDhVYkFxZVRCRHpQcXBWaURHVnA4a1Yza3BjLS16MXpCdm1BN2JIVi1pNFN6WkRxNVFNZ25JN0lHZ2YzMzQ4cVloTm16WFMzU3gzaU5TMHVJbWdKM2w1RHFLazI0aFpoMVVxczN0dklYQdIBqwFBVV95cUxONVJSZzljZFJUVnVOMV9VcGZCdUVVVG04WTh1cEs0Y3RKU3pkTkZPZmpMVHB3cDNyRVdmZFdURWxLbHpJY1J4bUdqZ0FfejFTZ3o1TkVxelJVSG5rVHExZjhOMl9uRW1ZWXo1cTdtUlVac205ZmxvRFNVc0ZYQWY1X21DN1JjTlpJbVBRRGNSTEpiNkpHRkRIb2xHN21fekVUSDhJRHhGTG1PM00?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T18:27:49.000Z",
-      "pub_sort_dt": "2026-08-29 02:27:49"
+      "title_en": "山体滑坡和洪灾在尼泊尔和中国造成了严重破坏。沿着河流，追踪这场灾难的轨迹。 - CNN",
+      "title_cn": "山体滑坡和洪灾在尼泊尔和中国造成了严重破坏。沿着河流，追踪这场灾难的轨迹。 - CNN",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNclJJQ0VfRGgycGdSMlYyYW0xeHUwbUVCb2xrX3hXVWhhcEUwdEg4eU9FZHEzTWxMR3Y5RzFtRExxajBYckwydC1lMHIzaVFjakpxTkRCUWpBV2ROQWh6ZWtCRjlYMjNDeHBVYVl2d1ZlbVV2U0pVTFo2WHBGT0ZraVYzRk8?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T19:49:26.000Z",
+      "pub_sort_dt": "2026-08-29 03:49:26"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
-      "title_en": "尼泊尔和中国加紧救援行动，失踪人数近2500人",
-      "title_cn": "尼泊尔和中国加紧救援行动，失踪人数近2500人",
+      "title_en": "尼泊尔和中国加紧救援行动，数千人下落不明",
+      "title_cn": "尼泊尔和中国加紧救援行动，数千人下落不明",
       "url": "https://www.bloomberg.com/news/articles/2026-08-29/nearly-2-500-missing-as-nepal-china-intensify-rescue-efforts",
-      "pub_raw": "2026-08-29T03:32:22.550Z",
-      "pub_sort_dt": "2026-08-29 11:32:22"
+      "pub_raw": "2026-08-29T06:44:17.866Z",
+      "pub_sort_dt": "2026-08-29 14:44:17"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "CXMT因被列入与中国军方有关联的企业名单而起诉五角大楼",
+      "title_cn": "CXMT因被列入与中国军方有关联的企业名单而起诉五角大楼",
+      "url": "https://reut.rs/3SEzpwJ",
+      "pub_raw": "2026-08-29T04:36:10.170Z",
+      "pub_sort_dt": "2026-08-29 12:36:10"
     },
     {
       "source": "Financial Times",
@@ -243,17 +251,25 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-28/chinese-nickel-firms-in-indonesia-mull-output-cuts-on-low-prices",
       "pub_raw": "2026-08-28T09:56:14.483Z",
       "pub_sort_dt": "2026-08-28 17:56:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "台湾警告称，到2075年，人口可能锐减近一半，降至1200万人",
-      "title_cn": "台湾警告称，到2075年，人口可能锐减近一半，降至1200万人",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/taiwan-warns-population-could-plunge-almost-half-to-12-million-people-by-2075",
-      "pub_raw": "2026-08-28T09:24:43.039Z",
-      "pub_sort_dt": "2026-08-28 17:24:43"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "欢笑、不安与如释重负：这些比赛表明，在中国的人形机器人竞赛中，中国尚未冲过终点线 - The Guardian",
+      "title_cn": "欢笑、不安与如释重负：这些比赛表明，在中国的人形机器人竞赛中，中国尚未冲过终点线 - The Guardian",
+      "url": "https://news.google.com/read/CBMi6gFBVV95cUxOcXl5UVk1QnBWNVhVT3JVbkFrMElUdE5vUXA5WVJOckpJTS1EUk1sX1poV1d4dm8tRlZPNFFXa2VDSUJwb0hqS3dBbk5qZEp3QmxzRUJKc1ZMUVN0TXUyXzJyWkl3WlpvbkdiaHI5ekxUSlZfNzZUdldoeVhnWmVJSHE4LWotdEdvVUlFOEN6WFVaQUtjMnFad3JaTjlwRDBhZW9STWVLbGh0WlpnYWR5ZWJ4bkxIcmtrVHNRQzV2MThHSU9NTG9qODFaQ0IyZGdyd1Bid2V0OUE5STF0ejB1VHJPWmg4dmpQQlE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-29T05:00:00.000Z",
+      "pub_sort_dt": "2026-08-29 13:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "喜马拉雅山脉变化莫测。但各国正在那里进行前所未有的建设 - CNN",
+      "title_cn": "喜马拉雅山脉变化莫测。但各国正在那里进行前所未有的建设 - CNN",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxPS2R2TWdTdEQ1Z3otd3FTN2hINURZV1FvbUxlQVNRd09wcEdYSVBnTnVZeUxZNjVRTmt3bDZWaEFpWFlLM0wxbmRKQXdUZXRlQW54b3MxM1hsekNMS2pCeHp6eFhDUGdUcFJBX0QxM054V2J0NDZsYk9oRmRzNHFCTmNCdE9PdHc2S2s4OXQwMldnTk40YXVR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-29T04:06:54.000Z",
+      "pub_sort_dt": "2026-08-29 12:06:54"
+    },
     {
       "source": "China Buzzing",
       "title_en": "习近平如何将石油从软肋转变为地缘政治武器 - WSJ",
@@ -261,6 +277,14 @@
       "url": "https://news.google.com/read/CBMiaEFVX3lxTE1YZmRZdEtickdiNVlKZk56RlBmbTFsTFNGa0lsb2liTUthT1NNTzZmbUpaZHlTNHd5Z0ZDY2JPNVpMRHgxcE9VSWNkMDFGSmJzY3JGeWtBMHp6ZDdWZER3cnViX0ctaFB6?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T03:00:00.000Z",
       "pub_sort_dt": "2026-08-29 11:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "尼泊尔和中国加紧救援行动，失踪人数接近2500人 - Bloomberg.com",
+      "title_cn": "尼泊尔和中国加紧救援行动，失踪人数接近2500人 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxQbUJsR3pkTjM5WFZSVzdlQ1NwSWp1b2lybVF2WEgzdjg1ZGdHVkxVbHBEM1pfNktDbjZNOWtqRHdJOVZRellDcG83aTlnZUtDWmV3YTRkT3FWOG9DRURWbFN4OFhqak1WbnA0d24xdzJ3S3hZbjVqN09fb1VUOXRzbldCbmg3ODN6R0NEUVlnT0w3endMYzNINTVDSjl4UXVpcV9WQU1kX1RrdEZmUFk0ag?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-29T01:21:00.000Z",
+      "pub_sort_dt": "2026-08-29 09:21:00"
     },
     {
       "source": "China Buzzing",
@@ -304,43 +328,27 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "尼泊尔和西藏洪灾死亡人数超过500人，仍有数千人失踪 - DW.com",
-      "title_cn": "尼泊尔和西藏洪灾死亡人数超过500人，仍有数千人失踪 - DW.com",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxNMllxN3NwUE5EV2k5djVxcUpvUmpTclpUXzVjZ2pTOHpkUmtkUGQ1ZTRTWDdKOXJtQjBIb0dsTHF2Z0ozUG9lNW1JYXdibEpVWEtXNm13ODFTN0NDcjNITnFPeWJLc2VHS0FjRDBJT1FzRTh4LTlhUWsxZWY4ZThNR2p1MXJ2WHE2ZUs1d2lZZ0EydFVT0gGUAUFVX3lxTE0yUTVwVXVhV0xHMXFnSUVLUkVyMzdWRVFyajRMM2tGd3A3YkZrWXg3R0dZWHlTbUg1T0JZTWF3WE5QeFFJWnM5Zms0MHpWaENEa0hJVXFMa1d6T094OGdWRW1zLTZzaUM0dmFkMV9SblBlT2JPSkE3WXBJSzYwUjQ2NlhFYnloMmFPSVplLTJMVmpSZkI?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T19:11:29.000Z",
-      "pub_sort_dt": "2026-08-29 03:11:29"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在与中国的竞争背景下，特朗普下令成立美国“太空学院” - South China Morning Post",
-      "title_cn": "在与中国的竞争背景下，特朗普下令成立美国“太空学院” - South China Morning Post",
-      "url": "https://news.google.com/read/CBMixAFBVV95cUxNQUJVbk1FR0FDbm0tckVVWDQtRHl1dVZyUnIzejFvZE5NdUVVaEMtRkhHSGxOWHpKZzBRMWF2alh6SjNWd2pyZHRaLTBON3d3dmpacGpMTm9ZXzZlYUJrTDRMWFNoNjhsYVFvVTdGZkhKcDdMMmpPWE1PWVE0Yjl0bThjQV9pWjl5VFRITENxWFRNdWFNc1ZtWkE1cnR5QmR2YmF4MTFRNjJ4Wl9XajFIWXpyTF90ZXJMYWVGVi1oNHp6d3R20gHEAUFVX3lxTFA0WDVOSXlTOHN5RXpNMkJyNnRuQi1BRkVsTTF1NWhaNEFIUDBvN3E1MlA2bmJtNnZaUnlETmoxVlZwMGdsc3BQdmxnQ25GSVk0R2xKWkdEOTVLZUc0NEszRE5vb1NsSVdrMkxzSUF0blV6WGFlQzUxR3A2REQ3VVcwb2pLdHZ6MWlSRWd2Z0tpR1NBODdLaElpWTBQdjlWTGU5VHZJcXZwTk9BWUFjNFNmQ2JsSXFxSzg3UzVWT2FyQTczeHo?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T19:07:43.000Z",
-      "pub_sort_dt": "2026-08-29 03:07:43"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国救援队在受洪水影响的喜马拉雅边境口岸发现“尽是废墟” - Reuters",
-      "title_cn": "中国救援队在受洪水影响的喜马拉雅边境口岸发现“尽是废墟” - Reuters",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxQNTU5TmV6N2N0dHN6Q293S0JVZjRwbGtkQ2lyV1ZpTUt0eTBTNDJvVkI1Qk5mTWFlM25yOUFQVG1VQWZqbjhrLVNRQU81UjBhakxqRmlETF9rVDNCUm4zUzVrY1dTaWlsMkoxeGpHYUREcjJvdldPX2hTTk5HVlU3anBIbGlQMlpuODB4OUdDNmJVSUdCeHQwZmMzd3pVRDFSRVFxeTBpWU9fZWh2NEhtbFJhT0pwUVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T19:03:30.000Z",
-      "pub_sort_dt": "2026-08-29 03:03:30"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "如果给机器人赋予躯体：中国为争夺人工智能主导地位而推进的“具身化”战略 - The Christian Science Monitor",
-      "title_cn": "如果给机器人赋予躯体：中国为争夺人工智能主导地位而推进的“具身化”战略 - The Christian Science Monitor",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxQUVA3b240N3Z2WGlfV3FfNkt6RExGSjBIQl9HMkE1RkFaNDhVYkFxZVRCRHpQcXBWaURHVnA4a1Yza3BjLS16MXpCdm1BN2JIVi1pNFN6WkRxNVFNZ25JN0lHZ2YzMzQ4cVloTm16WFMzU3gzaU5TMHVJbWdKM2w1RHFLazI0aFpoMVVxczN0dklYQdIBqwFBVV95cUxONVJSZzljZFJUVnVOMV9VcGZCdUVVVG04WTh1cEs0Y3RKU3pkTkZPZmpMVHB3cDNyRVdmZFdURWxLbHpJY1J4bUdqZ0FfejFTZ3o1TkVxelJVSG5rVHExZjhOMl9uRW1ZWXo1cTdtUlVac205ZmxvRFNVc0ZYQWY1X21DN1JjTlpJbVBRRGNSTEpiNkpHRkRIb2xHN21fekVUSDhJRHhGTG1PM00?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T18:27:49.000Z",
-      "pub_sort_dt": "2026-08-29 02:27:49"
+      "title_en": "山体滑坡和洪灾在尼泊尔和中国造成了严重破坏。沿着河流，追踪这场灾难的轨迹。 - CNN",
+      "title_cn": "山体滑坡和洪灾在尼泊尔和中国造成了严重破坏。沿着河流，追踪这场灾难的轨迹。 - CNN",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNclJJQ0VfRGgycGdSMlYyYW0xeHUwbUVCb2xrX3hXVWhhcEUwdEg4eU9FZHEzTWxMR3Y5RzFtRExxajBYckwydC1lMHIzaVFjakpxTkRCUWpBV2ROQWh6ZWtCRjlYMjNDeHBVYVl2d1ZlbVV2U0pVTFo2WHBGT0ZraVYzRk8?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T19:49:26.000Z",
+      "pub_sort_dt": "2026-08-29 03:49:26"
     },
     {
       "source": "Bloomberg",
-      "title_en": "尼泊尔和中国加紧救援行动，失踪人数近2500人",
-      "title_cn": "尼泊尔和中国加紧救援行动，失踪人数近2500人",
+      "title_en": "尼泊尔和中国加紧救援行动，数千人下落不明",
+      "title_cn": "尼泊尔和中国加紧救援行动，数千人下落不明",
       "url": "https://www.bloomberg.com/news/articles/2026-08-29/nearly-2-500-missing-as-nepal-china-intensify-rescue-efforts",
-      "pub_raw": "2026-08-29T03:32:22.550Z",
-      "pub_sort_dt": "2026-08-29 11:32:22"
+      "pub_raw": "2026-08-29T06:44:17.866Z",
+      "pub_sort_dt": "2026-08-29 14:44:17"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "CXMT因被列入与中国军方有关联的企业名单而起诉五角大楼",
+      "title_cn": "CXMT因被列入与中国军方有关联的企业名单而起诉五角大楼",
+      "url": "https://reut.rs/3SEzpwJ",
+      "pub_raw": "2026-08-29T04:36:10.170Z",
+      "pub_sort_dt": "2026-08-29 12:36:10"
     },
     {
       "source": "Financial Times",
@@ -485,14 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-28/chinese-nickel-firms-in-indonesia-mull-output-cuts-on-low-prices",
       "pub_raw": "2026-08-28T09:56:14.483Z",
       "pub_sort_dt": "2026-08-28 17:56:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "台湾警告称，到2075年，人口可能锐减近一半，降至1200万人",
-      "title_cn": "台湾警告称，到2075年，人口可能锐减近一半，降至1200万人",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/taiwan-warns-population-could-plunge-almost-half-to-12-million-people-by-2075",
-      "pub_raw": "2026-08-28T09:24:43.039Z",
-      "pub_sort_dt": "2026-08-28 17:24:43"
     }
   ]
 }
