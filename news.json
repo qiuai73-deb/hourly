@@ -1,15 +1,31 @@
 {
-  "update_cst": "2026-08-29 06:01:05 北京时间",
+  "update_cst": "2026-08-29 09:01:03 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 11,
+    "Bloomberg": 13,
     "Financial Times": 2,
     "Wall Street Journal": 0,
-    "Reuters": 7
+    "Reuters": 5
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "西藏-尼泊尔洪灾：中国国内未播放令人震惊的画面——我们对那里的遇难者知之甚少 - BBC",
+      "title_cn": "西藏-尼泊尔洪灾：中国国内未播放令人震惊的画面——我们对那里的遇难者知之甚少 - BBC",
+      "url": "https://news.google.com/read/CBMiWkFVX3lxTE56enhaLUp0NDNIMlp3el9EZHJKZUdPZ2dKTUN5Mi1BNDhka3NqTDFIaUZyeEs2STA1dGJYejFpUlBMUHQtQVVLWm4wUGo1R0VZS3pLRjBiTXRYQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T22:05:41.000Z",
+      "pub_sort_dt": "2026-08-29 06:05:41"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国精品葡萄酒热潮背后的葡萄园 - WSJ",
+      "title_cn": "中国精品葡萄酒热潮背后的葡萄园 - WSJ",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTE1qMmE0TFAwc0VLeUUtMDdRZ19aVHliY3NDRFF5c2I1TVlGa2dNZ0VnSlpBYk1IZlozZHFjZEpSanFLY2IybUtHc0EyQjNsWG1XX3lfVG9saXZqV2l3cGxsdjRqNG5pa0lySWFWTkFmZllLOVFkREJBYktQejJZZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T22:00:00.000Z",
+      "pub_sort_dt": "2026-08-29 06:00:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国AI“分身”们准备好近距离亮相，就业问题引发热议 - Financial Times",
@@ -73,25 +89,25 @@
       "url": "https://news.google.com/read/CBMidkFVX3lxTE5NcmR4M2dyQXBORXF0clRmR1E2bHBWZ3hGdEJCQmIyOEphU3VRSnFmX0Q5VmVjRVczNGdlZTAweFI5bGo3aW9nT3pyb0NVRFNpUmY4ZDJ1QzFpVFl4RTNsOFk4S2JENEhJYUs2Nzl3X1J5Z0JkNGc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-28T16:10:21.000Z",
       "pub_sort_dt": "2026-08-29 00:10:21"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "埃隆·马斯克旗下的X平台称，中国曾试图利用X煽动美国民众反对人工智能数据中心。这一做法奏效了吗？ - Business Insider",
-      "title_cn": "埃隆·马斯克旗下的X平台称，中国曾试图利用X煽动美国民众反对人工智能数据中心。这一做法奏效了吗？ - Business Insider",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxPTzF3UjN0aFh0ZndGWlRlU0dIcVprYTM3OUZBRXlYY0g2Rk5TLVliYnFjNkwzMzlnV2x5Tl9kZ3F2N3JVQ0tHaXpiQVZPX0JYcDl4WjlWN1d3Wl9seF94ZW80QjRiNDBFTEZpSGlTVHo2YjRxMTNmQnY0ZUJMMDR6Qnc1Y0pYb1lQYXd5VHVn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T15:49:39.000Z",
-      "pub_sort_dt": "2026-08-28 23:49:39"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国一处大型机器人农场被发现正在开展针对美国的“影响力行动”，推动协调一致的网络叙事 - Fox News",
-      "title_cn": "中国一处大型机器人农场被发现正在开展针对美国的“影响力行动”，推动协调一致的网络叙事 - Fox News",
-      "url": "https://news.google.com/read/CBMi0gFBVV95cUxPYzE5SUNpTDYzOEVvNkNiQ0t0M0ZNT01oSExCQmlkVjlKWkJ3cVJ4bHVab3pMQTNKMHpmYURzc0RhaFlqVzR5eDhJZkF5bnRxaFdFQWpZcEk2Vm1ORVZGOEl5X2R5MTR6bWxBRG0zbVhtNWlBYU9ObzBXV2dJMUJZLXd4RWVkZmRRMFlucnFtMngwQm5YeUtSNGFjeVhESUhkUVNXT2s5ZUF1cy1tUlJHbVYtbTBMOVRjRlZPWjVUeGVkanJPdUdkREFmRERLN28wb2fSAdcBQVVfeXFMT0Q4UDRMUk5vRU1YNEZuN3Y2MlBjVWRpN2o1ZmFHY2NZbzJrX3Z2WlFncF9VZWUxcU1CVTZnR0EzR3J5T09Ma211c29YdGRDWmFRZ1Jic3d2M2s1cHo3cVBid0pSUEktWXNFS0tZS1RraXNfajJvZEhaS2tlNjByMjh0OGd2N0xPbDlFUU5nd2hsWC1qWUo1RGdsV1dPa3Rpc3EyZ0JPUUNJZkJJby1QMVcybHA5UUstMWh4NU8tTWdoaTNncnkyYUNpakdFVktMS2VXdy1fRFU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T15:32:29.000Z",
-      "pub_sort_dt": "2026-08-28 23:32:29"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "香港餐厅点评：《Il Presidente》是一家深受意大利人喜爱的意大利餐厅",
+      "title_cn": "香港餐厅点评：《Il Presidente》是一家深受意大利人喜爱的意大利餐厅",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-29/hong-kong-review-il-presidente-is-an-italian-restaurant-loved-by-italians",
+      "pub_raw": "2026-08-29T00:20:19.081Z",
+      "pub_sort_dt": "2026-08-29 08:20:19"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国称与中国有关联的黑客将美国宇航局和美联储作为攻击目标",
+      "title_cn": "美国称与中国有关联的黑客将美国宇航局和美联储作为攻击目标",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/us-says-china-linked-hackers-targeted-nasa-fed-and-senate",
+      "pub_raw": "2026-08-28T23:00:18.718Z",
+      "pub_sort_dt": "2026-08-29 07:00:18"
+    },
     {
       "source": "Financial Times",
       "title_en": "中国AI“分身”准备亮相，就业问题引发关注",
@@ -235,27 +251,27 @@
       "url": "https://www.bloomberg.com/graphics/2026-opinion-land-rover-defender-chinese-lookalikes",
       "pub_raw": "2026-08-28T07:01:16.897Z",
       "pub_sort_dt": "2026-08-28 15:01:16"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国在机器人领域取得的创纪录进展，揭示了人类速度的局限性",
-      "title_cn": "中国在机器人领域取得的创纪录进展，揭示了人类速度的局限性",
-      "url": "https://reut.rs/4zJPuC7",
-      "pub_raw": "2026-08-28T06:45:18.971Z",
-      "pub_sort_dt": "2026-08-28 14:45:18"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在台湾防务的关键岛屿上，部队正为应对中国的先发制人打击做准备",
-      "title_cn": "在台湾防务的关键岛屿上，部队正为应对中国的先发制人打击做准备",
-      "url": "https://reut.rs/4hYG3Zd",
-      "pub_raw": "2026-08-28T06:29:22.727Z",
-      "pub_sort_dt": "2026-08-28 14:29:22"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "西藏-尼泊尔洪灾：中国国内未播放令人震惊的画面——我们对那里的遇难者知之甚少 - BBC",
+      "title_cn": "西藏-尼泊尔洪灾：中国国内未播放令人震惊的画面——我们对那里的遇难者知之甚少 - BBC",
+      "url": "https://news.google.com/read/CBMiWkFVX3lxTE56enhaLUp0NDNIMlp3el9EZHJKZUdPZ2dKTUN5Mi1BNDhka3NqTDFIaUZyeEs2STA1dGJYejFpUlBMUHQtQVVLWm4wUGo1R0VZS3pLRjBiTXRYQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T22:05:41.000Z",
+      "pub_sort_dt": "2026-08-29 06:05:41"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国精品葡萄酒热潮背后的葡萄园 - WSJ",
+      "title_cn": "中国精品葡萄酒热潮背后的葡萄园 - WSJ",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTE1qMmE0TFAwc0VLeUUtMDdRZ19aVHliY3NDRFF5c2I1TVlGa2dNZ0VnSlpBYk1IZlozZHFjZEpSanFLY2IybUtHc0EyQjNsWG1XX3lfVG9saXZqV2l3cGxsdjRqNG5pa0lySWFWTkFmZllLOVFkREJBYktQejJZZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-28T22:00:00.000Z",
+      "pub_sort_dt": "2026-08-29 06:00:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国AI“分身”们准备好近距离亮相，就业问题引发热议 - Financial Times",
       "title_cn": "中国AI“分身”们准备好近距离亮相，就业问题引发热议 - Financial Times",
       "url": "https://news.google.com/read/CBMihAFBVV95cUxNZFBGdG1VS2pBN3RmSV93WDd4X01iaDVBaHprTnZ2X0p1a0ZlSWxtV2Jadk0zeFZteUp5VjZ4Ql84OUxLWWp6WU5CUnJGUEZHTmZTY0h2OFl6TFJuTncwTEZHenRvSFN5Y0NWNU04THFyZzc4b1ZSaW9ZdGNVcm5ycHlJNzM?hl=en-US&gl=US&ceid=US%3Aen",
@@ -319,20 +335,20 @@
       "pub_sort_dt": "2026-08-29 00:10:21"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "埃隆·马斯克旗下的X平台称，中国曾试图利用X煽动美国民众反对人工智能数据中心。这一做法奏效了吗？ - Business Insider",
-      "title_cn": "埃隆·马斯克旗下的X平台称，中国曾试图利用X煽动美国民众反对人工智能数据中心。这一做法奏效了吗？ - Business Insider",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxPTzF3UjN0aFh0ZndGWlRlU0dIcVprYTM3OUZBRXlYY0g2Rk5TLVliYnFjNkwzMzlnV2x5Tl9kZ3F2N3JVQ0tHaXpiQVZPX0JYcDl4WjlWN1d3Wl9seF94ZW80QjRiNDBFTEZpSGlTVHo2YjRxMTNmQnY0ZUJMMDR6Qnc1Y0pYb1lQYXd5VHVn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T15:49:39.000Z",
-      "pub_sort_dt": "2026-08-28 23:49:39"
+      "source": "Bloomberg",
+      "title_en": "香港餐厅点评：《Il Presidente》是一家深受意大利人喜爱的意大利餐厅",
+      "title_cn": "香港餐厅点评：《Il Presidente》是一家深受意大利人喜爱的意大利餐厅",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-29/hong-kong-review-il-presidente-is-an-italian-restaurant-loved-by-italians",
+      "pub_raw": "2026-08-29T00:20:19.081Z",
+      "pub_sort_dt": "2026-08-29 08:20:19"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国一处大型机器人农场被发现正在开展针对美国的“影响力行动”，推动协调一致的网络叙事 - Fox News",
-      "title_cn": "中国一处大型机器人农场被发现正在开展针对美国的“影响力行动”，推动协调一致的网络叙事 - Fox News",
-      "url": "https://news.google.com/read/CBMi0gFBVV95cUxPYzE5SUNpTDYzOEVvNkNiQ0t0M0ZNT01oSExCQmlkVjlKWkJ3cVJ4bHVab3pMQTNKMHpmYURzc0RhaFlqVzR5eDhJZkF5bnRxaFdFQWpZcEk2Vm1ORVZGOEl5X2R5MTR6bWxBRG0zbVhtNWlBYU9ObzBXV2dJMUJZLXd4RWVkZmRRMFlucnFtMngwQm5YeUtSNGFjeVhESUhkUVNXT2s5ZUF1cy1tUlJHbVYtbTBMOVRjRlZPWjVUeGVkanJPdUdkREFmRERLN28wb2fSAdcBQVVfeXFMT0Q4UDRMUk5vRU1YNEZuN3Y2MlBjVWRpN2o1ZmFHY2NZbzJrX3Z2WlFncF9VZWUxcU1CVTZnR0EzR3J5T09Ma211c29YdGRDWmFRZ1Jic3d2M2s1cHo3cVBid0pSUEktWXNFS0tZS1RraXNfajJvZEhaS2tlNjByMjh0OGd2N0xPbDlFUU5nd2hsWC1qWUo1RGdsV1dPa3Rpc3EyZ0JPUUNJZkJJby1QMVcybHA5UUstMWh4NU8tTWdoaTNncnkyYUNpakdFVktMS2VXdy1fRFU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T15:32:29.000Z",
-      "pub_sort_dt": "2026-08-28 23:32:29"
+      "source": "Bloomberg",
+      "title_en": "美国称与中国有关联的黑客将美国宇航局和美联储作为攻击目标",
+      "title_cn": "美国称与中国有关联的黑客将美国宇航局和美联储作为攻击目标",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/us-says-china-linked-hackers-targeted-nasa-fed-and-senate",
+      "pub_raw": "2026-08-28T23:00:18.718Z",
+      "pub_sort_dt": "2026-08-29 07:00:18"
     },
     {
       "source": "Financial Times",
@@ -477,22 +493,6 @@
       "url": "https://www.bloomberg.com/graphics/2026-opinion-land-rover-defender-chinese-lookalikes",
       "pub_raw": "2026-08-28T07:01:16.897Z",
       "pub_sort_dt": "2026-08-28 15:01:16"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国在机器人领域取得的创纪录进展，揭示了人类速度的局限性",
-      "title_cn": "中国在机器人领域取得的创纪录进展，揭示了人类速度的局限性",
-      "url": "https://reut.rs/4zJPuC7",
-      "pub_raw": "2026-08-28T06:45:18.971Z",
-      "pub_sort_dt": "2026-08-28 14:45:18"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在台湾防务的关键岛屿上，部队正为应对中国的先发制人打击做准备",
-      "title_cn": "在台湾防务的关键岛屿上，部队正为应对中国的先发制人打击做准备",
-      "url": "https://reut.rs/4hYG3Zd",
-      "pub_raw": "2026-08-28T06:29:22.727Z",
-      "pub_sort_dt": "2026-08-28 14:29:22"
     }
   ]
 }
