@@ -1,27 +1,43 @@
 {
-  "update_cst": "2026-08-29 18:01:03 北京时间",
+  "update_cst": "2026-08-29 22:01:01 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 12,
+    "Bloomberg": 11,
     "Financial Times": 2,
-    "Wall Street Journal": 0,
+    "Wall Street Journal": 1,
     "Reuters": 6
   },
   "china_news": [
     {
       "source": "China Buzzing",
       "title_en": "尼泊尔和中国恢复洪灾救援，死亡人数已超过600人 - Al Jazeera",
-      "title_cn": "尼泊尔和中国洪灾救援，失踪人数已超过600人 - 半岛电视台",
+      "title_cn": "尼泊尔和中国恢复洪灾救援，死亡人数已超过600人 - Al Jazeera",
       "url": "https://news.google.com/read/CBMiogFBVV95cUxPeFpCbVNKQmk1RXRwMzdtQ0lnSUVEVGQ1SVQwaTZ2N2MtRlpVTGRfRVh2ZENJM0Z4cXZSbUMwM0NGd3JnOVlhdGtaM1VZSUtsQ25Pa1owY19VLWljekVrOXVfbjg1MkN5cDZjalVrcURQdWo5MFhDaFdUS3JrWFY2aDJEVDczTHJEaDVBd1dhYnNRWk5WR2NjQlhDTVA0V2FXdUHSAacBQVVfeXFMT2pidHFmRXFDSGEwczQxQnpTcEg3a2ZJZ3RHUlFyUlBENmpnZkZQeDlZUEN4ZWVJSzRqNWYyenhvellWZWlwZjlNU2FXVXNqZWNaSWViSzhHVGM0R3VkX2J2Zkc2NEdocEthQWg4VG1yREtsS2tZMWVCSHE3TjVBdkppdE5NZVlhQnZkdV9FcTlUUzFzUkNLVFI4U0ZKenowZld6a1hvSDQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T07:04:12.000Z",
       "pub_sort_dt": "2026-08-29 15:04:12"
     },
     {
       "source": "China Buzzing",
+      "title_en": "中尼边境灾区附近湖泊决堤的风险正在减弱 - Reuters",
+      "title_cn": "中尼边境灾区附近湖泊决堤的风险正在减弱 - Reuters",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxORE5FMUQ3cGJsTU9PeWsxdEEyR3NyRkhHQ09oQUh3MXR6XzBuUFpoYmRxcllSa0s5SkpnVWtTN0xXRy1IQTFWd0xkX2ItVHZ6ZlJIa1Zhdi1LX1ZGZV84eWdEeWhQdTZtRzhFcmhrTDBzM3MzbDRkSVZLcmNtVVdobVVzUGgxQi1hbG90aGp2RkVwcGU4NGZHMkY5QjN2ZS1fZzF2NGRXWHU2ajhnMDlZd1N2QTF0eWM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-29T06:10:00.000Z",
+      "pub_sort_dt": "2026-08-29 14:10:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "保持不败的中国队击败越南，伊朗队将在AVC半决赛中等待中国队 - news.cgtn.com",
+      "title_cn": "保持不败的中国队击败越南，伊朗队将在AVC半决赛中等待中国队 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxQQ1E1cGhtRzQzWVVyTWhVaU9Kc2RBUFhfVHprcFJuRG5rdUpLUnh5OXRnYVlXelBiekxwN3E0S05RdkV3c0xVTi1aejBnbllDaUN1Uk1BNElERWlCTVp1dDBwdmRXNGhOa0dzRGt4VUJVc0p4aUM3ODc4cjFCU1c5NHZQQ2dEemRTYWplVlRMTF9lS1ZZbEc0LUpKV0dLTndPY0xIaEdTa1lSb00zWFFyTC1rbkd0TVkxLUE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-29T05:49:42.000Z",
+      "pub_sort_dt": "2026-08-29 13:49:42"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "欢笑、不安与如释重负：这些比赛表明，在中国的人形机器人竞赛中，中国尚未冲过终点线 - The Guardian",
-      "title_cn": "欢笑、不安与如释重负：这些比赛表演，在中国的人形机器人竞赛中，中国尚未冲过终点线 - 《卫报》",
+      "title_cn": "欢笑、不安与如释重负：这些比赛表明，在中国的人形机器人竞赛中，中国尚未冲过终点线 - The Guardian",
       "url": "https://news.google.com/read/CBMi6gFBVV95cUxOcXl5UVk1QnBWNVhVT3JVbkFrMElUdE5vUXA5WVJOckpJTS1EUk1sX1poV1d4dm8tRlZPNFFXa2VDSUJwb0hqS3dBbk5qZEp3QmxzRUJKc1ZMUVN0TXUyXzJyWkl3WlpvbkdiaHI5ekxUSlZfNzZUdldoeVhnWmVJSHE4LWotdEdvVUlFOEN6WFVaQUtjMnFad3JaTjlwRDBhZW9STWVLbGh0WlpnYWR5ZWJ4bkxIcmtrVHNRQzV2MThHSU9NTG9qODFaQ0IyZGdyd1Bid2V0OUE5STF0ejB1VHJPWmg4dmpQQlE?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T05:00:00.000Z",
       "pub_sort_dt": "2026-08-29 13:00:00"
@@ -29,15 +45,23 @@
     {
       "source": "China Buzzing",
       "title_en": "喜马拉雅山脉变化莫测。但各国正在那里进行前所未有的建设 - CNN",
-      "title_cn": "喜马拉雅山脉变化莫测。但各地正在那里进行北极的建设 - CNN",
+      "title_cn": "喜马拉雅山脉变化莫测。但各国正在那里进行前所未有的建设 - CNN",
       "url": "https://news.google.com/read/CBMilwFBVV95cUxPS2R2TWdTdEQ1Z3otd3FTN2hINURZV1FvbUxlQVNRd09wcEdYSVBnTnVZeUxZNjVRTmt3bDZWaEFpWFlLM0wxbmRKQXdUZXRlQW54b3MxM1hsekNMS2pCeHp6eFhDUGdUcFJBX0QxM054V2J0NDZsYk9oRmRzNHFCTmNCdE9PdHc2S2s4OXQwMldnTk40YXVR?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T04:06:54.000Z",
       "pub_sort_dt": "2026-08-29 12:06:54"
     },
     {
       "source": "China Buzzing",
+      "title_en": "尼泊尔和中国的洪灾幸存者已抵达安全地带，家属们仍在等待近3000名失踪人员的消息 - The Seattle Times",
+      "title_cn": "尼泊尔和中国的洪灾幸存者已抵达安全地带，家属们仍在等待近3000名失踪人员的消息 - The Seattle Times",
+      "url": "https://news.google.com/read/CBMiyAFBVV95cUxNVGJCSzMxS3FsajZrektfUnBQeHNhUHl1VERUMS1yb0xzeDFqUUNUaFpTdVdtbEJPaUkwa3Y0bFRSMmViRDJQSUkxSHNyclNEVkxpdTBqSmlVdkFLTVhOTzJxNUVlYUNsZnRMRkt6dVFnUEgtbElva2tpLTZkZFlOTmxySU51Zy1BbEtVT1pXWjdVRnVYNVRMRWlqU1dndVF4VUFfTVcxVzZSSXFpT3JXeVZTMFRzcDhmUjVxQUlEel9ZZVNmd2tHTA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-29T04:06:20.000Z",
+      "pub_sort_dt": "2026-08-29 12:06:20"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国试飞GJ-21隐形无人机，四川号076型舰进入最终海试阶段 - South China Morning Post",
-      "title_cn": "中国试飞GJ-21无人机，四川号076型舰进入最终海试阶段 - 南华早报",
+      "title_cn": "中国试飞GJ-21隐形无人机，四川号076型舰进入最终海试阶段 - South China Morning Post",
       "url": "https://news.google.com/read/CBMi0gFBVV95cUxOS3pSdDNKRmotNU92eWdRSHZFOXRpQXVVajZTWHZrRGRTNHgtTlhpTnVBZ1JSdHRRdHFjTUVTM0YwdS04WVRsY0NyR29YMUF2MVJqeDFBcW1SVVRqQWRRemdoSUVHSUVDNnpuR05zWUZJSzhpcVRMby1xczFxS0RGYW1ob1NMWEtCRkF5SlRRTTJVSUJuRkRMc2I4TnBEQ0Y5RW1ZSFVwOURUWTZJN05pYmtrcHphS1NuWFRFZGNiT2taOXRsakhwOC1ZNjdsdEh1ckHSAdIBQVVfeXFMTTM0b1AwX19keHhpb29TSzFTWklnSlZoN0I5WVU2U2VpUEJMcW9WSmRjcUlfXzY3bExXVWJKZWJoSXppWHFuV3Nlams5eUpkcWxaal8xb2xZc09Kb0c3cURIT2FZTlA1SURHZjRBcU5zTjhSYlZQUFRBMTJZZzh0aE5UU1V3VDljN2k1TkRFaTlrVGQyOXphcUk5OGNRTnVRek5FcExXUTVlbXFmQnNMTU9mc2dSUU1UNEk2dVJRTGw2ODJ0NXRhbVl2d0JOT3ZfcHh3?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T04:00:16.000Z",
       "pub_sort_dt": "2026-08-29 12:00:16"
@@ -45,7 +69,7 @@
     {
       "source": "China Buzzing",
       "title_en": "习近平如何将石油从软肋转变为地缘政治武器 - WSJ",
-      "title_cn": "习近平如何将石油从软肋转变为地缘政治武器 - 华尔街日报",
+      "title_cn": "习近平如何将石油从软肋转变为地缘政治武器 - WSJ",
       "url": "https://news.google.com/read/CBMiaEFVX3lxTE1YZmRZdEtickdiNVlKZk56RlBmbTFsTFNGa0lsb2liTUthT1NNTzZmbUpaZHlTNHd5Z0ZDY2JPNVpMRHgxcE9VSWNkMDFGSmJzY3JGeWtBMHp6ZDdWZER3cnViX0ctaFB6?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T03:00:00.000Z",
       "pub_sort_dt": "2026-08-29 11:00:00"
@@ -53,7 +77,7 @@
     {
       "source": "China Buzzing",
       "title_en": "学者称，中国需将儿童补贴提高600%以防止生育危机进一步加剧 - South China Morning Post",
-      "title_cn": "学者称，中国需防止儿童贫困提高600%以生育危机进一步加剧 - 南华早报",
+      "title_cn": "学者称，中国需将儿童补贴提高600%以防止生育危机进一步加剧 - South China Morning Post",
       "url": "https://news.google.com/read/CBMiygFBVV95cUxPWXAxSjVQYXhXSkNmNGlwQkEteHZ5M2tQcnJrTnNEREl2bVRTUFY2Nmc1UTNRQ1FsTHFvU3FPWkFUV3gwRjdKT2xsdnl2VEFQaVFRMDRJWXItUGxuTWN1eUdnbTlzQXNacm1yeU00enNrTDJRM1Z3alN0MUYwV0lsdzYxTlJrRzRfNjFYOEFqa0VZYTZ1VmE4c1dCSHhZcG9STUtnQ0hpYkNQeFFtTG45UzNEdktGMXFWTVdqNlY5Q3hLSkRuejdDd2dB0gHKAUFVX3lxTE0yZXRNZU5LekNRcXItMXNGZTYtR2Vwc0UwVE5ibXFkcGt2ZGhKZEZublpTNFphbW9YLS1QQVByUDhHbTBndF9VbHI4S2o5aDQyTll1R3VqOVlMbThpdm90RklQTFFEZ0NiRVVON1BMMTlNUWNDMHJDWTJYQ2xpTDZBYXh2OE5Zb01vYkdWYmxZbXpDbnB6UkJMckV6SWlwOEVqZmwxSXQxdU9NN0RrLVFYS0dDZlloMlpLa1RvaFhqX0dDejF3NW9hc2c?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T02:00:09.000Z",
       "pub_sort_dt": "2026-08-29 10:00:09"
@@ -65,33 +89,17 @@
       "url": "https://news.google.com/read/CBMisAFBVV95cUxQbUJsR3pkTjM5WFZSVzdlQ1NwSWp1b2lybVF2WEgzdjg1ZGdHVkxVbHBEM1pfNktDbjZNOWtqRHdJOVZRellDcG83aTlnZUtDWmV3YTRkT3FWOG9DRURWbFN4OFhqak1WbnA0d24xdzJ3S3hZbjVqN09fb1VUOXRzbldCbmg3ODN6R0NEUVlnT0w3endMYzNINTVDSjl4UXVpcV9WQU1kX1RrdEZmUFk0ag?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T01:21:00.000Z",
       "pub_sort_dt": "2026-08-29 09:21:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "CXMT因被列入与中国军方有关联的企业名单而起诉五角大楼 - Reuters",
-      "title_cn": "CXMT因被列入与中国有关联的企业名单并起诉五角大楼 - 路透中文网",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxQTzlZZ0RUM29YdFNQNXEtM0ZoZ19GVGZUd0pWMl9SbzUzN2RtNnJkMXYyUnpPQjlYbUlKYmhOa3g4WXRGR1VYZ2JNckZKaG5XbGxDMUMwcEtDWU9HbXVHcnV1NHB3RkJ0b0VaRjA4X19pRXRIMGRmTkdPejVhU0FuQ25KaW1PZDJEVzVGUFJINGEtLXUtaEZLZm5CcElrQWZVOUVlLUEwUnBCc3RmM3prdQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-29T00:18:00.000Z",
-      "pub_sort_dt": "2026-08-29 08:18:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在特大洪灾肆虐之际，10名来自北弗吉尼亚州的徒步者在中尼边境附近仍下落不明 - WTOP News",
-      "title_cn": "在特大洪灾肆虐之际，10名来自北弗吉尼亚州的徒步者在中尼边境附近仍下落不明 - WTOP News",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxPUDNlcDlHYW51SE1xamU3dzZMc2ZzMk1aeDR0WGNjY21GSG5HXzcyaFRrRUNBb203UWg3aFJSd3ZpdnlMMFgxM2JxV3FFM3YzZ3Q4N2ItcTVSS0FhUjd3TEZkdU1FX2NpYUhmRDRBUFV6U3JXV0E0R0tLNjJKM2dudWhwMXNKX2l2SGhVcFdTUFA5M2FQSDlTUVJuZW1iTFlJOGg0RmI0bEVMNTlGVkdNc3BENEhJTjJqd0dWOVd3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T22:48:59.000Z",
-      "pub_sort_dt": "2026-08-29 06:48:59"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "西藏-尼泊尔洪灾：中国国内未播放令人震惊的画面——我们对那里的遇难者知之甚少 - BBC",
-      "title_cn": "西藏-尼泊尔境内洪灾：中国未播放令人震惊的画面——我们对那里的遇难者知甚少 - BBC",
-      "url": "https://news.google.com/read/CBMiWkFVX3lxTE56enhaLUp0NDNIMlp3el9EZHJKZUdPZ2dKTUN5Mi1BNDhka3NqTDFIaUZyeEs2STA1dGJYejFpUlBMUHQtQVVLWm4wUGo1R0VZS3pLRjBiTXRYQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T22:05:41.000Z",
-      "pub_sort_dt": "2026-08-29 06:05:41"
     }
   ],
   "media_news": [
+    {
+      "source": "Wall Street Journal",
+      "title_en": "美国官员表示，美国为对抗伊朗而向中东紧急调拨了大量弹药，以至于规划人员担心，火力的流失正在削弱美军抵御来自中国和俄罗斯潜在威胁的能力。",
+      "title_cn": "美国官员表示，美国为对抗伊朗而向中东紧急调拨了大量弹药，以至于规划人员担心，火力的流失正在削弱美军抵御来自中国和俄罗斯潜在威胁的能力。",
+      "url": "https://on.wsj.com/4gXpR9n",
+      "pub_raw": "2026-08-29T13:09:30.014Z",
+      "pub_sort_dt": "2026-08-29 21:09:30"
+    },
     {
       "source": "Bloomberg",
       "title_en": "中国人工智能热潮的核心——那家酒吧",
@@ -101,17 +109,9 @@
       "pub_sort_dt": "2026-08-29 16:20:39"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "尼泊尔和中国加紧救援行动，数千人下落不明",
-      "title_cn": "尼泊尔和中国加紧救援行动，数千人下落不明",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-29/nearly-2-500-missing-as-nepal-china-intensify-rescue-efforts",
-      "pub_raw": "2026-08-29T06:44:17.866Z",
-      "pub_sort_dt": "2026-08-29 14:44:17"
-    },
-    {
       "source": "Reuters",
       "title_en": "CXMT因被列入与中国军方有关联的企业名单而起诉五角大楼",
-      "title_cn": "CXMT因被列入与中国有关联的企业名单并起诉五角大楼",
+      "title_cn": "CXMT因被列入与中国军方有关联的企业名单而起诉五角大楼",
       "url": "https://reut.rs/3SEzpwJ",
       "pub_raw": "2026-08-29T04:36:10.170Z",
       "pub_sort_dt": "2026-08-29 12:36:10"
@@ -119,7 +119,7 @@
     {
       "source": "Financial Times",
       "title_en": "这家中国品牌志在引领欧洲越野跑领域",
-      "title_cn": "这个中国品牌志在引领欧洲越野跑领域",
+      "title_cn": "这家中国品牌志在引领欧洲越野跑领域",
       "url": "https://www.ft.com/content/e8e3d7b1-2955-4b55-aa76-cb3f18aacc8c?syn-25a6b1a6=1",
       "pub_raw": "2026-08-29T02:28:28.116Z",
       "pub_sort_dt": "2026-08-29 10:28:28"
@@ -135,7 +135,7 @@
     {
       "source": "Bloomberg",
       "title_en": "美国称与中国有关联的黑客将美国宇航局和美联储作为攻击目标",
-      "title_cn": "美国称与中国有联系的黑客将美国宇航局和美联储作为攻击目标",
+      "title_cn": "美国称与中国有关联的黑客将美国宇航局和美联储作为攻击目标",
       "url": "https://www.bloomberg.com/news/articles/2026-08-27/us-says-china-linked-hackers-targeted-nasa-fed-and-senate",
       "pub_raw": "2026-08-28T23:00:18.718Z",
       "pub_sort_dt": "2026-08-29 07:00:18"
@@ -143,7 +143,7 @@
     {
       "source": "Financial Times",
       "title_en": "中国AI“分身”准备亮相，就业问题引发关注",
-      "title_cn": "中国AI“分身”准备出台，就业问题引发关注",
+      "title_cn": "中国AI“分身”准备亮相，就业问题引发关注",
       "url": "https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?syn-25a6b1a6=1",
       "pub_raw": "2026-08-28T20:52:36.633Z",
       "pub_sort_dt": "2026-08-29 04:52:36"
@@ -151,7 +151,7 @@
     {
       "source": "Reuters",
       "title_en": "美国官员就“政府机构遭中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
-      "title_cn": "美国官员对“政府机构遭受中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
+      "title_cn": "美国官员就“政府机构遭中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
       "url": "https://reut.rs/46v3Okq",
       "pub_raw": "2026-08-28T20:21:04.759Z",
       "pub_sort_dt": "2026-08-29 04:21:04"
@@ -167,7 +167,7 @@
     {
       "source": "Reuters",
       "title_en": "评论：周末读物：Meta的人工智能反抗、中国的权力博弈、美联储的表态之争",
-      "title_cn": "评论：周末读物：元的人工智能统治、中国的权力博弈、美联储的表态之争",
+      "title_cn": "评论：周末读物：Meta的人工智能反抗、中国的权力博弈、美联储的表态之争",
       "url": "https://reut.rs/4zF4qRW",
       "pub_raw": "2026-08-28T14:44:32.975Z",
       "pub_sort_dt": "2026-08-28 22:44:32"
@@ -183,7 +183,7 @@
     {
       "source": "Reuters",
       "title_en": "中国将多名高级将领从中央军事委员会中撤职",
-      "title_cn": "中国军事将领从中央委员会中撤职",
+      "title_cn": "中国将多名高级将领从中央军事委员会中撤职",
       "url": "https://reut.rs/4zH0QGX",
       "pub_raw": "2026-08-28T13:56:25.746Z",
       "pub_sort_dt": "2026-08-28 21:56:25"
@@ -215,7 +215,7 @@
     {
       "source": "Bloomberg",
       "title_en": "在内存短缺背景下，中国芯片制造商CXMT销售额激增",
-      "title_cn": "在内存背景下，中国芯片制造商CXMT收购",
+      "title_cn": "在内存短缺背景下，中国芯片制造商CXMT销售额激增",
       "url": "https://www.bloomberg.com/news/articles/2026-08-28/chinese-chipmaker-cxmt-s-sales-jump-10-fold-as-ai-demand-soars",
       "pub_raw": "2026-08-28T12:04:49.221Z",
       "pub_sort_dt": "2026-08-28 20:04:49"
@@ -223,7 +223,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国石油巨头揭示：中国对进口的依赖程度正在降低",
-      "title_cn": "中国石油派对揭示：中国对进口的依赖程度正在降低",
+      "title_cn": "中国石油巨头揭示：中国对进口的依赖程度正在降低",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-28/china-s-oil-majors-reveal-a-nation-less-reliant-on-imports",
       "pub_raw": "2026-08-28T11:32:38.462Z",
       "pub_sort_dt": "2026-08-28 19:32:38"
@@ -231,7 +231,7 @@
     {
       "source": "Reuters",
       "title_en": "路透社调查显示：今年中国房价跌幅预计将略有收窄，房地产投资下滑态势加剧",
-      "title_cn": "路透社调查显示：今年中国房价跌幅预计将收窄，房地产投资开始大幅上涨",
+      "title_cn": "路透社调查显示：今年中国房价跌幅预计将略有收窄，房地产投资下滑态势加剧",
       "url": "https://reut.rs/4ycTpWB",
       "pub_raw": "2026-08-28T11:32:38.279Z",
       "pub_sort_dt": "2026-08-28 19:32:38"
@@ -257,15 +257,31 @@
     {
       "source": "China Buzzing",
       "title_en": "尼泊尔和中国恢复洪灾救援，死亡人数已超过600人 - Al Jazeera",
-      "title_cn": "尼泊尔和中国洪灾救援，失踪人数已超过600人 - 半岛电视台",
+      "title_cn": "尼泊尔和中国恢复洪灾救援，死亡人数已超过600人 - Al Jazeera",
       "url": "https://news.google.com/read/CBMiogFBVV95cUxPeFpCbVNKQmk1RXRwMzdtQ0lnSUVEVGQ1SVQwaTZ2N2MtRlpVTGRfRVh2ZENJM0Z4cXZSbUMwM0NGd3JnOVlhdGtaM1VZSUtsQ25Pa1owY19VLWljekVrOXVfbjg1MkN5cDZjalVrcURQdWo5MFhDaFdUS3JrWFY2aDJEVDczTHJEaDVBd1dhYnNRWk5WR2NjQlhDTVA0V2FXdUHSAacBQVVfeXFMT2pidHFmRXFDSGEwczQxQnpTcEg3a2ZJZ3RHUlFyUlBENmpnZkZQeDlZUEN4ZWVJSzRqNWYyenhvellWZWlwZjlNU2FXVXNqZWNaSWViSzhHVGM0R3VkX2J2Zkc2NEdocEthQWg4VG1yREtsS2tZMWVCSHE3TjVBdkppdE5NZVlhQnZkdV9FcTlUUzFzUkNLVFI4U0ZKenowZld6a1hvSDQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T07:04:12.000Z",
       "pub_sort_dt": "2026-08-29 15:04:12"
     },
     {
       "source": "China Buzzing",
+      "title_en": "中尼边境灾区附近湖泊决堤的风险正在减弱 - Reuters",
+      "title_cn": "中尼边境灾区附近湖泊决堤的风险正在减弱 - Reuters",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxORE5FMUQ3cGJsTU9PeWsxdEEyR3NyRkhHQ09oQUh3MXR6XzBuUFpoYmRxcllSa0s5SkpnVWtTN0xXRy1IQTFWd0xkX2ItVHZ6ZlJIa1Zhdi1LX1ZGZV84eWdEeWhQdTZtRzhFcmhrTDBzM3MzbDRkSVZLcmNtVVdobVVzUGgxQi1hbG90aGp2RkVwcGU4NGZHMkY5QjN2ZS1fZzF2NGRXWHU2ajhnMDlZd1N2QTF0eWM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-29T06:10:00.000Z",
+      "pub_sort_dt": "2026-08-29 14:10:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "保持不败的中国队击败越南，伊朗队将在AVC半决赛中等待中国队 - news.cgtn.com",
+      "title_cn": "保持不败的中国队击败越南，伊朗队将在AVC半决赛中等待中国队 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxQQ1E1cGhtRzQzWVVyTWhVaU9Kc2RBUFhfVHprcFJuRG5rdUpLUnh5OXRnYVlXelBiekxwN3E0S05RdkV3c0xVTi1aejBnbllDaUN1Uk1BNElERWlCTVp1dDBwdmRXNGhOa0dzRGt4VUJVc0p4aUM3ODc4cjFCU1c5NHZQQ2dEemRTYWplVlRMTF9lS1ZZbEc0LUpKV0dLTndPY0xIaEdTa1lSb00zWFFyTC1rbkd0TVkxLUE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-29T05:49:42.000Z",
+      "pub_sort_dt": "2026-08-29 13:49:42"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "欢笑、不安与如释重负：这些比赛表明，在中国的人形机器人竞赛中，中国尚未冲过终点线 - The Guardian",
-      "title_cn": "欢笑、不安与如释重负：这些比赛表演，在中国的人形机器人竞赛中，中国尚未冲过终点线 - 《卫报》",
+      "title_cn": "欢笑、不安与如释重负：这些比赛表明，在中国的人形机器人竞赛中，中国尚未冲过终点线 - The Guardian",
       "url": "https://news.google.com/read/CBMi6gFBVV95cUxOcXl5UVk1QnBWNVhVT3JVbkFrMElUdE5vUXA5WVJOckpJTS1EUk1sX1poV1d4dm8tRlZPNFFXa2VDSUJwb0hqS3dBbk5qZEp3QmxzRUJKc1ZMUVN0TXUyXzJyWkl3WlpvbkdiaHI5ekxUSlZfNzZUdldoeVhnWmVJSHE4LWotdEdvVUlFOEN6WFVaQUtjMnFad3JaTjlwRDBhZW9STWVLbGh0WlpnYWR5ZWJ4bkxIcmtrVHNRQzV2MThHSU9NTG9qODFaQ0IyZGdyd1Bid2V0OUE5STF0ejB1VHJPWmg4dmpQQlE?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T05:00:00.000Z",
       "pub_sort_dt": "2026-08-29 13:00:00"
@@ -273,15 +289,23 @@
     {
       "source": "China Buzzing",
       "title_en": "喜马拉雅山脉变化莫测。但各国正在那里进行前所未有的建设 - CNN",
-      "title_cn": "喜马拉雅山脉变化莫测。但各地正在那里进行北极的建设 - CNN",
+      "title_cn": "喜马拉雅山脉变化莫测。但各国正在那里进行前所未有的建设 - CNN",
       "url": "https://news.google.com/read/CBMilwFBVV95cUxPS2R2TWdTdEQ1Z3otd3FTN2hINURZV1FvbUxlQVNRd09wcEdYSVBnTnVZeUxZNjVRTmt3bDZWaEFpWFlLM0wxbmRKQXdUZXRlQW54b3MxM1hsekNMS2pCeHp6eFhDUGdUcFJBX0QxM054V2J0NDZsYk9oRmRzNHFCTmNCdE9PdHc2S2s4OXQwMldnTk40YXVR?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T04:06:54.000Z",
       "pub_sort_dt": "2026-08-29 12:06:54"
     },
     {
       "source": "China Buzzing",
+      "title_en": "尼泊尔和中国的洪灾幸存者已抵达安全地带，家属们仍在等待近3000名失踪人员的消息 - The Seattle Times",
+      "title_cn": "尼泊尔和中国的洪灾幸存者已抵达安全地带，家属们仍在等待近3000名失踪人员的消息 - The Seattle Times",
+      "url": "https://news.google.com/read/CBMiyAFBVV95cUxNVGJCSzMxS3FsajZrektfUnBQeHNhUHl1VERUMS1yb0xzeDFqUUNUaFpTdVdtbEJPaUkwa3Y0bFRSMmViRDJQSUkxSHNyclNEVkxpdTBqSmlVdkFLTVhOTzJxNUVlYUNsZnRMRkt6dVFnUEgtbElva2tpLTZkZFlOTmxySU51Zy1BbEtVT1pXWjdVRnVYNVRMRWlqU1dndVF4VUFfTVcxVzZSSXFpT3JXeVZTMFRzcDhmUjVxQUlEel9ZZVNmd2tHTA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-29T04:06:20.000Z",
+      "pub_sort_dt": "2026-08-29 12:06:20"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国试飞GJ-21隐形无人机，四川号076型舰进入最终海试阶段 - South China Morning Post",
-      "title_cn": "中国试飞GJ-21无人机，四川号076型舰进入最终海试阶段 - 南华早报",
+      "title_cn": "中国试飞GJ-21隐形无人机，四川号076型舰进入最终海试阶段 - South China Morning Post",
       "url": "https://news.google.com/read/CBMi0gFBVV95cUxOS3pSdDNKRmotNU92eWdRSHZFOXRpQXVVajZTWHZrRGRTNHgtTlhpTnVBZ1JSdHRRdHFjTUVTM0YwdS04WVRsY0NyR29YMUF2MVJqeDFBcW1SVVRqQWRRemdoSUVHSUVDNnpuR05zWUZJSzhpcVRMby1xczFxS0RGYW1ob1NMWEtCRkF5SlRRTTJVSUJuRkRMc2I4TnBEQ0Y5RW1ZSFVwOURUWTZJN05pYmtrcHphS1NuWFRFZGNiT2taOXRsakhwOC1ZNjdsdEh1ckHSAdIBQVVfeXFMTTM0b1AwX19keHhpb29TSzFTWklnSlZoN0I5WVU2U2VpUEJMcW9WSmRjcUlfXzY3bExXVWJKZWJoSXppWHFuV3Nlams5eUpkcWxaal8xb2xZc09Kb0c3cURIT2FZTlA1SURHZjRBcU5zTjhSYlZQUFRBMTJZZzh0aE5UU1V3VDljN2k1TkRFaTlrVGQyOXphcUk5OGNRTnVRek5FcExXUTVlbXFmQnNMTU9mc2dSUU1UNEk2dVJRTGw2ODJ0NXRhbVl2d0JOT3ZfcHh3?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T04:00:16.000Z",
       "pub_sort_dt": "2026-08-29 12:00:16"
@@ -289,7 +313,7 @@
     {
       "source": "China Buzzing",
       "title_en": "习近平如何将石油从软肋转变为地缘政治武器 - WSJ",
-      "title_cn": "习近平如何将石油从软肋转变为地缘政治武器 - 华尔街日报",
+      "title_cn": "习近平如何将石油从软肋转变为地缘政治武器 - WSJ",
       "url": "https://news.google.com/read/CBMiaEFVX3lxTE1YZmRZdEtickdiNVlKZk56RlBmbTFsTFNGa0lsb2liTUthT1NNTzZmbUpaZHlTNHd5Z0ZDY2JPNVpMRHgxcE9VSWNkMDFGSmJzY3JGeWtBMHp6ZDdWZER3cnViX0ctaFB6?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T03:00:00.000Z",
       "pub_sort_dt": "2026-08-29 11:00:00"
@@ -297,7 +321,7 @@
     {
       "source": "China Buzzing",
       "title_en": "学者称，中国需将儿童补贴提高600%以防止生育危机进一步加剧 - South China Morning Post",
-      "title_cn": "学者称，中国需防止儿童贫困提高600%以生育危机进一步加剧 - 南华早报",
+      "title_cn": "学者称，中国需将儿童补贴提高600%以防止生育危机进一步加剧 - South China Morning Post",
       "url": "https://news.google.com/read/CBMiygFBVV95cUxPWXAxSjVQYXhXSkNmNGlwQkEteHZ5M2tQcnJrTnNEREl2bVRTUFY2Nmc1UTNRQ1FsTHFvU3FPWkFUV3gwRjdKT2xsdnl2VEFQaVFRMDRJWXItUGxuTWN1eUdnbTlzQXNacm1yeU00enNrTDJRM1Z3alN0MUYwV0lsdzYxTlJrRzRfNjFYOEFqa0VZYTZ1VmE4c1dCSHhZcG9STUtnQ0hpYkNQeFFtTG45UzNEdktGMXFWTVdqNlY5Q3hLSkRuejdDd2dB0gHKAUFVX3lxTE0yZXRNZU5LekNRcXItMXNGZTYtR2Vwc0UwVE5ibXFkcGt2ZGhKZEZublpTNFphbW9YLS1QQVByUDhHbTBndF9VbHI4S2o5aDQyTll1R3VqOVlMbThpdm90RklQTFFEZ0NiRVVON1BMMTlNUWNDMHJDWTJYQ2xpTDZBYXh2OE5Zb01vYkdWYmxZbXpDbnB6UkJMckV6SWlwOEVqZmwxSXQxdU9NN0RrLVFYS0dDZlloMlpLa1RvaFhqX0dDejF3NW9hc2c?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-29T02:00:09.000Z",
       "pub_sort_dt": "2026-08-29 10:00:09"
@@ -311,28 +335,12 @@
       "pub_sort_dt": "2026-08-29 09:21:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "CXMT因被列入与中国军方有关联的企业名单而起诉五角大楼 - Reuters",
-      "title_cn": "CXMT因被列入与中国有关联的企业名单并起诉五角大楼 - 路透中文网",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxQTzlZZ0RUM29YdFNQNXEtM0ZoZ19GVGZUd0pWMl9SbzUzN2RtNnJkMXYyUnpPQjlYbUlKYmhOa3g4WXRGR1VYZ2JNckZKaG5XbGxDMUMwcEtDWU9HbXVHcnV1NHB3RkJ0b0VaRjA4X19pRXRIMGRmTkdPejVhU0FuQ25KaW1PZDJEVzVGUFJINGEtLXUtaEZLZm5CcElrQWZVOUVlLUEwUnBCc3RmM3prdQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-29T00:18:00.000Z",
-      "pub_sort_dt": "2026-08-29 08:18:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在特大洪灾肆虐之际，10名来自北弗吉尼亚州的徒步者在中尼边境附近仍下落不明 - WTOP News",
-      "title_cn": "在特大洪灾肆虐之际，10名来自北弗吉尼亚州的徒步者在中尼边境附近仍下落不明 - WTOP News",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxPUDNlcDlHYW51SE1xamU3dzZMc2ZzMk1aeDR0WGNjY21GSG5HXzcyaFRrRUNBb203UWg3aFJSd3ZpdnlMMFgxM2JxV3FFM3YzZ3Q4N2ItcTVSS0FhUjd3TEZkdU1FX2NpYUhmRDRBUFV6U3JXV0E0R0tLNjJKM2dudWhwMXNKX2l2SGhVcFdTUFA5M2FQSDlTUVJuZW1iTFlJOGg0RmI0bEVMNTlGVkdNc3BENEhJTjJqd0dWOVd3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T22:48:59.000Z",
-      "pub_sort_dt": "2026-08-29 06:48:59"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "西藏-尼泊尔洪灾：中国国内未播放令人震惊的画面——我们对那里的遇难者知之甚少 - BBC",
-      "title_cn": "西藏-尼泊尔境内洪灾：中国未播放令人震惊的画面——我们对那里的遇难者知甚少 - BBC",
-      "url": "https://news.google.com/read/CBMiWkFVX3lxTE56enhaLUp0NDNIMlp3el9EZHJKZUdPZ2dKTUN5Mi1BNDhka3NqTDFIaUZyeEs2STA1dGJYejFpUlBMUHQtQVVLWm4wUGo1R0VZS3pLRjBiTXRYQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-28T22:05:41.000Z",
-      "pub_sort_dt": "2026-08-29 06:05:41"
+      "source": "Wall Street Journal",
+      "title_en": "美国官员表示，美国为对抗伊朗而向中东紧急调拨了大量弹药，以至于规划人员担心，火力的流失正在削弱美军抵御来自中国和俄罗斯潜在威胁的能力。",
+      "title_cn": "美国官员表示，美国为对抗伊朗而向中东紧急调拨了大量弹药，以至于规划人员担心，火力的流失正在削弱美军抵御来自中国和俄罗斯潜在威胁的能力。",
+      "url": "https://on.wsj.com/4gXpR9n",
+      "pub_raw": "2026-08-29T13:09:30.014Z",
+      "pub_sort_dt": "2026-08-29 21:09:30"
     },
     {
       "source": "Bloomberg",
@@ -343,17 +351,9 @@
       "pub_sort_dt": "2026-08-29 16:20:39"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "尼泊尔和中国加紧救援行动，数千人下落不明",
-      "title_cn": "尼泊尔和中国加紧救援行动，数千人下落不明",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-29/nearly-2-500-missing-as-nepal-china-intensify-rescue-efforts",
-      "pub_raw": "2026-08-29T06:44:17.866Z",
-      "pub_sort_dt": "2026-08-29 14:44:17"
-    },
-    {
       "source": "Reuters",
       "title_en": "CXMT因被列入与中国军方有关联的企业名单而起诉五角大楼",
-      "title_cn": "CXMT因被列入与中国有关联的企业名单并起诉五角大楼",
+      "title_cn": "CXMT因被列入与中国军方有关联的企业名单而起诉五角大楼",
       "url": "https://reut.rs/3SEzpwJ",
       "pub_raw": "2026-08-29T04:36:10.170Z",
       "pub_sort_dt": "2026-08-29 12:36:10"
@@ -361,7 +361,7 @@
     {
       "source": "Financial Times",
       "title_en": "这家中国品牌志在引领欧洲越野跑领域",
-      "title_cn": "这个中国品牌志在引领欧洲越野跑领域",
+      "title_cn": "这家中国品牌志在引领欧洲越野跑领域",
       "url": "https://www.ft.com/content/e8e3d7b1-2955-4b55-aa76-cb3f18aacc8c?syn-25a6b1a6=1",
       "pub_raw": "2026-08-29T02:28:28.116Z",
       "pub_sort_dt": "2026-08-29 10:28:28"
@@ -377,7 +377,7 @@
     {
       "source": "Bloomberg",
       "title_en": "美国称与中国有关联的黑客将美国宇航局和美联储作为攻击目标",
-      "title_cn": "美国称与中国有联系的黑客将美国宇航局和美联储作为攻击目标",
+      "title_cn": "美国称与中国有关联的黑客将美国宇航局和美联储作为攻击目标",
       "url": "https://www.bloomberg.com/news/articles/2026-08-27/us-says-china-linked-hackers-targeted-nasa-fed-and-senate",
       "pub_raw": "2026-08-28T23:00:18.718Z",
       "pub_sort_dt": "2026-08-29 07:00:18"
@@ -385,7 +385,7 @@
     {
       "source": "Financial Times",
       "title_en": "中国AI“分身”准备亮相，就业问题引发关注",
-      "title_cn": "中国AI“分身”准备出台，就业问题引发关注",
+      "title_cn": "中国AI“分身”准备亮相，就业问题引发关注",
       "url": "https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?syn-25a6b1a6=1",
       "pub_raw": "2026-08-28T20:52:36.633Z",
       "pub_sort_dt": "2026-08-29 04:52:36"
@@ -393,7 +393,7 @@
     {
       "source": "Reuters",
       "title_en": "美国官员就“政府机构遭中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
-      "title_cn": "美国官员对“政府机构遭受中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
+      "title_cn": "美国官员就“政府机构遭中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
       "url": "https://reut.rs/46v3Okq",
       "pub_raw": "2026-08-28T20:21:04.759Z",
       "pub_sort_dt": "2026-08-29 04:21:04"
@@ -409,7 +409,7 @@
     {
       "source": "Reuters",
       "title_en": "评论：周末读物：Meta的人工智能反抗、中国的权力博弈、美联储的表态之争",
-      "title_cn": "评论：周末读物：元的人工智能统治、中国的权力博弈、美联储的表态之争",
+      "title_cn": "评论：周末读物：Meta的人工智能反抗、中国的权力博弈、美联储的表态之争",
       "url": "https://reut.rs/4zF4qRW",
       "pub_raw": "2026-08-28T14:44:32.975Z",
       "pub_sort_dt": "2026-08-28 22:44:32"
@@ -425,7 +425,7 @@
     {
       "source": "Reuters",
       "title_en": "中国将多名高级将领从中央军事委员会中撤职",
-      "title_cn": "中国军事将领从中央委员会中撤职",
+      "title_cn": "中国将多名高级将领从中央军事委员会中撤职",
       "url": "https://reut.rs/4zH0QGX",
       "pub_raw": "2026-08-28T13:56:25.746Z",
       "pub_sort_dt": "2026-08-28 21:56:25"
@@ -457,7 +457,7 @@
     {
       "source": "Bloomberg",
       "title_en": "在内存短缺背景下，中国芯片制造商CXMT销售额激增",
-      "title_cn": "在内存背景下，中国芯片制造商CXMT收购",
+      "title_cn": "在内存短缺背景下，中国芯片制造商CXMT销售额激增",
       "url": "https://www.bloomberg.com/news/articles/2026-08-28/chinese-chipmaker-cxmt-s-sales-jump-10-fold-as-ai-demand-soars",
       "pub_raw": "2026-08-28T12:04:49.221Z",
       "pub_sort_dt": "2026-08-28 20:04:49"
@@ -465,7 +465,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国石油巨头揭示：中国对进口的依赖程度正在降低",
-      "title_cn": "中国石油派对揭示：中国对进口的依赖程度正在降低",
+      "title_cn": "中国石油巨头揭示：中国对进口的依赖程度正在降低",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-28/china-s-oil-majors-reveal-a-nation-less-reliant-on-imports",
       "pub_raw": "2026-08-28T11:32:38.462Z",
       "pub_sort_dt": "2026-08-28 19:32:38"
@@ -473,7 +473,7 @@
     {
       "source": "Reuters",
       "title_en": "路透社调查显示：今年中国房价跌幅预计将略有收窄，房地产投资下滑态势加剧",
-      "title_cn": "路透社调查显示：今年中国房价跌幅预计将收窄，房地产投资开始大幅上涨",
+      "title_cn": "路透社调查显示：今年中国房价跌幅预计将略有收窄，房地产投资下滑态势加剧",
       "url": "https://reut.rs/4ycTpWB",
       "pub_raw": "2026-08-28T11:32:38.279Z",
       "pub_sort_dt": "2026-08-28 19:32:38"
