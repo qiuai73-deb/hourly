@@ -1,15 +1,31 @@
 {
-  "update_cst": "2026-08-31 15:01:04 北京时间",
+  "update_cst": "2026-08-31 18:01:04 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 10,
+    "Bloomberg": 11,
     "Financial Times": 2,
     "Wall Street Journal": 1,
-    "Reuters": 7
+    "Reuters": 6
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "国防界叛国案：中国披露一桩高管为两国从事间谍活动的罕见案例 - South China Morning Post",
+      "title_cn": "国防界叛国案：中国披露一桩高管为两国从事间谍活动的罕见案例 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxQcGdfRTNKa240LW1SWnZUZjdfeFVsQnhKYzd5Ykt2TkNNenV5ZFBSYXhsZXFzU0dNSmhfN3J0YXlzZkoxYlJ6QlRvV1VSZ3p6VTdjZnJEcDVMVTFHMFhfNzZHTlFFNTc4Sl9YVDNKcW5fWkhvUkJpUVFObmlYSmoxWXJRY09pd3BvdDJYSlpNZWY3S3ZMLU9MdU9hVGI1eHA3YUhsNEVsT3l4R2pXcU5LSmJQYzl6MVRyNE15Z2RmMTh0bnJUVG9Pd1NhMU9RUdIBzgFBVV95cUxOcTR4bl9jT25Xd1dJWDc4YVlLTnhtZ0tIQ0hPTnJiSWtyWGNuVFBRWFpwVEZxMGJaWTU0elB4Vk9oWUZSSGlxdXBObFEtMEJNMG1mdmNVNVlPaERwSE5uUnZoelFvMDYwUllWZTItYUlGbHpuSXRJVjdmR2l5N2FONE5Ec2FIYUVsb0pTMUhSZGdzRkZnVXUtOTVvS1pDbXBjX3VKYi1XbU9iZU5nb21Cd0FRTEE1ZHlaak9JVWdZazNVSlhnRUdLamVQTDJWQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T09:00:14.000Z",
+      "pub_sort_dt": "2026-08-31 17:00:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国选手吴一兵、王新宇晋级美网第二轮 - news.cgtn.com",
+      "title_cn": "中国选手吴一兵、王新宇晋级美网第二轮 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxQX3FZMlZaV21IWGVGWkpJaTVQZG9LU1hYVzFXRHVVN3BzX1dKVjlXVE5mU2E0REM1emozS19rMnVPUVdkVDIybko3WUNPYV9xZ0g5VlNLMm9ScUR3VC11TkZ4MWJ5MDV1ejY4dzRZcVNGeVg1cEFaa05DQ0dqQlo1YmhSWWZ1dFhhdm5sSWFrR2hNTlFDMmxDVXR2aVdzbFpCUXdOQ25WMkRtOHd6Y1RveHZqT0dXRE41MTBhaw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T05:24:43.000Z",
+      "pub_sort_dt": "2026-08-31 13:24:43"
+    },
     {
       "source": "China Buzzing",
       "title_en": "在与特朗普举行峰会前，中国国家主席习近平通过多次国事访问增强了外交影响力 - CNBC",
@@ -20,11 +36,35 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "受供应短缺影响，中国炼焦煤价格有望创下月度最大涨幅 - Bloomberg.com",
+      "title_cn": "受供应短缺影响，中国炼焦煤价格有望创下月度最大涨幅 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxPdDZPZWZxZ1F5VnU0X1ZNVU1ORENwWmdSNURjcGNRVVRVMXcyRTNLcmZmSkZIUWRFUnlUSUVOTHZVM01kbjFUZENCSGk4al8wQ1hvc05hbjhlSVltZW5rOTN1Skh0ekZPakdIR2VnM1FYaHVHVDlhYi1wVW50dVJhd0pobGpILUd4ajY5aE9DdlBERlF4dWE5RVhuenN1Ym9ZNjBVM2JLYmdlQWI1NTQ1RW9rUzlsZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T04:54:00.000Z",
+      "pub_sort_dt": "2026-08-31 12:54:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "路透社称，贝森特将敦促二十国集团重新考虑与中国的贸易条款 - Bloomberg.com",
+      "title_cn": "路透社称，贝森特将敦促二十国集团重新考虑与中国的贸易条款 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxNem5JZFRaQmtXaENvYk5lOXJhSjAwOEx3bThLRWZ1SnNrTzh0VTFFaU9wemFDVTNocFhuSEpEMk9aTTBJSzBNWXlQT2JHdFdENHN5TGhtYWdSdHNFOThZWWRpbGNWWW9GOFdta2ZGcnpONVVUdjlOS2pCRi0zZklwMXlPTkxEOEdZQVlRMEdMYUF3OXBYclYyUzFIZzB2OEpHcHNTdG5wWjFlcGs5RTRxRFB3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T04:51:00.000Z",
+      "pub_sort_dt": "2026-08-31 12:51:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "俄罗斯和中国领导人将在上海合作组织峰会上会晤 - Al Jazeera",
       "title_cn": "俄罗斯和中国领导人将在上海合作组织峰会上会晤 - Al Jazeera",
       "url": "https://news.google.com/read/CBMiswFBVV95cUxNUWs1bDVaanU5SnFKU1Z6TkRZM0J5MnQteVRRamVTaERpWk5rLVBsazZOeDM0ZDdNTFA2a0xjcnU0S25nS0xYdXVoWnUzRk5qMEVrTEsxRmd3LUkzXzFvMHdJdjFDb0F5SDNZcVBROHkzNEViVFVwVnRmU24zSnA3X0FfQnRhcnpkTzNjOGtSNFJpQUEzM3BKZUhzYV9Nd2xqNXBpMGRCMkFteTZ2M2xRZndtNNIBuAFBVV95cUxPWmtuOUlzbUI4ZXJkNERGMDdIaHRiTjNWZ3hRcHVpbTN3VXgyUWVfOS1sODl4dDltQTZ6clg3MFhTOVdhZm9GVVNCNVVhWDBfaTNwWXNzRGtlTEdnRHQwVXpIb0ZYWmtGMFJXdE1mRE43NXdnd0lNWHVQbExlUGJmQU9sdU5iclNfOWtmT1JGVTBIMFREbjdkM2pLY00ydnNQMk01ZDN4MnRFdGlpSElUWndiOXRHWlJl?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-31T04:25:39.000Z",
       "pub_sort_dt": "2026-08-31 12:25:39"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着Shein在香港上市，人工智能和机器人技术推动中国IPO热潮 - WRAL",
+      "title_cn": "随着Shein在香港上市，人工智能和机器人技术推动中国IPO热潮 - WRAL",
+      "url": "https://news.google.com/read/CBMiqgFBVV95cUxNcDBzU3RVcGh4c1lQV3lCbzJXMWRWTzBPUzZYWnJmNV9OUzIyMVRZUUZmaXNzdGRvVURxa0NjcVlOYk4xM3dMb0VPaExJZUtFbE5jb2E4NUJScXZSeFJhbDR3UFluTERhbHZNUDl2RHBnazJmTjcxbjlIWnVPV2NUNjVRQXRLRG5kYTcwT29wVnI4WUE0QlBYcTdxWVRNbVVqMWRFX1M1VWNzQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T04:16:52.000Z",
+      "pub_sort_dt": "2026-08-31 12:16:52"
     },
     {
       "source": "China Buzzing",
@@ -44,54 +84,46 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国正在围绕无人机和机器人设置各种障碍，但中国凭借其规模优势能够绕过这些障碍 - TechCrunch",
-      "title_cn": "美国正在围绕无人机和机器人设置各种障碍，但中国凭借其规模优势能够绕过这些障碍 - TechCrunch",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxPUE1SWUItWFpiUEo5RWo0cWVOSmRoYlV5SENiOWdmclVfTUFDdW54aER6OGFTWHltNl9NLVA2UExqQ1NmMzZhaGtnX3AyZ29wSk83SmgxSEtuR3hyUGRjcUtjZWE2VmZsajJCNFhXZEx2YzI2V3NpZmRjdnlSNlF4dkVRek80TUplckhMSnBfbkZXcGJjczZ3ZXR5LTFxMGxVMTdhdm45RFlTdkQxUmNR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T02:34:00.000Z",
-      "pub_sort_dt": "2026-08-31 10:34:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国绘制的南海海底地图的分辨率是西方地图的“两倍” - South China Morning Post",
-      "title_cn": "中国绘制的南海海底地图的分辨率是西方地图的“两倍” - South China Morning Post",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxPZVBYdE1LRU5jTlRQN1dsNmRGemJkT25iYUZKY0ZBdzJadVk0UHNBQ3E2VWk5MjVRanBSMnN2LXVQdVB5a25nTVhTc2ZNV2RVSlFIbk12NmZhay1pNlhRSFVfdTk2bzFxaEtNMExwUERHRHVPV3B1NEVHTTM2cHlPTXhpU3p1TWNIWHBHU0ZibTFfRHdMRFJvdUlxQ2FZQWgxSVo0dDlrcTBOOHhDcXIxWEoxOFh0UEgzdi1IN3R4ZlN0WU1jUFE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T02:00:13.000Z",
-      "pub_sort_dt": "2026-08-31 10:00:13"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国制造业活动连续第二个月萎缩，但萎缩幅度小于预期 - CNBC",
-      "title_cn": "中国制造业活动连续第二个月萎缩，但萎缩幅度小于预期 - CNBC",
-      "url": "https://news.google.com/read/CBMiekFVX3lxTFBOZVlPNjlQa19oZElmazVKUE5VS3FUVUxrNENydTVOS25lQXo3TDZIQld0c0J3UW9tOGlHdFladVVxSGcwZ3dBdkFQcHRYZVMtaFFVZ0ZOYkd4Q2lHNlVOQmluM2ZEMUQ4LXpGbWFDMzFMbEJHWXZWa0RR0gF_QVVfeXFMTmloM20xODlxc05uX0o1aEtKSDdWTDFFOUxDMWh0aGdudmMyWnRVVVJKcjJfQnhJNFhLbUpDcnNfNko4VWpyZThWUW1LY0hKQzByRzRXZzVZeHVSY2tjXzlybHdZZi1NOFk0NGRYemszQjBGejR4VHhtYkJuWkUtcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T01:40:00.000Z",
-      "pub_sort_dt": "2026-08-31 09:40:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "贝森特表示，二十国集团（G20）各国应考虑对华设置更多贸易壁垒，以缩小贸易失衡 - Reuters",
-      "title_cn": "贝森特表示，二十国集团（G20）各国应考虑对华设置更多贸易壁垒，以缩小贸易失衡 - Reuters",
-      "url": "https://news.google.com/read/CBMiwAFBVV95cUxPenpidlpzUmlPS0hRbS1jaGotNFBZZHgxWVhlMER4NlRWYnh2d280dW1uMHYwZHlvZlgzNVJkNlZQNno1dndkQ1FZNTFNeTJ4eERKTkRlX29kUXhwX1lvTk5XLUZNWUhsdmwxUC04SU9RekVXUlBaRW5GWWhscWs4XzFVcmJlek5ULUFxdDh0ZzB6TlNqUDNYSUJSb2VJQ1RPVHJvS3hWNjY1UUlZaWhfMXI4RFAxaTQ0aldEZXBjbEk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T23:07:00.000Z",
-      "pub_sort_dt": "2026-08-31 07:07:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国经济增长——“小巨人”能扭转乾坤吗？ - VanEck",
-      "title_cn": "中国经济增长——“小巨人”能扭转乾坤吗？ - VanEck",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxQRE5fYkhNS2w2U0F4eFIzeDkzUUVCN29ZamUwQkFaYXFQMFdNb2Q5RTZmeGstbTF6UnpZcmJLdlVVVE9ydEx4ZE1RWlNZMlN4dC1PSTBUVmRUcUo2STVScnAxM182TkRSUjJ6cjYxaEVscEN0ZlVhV0gycXRpcVJRX09iVlJXcnNrU2YtcWdYcWNXQVhjQ0RvZ3o4OXJqSjFhc1Jlag?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T18:51:26.000Z",
-      "pub_sort_dt": "2026-08-31 02:51:26"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国国务院称，尼泊尔与中国交界地区洪灾中仍有近90名美国人下落不明 - Politico",
-      "title_cn": "美国国务院称，尼泊尔与中国交界地区洪灾中仍有近90名美国人下落不明 - Politico",
-      "url": "https://news.google.com/read/CBMiqAFBVV95cUxOdkRxUF9Ja0phQkFvT1U1QXN1bVZoRDRxbTdCXzcyMnVFUVN2NmdSYXlILXE5RnpCYTB2ajB4R2Z6REREUlBtckRDNE5hWDE0djRwb2FpanBlMFlRaXBoQV9YMWhjWHE1MXNyc0UyeDMxSDVudjBNUjQ4WFpmSGdmX2FQQnZjZlNCWXlBY19MbHdreWp1Vk5CM1RtZURsUVg3aThYX1ZNUVU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T18:13:00.000Z",
-      "pub_sort_dt": "2026-08-31 02:13:00"
+      "title_en": "越南咖啡农搭上中国榴莲热潮的顺风车 - The Japan Times",
+      "title_cn": "越南咖啡农搭上中国榴莲热潮的顺风车 - The Japan Times",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxQTFNZWi16WmpLbUVQZDd4bGRiVllkZUU5UUYwVTNLdWVsT2lnamRpVHBzNEN2ZGtQcm5WWEg2MldaYVVwNTczRlMwTm8wQnRBRXRfMVYwZ09DSmExMzFlTlZTVnlSYVhzZTlMMktDa29YUFFfRzlRY1JrMnFqRVk0ajFNalpuNFRZaUxUN3pJQzM3RzlfZG9QZzZpZVlTbzlzcmpRVA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T02:36:00.000Z",
+      "pub_sort_dt": "2026-08-31 10:36:00"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "中国炼焦煤因供应紧张创下月度最大涨幅",
+      "title_cn": "中国炼焦煤因供应紧张创下月度最大涨幅",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-coking-coal-heads-for-record-monthly-gain-on-supply-crunch",
+      "pub_raw": "2026-08-31T09:23:31.510Z",
+      "pub_sort_dt": "2026-08-31 17:23:31"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国制造业复苏掩盖了国内经济的增长风险",
+      "title_cn": "中国制造业复苏掩盖了国内经济的增长风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-factory-activity-edges-up-in-hopeful-sign-for-economy",
+      "pub_raw": "2026-08-31T09:23:31.482Z",
+      "pub_sort_dt": "2026-08-31 17:23:31"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Shein在香港上市前，其股票在灰色市场暴跌",
+      "title_cn": "Shein在香港上市前，其股票在灰色市场暴跌",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/shein-at-26-billion-still-stirs-unease-over-growth-outlook",
+      "pub_raw": "2026-08-31T09:07:40.254Z",
+      "pub_sort_dt": "2026-08-31 17:07:40"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "贝森特表示，他将要求二十国集团（G20）重新考虑与中国的贸易条款",
+      "title_cn": "贝森特表示，他将要求二十国集团（G20）重新考虑与中国的贸易条款",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/bessent-to-push-g20-to-rethink-china-trade-terms-reuters-says",
+      "pub_raw": "2026-08-31T08:19:21.086Z",
+      "pub_sort_dt": "2026-08-31 16:19:21"
+    },
     {
       "source": "Reuters",
       "title_en": "Breakingviews - 评论：梅尔茨与马克龙将关注点放在人民币上，反而让中国倒退",
@@ -99,22 +131,6 @@
       "url": "https://reut.rs/4qIQjH4",
       "pub_raw": "2026-08-31T05:23:19.231Z",
       "pub_sort_dt": "2026-08-31 13:23:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受供应紧张影响，中国炼焦煤价格有望创下月度涨幅新高",
-      "title_cn": "受供应紧张影响，中国炼焦煤价格有望创下月度涨幅新高",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-coking-coal-heads-for-record-monthly-gain-on-supply-crunch",
-      "pub_raw": "2026-08-31T05:07:13.875Z",
-      "pub_sort_dt": "2026-08-31 13:07:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "路透社称，贝森特将敦促二十国集团重新考虑与中国的贸易条款",
-      "title_cn": "路透社称，贝森特将敦促二十国集团重新考虑与中国的贸易条款",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/bessent-to-push-g20-to-rethink-china-trade-terms-reuters-says",
-      "pub_raw": "2026-08-31T05:07:13.871Z",
-      "pub_sort_dt": "2026-08-31 13:07:13"
     },
     {
       "source": "Bloomberg",
@@ -139,14 +155,6 @@
       "url": "https://reut.rs/4gtsiR7",
       "pub_raw": "2026-08-31T03:15:19.488Z",
       "pub_sort_dt": "2026-08-31 11:15:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "尽管指标有所上升，中国制造业活动仍持续低迷",
-      "title_cn": "尽管指标有所上升，中国制造业活动仍持续低迷",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-factory-activity-edges-up-in-hopeful-sign-for-economy",
-      "pub_raw": "2026-08-31T02:59:48.309Z",
-      "pub_sort_dt": "2026-08-31 10:59:48"
     },
     {
       "source": "Bloomberg",
@@ -243,19 +251,27 @@
       "url": "https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?syn-25a6b1a6=1",
       "pub_raw": "2026-08-28T20:52:36.633Z",
       "pub_sort_dt": "2026-08-29 04:52:36"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国官员就“政府机构遭中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
-      "title_cn": "美国官员就“政府机构遭中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
-      "url": "https://reut.rs/46v3Okq",
-      "pub_raw": "2026-08-28T20:21:04.759Z",
-      "pub_sort_dt": "2026-08-29 04:21:04"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "国防界叛国案：中国披露一桩高管为两国从事间谍活动的罕见案例 - South China Morning Post",
+      "title_cn": "国防界叛国案：中国披露一桩高管为两国从事间谍活动的罕见案例 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxQcGdfRTNKa240LW1SWnZUZjdfeFVsQnhKYzd5Ykt2TkNNenV5ZFBSYXhsZXFzU0dNSmhfN3J0YXlzZkoxYlJ6QlRvV1VSZ3p6VTdjZnJEcDVMVTFHMFhfNzZHTlFFNTc4Sl9YVDNKcW5fWkhvUkJpUVFObmlYSmoxWXJRY09pd3BvdDJYSlpNZWY3S3ZMLU9MdU9hVGI1eHA3YUhsNEVsT3l4R2pXcU5LSmJQYzl6MVRyNE15Z2RmMTh0bnJUVG9Pd1NhMU9RUdIBzgFBVV95cUxOcTR4bl9jT25Xd1dJWDc4YVlLTnhtZ0tIQ0hPTnJiSWtyWGNuVFBRWFpwVEZxMGJaWTU0elB4Vk9oWUZSSGlxdXBObFEtMEJNMG1mdmNVNVlPaERwSE5uUnZoelFvMDYwUllWZTItYUlGbHpuSXRJVjdmR2l5N2FONE5Ec2FIYUVsb0pTMUhSZGdzRkZnVXUtOTVvS1pDbXBjX3VKYi1XbU9iZU5nb21Cd0FRTEE1ZHlaak9JVWdZazNVSlhnRUdLamVQTDJWQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T09:00:14.000Z",
+      "pub_sort_dt": "2026-08-31 17:00:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国选手吴一兵、王新宇晋级美网第二轮 - news.cgtn.com",
+      "title_cn": "中国选手吴一兵、王新宇晋级美网第二轮 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxQX3FZMlZaV21IWGVGWkpJaTVQZG9LU1hYVzFXRHVVN3BzX1dKVjlXVE5mU2E0REM1emozS19rMnVPUVdkVDIybko3WUNPYV9xZ0g5VlNLMm9ScUR3VC11TkZ4MWJ5MDV1ejY4dzRZcVNGeVg1cEFaa05DQ0dqQlo1YmhSWWZ1dFhhdm5sSWFrR2hNTlFDMmxDVXR2aVdzbFpCUXdOQ25WMkRtOHd6Y1RveHZqT0dXRE41MTBhaw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T05:24:43.000Z",
+      "pub_sort_dt": "2026-08-31 13:24:43"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "在与特朗普举行峰会前，中国国家主席习近平通过多次国事访问增强了外交影响力 - CNBC",
       "title_cn": "在与特朗普举行峰会前，中国国家主席习近平通过多次国事访问增强了外交影响力 - CNBC",
       "url": "https://news.google.com/read/CBMiiAFBVV95cUxPQVBPRWZlQmpJSE9Kc3FkbnlZZHVCMVprdGhrUjg2d0ZYQjRwWjFkTDZlQnlPSTBxaWM0Ykp5a2w5WE5pWjU2ZnpOWURMaTRqWndHU3RjVXVfMlRBZE1taEFwVkRKNEp0ekRtZjhBUGY5eDdHMmJvTkQ5MzRFS0hEX1hPV05OSE1V0gGOAUFVX3lxTFBtZW8tX0wzVHhyUldCLUtjM19lb1VMU2k0VzdZQ1BCVWM2Umo3QzlGclJOamFYMV9mZzQzUDRXSXU0QnQzbEF6bzZGT2FuZVAtbzBjdk9QMGJQRkVndjQ4SjY2LVk1OThNeVFIYzU2ZXRFeklCYWxtd0pMQkZMbFJCMThrRjNtSlFXdEdQRGc?hl=en-US&gl=US&ceid=US%3Aen",
@@ -264,11 +280,35 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "受供应短缺影响，中国炼焦煤价格有望创下月度最大涨幅 - Bloomberg.com",
+      "title_cn": "受供应短缺影响，中国炼焦煤价格有望创下月度最大涨幅 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxPdDZPZWZxZ1F5VnU0X1ZNVU1ORENwWmdSNURjcGNRVVRVMXcyRTNLcmZmSkZIUWRFUnlUSUVOTHZVM01kbjFUZENCSGk4al8wQ1hvc05hbjhlSVltZW5rOTN1Skh0ekZPakdIR2VnM1FYaHVHVDlhYi1wVW50dVJhd0pobGpILUd4ajY5aE9DdlBERlF4dWE5RVhuenN1Ym9ZNjBVM2JLYmdlQWI1NTQ1RW9rUzlsZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T04:54:00.000Z",
+      "pub_sort_dt": "2026-08-31 12:54:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "路透社称，贝森特将敦促二十国集团重新考虑与中国的贸易条款 - Bloomberg.com",
+      "title_cn": "路透社称，贝森特将敦促二十国集团重新考虑与中国的贸易条款 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxNem5JZFRaQmtXaENvYk5lOXJhSjAwOEx3bThLRWZ1SnNrTzh0VTFFaU9wemFDVTNocFhuSEpEMk9aTTBJSzBNWXlQT2JHdFdENHN5TGhtYWdSdHNFOThZWWRpbGNWWW9GOFdta2ZGcnpONVVUdjlOS2pCRi0zZklwMXlPTkxEOEdZQVlRMEdMYUF3OXBYclYyUzFIZzB2OEpHcHNTdG5wWjFlcGs5RTRxRFB3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T04:51:00.000Z",
+      "pub_sort_dt": "2026-08-31 12:51:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "俄罗斯和中国领导人将在上海合作组织峰会上会晤 - Al Jazeera",
       "title_cn": "俄罗斯和中国领导人将在上海合作组织峰会上会晤 - Al Jazeera",
       "url": "https://news.google.com/read/CBMiswFBVV95cUxNUWs1bDVaanU5SnFKU1Z6TkRZM0J5MnQteVRRamVTaERpWk5rLVBsazZOeDM0ZDdNTFA2a0xjcnU0S25nS0xYdXVoWnUzRk5qMEVrTEsxRmd3LUkzXzFvMHdJdjFDb0F5SDNZcVBROHkzNEViVFVwVnRmU24zSnA3X0FfQnRhcnpkTzNjOGtSNFJpQUEzM3BKZUhzYV9Nd2xqNXBpMGRCMkFteTZ2M2xRZndtNNIBuAFBVV95cUxPWmtuOUlzbUI4ZXJkNERGMDdIaHRiTjNWZ3hRcHVpbTN3VXgyUWVfOS1sODl4dDltQTZ6clg3MFhTOVdhZm9GVVNCNVVhWDBfaTNwWXNzRGtlTEdnRHQwVXpIb0ZYWmtGMFJXdE1mRE43NXdnd0lNWHVQbExlUGJmQU9sdU5iclNfOWtmT1JGVTBIMFREbjdkM2pLY00ydnNQMk01ZDN4MnRFdGlpSElUWndiOXRHWlJl?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-31T04:25:39.000Z",
       "pub_sort_dt": "2026-08-31 12:25:39"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着Shein在香港上市，人工智能和机器人技术推动中国IPO热潮 - WRAL",
+      "title_cn": "随着Shein在香港上市，人工智能和机器人技术推动中国IPO热潮 - WRAL",
+      "url": "https://news.google.com/read/CBMiqgFBVV95cUxNcDBzU3RVcGh4c1lQV3lCbzJXMWRWTzBPUzZYWnJmNV9OUzIyMVRZUUZmaXNzdGRvVURxa0NjcVlOYk4xM3dMb0VPaExJZUtFbE5jb2E4NUJScXZSeFJhbDR3UFluTERhbHZNUDl2RHBnazJmTjcxbjlIWnVPV2NUNjVRQXRLRG5kYTcwT29wVnI4WUE0QlBYcTdxWVRNbVVqMWRFX1M1VWNzQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T04:16:52.000Z",
+      "pub_sort_dt": "2026-08-31 12:16:52"
     },
     {
       "source": "China Buzzing",
@@ -288,51 +328,43 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国正在围绕无人机和机器人设置各种障碍，但中国凭借其规模优势能够绕过这些障碍 - TechCrunch",
-      "title_cn": "美国正在围绕无人机和机器人设置各种障碍，但中国凭借其规模优势能够绕过这些障碍 - TechCrunch",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxPUE1SWUItWFpiUEo5RWo0cWVOSmRoYlV5SENiOWdmclVfTUFDdW54aER6OGFTWHltNl9NLVA2UExqQ1NmMzZhaGtnX3AyZ29wSk83SmgxSEtuR3hyUGRjcUtjZWE2VmZsajJCNFhXZEx2YzI2V3NpZmRjdnlSNlF4dkVRek80TUplckhMSnBfbkZXcGJjczZ3ZXR5LTFxMGxVMTdhdm45RFlTdkQxUmNR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T02:34:00.000Z",
-      "pub_sort_dt": "2026-08-31 10:34:00"
+      "title_en": "越南咖啡农搭上中国榴莲热潮的顺风车 - The Japan Times",
+      "title_cn": "越南咖啡农搭上中国榴莲热潮的顺风车 - The Japan Times",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxQTFNZWi16WmpLbUVQZDd4bGRiVllkZUU5UUYwVTNLdWVsT2lnamRpVHBzNEN2ZGtQcm5WWEg2MldaYVVwNTczRlMwTm8wQnRBRXRfMVYwZ09DSmExMzFlTlZTVnlSYVhzZTlMMktDa29YUFFfRzlRY1JrMnFqRVk0ajFNalpuNFRZaUxUN3pJQzM3RzlfZG9QZzZpZVlTbzlzcmpRVA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T02:36:00.000Z",
+      "pub_sort_dt": "2026-08-31 10:36:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国绘制的南海海底地图的分辨率是西方地图的“两倍” - South China Morning Post",
-      "title_cn": "中国绘制的南海海底地图的分辨率是西方地图的“两倍” - South China Morning Post",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxPZVBYdE1LRU5jTlRQN1dsNmRGemJkT25iYUZKY0ZBdzJadVk0UHNBQ3E2VWk5MjVRanBSMnN2LXVQdVB5a25nTVhTc2ZNV2RVSlFIbk12NmZhay1pNlhRSFVfdTk2bzFxaEtNMExwUERHRHVPV3B1NEVHTTM2cHlPTXhpU3p1TWNIWHBHU0ZibTFfRHdMRFJvdUlxQ2FZQWgxSVo0dDlrcTBOOHhDcXIxWEoxOFh0UEgzdi1IN3R4ZlN0WU1jUFE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T02:00:13.000Z",
-      "pub_sort_dt": "2026-08-31 10:00:13"
+      "source": "Bloomberg",
+      "title_en": "中国炼焦煤因供应紧张创下月度最大涨幅",
+      "title_cn": "中国炼焦煤因供应紧张创下月度最大涨幅",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-coking-coal-heads-for-record-monthly-gain-on-supply-crunch",
+      "pub_raw": "2026-08-31T09:23:31.510Z",
+      "pub_sort_dt": "2026-08-31 17:23:31"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国制造业活动连续第二个月萎缩，但萎缩幅度小于预期 - CNBC",
-      "title_cn": "中国制造业活动连续第二个月萎缩，但萎缩幅度小于预期 - CNBC",
-      "url": "https://news.google.com/read/CBMiekFVX3lxTFBOZVlPNjlQa19oZElmazVKUE5VS3FUVUxrNENydTVOS25lQXo3TDZIQld0c0J3UW9tOGlHdFladVVxSGcwZ3dBdkFQcHRYZVMtaFFVZ0ZOYkd4Q2lHNlVOQmluM2ZEMUQ4LXpGbWFDMzFMbEJHWXZWa0RR0gF_QVVfeXFMTmloM20xODlxc05uX0o1aEtKSDdWTDFFOUxDMWh0aGdudmMyWnRVVVJKcjJfQnhJNFhLbUpDcnNfNko4VWpyZThWUW1LY0hKQzByRzRXZzVZeHVSY2tjXzlybHdZZi1NOFk0NGRYemszQjBGejR4VHhtYkJuWkUtcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T01:40:00.000Z",
-      "pub_sort_dt": "2026-08-31 09:40:00"
+      "source": "Bloomberg",
+      "title_en": "中国制造业复苏掩盖了国内经济的增长风险",
+      "title_cn": "中国制造业复苏掩盖了国内经济的增长风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-factory-activity-edges-up-in-hopeful-sign-for-economy",
+      "pub_raw": "2026-08-31T09:23:31.482Z",
+      "pub_sort_dt": "2026-08-31 17:23:31"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "贝森特表示，二十国集团（G20）各国应考虑对华设置更多贸易壁垒，以缩小贸易失衡 - Reuters",
-      "title_cn": "贝森特表示，二十国集团（G20）各国应考虑对华设置更多贸易壁垒，以缩小贸易失衡 - Reuters",
-      "url": "https://news.google.com/read/CBMiwAFBVV95cUxPenpidlpzUmlPS0hRbS1jaGotNFBZZHgxWVhlMER4NlRWYnh2d280dW1uMHYwZHlvZlgzNVJkNlZQNno1dndkQ1FZNTFNeTJ4eERKTkRlX29kUXhwX1lvTk5XLUZNWUhsdmwxUC04SU9RekVXUlBaRW5GWWhscWs4XzFVcmJlek5ULUFxdDh0ZzB6TlNqUDNYSUJSb2VJQ1RPVHJvS3hWNjY1UUlZaWhfMXI4RFAxaTQ0aldEZXBjbEk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T23:07:00.000Z",
-      "pub_sort_dt": "2026-08-31 07:07:00"
+      "source": "Bloomberg",
+      "title_en": "Shein在香港上市前，其股票在灰色市场暴跌",
+      "title_cn": "Shein在香港上市前，其股票在灰色市场暴跌",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/shein-at-26-billion-still-stirs-unease-over-growth-outlook",
+      "pub_raw": "2026-08-31T09:07:40.254Z",
+      "pub_sort_dt": "2026-08-31 17:07:40"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国经济增长——“小巨人”能扭转乾坤吗？ - VanEck",
-      "title_cn": "中国经济增长——“小巨人”能扭转乾坤吗？ - VanEck",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxQRE5fYkhNS2w2U0F4eFIzeDkzUUVCN29ZamUwQkFaYXFQMFdNb2Q5RTZmeGstbTF6UnpZcmJLdlVVVE9ydEx4ZE1RWlNZMlN4dC1PSTBUVmRUcUo2STVScnAxM182TkRSUjJ6cjYxaEVscEN0ZlVhV0gycXRpcVJRX09iVlJXcnNrU2YtcWdYcWNXQVhjQ0RvZ3o4OXJqSjFhc1Jlag?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T18:51:26.000Z",
-      "pub_sort_dt": "2026-08-31 02:51:26"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国国务院称，尼泊尔与中国交界地区洪灾中仍有近90名美国人下落不明 - Politico",
-      "title_cn": "美国国务院称，尼泊尔与中国交界地区洪灾中仍有近90名美国人下落不明 - Politico",
-      "url": "https://news.google.com/read/CBMiqAFBVV95cUxOdkRxUF9Ja0phQkFvT1U1QXN1bVZoRDRxbTdCXzcyMnVFUVN2NmdSYXlILXE5RnpCYTB2ajB4R2Z6REREUlBtckRDNE5hWDE0djRwb2FpanBlMFlRaXBoQV9YMWhjWHE1MXNyc0UyeDMxSDVudjBNUjQ4WFpmSGdmX2FQQnZjZlNCWXlBY19MbHdreWp1Vk5CM1RtZURsUVg3aThYX1ZNUVU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T18:13:00.000Z",
-      "pub_sort_dt": "2026-08-31 02:13:00"
+      "source": "Bloomberg",
+      "title_en": "贝森特表示，他将要求二十国集团（G20）重新考虑与中国的贸易条款",
+      "title_cn": "贝森特表示，他将要求二十国集团（G20）重新考虑与中国的贸易条款",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/bessent-to-push-g20-to-rethink-china-trade-terms-reuters-says",
+      "pub_raw": "2026-08-31T08:19:21.086Z",
+      "pub_sort_dt": "2026-08-31 16:19:21"
     },
     {
       "source": "Reuters",
@@ -341,22 +373,6 @@
       "url": "https://reut.rs/4qIQjH4",
       "pub_raw": "2026-08-31T05:23:19.231Z",
       "pub_sort_dt": "2026-08-31 13:23:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受供应紧张影响，中国炼焦煤价格有望创下月度涨幅新高",
-      "title_cn": "受供应紧张影响，中国炼焦煤价格有望创下月度涨幅新高",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-coking-coal-heads-for-record-monthly-gain-on-supply-crunch",
-      "pub_raw": "2026-08-31T05:07:13.875Z",
-      "pub_sort_dt": "2026-08-31 13:07:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "路透社称，贝森特将敦促二十国集团重新考虑与中国的贸易条款",
-      "title_cn": "路透社称，贝森特将敦促二十国集团重新考虑与中国的贸易条款",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/bessent-to-push-g20-to-rethink-china-trade-terms-reuters-says",
-      "pub_raw": "2026-08-31T05:07:13.871Z",
-      "pub_sort_dt": "2026-08-31 13:07:13"
     },
     {
       "source": "Bloomberg",
@@ -381,14 +397,6 @@
       "url": "https://reut.rs/4gtsiR7",
       "pub_raw": "2026-08-31T03:15:19.488Z",
       "pub_sort_dt": "2026-08-31 11:15:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "尽管指标有所上升，中国制造业活动仍持续低迷",
-      "title_cn": "尽管指标有所上升，中国制造业活动仍持续低迷",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-factory-activity-edges-up-in-hopeful-sign-for-economy",
-      "pub_raw": "2026-08-31T02:59:48.309Z",
-      "pub_sort_dt": "2026-08-31 10:59:48"
     },
     {
       "source": "Bloomberg",
@@ -485,14 +493,6 @@
       "url": "https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?syn-25a6b1a6=1",
       "pub_raw": "2026-08-28T20:52:36.633Z",
       "pub_sort_dt": "2026-08-29 04:52:36"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国官员就“政府机构遭中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
-      "title_cn": "美国官员就“政府机构遭中国黑客攻击”的说法改口，现在称这些机构是攻击目标",
-      "url": "https://reut.rs/46v3Okq",
-      "pub_raw": "2026-08-28T20:21:04.759Z",
-      "pub_sort_dt": "2026-08-29 04:21:04"
     }
   ]
 }
