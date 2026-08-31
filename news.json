@@ -1,15 +1,47 @@
 {
-  "update_cst": "2026-08-31 12:01:05 北京时间",
+  "update_cst": "2026-08-31 15:01:04 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 9,
+    "Bloomberg": 10,
     "Financial Times": 2,
     "Wall Street Journal": 1,
-    "Reuters": 8
+    "Reuters": 7
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "在与特朗普举行峰会前，中国国家主席习近平通过多次国事访问增强了外交影响力 - CNBC",
+      "title_cn": "在与特朗普举行峰会前，中国国家主席习近平通过多次国事访问增强了外交影响力 - CNBC",
+      "url": "https://news.google.com/read/CBMiiAFBVV95cUxPQVBPRWZlQmpJSE9Kc3FkbnlZZHVCMVprdGhrUjg2d0ZYQjRwWjFkTDZlQnlPSTBxaWM0Ykp5a2w5WE5pWjU2ZnpOWURMaTRqWndHU3RjVXVfMlRBZE1taEFwVkRKNEp0ekRtZjhBUGY5eDdHMmJvTkQ5MzRFS0hEX1hPV05OSE1V0gGOAUFVX3lxTFBtZW8tX0wzVHhyUldCLUtjM19lb1VMU2k0VzdZQ1BCVWM2Umo3QzlGclJOamFYMV9mZzQzUDRXSXU0QnQzbEF6bzZGT2FuZVAtbzBjdk9QMGJQRkVndjQ4SjY2LVk1OThNeVFIYzU2ZXRFeklCYWxtd0pMQkZMbFJCMThrRjNtSlFXdEdQRGc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T04:57:24.000Z",
+      "pub_sort_dt": "2026-08-31 12:57:24"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "俄罗斯和中国领导人将在上海合作组织峰会上会晤 - Al Jazeera",
+      "title_cn": "俄罗斯和中国领导人将在上海合作组织峰会上会晤 - Al Jazeera",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxNUWs1bDVaanU5SnFKU1Z6TkRZM0J5MnQteVRRamVTaERpWk5rLVBsazZOeDM0ZDdNTFA2a0xjcnU0S25nS0xYdXVoWnUzRk5qMEVrTEsxRmd3LUkzXzFvMHdJdjFDb0F5SDNZcVBROHkzNEViVFVwVnRmU24zSnA3X0FfQnRhcnpkTzNjOGtSNFJpQUEzM3BKZUhzYV9Nd2xqNXBpMGRCMkFteTZ2M2xRZndtNNIBuAFBVV95cUxPWmtuOUlzbUI4ZXJkNERGMDdIaHRiTjNWZ3hRcHVpbTN3VXgyUWVfOS1sODl4dDltQTZ6clg3MFhTOVdhZm9GVVNCNVVhWDBfaTNwWXNzRGtlTEdnRHQwVXpIb0ZYWmtGMFJXdE1mRE43NXdnd0lNWHVQbExlUGJmQU9sdU5iclNfOWtmT1JGVTBIMFREbjdkM2pLY00ydnNQMk01ZDN4MnRFdGlpSElUWndiOXRHWlJl?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T04:25:39.000Z",
+      "pub_sort_dt": "2026-08-31 12:25:39"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国下令对军事供应链进行检查，以推动自力更生 - Bloomberg.com",
+      "title_cn": "中国下令对军事供应链进行检查，以推动自力更生 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQeE9BSzdxMmF5RkRzNGdpQU9nOTZna0xZeUxrQ2VXTGRHU2J5dTJIb1Fxbll5emxmUnJ2NkFneDZrdXpmZjhCdTRtZXBPYjFpQkpfQnE1MUFkM3RQcjJiVTFPdlBsUmRab2Z5WldfZW9XaHY1RmJIXzZMVGVGZHJTRHJVOFJmeUdPM1NWVjN2NEVESzk4cUtDQzJQWU11VEEwSklrRHFFVkltMTRPcUFzdG5YU0k?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T03:36:00.000Z",
+      "pub_sort_dt": "2026-08-31 11:36:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "受燃油价格冲击影响，中国三大航空公司上半年均出现巨额亏损 - Reuters",
+      "title_cn": "受燃油价格冲击影响，中国三大航空公司上半年均出现巨额亏损 - Reuters",
+      "url": "https://news.google.com/read/CBMi1AFBVV95cUxPZXdPS1l4N3NDN29UV3B4Zlhickk3SGkyTXZmSmxuaEEyUnhSWjFhdW1oZTIxaEVaMHV5empoZUNkenAyTDVlMENDcnVSR18wYTVrSTJ5R2p2ZWhTTlZiWWpaa0xlY0JIMDlEWm1rMWYzV2o2WFZVOHItTGpiQ3J5ajFtY1dpMkFhNW51dVozZEp4MmJweUNwMWdrSnE5WHJZdFcwQWlDdl9HRnkwMjd5eEVQOThuaWhLdFVsT0otblR6OUx0ZWZCbjZxTVNOQ2lwNHhVYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T02:54:00.000Z",
+      "pub_sort_dt": "2026-08-31 10:54:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "美国正在围绕无人机和机器人设置各种障碍，但中国凭借其规模优势能够绕过这些障碍 - TechCrunch",
@@ -57,41 +89,41 @@
       "url": "https://news.google.com/read/CBMiqAFBVV95cUxOdkRxUF9Ja0phQkFvT1U1QXN1bVZoRDRxbTdCXzcyMnVFUVN2NmdSYXlILXE5RnpCYTB2ajB4R2Z6REREUlBtckRDNE5hWDE0djRwb2FpanBlMFlRaXBoQV9YMWhjWHE1MXNyc0UyeDMxSDVudjBNUjQ4WFpmSGdmX2FQQnZjZlNCWXlBY19MbHdreWp1Vk5CM1RtZURsUVg3aThYX1ZNUVU?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-30T18:13:00.000Z",
       "pub_sort_dt": "2026-08-31 02:13:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国洪灾后，261名在华失踪的外国人中包括15名英国人 - The Guardian",
-      "title_cn": "中国洪灾后，261名在华失踪的外国人中包括15名英国人 - The Guardian",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxPNS1Ga3VqYzRrQmZ4c3lDSTgxdGRzS1pYNWR6cnhmWHBneW9laklFeUg5aXdla19HTkJsZEhxaXRxTHF4RXpJZEh5eFVWZmZ1Qng5SWphUmJ1b1U0ZnVNQ0RhRnJuZEFhbWh3el9nOGs5Z2NZYUxZdUhTYnFnaWROU3BrNjc2VmJaM2YzbkNxM3Z4N2JqOHQ4SU9xLWRUUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T18:05:00.000Z",
-      "pub_sort_dt": "2026-08-31 02:05:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在洪水灾难发生前，随着风险日益加剧，尼泊尔曾向中国寻求预警 - Reuters",
-      "title_cn": "在洪水灾难发生前，随着风险日益加剧，尼泊尔曾向中国寻求预警 - Reuters",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxNV0RNRm1FcEdvZkdNd1U1OGExWlFqeE1fdFZEa0NrbUh4ZERYN21aem1oT1pNY3VQLUw4LTJZTDBkZFVsVWg1MUt6aHEyZlB0dHZPSk9DMDJsc3c3cFRTNVlBSGYybGp5b1lvTDZTazBUaVYxd1dDMkszMWtLZEh1SDBudVdSWUdwYTZ6NnFkajlFY1gwNExOTTdvb01ZenkybkE5emVBWUdJaWRiMjJoa0ZlYjE0Ymtha2t0MkVCUktlaUNZWFo4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T17:34:14.000Z",
-      "pub_sort_dt": "2026-08-31 01:34:14"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "观点 特朗普对伊朗的新一轮制裁向中国发出了警告 - WSJ",
-      "title_cn": "观点 特朗普对伊朗的新一轮制裁向中国发出了警告 - WSJ",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxOenZaZ0ktV3IxSWFQRXhUOHpvb3gtVmZHcTJ6TTdaMnNJcU5VRnFVWWUxWDRjYlpWOE9Tek9OOF96VE5lR3NNS1BsWVQ2bGNPQUJVTXpTc1NtRmpqbWEzblI1MVFGbktxZFRrMm80Zmxza2M2UlM4WVVFUGl0bG95VUVVdzVNMXdad2c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T16:31:00.000Z",
-      "pub_sort_dt": "2026-08-31 00:31:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“活力四射”的中国队力争第九次夺得湾区冠军 - Asia-Pacific Golf Confederation",
-      "title_cn": "“活力四射”的中国队力争第九次夺得湾区冠军 - Asia-Pacific Golf Confederation",
-      "url": "https://news.google.com/read/CBMid0FVX3lxTE9Kd2lDQ2ktWjlFV3N3ZWdCaUNGSm9tUmZHN0diemdRdDg3WE94UDhnNll0VTJjdjY3VVNRYmtjcWxUR3pCQmt0X0E1TjNTMTJvM24zaENaTnJmX2JDSFd5TEFGM05BMFlsc004SVZNWVJJckpuUF84?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T14:39:13.000Z",
-      "pub_sort_dt": "2026-08-30 22:39:13"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "Breakingviews - 评论：梅尔茨与马克龙将关注点放在人民币上，反而让中国倒退",
+      "title_cn": "Breakingviews - 评论：梅尔茨与马克龙将关注点放在人民币上，反而让中国倒退",
+      "url": "https://reut.rs/4qIQjH4",
+      "pub_raw": "2026-08-31T05:23:19.231Z",
+      "pub_sort_dt": "2026-08-31 13:23:19"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受供应紧张影响，中国炼焦煤价格有望创下月度涨幅新高",
+      "title_cn": "受供应紧张影响，中国炼焦煤价格有望创下月度涨幅新高",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-coking-coal-heads-for-record-monthly-gain-on-supply-crunch",
+      "pub_raw": "2026-08-31T05:07:13.875Z",
+      "pub_sort_dt": "2026-08-31 13:07:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "路透社称，贝森特将敦促二十国集团重新考虑与中国的贸易条款",
+      "title_cn": "路透社称，贝森特将敦促二十国集团重新考虑与中国的贸易条款",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/bessent-to-push-g20-to-rethink-china-trade-terms-reuters-says",
+      "pub_raw": "2026-08-31T05:07:13.871Z",
+      "pub_sort_dt": "2026-08-31 13:07:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国下令对军事供应链进行检查，以推动自给自足",
+      "title_cn": "中国下令对军事供应链进行检查，以推动自给自足",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-orders-military-supply-chain-checks-in-self-reliance-push",
+      "pub_raw": "2026-08-31T04:03:34.948Z",
+      "pub_sort_dt": "2026-08-31 12:03:34"
+    },
     {
       "source": "Bloomberg",
       "title_en": "中国芯片制造商龙芯计划在香港上市，筹资8亿美元",
@@ -219,43 +251,43 @@
       "url": "https://reut.rs/46v3Okq",
       "pub_raw": "2026-08-28T20:21:04.759Z",
       "pub_sort_dt": "2026-08-29 04:21:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国汽车制造商正瞄准英国标志性的路虎品牌",
-      "title_cn": "中国汽车制造商正瞄准英国标志性的路虎品牌",
-      "url": "https://www.bloomberg.com/opinion/newsletters/2026-08-28/china-s-carmakers-are-coming-for-britain-s-iconic-land-rover",
-      "pub_raw": "2026-08-28T15:48:36.656Z",
-      "pub_sort_dt": "2026-08-28 23:48:36"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "评论：周末读物：Meta的人工智能反抗、中国的权力博弈、美联储的表态之争",
-      "title_cn": "评论：周末读物：Meta的人工智能反抗、中国的权力博弈、美联储的表态之争",
-      "url": "https://reut.rs/4zF4qRW",
-      "pub_raw": "2026-08-28T14:44:32.975Z",
-      "pub_sort_dt": "2026-08-28 22:44:32"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "习近平的军事清洗导致亲信被逐出中国立法机构",
-      "title_cn": "习近平的军事清洗导致亲信被逐出中国立法机构",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/xi-s-military-purge-sees-loyalists-ousted-from-china-legislature",
-      "pub_raw": "2026-08-28T13:56:25.900Z",
-      "pub_sort_dt": "2026-08-28 21:56:25"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国将多名高级将领从中央军事委员会中撤职",
-      "title_cn": "中国将多名高级将领从中央军事委员会中撤职",
-      "url": "https://reut.rs/4zH0QGX",
-      "pub_raw": "2026-08-28T13:56:25.746Z",
-      "pub_sort_dt": "2026-08-28 21:56:25"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "在与特朗普举行峰会前，中国国家主席习近平通过多次国事访问增强了外交影响力 - CNBC",
+      "title_cn": "在与特朗普举行峰会前，中国国家主席习近平通过多次国事访问增强了外交影响力 - CNBC",
+      "url": "https://news.google.com/read/CBMiiAFBVV95cUxPQVBPRWZlQmpJSE9Kc3FkbnlZZHVCMVprdGhrUjg2d0ZYQjRwWjFkTDZlQnlPSTBxaWM0Ykp5a2w5WE5pWjU2ZnpOWURMaTRqWndHU3RjVXVfMlRBZE1taEFwVkRKNEp0ekRtZjhBUGY5eDdHMmJvTkQ5MzRFS0hEX1hPV05OSE1V0gGOAUFVX3lxTFBtZW8tX0wzVHhyUldCLUtjM19lb1VMU2k0VzdZQ1BCVWM2Umo3QzlGclJOamFYMV9mZzQzUDRXSXU0QnQzbEF6bzZGT2FuZVAtbzBjdk9QMGJQRkVndjQ4SjY2LVk1OThNeVFIYzU2ZXRFeklCYWxtd0pMQkZMbFJCMThrRjNtSlFXdEdQRGc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T04:57:24.000Z",
+      "pub_sort_dt": "2026-08-31 12:57:24"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "俄罗斯和中国领导人将在上海合作组织峰会上会晤 - Al Jazeera",
+      "title_cn": "俄罗斯和中国领导人将在上海合作组织峰会上会晤 - Al Jazeera",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxNUWs1bDVaanU5SnFKU1Z6TkRZM0J5MnQteVRRamVTaERpWk5rLVBsazZOeDM0ZDdNTFA2a0xjcnU0S25nS0xYdXVoWnUzRk5qMEVrTEsxRmd3LUkzXzFvMHdJdjFDb0F5SDNZcVBROHkzNEViVFVwVnRmU24zSnA3X0FfQnRhcnpkTzNjOGtSNFJpQUEzM3BKZUhzYV9Nd2xqNXBpMGRCMkFteTZ2M2xRZndtNNIBuAFBVV95cUxPWmtuOUlzbUI4ZXJkNERGMDdIaHRiTjNWZ3hRcHVpbTN3VXgyUWVfOS1sODl4dDltQTZ6clg3MFhTOVdhZm9GVVNCNVVhWDBfaTNwWXNzRGtlTEdnRHQwVXpIb0ZYWmtGMFJXdE1mRE43NXdnd0lNWHVQbExlUGJmQU9sdU5iclNfOWtmT1JGVTBIMFREbjdkM2pLY00ydnNQMk01ZDN4MnRFdGlpSElUWndiOXRHWlJl?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T04:25:39.000Z",
+      "pub_sort_dt": "2026-08-31 12:25:39"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国下令对军事供应链进行检查，以推动自力更生 - Bloomberg.com",
+      "title_cn": "中国下令对军事供应链进行检查，以推动自力更生 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQeE9BSzdxMmF5RkRzNGdpQU9nOTZna0xZeUxrQ2VXTGRHU2J5dTJIb1Fxbll5emxmUnJ2NkFneDZrdXpmZjhCdTRtZXBPYjFpQkpfQnE1MUFkM3RQcjJiVTFPdlBsUmRab2Z5WldfZW9XaHY1RmJIXzZMVGVGZHJTRHJVOFJmeUdPM1NWVjN2NEVESzk4cUtDQzJQWU11VEEwSklrRHFFVkltMTRPcUFzdG5YU0k?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T03:36:00.000Z",
+      "pub_sort_dt": "2026-08-31 11:36:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "受燃油价格冲击影响，中国三大航空公司上半年均出现巨额亏损 - Reuters",
+      "title_cn": "受燃油价格冲击影响，中国三大航空公司上半年均出现巨额亏损 - Reuters",
+      "url": "https://news.google.com/read/CBMi1AFBVV95cUxPZXdPS1l4N3NDN29UV3B4Zlhickk3SGkyTXZmSmxuaEEyUnhSWjFhdW1oZTIxaEVaMHV5empoZUNkenAyTDVlMENDcnVSR18wYTVrSTJ5R2p2ZWhTTlZiWWpaa0xlY0JIMDlEWm1rMWYzV2o2WFZVOHItTGpiQ3J5ajFtY1dpMkFhNW51dVozZEp4MmJweUNwMWdrSnE5WHJZdFcwQWlDdl9HRnkwMjd5eEVQOThuaWhLdFVsT0otblR6OUx0ZWZCbjZxTVNOQ2lwNHhVYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-08-31T02:54:00.000Z",
+      "pub_sort_dt": "2026-08-31 10:54:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "美国正在围绕无人机和机器人设置各种障碍，但中国凭借其规模优势能够绕过这些障碍 - TechCrunch",
       "title_cn": "美国正在围绕无人机和机器人设置各种障碍，但中国凭借其规模优势能够绕过这些障碍 - TechCrunch",
       "url": "https://news.google.com/read/CBMirwFBVV95cUxPUE1SWUItWFpiUEo5RWo0cWVOSmRoYlV5SENiOWdmclVfTUFDdW54aER6OGFTWHltNl9NLVA2UExqQ1NmMzZhaGtnX3AyZ29wSk83SmgxSEtuR3hyUGRjcUtjZWE2VmZsajJCNFhXZEx2YzI2V3NpZmRjdnlSNlF4dkVRek80TUplckhMSnBfbkZXcGJjczZ3ZXR5LTFxMGxVMTdhdm45RFlTdkQxUmNR?hl=en-US&gl=US&ceid=US%3Aen",
@@ -303,36 +335,36 @@
       "pub_sort_dt": "2026-08-31 02:13:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国洪灾后，261名在华失踪的外国人中包括15名英国人 - The Guardian",
-      "title_cn": "中国洪灾后，261名在华失踪的外国人中包括15名英国人 - The Guardian",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxPNS1Ga3VqYzRrQmZ4c3lDSTgxdGRzS1pYNWR6cnhmWHBneW9laklFeUg5aXdla19HTkJsZEhxaXRxTHF4RXpJZEh5eFVWZmZ1Qng5SWphUmJ1b1U0ZnVNQ0RhRnJuZEFhbWh3el9nOGs5Z2NZYUxZdUhTYnFnaWROU3BrNjc2VmJaM2YzbkNxM3Z4N2JqOHQ4SU9xLWRUUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T18:05:00.000Z",
-      "pub_sort_dt": "2026-08-31 02:05:00"
+      "source": "Reuters",
+      "title_en": "Breakingviews - 评论：梅尔茨与马克龙将关注点放在人民币上，反而让中国倒退",
+      "title_cn": "Breakingviews - 评论：梅尔茨与马克龙将关注点放在人民币上，反而让中国倒退",
+      "url": "https://reut.rs/4qIQjH4",
+      "pub_raw": "2026-08-31T05:23:19.231Z",
+      "pub_sort_dt": "2026-08-31 13:23:19"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "在洪水灾难发生前，随着风险日益加剧，尼泊尔曾向中国寻求预警 - Reuters",
-      "title_cn": "在洪水灾难发生前，随着风险日益加剧，尼泊尔曾向中国寻求预警 - Reuters",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxNV0RNRm1FcEdvZkdNd1U1OGExWlFqeE1fdFZEa0NrbUh4ZERYN21aem1oT1pNY3VQLUw4LTJZTDBkZFVsVWg1MUt6aHEyZlB0dHZPSk9DMDJsc3c3cFRTNVlBSGYybGp5b1lvTDZTazBUaVYxd1dDMkszMWtLZEh1SDBudVdSWUdwYTZ6NnFkajlFY1gwNExOTTdvb01ZenkybkE5emVBWUdJaWRiMjJoa0ZlYjE0Ymtha2t0MkVCUktlaUNZWFo4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T17:34:14.000Z",
-      "pub_sort_dt": "2026-08-31 01:34:14"
+      "source": "Bloomberg",
+      "title_en": "受供应紧张影响，中国炼焦煤价格有望创下月度涨幅新高",
+      "title_cn": "受供应紧张影响，中国炼焦煤价格有望创下月度涨幅新高",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-coking-coal-heads-for-record-monthly-gain-on-supply-crunch",
+      "pub_raw": "2026-08-31T05:07:13.875Z",
+      "pub_sort_dt": "2026-08-31 13:07:13"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "观点 特朗普对伊朗的新一轮制裁向中国发出了警告 - WSJ",
-      "title_cn": "观点 特朗普对伊朗的新一轮制裁向中国发出了警告 - WSJ",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxOenZaZ0ktV3IxSWFQRXhUOHpvb3gtVmZHcTJ6TTdaMnNJcU5VRnFVWWUxWDRjYlpWOE9Tek9OOF96VE5lR3NNS1BsWVQ2bGNPQUJVTXpTc1NtRmpqbWEzblI1MVFGbktxZFRrMm80Zmxza2M2UlM4WVVFUGl0bG95VUVVdzVNMXdad2c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T16:31:00.000Z",
-      "pub_sort_dt": "2026-08-31 00:31:00"
+      "source": "Bloomberg",
+      "title_en": "路透社称，贝森特将敦促二十国集团重新考虑与中国的贸易条款",
+      "title_cn": "路透社称，贝森特将敦促二十国集团重新考虑与中国的贸易条款",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/bessent-to-push-g20-to-rethink-china-trade-terms-reuters-says",
+      "pub_raw": "2026-08-31T05:07:13.871Z",
+      "pub_sort_dt": "2026-08-31 13:07:13"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "“活力四射”的中国队力争第九次夺得湾区冠军 - Asia-Pacific Golf Confederation",
-      "title_cn": "“活力四射”的中国队力争第九次夺得湾区冠军 - Asia-Pacific Golf Confederation",
-      "url": "https://news.google.com/read/CBMid0FVX3lxTE9Kd2lDQ2ktWjlFV3N3ZWdCaUNGSm9tUmZHN0diemdRdDg3WE94UDhnNll0VTJjdjY3VVNRYmtjcWxUR3pCQmt0X0E1TjNTMTJvM24zaENaTnJmX2JDSFd5TEFGM05BMFlsc004SVZNWVJJckpuUF84?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-30T14:39:13.000Z",
-      "pub_sort_dt": "2026-08-30 22:39:13"
+      "source": "Bloomberg",
+      "title_en": "中国下令对军事供应链进行检查，以推动自给自足",
+      "title_cn": "中国下令对军事供应链进行检查，以推动自给自足",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-orders-military-supply-chain-checks-in-self-reliance-push",
+      "pub_raw": "2026-08-31T04:03:34.948Z",
+      "pub_sort_dt": "2026-08-31 12:03:34"
     },
     {
       "source": "Bloomberg",
@@ -461,38 +493,6 @@
       "url": "https://reut.rs/46v3Okq",
       "pub_raw": "2026-08-28T20:21:04.759Z",
       "pub_sort_dt": "2026-08-29 04:21:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国汽车制造商正瞄准英国标志性的路虎品牌",
-      "title_cn": "中国汽车制造商正瞄准英国标志性的路虎品牌",
-      "url": "https://www.bloomberg.com/opinion/newsletters/2026-08-28/china-s-carmakers-are-coming-for-britain-s-iconic-land-rover",
-      "pub_raw": "2026-08-28T15:48:36.656Z",
-      "pub_sort_dt": "2026-08-28 23:48:36"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "评论：周末读物：Meta的人工智能反抗、中国的权力博弈、美联储的表态之争",
-      "title_cn": "评论：周末读物：Meta的人工智能反抗、中国的权力博弈、美联储的表态之争",
-      "url": "https://reut.rs/4zF4qRW",
-      "pub_raw": "2026-08-28T14:44:32.975Z",
-      "pub_sort_dt": "2026-08-28 22:44:32"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "习近平的军事清洗导致亲信被逐出中国立法机构",
-      "title_cn": "习近平的军事清洗导致亲信被逐出中国立法机构",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/xi-s-military-purge-sees-loyalists-ousted-from-china-legislature",
-      "pub_raw": "2026-08-28T13:56:25.900Z",
-      "pub_sort_dt": "2026-08-28 21:56:25"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国将多名高级将领从中央军事委员会中撤职",
-      "title_cn": "中国将多名高级将领从中央军事委员会中撤职",
-      "url": "https://reut.rs/4zH0QGX",
-      "pub_raw": "2026-08-28T13:56:25.746Z",
-      "pub_sort_dt": "2026-08-28 21:56:25"
     }
   ]
 }
