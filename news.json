@@ -1,10 +1,10 @@
 {
-  "update_cst": "2026-09-01 22:01:21 北京时间",
+  "update_cst": "2026-09-02 06:01:04 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 14,
+    "The Economist": 1,
+    "Bloomberg": 13,
     "Financial Times": 1,
     "Wall Street Journal": 0,
     "Reuters": 5
@@ -12,93 +12,141 @@
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "台湾美食之旅：探寻不浮夸的中国传统 - WSJ",
-      "title_cn": "台湾美食之旅：探寻不浮夸的中国传统 - WSJ",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxOSFdqaGtLY1hSdkZ5Zmc4M1I0elQ3VTh6R1JSeTBXVndnYVNWbGFuQlhWaGd5V240Qm5VSzhUdVBzcmlTSWVNR1R4ODlLeXdfb2gtWXk3aTVMOUFBWGhlcjh6c0VmVmhtUThFX3Fja1F5NEpUR2tlZWhGVXZFWk92WlhlUm0zVFVOY255RUpKdXlGQVpuV05LWWxPNE8zN0lJVE0waXdJZC1EbmJFeEE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T10:55:00.000Z",
-      "pub_sort_dt": "2026-09-01 18:55:00"
+      "title_en": "每3名澳大利亚人中就有1人怀疑，如果中国发动攻击，美国是否会出手保卫他们 - Politico",
+      "title_cn": "每3名澳大利亚人中就有1人怀疑，如果中国发动攻击，美国是否会出手保卫他们 - Politico",
+      "url": "https://news.google.com/read/CBMijAFBVV95cUxNc0NoMmtvNllHOEQ1eGZnNlhOSzdtam1PZmxwM3BleXJvcVdMSVAxTXgyZ3RIaXNGTk42SEtvQnJjTjlaaXVKbmF1LWJ5elpSNkE2cnRQWnBDakctV0xCbnhVOFh6cmJLMEIwdVFUNU5rdXo3TFpMVDJsZ1ZOWGpRY1ZzNDdsem0wM2UtVg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T19:15:00.000Z",
+      "pub_sort_dt": "2026-09-02 03:15:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "惩罚与沉默：中国在西藏祭出“灾难应对方案” - The New York Times",
-      "title_cn": "惩罚与沉默：中国在西藏祭出“灾难应对方案” - 纽约时报",
-      "url": "https://news.google.com/read/CBMijwFBVV95cUxOTkkxN1VGbG5aNHdrTG1zRHFNRDFmTVV4elVhaWFaUXV3TGw5S0M1U1BJejYtMl85UmFPVjJROGo1Z3Y3N2hrdVBjdjhXRGtyVVhWZlJJSEtDVTh3TDFQUlRnY1N4VjNSMWlUcWtOR0Y1bEdISy1sa09ralFWMmwweE1CYmZNcGgwNVpJSUdKVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T10:44:07.000Z",
-      "pub_sort_dt": "2026-09-01 18:44:07"
+      "title_en": "中国国家主席习近平抵达埃及，伊朗战争重塑中东联盟格局 - Reuters",
+      "title_cn": "中国国家主席习近平抵达埃及，伊朗战争重塑中东联盟格局 - Reuters",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxQbXdUN1lKTHRMR2hGZjJESTdacVBhMjgwMldoRGJ3dXZKVHNwWndJNlVWX3VJT0xuVkgtdkJMb0cyREdOMmRDcFNnblFUMm5DblctZHAxYnluWUZvQ3NXbTdTenZpYXRENU5wT09BbzF2S1lINnl1Z2p6cy1VeC14Q2kyLWRpNXdRN0lRWjhwM2JQVkxfYzQ0VnduSHZnaEJkLUFQcUw0bDBNaF92a1RLOQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T17:36:59.000Z",
+      "pub_sort_dt": "2026-09-02 01:36:59"
     },
     {
       "source": "China Buzzing",
-      "title_en": "蓝领工人推动了中国的发展。而如今，他们的工作正逐渐消失。 - washingtonpost.com",
-      "title_cn": "蓝领工人推动了中国的发展。而如今，他们的工作正逐渐消失。 - WashingtonPost.com",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxOcjJIR0xXcDVRMDA3V0V4UDFHcTdnb2lNV2o3WG9wZ1pSOERxSW81bXhqem1udW1td2tqbHIyYXNadTNBa3p2WmpCM1VoaFJrb2I0OW5BeHJ2MXFIWnpNbTcwUmJiT3ltajN3QjZidk0tUHkxMnROeDZZX0lOXzN3cXRhVWYyaXNhQUstYTNTZFB1djIyWWdGbGlWNHhWR25ONWM1b0JMcWZsWHdqTHZZeUZfVk5wbG1XRzJF?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T10:32:28.000Z",
-      "pub_sort_dt": "2026-09-01 18:32:28"
+      "title_en": "在地区局势动荡之际，中国国家主席习近平对埃及进行了十年来首次访问 - Al Jazeera",
+      "title_cn": "在地区局势动荡之际，中国国家主席习近平对埃及进行了十年来首次访问 - Al Jazeera",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxOLVZnNjhGeDZ3S1N2UlpWZ1huMFVQWXVNdU9xWmVua2FkN1F4akk5NkVTemtmbENyb24xaC1zeFhNa3N3QTdMZk15N18ycU1OeTdqY2VQRDJGLTUzTEdKbU0xdENlZnRGQ2tDNnFoaU1rQ0UtMC1hRFFHd0VGb1BTUHJtN25uVm5GcFN5NUN0LVdiLVlnck05OEdSdzFIZHBkd1lMZllnY0lQY0NTaFEyMl9ISdIBuAFBVV95cUxQb29uWlFKVjBoSGdVQ2ZWVks4emRQVkJMWVI1TUhZN1dJay12dk94TVREb2NPUV9fQThvZUgweVpHZnpHOWd3UjVkam02RDVIUXBIRksxQ1lHZmJ5TWxka0tsOG1OLTlJSWJ6cWpwbG41VlQwMHNVdWUtdkUwYTlfSW1FUnZlUy1xYjI1czdhdGgxc0pqOU1hMV9TZUdBSkdiQjBUSWlkYk00TnFEUjRVUmNnaVo5MDV2?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T17:07:08.000Z",
+      "pub_sort_dt": "2026-09-02 01:07:08"
     },
     {
       "source": "China Buzzing",
-      "title_en": "独家报道：美国官员称，中国航运公司中远集团利用隐蔽设备为北京收集情报 - Reuters",
-      "title_cn": "独家报道：美国官员称，中国肥胖公司中远集团利用波士顿设备为北京收集情报 - 路透社",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxQOUJJbXB2anZYelJzQWlUbjNpd0NHaGNxMlB5LWpPLUU3Y0VSU0hVNEM5Y29OZm9LMFFWTFNRSWFrdWs1VUFxZmowZkViUEVWemJ6cGg3ZDNLZ0ZMYWphbHcwQ1A1NEpOMDg5TXpLSG9HdmNoMkc4Y3JERUg4VHRmNWFfOElUeVlYeEVwNzlyUEZkdnNzUHJMc19zaGI5SDFDcjdNUkhxSXp6bUpqWUtidlJYWTdhcUFMZExJbw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T10:20:53.000Z",
-      "pub_sort_dt": "2026-09-01 18:20:53"
+      "title_en": "美国记者因充当中国代理人被判处2年监禁 - Politico",
+      "title_cn": "美国记者因充当中国代理人被判处2年监禁 - Politico",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxQeG9ESHl4X1dyUW1mRW1hYnhNQlM4cG5iel9xNEQzc0ktdjZ0RV9QV2hkdE5MUzI2eTV4cVk3UkU5Z3QtcDJYQUZlSmR4TUUyaDlxN1R4bUl0YVRyWDBJcDNPN0RqdjEwREwzT2J1SThmakg1aW5hWHp6NlFrbDBVVm5RZTdIYmtZek9jbkFEMGp5RUVzVlFrWGdaX2FUaEQ3NW9yUmNQbS1QdTRkNlhoZA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T16:52:00.000Z",
+      "pub_sort_dt": "2026-09-02 00:52:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "台湾官员出席太平洋峰会后，中国表示愤慨 - AP News",
-      "title_cn": "台湾官员出席太平洋峰会后，中国表示愤慨 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxQZjBKeDlOLWpVRXlmUk9tOW13cnFZUmQtOU5uT1VZSXJONXlPRFRqM3ZnMTRlSzF0MVFxLTY0NHJRNXR0SmNaUEVGV0ZoV0g2R1dRX2xjWWJLNk1QTU5YT0l2YXk2VlBCbU9hSlRfbFZwR3RJVE9lSHVDNU5tZWNiM0Y1cHAzTTZlcV8xSm43dUZ0ZDZUUUtEM3FuRENVN2tWcmQwNHZNWVdORmQ2b1E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T09:43:00.000Z",
-      "pub_sort_dt": "2026-09-01 17:43:00"
+      "title_en": "美国敦促二十国集团（G20）缩小贸易失衡，并将重点放在中国身上 - Reuters",
+      "title_cn": "美国敦促二十国集团（G20）缩小贸易失衡，并将重点放在中国身上 - Reuters",
+      "url": "https://news.google.com/read/CBMimgFBVV95cUxNWkV4WWhPZ3JYeUpwMUFmWTQ4eEJLMTRyUXdxMjk1VUtwQ2FaaG01aUhRWXBXUUQyVXZJQkwtWGV5RUpfbGYxRTJ1NFl1d29lSHpFNERCNDIzRGJ2YmRzdmdBODF0TE1yZURZMlJNemtjSkRVMXlTWmZHejFCZFVFVkdoOVJfZ1dvXzk5WDFldk5nYkREUmdNRVlB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T16:17:08.000Z",
+      "pub_sort_dt": "2026-09-02 00:17:08"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国表示，其太阳能发电量首次超过了煤炭发电量 - Euronews.com",
-      "title_cn": "中国表示，太阳能发电量首次超过煤炭发电量 - Euronews.com",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxPZVVDOENnMkM1WnJNaUpQTjA4Y2h5WTJ4dndVc3U1Q0NnQ3h5LXVLbzFGTmRVQzBrMUdNVldUdHdSV2RudjFtYUI0VUtFek8zOHQtRUtINUtFRzFKcWZ2blF5Q2h3bmFrNkgwbkMtVHFsRFdpSkJ5NXNyOVIzSEFVQi12M0VWMW9QMkNKdnJoRkdhTDNsVVdLRERhSDNlTGpSWnZXbWd0bU5URWM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T09:40:54.000Z",
-      "pub_sort_dt": "2026-09-01 17:40:54"
+      "title_en": "中国武装力量影响范围的不断扩大 - The Economist",
+      "title_cn": "中国武装力量影响范围的不断扩大 - The Economist",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxPd3B4RlNYM3FWQmpLME01MERnTC1wS1RnRU5Dc1h0LWlBSXY1aW5RVnZSYy1lZmwwXzZNdk1sMXhXcGczWTdaM29Ed2htdFduZzk3MFFUWWw2NXdTSngwczRPQWpEYzUwLV9GQjctc1FGTmNuc3p4NWowNDUzaDVROFBwbHl1ZFoyNk5fNXU4N0o?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T15:38:28.000Z",
+      "pub_sort_dt": "2026-09-01 23:38:28"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国还是美国？两场会议展现了全球大国的不同风貌。 - The New York Times",
-      "title_cn": "中国还是美国？两场会议展现了全球大国的不同风貌。 - 纽约时报",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxPS183eTBub0ZGUWRoUUktNEphcFBxaXZQNlp4MWNBR01JV1ZWQUdVTWo1TXFfMHdReUw2amFFazZpaVdMRG45TDNoRjF2T29KakVXVDR5Y2l1Sk13R2NlcUdnLUVIRnJVeWpTaXNZRGw5M0dDLXpYS0UtSW1lY3pEZU0tRkxFUlk5VVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T08:51:04.000Z",
-      "pub_sort_dt": "2026-09-01 16:51:04"
+      "title_en": "观点 随着欧美争夺关键矿产，中国正暗自欢喜 - The Washington Post",
+      "title_cn": "观点 随着欧美争夺关键矿产，中国正暗自欢喜 - The Washington Post",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxNY3J2djZCM0VEdTQzX0hUN29Rdmo4a3h0RU9xcDJkS3FUNXFBSzdZRkVHWEJNVkpMQ29yaVpENUZKSnRCdGNnUUE3UDF1bVkxQU9jZm1tZ1R1OTVIcHRWYXFWa2x0RFJ5ek8yNXJIZWV6ajRrbVdHSTFiczR1dXBZTm1hTk55RWFOUkdoOGFKX2JBZWZYOGsxUmpHT2pmdUlX?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T15:04:23.000Z",
+      "pub_sort_dt": "2026-09-01 23:04:23"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国、俄罗斯和印度的领导人举行会议，以抵制美国的影响 - NBC News",
-      "title_cn": "中国、俄罗斯和印度领导人召开会议，以对抗美国的影响 - NBC News",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxOM3B5dVhpUU1FSndMNmRlM1ZJeTF6T1RQalA1bUs4bDBIYXFxT1YxUGljTTkzZmlOY2ZlaEVDZHd5Wm1MWWJuM0x0TjBXSlRpTEhiSVBzRHR4WjBsbHQ0bU1XclVfdm5aTzkxeFM2VXpIUjVEQmtPWXdocXFNT014Z1hhSzhyTmZJelZoaWlKMUNDczdCR18wNzhEWEZrUU0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T08:28:14.000Z",
-      "pub_sort_dt": "2026-09-01 16:28:14"
+      "title_en": "中国的FAST射电望远镜为理解宇宙演化提供了新线索 - news.cgtn.com",
+      "title_cn": "中国的FAST射电望远镜为理解宇宙演化提供了新线索 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxQc2ZObktMdkZvczFKcTJHbzZBS1ZJYVU2TWt0aGJfS2J2amprX1NpZnhmYVIyVmJCMmlUclJqMlUwQUNYekJDbGczekFPVC14SEoyLXQ1QUpVeUx2eEk1QnFYSDhnSVVEejVzNG94U0F1X0JKM1FRbnQ4dFk3UHEtLXVuemlqT3NNZEpVWFp3eVFicWdKRVFuYjRVX0hkbzJFc1A4SXZMN09jSVhvTkFfSC12UFB0UQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T14:48:11.000Z",
+      "pub_sort_dt": "2026-09-01 22:48:11"
     },
     {
       "source": "China Buzzing",
-      "title_en": "他们当时正在尼泊尔修建基础设施。他们在中国的家人想知道他们究竟怎么了。 - CNN",
-      "title_cn": "他们当时正在西藏高原基础设施。他们在中国的家人想知道他们到底怎么了。 - CNN",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxOdnozNjB0cDRmbGdnQ2N0N3hqVjNhT25BQ0lwaElSTzlZN09WMEhUbkVScFoxNGFjcTZQSjJ5RDdhbVJ5X0dUZ054WlFtSkNRTTZWelYtWVE0REtrRmxUN292anVOaWtvYXVoMnJEZkJKNldpNEhTYWpTdXVNSXdETEYxdDJ0U3RmSXFrQmd3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T08:16:29.000Z",
-      "pub_sort_dt": "2026-09-01 16:16:29"
+      "title_en": "观点 中国仍在芯片战中节节败退 - The Washington Post",
+      "title_cn": "观点 中国仍在芯片战中节节败退 - The Washington Post",
+      "url": "https://news.google.com/read/CBMimwFBVV95cUxPQTI3a2RmOENsQXh2UWt4MFRYTTcxaVpDbFJvVkZpSEJFa21pRHNJYjktaFBLSDNzVVdrUFlpcmZBMkZmT280QW9DYy1STThWQzlPUlRiYWpwS1dOZ1B6elpGcVplSWNwRTAtWlo0WGtWM2xrRl9TSGw1eU1qNVV6bjU3cXNubEUyQjZnXzhDb0NBT3gyeXRuN2Nxcw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T14:02:50.000Z",
+      "pub_sort_dt": "2026-09-01 22:02:50"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国和尼泊尔毁灭性洪灾造成的死亡人数已超过1,000人 - aljazeera.com",
-      "title_cn": "中国和尼泊尔毁灭性洪灾造成的死亡人数已超过1000人 - aljazeera.com",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxQQ1BIVUZqRk1NTUZteDRJR2pVZV9JYmN5Smh5aUZYWTM1OGEyRnBJMnFfUGV5UWVGWWVPRFpFRTJFOUlGUjBQMklZTFhwWjFjbk5DSDZzRmJaU0x1emE2QTdZeTJDR2RYZDc1ZFBzdV9KYW9rWGdLSkF6aEZlQThSTVVWR3V1b3JIMUtmdU1lOTE1VUdMT0hSc0F6MkRZZ3hWdmtyZ085WE9KNzBf0gGyAUFVX3lxTE9nTkFZR2NKRzU3Q21OV1hPUDZLUDhMLTNadUFVMmF2VTh6V0o4cWc2SkNjREt3MDUySDJmUmJmRDFLRVluazNEV2RkaDFBV1pzR3dmV0U5TmVSNWhhdWozcjFRLTFwc2x4T0NualJfaHlMNFdZZV9OVW56MkVwak1XdkRiWHRaZ2NzdzJaZjUzS3pnT2dnMTVueXZnUFgxUl9yY0d3aDhnV3BBRFFWb3pvNmc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T07:52:38.000Z",
-      "pub_sort_dt": "2026-09-01 15:52:38"
+      "title_en": "ASML如何实现1万亿美元市值，以及为何对中国威胁的担忧被夸大了 - Barron's",
+      "title_cn": "ASML如何实现1万亿美元市值，以及为何对中国威胁的担忧被夸大了 - Barron's",
+      "url": "https://news.google.com/read/CBMie0FVX3lxTE9JbU1HRG9hNm8yM3A5d0dwc2V6aDhpLXlLQnRTQ014QXFmMjNpc0tTMms5eGY0ZG5yZDl6SFd3bEpNQ25ZWXB6REVLOEZySjd4ZEJsS3REOW50Skp0djg5NkxIZnNrYlJsZlJjeGZVakRWRGRmdVN4M1lXNA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T13:59:00.000Z",
+      "pub_sort_dt": "2026-09-01 21:59:00"
     }
   ],
   "media_news": [
     {
+      "source": "Financial Times",
+      "title_en": "在美国主办的二十国集团（G20）峰会后，中国使公报达成共识的努力受挫",
+      "title_cn": "在美国主办的二十国集团（G20）峰会后，中国使公报达成共识的努力受挫",
+      "url": "https://www.ft.com/content/dcefdf76-9bac-4b34-80c2-eab80b559f53?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-01T21:21:19.955Z",
+      "pub_sort_dt": "2026-09-02 05:21:19"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国国家主席习近平抵达埃及，伊朗战争正重塑中东联盟格局",
+      "title_cn": "中国国家主席习近平抵达埃及，伊朗战争正重塑中东联盟格局",
+      "url": "https://reut.rs/4A5vaLM",
+      "pub_raw": "2026-09-01T20:33:17.495Z",
+      "pub_sort_dt": "2026-09-02 04:33:17"
+    },
+    {
       "source": "Bloomberg",
-      "title_en": "瑞银表示，未来十年内中国难以赶上ASML的顶级设备",
-      "title_cn": "瑞银表示，未来十年内中国难以赶上ASML的顶级设备",
+      "title_en": "Shein在香港的IPO表现平平",
+      "title_cn": "Shein在香港的IPO表现平平",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-01/shein-s-lackluster-ipo-in-hong-kong",
+      "pub_raw": "2026-09-01T17:06:36.813Z",
+      "pub_sort_dt": "2026-09-02 01:06:36"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国武装力量影响范围的不断扩大",
+      "title_cn": "中国武装力量影响范围的不断扩大",
+      "url": "https://www.economist.com/china/2026/09/01/the-lengthening-reach-of-chinas-armed-forces",
+      "pub_raw": "2026-09-01T16:33:36.736Z",
+      "pub_sort_dt": "2026-09-02 00:33:36"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国敦促二十国集团（G20）缩小贸易失衡，并将重点放在中国身上",
+      "title_cn": "美国敦促二十国集团（G20）缩小贸易失衡，并将重点放在中国身上",
+      "url": "https://reut.rs/4ybW9n1",
+      "pub_raw": "2026-09-01T16:33:36.488Z",
+      "pub_sort_dt": "2026-09-02 00:33:36"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国房地产市场步入“二手房”时代",
+      "title_cn": "中国房地产市场步入“二手房”时代",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-01/china-s-real-estate-market-enters-the-resale-era",
+      "pub_raw": "2026-09-01T15:29:21.901Z",
+      "pub_sort_dt": "2026-09-01 23:29:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "瑞银表示，未来十年中国可能无法赶上ASML的顶尖设备",
+      "title_cn": "瑞银表示，未来十年中国可能无法赶上ASML的顶尖设备",
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-unlikely-to-match-asml-s-top-tool-in-next-decade-ubs-says",
-      "pub_raw": "2026-09-01T13:37:20.364Z",
-      "pub_sort_dt": "2026-09-01 21:37:20"
+      "pub_raw": "2026-09-01T14:57:38.464Z",
+      "pub_sort_dt": "2026-09-01 22:57:38"
     },
     {
       "source": "Reuters",
@@ -111,7 +159,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国最新动态：北京改革加剧房地产市场崩盘的销售制度",
-      "title_cn": "中国最新动态：北京改革加强房地产市场崩盘的销售制度",
+      "title_cn": "中国最新动态：北京改革加剧房地产市场崩盘的销售制度",
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-01/china-latest-beijing-revamps-home-sales-system-that-worsened-its-meltdown",
       "pub_raw": "2026-09-01T11:13:31.455Z",
       "pub_sort_dt": "2026-09-01 19:13:31"
@@ -127,7 +175,7 @@
     {
       "source": "Reuters",
       "title_en": "独家报道：美国官员称，中国航运公司中远集团利用隐蔽设备为北京收集情报",
-      "title_cn": "独家报道：美国国务院称，中国渡假公司中远集团利用波士顿设备为北京收集情报",
+      "title_cn": "独家报道：美国官员称，中国航运公司中远集团利用隐蔽设备为北京收集情报",
       "url": "https://reut.rs/4h4lxVW",
       "pub_raw": "2026-09-01T11:13:30.858Z",
       "pub_sort_dt": "2026-09-01 19:13:30"
@@ -135,7 +183,7 @@
     {
       "source": "Bloomberg",
       "title_en": "比亚迪销量增长18%，出口激增抵消了中国国内市场的疲软",
-      "title_cn": "比亚迪市场增长18%，出口激增导致中国国内市场疲软",
+      "title_cn": "比亚迪销量增长18%，出口激增抵消了中国国内市场的疲软",
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/byd-sales-climb-18-as-export-surge-counters-weak-china-market",
       "pub_raw": "2026-09-01T10:41:14.487Z",
       "pub_sort_dt": "2026-09-01 18:41:14"
@@ -159,7 +207,7 @@
     {
       "source": "Bloomberg",
       "title_en": "台湾对国泰SITE处以罚款，并限制离岸信托产品的发行",
-      "title_cn": "台湾对国泰网站处以罚款，并离岸信托产品的发行",
+      "title_cn": "台湾对国泰SITE处以罚款，并限制离岸信托产品的发行",
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/taiwan-fines-cathay-site-restricts-offshore-trust-offerings",
       "pub_raw": "2026-09-01T09:21:15.693Z",
       "pub_sort_dt": "2026-09-01 17:21:15"
@@ -167,7 +215,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国法院冻结Nexperia资产，围绕这家荷兰芯片制造商的纠纷持续发酵",
-      "title_cn": "中国法院冻结了Nexperia资产，围绕这家荷兰芯片制造商的发酵问题",
+      "title_cn": "中国法院冻结Nexperia资产，围绕这家荷兰芯片制造商的纠纷持续发酵",
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-freezes-china-court-freezes-nexperia-assets-in-fight-over-dutch-chipmaker",
       "pub_raw": "2026-09-01T09:21:15.689Z",
       "pub_sort_dt": "2026-09-01 17:21:15"
@@ -175,7 +223,7 @@
     {
       "source": "Bloomberg",
       "title_en": "Shein 在香港市场首秀虽经历波折，但最终几乎抹平了近10%的跌幅",
-      "title_cn": "Shein在市场首秀虽经历香港波折，但最终几乎抹平了近10%的跌幅",
+      "title_cn": "Shein 在香港市场首秀虽经历波折，但最终几乎抹平了近10%的跌幅",
       "url": "https://www.bloomberg.com/news/articles/2026-08-31/shein-set-to-debut-in-test-of-investor-demand-for-consumer-plays",
       "pub_raw": "2026-09-01T08:49:26.950Z",
       "pub_sort_dt": "2026-09-01 16:49:26"
@@ -191,7 +239,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港精英学校HKIS与美国教会达成和解",
-      "title_cn": "香港精英学校HKIS与美国学校达成和解",
+      "title_cn": "香港精英学校HKIS与美国教会达成和解",
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/elite-hong-kong-school-hkis-settles-dispute-with-founding-church",
       "pub_raw": "2026-09-01T07:29:17.575Z",
       "pub_sort_dt": "2026-09-01 15:29:17"
@@ -199,148 +247,148 @@
     {
       "source": "Reuters",
       "title_en": "Shein正式上市：这家在线时尚巨头的股票在备受期待的首次公开募股后于香港市场大幅下跌",
-      "title_cn": "Shein正式上市：这家在线时尚派对的股票在期待的首次公开募股后于香港市场大幅下跌",
+      "title_cn": "Shein正式上市：这家在线时尚巨头的股票在备受期待的首次公开募股后于香港市场大幅下跌",
       "url": "https://reut.rs/4daU5n2",
       "pub_raw": "2026-09-01T06:10:15.214Z",
       "pub_sort_dt": "2026-09-01 14:10:15"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "快时尚巨头Shein即将在香港市场首次亮相，但表现平平",
-      "title_cn": "快时尚派对Shein即将在香港市场首次亮相，但表现平平",
-      "url": "https://reut.rs/4h3Yfzu",
-      "pub_raw": "2026-09-01T05:53:44.673Z",
-      "pub_sort_dt": "2026-09-01 13:53:44"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国制造业景气指数创下五年来最长连涨纪录",
-      "title_cn": "中国制造业景气指数五年至连涨纪录",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-manufacturing-gauge-surprises-with-faster-august-expansion",
-      "pub_raw": "2026-09-01T04:33:35.949Z",
-      "pub_sort_dt": "2026-09-01 12:33:35"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "太阳能超越煤炭，成为中国最大的发电装机容量来源",
-      "title_cn": "太阳能超越煤炭，成为中国最大发电装机容量来源",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/solar-surpasses-coal-as-china-s-top-source-of-power-capacity",
-      "pub_raw": "2026-09-01T02:57:34.138Z",
-      "pub_sort_dt": "2026-09-01 10:57:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "尼泊尔-中国：要解决洪灾问题，我们需要建造更多巨型水坝",
-      "title_cn": "尼泊尔-中国：要解决洪灾问题，我们需要建设更多的巨型水坝",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-01/nepal-china-to-fix-flood-disasters-we-need-more-giant-dams",
-      "pub_raw": "2026-09-01T02:09:30.549Z",
-      "pub_sort_dt": "2026-09-01 10:09:30"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国就台湾方面出席太平洋地区领导人会议一事发出“后果”警告",
-      "title_cn": "中国就台湾方面出席太平洋地区领导人会议一事发出“后果”警告",
-      "url": "https://reut.rs/4i6odDx",
-      "pub_raw": "2026-09-01T01:53:19.926Z",
-      "pub_sort_dt": "2026-09-01 09:53:19"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "Shein在香港首日上市交易中股价下跌",
-      "title_cn": "Shein在香港首日上市交易中股价下跌",
-      "url": "https://www.ft.com/content/06e22622-3e92-46a5-842f-bfa269687aaa?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-01T01:53:19.881Z",
-      "pub_sort_dt": "2026-09-01 09:53:19"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "台湾美食之旅：探寻不浮夸的中国传统 - WSJ",
-      "title_cn": "台湾美食之旅：探寻不浮夸的中国传统 - WSJ",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxOSFdqaGtLY1hSdkZ5Zmc4M1I0elQ3VTh6R1JSeTBXVndnYVNWbGFuQlhWaGd5V240Qm5VSzhUdVBzcmlTSWVNR1R4ODlLeXdfb2gtWXk3aTVMOUFBWGhlcjh6c0VmVmhtUThFX3Fja1F5NEpUR2tlZWhGVXZFWk92WlhlUm0zVFVOY255RUpKdXlGQVpuV05LWWxPNE8zN0lJVE0waXdJZC1EbmJFeEE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T10:55:00.000Z",
-      "pub_sort_dt": "2026-09-01 18:55:00"
+      "title_en": "每3名澳大利亚人中就有1人怀疑，如果中国发动攻击，美国是否会出手保卫他们 - Politico",
+      "title_cn": "每3名澳大利亚人中就有1人怀疑，如果中国发动攻击，美国是否会出手保卫他们 - Politico",
+      "url": "https://news.google.com/read/CBMijAFBVV95cUxNc0NoMmtvNllHOEQ1eGZnNlhOSzdtam1PZmxwM3BleXJvcVdMSVAxTXgyZ3RIaXNGTk42SEtvQnJjTjlaaXVKbmF1LWJ5elpSNkE2cnRQWnBDakctV0xCbnhVOFh6cmJLMEIwdVFUNU5rdXo3TFpMVDJsZ1ZOWGpRY1ZzNDdsem0wM2UtVg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T19:15:00.000Z",
+      "pub_sort_dt": "2026-09-02 03:15:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "惩罚与沉默：中国在西藏祭出“灾难应对方案” - The New York Times",
-      "title_cn": "惩罚与沉默：中国在西藏祭出“灾难应对方案” - 纽约时报",
-      "url": "https://news.google.com/read/CBMijwFBVV95cUxOTkkxN1VGbG5aNHdrTG1zRHFNRDFmTVV4elVhaWFaUXV3TGw5S0M1U1BJejYtMl85UmFPVjJROGo1Z3Y3N2hrdVBjdjhXRGtyVVhWZlJJSEtDVTh3TDFQUlRnY1N4VjNSMWlUcWtOR0Y1bEdISy1sa09ralFWMmwweE1CYmZNcGgwNVpJSUdKVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T10:44:07.000Z",
-      "pub_sort_dt": "2026-09-01 18:44:07"
+      "title_en": "中国国家主席习近平抵达埃及，伊朗战争重塑中东联盟格局 - Reuters",
+      "title_cn": "中国国家主席习近平抵达埃及，伊朗战争重塑中东联盟格局 - Reuters",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxQbXdUN1lKTHRMR2hGZjJESTdacVBhMjgwMldoRGJ3dXZKVHNwWndJNlVWX3VJT0xuVkgtdkJMb0cyREdOMmRDcFNnblFUMm5DblctZHAxYnluWUZvQ3NXbTdTenZpYXRENU5wT09BbzF2S1lINnl1Z2p6cy1VeC14Q2kyLWRpNXdRN0lRWjhwM2JQVkxfYzQ0VnduSHZnaEJkLUFQcUw0bDBNaF92a1RLOQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T17:36:59.000Z",
+      "pub_sort_dt": "2026-09-02 01:36:59"
     },
     {
       "source": "China Buzzing",
-      "title_en": "蓝领工人推动了中国的发展。而如今，他们的工作正逐渐消失。 - washingtonpost.com",
-      "title_cn": "蓝领工人推动了中国的发展。而如今，他们的工作正逐渐消失。 - WashingtonPost.com",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxOcjJIR0xXcDVRMDA3V0V4UDFHcTdnb2lNV2o3WG9wZ1pSOERxSW81bXhqem1udW1td2tqbHIyYXNadTNBa3p2WmpCM1VoaFJrb2I0OW5BeHJ2MXFIWnpNbTcwUmJiT3ltajN3QjZidk0tUHkxMnROeDZZX0lOXzN3cXRhVWYyaXNhQUstYTNTZFB1djIyWWdGbGlWNHhWR25ONWM1b0JMcWZsWHdqTHZZeUZfVk5wbG1XRzJF?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T10:32:28.000Z",
-      "pub_sort_dt": "2026-09-01 18:32:28"
+      "title_en": "在地区局势动荡之际，中国国家主席习近平对埃及进行了十年来首次访问 - Al Jazeera",
+      "title_cn": "在地区局势动荡之际，中国国家主席习近平对埃及进行了十年来首次访问 - Al Jazeera",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxOLVZnNjhGeDZ3S1N2UlpWZ1huMFVQWXVNdU9xWmVua2FkN1F4akk5NkVTemtmbENyb24xaC1zeFhNa3N3QTdMZk15N18ycU1OeTdqY2VQRDJGLTUzTEdKbU0xdENlZnRGQ2tDNnFoaU1rQ0UtMC1hRFFHd0VGb1BTUHJtN25uVm5GcFN5NUN0LVdiLVlnck05OEdSdzFIZHBkd1lMZllnY0lQY0NTaFEyMl9ISdIBuAFBVV95cUxQb29uWlFKVjBoSGdVQ2ZWVks4emRQVkJMWVI1TUhZN1dJay12dk94TVREb2NPUV9fQThvZUgweVpHZnpHOWd3UjVkam02RDVIUXBIRksxQ1lHZmJ5TWxka0tsOG1OLTlJSWJ6cWpwbG41VlQwMHNVdWUtdkUwYTlfSW1FUnZlUy1xYjI1czdhdGgxc0pqOU1hMV9TZUdBSkdiQjBUSWlkYk00TnFEUjRVUmNnaVo5MDV2?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T17:07:08.000Z",
+      "pub_sort_dt": "2026-09-02 01:07:08"
     },
     {
       "source": "China Buzzing",
-      "title_en": "独家报道：美国官员称，中国航运公司中远集团利用隐蔽设备为北京收集情报 - Reuters",
-      "title_cn": "独家报道：美国官员称，中国肥胖公司中远集团利用波士顿设备为北京收集情报 - 路透社",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxQOUJJbXB2anZYelJzQWlUbjNpd0NHaGNxMlB5LWpPLUU3Y0VSU0hVNEM5Y29OZm9LMFFWTFNRSWFrdWs1VUFxZmowZkViUEVWemJ6cGg3ZDNLZ0ZMYWphbHcwQ1A1NEpOMDg5TXpLSG9HdmNoMkc4Y3JERUg4VHRmNWFfOElUeVlYeEVwNzlyUEZkdnNzUHJMc19zaGI5SDFDcjdNUkhxSXp6bUpqWUtidlJYWTdhcUFMZExJbw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T10:20:53.000Z",
-      "pub_sort_dt": "2026-09-01 18:20:53"
+      "title_en": "美国记者因充当中国代理人被判处2年监禁 - Politico",
+      "title_cn": "美国记者因充当中国代理人被判处2年监禁 - Politico",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxQeG9ESHl4X1dyUW1mRW1hYnhNQlM4cG5iel9xNEQzc0ktdjZ0RV9QV2hkdE5MUzI2eTV4cVk3UkU5Z3QtcDJYQUZlSmR4TUUyaDlxN1R4bUl0YVRyWDBJcDNPN0RqdjEwREwzT2J1SThmakg1aW5hWHp6NlFrbDBVVm5RZTdIYmtZek9jbkFEMGp5RUVzVlFrWGdaX2FUaEQ3NW9yUmNQbS1QdTRkNlhoZA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T16:52:00.000Z",
+      "pub_sort_dt": "2026-09-02 00:52:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "台湾官员出席太平洋峰会后，中国表示愤慨 - AP News",
-      "title_cn": "台湾官员出席太平洋峰会后，中国表示愤慨 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxQZjBKeDlOLWpVRXlmUk9tOW13cnFZUmQtOU5uT1VZSXJONXlPRFRqM3ZnMTRlSzF0MVFxLTY0NHJRNXR0SmNaUEVGV0ZoV0g2R1dRX2xjWWJLNk1QTU5YT0l2YXk2VlBCbU9hSlRfbFZwR3RJVE9lSHVDNU5tZWNiM0Y1cHAzTTZlcV8xSm43dUZ0ZDZUUUtEM3FuRENVN2tWcmQwNHZNWVdORmQ2b1E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T09:43:00.000Z",
-      "pub_sort_dt": "2026-09-01 17:43:00"
+      "title_en": "美国敦促二十国集团（G20）缩小贸易失衡，并将重点放在中国身上 - Reuters",
+      "title_cn": "美国敦促二十国集团（G20）缩小贸易失衡，并将重点放在中国身上 - Reuters",
+      "url": "https://news.google.com/read/CBMimgFBVV95cUxNWkV4WWhPZ3JYeUpwMUFmWTQ4eEJLMTRyUXdxMjk1VUtwQ2FaaG01aUhRWXBXUUQyVXZJQkwtWGV5RUpfbGYxRTJ1NFl1d29lSHpFNERCNDIzRGJ2YmRzdmdBODF0TE1yZURZMlJNemtjSkRVMXlTWmZHejFCZFVFVkdoOVJfZ1dvXzk5WDFldk5nYkREUmdNRVlB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T16:17:08.000Z",
+      "pub_sort_dt": "2026-09-02 00:17:08"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国表示，其太阳能发电量首次超过了煤炭发电量 - Euronews.com",
-      "title_cn": "中国表示，太阳能发电量首次超过煤炭发电量 - Euronews.com",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxPZVVDOENnMkM1WnJNaUpQTjA4Y2h5WTJ4dndVc3U1Q0NnQ3h5LXVLbzFGTmRVQzBrMUdNVldUdHdSV2RudjFtYUI0VUtFek8zOHQtRUtINUtFRzFKcWZ2blF5Q2h3bmFrNkgwbkMtVHFsRFdpSkJ5NXNyOVIzSEFVQi12M0VWMW9QMkNKdnJoRkdhTDNsVVdLRERhSDNlTGpSWnZXbWd0bU5URWM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T09:40:54.000Z",
-      "pub_sort_dt": "2026-09-01 17:40:54"
+      "title_en": "中国武装力量影响范围的不断扩大 - The Economist",
+      "title_cn": "中国武装力量影响范围的不断扩大 - The Economist",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxPd3B4RlNYM3FWQmpLME01MERnTC1wS1RnRU5Dc1h0LWlBSXY1aW5RVnZSYy1lZmwwXzZNdk1sMXhXcGczWTdaM29Ed2htdFduZzk3MFFUWWw2NXdTSngwczRPQWpEYzUwLV9GQjctc1FGTmNuc3p4NWowNDUzaDVROFBwbHl1ZFoyNk5fNXU4N0o?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T15:38:28.000Z",
+      "pub_sort_dt": "2026-09-01 23:38:28"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国还是美国？两场会议展现了全球大国的不同风貌。 - The New York Times",
-      "title_cn": "中国还是美国？两场会议展现了全球大国的不同风貌。 - 纽约时报",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxPS183eTBub0ZGUWRoUUktNEphcFBxaXZQNlp4MWNBR01JV1ZWQUdVTWo1TXFfMHdReUw2amFFazZpaVdMRG45TDNoRjF2T29KakVXVDR5Y2l1Sk13R2NlcUdnLUVIRnJVeWpTaXNZRGw5M0dDLXpYS0UtSW1lY3pEZU0tRkxFUlk5VVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T08:51:04.000Z",
-      "pub_sort_dt": "2026-09-01 16:51:04"
+      "title_en": "观点 随着欧美争夺关键矿产，中国正暗自欢喜 - The Washington Post",
+      "title_cn": "观点 随着欧美争夺关键矿产，中国正暗自欢喜 - The Washington Post",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxNY3J2djZCM0VEdTQzX0hUN29Rdmo4a3h0RU9xcDJkS3FUNXFBSzdZRkVHWEJNVkpMQ29yaVpENUZKSnRCdGNnUUE3UDF1bVkxQU9jZm1tZ1R1OTVIcHRWYXFWa2x0RFJ5ek8yNXJIZWV6ajRrbVdHSTFiczR1dXBZTm1hTk55RWFOUkdoOGFKX2JBZWZYOGsxUmpHT2pmdUlX?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T15:04:23.000Z",
+      "pub_sort_dt": "2026-09-01 23:04:23"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国、俄罗斯和印度的领导人举行会议，以抵制美国的影响 - NBC News",
-      "title_cn": "中国、俄罗斯和印度领导人召开会议，以对抗美国的影响 - NBC News",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxOM3B5dVhpUU1FSndMNmRlM1ZJeTF6T1RQalA1bUs4bDBIYXFxT1YxUGljTTkzZmlOY2ZlaEVDZHd5Wm1MWWJuM0x0TjBXSlRpTEhiSVBzRHR4WjBsbHQ0bU1XclVfdm5aTzkxeFM2VXpIUjVEQmtPWXdocXFNT014Z1hhSzhyTmZJelZoaWlKMUNDczdCR18wNzhEWEZrUU0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T08:28:14.000Z",
-      "pub_sort_dt": "2026-09-01 16:28:14"
+      "title_en": "中国的FAST射电望远镜为理解宇宙演化提供了新线索 - news.cgtn.com",
+      "title_cn": "中国的FAST射电望远镜为理解宇宙演化提供了新线索 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxQc2ZObktMdkZvczFKcTJHbzZBS1ZJYVU2TWt0aGJfS2J2amprX1NpZnhmYVIyVmJCMmlUclJqMlUwQUNYekJDbGczekFPVC14SEoyLXQ1QUpVeUx2eEk1QnFYSDhnSVVEejVzNG94U0F1X0JKM1FRbnQ4dFk3UHEtLXVuemlqT3NNZEpVWFp3eVFicWdKRVFuYjRVX0hkbzJFc1A4SXZMN09jSVhvTkFfSC12UFB0UQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T14:48:11.000Z",
+      "pub_sort_dt": "2026-09-01 22:48:11"
     },
     {
       "source": "China Buzzing",
-      "title_en": "他们当时正在尼泊尔修建基础设施。他们在中国的家人想知道他们究竟怎么了。 - CNN",
-      "title_cn": "他们当时正在西藏高原基础设施。他们在中国的家人想知道他们到底怎么了。 - CNN",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxOdnozNjB0cDRmbGdnQ2N0N3hqVjNhT25BQ0lwaElSTzlZN09WMEhUbkVScFoxNGFjcTZQSjJ5RDdhbVJ5X0dUZ054WlFtSkNRTTZWelYtWVE0REtrRmxUN292anVOaWtvYXVoMnJEZkJKNldpNEhTYWpTdXVNSXdETEYxdDJ0U3RmSXFrQmd3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T08:16:29.000Z",
-      "pub_sort_dt": "2026-09-01 16:16:29"
+      "title_en": "观点 中国仍在芯片战中节节败退 - The Washington Post",
+      "title_cn": "观点 中国仍在芯片战中节节败退 - The Washington Post",
+      "url": "https://news.google.com/read/CBMimwFBVV95cUxPQTI3a2RmOENsQXh2UWt4MFRYTTcxaVpDbFJvVkZpSEJFa21pRHNJYjktaFBLSDNzVVdrUFlpcmZBMkZmT280QW9DYy1STThWQzlPUlRiYWpwS1dOZ1B6elpGcVplSWNwRTAtWlo0WGtWM2xrRl9TSGw1eU1qNVV6bjU3cXNubEUyQjZnXzhDb0NBT3gyeXRuN2Nxcw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T14:02:50.000Z",
+      "pub_sort_dt": "2026-09-01 22:02:50"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国和尼泊尔毁灭性洪灾造成的死亡人数已超过1,000人 - aljazeera.com",
-      "title_cn": "中国和尼泊尔毁灭性洪灾造成的死亡人数已超过1000人 - aljazeera.com",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxQQ1BIVUZqRk1NTUZteDRJR2pVZV9JYmN5Smh5aUZYWTM1OGEyRnBJMnFfUGV5UWVGWWVPRFpFRTJFOUlGUjBQMklZTFhwWjFjbk5DSDZzRmJaU0x1emE2QTdZeTJDR2RYZDc1ZFBzdV9KYW9rWGdLSkF6aEZlQThSTVVWR3V1b3JIMUtmdU1lOTE1VUdMT0hSc0F6MkRZZ3hWdmtyZ085WE9KNzBf0gGyAUFVX3lxTE9nTkFZR2NKRzU3Q21OV1hPUDZLUDhMLTNadUFVMmF2VTh6V0o4cWc2SkNjREt3MDUySDJmUmJmRDFLRVluazNEV2RkaDFBV1pzR3dmV0U5TmVSNWhhdWozcjFRLTFwc2x4T0NualJfaHlMNFdZZV9OVW56MkVwak1XdkRiWHRaZ2NzdzJaZjUzS3pnT2dnMTVueXZnUFgxUl9yY0d3aDhnV3BBRFFWb3pvNmc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-01T07:52:38.000Z",
-      "pub_sort_dt": "2026-09-01 15:52:38"
+      "title_en": "ASML如何实现1万亿美元市值，以及为何对中国威胁的担忧被夸大了 - Barron's",
+      "title_cn": "ASML如何实现1万亿美元市值，以及为何对中国威胁的担忧被夸大了 - Barron's",
+      "url": "https://news.google.com/read/CBMie0FVX3lxTE9JbU1HRG9hNm8yM3A5d0dwc2V6aDhpLXlLQnRTQ014QXFmMjNpc0tTMms5eGY0ZG5yZDl6SFd3bEpNQ25ZWXB6REVLOEZySjd4ZEJsS3REOW50Skp0djg5NkxIZnNrYlJsZlJjeGZVakRWRGRmdVN4M1lXNA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T13:59:00.000Z",
+      "pub_sort_dt": "2026-09-01 21:59:00"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "在美国主办的二十国集团（G20）峰会后，中国使公报达成共识的努力受挫",
+      "title_cn": "在美国主办的二十国集团（G20）峰会后，中国使公报达成共识的努力受挫",
+      "url": "https://www.ft.com/content/dcefdf76-9bac-4b34-80c2-eab80b559f53?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-01T21:21:19.955Z",
+      "pub_sort_dt": "2026-09-02 05:21:19"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国国家主席习近平抵达埃及，伊朗战争正重塑中东联盟格局",
+      "title_cn": "中国国家主席习近平抵达埃及，伊朗战争正重塑中东联盟格局",
+      "url": "https://reut.rs/4A5vaLM",
+      "pub_raw": "2026-09-01T20:33:17.495Z",
+      "pub_sort_dt": "2026-09-02 04:33:17"
     },
     {
       "source": "Bloomberg",
-      "title_en": "瑞银表示，未来十年内中国难以赶上ASML的顶级设备",
-      "title_cn": "瑞银表示，未来十年内中国难以赶上ASML的顶级设备",
+      "title_en": "Shein在香港的IPO表现平平",
+      "title_cn": "Shein在香港的IPO表现平平",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-01/shein-s-lackluster-ipo-in-hong-kong",
+      "pub_raw": "2026-09-01T17:06:36.813Z",
+      "pub_sort_dt": "2026-09-02 01:06:36"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国武装力量影响范围的不断扩大",
+      "title_cn": "中国武装力量影响范围的不断扩大",
+      "url": "https://www.economist.com/china/2026/09/01/the-lengthening-reach-of-chinas-armed-forces",
+      "pub_raw": "2026-09-01T16:33:36.736Z",
+      "pub_sort_dt": "2026-09-02 00:33:36"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国敦促二十国集团（G20）缩小贸易失衡，并将重点放在中国身上",
+      "title_cn": "美国敦促二十国集团（G20）缩小贸易失衡，并将重点放在中国身上",
+      "url": "https://reut.rs/4ybW9n1",
+      "pub_raw": "2026-09-01T16:33:36.488Z",
+      "pub_sort_dt": "2026-09-02 00:33:36"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国房地产市场步入“二手房”时代",
+      "title_cn": "中国房地产市场步入“二手房”时代",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-01/china-s-real-estate-market-enters-the-resale-era",
+      "pub_raw": "2026-09-01T15:29:21.901Z",
+      "pub_sort_dt": "2026-09-01 23:29:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "瑞银表示，未来十年中国可能无法赶上ASML的顶尖设备",
+      "title_cn": "瑞银表示，未来十年中国可能无法赶上ASML的顶尖设备",
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-unlikely-to-match-asml-s-top-tool-in-next-decade-ubs-says",
-      "pub_raw": "2026-09-01T13:37:20.364Z",
-      "pub_sort_dt": "2026-09-01 21:37:20"
+      "pub_raw": "2026-09-01T14:57:38.464Z",
+      "pub_sort_dt": "2026-09-01 22:57:38"
     },
     {
       "source": "Reuters",
@@ -353,7 +401,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国最新动态：北京改革加剧房地产市场崩盘的销售制度",
-      "title_cn": "中国最新动态：北京改革加强房地产市场崩盘的销售制度",
+      "title_cn": "中国最新动态：北京改革加剧房地产市场崩盘的销售制度",
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-01/china-latest-beijing-revamps-home-sales-system-that-worsened-its-meltdown",
       "pub_raw": "2026-09-01T11:13:31.455Z",
       "pub_sort_dt": "2026-09-01 19:13:31"
@@ -369,7 +417,7 @@
     {
       "source": "Reuters",
       "title_en": "独家报道：美国官员称，中国航运公司中远集团利用隐蔽设备为北京收集情报",
-      "title_cn": "独家报道：美国国务院称，中国渡假公司中远集团利用波士顿设备为北京收集情报",
+      "title_cn": "独家报道：美国官员称，中国航运公司中远集团利用隐蔽设备为北京收集情报",
       "url": "https://reut.rs/4h4lxVW",
       "pub_raw": "2026-09-01T11:13:30.858Z",
       "pub_sort_dt": "2026-09-01 19:13:30"
@@ -377,7 +425,7 @@
     {
       "source": "Bloomberg",
       "title_en": "比亚迪销量增长18%，出口激增抵消了中国国内市场的疲软",
-      "title_cn": "比亚迪市场增长18%，出口激增导致中国国内市场疲软",
+      "title_cn": "比亚迪销量增长18%，出口激增抵消了中国国内市场的疲软",
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/byd-sales-climb-18-as-export-surge-counters-weak-china-market",
       "pub_raw": "2026-09-01T10:41:14.487Z",
       "pub_sort_dt": "2026-09-01 18:41:14"
@@ -401,7 +449,7 @@
     {
       "source": "Bloomberg",
       "title_en": "台湾对国泰SITE处以罚款，并限制离岸信托产品的发行",
-      "title_cn": "台湾对国泰网站处以罚款，并离岸信托产品的发行",
+      "title_cn": "台湾对国泰SITE处以罚款，并限制离岸信托产品的发行",
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/taiwan-fines-cathay-site-restricts-offshore-trust-offerings",
       "pub_raw": "2026-09-01T09:21:15.693Z",
       "pub_sort_dt": "2026-09-01 17:21:15"
@@ -409,7 +457,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国法院冻结Nexperia资产，围绕这家荷兰芯片制造商的纠纷持续发酵",
-      "title_cn": "中国法院冻结了Nexperia资产，围绕这家荷兰芯片制造商的发酵问题",
+      "title_cn": "中国法院冻结Nexperia资产，围绕这家荷兰芯片制造商的纠纷持续发酵",
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-freezes-china-court-freezes-nexperia-assets-in-fight-over-dutch-chipmaker",
       "pub_raw": "2026-09-01T09:21:15.689Z",
       "pub_sort_dt": "2026-09-01 17:21:15"
@@ -417,7 +465,7 @@
     {
       "source": "Bloomberg",
       "title_en": "Shein 在香港市场首秀虽经历波折，但最终几乎抹平了近10%的跌幅",
-      "title_cn": "Shein在市场首秀虽经历香港波折，但最终几乎抹平了近10%的跌幅",
+      "title_cn": "Shein 在香港市场首秀虽经历波折，但最终几乎抹平了近10%的跌幅",
       "url": "https://www.bloomberg.com/news/articles/2026-08-31/shein-set-to-debut-in-test-of-investor-demand-for-consumer-plays",
       "pub_raw": "2026-09-01T08:49:26.950Z",
       "pub_sort_dt": "2026-09-01 16:49:26"
@@ -433,7 +481,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港精英学校HKIS与美国教会达成和解",
-      "title_cn": "香港精英学校HKIS与美国学校达成和解",
+      "title_cn": "香港精英学校HKIS与美国教会达成和解",
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/elite-hong-kong-school-hkis-settles-dispute-with-founding-church",
       "pub_raw": "2026-09-01T07:29:17.575Z",
       "pub_sort_dt": "2026-09-01 15:29:17"
@@ -441,58 +489,10 @@
     {
       "source": "Reuters",
       "title_en": "Shein正式上市：这家在线时尚巨头的股票在备受期待的首次公开募股后于香港市场大幅下跌",
-      "title_cn": "Shein正式上市：这家在线时尚派对的股票在期待的首次公开募股后于香港市场大幅下跌",
+      "title_cn": "Shein正式上市：这家在线时尚巨头的股票在备受期待的首次公开募股后于香港市场大幅下跌",
       "url": "https://reut.rs/4daU5n2",
       "pub_raw": "2026-09-01T06:10:15.214Z",
       "pub_sort_dt": "2026-09-01 14:10:15"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "快时尚巨头Shein即将在香港市场首次亮相，但表现平平",
-      "title_cn": "快时尚派对Shein即将在香港市场首次亮相，但表现平平",
-      "url": "https://reut.rs/4h3Yfzu",
-      "pub_raw": "2026-09-01T05:53:44.673Z",
-      "pub_sort_dt": "2026-09-01 13:53:44"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国制造业景气指数创下五年来最长连涨纪录",
-      "title_cn": "中国制造业景气指数五年至连涨纪录",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-manufacturing-gauge-surprises-with-faster-august-expansion",
-      "pub_raw": "2026-09-01T04:33:35.949Z",
-      "pub_sort_dt": "2026-09-01 12:33:35"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "太阳能超越煤炭，成为中国最大的发电装机容量来源",
-      "title_cn": "太阳能超越煤炭，成为中国最大发电装机容量来源",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/solar-surpasses-coal-as-china-s-top-source-of-power-capacity",
-      "pub_raw": "2026-09-01T02:57:34.138Z",
-      "pub_sort_dt": "2026-09-01 10:57:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "尼泊尔-中国：要解决洪灾问题，我们需要建造更多巨型水坝",
-      "title_cn": "尼泊尔-中国：要解决洪灾问题，我们需要建设更多的巨型水坝",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-01/nepal-china-to-fix-flood-disasters-we-need-more-giant-dams",
-      "pub_raw": "2026-09-01T02:09:30.549Z",
-      "pub_sort_dt": "2026-09-01 10:09:30"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国就台湾方面出席太平洋地区领导人会议一事发出“后果”警告",
-      "title_cn": "中国就台湾方面出席太平洋地区领导人会议一事发出“后果”警告",
-      "url": "https://reut.rs/4i6odDx",
-      "pub_raw": "2026-09-01T01:53:19.926Z",
-      "pub_sort_dt": "2026-09-01 09:53:19"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "Shein在香港首日上市交易中股价下跌",
-      "title_cn": "Shein在香港首日上市交易中股价下跌",
-      "url": "https://www.ft.com/content/06e22622-3e92-46a5-842f-bfa269687aaa?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-01T01:53:19.881Z",
-      "pub_sort_dt": "2026-09-01 09:53:19"
     }
   ]
 }
