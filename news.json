@@ -1,15 +1,31 @@
 {
-  "update_cst": "2026-09-01 12:01:03 北京时间",
+  "update_cst": "2026-09-01 15:01:20 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
-    "Bloomberg": 13,
+    "Bloomberg": 12,
     "Financial Times": 1,
     "Wall Street Journal": 0,
-    "Reuters": 5
+    "Reuters": 6
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "尼泊尔洪灾：位于喜马拉雅山脉这场悲剧核心地带的偏远尼中边境口岸 - BBC",
+      "title_cn": "尼泊尔洪灾：位于喜马拉雅地震悲剧核心地带的偏远尼中边境口岸 - BBC",
+      "url": "https://news.google.com/read/CBMiWkFVX3lxTE1SQS1Ta2pWZjdrQ0cxQ3Y4eDYxYk1sVXA4d0NaUXhrVFM3UVNDc2ROUGxsUmo1cEtaT0lGTDU5TF9STkhIamdLWGJiSy1HaE8wSk10UW5pN0VrQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T06:02:27.000Z",
+      "pub_sort_dt": "2026-09-01 14:02:27"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国就台湾方面出席太平洋岛国论坛一事发出“后果自负”的警告 - The Guardian",
+      "title_cn": "中国在太平洋岛国论坛上就台湾方面发出“后果自负”的警告 - 《卫报》",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxOWW9VU3FsUnNuMnV5cmpmbXUwcHhKckpWR19NYm1wUjF6QVJmVG85R3JQZFJPSHJEQUk3UkZLRHBhX2VpV21CRDBkSi05dzZKbTAxSXRnaGZLNHlTN2N5MWsxVWk4WTIzTERfbGtkMmhpRTJ2WUwyeWZIRmYwRmFmdWd5REFWNmF4U3BuUGk0Y09lN010TVBMREVFVkhDR0lUYzNUNjNRekZFQ0I3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T05:34:00.000Z",
+      "pub_sort_dt": "2026-09-01 13:34:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国制造业指数超出预期，扩张步伐加快 - Bloomberg.com",
@@ -21,7 +37,7 @@
     {
       "source": "China Buzzing",
       "title_en": "中国就台湾方面出席太平洋地区领导人会议一事警告将面临“后果” - Reuters",
-      "title_cn": "中国就台湾方面出席太平洋地区领导人会议一事将面临“后果”发出警告 - 路透中文网",
+      "title_cn": "中国就台湾方面警告出席太平洋地区领导人会议一件事将面临“后果” - 路透中文网",
       "url": "https://news.google.com/read/CBMivAFBVV95cUxQbk54R0FXekgzSkFrRUZRVjFKZUdDdmNfaDF6ZGRJMzlqdXd2NG5iTEYyS21MUkRWX3BWVWREVS04SjIzOVQ1Qm5aa0tNcHNQZno3M0JacjFoSEVmdkFyakN0RGlmZ3BYTFpaeGVFQ3JFVUtLY2RxSDRDWVlhQzFyNDVuM2FYQnVBeTU0OXo1UEllajdzZUZPWmxJdmxFMkc4UTFfMXBZTVNIZGNfZ25zOGV6VWJVRDhMZnhIQw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-01T00:53:00.000Z",
       "pub_sort_dt": "2026-09-01 08:53:00"
@@ -73,25 +89,41 @@
       "url": "https://news.google.com/read/CBMinwFBVV95cUxOTkd1UmxnOV9lSktpa18yTTQwUnRZWllTOF9Zdk43WV9VWEZFQzVVVW16ckRTS1NDbUFZNlY4M2hPM05VcGVvWThOeXQyQU92dGtpY0xSOVFRakVEV2phZENUOFl4Tms4WUN5U1pMUEtYNktFRTRBWUNjSWExeVdrSUxsdEEtSlFES21wZTktOUxHMmg2dXltUm0xSUphMkk?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-31T20:07:22.000Z",
       "pub_sort_dt": "2026-09-01 04:07:22"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在习近平与特朗普峰会召开前夕，美国在二十国集团（G20）会议上将矛头指向中国的全球贸易顺差 - South China Morning Post",
-      "title_cn": "在习近平与特朗普峰会召开前夕，美国在二十国集团（G20）会议上将矛头指向中国的全球贸易顺差 - 南华早报",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxQcEtjR2JCZmVlWHNqUFAzNko2QjJ6VENHcFRTNWxDNHI2NTBqV1hpS3FJOU9scWRzbldRMTdYZVJjaGlfVHREQVlXbjJUYXVJc1VqRHNfRDd4OHpFUXVOb2QyemR3ZE9UeS1GXzQ3eUFJQ2F3UjdmNTJNRXI3ZklVT09GTkI1RDFPY0lTWE83Um5NSXlyOV9iT05FYjJxTk9YWjhSMnV1ODFfUWxSZHFaTkYxU09KUW41cTFqU2QxNjg3bm5oUEFBcVpR0gHKAUFVX3lxTE5yMXFKZU5tdU5HS3FSRzZlLURfZmhEelBRUWJTYTBpNWJiZHA2T0RsQ0k3T2NVbHJhOUpkMUh1NGpmU3RoUkRWSDZWRzlNVVpvQThNd0FHVkt4MnZ6WURiLUJmWEotbkk3V2NYS1RYN1hidFZ4UnRDbzR0MUNhTV9SdGdzZFplblNDN254SnVOal9vbFhnZ0owS3Fzc2FVaXYwbWJLQ29EOG4zU2ZqNS01RkZnQjlORHROVUs3RHB5THlxa1NLbjNwMnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T19:10:22.000Z",
-      "pub_sort_dt": "2026-09-01 03:10:22"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "特朗普称，美国拒绝建设数据中心，''中国再高兴不过了'' - USA Today",
-      "title_cn": "特朗普称，美国拒绝建设数据中心，“中国再高兴不过了” - 《今日美国》",
-      "url": "https://news.google.com/read/CBMiqAFBVV95cUxQVFRGamVlRlFkWjMwWnhCNWZmeGpSRW9Mak82dk40NDBMT00yRXFVNGdySV9aOGZyWDczRzNQcXNTYXJxd3BhWlN0TW9Dd1lBZjBrX280MnQzeXM2WUlvbFB3ZUFUeTl2SGtueTRpMF9JOGRtcGRCUEY1YVpIWms3UGlzVG00VW5nYWIwejdqM2tmWTJyUnNra09NbHJXYTVvSXZSMTlxMVI?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T17:35:00.000Z",
-      "pub_sort_dt": "2026-09-01 01:35:00"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "Shein正式上市：这家在线时尚巨头的股票在备受期待的首次公开募股后于香港市场大幅下跌",
+      "title_cn": "Shein正式上市：这家在线时尚派对的股票在期待的首次公开募股后于香港市场大幅下跌",
+      "url": "https://reut.rs/4daU5n2",
+      "pub_raw": "2026-09-01T06:10:15.214Z",
+      "pub_sort_dt": "2026-09-01 14:10:15"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "快时尚巨头Shein即将在香港市场首次亮相，但表现平平",
+      "title_cn": "快时尚派对Shein即将在香港市场首次亮相，但表现平平",
+      "url": "https://reut.rs/4h3Yfzu",
+      "pub_raw": "2026-09-01T05:53:44.673Z",
+      "pub_sort_dt": "2026-09-01 13:53:44"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港精英学校HKIS与创办教会达成和解",
+      "title_cn": "香港精英学校HKIS与旅行社达成和解",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/elite-hong-kong-school-hkis-settles-dispute-with-founding-church",
+      "pub_raw": "2026-09-01T05:21:18.578Z",
+      "pub_sort_dt": "2026-09-01 13:21:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国制造业景气指数创下五年来最长连涨纪录",
+      "title_cn": "中国制造业景气指数五年至连涨纪录",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-manufacturing-gauge-surprises-with-faster-august-expansion",
+      "pub_raw": "2026-09-01T04:33:35.949Z",
+      "pub_sort_dt": "2026-09-01 12:33:35"
+    },
     {
       "source": "Bloomberg",
       "title_en": "太阳能超越煤炭，成为中国最大的发电装机容量来源",
@@ -99,14 +131,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/solar-surpasses-coal-as-china-s-top-source-of-power-capacity",
       "pub_raw": "2026-09-01T02:57:34.138Z",
       "pub_sort_dt": "2026-09-01 10:57:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港精英学校HKIS与创办教会达成和解",
-      "title_cn": "香港精英学校HKIS与旅行社达成和解",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/elite-hong-kong-school-hkis-settles-dispute-with-founding-church",
-      "pub_raw": "2026-09-01T02:41:10.782Z",
-      "pub_sort_dt": "2026-09-01 10:41:10"
     },
     {
       "source": "Bloomberg",
@@ -122,14 +146,6 @@
       "title_cn": "尼泊尔-中国：要解决洪灾问题，我们需要建设更多的巨型水坝",
       "url": "https://www.bloomberg.com/opinion/articles/2026-09-01/nepal-china-to-fix-flood-disasters-we-need-more-giant-dams",
       "pub_raw": "2026-09-01T02:09:30.549Z",
-      "pub_sort_dt": "2026-09-01 10:09:30"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国制造业景气指数超出预期，扩张步伐加快",
-      "title_cn": "中国制造业景气指数符合预期，拓展步伐加快",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-manufacturing-gauge-surprises-with-faster-august-expansion",
-      "pub_raw": "2026-09-01T02:09:30.542Z",
       "pub_sort_dt": "2026-09-01 10:09:30"
     },
     {
@@ -235,27 +251,27 @@
       "url": "https://reut.rs/4zLN9GT",
       "pub_raw": "2026-08-31T13:21:47.535Z",
       "pub_sort_dt": "2026-08-31 21:21:47"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着中国人工智能领域的竞争日益白热化，Z.AI的销售额未达高预期",
-      "title_cn": "随着中国人工智能领域的竞争激烈白热化，Z.AI的销售额未达到高预期",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/z-ai-sales-miss-estimates-after-china-s-ai-price-war-weighs",
-      "pub_raw": "2026-08-31T13:06:33.855Z",
-      "pub_sort_dt": "2026-08-31 21:06:33"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国际航空将增加飞往欧洲和北美的航班",
-      "title_cn": "中国国际航空将增加西雅图欧洲和北美的航班",
-      "url": "https://reut.rs/4zOtUMC",
-      "pub_raw": "2026-08-31T13:06:33.739Z",
-      "pub_sort_dt": "2026-08-31 21:06:33"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "尼泊尔洪灾：位于喜马拉雅山脉这场悲剧核心地带的偏远尼中边境口岸 - BBC",
+      "title_cn": "尼泊尔洪灾：位于喜马拉雅地震悲剧核心地带的偏远尼中边境口岸 - BBC",
+      "url": "https://news.google.com/read/CBMiWkFVX3lxTE1SQS1Ta2pWZjdrQ0cxQ3Y4eDYxYk1sVXA4d0NaUXhrVFM3UVNDc2ROUGxsUmo1cEtaT0lGTDU5TF9STkhIamdLWGJiSy1HaE8wSk10UW5pN0VrQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T06:02:27.000Z",
+      "pub_sort_dt": "2026-09-01 14:02:27"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国就台湾方面出席太平洋岛国论坛一事发出“后果自负”的警告 - The Guardian",
+      "title_cn": "中国在太平洋岛国论坛上就台湾方面发出“后果自负”的警告 - 《卫报》",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxOWW9VU3FsUnNuMnV5cmpmbXUwcHhKckpWR19NYm1wUjF6QVJmVG85R3JQZFJPSHJEQUk3UkZLRHBhX2VpV21CRDBkSi05dzZKbTAxSXRnaGZLNHlTN2N5MWsxVWk4WTIzTERfbGtkMmhpRTJ2WUwyeWZIRmYwRmFmdWd5REFWNmF4U3BuUGk0Y09lN010TVBMREVFVkhDR0lUYzNUNjNRekZFQ0I3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T05:34:00.000Z",
+      "pub_sort_dt": "2026-09-01 13:34:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国制造业指数超出预期，扩张步伐加快 - Bloomberg.com",
       "title_cn": "中国制造业指数超出预期，下一步加速 - Bloomberg.com",
       "url": "https://news.google.com/read/CBMitgFBVV95cUxOMmhvTHlDc0R1NWdjVFh6NjJBbjRmZXdTQ3I3MTVtSThnZmVmajBELTlDWnRUSWdDeGk3LWF2NXNWVHZ6bXNSQW5CeTgzSGtrWUxQYzJKMnlHZkZvanZwaE0xQUkxamtCdWhoc0p1NTIwSm9fTGdZRFhNSmhmNFotT0thUGh2VTdseC1iUk9tOEg4eEtXbE5CSWFuRFBhb0xRc0hvM0lPMVZIT1ZLbEM2ZGc1aXREdw?hl=en-US&gl=US&ceid=US%3Aen",
@@ -265,7 +281,7 @@
     {
       "source": "China Buzzing",
       "title_en": "中国就台湾方面出席太平洋地区领导人会议一事警告将面临“后果” - Reuters",
-      "title_cn": "中国就台湾方面出席太平洋地区领导人会议一事将面临“后果”发出警告 - 路透中文网",
+      "title_cn": "中国就台湾方面警告出席太平洋地区领导人会议一件事将面临“后果” - 路透中文网",
       "url": "https://news.google.com/read/CBMivAFBVV95cUxQbk54R0FXekgzSkFrRUZRVjFKZUdDdmNfaDF6ZGRJMzlqdXd2NG5iTEYyS21MUkRWX3BWVWREVS04SjIzOVQ1Qm5aa0tNcHNQZno3M0JacjFoSEVmdkFyakN0RGlmZ3BYTFpaeGVFQ3JFVUtLY2RxSDRDWVlhQzFyNDVuM2FYQnVBeTU0OXo1UEllajdzZUZPWmxJdmxFMkc4UTFfMXBZTVNIZGNfZ25zOGV6VWJVRDhMZnhIQw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-01T00:53:00.000Z",
       "pub_sort_dt": "2026-09-01 08:53:00"
@@ -319,20 +335,36 @@
       "pub_sort_dt": "2026-09-01 04:07:22"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "在习近平与特朗普峰会召开前夕，美国在二十国集团（G20）会议上将矛头指向中国的全球贸易顺差 - South China Morning Post",
-      "title_cn": "在习近平与特朗普峰会召开前夕，美国在二十国集团（G20）会议上将矛头指向中国的全球贸易顺差 - 南华早报",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxQcEtjR2JCZmVlWHNqUFAzNko2QjJ6VENHcFRTNWxDNHI2NTBqV1hpS3FJOU9scWRzbldRMTdYZVJjaGlfVHREQVlXbjJUYXVJc1VqRHNfRDd4OHpFUXVOb2QyemR3ZE9UeS1GXzQ3eUFJQ2F3UjdmNTJNRXI3ZklVT09GTkI1RDFPY0lTWE83Um5NSXlyOV9iT05FYjJxTk9YWjhSMnV1ODFfUWxSZHFaTkYxU09KUW41cTFqU2QxNjg3bm5oUEFBcVpR0gHKAUFVX3lxTE5yMXFKZU5tdU5HS3FSRzZlLURfZmhEelBRUWJTYTBpNWJiZHA2T0RsQ0k3T2NVbHJhOUpkMUh1NGpmU3RoUkRWSDZWRzlNVVpvQThNd0FHVkt4MnZ6WURiLUJmWEotbkk3V2NYS1RYN1hidFZ4UnRDbzR0MUNhTV9SdGdzZFplblNDN254SnVOal9vbFhnZ0owS3Fzc2FVaXYwbWJLQ29EOG4zU2ZqNS01RkZnQjlORHROVUs3RHB5THlxa1NLbjNwMnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T19:10:22.000Z",
-      "pub_sort_dt": "2026-09-01 03:10:22"
+      "source": "Reuters",
+      "title_en": "Shein正式上市：这家在线时尚巨头的股票在备受期待的首次公开募股后于香港市场大幅下跌",
+      "title_cn": "Shein正式上市：这家在线时尚派对的股票在期待的首次公开募股后于香港市场大幅下跌",
+      "url": "https://reut.rs/4daU5n2",
+      "pub_raw": "2026-09-01T06:10:15.214Z",
+      "pub_sort_dt": "2026-09-01 14:10:15"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "特朗普称，美国拒绝建设数据中心，''中国再高兴不过了'' - USA Today",
-      "title_cn": "特朗普称，美国拒绝建设数据中心，“中国再高兴不过了” - 《今日美国》",
-      "url": "https://news.google.com/read/CBMiqAFBVV95cUxQVFRGamVlRlFkWjMwWnhCNWZmeGpSRW9Mak82dk40NDBMT00yRXFVNGdySV9aOGZyWDczRzNQcXNTYXJxd3BhWlN0TW9Dd1lBZjBrX280MnQzeXM2WUlvbFB3ZUFUeTl2SGtueTRpMF9JOGRtcGRCUEY1YVpIWms3UGlzVG00VW5nYWIwejdqM2tmWTJyUnNra09NbHJXYTVvSXZSMTlxMVI?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T17:35:00.000Z",
-      "pub_sort_dt": "2026-09-01 01:35:00"
+      "source": "Reuters",
+      "title_en": "快时尚巨头Shein即将在香港市场首次亮相，但表现平平",
+      "title_cn": "快时尚派对Shein即将在香港市场首次亮相，但表现平平",
+      "url": "https://reut.rs/4h3Yfzu",
+      "pub_raw": "2026-09-01T05:53:44.673Z",
+      "pub_sort_dt": "2026-09-01 13:53:44"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港精英学校HKIS与创办教会达成和解",
+      "title_cn": "香港精英学校HKIS与旅行社达成和解",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/elite-hong-kong-school-hkis-settles-dispute-with-founding-church",
+      "pub_raw": "2026-09-01T05:21:18.578Z",
+      "pub_sort_dt": "2026-09-01 13:21:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国制造业景气指数创下五年来最长连涨纪录",
+      "title_cn": "中国制造业景气指数五年至连涨纪录",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-manufacturing-gauge-surprises-with-faster-august-expansion",
+      "pub_raw": "2026-09-01T04:33:35.949Z",
+      "pub_sort_dt": "2026-09-01 12:33:35"
     },
     {
       "source": "Bloomberg",
@@ -341,14 +373,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/solar-surpasses-coal-as-china-s-top-source-of-power-capacity",
       "pub_raw": "2026-09-01T02:57:34.138Z",
       "pub_sort_dt": "2026-09-01 10:57:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港精英学校HKIS与创办教会达成和解",
-      "title_cn": "香港精英学校HKIS与旅行社达成和解",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/elite-hong-kong-school-hkis-settles-dispute-with-founding-church",
-      "pub_raw": "2026-09-01T02:41:10.782Z",
-      "pub_sort_dt": "2026-09-01 10:41:10"
     },
     {
       "source": "Bloomberg",
@@ -364,14 +388,6 @@
       "title_cn": "尼泊尔-中国：要解决洪灾问题，我们需要建设更多的巨型水坝",
       "url": "https://www.bloomberg.com/opinion/articles/2026-09-01/nepal-china-to-fix-flood-disasters-we-need-more-giant-dams",
       "pub_raw": "2026-09-01T02:09:30.549Z",
-      "pub_sort_dt": "2026-09-01 10:09:30"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国制造业景气指数超出预期，扩张步伐加快",
-      "title_cn": "中国制造业景气指数符合预期，拓展步伐加快",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-manufacturing-gauge-surprises-with-faster-august-expansion",
-      "pub_raw": "2026-09-01T02:09:30.542Z",
       "pub_sort_dt": "2026-09-01 10:09:30"
     },
     {
@@ -477,22 +493,6 @@
       "url": "https://reut.rs/4zLN9GT",
       "pub_raw": "2026-08-31T13:21:47.535Z",
       "pub_sort_dt": "2026-08-31 21:21:47"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着中国人工智能领域的竞争日益白热化，Z.AI的销售额未达高预期",
-      "title_cn": "随着中国人工智能领域的竞争激烈白热化，Z.AI的销售额未达到高预期",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/z-ai-sales-miss-estimates-after-china-s-ai-price-war-weighs",
-      "pub_raw": "2026-08-31T13:06:33.855Z",
-      "pub_sort_dt": "2026-08-31 21:06:33"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国际航空将增加飞往欧洲和北美的航班",
-      "title_cn": "中国国际航空将增加西雅图欧洲和北美的航班",
-      "url": "https://reut.rs/4zOtUMC",
-      "pub_raw": "2026-08-31T13:06:33.739Z",
-      "pub_sort_dt": "2026-08-31 21:06:33"
     }
   ]
 }
