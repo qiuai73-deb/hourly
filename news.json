@@ -1,15 +1,31 @@
 {
-  "update_cst": "2026-09-01 15:01:20 北京时间",
+  "update_cst": "2026-09-01 18:01:06 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 1,
-    "Bloomberg": 12,
+    "The Economist": 0,
+    "Bloomberg": 14,
     "Financial Times": 1,
     "Wall Street Journal": 0,
-    "Reuters": 6
+    "Reuters": 5
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国还是美国？两场会议展现了全球大国的不同风貌。 - The New York Times",
+      "title_cn": "中国还是美国？两场会议展现了全球大国的不同风貌。 - 纽约时报",
+      "url": "https://news.google.com/read/CBMiigFBVV95cUxPS183eTBub0ZGUWRoUUktNEphcFBxaXZQNlp4MWNBR01JV1ZWQUdVTWo1TXFfMHdReUw2amFFazZpaVdMRG45TDNoRjF2T29KakVXVDR5Y2l1Sk13R2NlcUdnLUVIRnJVeWpTaXNZRGw5M0dDLXpYS0UtSW1lY3pEZU0tRkxFUlk5VVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T08:51:04.000Z",
+      "pub_sort_dt": "2026-09-01 16:51:04"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "人工智能和机器人技术推动中国IPO热潮 - The Arkansas Democrat-Gazette",
+      "title_cn": "人工智能和机器人技术推动中国IPO热潮 - 阿肯色州民主党公报",
+      "url": "https://news.google.com/read/CBMihwFBVV95cUxNNmE4N3FzZG12My1QOFJTTWRSejdFRll2V1VfQ1M5dXJqb3BOaUgwX0o4YjAxa2FMTjVHWUUyTnd2d0lBTXAtSTNuV1EzemFjTzlNemVtTzFmOVhKdTR4djF2ZlZrblhIdDRST2JuS0NWZm9PLW16eE1LS0xXRmpqdkJ6bXdod2c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T07:27:00.000Z",
+      "pub_sort_dt": "2026-09-01 15:27:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "尼泊尔洪灾：位于喜马拉雅山脉这场悲剧核心地带的偏远尼中边境口岸 - BBC",
@@ -20,11 +36,35 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "尼泊尔与中国交界处发生灾难性洪灾，死亡人数超过1,000人 - AP News",
+      "title_cn": "尼泊尔与中国交界处发生特大洪灾，死亡人数超千人 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxQaENIRDN5eTk1UUZFcTN0SlVpS1V2TjRYakpqSUxKNlRZb3dIZ1BlZHlWeFRJSUJleERyMnJNc240LTNEYV8yMzRvZV80OUc3YW43czRELUFSSzRyZ2NOMmhsUFRVWFEyalBIT3daRTVLMkhsZVFKSU1kOG43TW9xWklFRlBqRDJ1eURESHkyQmlNeFVYcUViNWFBYzJvTUNrVExn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T06:01:00.000Z",
+      "pub_sort_dt": "2026-09-01 14:01:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国就台湾方面出席太平洋岛国论坛一事发出“后果自负”的警告 - The Guardian",
       "title_cn": "中国在太平洋岛国论坛上就台湾方面发出“后果自负”的警告 - 《卫报》",
       "url": "https://news.google.com/read/CBMirAFBVV95cUxOWW9VU3FsUnNuMnV5cmpmbXUwcHhKckpWR19NYm1wUjF6QVJmVG85R3JQZFJPSHJEQUk3UkZLRHBhX2VpV21CRDBkSi05dzZKbTAxSXRnaGZLNHlTN2N5MWsxVWk4WTIzTERfbGtkMmhpRTJ2WUwyeWZIRmYwRmFmdWd5REFWNmF4U3BuUGk0Y09lN010TVBMREVFVkhDR0lUYzNUNjNRekZFQ0I3?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-01T05:34:00.000Z",
       "pub_sort_dt": "2026-09-01 13:34:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "太阳能超越煤炭，成为中国装机容量最大的能源来源 - Bloomberg.com",
+      "title_cn": "太阳能超越煤炭，成为中国装机容量最大的能源来源 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxORkJlR2lqY3RPdXhiZjFZTkk4ckFMbmlMUTcxcFNoV1Ryai1hUExsUGJPVWdwME05YTVVSnRFNnk2SlN3UE5tQllnTkIwUGV4WFgyMXpESkp5bDhwTHVjLUJVa0ZIN0UtTXdrbVc4dEtNM2JnMzYxNDhnN09ZT1NoX3p0LWtkVWtwQjZoZGdUNjFHX0p1Z3ZCNXZQVWpBQTBDM0NkbVl2NDFiV190VUxwQw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T04:06:00.000Z",
+      "pub_sort_dt": "2026-09-01 12:06:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着海外利润激增，中国顶级券商加速推进全球业务布局 - South China Morning Post",
+      "title_cn": "随着海外利润飙升，中国顶级券商加速推进全球业务布局 - 南华早报",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxNaHk2Q2Y5ajVXYm9VOWYtcjdoR1p3blhVbjN4S1E2aUFWSXFYbHF6a2JLaEtIMjEyTzVVLThmc2xESXEwbDBiQ2dDNTY2OFdRMGtWdFpuQkhkQ1pWQXBFUU9Vb1dGYzFveUZZclhQeVh5UklxNE80dnpQbVBwaWNqdnJKbXVZZ2xYM1NvYUY4enc5eURiWU8yMWsxMTdvdl9QbzBPeHhkYjRhdV9xRUJpbV80dzhHS1UzZV9JWXR4bWjSAcABQVVfeXFMT08wc0JrcHZwZklCUFUwM2dma0ZZS1lLaGRHQU9hb2lDdVhnOF9ycjVkZ19QZ05ZUWIycTQ1cG9EQnlLT0Y3Rl9mLWlZUzlVS0I2dEZPQWhPTVc5RFp0c1g4dnhDTVZObzU5S29weGxWM19RUDNJS01adjVnZU04RHVqOXl6cmZGTG4yN2Fpc1VXMWttTWhvTVE2RGdtQmdTVXhKeVkwTm9IRWJVbUMzbS1qRXc1a05BV0Vqb2o3NTJQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T02:00:09.000Z",
+      "pub_sort_dt": "2026-09-01 10:00:09"
     },
     {
       "source": "China Buzzing",
@@ -37,7 +77,7 @@
     {
       "source": "China Buzzing",
       "title_en": "中国就台湾方面出席太平洋地区领导人会议一事警告将面临“后果” - Reuters",
-      "title_cn": "中国就台湾方面警告出席太平洋地区领导人会议一件事将面临“后果” - 路透中文网",
+      "title_cn": "中国就台湾方面出席太平洋地区领导人会议一事将面临“后果”发出警告 - 路透中文网",
       "url": "https://news.google.com/read/CBMivAFBVV95cUxQbk54R0FXekgzSkFrRUZRVjFKZUdDdmNfaDF6ZGRJMzlqdXd2NG5iTEYyS21MUkRWX3BWVWREVS04SjIzOVQ1Qm5aa0tNcHNQZno3M0JacjFoSEVmdkFyakN0RGlmZ3BYTFpaeGVFQ3JFVUtLY2RxSDRDWVlhQzFyNDVuM2FYQnVBeTU0OXo1UEllajdzZUZPWmxJdmxFMkc4UTFfMXBZTVNIZGNfZ25zOGV6VWJVRDhMZnhIQw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-01T00:53:00.000Z",
       "pub_sort_dt": "2026-09-01 08:53:00"
@@ -49,49 +89,65 @@
       "url": "https://news.google.com/read/CBMipgFBVV95cUxQTkhRVEdHbW1LTjIwUXZkZEN5cG1wX2FQNERpd2dJVGl6cWVzUXZVLWlMZHBXZ3BWN3NsYzI4WU01S0hyNEZ6bHN6NmJNa2I1bWdZMXV5NFNBaDg0bWlYeVI2bXZsc2lsTTJ6SU81VmY3Uy1DS2g2YjNVbkJmOUp4X01LeXBwUGZ0UzFKSkdQSzM1cTNIOUVyRUxFcVlvb2NlWFVDUDlB0gGrAUFVX3lxTE05TGRsazhta3VmOS0tX3RsaG9ZQWpHT2dzMlU2Mk9fRUltUHh1YzlTQUVleWs0QWVacXFQcDIzSEplTFptWVRRV2FXZEwwajRSV21ZZlYzZ2FacGdOYnloVWNvdEZPT216SXNBVzc2eWR6ZnBxem9ZQnlEOXBndkJiVEE2NGpFUWw5Tld3cEk2U2hTVzJQUm1PT0RyTXFwQTJvdFRUcThmc3Nkcw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-08-31T23:00:01.000Z",
       "pub_sort_dt": "2026-09-01 07:00:01"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国和加拿大因冰球杆大打出手——中国则借机在贸易上大获全胜 - New York Post",
-      "title_cn": "美国和加拿大因冰球杆大打出手——中国则借机在贸易上大获全胜 - 纽约邮报",
-      "url": "https://news.google.com/read/CBMimwFBVV95cUxPVXpvWkxhdGNEcDBIQTR4VDFrTnlOOGhBT1VuS3F5Zm9oblNvZFZmaE9kRllFLVdmdXlqaGhlZnFMRWViZi1hR19pUmw3cEZmV0lWS0YwLWFaX0R3c2U0UnRSdmt6TUpncks2a3RtdTJoS3h6SEVCRUVPZmpDY29ZY3BISm83eWVqTFUtb3hyRUdIcldLR2xWekZrWQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T22:40:00.000Z",
-      "pub_sort_dt": "2026-09-01 06:40:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“熊猫外交”：一位市长将中国熊猫带到夏威夷的历程 - AP News",
-      "title_cn": "“熊猫绕行”：一位领导人将中国熊猫带到夏威夷的历程 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxPTTNuMTFxWjAxN29tN0RPOTdOX2ludjFKWE83UE8zb3UxTU4tUjRha1R2U2otN3ZKb3kyMWF3bFI4Y1EyR3d1SjB6YTJHR0xZazFYNGE2OThGS0tiQzhqWkQyRVhsUkhSUU85ZjBxZG1PRHA5UHZPYm5zRUhzaFllbHpzMUY3WmJwYTU0LTM1ZTdpRlI0U0Z5dGlDZXZFbVI4NU9iSDlLTHZoMHM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T22:17:00.000Z",
-      "pub_sort_dt": "2026-09-01 06:17:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "优衣库、无印良品：随着中国风险加剧，“日本企业”正大举押注印度市场 - BBC",
-      "title_cn": "优衣库、无印良品：随着中国风险加剧，“日本企业”正大举押注印度市场 - BBC",
-      "url": "https://news.google.com/read/CBMiWkFVX3lxTFBQQW1lZm81M0hmckhEU2s5ZV81TkRScC1mYVl2OU5MWUFGVGxNbnR0SUlRcFpzeTcwSU5INW5YQkhNcXVfQWVPSjFZcVBwYzREX0x2dlg3dEJxQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T22:07:19.000Z",
-      "pub_sort_dt": "2026-09-01 06:07:19"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔与中国边境地区——33名澳大利亚人在此失踪——目前仍几乎完全与外界隔绝 - The Guardian",
-      "title_cn": "尼泊尔与中国边境地区——33名澳大利亚人失踪——目前仍几乎完全与失踪 - The Guardian",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxQRjRnOHA1RTRrZUhnSjNOOTZBaEUxdXloc3FZUi0xMmdwMWl2QTFEb0M2a094eFBtUVZTczVjc2JWOEFDaFV1UlFGbG5XVGtKOVIzZzNJYWp0Y0V1S3pLTGpxS0MtbFlmX3BGMUttcmJWZC1EZ3NDZFZFUkNGQmNyU0xiWHNPN3dLdmdDek9BZkp3ZEUxY1VPaFM2TXg3aTJoT1dFWXJsNmxWUDM4TXEwdGtManJZVDVJb2g5NnktVE5ZOW5uZlhyektia0pYdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T21:08:00.000Z",
-      "pub_sort_dt": "2026-09-01 05:08:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "尽管存在相互猜疑，北京和华盛顿仍可共同推进人工智能安全建设 - Foreign Policy",
-      "title_cn": "尽管存在相互猜疑，北京和华盛顿仍可共同推进人工智能安全建设 - 外交政策",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxOTkd1UmxnOV9lSktpa18yTTQwUnRZWllTOF9Zdk43WV9VWEZFQzVVVW16ckRTS1NDbUFZNlY4M2hPM05VcGVvWThOeXQyQU92dGtpY0xSOVFRakVEV2phZENUOFl4Tms4WUN5U1pMUEtYNktFRTRBWUNjSWExeVdrSUxsdEEtSlFES21wZTktOUxHMmg2dXltUm0xSUphMkk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T20:07:22.000Z",
-      "pub_sort_dt": "2026-09-01 04:07:22"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "中国要求汽车制造商避免在出口市场引发价格战",
+      "title_cn": "中国要求汽车制造商避免在出口市场引发价格战",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-tells-carmakers-to-keep-price-war-away-from-export-markets",
+      "pub_raw": "2026-09-01T09:53:33.110Z",
+      "pub_sort_dt": "2026-09-01 17:53:33"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国造车速度之快，已让监管机构感到担忧",
+      "title_cn": "中国造车速度之快，已让监管机构感到担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-makes-cars-so-fast-that-it-s-starting-to-worry-regulators",
+      "pub_raw": "2026-09-01T09:53:33.003Z",
+      "pub_sort_dt": "2026-09-01 17:53:33"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾对国泰SITE处以罚款，并限制离岸信托产品的发行",
+      "title_cn": "台湾对国泰网站处以罚款，并离岸信托产品的发行",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/taiwan-fines-cathay-site-restricts-offshore-trust-offerings",
+      "pub_raw": "2026-09-01T09:21:15.693Z",
+      "pub_sort_dt": "2026-09-01 17:21:15"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国法院冻结Nexperia资产，围绕这家荷兰芯片制造商的纠纷持续发酵",
+      "title_cn": "中国法院冻结了Nexperia资产，围绕这家荷兰芯片制造商的发酵问题",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-freezes-china-court-freezes-nexperia-assets-in-fight-over-dutch-chipmaker",
+      "pub_raw": "2026-09-01T09:21:15.689Z",
+      "pub_sort_dt": "2026-09-01 17:21:15"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Shein 在香港市场首秀虽经历波折，但最终几乎抹平了近10%的跌幅",
+      "title_cn": "Shein在市场首秀虽经历香港波折，但最终几乎抹平了近10%的跌幅",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/shein-set-to-debut-in-test-of-investor-demand-for-consumer-plays",
+      "pub_raw": "2026-09-01T08:49:26.950Z",
+      "pub_sort_dt": "2026-09-01 16:49:26"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "太平洋岛国领导人会议期间，中国表达了对台湾问题的担忧",
+      "title_cn": "太平洋岛国领导人会议期间，中国表达了对台湾问题的担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-voices-angst-over-taiwan-as-pacific-island-leaders-meet",
+      "pub_raw": "2026-09-01T07:45:12.467Z",
+      "pub_sort_dt": "2026-09-01 15:45:12"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港精英学校HKIS与美国教会达成和解",
+      "title_cn": "香港精英学校HKIS与美国学校达成和解",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/elite-hong-kong-school-hkis-settles-dispute-with-founding-church",
+      "pub_raw": "2026-09-01T07:29:17.575Z",
+      "pub_sort_dt": "2026-09-01 15:29:17"
+    },
     {
       "source": "Reuters",
       "title_en": "Shein正式上市：这家在线时尚巨头的股票在备受期待的首次公开募股后于香港市场大幅下跌",
@@ -110,14 +166,6 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "香港精英学校HKIS与创办教会达成和解",
-      "title_cn": "香港精英学校HKIS与旅行社达成和解",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/elite-hong-kong-school-hkis-settles-dispute-with-founding-church",
-      "pub_raw": "2026-09-01T05:21:18.578Z",
-      "pub_sort_dt": "2026-09-01 13:21:18"
-    },
-    {
-      "source": "Bloomberg",
       "title_en": "中国制造业景气指数创下五年来最长连涨纪录",
       "title_cn": "中国制造业景气指数五年至连涨纪录",
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-manufacturing-gauge-surprises-with-faster-august-expansion",
@@ -131,14 +179,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/solar-surpasses-coal-as-china-s-top-source-of-power-capacity",
       "pub_raw": "2026-09-01T02:57:34.138Z",
       "pub_sort_dt": "2026-09-01 10:57:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "历经波折的IPO之路后，Shein在香港上市首日股价暴跌10%",
-      "title_cn": "历经波折的IPO之路后，Shein在香港上市首日股价暴跌10%",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/shein-set-to-debut-in-test-of-investor-demand-for-consumer-plays",
-      "pub_raw": "2026-09-01T02:25:36.684Z",
-      "pub_sort_dt": "2026-09-01 10:25:36"
     },
     {
       "source": "Bloomberg",
@@ -171,14 +211,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-31/us-funds-alcoa-gallium-plant-in-australia-to-cut-china-reliance",
       "pub_raw": "2026-08-31T23:45:20.221Z",
       "pub_sort_dt": "2026-09-01 07:45:20"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国造车的速度如此之快，以至于监管机构开始感到担忧",
-      "title_cn": "中国造车的速度如此之快，以至于监管机构开始感到担忧",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-makes-cars-so-fast-that-it-s-starting-to-worry-regulators",
-      "pub_raw": "2026-08-31T22:09:29.711Z",
-      "pub_sort_dt": "2026-09-01 06:09:29"
     },
     {
       "source": "Bloomberg",
@@ -219,43 +251,27 @@
       "url": "https://reut.rs/45Xteao",
       "pub_raw": "2026-08-31T17:05:43.848Z",
       "pub_sort_dt": "2026-09-01 01:05:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Prosus的巴西子公司对中国竞争对手提起诉讼",
-      "title_cn": "Prosus的巴西子公司对中国中小企业提起诉讼",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/brazil-s-top-delivery-app-files-complaint-against-chinese-rival",
-      "pub_raw": "2026-08-31T16:17:19.242Z",
-      "pub_sort_dt": "2026-09-01 00:17:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "巴西的一座稀土矿场对美国“脱钩中国”的战略构成考验",
-      "title_cn": "巴西的一个稀土矿场对美国“脱钩中国”的战略构成考验",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/mina-de-tierras-raras-en-brasil-pone-a-prueba-la-estrategia-de-ee-uu-para-alejarse-de-china",
-      "pub_raw": "2026-08-31T14:57:21.633Z",
-      "pub_sort_dt": "2026-08-31 22:57:21"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "无论在电影中还是现实生活中，中国都在推行“龙餐厅外交”",
-      "title_cn": "无论在电影中还是现实生活中，中国餐厅都在“龙多伦多”",
-      "url": "https://www.economist.com/china/2026/08/31/in-film-and-in-life-china-pursues-dragon-restaurant-diplomacy",
-      "pub_raw": "2026-08-31T14:41:49.090Z",
-      "pub_sort_dt": "2026-08-31 22:41:49"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾称“难以预测”的中国正在加强附近海域和空域的管控",
-      "title_cn": "台湾称“难以预测”的中国正在加强邻近海域和空域的管控",
-      "url": "https://reut.rs/4zLN9GT",
-      "pub_raw": "2026-08-31T13:21:47.535Z",
-      "pub_sort_dt": "2026-08-31 21:21:47"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国还是美国？两场会议展现了全球大国的不同风貌。 - The New York Times",
+      "title_cn": "中国还是美国？两场会议展现了全球大国的不同风貌。 - 纽约时报",
+      "url": "https://news.google.com/read/CBMiigFBVV95cUxPS183eTBub0ZGUWRoUUktNEphcFBxaXZQNlp4MWNBR01JV1ZWQUdVTWo1TXFfMHdReUw2amFFazZpaVdMRG45TDNoRjF2T29KakVXVDR5Y2l1Sk13R2NlcUdnLUVIRnJVeWpTaXNZRGw5M0dDLXpYS0UtSW1lY3pEZU0tRkxFUlk5VVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T08:51:04.000Z",
+      "pub_sort_dt": "2026-09-01 16:51:04"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "人工智能和机器人技术推动中国IPO热潮 - The Arkansas Democrat-Gazette",
+      "title_cn": "人工智能和机器人技术推动中国IPO热潮 - 阿肯色州民主党公报",
+      "url": "https://news.google.com/read/CBMihwFBVV95cUxNNmE4N3FzZG12My1QOFJTTWRSejdFRll2V1VfQ1M5dXJqb3BOaUgwX0o4YjAxa2FMTjVHWUUyTnd2d0lBTXAtSTNuV1EzemFjTzlNemVtTzFmOVhKdTR4djF2ZlZrblhIdDRST2JuS0NWZm9PLW16eE1LS0xXRmpqdkJ6bXdod2c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T07:27:00.000Z",
+      "pub_sort_dt": "2026-09-01 15:27:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "尼泊尔洪灾：位于喜马拉雅山脉这场悲剧核心地带的偏远尼中边境口岸 - BBC",
       "title_cn": "尼泊尔洪灾：位于喜马拉雅地震悲剧核心地带的偏远尼中边境口岸 - BBC",
       "url": "https://news.google.com/read/CBMiWkFVX3lxTE1SQS1Ta2pWZjdrQ0cxQ3Y4eDYxYk1sVXA4d0NaUXhrVFM3UVNDc2ROUGxsUmo1cEtaT0lGTDU5TF9STkhIamdLWGJiSy1HaE8wSk10UW5pN0VrQQ?hl=en-US&gl=US&ceid=US%3Aen",
@@ -264,11 +280,35 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "尼泊尔与中国交界处发生灾难性洪灾，死亡人数超过1,000人 - AP News",
+      "title_cn": "尼泊尔与中国交界处发生特大洪灾，死亡人数超千人 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxQaENIRDN5eTk1UUZFcTN0SlVpS1V2TjRYakpqSUxKNlRZb3dIZ1BlZHlWeFRJSUJleERyMnJNc240LTNEYV8yMzRvZV80OUc3YW43czRELUFSSzRyZ2NOMmhsUFRVWFEyalBIT3daRTVLMkhsZVFKSU1kOG43TW9xWklFRlBqRDJ1eURESHkyQmlNeFVYcUViNWFBYzJvTUNrVExn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T06:01:00.000Z",
+      "pub_sort_dt": "2026-09-01 14:01:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国就台湾方面出席太平洋岛国论坛一事发出“后果自负”的警告 - The Guardian",
       "title_cn": "中国在太平洋岛国论坛上就台湾方面发出“后果自负”的警告 - 《卫报》",
       "url": "https://news.google.com/read/CBMirAFBVV95cUxOWW9VU3FsUnNuMnV5cmpmbXUwcHhKckpWR19NYm1wUjF6QVJmVG85R3JQZFJPSHJEQUk3UkZLRHBhX2VpV21CRDBkSi05dzZKbTAxSXRnaGZLNHlTN2N5MWsxVWk4WTIzTERfbGtkMmhpRTJ2WUwyeWZIRmYwRmFmdWd5REFWNmF4U3BuUGk0Y09lN010TVBMREVFVkhDR0lUYzNUNjNRekZFQ0I3?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-01T05:34:00.000Z",
       "pub_sort_dt": "2026-09-01 13:34:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "太阳能超越煤炭，成为中国装机容量最大的能源来源 - Bloomberg.com",
+      "title_cn": "太阳能超越煤炭，成为中国装机容量最大的能源来源 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxORkJlR2lqY3RPdXhiZjFZTkk4ckFMbmlMUTcxcFNoV1Ryai1hUExsUGJPVWdwME05YTVVSnRFNnk2SlN3UE5tQllnTkIwUGV4WFgyMXpESkp5bDhwTHVjLUJVa0ZIN0UtTXdrbVc4dEtNM2JnMzYxNDhnN09ZT1NoX3p0LWtkVWtwQjZoZGdUNjFHX0p1Z3ZCNXZQVWpBQTBDM0NkbVl2NDFiV190VUxwQw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T04:06:00.000Z",
+      "pub_sort_dt": "2026-09-01 12:06:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着海外利润激增，中国顶级券商加速推进全球业务布局 - South China Morning Post",
+      "title_cn": "随着海外利润飙升，中国顶级券商加速推进全球业务布局 - 南华早报",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxNaHk2Q2Y5ajVXYm9VOWYtcjdoR1p3blhVbjN4S1E2aUFWSXFYbHF6a2JLaEtIMjEyTzVVLThmc2xESXEwbDBiQ2dDNTY2OFdRMGtWdFpuQkhkQ1pWQXBFUU9Vb1dGYzFveUZZclhQeVh5UklxNE80dnpQbVBwaWNqdnJKbXVZZ2xYM1NvYUY4enc5eURiWU8yMWsxMTdvdl9QbzBPeHhkYjRhdV9xRUJpbV80dzhHS1UzZV9JWXR4bWjSAcABQVVfeXFMT08wc0JrcHZwZklCUFUwM2dma0ZZS1lLaGRHQU9hb2lDdVhnOF9ycjVkZ19QZ05ZUWIycTQ1cG9EQnlLT0Y3Rl9mLWlZUzlVS0I2dEZPQWhPTVc5RFp0c1g4dnhDTVZObzU5S29weGxWM19RUDNJS01adjVnZU04RHVqOXl6cmZGTG4yN2Fpc1VXMWttTWhvTVE2RGdtQmdTVXhKeVkwTm9IRWJVbUMzbS1qRXc1a05BV0Vqb2o3NTJQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-01T02:00:09.000Z",
+      "pub_sort_dt": "2026-09-01 10:00:09"
     },
     {
       "source": "China Buzzing",
@@ -281,7 +321,7 @@
     {
       "source": "China Buzzing",
       "title_en": "中国就台湾方面出席太平洋地区领导人会议一事警告将面临“后果” - Reuters",
-      "title_cn": "中国就台湾方面警告出席太平洋地区领导人会议一件事将面临“后果” - 路透中文网",
+      "title_cn": "中国就台湾方面出席太平洋地区领导人会议一事将面临“后果”发出警告 - 路透中文网",
       "url": "https://news.google.com/read/CBMivAFBVV95cUxQbk54R0FXekgzSkFrRUZRVjFKZUdDdmNfaDF6ZGRJMzlqdXd2NG5iTEYyS21MUkRWX3BWVWREVS04SjIzOVQ1Qm5aa0tNcHNQZno3M0JacjFoSEVmdkFyakN0RGlmZ3BYTFpaeGVFQ3JFVUtLY2RxSDRDWVlhQzFyNDVuM2FYQnVBeTU0OXo1UEllajdzZUZPWmxJdmxFMkc4UTFfMXBZTVNIZGNfZ25zOGV6VWJVRDhMZnhIQw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-01T00:53:00.000Z",
       "pub_sort_dt": "2026-09-01 08:53:00"
@@ -295,44 +335,60 @@
       "pub_sort_dt": "2026-09-01 07:00:01"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "美国和加拿大因冰球杆大打出手——中国则借机在贸易上大获全胜 - New York Post",
-      "title_cn": "美国和加拿大因冰球杆大打出手——中国则借机在贸易上大获全胜 - 纽约邮报",
-      "url": "https://news.google.com/read/CBMimwFBVV95cUxPVXpvWkxhdGNEcDBIQTR4VDFrTnlOOGhBT1VuS3F5Zm9oblNvZFZmaE9kRllFLVdmdXlqaGhlZnFMRWViZi1hR19pUmw3cEZmV0lWS0YwLWFaX0R3c2U0UnRSdmt6TUpncks2a3RtdTJoS3h6SEVCRUVPZmpDY29ZY3BISm83eWVqTFUtb3hyRUdIcldLR2xWekZrWQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T22:40:00.000Z",
-      "pub_sort_dt": "2026-09-01 06:40:00"
+      "source": "Bloomberg",
+      "title_en": "中国要求汽车制造商避免在出口市场引发价格战",
+      "title_cn": "中国要求汽车制造商避免在出口市场引发价格战",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-tells-carmakers-to-keep-price-war-away-from-export-markets",
+      "pub_raw": "2026-09-01T09:53:33.110Z",
+      "pub_sort_dt": "2026-09-01 17:53:33"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "“熊猫外交”：一位市长将中国熊猫带到夏威夷的历程 - AP News",
-      "title_cn": "“熊猫绕行”：一位领导人将中国熊猫带到夏威夷的历程 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxPTTNuMTFxWjAxN29tN0RPOTdOX2ludjFKWE83UE8zb3UxTU4tUjRha1R2U2otN3ZKb3kyMWF3bFI4Y1EyR3d1SjB6YTJHR0xZazFYNGE2OThGS0tiQzhqWkQyRVhsUkhSUU85ZjBxZG1PRHA5UHZPYm5zRUhzaFllbHpzMUY3WmJwYTU0LTM1ZTdpRlI0U0Z5dGlDZXZFbVI4NU9iSDlLTHZoMHM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T22:17:00.000Z",
-      "pub_sort_dt": "2026-09-01 06:17:00"
+      "source": "Bloomberg",
+      "title_en": "中国造车速度之快，已让监管机构感到担忧",
+      "title_cn": "中国造车速度之快，已让监管机构感到担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-makes-cars-so-fast-that-it-s-starting-to-worry-regulators",
+      "pub_raw": "2026-09-01T09:53:33.003Z",
+      "pub_sort_dt": "2026-09-01 17:53:33"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "优衣库、无印良品：随着中国风险加剧，“日本企业”正大举押注印度市场 - BBC",
-      "title_cn": "优衣库、无印良品：随着中国风险加剧，“日本企业”正大举押注印度市场 - BBC",
-      "url": "https://news.google.com/read/CBMiWkFVX3lxTFBQQW1lZm81M0hmckhEU2s5ZV81TkRScC1mYVl2OU5MWUFGVGxNbnR0SUlRcFpzeTcwSU5INW5YQkhNcXVfQWVPSjFZcVBwYzREX0x2dlg3dEJxQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T22:07:19.000Z",
-      "pub_sort_dt": "2026-09-01 06:07:19"
+      "source": "Bloomberg",
+      "title_en": "台湾对国泰SITE处以罚款，并限制离岸信托产品的发行",
+      "title_cn": "台湾对国泰网站处以罚款，并离岸信托产品的发行",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/taiwan-fines-cathay-site-restricts-offshore-trust-offerings",
+      "pub_raw": "2026-09-01T09:21:15.693Z",
+      "pub_sort_dt": "2026-09-01 17:21:15"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "尼泊尔与中国边境地区——33名澳大利亚人在此失踪——目前仍几乎完全与外界隔绝 - The Guardian",
-      "title_cn": "尼泊尔与中国边境地区——33名澳大利亚人失踪——目前仍几乎完全与失踪 - The Guardian",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxQRjRnOHA1RTRrZUhnSjNOOTZBaEUxdXloc3FZUi0xMmdwMWl2QTFEb0M2a094eFBtUVZTczVjc2JWOEFDaFV1UlFGbG5XVGtKOVIzZzNJYWp0Y0V1S3pLTGpxS0MtbFlmX3BGMUttcmJWZC1EZ3NDZFZFUkNGQmNyU0xiWHNPN3dLdmdDek9BZkp3ZEUxY1VPaFM2TXg3aTJoT1dFWXJsNmxWUDM4TXEwdGtManJZVDVJb2g5NnktVE5ZOW5uZlhyektia0pYdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T21:08:00.000Z",
-      "pub_sort_dt": "2026-09-01 05:08:00"
+      "source": "Bloomberg",
+      "title_en": "中国法院冻结Nexperia资产，围绕这家荷兰芯片制造商的纠纷持续发酵",
+      "title_cn": "中国法院冻结了Nexperia资产，围绕这家荷兰芯片制造商的发酵问题",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-freezes-china-court-freezes-nexperia-assets-in-fight-over-dutch-chipmaker",
+      "pub_raw": "2026-09-01T09:21:15.689Z",
+      "pub_sort_dt": "2026-09-01 17:21:15"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "尽管存在相互猜疑，北京和华盛顿仍可共同推进人工智能安全建设 - Foreign Policy",
-      "title_cn": "尽管存在相互猜疑，北京和华盛顿仍可共同推进人工智能安全建设 - 外交政策",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxOTkd1UmxnOV9lSktpa18yTTQwUnRZWllTOF9Zdk43WV9VWEZFQzVVVW16ckRTS1NDbUFZNlY4M2hPM05VcGVvWThOeXQyQU92dGtpY0xSOVFRakVEV2phZENUOFl4Tms4WUN5U1pMUEtYNktFRTRBWUNjSWExeVdrSUxsdEEtSlFES21wZTktOUxHMmg2dXltUm0xSUphMkk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-08-31T20:07:22.000Z",
-      "pub_sort_dt": "2026-09-01 04:07:22"
+      "source": "Bloomberg",
+      "title_en": "Shein 在香港市场首秀虽经历波折，但最终几乎抹平了近10%的跌幅",
+      "title_cn": "Shein在市场首秀虽经历香港波折，但最终几乎抹平了近10%的跌幅",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/shein-set-to-debut-in-test-of-investor-demand-for-consumer-plays",
+      "pub_raw": "2026-09-01T08:49:26.950Z",
+      "pub_sort_dt": "2026-09-01 16:49:26"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "太平洋岛国领导人会议期间，中国表达了对台湾问题的担忧",
+      "title_cn": "太平洋岛国领导人会议期间，中国表达了对台湾问题的担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-voices-angst-over-taiwan-as-pacific-island-leaders-meet",
+      "pub_raw": "2026-09-01T07:45:12.467Z",
+      "pub_sort_dt": "2026-09-01 15:45:12"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港精英学校HKIS与美国教会达成和解",
+      "title_cn": "香港精英学校HKIS与美国学校达成和解",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/elite-hong-kong-school-hkis-settles-dispute-with-founding-church",
+      "pub_raw": "2026-09-01T07:29:17.575Z",
+      "pub_sort_dt": "2026-09-01 15:29:17"
     },
     {
       "source": "Reuters",
@@ -352,14 +408,6 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "香港精英学校HKIS与创办教会达成和解",
-      "title_cn": "香港精英学校HKIS与旅行社达成和解",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/elite-hong-kong-school-hkis-settles-dispute-with-founding-church",
-      "pub_raw": "2026-09-01T05:21:18.578Z",
-      "pub_sort_dt": "2026-09-01 13:21:18"
-    },
-    {
-      "source": "Bloomberg",
       "title_en": "中国制造业景气指数创下五年来最长连涨纪录",
       "title_cn": "中国制造业景气指数五年至连涨纪录",
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-manufacturing-gauge-surprises-with-faster-august-expansion",
@@ -373,14 +421,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-01/solar-surpasses-coal-as-china-s-top-source-of-power-capacity",
       "pub_raw": "2026-09-01T02:57:34.138Z",
       "pub_sort_dt": "2026-09-01 10:57:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "历经波折的IPO之路后，Shein在香港上市首日股价暴跌10%",
-      "title_cn": "历经波折的IPO之路后，Shein在香港上市首日股价暴跌10%",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/shein-set-to-debut-in-test-of-investor-demand-for-consumer-plays",
-      "pub_raw": "2026-09-01T02:25:36.684Z",
-      "pub_sort_dt": "2026-09-01 10:25:36"
     },
     {
       "source": "Bloomberg",
@@ -413,14 +453,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-31/us-funds-alcoa-gallium-plant-in-australia-to-cut-china-reliance",
       "pub_raw": "2026-08-31T23:45:20.221Z",
       "pub_sort_dt": "2026-09-01 07:45:20"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国造车的速度如此之快，以至于监管机构开始感到担忧",
-      "title_cn": "中国造车的速度如此之快，以至于监管机构开始感到担忧",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-makes-cars-so-fast-that-it-s-starting-to-worry-regulators",
-      "pub_raw": "2026-08-31T22:09:29.711Z",
-      "pub_sort_dt": "2026-09-01 06:09:29"
     },
     {
       "source": "Bloomberg",
@@ -461,38 +493,6 @@
       "url": "https://reut.rs/45Xteao",
       "pub_raw": "2026-08-31T17:05:43.848Z",
       "pub_sort_dt": "2026-09-01 01:05:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Prosus的巴西子公司对中国竞争对手提起诉讼",
-      "title_cn": "Prosus的巴西子公司对中国中小企业提起诉讼",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/brazil-s-top-delivery-app-files-complaint-against-chinese-rival",
-      "pub_raw": "2026-08-31T16:17:19.242Z",
-      "pub_sort_dt": "2026-09-01 00:17:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "巴西的一座稀土矿场对美国“脱钩中国”的战略构成考验",
-      "title_cn": "巴西的一个稀土矿场对美国“脱钩中国”的战略构成考验",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/mina-de-tierras-raras-en-brasil-pone-a-prueba-la-estrategia-de-ee-uu-para-alejarse-de-china",
-      "pub_raw": "2026-08-31T14:57:21.633Z",
-      "pub_sort_dt": "2026-08-31 22:57:21"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "无论在电影中还是现实生活中，中国都在推行“龙餐厅外交”",
-      "title_cn": "无论在电影中还是现实生活中，中国餐厅都在“龙多伦多”",
-      "url": "https://www.economist.com/china/2026/08/31/in-film-and-in-life-china-pursues-dragon-restaurant-diplomacy",
-      "pub_raw": "2026-08-31T14:41:49.090Z",
-      "pub_sort_dt": "2026-08-31 22:41:49"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾称“难以预测”的中国正在加强附近海域和空域的管控",
-      "title_cn": "台湾称“难以预测”的中国正在加强邻近海域和空域的管控",
-      "url": "https://reut.rs/4zLN9GT",
-      "pub_raw": "2026-08-31T13:21:47.535Z",
-      "pub_sort_dt": "2026-08-31 21:21:47"
     }
   ]
 }
