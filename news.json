@@ -1,101 +1,133 @@
 {
-  "update_cst": "2026-09-03 15:01:05 北京时间",
+  "update_cst": "2026-09-03 18:01:01 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 8,
+    "Bloomberg": 9,
     "Financial Times": 0,
     "Wall Street Journal": 0,
-    "Reuters": 12
+    "Reuters": 11
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国称上个月在台湾以东海域进行了勘测 - Reuters",
-      "title_cn": "中国称上个月在台湾以东海域进行了勘测 - Reuters",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxOSm5McDNlekkxSU9Hd2pRSHpkcGg2THIxdk96b3Z5QU9yeWxyWTdFclRQNkpVbzRzYlhHUmZFYTE2QW5QSkRjRXJtNWZ2Nk5acUx1YkVla3ByQ2V2WWJLc0s1S05MX2lVMUhZdnlpX1NhUkRvRGl4ODA1bFdKU0U2QW9Dd2Z5cW1nUFZmZlVpcVFQSWpiYnlXN3ZPQ3ZrNzJmYWs4MzNRR0JEamNMbkVPMDdweFBHUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T05:48:49.000Z",
-      "pub_sort_dt": "2026-09-03 13:48:49"
+      "title_en": "诺罗伊获得中国对177Lu-NYM032 III期临床试验的批准 - World Pharmaceutical Frontiers",
+      "title_cn": "诺罗伊获得中国对177Lu-NYM032 III期临床试验批准 - 世界制药前沿",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxNbk5QcXVsRXNuc21jYndTMDl6bzI1T250R0lCdWpNdVhZdk5VZTBNYWtLM2RsVG5BN2JINlFycldMN0RCNzl0aWx6UjktTHFLazBERDd0NllIX1BTV1BsOXRqNDBBS2s2V1BpdXhTYmtWTU94Y1dWMHhKSUg3SXZyUnU4SnNmdEtBRjJFVDM4RmFrTFByQmJnMzQxQjY5b0pZaGxMU1ZVVlYwUGtPOGw3cQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T09:42:44.000Z",
+      "pub_sort_dt": "2026-09-03 17:42:44"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国哈鼎智能融资数千万人民币，其物流车转向系统市场份额突破50% - Dealroom",
-      "title_cn": "中国哈鼎智能融资数千万人民币，其物流车转向系统市场份额突破50% - Dealroom",
-      "url": "https://news.google.com/read/CBMi1wFBVV95cUxQU0V2RERnX09Cc3VreFc2ZTMxUjUyMV9kb2xhRUZ2RG9RWE53TXh1V3R4WEE1bFl5c1BqRDJ6WDUwMGIwekJPZjMyMDNBU09UbHc2UmxTREFzeV9HS1c3ejV1aC1GbU1VSmVScEs0Ykc0a2NLd1MtTzljQTJIejNOQU5vd1FFdDVSdV9xaElYbHdYUUY5a1g5YUZVU19hcVA0bm1BOUd0U3VxQWY0V2J0Tjk3bUV4ZkZsQkphVXRQUFFFbmFRNmhwSWtJblFBMWV6cFM3YjZFdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T05:08:11.000Z",
-      "pub_sort_dt": "2026-09-03 13:08:11"
+      "title_en": "像埃隆·马斯克的Neuralink这样的脑机接口设备，正加剧中美在生物科学领域的竞争 - Axios",
+      "title_cn": "像埃隆·马斯克的Neuralink这样的脑机接口设备，正增强中美在生物科学领域的竞争 - Axios",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxOX2pwYWR6NFQ1dHdmN0JPRFhSaHo3LU1ZTXlYclpPLUZSWEx0emhVdDZXZDdTSHhQLWZFbUE5NUZHOU9aVHYwczFOMXc4eVZDZEpfdFFPRGxIckMyQXVyN0NGdDhlaTdFdVVmTVNMcFlEcm5qelpyN2l1Q3dmbHA3WEtn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T09:30:15.000Z",
+      "pub_sort_dt": "2026-09-03 17:30:15"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国经济放缓促使新西兰出口商开拓新市场 - CNBC",
-      "title_cn": "中国经济放缓促使新西兰出口商开拓新市场 - CNBC",
-      "url": "https://news.google.com/read/CBMimgFBVV95cUxQeWFmYWxnZTVGRU96cDNUVUlMbFVIMkVyaGNVeTJLX1lMeVZYdDhqM1M5MWVxUjRwbmZtNmp2cThsRHRRYW1CN0t1Z3NRT1R4a1ZjTEVyWVNyalhaZFNBQ1lXSWhpTzA3RXg4ZmpiVVVJR1VkVmlyZzR5UjlHQ1NjUUkzeHJTdm42VHFyRjVqR3FoTTNSd3dJVTZB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T04:44:31.000Z",
-      "pub_sort_dt": "2026-09-03 12:44:31"
+      "title_en": "中国抨击法国的“歧视性”快时尚法案 - France 24",
+      "title_cn": "中国峰会冲击法国“歧视性”快时尚法案 - France 24",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxPZ1ZLU21LNkVqV1VYNHYwbTEtMDYyRkJVcGhjTzVURVhkZjJEZ3FWckREeWF0WTRnVXZBQm1Gd0IzaHFkSnpmZEY5ZG1QUFlfSFBzbDBtWkpBbzhLWXo0SG1wanVucGdBOHBhcDZ2S09pTG9EekdQdXVtNTAxc1lYcG9xTkkzeWlEUzRwZTN1RU41RC14ZlB5Z3dhaksyZnph?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T09:21:51.000Z",
+      "pub_sort_dt": "2026-09-03 17:21:51"
     },
     {
       "source": "China Buzzing",
-      "title_en": "奥迪与上汽集团共同设立创新中心，打造中国专属品牌 - Reuters",
-      "title_cn": "奥迪与上汽集团共同设立创新中心，打造中国专属品牌 - Reuters",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxPdm1zSHhqM21UOUZvczNJcTQ2TXloM2xtZ29QNTJmNWc0c1BBUlJhek5SLXlnNlppcmkxWnM5Z2VwYUw0WDlYVWtfbmprU1lWZlJHNE1SRnotM1pfZGQzQXFJRXFuUnEwZk9TM25ZZUVWWnBzSmdiMmZlY19aWFN5OUlUa1RKX3h4NlpQQTdmRHcxWC1LV0lDOGQtUWp1Yl9PWXdkd0FIVHFBaW8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T04:41:13.000Z",
-      "pub_sort_dt": "2026-09-03 12:41:13"
+      "title_en": "与中方相关的“支付宝”支付通道因安全及数据问题在印度受阻 - The China-Global South Project",
+      "title_cn": "与中方相关的“支付宝”支付通道因安全及数据问题在印度受阻 - 中国-全球南方计划",
+      "url": "https://news.google.com/read/CBMijwFBVV95cUxNUHBOYlY5ckpvWURGTURxaGtCRTVVckJXTzl4NHZhNlJBbWp4clFhUjZLNVZxOFlQY1kwSURYMGVwMHRicjlmaHpEb3o0TGhJck9Jbm5tMGdMbjRQVTlralcwMVAtRjVsbnp2Tml6V3l4WHVCNVZfZTRoSHg5ODcwaGhMdzdhaF8ycWFGdlpsYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T09:17:43.000Z",
+      "pub_sort_dt": "2026-09-03 17:17:43"
     },
     {
       "source": "China Buzzing",
-      "title_en": "AI剧热潮助推中国流媒体平台芒果股价飙升64% - Bloomberg.com",
-      "title_cn": "AI剧热潮助推中国流媒体平台芒果股价飙升64% - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxOTVFtTThjdnVrYll5c0xDdDNzUEU3SWVmeHFFUEdXQmdGbGQxcU1XSmhaX1cycV9MRXRHUWtPdzk0OC1MdUZjc3k4ek5KZi1sYUdkb3VFYkdJUlgxZXREWGhUSEdjNzhrRnd1WERNcGR6Rzl0dU82YmswR0Q5UW03bmxGVU9oWUxES2NaTzNQVVpMNWF6WmxwamlidmdpUkNBRW5EekdoNTdpbE0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T04:24:00.000Z",
-      "pub_sort_dt": "2026-09-03 12:24:00"
+      "title_en": "荷兰咨询团体敦促欧盟推进与中国达成协议，但需做好应对反弹的准备 - South China Morning Post",
+      "title_cn": "荷兰咨询团体敦促欧盟推进与中国达成协议，但需做好应对反弹的准备 - 南华早报",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxOUTlVUzZGdmV4cGhCNlBRdXBpai1FZU1lcVFtcVRkY2NtdDRneFJ2MHpSVER6WG40WWFaQkhpYTBETzgzYU9JZk9BUGVhWnJOVUdyLWEyUjRsV3FrVWlhQVA1dHZhWXVVN3NpYkJKTHdQMTFyNlItUFVkQWVhYUJLOUZkelJDZkcxM1c4b01SMW45QXRUNy00TGNsUGJ5dE93Z0ZTRF9YbDY2cFkxaDFyVFBoYVlRMU5oWmhvVU0zUdIBvwFBVV95cUxOUkgzTTlObnNKSjhtMUZ6ejBhWFV1OXpXeXJIVC1oeW5GV240aUx0eTZ3SlNsbTU5ZUNQMHpKVUVBMVVnTDhIa0hhYkZxSDZZdVZrOVNScU5ZY0NEcFoyallIX1lkZ2k1cDRYSmlxRUtrdFVLRVhHQWk3UU1Ya19mTGxVcFREQVFKYVNrRHNUTFEtZWhPSEZrWjB0Ti1hbTlZTHJTOE15a2ZiZEZJLVJwbWc4LUgyb01lcjZ6WjJHMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T09:03:40.000Z",
+      "pub_sort_dt": "2026-09-03 17:03:40"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国寻求在中东地区扩大影响力之际，习近平访问埃及 - NBC News",
-      "title_cn": "中国寻求在中东地区扩大影响力之际，习近平访问埃及 - NBC News",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxQcm1tUHFMODk2RWUyY1ZYaUMxUVl0ckkyOGxtdm5sMndOdnhpNjBDTVNzbDhLcjhTRGlHRzJBVUhxT29sbkozaHliQkltdVVITFBFYnRsRDliVW1mbG5LZjhhQjZ5SjFnd1J3b1c0M3ZlOHJ5ZTF6ZkJQd0VBSDFGYWJ4QnczdXpNTGRFVTR1VDJyV0ticjZmREdzbHY3bHc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T04:14:00.000Z",
-      "pub_sort_dt": "2026-09-03 12:14:00"
+      "title_en": "北京指责太平洋论坛东道主帕劳对其导弹试验“大肆炒作” - Reuters",
+      "title_cn": "北京指责太平洋论坛东道主帕劳此次导弹试验“大肆炒作” - 路透社",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxPelc5UFA1VjR3eENZWHFoRGNoQXExUzNLQkxyVG8teENwdFBDNWhiT3A4dl9pYWRpXzdHWXJoMHdvZjZYM3pJdVJqenpWN1hCcmRtdmpQTTFMZE5PRzFxc0VxWjNTNzZOOHJOTlBTQnNVYXBGQU1zZ1gzRWYxQTBNR2VIUHBCSk9jRXNNSnhWRlJXY3dzT1BBemtIUjRhUUNKbDhiRFdJXzZ5aHQzaFdRQVZ5WEU1QQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T08:59:05.000Z",
+      "pub_sort_dt": "2026-09-03 16:59:05"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着冰川消融加剧，不稳定的青藏高原面临连锁灾害风险 - South China Morning Post",
-      "title_cn": "随着冰川消融加剧，不稳定的青藏高原面临连锁灾害风险 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiywFBVV95cUxOdlQ0eWRMV0FKak1tMGpzdF9PLVBRV2NuaXRLNWRPZkRrMjB5MmFabjgyVms4ZFBNUjZlVmhwakFCSmZnMGptTkFQLVU2d0NYckpnamNsQnFNM3RWNk9VRUI5b05kZnVyRlhpb3ZqR0hQSXlfTmN0Ykpzckx4TnFYS3FyYzZGVnVwMHBFa25HNGtJRFFlOUhLV1B1YkRYMnRFcVlXZTdXZ1RNR1Zwbm9GdVgwSFEwVlEya3NVdWhNdUFxek05M092Z2ktNA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T03:56:19.000Z",
-      "pub_sort_dt": "2026-09-03 11:56:19"
+      "title_en": "中国制定了旨在打造体育强国的新的五年规划 - People's Daily Online",
+      "title_cn": "中国制定体育强国新五年规划--人民网",
+      "url": "https://news.google.com/read/CBMiY0FVX3lxTE1qVEgwLU42NzlaRTMtODRhckhnLVRsd2lkeks1LTgxZFljNHVwSVZFX0gtcFF3bFNYMnBHRnlnQ01OaGtzTHpSdTVOaFV5MW02dlBlbFJPdnZYV3pUR1JpTFg1dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T08:54:00.000Z",
+      "pub_sort_dt": "2026-09-03 16:54:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中尼洪灾：工程措施只是权宜之计 - South China Morning Post",
-      "title_cn": "中尼洪灾：工程措施只是权宜之计 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxQcWh4VnFBSkY1WlVtbTdZQ19rcE5qQTJpamhxc0VoNkN5UDZEdVR6dFVVdFY1bVdzUHNaRjRJOEpvcVZTcHJTRURuVHFJVUp6X0k3Q1JhUjU0V2hHUlFXQ3dmSUtlLTRQdkhKeUNPYU5vQkE2Z1czV3RkOGQ2SG5CeUszWHNCQ1hVbEtHNVpiSzBOc1M1R1JrZTZpQVhlX2Q4a2tYNl9jRkU4LTjSAasBQVVfeXFMTTNxblFOaTJ1T1dtVW1JeTZqcHZteHp6U3phakJkV09LTlpGVndMMEpfc3V4bEh1V1A4TzJIcE84bXY2cWZmLVN1dndRVHFCNFBTZ0NCckdYTG1GOTZuNy1CZ0JsdFMydW5pWHRqSmFTc2w3TWd5OXNHMGxfaWEtalM0MTh2al8zNTI3bXdHbkkzcXp5OTVaZVg4QkZkWDVoQ1llSVdiOGc5dkJv?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T03:30:05.000Z",
-      "pub_sort_dt": "2026-09-03 11:30:05"
+      "title_en": "图集：飞虎队——那些曾协助中国抗击日本的志愿者们 - South China Morning Post",
+      "title_cn": "图集：飞虎队——那些曾经援助中国抗击日本的志愿者们 - 南华早报",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxQTTFSVG1nSHdVMnNtOW5vNS12OWVnVVpIdnA4YmlBN3RDUjJxbFdfLUp5M2FqNFhWU1lqUFR4bTlyNklhUTVxeVlrZjdxLUpQbFVIaDByTm9qTXBsWnpEN1RBbG9VQldTVkpiaHhyVi1GOVZ0bTRYR0plcF9BQ1hnUXBCdUdtbzR2c2ozSERiWEk3STVucVdySldFZjhqc1VPQzRFNThNSldOVUVEbDZocjE1S0lVUWN3QVZERw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T08:46:03.000Z",
+      "pub_sort_dt": "2026-09-03 16:46:03"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在关税战背景下，中国国家主席习近平寻求在埃及和中亚开拓新的贸易路线 - South China Morning Post",
-      "title_cn": "在关税战背景下，中国国家主席习近平寻求在埃及和中亚开拓新的贸易路线 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMi1wFBVV95cUxQYXlsVERlejZHWWUxMWRJRVhMV2ZPR3Y1dURyR3lBT1BsUEd1U2JHVS1nOFRMVkN3TjNPbGU0T3hkNHUxMDZNR2lqR0Z2bUVabnBaelZBXzM3bHlXcWFLSFRXenIzRHFJQXNNUXdUQXlDcUJwOHdwNXhhb2kxc0RzR3VmUGpHLTd5Um9OLVFUZzZYTW1GZTRfQzlUMFZ2Y2VDSWU2S1ktQjFWWkl4Qm9KbzYzVFVWNmZxMG8yQnBGWUpmOGNxa3dlVFUyX2tqZWNTZmZERTlwMNIB1wFBVV95cUxQdDdxUHk3SXVEZDJ2eF9JaF9ZUkQzLW9aWlpTUU55b29hdko2eGpFa29hNnBpOUlzRG10bzNyRjVkOVJQbGZxUEVUX1ZTQlVleGE2VFZndFlkRnV6TEstY0hpTmZjcFM4dU44VXlUaVBpRXY5bDllZ0FTNXJlOEtEZV85OE9tZE9TR0tfVnhTTU5OY2c2elRON1hyYk9ISnlQeHRnSnQ1WUdJM2ROaUhESW1YaWxFRVVpSk1wd1NrckxwMW45ZjhzOTQ1d251NUlPRjNON2Ixcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T03:00:11.000Z",
-      "pub_sort_dt": "2026-09-03 11:00:11"
+      "title_en": "一名美国记者因充当中国的非法代理人，被判处两年联邦监禁 - NBC News",
+      "title_cn": "一名美国记者因照顾中国的非法代理人，被联邦法院判处两年监禁 - NBC News",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxOQ2NLd0xkX0xWZlNRUV9HTERkY0RtTTJUbTJveDltY0h0bnRLWDdoRHZiRlJyQjdvVWdlYWppQjNHclpMQ3hKbW9mZU9NM2lRZnVHcGhyNU5DUmZkdC1EUmJKVFdsTXJjYll4c3ZhR01nQUYyOUZuczRtMGx1bmtRRFBCRnhldXhkUXotanpCajRmQmh4WXRIVlNnQXVsTHZIVHVvMnJoZ3NJNmp4R2tSZktSMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T08:28:20.000Z",
+      "pub_sort_dt": "2026-09-03 16:28:20"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着中国在太平洋地区的影响力不断增强，澳大利亚和美国将加强防务合作 - Reuters",
-      "title_cn": "随着中国在太平洋地区的影响力不断增强，澳大利亚和美国将加强防务合作 - Reuters",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxNMGlQbnNDYmRZNklIT19EZUFaejRPcUNpTENxczFTaVVFczNTOThfQWEtY25pMkJiMDBlQThRS2NhUnpqbjh0bEhEdEpxS25WdjZZNi01bWNkSmFfNThnd01ZN19SWWgwMjQyUE9yd0oyUThiTHhmREF0MlAtV2lUZkJyTGk4d2w0RTZodXNJX2VtdFVRdm1nS1MyRThKZlg0SVNtczlPWWJaT1BBOTFF?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T02:37:43.000Z",
-      "pub_sort_dt": "2026-09-03 10:37:43"
+      "title_en": "中国对石油需求的减少是其首次实现减排的原因 - Reuters",
+      "title_cn": "中国对石油需求减少是其首次实现的原因 - 路透中文网",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxQbk1zSkdxY0hYV1lUVk55aTRqMC1jc3l2cmxLY01UYzQ3SDVoOFBrX0phTXR0Wkd0b1RfNVBMdXBOMFc4OURWTy0xNzM3SEFwOGNiX1k0Uk1TcnZGOTZndldnZzRLajA4V3BfM1ZSZUx3VHFIbmx4anV0TUtQSWFjeW1GSVc3b1QzT1dERlZ1aVpyUzRDSUxNT3VlZFU1dlc0WXNaNXNydWRIcllfNjNMRVZVUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T08:21:50.000Z",
+      "pub_sort_dt": "2026-09-03 16:21:50"
     }
   ],
   "media_news": [
     {
+      "source": "Reuters",
+      "title_en": "中国对石油需求的减少是其首次实现减排的原因",
+      "title_cn": "中国对石油需求减少是其首次实现的原因",
+      "url": "https://reut.rs/3Uol0pc",
+      "pub_raw": "2026-09-03T09:53:24.863Z",
+      "pub_sort_dt": "2026-09-03 17:53:24"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "台湾提议今年额外增加46亿美元国防开支",
+      "title_cn": "台湾提议今年额外增加46亿美元国防开支",
+      "url": "https://reut.rs/4ybxnmW",
+      "pub_raw": "2026-09-03T08:17:49.418Z",
+      "pub_sort_dt": "2026-09-03 16:17:49"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "CNBC将关闭香港办事处，并取消部分每日直播节目",
+      "title_cn": "CNBC将关闭香港办事处，并取消部分每日直播节目",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/cnbc-to-shutter-hong-kong-office-cancel-some-daily-live-shows",
+      "pub_raw": "2026-09-03T07:29:22.906Z",
+      "pub_sort_dt": "2026-09-03 15:29:22"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港置地瞄准日本数十亿美元的房地产交易",
+      "title_cn": "香港置地瞄准日本订单亿美元的房地产交易",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/hongkong-land-eyes-billion-dollar-property-deals-to-enter-japan",
+      "pub_raw": "2026-09-03T06:57:14.474Z",
+      "pub_sort_dt": "2026-09-03 14:57:14"
+    },
+    {
       "source": "Bloomberg",
       "title_en": "美团盈利预期飙升500%或将提振中国外卖股",
-      "title_cn": "美团盈利预期飙升500%或将提振中国外卖股",
+      "title_cn": "美团盈利预期达到500%或将提振中国外卖股",
       "url": "https://www.bloomberg.com/news/articles/2026-09-02/meituan-s-500-estimate-surge-may-revive-china-delivery-stocks",
       "pub_raw": "2026-09-03T06:41:33.222Z",
       "pub_sort_dt": "2026-09-03 14:41:33"
@@ -111,7 +143,7 @@
     {
       "source": "Reuters",
       "title_en": "从饥饿到肥胖：发展中国家儿童健康面临的新威胁",
-      "title_cn": "从饥饿到肥胖：发展中国家儿童健康面临的新威胁",
+      "title_cn": "从饥饿到营养：发展中国家儿童健康面临新威胁",
       "url": "https://reut.rs/3SHUBSK",
       "pub_raw": "2026-09-03T05:21:24.270Z",
       "pub_sort_dt": "2026-09-03 13:21:24"
@@ -135,7 +167,7 @@
     {
       "source": "Bloomberg",
       "title_en": "Shein的首次公开募股是香港创纪录IPO热潮中的最新里程碑",
-      "title_cn": "Shein的首次公开募股是香港创纪录IPO热潮中的最新里程碑",
+      "title_cn": "Shein首次公开募股是香港创纪录IPO热潮中的最新里程碑",
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-03/shein-s-debut-latest-milestone-in-hong-kong-s-record-ipo-march",
       "pub_raw": "2026-09-03T04:01:44.604Z",
       "pub_sort_dt": "2026-09-03 12:01:44"
@@ -143,7 +175,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国炼油商为一种关键的俄罗斯原油品种支付了双倍溢价",
-      "title_cn": "中国炼油商为一种关键的俄罗斯原油品种支付了双倍溢价",
+      "title_cn": "中国炼油商为俄罗斯原油品种支付双倍溢价",
       "url": "https://www.bloomberg.com/news/articles/2026-09-03/chinese-refiners-pay-double-premiums-for-a-key-russian-oil-grade",
       "pub_raw": "2026-09-03T04:01:44.594Z",
       "pub_sort_dt": "2026-09-03 12:01:44"
@@ -151,7 +183,7 @@
     {
       "source": "Reuters",
       "title_en": "因台风“萨乌德”带来的暴雨引发洪水，中国留学生被困",
-      "title_cn": "因台风“萨乌德”带来的暴雨引发洪水，中国留学生被困",
+      "title_cn": "因台风“萨乌德”带来暴雨引发洪水，中国留学生被困",
       "url": "https://reut.rs/4zULbUD",
       "pub_raw": "2026-09-03T04:01:44.449Z",
       "pub_sort_dt": "2026-09-03 12:01:44"
@@ -167,7 +199,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国服务业景气指数超预期反弹，表现好于市场预测",
-      "title_cn": "中国服务业景气指数超预期反弹，表现好于市场预测",
+      "title_cn": "中国服务业景气指数预期超预期反弹，表现好于市场预测",
       "url": "https://www.bloomberg.com/news/articles/2026-09-03/china-s-services-gauge-exceeds-forecasts-with-surprise-rebound",
       "pub_raw": "2026-09-03T02:57:37.431Z",
       "pub_sort_dt": "2026-09-03 10:57:37"
@@ -175,23 +207,15 @@
     {
       "source": "Reuters",
       "title_en": "国际货币基金组织（IMF）总裁乔治娃表示，债券收益率上升威胁到发展中国家债务问题的解决进展",
-      "title_cn": "国际货币基金组织（IMF）总裁乔治娃表示，债券收益率上升威胁到发展中国家债务问题的解决进展",
+      "title_cn": "国际货币基金组织（IMF）总裁乔治娃表示，债券发展中国家对发展中国家债务问题的解决进展",
       "url": "https://reut.rs/4xAADsl",
       "pub_raw": "2026-09-03T02:41:32.786Z",
       "pub_sort_dt": "2026-09-03 10:41:32"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "香港置地瞄准数十亿美元房地产交易，进军日本市场",
-      "title_cn": "香港置地瞄准数十亿美元房地产交易，进军日本市场",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-03/hongkong-land-eyes-billion-dollar-property-deals-to-enter-japan",
-      "pub_raw": "2026-09-03T01:53:20.812Z",
-      "pub_sort_dt": "2026-09-03 09:53:20"
-    },
-    {
       "source": "Reuters",
       "title_en": "从饥饿到肥胖：发展中国家儿童健康面临日益严峻的威胁",
-      "title_cn": "从饥饿到肥胖：发展中国家儿童健康面临日益严峻的威胁",
+      "title_cn": "从饥饿到营养：发展中国家儿童健康面临严峻的威胁",
       "url": "https://reut.rs/4iagogg",
       "pub_raw": "2026-09-03T00:49:14.961Z",
       "pub_sort_dt": "2026-09-03 08:49:14"
@@ -199,7 +223,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国对石油需求的减弱正在抑制碳排放",
-      "title_cn": "中国对石油需求的减弱正在抑制碳排放",
+      "title_cn": "中国对石油需求的削减正在进行中",
       "url": "https://www.bloomberg.com/news/articles/2026-09-02/china-s-waning-appetite-for-oil-is-keeping-emissions-in-check",
       "pub_raw": "2026-09-03T00:33:14.485Z",
       "pub_sort_dt": "2026-09-03 08:33:14"
@@ -215,7 +239,7 @@
     {
       "source": "Reuters",
       "title_en": "评论：中国虽避开了全球债券市场的暴跌，但原因并不妥当",
-      "title_cn": "评论：中国虽避开了全球债券市场的暴跌，但原因并不妥当",
+      "title_cn": "评论：中国虽然意识到全球债券市场并未暴跌，但原因也当如此",
       "url": "https://reut.rs/3T5dGyl",
       "pub_raw": "2026-09-02T19:13:22.276Z",
       "pub_sort_dt": "2026-09-03 03:13:22"
@@ -223,121 +247,129 @@
     {
       "source": "Bloomberg",
       "title_en": "赖特称，中国无权要求分享委内瑞拉石油收入",
-      "title_cn": "赖特称，中国无权要求分享委内瑞拉石油收入",
+      "title_cn": "赖特称，中国无权要求分摊石油收入",
       "url": "https://www.bloomberg.com/news/articles/2026-09-02/china-won-t-have-claims-to-venezuelan-oil-revenue-wright-says",
       "pub_raw": "2026-09-02T16:01:28.678Z",
       "pub_sort_dt": "2026-09-03 00:01:28"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：消息人士称，尼泊尔将在致命洪灾后重建与中国边境的预警系统",
-      "title_cn": "独家：消息人士称，尼泊尔将在致命洪灾后重建与中国边境的预警系统",
-      "url": "https://reut.rs/4qN0KcM",
-      "pub_raw": "2026-09-02T13:53:23.981Z",
-      "pub_sort_dt": "2026-09-02 21:53:23"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "消息人士称，在中国放宽管控措施后，其成品油出口保持稳定",
-      "title_cn": "消息人士称，在中国放宽管控措施后，其成品油出口保持稳定",
-      "url": "https://reut.rs/4i2psDL",
-      "pub_raw": "2026-09-02T13:21:18.457Z",
-      "pub_sort_dt": "2026-09-02 21:21:18"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "特斯拉中国产电动汽车销量延续增长势头，但增长势头有所减弱",
-      "title_cn": "特斯拉中国产电动汽车销量延续增长势头，但增长势头有所减弱",
-      "url": "https://reut.rs/4wYxz8h",
-      "pub_raw": "2026-09-02T12:33:39.818Z",
-      "pub_sort_dt": "2026-09-02 20:33:39"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国称上个月在台湾以东海域进行了勘测 - Reuters",
-      "title_cn": "中国称上个月在台湾以东海域进行了勘测 - Reuters",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxOSm5McDNlekkxSU9Hd2pRSHpkcGg2THIxdk96b3Z5QU9yeWxyWTdFclRQNkpVbzRzYlhHUmZFYTE2QW5QSkRjRXJtNWZ2Nk5acUx1YkVla3ByQ2V2WWJLc0s1S05MX2lVMUhZdnlpX1NhUkRvRGl4ODA1bFdKU0U2QW9Dd2Z5cW1nUFZmZlVpcVFQSWpiYnlXN3ZPQ3ZrNzJmYWs4MzNRR0JEamNMbkVPMDdweFBHUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T05:48:49.000Z",
-      "pub_sort_dt": "2026-09-03 13:48:49"
+      "title_en": "诺罗伊获得中国对177Lu-NYM032 III期临床试验的批准 - World Pharmaceutical Frontiers",
+      "title_cn": "诺罗伊获得中国对177Lu-NYM032 III期临床试验批准 - 世界制药前沿",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxNbk5QcXVsRXNuc21jYndTMDl6bzI1T250R0lCdWpNdVhZdk5VZTBNYWtLM2RsVG5BN2JINlFycldMN0RCNzl0aWx6UjktTHFLazBERDd0NllIX1BTV1BsOXRqNDBBS2s2V1BpdXhTYmtWTU94Y1dWMHhKSUg3SXZyUnU4SnNmdEtBRjJFVDM4RmFrTFByQmJnMzQxQjY5b0pZaGxMU1ZVVlYwUGtPOGw3cQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T09:42:44.000Z",
+      "pub_sort_dt": "2026-09-03 17:42:44"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国哈鼎智能融资数千万人民币，其物流车转向系统市场份额突破50% - Dealroom",
-      "title_cn": "中国哈鼎智能融资数千万人民币，其物流车转向系统市场份额突破50% - Dealroom",
-      "url": "https://news.google.com/read/CBMi1wFBVV95cUxQU0V2RERnX09Cc3VreFc2ZTMxUjUyMV9kb2xhRUZ2RG9RWE53TXh1V3R4WEE1bFl5c1BqRDJ6WDUwMGIwekJPZjMyMDNBU09UbHc2UmxTREFzeV9HS1c3ejV1aC1GbU1VSmVScEs0Ykc0a2NLd1MtTzljQTJIejNOQU5vd1FFdDVSdV9xaElYbHdYUUY5a1g5YUZVU19hcVA0bm1BOUd0U3VxQWY0V2J0Tjk3bUV4ZkZsQkphVXRQUFFFbmFRNmhwSWtJblFBMWV6cFM3YjZFdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T05:08:11.000Z",
-      "pub_sort_dt": "2026-09-03 13:08:11"
+      "title_en": "像埃隆·马斯克的Neuralink这样的脑机接口设备，正加剧中美在生物科学领域的竞争 - Axios",
+      "title_cn": "像埃隆·马斯克的Neuralink这样的脑机接口设备，正增强中美在生物科学领域的竞争 - Axios",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxOX2pwYWR6NFQ1dHdmN0JPRFhSaHo3LU1ZTXlYclpPLUZSWEx0emhVdDZXZDdTSHhQLWZFbUE5NUZHOU9aVHYwczFOMXc4eVZDZEpfdFFPRGxIckMyQXVyN0NGdDhlaTdFdVVmTVNMcFlEcm5qelpyN2l1Q3dmbHA3WEtn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T09:30:15.000Z",
+      "pub_sort_dt": "2026-09-03 17:30:15"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国经济放缓促使新西兰出口商开拓新市场 - CNBC",
-      "title_cn": "中国经济放缓促使新西兰出口商开拓新市场 - CNBC",
-      "url": "https://news.google.com/read/CBMimgFBVV95cUxQeWFmYWxnZTVGRU96cDNUVUlMbFVIMkVyaGNVeTJLX1lMeVZYdDhqM1M5MWVxUjRwbmZtNmp2cThsRHRRYW1CN0t1Z3NRT1R4a1ZjTEVyWVNyalhaZFNBQ1lXSWhpTzA3RXg4ZmpiVVVJR1VkVmlyZzR5UjlHQ1NjUUkzeHJTdm42VHFyRjVqR3FoTTNSd3dJVTZB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T04:44:31.000Z",
-      "pub_sort_dt": "2026-09-03 12:44:31"
+      "title_en": "中国抨击法国的“歧视性”快时尚法案 - France 24",
+      "title_cn": "中国峰会冲击法国“歧视性”快时尚法案 - France 24",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxPZ1ZLU21LNkVqV1VYNHYwbTEtMDYyRkJVcGhjTzVURVhkZjJEZ3FWckREeWF0WTRnVXZBQm1Gd0IzaHFkSnpmZEY5ZG1QUFlfSFBzbDBtWkpBbzhLWXo0SG1wanVucGdBOHBhcDZ2S09pTG9EekdQdXVtNTAxc1lYcG9xTkkzeWlEUzRwZTN1RU41RC14ZlB5Z3dhaksyZnph?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T09:21:51.000Z",
+      "pub_sort_dt": "2026-09-03 17:21:51"
     },
     {
       "source": "China Buzzing",
-      "title_en": "奥迪与上汽集团共同设立创新中心，打造中国专属品牌 - Reuters",
-      "title_cn": "奥迪与上汽集团共同设立创新中心，打造中国专属品牌 - Reuters",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxPdm1zSHhqM21UOUZvczNJcTQ2TXloM2xtZ29QNTJmNWc0c1BBUlJhek5SLXlnNlppcmkxWnM5Z2VwYUw0WDlYVWtfbmprU1lWZlJHNE1SRnotM1pfZGQzQXFJRXFuUnEwZk9TM25ZZUVWWnBzSmdiMmZlY19aWFN5OUlUa1RKX3h4NlpQQTdmRHcxWC1LV0lDOGQtUWp1Yl9PWXdkd0FIVHFBaW8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T04:41:13.000Z",
-      "pub_sort_dt": "2026-09-03 12:41:13"
+      "title_en": "与中方相关的“支付宝”支付通道因安全及数据问题在印度受阻 - The China-Global South Project",
+      "title_cn": "与中方相关的“支付宝”支付通道因安全及数据问题在印度受阻 - 中国-全球南方计划",
+      "url": "https://news.google.com/read/CBMijwFBVV95cUxNUHBOYlY5ckpvWURGTURxaGtCRTVVckJXTzl4NHZhNlJBbWp4clFhUjZLNVZxOFlQY1kwSURYMGVwMHRicjlmaHpEb3o0TGhJck9Jbm5tMGdMbjRQVTlralcwMVAtRjVsbnp2Tml6V3l4WHVCNVZfZTRoSHg5ODcwaGhMdzdhaF8ycWFGdlpsYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T09:17:43.000Z",
+      "pub_sort_dt": "2026-09-03 17:17:43"
     },
     {
       "source": "China Buzzing",
-      "title_en": "AI剧热潮助推中国流媒体平台芒果股价飙升64% - Bloomberg.com",
-      "title_cn": "AI剧热潮助推中国流媒体平台芒果股价飙升64% - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxOTVFtTThjdnVrYll5c0xDdDNzUEU3SWVmeHFFUEdXQmdGbGQxcU1XSmhaX1cycV9MRXRHUWtPdzk0OC1MdUZjc3k4ek5KZi1sYUdkb3VFYkdJUlgxZXREWGhUSEdjNzhrRnd1WERNcGR6Rzl0dU82YmswR0Q5UW03bmxGVU9oWUxES2NaTzNQVVpMNWF6WmxwamlidmdpUkNBRW5EekdoNTdpbE0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T04:24:00.000Z",
-      "pub_sort_dt": "2026-09-03 12:24:00"
+      "title_en": "荷兰咨询团体敦促欧盟推进与中国达成协议，但需做好应对反弹的准备 - South China Morning Post",
+      "title_cn": "荷兰咨询团体敦促欧盟推进与中国达成协议，但需做好应对反弹的准备 - 南华早报",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxOUTlVUzZGdmV4cGhCNlBRdXBpai1FZU1lcVFtcVRkY2NtdDRneFJ2MHpSVER6WG40WWFaQkhpYTBETzgzYU9JZk9BUGVhWnJOVUdyLWEyUjRsV3FrVWlhQVA1dHZhWXVVN3NpYkJKTHdQMTFyNlItUFVkQWVhYUJLOUZkelJDZkcxM1c4b01SMW45QXRUNy00TGNsUGJ5dE93Z0ZTRF9YbDY2cFkxaDFyVFBoYVlRMU5oWmhvVU0zUdIBvwFBVV95cUxOUkgzTTlObnNKSjhtMUZ6ejBhWFV1OXpXeXJIVC1oeW5GV240aUx0eTZ3SlNsbTU5ZUNQMHpKVUVBMVVnTDhIa0hhYkZxSDZZdVZrOVNScU5ZY0NEcFoyallIX1lkZ2k1cDRYSmlxRUtrdFVLRVhHQWk3UU1Ya19mTGxVcFREQVFKYVNrRHNUTFEtZWhPSEZrWjB0Ti1hbTlZTHJTOE15a2ZiZEZJLVJwbWc4LUgyb01lcjZ6WjJHMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T09:03:40.000Z",
+      "pub_sort_dt": "2026-09-03 17:03:40"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国寻求在中东地区扩大影响力之际，习近平访问埃及 - NBC News",
-      "title_cn": "中国寻求在中东地区扩大影响力之际，习近平访问埃及 - NBC News",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxQcm1tUHFMODk2RWUyY1ZYaUMxUVl0ckkyOGxtdm5sMndOdnhpNjBDTVNzbDhLcjhTRGlHRzJBVUhxT29sbkozaHliQkltdVVITFBFYnRsRDliVW1mbG5LZjhhQjZ5SjFnd1J3b1c0M3ZlOHJ5ZTF6ZkJQd0VBSDFGYWJ4QnczdXpNTGRFVTR1VDJyV0ticjZmREdzbHY3bHc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T04:14:00.000Z",
-      "pub_sort_dt": "2026-09-03 12:14:00"
+      "title_en": "北京指责太平洋论坛东道主帕劳对其导弹试验“大肆炒作” - Reuters",
+      "title_cn": "北京指责太平洋论坛东道主帕劳此次导弹试验“大肆炒作” - 路透社",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxPelc5UFA1VjR3eENZWHFoRGNoQXExUzNLQkxyVG8teENwdFBDNWhiT3A4dl9pYWRpXzdHWXJoMHdvZjZYM3pJdVJqenpWN1hCcmRtdmpQTTFMZE5PRzFxc0VxWjNTNzZOOHJOTlBTQnNVYXBGQU1zZ1gzRWYxQTBNR2VIUHBCSk9jRXNNSnhWRlJXY3dzT1BBemtIUjRhUUNKbDhiRFdJXzZ5aHQzaFdRQVZ5WEU1QQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T08:59:05.000Z",
+      "pub_sort_dt": "2026-09-03 16:59:05"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着冰川消融加剧，不稳定的青藏高原面临连锁灾害风险 - South China Morning Post",
-      "title_cn": "随着冰川消融加剧，不稳定的青藏高原面临连锁灾害风险 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiywFBVV95cUxOdlQ0eWRMV0FKak1tMGpzdF9PLVBRV2NuaXRLNWRPZkRrMjB5MmFabjgyVms4ZFBNUjZlVmhwakFCSmZnMGptTkFQLVU2d0NYckpnamNsQnFNM3RWNk9VRUI5b05kZnVyRlhpb3ZqR0hQSXlfTmN0Ykpzckx4TnFYS3FyYzZGVnVwMHBFa25HNGtJRFFlOUhLV1B1YkRYMnRFcVlXZTdXZ1RNR1Zwbm9GdVgwSFEwVlEya3NVdWhNdUFxek05M092Z2ktNA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T03:56:19.000Z",
-      "pub_sort_dt": "2026-09-03 11:56:19"
+      "title_en": "中国制定了旨在打造体育强国的新的五年规划 - People's Daily Online",
+      "title_cn": "中国制定体育强国新五年规划--人民网",
+      "url": "https://news.google.com/read/CBMiY0FVX3lxTE1qVEgwLU42NzlaRTMtODRhckhnLVRsd2lkeks1LTgxZFljNHVwSVZFX0gtcFF3bFNYMnBHRnlnQ01OaGtzTHpSdTVOaFV5MW02dlBlbFJPdnZYV3pUR1JpTFg1dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T08:54:00.000Z",
+      "pub_sort_dt": "2026-09-03 16:54:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中尼洪灾：工程措施只是权宜之计 - South China Morning Post",
-      "title_cn": "中尼洪灾：工程措施只是权宜之计 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxQcWh4VnFBSkY1WlVtbTdZQ19rcE5qQTJpamhxc0VoNkN5UDZEdVR6dFVVdFY1bVdzUHNaRjRJOEpvcVZTcHJTRURuVHFJVUp6X0k3Q1JhUjU0V2hHUlFXQ3dmSUtlLTRQdkhKeUNPYU5vQkE2Z1czV3RkOGQ2SG5CeUszWHNCQ1hVbEtHNVpiSzBOc1M1R1JrZTZpQVhlX2Q4a2tYNl9jRkU4LTjSAasBQVVfeXFMTTNxblFOaTJ1T1dtVW1JeTZqcHZteHp6U3phakJkV09LTlpGVndMMEpfc3V4bEh1V1A4TzJIcE84bXY2cWZmLVN1dndRVHFCNFBTZ0NCckdYTG1GOTZuNy1CZ0JsdFMydW5pWHRqSmFTc2w3TWd5OXNHMGxfaWEtalM0MTh2al8zNTI3bXdHbkkzcXp5OTVaZVg4QkZkWDVoQ1llSVdiOGc5dkJv?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T03:30:05.000Z",
-      "pub_sort_dt": "2026-09-03 11:30:05"
+      "title_en": "图集：飞虎队——那些曾协助中国抗击日本的志愿者们 - South China Morning Post",
+      "title_cn": "图集：飞虎队——那些曾经援助中国抗击日本的志愿者们 - 南华早报",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxQTTFSVG1nSHdVMnNtOW5vNS12OWVnVVpIdnA4YmlBN3RDUjJxbFdfLUp5M2FqNFhWU1lqUFR4bTlyNklhUTVxeVlrZjdxLUpQbFVIaDByTm9qTXBsWnpEN1RBbG9VQldTVkpiaHhyVi1GOVZ0bTRYR0plcF9BQ1hnUXBCdUdtbzR2c2ozSERiWEk3STVucVdySldFZjhqc1VPQzRFNThNSldOVUVEbDZocjE1S0lVUWN3QVZERw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T08:46:03.000Z",
+      "pub_sort_dt": "2026-09-03 16:46:03"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在关税战背景下，中国国家主席习近平寻求在埃及和中亚开拓新的贸易路线 - South China Morning Post",
-      "title_cn": "在关税战背景下，中国国家主席习近平寻求在埃及和中亚开拓新的贸易路线 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMi1wFBVV95cUxQYXlsVERlejZHWWUxMWRJRVhMV2ZPR3Y1dURyR3lBT1BsUEd1U2JHVS1nOFRMVkN3TjNPbGU0T3hkNHUxMDZNR2lqR0Z2bUVabnBaelZBXzM3bHlXcWFLSFRXenIzRHFJQXNNUXdUQXlDcUJwOHdwNXhhb2kxc0RzR3VmUGpHLTd5Um9OLVFUZzZYTW1GZTRfQzlUMFZ2Y2VDSWU2S1ktQjFWWkl4Qm9KbzYzVFVWNmZxMG8yQnBGWUpmOGNxa3dlVFUyX2tqZWNTZmZERTlwMNIB1wFBVV95cUxQdDdxUHk3SXVEZDJ2eF9JaF9ZUkQzLW9aWlpTUU55b29hdko2eGpFa29hNnBpOUlzRG10bzNyRjVkOVJQbGZxUEVUX1ZTQlVleGE2VFZndFlkRnV6TEstY0hpTmZjcFM4dU44VXlUaVBpRXY5bDllZ0FTNXJlOEtEZV85OE9tZE9TR0tfVnhTTU5OY2c2elRON1hyYk9ISnlQeHRnSnQ1WUdJM2ROaUhESW1YaWxFRVVpSk1wd1NrckxwMW45ZjhzOTQ1d251NUlPRjNON2Ixcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T03:00:11.000Z",
-      "pub_sort_dt": "2026-09-03 11:00:11"
+      "title_en": "一名美国记者因充当中国的非法代理人，被判处两年联邦监禁 - NBC News",
+      "title_cn": "一名美国记者因照顾中国的非法代理人，被联邦法院判处两年监禁 - NBC News",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxOQ2NLd0xkX0xWZlNRUV9HTERkY0RtTTJUbTJveDltY0h0bnRLWDdoRHZiRlJyQjdvVWdlYWppQjNHclpMQ3hKbW9mZU9NM2lRZnVHcGhyNU5DUmZkdC1EUmJKVFdsTXJjYll4c3ZhR01nQUYyOUZuczRtMGx1bmtRRFBCRnhldXhkUXotanpCajRmQmh4WXRIVlNnQXVsTHZIVHVvMnJoZ3NJNmp4R2tSZktSMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T08:28:20.000Z",
+      "pub_sort_dt": "2026-09-03 16:28:20"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着中国在太平洋地区的影响力不断增强，澳大利亚和美国将加强防务合作 - Reuters",
-      "title_cn": "随着中国在太平洋地区的影响力不断增强，澳大利亚和美国将加强防务合作 - Reuters",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxNMGlQbnNDYmRZNklIT19EZUFaejRPcUNpTENxczFTaVVFczNTOThfQWEtY25pMkJiMDBlQThRS2NhUnpqbjh0bEhEdEpxS25WdjZZNi01bWNkSmFfNThnd01ZN19SWWgwMjQyUE9yd0oyUThiTHhmREF0MlAtV2lUZkJyTGk4d2w0RTZodXNJX2VtdFVRdm1nS1MyRThKZlg0SVNtczlPWWJaT1BBOTFF?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T02:37:43.000Z",
-      "pub_sort_dt": "2026-09-03 10:37:43"
+      "title_en": "中国对石油需求的减少是其首次实现减排的原因 - Reuters",
+      "title_cn": "中国对石油需求减少是其首次实现的原因 - 路透中文网",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxQbk1zSkdxY0hYV1lUVk55aTRqMC1jc3l2cmxLY01UYzQ3SDVoOFBrX0phTXR0Wkd0b1RfNVBMdXBOMFc4OURWTy0xNzM3SEFwOGNiX1k0Uk1TcnZGOTZndldnZzRLajA4V3BfM1ZSZUx3VHFIbmx4anV0TUtQSWFjeW1GSVc3b1QzT1dERlZ1aVpyUzRDSUxNT3VlZFU1dlc0WXNaNXNydWRIcllfNjNMRVZVUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T08:21:50.000Z",
+      "pub_sort_dt": "2026-09-03 16:21:50"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国对石油需求的减少是其首次实现减排的原因",
+      "title_cn": "中国对石油需求减少是其首次实现的原因",
+      "url": "https://reut.rs/3Uol0pc",
+      "pub_raw": "2026-09-03T09:53:24.863Z",
+      "pub_sort_dt": "2026-09-03 17:53:24"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "台湾提议今年额外增加46亿美元国防开支",
+      "title_cn": "台湾提议今年额外增加46亿美元国防开支",
+      "url": "https://reut.rs/4ybxnmW",
+      "pub_raw": "2026-09-03T08:17:49.418Z",
+      "pub_sort_dt": "2026-09-03 16:17:49"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "CNBC将关闭香港办事处，并取消部分每日直播节目",
+      "title_cn": "CNBC将关闭香港办事处，并取消部分每日直播节目",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/cnbc-to-shutter-hong-kong-office-cancel-some-daily-live-shows",
+      "pub_raw": "2026-09-03T07:29:22.906Z",
+      "pub_sort_dt": "2026-09-03 15:29:22"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港置地瞄准日本数十亿美元的房地产交易",
+      "title_cn": "香港置地瞄准日本订单亿美元的房地产交易",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/hongkong-land-eyes-billion-dollar-property-deals-to-enter-japan",
+      "pub_raw": "2026-09-03T06:57:14.474Z",
+      "pub_sort_dt": "2026-09-03 14:57:14"
     },
     {
       "source": "Bloomberg",
       "title_en": "美团盈利预期飙升500%或将提振中国外卖股",
-      "title_cn": "美团盈利预期飙升500%或将提振中国外卖股",
+      "title_cn": "美团盈利预期达到500%或将提振中国外卖股",
       "url": "https://www.bloomberg.com/news/articles/2026-09-02/meituan-s-500-estimate-surge-may-revive-china-delivery-stocks",
       "pub_raw": "2026-09-03T06:41:33.222Z",
       "pub_sort_dt": "2026-09-03 14:41:33"
@@ -353,7 +385,7 @@
     {
       "source": "Reuters",
       "title_en": "从饥饿到肥胖：发展中国家儿童健康面临的新威胁",
-      "title_cn": "从饥饿到肥胖：发展中国家儿童健康面临的新威胁",
+      "title_cn": "从饥饿到营养：发展中国家儿童健康面临新威胁",
       "url": "https://reut.rs/3SHUBSK",
       "pub_raw": "2026-09-03T05:21:24.270Z",
       "pub_sort_dt": "2026-09-03 13:21:24"
@@ -377,7 +409,7 @@
     {
       "source": "Bloomberg",
       "title_en": "Shein的首次公开募股是香港创纪录IPO热潮中的最新里程碑",
-      "title_cn": "Shein的首次公开募股是香港创纪录IPO热潮中的最新里程碑",
+      "title_cn": "Shein首次公开募股是香港创纪录IPO热潮中的最新里程碑",
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-03/shein-s-debut-latest-milestone-in-hong-kong-s-record-ipo-march",
       "pub_raw": "2026-09-03T04:01:44.604Z",
       "pub_sort_dt": "2026-09-03 12:01:44"
@@ -385,7 +417,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国炼油商为一种关键的俄罗斯原油品种支付了双倍溢价",
-      "title_cn": "中国炼油商为一种关键的俄罗斯原油品种支付了双倍溢价",
+      "title_cn": "中国炼油商为俄罗斯原油品种支付双倍溢价",
       "url": "https://www.bloomberg.com/news/articles/2026-09-03/chinese-refiners-pay-double-premiums-for-a-key-russian-oil-grade",
       "pub_raw": "2026-09-03T04:01:44.594Z",
       "pub_sort_dt": "2026-09-03 12:01:44"
@@ -393,7 +425,7 @@
     {
       "source": "Reuters",
       "title_en": "因台风“萨乌德”带来的暴雨引发洪水，中国留学生被困",
-      "title_cn": "因台风“萨乌德”带来的暴雨引发洪水，中国留学生被困",
+      "title_cn": "因台风“萨乌德”带来暴雨引发洪水，中国留学生被困",
       "url": "https://reut.rs/4zULbUD",
       "pub_raw": "2026-09-03T04:01:44.449Z",
       "pub_sort_dt": "2026-09-03 12:01:44"
@@ -409,7 +441,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国服务业景气指数超预期反弹，表现好于市场预测",
-      "title_cn": "中国服务业景气指数超预期反弹，表现好于市场预测",
+      "title_cn": "中国服务业景气指数预期超预期反弹，表现好于市场预测",
       "url": "https://www.bloomberg.com/news/articles/2026-09-03/china-s-services-gauge-exceeds-forecasts-with-surprise-rebound",
       "pub_raw": "2026-09-03T02:57:37.431Z",
       "pub_sort_dt": "2026-09-03 10:57:37"
@@ -417,23 +449,15 @@
     {
       "source": "Reuters",
       "title_en": "国际货币基金组织（IMF）总裁乔治娃表示，债券收益率上升威胁到发展中国家债务问题的解决进展",
-      "title_cn": "国际货币基金组织（IMF）总裁乔治娃表示，债券收益率上升威胁到发展中国家债务问题的解决进展",
+      "title_cn": "国际货币基金组织（IMF）总裁乔治娃表示，债券发展中国家对发展中国家债务问题的解决进展",
       "url": "https://reut.rs/4xAADsl",
       "pub_raw": "2026-09-03T02:41:32.786Z",
       "pub_sort_dt": "2026-09-03 10:41:32"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "香港置地瞄准数十亿美元房地产交易，进军日本市场",
-      "title_cn": "香港置地瞄准数十亿美元房地产交易，进军日本市场",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-03/hongkong-land-eyes-billion-dollar-property-deals-to-enter-japan",
-      "pub_raw": "2026-09-03T01:53:20.812Z",
-      "pub_sort_dt": "2026-09-03 09:53:20"
-    },
-    {
       "source": "Reuters",
       "title_en": "从饥饿到肥胖：发展中国家儿童健康面临日益严峻的威胁",
-      "title_cn": "从饥饿到肥胖：发展中国家儿童健康面临日益严峻的威胁",
+      "title_cn": "从饥饿到营养：发展中国家儿童健康面临严峻的威胁",
       "url": "https://reut.rs/4iagogg",
       "pub_raw": "2026-09-03T00:49:14.961Z",
       "pub_sort_dt": "2026-09-03 08:49:14"
@@ -441,7 +465,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国对石油需求的减弱正在抑制碳排放",
-      "title_cn": "中国对石油需求的减弱正在抑制碳排放",
+      "title_cn": "中国对石油需求的削减正在进行中",
       "url": "https://www.bloomberg.com/news/articles/2026-09-02/china-s-waning-appetite-for-oil-is-keeping-emissions-in-check",
       "pub_raw": "2026-09-03T00:33:14.485Z",
       "pub_sort_dt": "2026-09-03 08:33:14"
@@ -457,7 +481,7 @@
     {
       "source": "Reuters",
       "title_en": "评论：中国虽避开了全球债券市场的暴跌，但原因并不妥当",
-      "title_cn": "评论：中国虽避开了全球债券市场的暴跌，但原因并不妥当",
+      "title_cn": "评论：中国虽然意识到全球债券市场并未暴跌，但原因也当如此",
       "url": "https://reut.rs/3T5dGyl",
       "pub_raw": "2026-09-02T19:13:22.276Z",
       "pub_sort_dt": "2026-09-03 03:13:22"
@@ -465,34 +489,10 @@
     {
       "source": "Bloomberg",
       "title_en": "赖特称，中国无权要求分享委内瑞拉石油收入",
-      "title_cn": "赖特称，中国无权要求分享委内瑞拉石油收入",
+      "title_cn": "赖特称，中国无权要求分摊石油收入",
       "url": "https://www.bloomberg.com/news/articles/2026-09-02/china-won-t-have-claims-to-venezuelan-oil-revenue-wright-says",
       "pub_raw": "2026-09-02T16:01:28.678Z",
       "pub_sort_dt": "2026-09-03 00:01:28"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：消息人士称，尼泊尔将在致命洪灾后重建与中国边境的预警系统",
-      "title_cn": "独家：消息人士称，尼泊尔将在致命洪灾后重建与中国边境的预警系统",
-      "url": "https://reut.rs/4qN0KcM",
-      "pub_raw": "2026-09-02T13:53:23.981Z",
-      "pub_sort_dt": "2026-09-02 21:53:23"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "消息人士称，在中国放宽管控措施后，其成品油出口保持稳定",
-      "title_cn": "消息人士称，在中国放宽管控措施后，其成品油出口保持稳定",
-      "url": "https://reut.rs/4i2psDL",
-      "pub_raw": "2026-09-02T13:21:18.457Z",
-      "pub_sort_dt": "2026-09-02 21:21:18"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "特斯拉中国产电动汽车销量延续增长势头，但增长势头有所减弱",
-      "title_cn": "特斯拉中国产电动汽车销量延续增长势头，但增长势头有所减弱",
-      "url": "https://reut.rs/4wYxz8h",
-      "pub_raw": "2026-09-02T12:33:39.818Z",
-      "pub_sort_dt": "2026-09-02 20:33:39"
     }
   ]
 }
