@@ -1,15 +1,71 @@
 {
-  "update_cst": "2026-09-03 06:01:00 北京时间",
+  "update_cst": "2026-09-03 09:00:59 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 8,
+    "Bloomberg": 6,
     "Financial Times": 1,
     "Wall Street Journal": 1,
-    "Reuters": 10
+    "Reuters": 12
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国科幻作品在世界科幻大会上给粉丝们带来了惊喜与激动 - China Daily Global Edition",
+      "title_cn": "中国科幻作品在世界科幻大会上给粉丝们带来了惊喜和激动 - 中国日报全球版",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxQazZ3TkJ2OTR4ZEh1UXE0SlpBNHZxTS1Ic1UwaTRGOVJTOFV4Z3otZnpaSG5GYV8yS0xmaUtldGlZRmFMQzd3UXhlYU8wM084R3NhSnlrY0ViVkhRT0FZZG51QnBBY1A5V01NX0NId0c1bXN2Q1pjUUlhSDVUWE5wdVln?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T23:46:46.000Z",
+      "pub_sort_dt": "2026-09-03 07:46:46"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在伊朗战争背景下，中国排放量下降，为实现脱碳转折点带来了希望 - The Guardian",
+      "title_cn": "在伊朗战争背景下，中国排放量下降，为实现脱碳转折点带来希望 - 卫报",
+      "url": "https://news.google.com/read/CBMihwFBVV95cUxNaTRVTVY4ZVlrNjVQa1F5ZzhkXzNEN1hDOU55Sjl1Vk1UdTNacTNSM3c3aU9YU3Rqa2JVUkxIUTBYZWJoQUE2UkpSbFhaS1p1SHpPa0FBQVNQU2pwS0Nqejg3SUg5Q2ppR1pqZDg0UW5aLXB0NG42UUtXN3d0eHVvVHhlRG15bkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T23:01:00.000Z",
+      "pub_sort_dt": "2026-09-03 07:01:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "ASML供应商称中国在尖端芯片制造设备方面落后15年 - Bloomberg.com",
+      "title_cn": "ASML供应商称中国在尖端芯片制造设备方面落后15年 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxOVlI0QlZncHZ6VHJhNnIzN1BzUUFPLUg3VFpfYWV1dXR6WVp4VHRMZW0yWmtFM2pQNkllLU9DM2Vyb0s4UV8xVGdEX3pTQnQtdldYQ2hZMmJEeFJNRmNpRUtuZkdpdlhBYUFVdHMzbWx6ZDlORnJhdVVOVFNuUTc3bzV6Z3dFZG85SC1tRkU4WjNPaC1wWlM0d3VqRlJabWxBUndtRG9jcl8xTGcxNGJhemhkX0llUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T23:00:00.000Z",
+      "pub_sort_dt": "2026-09-03 07:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一名美国记者因充当中国的非法代理人，被判处2年联邦监禁 - AP News",
+      "title_cn": "一名美国记者因充当中国的非法代理人，被判处2年联邦监禁 - AP News",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxPajM3al9VNTlJZ3YxUF9IVTNiM3ljSnF4MlJ2N3Vub3FETFZZaGJFdU9FMEp2ZlptS2NELVNRMjVVb2x5cDcyZGIxSUd3V1hPR1hTOFhYa2lqWFFYaWtiTE5CeVFHekg4ak9kR2NCc0FER1h1S1FkV2RyVGhtcm5TRG1lWDlnbFdLTUZqWmhuRmNCbUhrRjRVOTRvUXYtTWZtcXRSaS1mU1M3RWtVcGhaLS1keFp1TUZCcHJJ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T22:47:00.000Z",
+      "pub_sort_dt": "2026-09-03 06:47:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着入籍之争日益激烈，美国议员将矛头指向中国和生育旅游 - South China Morning Post",
+      "title_cn": "随着入籍之争激烈，美国将旅游矛头指向中国和生育 - 南华早报",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxQdWxLSC1xcUpSOXdpU2FkR3l6aUptQ2RFMTc4cVpHS2VuZ0RhTjBoTUg1VXJGTC1Hdks1YzZuTHdxZThEeWRvUURwUzQ1bG1PZV9XVXNFdnhtVGltQXRUMXEwM2E5Q2JDOWZzS3NNZmpqamE1ZUtnOXg3Q3R0a2RRYTNqRDV2U0xLSnprVVhMTGZ1aERBQnN2aV9La2w4QTJtU25Dd3RBLS1BeFZzTWdzSHhRYlZJalA4UjZQSE5YMWbSAcABQVVfeXFMTXE2Q0x2MlNSU1Y0bVlIbG9pOGZfRkVFb09DZlBfZ1RaUklWZ3Q3MDhtZEhUUGNGSm9Ya201NnhROUZyZktrbnlLS1BSZEpqbUZFR0hrc2l1a1ozQjJ1VFNmRXhlV0ZNSlJ2clRmaTROVnFxdHdudWJTRFpSeVlnR0xLMjgtWlZJZGJ4aUlsSV9TWV9GY1dMd0dJZGRqa2JieDI5cUhxVVJib3ZwX1NEemoyanlHWG4wa0RMNE8wQWNL?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T22:18:42.000Z",
+      "pub_sort_dt": "2026-09-03 06:18:42"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "家门口的国际教育：为何越来越多的中国人选择中外合办大学 - South China Morning Post",
+      "title_cn": "家门口的国际教育：为何越来越多的中国人选择中外合办大学 - 南华早报",
+      "url": "https://news.google.com/read/CBMi2AFBVV95cUxQd1duc25NWTZWMkFlX1Rhcm1GQ2lMb19zR2RHNEtPYVl2MFBQWjQ4cFh0NTd3UTJrN0pTcFk2eld3QmJxcEZaYnBOclJOVDZBNjhKU2ZiVU5xekwteFNtT1B6NGZ6enlJUk0yOHo5RVU5S3diSkdERFExUFozYms1TnMtVGNFVUVGMmsxUERaMEJCaEp5cDVqNVYxVkxCb3NCQkRRXzNMbHpFd1ZmZHdVYlBaVW1CVHJvOUd4MUJicHBEb3hxYXdkMExOdF80VWM1aUF5QWQwTFDSAdgBQVVfeXFMTTd6RHhZRzdlMFc2OC1LTDBQVzBVc25nUXJMdDQtblp1SUlpRHl5RE5KcV95WkZkaXlRc1QtbGFjc25uYTJCd0UwYnZnRzUwZE94Vjg2OVY3VGxXSU1CQnpjeVozRnZBTVhFUjJrYWQzNmQzYTdwblVjMmNwVDhFaW9VTU1QLXFXZkJ0b3owakxwdkRlcGdsT1hqRVhfbHlmQ0ZObVFQUmsxNmpRU09CTGpzYWI4RmhhNjFWNUxOTFNTRHMwOXRmT3dkSldoaFBqbHY1bU1yaWdZ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T22:00:15.000Z",
+      "pub_sort_dt": "2026-09-03 06:00:15"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特朗普和习近平将在华盛顿会晤。为何一些中国问题观察家对此期望不高 - CNBC",
+      "title_cn": "特朗普和习近平将在华盛顿会晤。为何一些中国问题观察家对此期望不高 - CNBC",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxQdWtOaVR1Zm5zTG1DdFRobVR4MlJRTi1FSVd4cXpxS2F4cFJpUE5pVDZ6S1lJenNPQlZJUmFSajMzU2R3Tzdsa29XZkcyS0pYTGU2bzZMYXVHNDVjMFEtbzJlZHRWVl9kMGxaX2NVV3pGV2dJN01zUVRnOV9PYVdiUjNGMWttdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T22:00:01.000Z",
+      "pub_sort_dt": "2026-09-03 06:00:01"
+    },
     {
       "source": "China Buzzing",
       "title_en": "随着延误日益加剧，海洋承运商纷纷绕开巴拿马运河和中国港口 - Journal of Commerce",
@@ -28,72 +84,40 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "“中国威胁”增强了对欧盟产业政策的支持力度 - politico.eu",
-      "title_cn": "“中国威胁”增强了对欧盟产业政策的支持力度 - politico.eu",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxOU1BJckVNQXdNVTRwMTV0aUpqTF9PV2dLaHpENlA4Sm9vYnJxVnhickVDODFqdUJXTVlEc2xRdEJxalMzc2xuWVZ6aTM5ZlhTY0VhMV9pclV2Z1cwSDQ5R2hIWERwcEo4MF84cFVKSnhKeGprZVZyTkRvTWVzRl9pdjE2amNGNjB6X1R4Skcwc3Y?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T18:14:00.000Z",
-      "pub_sort_dt": "2026-09-03 02:14:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "贝森特：中国不属于认为“廉价出口”不可持续的国家之列 - The Hill",
-      "title_cn": "贝森特：中国不属于认为“廉价出口”不可持续的国家之列 - The Hill",
-      "url": "https://news.google.com/read/CBMie0FVX3lxTE11WTZURW9KTmdNRWtxbnNXSDJadmZEQkRMUVR6UF9oVEw4NGpsUVBYN0JpbjFMS2hmN0NpX2VkOUhYNUVoVl85NzNQcmxPU2YtdmVna093NF82dXhVQ0xBbi1jNDY3eEd0bFhUQnozeTFseE1Fa2JPLVJfWdIBgAFBVV95cUxPR2tXNjRrVzhRaG1kM2tUN21SQ1pVb1l5UjVEZUNwbzlvdTAzamhnWGdVSHI2aFhyWndnVjIxY292SmpOb19oaVRKMUlZdm1LLXJUNy1yaEZYRGZJNHdqTElGeWNZTjJSSksyTWh4TG9BUTk3RXJwMzBWTGZNWlg4cg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T16:58:00.000Z",
-      "pub_sort_dt": "2026-09-03 00:58:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "喜马拉雅山灾难考验中国作为区域领导者的影响力 - WSJ",
-      "title_cn": "喜马拉雅山灾难考验了中国作为区域领导者的影响力 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxPWG9ITF8zNnZqWjVxWTdVT18zVGZldmFhWnBublgwOFV5cDBYazVjS1ZkZVNTYzR2VHZzbjBVYV91NVlBV2NZMHhnQXY2QVBrTFBQNGV6YmpmTTJ1RjRpREtWdFNjY3d3TTNySmVTSXpFOXNJbnhZZ3ZsV0hJdVpRSWxzXzZPUlNYVXZVdUYzeVFQVFZhcDRhTWhjSTU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T16:23:57.000Z",
-      "pub_sort_dt": "2026-09-03 00:23:57"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国国家主席习近平在罕见的埃及之行中呼吁建立新的中东安全框架 - Al Jazeera",
-      "title_cn": "中国国家主席习近平在罕见的埃及之行中呼吁建立新的中东安全框架 - 半岛电视台",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQUlZXREx3UEo4cEphcFhIdW1MWGlOUHhfcjJkbTJlM29obE5BWTlvQ056dGxDMUQyTXp5UW1ZbC1ZTkhVbDhsRWN6R19QUV9PZGdLMWR4WGtVd1ZIOEJfS2FTbUV5czNMUnFaSldPWWd6S09ES3JVSTVXR05KUFlBYWFpR19NemtLVmtlZEhyWFdaSzRuOC1OdXYwaVhHZmFkb2NTc1hXUDJieXVhajgzdWctTXrSAboBQVVfeXFMTWMtNlhkTk1Dbi1MT0lvRFRnLXBsOGxwdTNxN2p5dm9TVmhKTlY5NU1ZTWxjbElLZVpxQlVXeDZBaGkzR1Vhc3E5Rm5rU3dHTjk2clRZTE81R2hRM0x1Vlk0THlmME5ac0U4eHY4M1duNTZjNVlrNjJ4Yl9qTVhGejdrVlM0dWtucHBoOG1xWTZ2V19SZE1UWi1XVVBwbGhOSDdjUi1JVTVPelVzTjF1Y1o4QTlYOE9LUUNn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T15:45:47.000Z",
-      "pub_sort_dt": "2026-09-02 23:45:47"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国国家主席习近平访问埃及总统塞西：为何此事意义重大 - Al Jazeera",
-      "title_cn": "中国国家主席习近平访问埃及总统塞西：为何进行意义重大 - 半岛电视台",
-      "url": "https://news.google.com/read/CBMijwFBVV95cUxQMXZzQ0xCd3p4SVlJWTBlYWVKVDZ1d2g2UVMwQm5SNEFlaTBwYTdRazNnRmp1VVVVYU93LVZoSEp6Q0VOdWtMQzQ1ek5tb093T0xmVG9mb3F2WEJxUU1QRzVmOEVTX2FOdE1kWjlpbzloeHRaZVFDb0ZlQXZNNWt1TWNLVjc0QmhQZmFOQVp0TdIBlAFBVV95cUxQbTFjUEpVa3FKdVVQOVFDaFo0NUVsUWZ0MmJXaVROTFNoX0xCTlZzU1l3MkFIa3dYZVE0UDduMzNmeEphUVc4d3poTElPdlFtU29RcGZKOHljY0dmM29lVG12RjMzNkZ6R0FsbTc4R3RyVnRETHE2d1NrcUJLTjRoMEEyMF9vaW1ndy16QmVubnI2cDNm?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T15:03:43.000Z",
-      "pub_sort_dt": "2026-09-02 23:03:43"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着中国车企准备在北美站稳脚跟，中国电动汽车市场主导地位的形成是否不可避免？ - CBS News",
-      "title_cn": "随着中国车企准备在北美站稳脚跟，中国电动汽车市场主导地位是否稳固？ - 哥伦比亚广播公司新闻",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxOdjBOc05TaEJMQ3JJaGRla3RiemFVMkNSUFFuZjNMblh4SjY1TnJuRDY3ZC0zY0JGaHhpMGlkZ2xUQnA5bmJlU0NHRU14STUxQ09LYUx6bEwxQnUwZ1F4MGlvX3NHRXVIRXFHeEJORjNoUFpLZnF2WXBNMGlWOWVaamZBYWoxTUNiNDhwUi1BR3I2cXBiclV0aVBNbmlIRTFydVZFTG1B?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T14:39:12.000Z",
-      "pub_sort_dt": "2026-09-02 22:39:12"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国最大的锂矿被吊销采矿许可证 - Mining.com",
-      "title_cn": "中国最大的锂矿被吊销采矿许可证 - Mining.com",
-      "url": "https://news.google.com/read/CBMic0FVX3lxTFA2cVdSbkplYmRCZXhzTVBrYm1fbTFKV2F5MW5DS2RUNGN0cUYxamkwM3NfeGhaZXdXcEZyUDQwRVBFdzFTRUpnSmVWU3JzQzNPakJzZzQ1eG5tUHdGUENCNG1LY2UwUlB4Vkd0dG9JOEFLVG8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T14:20:15.000Z",
-      "pub_sort_dt": "2026-09-02 22:20:15"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“直击要害”：美国支持的企业接管委内瑞拉油田，中国遭受重创 - South China Morning Post",
-      "title_cn": "“直击要害”：美国支持的企业摧毁油田，中国受损重创 - 南华早报",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxQVzFkcHFZZUZXb19ON201ejNYMExld0pDcmJhaTZZQTREalN4TG1hY1NlTldfa2FPT2xlQTRvUUQxYm9MSXg1N2cxNTd5MDg5SDFMTlJwQjRPUkRFX2xLWnZLcGx6ZWdhNFBEWXBhdVpsN2I0Z3hSckRNVlZLdWxNY21yN0hjX3FlSHZtQnZhMXFyY2Zxc2hHZEF4NzdXVHJlb0hWb3g1MzA2SnZGZ0RoUjgtN2E1UUtYMjZOdXc5QnRCWmk4TVExSmhTYmJPQdIBzgFBVV95cUxPVzZXQzlZeV85blIzRVV0YVdCOVROajU3d3FzMFBxNXlPR2tHTURvTVZFbDNzNmxCdVRqOVNlc1FoY0xMdXlaa2IwM3lfUFhEZVFmT2FZTnpoX3pMNWhyMm41M2U0ZFdwU2RCSnBrSm1TaTZoQ25LenpFQjM2d0Z2WGNiM0ZhZGtZUVFJUnY2TFpOTnI2bEtHamp3c1VtUDFiMWFMQ0lxZmxIeTUtQ2FTOW5TSURDTnZFR3hSLVBTSEdNODY2WUpxVEdodWFwdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T14:00:07.000Z",
-      "pub_sort_dt": "2026-09-02 22:00:07"
+      "title_en": "与曾与斯瓦尔韦尔交往的涉嫌中国间谍有关联的组织与中共有联系，并在各办公室派驻人员 - WLUK",
+      "title_cn": "与曾与斯瓦尔韦尔涉嫌的中国间谍有关联的组织与中共有联系，并在各办公室派驻人员 - WLUK",
+      "url": "https://news.google.com/read/CBMi8wFBVV95cUxPei0xMjBaVUNvdElDSjRCV003QVR3LUpWTnpqMUV6UDdZVDEweXBoRVowREsteGpFMThYWFFBZjB5UXdEUk9seW1sTnlrbWQxUnB4NzlGU1h6czdxN294dHJYRmxGcXAxNXRmalUwVW9LTWRyNERDQUlMYm84X19qVTRLbnliNHRmLWJWTkRHX0lTUGkxbndjMGd2SWNkcDZ4QjQxNmVNU2lJUnZWX0pzWG54aHZEa2xPQ3NONTdDVnlwSlI4Rms0T3JIa1RKMmQ0T2h5NE1hV21scFNzQXFwMzBUSHRjTEdyYkYyMnlHZUduNkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T19:51:06.000Z",
+      "pub_sort_dt": "2026-09-03 03:51:06"
     }
   ],
   "media_news": [
     {
       "source": "Reuters",
+      "title_en": "从饥饿到肥胖：发展中国家儿童健康面临日益严峻的威胁",
+      "title_cn": "从饥饿到营养：发展中国家儿童健康面临严峻的威胁",
+      "url": "https://reut.rs/4iagogg",
+      "pub_raw": "2026-09-03T00:49:14.961Z",
+      "pub_sort_dt": "2026-09-03 08:49:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国对石油需求的减弱正在抑制碳排放",
+      "title_cn": "中国对石油需求的减弱正在抑制碳排放",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-02/china-s-waning-appetite-for-oil-is-keeping-emissions-in-check",
+      "pub_raw": "2026-09-03T00:33:14.485Z",
+      "pub_sort_dt": "2026-09-03 08:33:14"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "随着全球创新竞赛日趋白热化，科技朝圣者纷纷涌向中国",
+      "title_cn": "随着全球创新竞赛日趋白热化，科技朝圣者纷纷涌向中国",
+      "url": "https://reut.rs/4gKZdPL",
+      "pub_raw": "2026-09-03T00:33:14.348Z",
+      "pub_sort_dt": "2026-09-03 08:33:14"
+    },
+    {
+      "source": "Reuters",
       "title_en": "评论：中国虽避开了全球债券市场的暴跌，但原因并不妥当",
       "title_cn": "评论：中国虽然意识到全球债券市场并未暴跌，但原因也当如此",
       "url": "https://reut.rs/3T5dGyl",
@@ -227,33 +251,65 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-02/hong-kong-activist-joshua-wong-pleads-guilty-to-collusion-charge",
       "pub_raw": "2026-09-02T03:29:19.178Z",
       "pub_sort_dt": "2026-09-02 11:29:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国取消对外籍人士股息收入的免税政策",
-      "title_cn": "中国取消对外贸易补贴收入的政策补贴",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-removes-tax-exemption-on-foreigner-s-dividend-incomes",
-      "pub_raw": "2026-09-02T01:37:33.012Z",
-      "pub_sort_dt": "2026-09-02 09:37:33"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国债券发行势头将加快，市场目光聚焦于中国人民银行",
-      "title_cn": "中国债券发行浪潮将加速，市场目光聚焦中国人民银行",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/china-bond-sales-set-to-accelerate-putting-focus-on-pboc",
-      "pub_raw": "2026-09-02T01:05:34.863Z",
-      "pub_sort_dt": "2026-09-02 09:05:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "贝森特称，中国因失衡争端阻挠了G20公报的通过",
-      "title_cn": "贝森特称，中国因失衡麻醉公阻力了G20报告的通过",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/bessent-says-china-prevented-g20-communique-over-imbalance-spat",
-      "pub_raw": "2026-09-02T00:01:25.880Z",
-      "pub_sort_dt": "2026-09-02 08:01:25"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国科幻作品在世界科幻大会上给粉丝们带来了惊喜与激动 - China Daily Global Edition",
+      "title_cn": "中国科幻作品在世界科幻大会上给粉丝们带来了惊喜和激动 - 中国日报全球版",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxQazZ3TkJ2OTR4ZEh1UXE0SlpBNHZxTS1Ic1UwaTRGOVJTOFV4Z3otZnpaSG5GYV8yS0xmaUtldGlZRmFMQzd3UXhlYU8wM084R3NhSnlrY0ViVkhRT0FZZG51QnBBY1A5V01NX0NId0c1bXN2Q1pjUUlhSDVUWE5wdVln?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T23:46:46.000Z",
+      "pub_sort_dt": "2026-09-03 07:46:46"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在伊朗战争背景下，中国排放量下降，为实现脱碳转折点带来了希望 - The Guardian",
+      "title_cn": "在伊朗战争背景下，中国排放量下降，为实现脱碳转折点带来希望 - 卫报",
+      "url": "https://news.google.com/read/CBMihwFBVV95cUxNaTRVTVY4ZVlrNjVQa1F5ZzhkXzNEN1hDOU55Sjl1Vk1UdTNacTNSM3c3aU9YU3Rqa2JVUkxIUTBYZWJoQUE2UkpSbFhaS1p1SHpPa0FBQVNQU2pwS0Nqejg3SUg5Q2ppR1pqZDg0UW5aLXB0NG42UUtXN3d0eHVvVHhlRG15bkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T23:01:00.000Z",
+      "pub_sort_dt": "2026-09-03 07:01:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "ASML供应商称中国在尖端芯片制造设备方面落后15年 - Bloomberg.com",
+      "title_cn": "ASML供应商称中国在尖端芯片制造设备方面落后15年 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxOVlI0QlZncHZ6VHJhNnIzN1BzUUFPLUg3VFpfYWV1dXR6WVp4VHRMZW0yWmtFM2pQNkllLU9DM2Vyb0s4UV8xVGdEX3pTQnQtdldYQ2hZMmJEeFJNRmNpRUtuZkdpdlhBYUFVdHMzbWx6ZDlORnJhdVVOVFNuUTc3bzV6Z3dFZG85SC1tRkU4WjNPaC1wWlM0d3VqRlJabWxBUndtRG9jcl8xTGcxNGJhemhkX0llUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T23:00:00.000Z",
+      "pub_sort_dt": "2026-09-03 07:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一名美国记者因充当中国的非法代理人，被判处2年联邦监禁 - AP News",
+      "title_cn": "一名美国记者因充当中国的非法代理人，被判处2年联邦监禁 - AP News",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxPajM3al9VNTlJZ3YxUF9IVTNiM3ljSnF4MlJ2N3Vub3FETFZZaGJFdU9FMEp2ZlptS2NELVNRMjVVb2x5cDcyZGIxSUd3V1hPR1hTOFhYa2lqWFFYaWtiTE5CeVFHekg4ak9kR2NCc0FER1h1S1FkV2RyVGhtcm5TRG1lWDlnbFdLTUZqWmhuRmNCbUhrRjRVOTRvUXYtTWZtcXRSaS1mU1M3RWtVcGhaLS1keFp1TUZCcHJJ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T22:47:00.000Z",
+      "pub_sort_dt": "2026-09-03 06:47:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着入籍之争日益激烈，美国议员将矛头指向中国和生育旅游 - South China Morning Post",
+      "title_cn": "随着入籍之争激烈，美国将旅游矛头指向中国和生育 - 南华早报",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxQdWxLSC1xcUpSOXdpU2FkR3l6aUptQ2RFMTc4cVpHS2VuZ0RhTjBoTUg1VXJGTC1Hdks1YzZuTHdxZThEeWRvUURwUzQ1bG1PZV9XVXNFdnhtVGltQXRUMXEwM2E5Q2JDOWZzS3NNZmpqamE1ZUtnOXg3Q3R0a2RRYTNqRDV2U0xLSnprVVhMTGZ1aERBQnN2aV9La2w4QTJtU25Dd3RBLS1BeFZzTWdzSHhRYlZJalA4UjZQSE5YMWbSAcABQVVfeXFMTXE2Q0x2MlNSU1Y0bVlIbG9pOGZfRkVFb09DZlBfZ1RaUklWZ3Q3MDhtZEhUUGNGSm9Ya201NnhROUZyZktrbnlLS1BSZEpqbUZFR0hrc2l1a1ozQjJ1VFNmRXhlV0ZNSlJ2clRmaTROVnFxdHdudWJTRFpSeVlnR0xLMjgtWlZJZGJ4aUlsSV9TWV9GY1dMd0dJZGRqa2JieDI5cUhxVVJib3ZwX1NEemoyanlHWG4wa0RMNE8wQWNL?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T22:18:42.000Z",
+      "pub_sort_dt": "2026-09-03 06:18:42"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "家门口的国际教育：为何越来越多的中国人选择中外合办大学 - South China Morning Post",
+      "title_cn": "家门口的国际教育：为何越来越多的中国人选择中外合办大学 - 南华早报",
+      "url": "https://news.google.com/read/CBMi2AFBVV95cUxQd1duc25NWTZWMkFlX1Rhcm1GQ2lMb19zR2RHNEtPYVl2MFBQWjQ4cFh0NTd3UTJrN0pTcFk2eld3QmJxcEZaYnBOclJOVDZBNjhKU2ZiVU5xekwteFNtT1B6NGZ6enlJUk0yOHo5RVU5S3diSkdERFExUFozYms1TnMtVGNFVUVGMmsxUERaMEJCaEp5cDVqNVYxVkxCb3NCQkRRXzNMbHpFd1ZmZHdVYlBaVW1CVHJvOUd4MUJicHBEb3hxYXdkMExOdF80VWM1aUF5QWQwTFDSAdgBQVVfeXFMTTd6RHhZRzdlMFc2OC1LTDBQVzBVc25nUXJMdDQtblp1SUlpRHl5RE5KcV95WkZkaXlRc1QtbGFjc25uYTJCd0UwYnZnRzUwZE94Vjg2OVY3VGxXSU1CQnpjeVozRnZBTVhFUjJrYWQzNmQzYTdwblVjMmNwVDhFaW9VTU1QLXFXZkJ0b3owakxwdkRlcGdsT1hqRVhfbHlmQ0ZObVFQUmsxNmpRU09CTGpzYWI4RmhhNjFWNUxOTFNTRHMwOXRmT3dkSldoaFBqbHY1bU1yaWdZ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T22:00:15.000Z",
+      "pub_sort_dt": "2026-09-03 06:00:15"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特朗普和习近平将在华盛顿会晤。为何一些中国问题观察家对此期望不高 - CNBC",
+      "title_cn": "特朗普和习近平将在华盛顿会晤。为何一些中国问题观察家对此期望不高 - CNBC",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxQdWtOaVR1Zm5zTG1DdFRobVR4MlJRTi1FSVd4cXpxS2F4cFJpUE5pVDZ6S1lJenNPQlZJUmFSajMzU2R3Tzdsa29XZkcyS0pYTGU2bzZMYXVHNDVjMFEtbzJlZHRWVl9kMGxaX2NVV3pGV2dJN01zUVRnOV9PYVdiUjNGMWttdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T22:00:01.000Z",
+      "pub_sort_dt": "2026-09-03 06:00:01"
+    },
     {
       "source": "China Buzzing",
       "title_en": "随着延误日益加剧，海洋承运商纷纷绕开巴拿马运河和中国港口 - Journal of Commerce",
@@ -272,67 +328,35 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "“中国威胁”增强了对欧盟产业政策的支持力度 - politico.eu",
-      "title_cn": "“中国威胁”增强了对欧盟产业政策的支持力度 - politico.eu",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxOU1BJckVNQXdNVTRwMTV0aUpqTF9PV2dLaHpENlA4Sm9vYnJxVnhickVDODFqdUJXTVlEc2xRdEJxalMzc2xuWVZ6aTM5ZlhTY0VhMV9pclV2Z1cwSDQ5R2hIWERwcEo4MF84cFVKSnhKeGprZVZyTkRvTWVzRl9pdjE2amNGNjB6X1R4Skcwc3Y?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T18:14:00.000Z",
-      "pub_sort_dt": "2026-09-03 02:14:00"
+      "title_en": "与曾与斯瓦尔韦尔交往的涉嫌中国间谍有关联的组织与中共有联系，并在各办公室派驻人员 - WLUK",
+      "title_cn": "与曾与斯瓦尔韦尔涉嫌的中国间谍有关联的组织与中共有联系，并在各办公室派驻人员 - WLUK",
+      "url": "https://news.google.com/read/CBMi8wFBVV95cUxPei0xMjBaVUNvdElDSjRCV003QVR3LUpWTnpqMUV6UDdZVDEweXBoRVowREsteGpFMThYWFFBZjB5UXdEUk9seW1sTnlrbWQxUnB4NzlGU1h6czdxN294dHJYRmxGcXAxNXRmalUwVW9LTWRyNERDQUlMYm84X19qVTRLbnliNHRmLWJWTkRHX0lTUGkxbndjMGd2SWNkcDZ4QjQxNmVNU2lJUnZWX0pzWG54aHZEa2xPQ3NONTdDVnlwSlI4Rms0T3JIa1RKMmQ0T2h5NE1hV21scFNzQXFwMzBUSHRjTEdyYkYyMnlHZUduNkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-02T19:51:06.000Z",
+      "pub_sort_dt": "2026-09-03 03:51:06"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "贝森特：中国不属于认为“廉价出口”不可持续的国家之列 - The Hill",
-      "title_cn": "贝森特：中国不属于认为“廉价出口”不可持续的国家之列 - The Hill",
-      "url": "https://news.google.com/read/CBMie0FVX3lxTE11WTZURW9KTmdNRWtxbnNXSDJadmZEQkRMUVR6UF9oVEw4NGpsUVBYN0JpbjFMS2hmN0NpX2VkOUhYNUVoVl85NzNQcmxPU2YtdmVna093NF82dXhVQ0xBbi1jNDY3eEd0bFhUQnozeTFseE1Fa2JPLVJfWdIBgAFBVV95cUxPR2tXNjRrVzhRaG1kM2tUN21SQ1pVb1l5UjVEZUNwbzlvdTAzamhnWGdVSHI2aFhyWndnVjIxY292SmpOb19oaVRKMUlZdm1LLXJUNy1yaEZYRGZJNHdqTElGeWNZTjJSSksyTWh4TG9BUTk3RXJwMzBWTGZNWlg4cg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T16:58:00.000Z",
-      "pub_sort_dt": "2026-09-03 00:58:00"
+      "source": "Reuters",
+      "title_en": "从饥饿到肥胖：发展中国家儿童健康面临日益严峻的威胁",
+      "title_cn": "从饥饿到营养：发展中国家儿童健康面临严峻的威胁",
+      "url": "https://reut.rs/4iagogg",
+      "pub_raw": "2026-09-03T00:49:14.961Z",
+      "pub_sort_dt": "2026-09-03 08:49:14"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "喜马拉雅山灾难考验中国作为区域领导者的影响力 - WSJ",
-      "title_cn": "喜马拉雅山灾难考验了中国作为区域领导者的影响力 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxPWG9ITF8zNnZqWjVxWTdVT18zVGZldmFhWnBublgwOFV5cDBYazVjS1ZkZVNTYzR2VHZzbjBVYV91NVlBV2NZMHhnQXY2QVBrTFBQNGV6YmpmTTJ1RjRpREtWdFNjY3d3TTNySmVTSXpFOXNJbnhZZ3ZsV0hJdVpRSWxzXzZPUlNYVXZVdUYzeVFQVFZhcDRhTWhjSTU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T16:23:57.000Z",
-      "pub_sort_dt": "2026-09-03 00:23:57"
+      "source": "Bloomberg",
+      "title_en": "中国对石油需求的减弱正在抑制碳排放",
+      "title_cn": "中国对石油需求的减弱正在抑制碳排放",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-02/china-s-waning-appetite-for-oil-is-keeping-emissions-in-check",
+      "pub_raw": "2026-09-03T00:33:14.485Z",
+      "pub_sort_dt": "2026-09-03 08:33:14"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国国家主席习近平在罕见的埃及之行中呼吁建立新的中东安全框架 - Al Jazeera",
-      "title_cn": "中国国家主席习近平在罕见的埃及之行中呼吁建立新的中东安全框架 - 半岛电视台",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQUlZXREx3UEo4cEphcFhIdW1MWGlOUHhfcjJkbTJlM29obE5BWTlvQ056dGxDMUQyTXp5UW1ZbC1ZTkhVbDhsRWN6R19QUV9PZGdLMWR4WGtVd1ZIOEJfS2FTbUV5czNMUnFaSldPWWd6S09ES3JVSTVXR05KUFlBYWFpR19NemtLVmtlZEhyWFdaSzRuOC1OdXYwaVhHZmFkb2NTc1hXUDJieXVhajgzdWctTXrSAboBQVVfeXFMTWMtNlhkTk1Dbi1MT0lvRFRnLXBsOGxwdTNxN2p5dm9TVmhKTlY5NU1ZTWxjbElLZVpxQlVXeDZBaGkzR1Vhc3E5Rm5rU3dHTjk2clRZTE81R2hRM0x1Vlk0THlmME5ac0U4eHY4M1duNTZjNVlrNjJ4Yl9qTVhGejdrVlM0dWtucHBoOG1xWTZ2V19SZE1UWi1XVVBwbGhOSDdjUi1JVTVPelVzTjF1Y1o4QTlYOE9LUUNn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T15:45:47.000Z",
-      "pub_sort_dt": "2026-09-02 23:45:47"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国国家主席习近平访问埃及总统塞西：为何此事意义重大 - Al Jazeera",
-      "title_cn": "中国国家主席习近平访问埃及总统塞西：为何进行意义重大 - 半岛电视台",
-      "url": "https://news.google.com/read/CBMijwFBVV95cUxQMXZzQ0xCd3p4SVlJWTBlYWVKVDZ1d2g2UVMwQm5SNEFlaTBwYTdRazNnRmp1VVVVYU93LVZoSEp6Q0VOdWtMQzQ1ek5tb093T0xmVG9mb3F2WEJxUU1QRzVmOEVTX2FOdE1kWjlpbzloeHRaZVFDb0ZlQXZNNWt1TWNLVjc0QmhQZmFOQVp0TdIBlAFBVV95cUxQbTFjUEpVa3FKdVVQOVFDaFo0NUVsUWZ0MmJXaVROTFNoX0xCTlZzU1l3MkFIa3dYZVE0UDduMzNmeEphUVc4d3poTElPdlFtU29RcGZKOHljY0dmM29lVG12RjMzNkZ6R0FsbTc4R3RyVnRETHE2d1NrcUJLTjRoMEEyMF9vaW1ndy16QmVubnI2cDNm?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T15:03:43.000Z",
-      "pub_sort_dt": "2026-09-02 23:03:43"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着中国车企准备在北美站稳脚跟，中国电动汽车市场主导地位的形成是否不可避免？ - CBS News",
-      "title_cn": "随着中国车企准备在北美站稳脚跟，中国电动汽车市场主导地位是否稳固？ - 哥伦比亚广播公司新闻",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxOdjBOc05TaEJMQ3JJaGRla3RiemFVMkNSUFFuZjNMblh4SjY1TnJuRDY3ZC0zY0JGaHhpMGlkZ2xUQnA5bmJlU0NHRU14STUxQ09LYUx6bEwxQnUwZ1F4MGlvX3NHRXVIRXFHeEJORjNoUFpLZnF2WXBNMGlWOWVaamZBYWoxTUNiNDhwUi1BR3I2cXBiclV0aVBNbmlIRTFydVZFTG1B?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T14:39:12.000Z",
-      "pub_sort_dt": "2026-09-02 22:39:12"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国最大的锂矿被吊销采矿许可证 - Mining.com",
-      "title_cn": "中国最大的锂矿被吊销采矿许可证 - Mining.com",
-      "url": "https://news.google.com/read/CBMic0FVX3lxTFA2cVdSbkplYmRCZXhzTVBrYm1fbTFKV2F5MW5DS2RUNGN0cUYxamkwM3NfeGhaZXdXcEZyUDQwRVBFdzFTRUpnSmVWU3JzQzNPakJzZzQ1eG5tUHdGUENCNG1LY2UwUlB4Vkd0dG9JOEFLVG8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T14:20:15.000Z",
-      "pub_sort_dt": "2026-09-02 22:20:15"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“直击要害”：美国支持的企业接管委内瑞拉油田，中国遭受重创 - South China Morning Post",
-      "title_cn": "“直击要害”：美国支持的企业摧毁油田，中国受损重创 - 南华早报",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxQVzFkcHFZZUZXb19ON201ejNYMExld0pDcmJhaTZZQTREalN4TG1hY1NlTldfa2FPT2xlQTRvUUQxYm9MSXg1N2cxNTd5MDg5SDFMTlJwQjRPUkRFX2xLWnZLcGx6ZWdhNFBEWXBhdVpsN2I0Z3hSckRNVlZLdWxNY21yN0hjX3FlSHZtQnZhMXFyY2Zxc2hHZEF4NzdXVHJlb0hWb3g1MzA2SnZGZ0RoUjgtN2E1UUtYMjZOdXc5QnRCWmk4TVExSmhTYmJPQdIBzgFBVV95cUxPVzZXQzlZeV85blIzRVV0YVdCOVROajU3d3FzMFBxNXlPR2tHTURvTVZFbDNzNmxCdVRqOVNlc1FoY0xMdXlaa2IwM3lfUFhEZVFmT2FZTnpoX3pMNWhyMm41M2U0ZFdwU2RCSnBrSm1TaTZoQ25LenpFQjM2d0Z2WGNiM0ZhZGtZUVFJUnY2TFpOTnI2bEtHamp3c1VtUDFiMWFMQ0lxZmxIeTUtQ2FTOW5TSURDTnZFR3hSLVBTSEdNODY2WUpxVEdodWFwdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-02T14:00:07.000Z",
-      "pub_sort_dt": "2026-09-02 22:00:07"
+      "source": "Reuters",
+      "title_en": "随着全球创新竞赛日趋白热化，科技朝圣者纷纷涌向中国",
+      "title_cn": "随着全球创新竞赛日趋白热化，科技朝圣者纷纷涌向中国",
+      "url": "https://reut.rs/4gKZdPL",
+      "pub_raw": "2026-09-03T00:33:14.348Z",
+      "pub_sort_dt": "2026-09-03 08:33:14"
     },
     {
       "source": "Reuters",
@@ -469,30 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-02/hong-kong-activist-joshua-wong-pleads-guilty-to-collusion-charge",
       "pub_raw": "2026-09-02T03:29:19.178Z",
       "pub_sort_dt": "2026-09-02 11:29:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国取消对外籍人士股息收入的免税政策",
-      "title_cn": "中国取消对外贸易补贴收入的政策补贴",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/china-removes-tax-exemption-on-foreigner-s-dividend-incomes",
-      "pub_raw": "2026-09-02T01:37:33.012Z",
-      "pub_sort_dt": "2026-09-02 09:37:33"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国债券发行势头将加快，市场目光聚焦于中国人民银行",
-      "title_cn": "中国债券发行浪潮将加速，市场目光聚焦中国人民银行",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/china-bond-sales-set-to-accelerate-putting-focus-on-pboc",
-      "pub_raw": "2026-09-02T01:05:34.863Z",
-      "pub_sort_dt": "2026-09-02 09:05:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "贝森特称，中国因失衡争端阻挠了G20公报的通过",
-      "title_cn": "贝森特称，中国因失衡麻醉公阻力了G20报告的通过",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/bessent-says-china-prevented-g20-communique-over-imbalance-spat",
-      "pub_raw": "2026-09-02T00:01:25.880Z",
-      "pub_sort_dt": "2026-09-02 08:01:25"
     }
   ]
 }
