@@ -1,15 +1,31 @@
 {
-  "update_cst": "2026-09-04 12:00:54 北京时间",
+  "update_cst": "2026-09-04 15:01:05 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 5,
-    "Bloomberg": 9,
-    "Financial Times": 0,
+    "The Economist": 2,
+    "Bloomberg": 12,
+    "Financial Times": 1,
     "Wall Street Journal": 1,
-    "Reuters": 5
+    "Reuters": 4
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国警告美国，G20阻挠争议威胁到即将举行的峰会 - ft.com",
+      "title_cn": "中国警告美国，G20阻挠争议威胁即将举行 - ft.com",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPdTlHaHBLeWdTekJjbGx5TEYySUJSYU9UejV1ck5Ea3VObURwUlNmZVRUd0RFankzbURQNFIzZzZ5WllmdWMyakh6S2QxSlFDdE9rTE5OcGM1dWtJVnFvY1JaUHhzWDZTWHZtVUw5QTRTZ0FIcEpqcUdPSkdMaXJfRmkyYTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-04T04:03:05.000Z",
+      "pub_sort_dt": "2026-09-04 12:03:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "台湾谴责中国在太平洋论坛上的“战狼”行径 - Reuters",
+      "title_cn": "台湾谴责中国在太平洋论坛上的“战狼”路线 - 路透中文网",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxNa2RyVnlyODlKaE9mMTdPcVAyUzkzcmdqeXZZdThQZXFrMjh3dzAtWDVfdWZwWkxieFhCb1Q2T3RZZEFHdjdwY3dhaUZWbTlENm1DSkFXY21EZmJvOVJHMEQzX21rUTUyaHJmaUdNRmZDSGhyLTFSNWxpc0ZFQVF0c1VyNWxXSFZ2eER6amRJZ0xnOFpGUGVRTmNKWEI2allBaVNuVkR5RjdBQzg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-04T03:13:00.000Z",
+      "pub_sort_dt": "2026-09-04 11:13:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "“似乎所有人都已经忘记了”：在西藏，受洪水影响的家庭一边寻找失踪亲人，一边面对中国的沉默 - The Guardian",
@@ -33,6 +49,14 @@
       "url": "https://news.google.com/read/CBMigAFBVV95cUxOTTd5R0FGOXFzYnZVbTFxdGhNSlJoMjdON09wYTdwM1RnVmMtQ0F0UEpfX204ZTQ1aE5PLXdDc0FoNGItMjI0dmVRbTl2c01HSS1qUUZkTDBUbm84V0stWjkwSkU3OHBfMG9IalBVeGhBWS1ZSGRCLW1EekphNWF0dw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-03T21:18:45.000Z",
       "pub_sort_dt": "2026-09-04 05:18:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "为了对抗中国，美国下一代CCA需要承担不同的任务 - Breaking Defense",
+      "title_cn": "为了对抗中国，美国下一代CCA需要承担不同的任务——打破防守",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxQUTNEZ3VmLXhmcDF6SlV5ZzBacUpnMTZ1QmJHcEw3N2d0TGhDdVd1MEVMZ2pjWHhSbWVNUGdFSGFoVURnSmxFTHdFZWttd0sxWUx6aGNxMWVYUk9wWW9ab3pKaGFIWG5ZVUx1MllvT1VmZVlFcURFeGF6d3dUMXVvZ2VLQ3ZIeEJTWGhHT0F0c3VHX1lEcUc0a01oaGplQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T17:56:13.000Z",
+      "pub_sort_dt": "2026-09-04 01:56:13"
     },
     {
       "source": "China Buzzing",
@@ -60,40 +84,72 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "爱尔兰的马丁表示，欧盟面临进一步落后于美国、中国的风险 - Bloomberg.com",
-      "title_cn": "爱尔兰的马丁表示，欧盟面临着进一步担心美国、中国的风险 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxQYVI1RElaekJveXpJZTJNWWZpMFlfOTZWSmQ2WEFmN2Q2Yk14NTRWcEdoenVVRDd3UURJNWxnZVE0VF9Td2FQcnJuZ241UmNuWVFPZnBEc3dDWkhHY3cxTnlHdXE2ZjVLZW5qdXJlcDdkUWFtNlEydC1JSS1xc3ljN1JGclB6WmdmdVRhejJwa1VKZFIzc1AtV24wQV9RQlJrQkEyUHFZNlVSSk41OGpmUF9tbw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T15:34:48.000Z",
-      "pub_sort_dt": "2026-09-03 23:34:48"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中新网络安全团队称已成功入侵最新款Starlink终端 - South China Morning Post",
-      "title_cn": "中新网络安全团队称已成功接入最新款Starlink终端 - 南华早报",
-      "url": "https://news.google.com/read/CBMizAFBVV95cUxOWXlpRnVYLVlwQ2lTQm1KZUJEZmNxbWJiczFZNzV5V1Q2VEc5UkNHcnpoeUdiOUxfVjhPV3VNYlViR2hzUm8yZDg0RUs4TlB1WGREMkJrWW5kcE94LXlaRGI5TGlQMEk3TkFJUjhuS205U2IxTEFyZFV3enF0Tl9NekljMDVZMFdOUEpKYjVKOHhLN041Qmtmb2Z5VnA4Snh3VHJVUFVDRzRrVkRoNjk5RHFTUUtudEs0amwwTHVJck4ySTdiTnFQYzJIa1_SAcwBQVVfeXFMTkJEOWVOazYwRXdJQUJJNUZIZHJTQUJFRTR4R3BqZnJXY195T1F1YkJhSGgtOWsySk9wd3ZRREFmcGtKdENfTmY3Y2JXQkI1Yll3VjlsS3FieWFLWTc4WUl1MVJqMk81QXA2b05ERGFIdElPQm0yNHdtUHJkUTVGakhQN0xMSXlKUmpCNThfMkRuM3l1TU9GM1JESDkya1oyYUw1WUhhX2dyU3VBakRxaDFpSms3OTdHMXV5NlhQLV80TlFwcWNlLWhzc1dh?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T15:00:08.000Z",
-      "pub_sort_dt": "2026-09-03 23:00:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国不怕特朗普对伊朗的施压 - Foreign Policy",
-      "title_cn": "中国不怕特朗普对伊朗的施压 - 外交政策",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxPeFpoeTktNktJUjdSTERRcU1GRHhmNGhHOVVZMmdmdndhSHZETEZUU2FQTUhCZU1NalczZjEzbk9uNndQZHc5STVneWtBNzBZREUwSlVoM3BaMlV5MGQ1bEVkR0puVFNJc1FoQ1FfdVBsdVhLSWRfSnUzaG8zZ1V6c0pOcDVNa0JoUkRQVWFaNC1lbWZzQ0xMM1lZRXp4Z2wtVndsQ1g1NmRjcDFPY1JiaQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T14:59:08.000Z",
-      "pub_sort_dt": "2026-09-03 22:59:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "7月中国风电采购量激增，大型项目带动竞标热潮 - Caixin Global",
-      "title_cn": "7月中国风电采购量激增，大型项目引发竞标热潮 - 财新全球",
-      "url": "https://news.google.com/read/CBMiyAFBVV95cUxNM0phSXhadjFCT3ctZ0k5VXRyUG92SWl4Tm9aYmhoRU5FRkxabThuOEZ6dGRkeHVQT0VDTVVYZUhNNWYzZ2VIVHNEd3dKdzU4bGcyb3ZuZ0ROczVzTEg1WEplMTN0M0NkVHY2bEhrMUpGdXlHODJtbWszZUk4Y3p6MUpYdEwxYnBMVkNvQmp5TGg0eFVwRHVpYU1HMGtPcVpaMlM3VXd1a0lYOVNaN1BiOVBWQkEtWFJfYl9GMDRXLTBWaXpheU00SQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T14:53:00.000Z",
-      "pub_sort_dt": "2026-09-03 22:53:00"
+      "title_en": "赛车运动重返中国大陆的时间再次推迟 - BloodHorse",
+      "title_cn": "赛车运动重返中国大陆的时间再次推迟 - BloodHorse",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxQUTRERDdicmhOb3F0cEJ6Q2RmX2lXUnlwcWlnS2pOY1dyekVRdEhMa3BoMHkzN2dpdkFqb1pmY3F4SlN1dEEtdWMtOXRMeWItamg1bkVYTXlQbTRyTW5YeWs4dzdKM3liTjVhRVU1ODRyVVJaUTV1LVgwdllaT012SE4tcDZkYk94Ym1rcDhVckZNSVBKTThYNmdROGtpdG9nMVAtYmhzVmRMZU8wckJV?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T16:23:00.000Z",
+      "pub_sort_dt": "2026-09-04 00:23:00"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "报告称，韩国在存储芯片领域对中国的领先优势有望进一步扩大",
+      "title_cn": "报告称，韩国在存储芯片领域对中国的领先优势有望进一步扩大",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/korea-s-memory-chip-lead-over-china-set-to-grow-report-says",
+      "pub_raw": "2026-09-04T06:39:23.003Z",
+      "pub_sort_dt": "2026-09-04 14:39:23"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "谷歌中国前负责人李开复：中国将在人工智能覆盖范围方面胜出",
+      "title_cn": "谷歌中国前负责人李开复：中国将在人工智能覆盖范围方面胜出",
+      "url": "https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/",
+      "pub_raw": "2026-09-04T05:19:20.782Z",
+      "pub_sort_dt": "2026-09-04 13:19:20"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国闪存巨头YMTC向标志性IPO迈出关键一步",
+      "title_cn": "中国蛋糕派对YMTC向标志性IPO迈出关键一步",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/china-flash-memory-giant-ymtc-takes-key-step-toward-marquee-ipo",
+      "pub_raw": "2026-09-04T04:31:23.183Z",
+      "pub_sort_dt": "2026-09-04 12:31:23"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "台湾谴责中国在太平洋论坛上的“战狼”行径",
+      "title_cn": "台湾谴责中国在太平洋论坛上的“战狼”行径",
+      "url": "https://reut.rs/4ct9IpT",
+      "pub_raw": "2026-09-04T04:31:23.033Z",
+      "pub_sort_dt": "2026-09-04 12:31:23"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Lululemon在中国面临逆风，季度销售额受挫",
+      "title_cn": "Lululemon在中国面临逆风，季度销售额获满意",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/lululemon-faces-headwinds-in-china-as-quarterly-sales-hit",
+      "pub_raw": "2026-09-04T04:15:24.789Z",
+      "pub_sort_dt": "2026-09-04 12:15:24"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾在韩国艺术展上的争端中罕见地战胜了中国",
+      "title_cn": "台湾在韩国展会上的艺术品中罕见地战胜了中国",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/south-korea-exhibit-allows-taiwan-pavilion-over-chinese-protests",
+      "pub_raw": "2026-09-04T04:15:24.639Z",
+      "pub_sort_dt": "2026-09-04 12:15:24"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "在习近平与特朗普峰会前夕，中国就G20争端对美国予以强力回击",
+      "title_cn": "在习近平与特朗普峰会前夕，中国就G20对美国支持强力回击",
+      "url": "https://www.ft.com/content/443c247b-88fb-4aa5-9aa0-8b819de4ff27?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-04T04:15:24.555Z",
+      "pub_sort_dt": "2026-09-04 12:15:24"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "据称PTT正在考虑针对在台湾上市的莲花制药的各种方案",
       "title_cn": "主张PTT正在考虑针对在台湾上市的莲花制药的各种方案",
       "url": "https://www.bloomberg.com/news/articles/2026-09-04/ptt-is-said-to-consider-options-for-taiwan-listed-lotus-pharma",
@@ -195,65 +251,25 @@
       "url": "https://www.economist.com/china/2026/09/03/why-cant-a-tech-savvy-china-make-its-food-safe",
       "pub_raw": "2026-09-03T13:53:40.444Z",
       "pub_sort_dt": "2026-09-03 21:53:40"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国烧烤界那场严肃而竞争激烈的较量",
-      "title_cn": "中国烧烤界那个场馆激烈而激烈的运动量较大",
-      "url": "https://www.economist.com/china/2026/09/03/the-serious-rivalrous-business-of-chinese-barbecue",
-      "pub_raw": "2026-09-03T13:53:40.434Z",
-      "pub_sort_dt": "2026-09-03 21:53:40"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "各行各业的中国企业正纷纷转向华为",
-      "title_cn": "各行各业的中国企业纷纷转向华为",
-      "url": "https://www.economist.com/business/2026/09/03/chinese-businesses-of-all-stripes-are-turning-to-huawei",
-      "pub_raw": "2026-09-03T13:37:34.597Z",
-      "pub_sort_dt": "2026-09-03 21:37:34"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国禁止与中国有关联的电动汽车制造商后，Polestar下调全年交付预期",
-      "title_cn": "美国禁止与中国有关联的电动汽车制造商后，Polestar增量交付预期",
-      "url": "https://reut.rs/4gUQuLg",
-      "pub_raw": "2026-09-03T13:37:34.072Z",
-      "pub_sort_dt": "2026-09-03 21:37:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国、巴西和美国在稀土领域展开竞争",
-      "title_cn": "中国、巴西和美国在稀土领域展开竞争",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-03/china-and-brazil-and-us-race-for-rare-earths",
-      "pub_raw": "2026-09-03T11:13:30.747Z",
-      "pub_sort_dt": "2026-09-03 19:13:30"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "越南的GSM Taxi可能在香港IPO之前进军美国市场",
-      "title_cn": "越南的GSM出租车可能先于香港IPO进军美国市场",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-03/vietnam-s-gsm-taxi-may-expand-to-us-ahead-of-hong-kong-ipo",
-      "pub_raw": "2026-09-03T11:13:30.736Z",
-      "pub_sort_dt": "2026-09-03 19:13:30"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国试图对房地产市场低迷视而不见",
-      "title_cn": "中国试图对房地产市场低迷视而不见",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/03/china-tries-to-look-past-the-property-slump",
-      "pub_raw": "2026-09-03T10:09:46.395Z",
-      "pub_sort_dt": "2026-09-03 18:09:46"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国对石油需求的减少是其首次实现减排的原因",
-      "title_cn": "中国对石油需求减少是其首次实现的原因",
-      "url": "https://reut.rs/3Uol0pc",
-      "pub_raw": "2026-09-03T09:53:24.863Z",
-      "pub_sort_dt": "2026-09-03 17:53:24"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国警告美国，G20阻挠争议威胁到即将举行的峰会 - ft.com",
+      "title_cn": "中国警告美国，G20阻挠争议威胁即将举行 - ft.com",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPdTlHaHBLeWdTekJjbGx5TEYySUJSYU9UejV1ck5Ea3VObURwUlNmZVRUd0RFankzbURQNFIzZzZ5WllmdWMyakh6S2QxSlFDdE9rTE5OcGM1dWtJVnFvY1JaUHhzWDZTWHZtVUw5QTRTZ0FIcEpqcUdPSkdMaXJfRmkyYTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-04T04:03:05.000Z",
+      "pub_sort_dt": "2026-09-04 12:03:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "台湾谴责中国在太平洋论坛上的“战狼”行径 - Reuters",
+      "title_cn": "台湾谴责中国在太平洋论坛上的“战狼”路线 - 路透中文网",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxNa2RyVnlyODlKaE9mMTdPcVAyUzkzcmdqeXZZdThQZXFrMjh3dzAtWDVfdWZwWkxieFhCb1Q2T3RZZEFHdjdwY3dhaUZWbTlENm1DSkFXY21EZmJvOVJHMEQzX21rUTUyaHJmaUdNRmZDSGhyLTFSNWxpc0ZFQVF0c1VyNWxXSFZ2eER6amRJZ0xnOFpGUGVRTmNKWEI2allBaVNuVkR5RjdBQzg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-04T03:13:00.000Z",
+      "pub_sort_dt": "2026-09-04 11:13:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "“似乎所有人都已经忘记了”：在西藏，受洪水影响的家庭一边寻找失踪亲人，一边面对中国的沉默 - The Guardian",
@@ -277,6 +293,14 @@
       "url": "https://news.google.com/read/CBMigAFBVV95cUxOTTd5R0FGOXFzYnZVbTFxdGhNSlJoMjdON09wYTdwM1RnVmMtQ0F0UEpfX204ZTQ1aE5PLXdDc0FoNGItMjI0dmVRbTl2c01HSS1qUUZkTDBUbm84V0stWjkwSkU3OHBfMG9IalBVeGhBWS1ZSGRCLW1EekphNWF0dw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-03T21:18:45.000Z",
       "pub_sort_dt": "2026-09-04 05:18:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "为了对抗中国，美国下一代CCA需要承担不同的任务 - Breaking Defense",
+      "title_cn": "为了对抗中国，美国下一代CCA需要承担不同的任务——打破防守",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxQUTNEZ3VmLXhmcDF6SlV5ZzBacUpnMTZ1QmJHcEw3N2d0TGhDdVd1MEVMZ2pjWHhSbWVNUGdFSGFoVURnSmxFTHdFZWttd0sxWUx6aGNxMWVYUk9wWW9ab3pKaGFIWG5ZVUx1MllvT1VmZVlFcURFeGF6d3dUMXVvZ2VLQ3ZIeEJTWGhHT0F0c3VHX1lEcUc0a01oaGplQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T17:56:13.000Z",
+      "pub_sort_dt": "2026-09-04 01:56:13"
     },
     {
       "source": "China Buzzing",
@@ -304,35 +328,67 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "爱尔兰的马丁表示，欧盟面临进一步落后于美国、中国的风险 - Bloomberg.com",
-      "title_cn": "爱尔兰的马丁表示，欧盟面临着进一步担心美国、中国的风险 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxQYVI1RElaekJveXpJZTJNWWZpMFlfOTZWSmQ2WEFmN2Q2Yk14NTRWcEdoenVVRDd3UURJNWxnZVE0VF9Td2FQcnJuZ241UmNuWVFPZnBEc3dDWkhHY3cxTnlHdXE2ZjVLZW5qdXJlcDdkUWFtNlEydC1JSS1xc3ljN1JGclB6WmdmdVRhejJwa1VKZFIzc1AtV24wQV9RQlJrQkEyUHFZNlVSSk41OGpmUF9tbw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T15:34:48.000Z",
-      "pub_sort_dt": "2026-09-03 23:34:48"
+      "title_en": "赛车运动重返中国大陆的时间再次推迟 - BloodHorse",
+      "title_cn": "赛车运动重返中国大陆的时间再次推迟 - BloodHorse",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxQUTRERDdicmhOb3F0cEJ6Q2RmX2lXUnlwcWlnS2pOY1dyekVRdEhMa3BoMHkzN2dpdkFqb1pmY3F4SlN1dEEtdWMtOXRMeWItamg1bkVYTXlQbTRyTW5YeWs4dzdKM3liTjVhRVU1ODRyVVJaUTV1LVgwdllaT012SE4tcDZkYk94Ym1rcDhVckZNSVBKTThYNmdROGtpdG9nMVAtYmhzVmRMZU8wckJV?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-03T16:23:00.000Z",
+      "pub_sort_dt": "2026-09-04 00:23:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中新网络安全团队称已成功入侵最新款Starlink终端 - South China Morning Post",
-      "title_cn": "中新网络安全团队称已成功接入最新款Starlink终端 - 南华早报",
-      "url": "https://news.google.com/read/CBMizAFBVV95cUxOWXlpRnVYLVlwQ2lTQm1KZUJEZmNxbWJiczFZNzV5V1Q2VEc5UkNHcnpoeUdiOUxfVjhPV3VNYlViR2hzUm8yZDg0RUs4TlB1WGREMkJrWW5kcE94LXlaRGI5TGlQMEk3TkFJUjhuS205U2IxTEFyZFV3enF0Tl9NekljMDVZMFdOUEpKYjVKOHhLN041Qmtmb2Z5VnA4Snh3VHJVUFVDRzRrVkRoNjk5RHFTUUtudEs0amwwTHVJck4ySTdiTnFQYzJIa1_SAcwBQVVfeXFMTkJEOWVOazYwRXdJQUJJNUZIZHJTQUJFRTR4R3BqZnJXY195T1F1YkJhSGgtOWsySk9wd3ZRREFmcGtKdENfTmY3Y2JXQkI1Yll3VjlsS3FieWFLWTc4WUl1MVJqMk81QXA2b05ERGFIdElPQm0yNHdtUHJkUTVGakhQN0xMSXlKUmpCNThfMkRuM3l1TU9GM1JESDkya1oyYUw1WUhhX2dyU3VBakRxaDFpSms3OTdHMXV5NlhQLV80TlFwcWNlLWhzc1dh?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T15:00:08.000Z",
-      "pub_sort_dt": "2026-09-03 23:00:08"
+      "source": "Bloomberg",
+      "title_en": "报告称，韩国在存储芯片领域对中国的领先优势有望进一步扩大",
+      "title_cn": "报告称，韩国在存储芯片领域对中国的领先优势有望进一步扩大",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/korea-s-memory-chip-lead-over-china-set-to-grow-report-says",
+      "pub_raw": "2026-09-04T06:39:23.003Z",
+      "pub_sort_dt": "2026-09-04 14:39:23"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国不怕特朗普对伊朗的施压 - Foreign Policy",
-      "title_cn": "中国不怕特朗普对伊朗的施压 - 外交政策",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxPeFpoeTktNktJUjdSTERRcU1GRHhmNGhHOVVZMmdmdndhSHZETEZUU2FQTUhCZU1NalczZjEzbk9uNndQZHc5STVneWtBNzBZREUwSlVoM3BaMlV5MGQ1bEVkR0puVFNJc1FoQ1FfdVBsdVhLSWRfSnUzaG8zZ1V6c0pOcDVNa0JoUkRQVWFaNC1lbWZzQ0xMM1lZRXp4Z2wtVndsQ1g1NmRjcDFPY1JiaQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T14:59:08.000Z",
-      "pub_sort_dt": "2026-09-03 22:59:08"
+      "source": "Bloomberg",
+      "title_en": "谷歌中国前负责人李开复：中国将在人工智能覆盖范围方面胜出",
+      "title_cn": "谷歌中国前负责人李开复：中国将在人工智能覆盖范围方面胜出",
+      "url": "https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/",
+      "pub_raw": "2026-09-04T05:19:20.782Z",
+      "pub_sort_dt": "2026-09-04 13:19:20"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "7月中国风电采购量激增，大型项目带动竞标热潮 - Caixin Global",
-      "title_cn": "7月中国风电采购量激增，大型项目引发竞标热潮 - 财新全球",
-      "url": "https://news.google.com/read/CBMiyAFBVV95cUxNM0phSXhadjFCT3ctZ0k5VXRyUG92SWl4Tm9aYmhoRU5FRkxabThuOEZ6dGRkeHVQT0VDTVVYZUhNNWYzZ2VIVHNEd3dKdzU4bGcyb3ZuZ0ROczVzTEg1WEplMTN0M0NkVHY2bEhrMUpGdXlHODJtbWszZUk4Y3p6MUpYdEwxYnBMVkNvQmp5TGg0eFVwRHVpYU1HMGtPcVpaMlM3VXd1a0lYOVNaN1BiOVBWQkEtWFJfYl9GMDRXLTBWaXpheU00SQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-03T14:53:00.000Z",
-      "pub_sort_dt": "2026-09-03 22:53:00"
+      "source": "Bloomberg",
+      "title_en": "中国闪存巨头YMTC向标志性IPO迈出关键一步",
+      "title_cn": "中国蛋糕派对YMTC向标志性IPO迈出关键一步",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/china-flash-memory-giant-ymtc-takes-key-step-toward-marquee-ipo",
+      "pub_raw": "2026-09-04T04:31:23.183Z",
+      "pub_sort_dt": "2026-09-04 12:31:23"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "台湾谴责中国在太平洋论坛上的“战狼”行径",
+      "title_cn": "台湾谴责中国在太平洋论坛上的“战狼”行径",
+      "url": "https://reut.rs/4ct9IpT",
+      "pub_raw": "2026-09-04T04:31:23.033Z",
+      "pub_sort_dt": "2026-09-04 12:31:23"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Lululemon在中国面临逆风，季度销售额受挫",
+      "title_cn": "Lululemon在中国面临逆风，季度销售额获满意",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/lululemon-faces-headwinds-in-china-as-quarterly-sales-hit",
+      "pub_raw": "2026-09-04T04:15:24.789Z",
+      "pub_sort_dt": "2026-09-04 12:15:24"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾在韩国艺术展上的争端中罕见地战胜了中国",
+      "title_cn": "台湾在韩国展会上的艺术品中罕见地战胜了中国",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/south-korea-exhibit-allows-taiwan-pavilion-over-chinese-protests",
+      "pub_raw": "2026-09-04T04:15:24.639Z",
+      "pub_sort_dt": "2026-09-04 12:15:24"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "在习近平与特朗普峰会前夕，中国就G20争端对美国予以强力回击",
+      "title_cn": "在习近平与特朗普峰会前夕，中国就G20对美国支持强力回击",
+      "url": "https://www.ft.com/content/443c247b-88fb-4aa5-9aa0-8b819de4ff27?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-04T04:15:24.555Z",
+      "pub_sort_dt": "2026-09-04 12:15:24"
     },
     {
       "source": "Bloomberg",
@@ -437,62 +493,6 @@
       "url": "https://www.economist.com/china/2026/09/03/why-cant-a-tech-savvy-china-make-its-food-safe",
       "pub_raw": "2026-09-03T13:53:40.444Z",
       "pub_sort_dt": "2026-09-03 21:53:40"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国烧烤界那场严肃而竞争激烈的较量",
-      "title_cn": "中国烧烤界那个场馆激烈而激烈的运动量较大",
-      "url": "https://www.economist.com/china/2026/09/03/the-serious-rivalrous-business-of-chinese-barbecue",
-      "pub_raw": "2026-09-03T13:53:40.434Z",
-      "pub_sort_dt": "2026-09-03 21:53:40"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "各行各业的中国企业正纷纷转向华为",
-      "title_cn": "各行各业的中国企业纷纷转向华为",
-      "url": "https://www.economist.com/business/2026/09/03/chinese-businesses-of-all-stripes-are-turning-to-huawei",
-      "pub_raw": "2026-09-03T13:37:34.597Z",
-      "pub_sort_dt": "2026-09-03 21:37:34"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国禁止与中国有关联的电动汽车制造商后，Polestar下调全年交付预期",
-      "title_cn": "美国禁止与中国有关联的电动汽车制造商后，Polestar增量交付预期",
-      "url": "https://reut.rs/4gUQuLg",
-      "pub_raw": "2026-09-03T13:37:34.072Z",
-      "pub_sort_dt": "2026-09-03 21:37:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国、巴西和美国在稀土领域展开竞争",
-      "title_cn": "中国、巴西和美国在稀土领域展开竞争",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-03/china-and-brazil-and-us-race-for-rare-earths",
-      "pub_raw": "2026-09-03T11:13:30.747Z",
-      "pub_sort_dt": "2026-09-03 19:13:30"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "越南的GSM Taxi可能在香港IPO之前进军美国市场",
-      "title_cn": "越南的GSM出租车可能先于香港IPO进军美国市场",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-03/vietnam-s-gsm-taxi-may-expand-to-us-ahead-of-hong-kong-ipo",
-      "pub_raw": "2026-09-03T11:13:30.736Z",
-      "pub_sort_dt": "2026-09-03 19:13:30"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国试图对房地产市场低迷视而不见",
-      "title_cn": "中国试图对房地产市场低迷视而不见",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/03/china-tries-to-look-past-the-property-slump",
-      "pub_raw": "2026-09-03T10:09:46.395Z",
-      "pub_sort_dt": "2026-09-03 18:09:46"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国对石油需求的减少是其首次实现减排的原因",
-      "title_cn": "中国对石油需求减少是其首次实现的原因",
-      "url": "https://reut.rs/3Uol0pc",
-      "pub_raw": "2026-09-03T09:53:24.863Z",
-      "pub_sort_dt": "2026-09-03 17:53:24"
     }
   ]
 }
