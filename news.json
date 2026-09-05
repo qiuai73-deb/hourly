@@ -1,15 +1,23 @@
 {
-  "update_cst": "2026-09-05 15:01:02 北京时间",
+  "update_cst": "2026-09-05 18:00:50 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 11,
+    "Bloomberg": 10,
     "Financial Times": 1,
     "Wall Street Journal": 1,
-    "Reuters": 7
+    "Reuters": 8
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国将开通连接香港与北京的2370公里铁路的最后一段 - South China Morning Post",
+      "title_cn": "中国将开通连接北京的2370公里铁路的最后一段 - 南华早报",
+      "url": "https://news.google.com/read/CBMi1gFBVV95cUxNYmRxekxneWRibVZjeDJJZmVpZ1NBYUhpWHhsamtZRWk1SlotbzZ1YTktcTlpOHRXRXlYWElCcWZwRWlpM21iTURjVlV2UTJnSFZST2NoSjdTNmJGYTZzY0FiTkVvbGVVUG1JdzdTNWw4N1U0cXlQeGVHekRwZkhJZWpDcUJQaFJhbzJmdE1aVjYzbWhsMU9yajUzQXFlT0NVNWtuU2JaSFhsd3NBRmZNb01tb0oxVkVaU1BTUmdzdzQxdXVtaU9hdWV5bHF5eTdOTHYyX1B30gHWAUFVX3lxTE9lSDQ2Q0pxX1JJWHNLc24wQUJIakFnZEEzTC1SdFdhYzRpNzBMWHJJRm1HeWlDbkJXWGo2c201eFZsVlFSX2xRNTFVNEV2b01oQk1ueE5sclk0R3ZKZDR5ZTFIckVRcE1ORjF2VE9YVXphdHIzWmNDcTBkQkl6M0t5c3ZpcU5uNXRFbGFoMUxhZGRuWWx5MjhSYmNYMTN0SnRDSjNXOFE0d1Fjci1fanp0bTVkdXgxUmhWRHlFV0UwVF8yZ180R3c4QU5WSW9oaDJpd2JHMVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-05T03:00:12.000Z",
+      "pub_sort_dt": "2026-09-05 11:00:12"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国企业盈利激增26%，却在股市遭遇重挫 - Bloomberg.com",
@@ -81,19 +89,19 @@
       "url": "https://news.google.com/read/CBMirwFBVV95cUxNRE1VVlFJOXpWOUdEVE5xVXNHQ2lFWWtxUkhSSGJMeGp5SVpBdzMtM0ZxUVNMYlJCRXlGYlY3M0ZkMHN4SDRUZzRYUG51OW1Wcnp2WFp2bGpyc3hyMFUxdUlhcEJBZVUyNnU2V1RoN3EzbVF5ZFFKNXBHOFBOblVac19XdmpLMXNBZXgyZU02Y1ROVmhqZU9tLTNOZDBNMnpvcUJ1SlAwTjAwMU16R09Z?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-04T13:26:00.000Z",
       "pub_sort_dt": "2026-09-04 21:26:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着中美人工智能竞赛延伸至开罗，埃及面临一项战略抉择 - Al Jazeera",
-      "title_cn": "随着中美人工智能竞赛的延伸至开罗，埃及面临一项战略抉择",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxQRGNHNE9YLWhaMGFDT1VmT21wX2hGX2psTFBSSlVTWUY1aXlTenlDU0xYelEzTzE5b01nemtIN3Y2OURJUGpCTWFlTGVNS3JfS3JGQUl6OXZOLWVsdGFvcmRJUW5GekRPQTBaSGNfMzl5RXNKX256WjBzb0FEU0lfSEFEQmFoN0pYWFJmYkFDZEt6RFFHQXR5QjNnb0RnbDFGZXduT0N0UjlLR1ZZWm040gG0AUFVX3lxTFBGWWxicUFHOFd5QjJ3LTR1bVFiV2JtMWV3Ny1fQWp0U216eHQ1TExYM1pWWERUVnNxbWFqSWJEQVh3S0VFRUFsaFJRTml0TzZ2eXo5VkdDbGRhUlFSdEVnaHhOZDBhZXFtTWlTcU5Sbm5jTlFIYTNmXzR2enBQTVdhenhqaHVDcnhrbF9GRWtEWnBFTFp5MHVZSVR1aHlIQzAzTWJNT1lTZVZYNmNGelExZWdXSg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-04T12:40:39.000Z",
-      "pub_sort_dt": "2026-09-04 20:40:39"
     }
   ],
   "media_news": [
     {
       "source": "Reuters",
+      "title_en": "两名尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
+      "title_cn": "尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
+      "url": "https://reut.rs/4iesEMC",
+      "pub_raw": "2026-09-05T09:15:48.752Z",
+      "pub_sort_dt": "2026-09-05 17:15:48"
+    },
+    {
+      "source": "Reuters",
       "title_en": "据央视报道，中国江西省发生山体滑坡，逾10人被困",
       "title_cn": "据央视报道，中国江西省发生山体滑坡，逾10人被困",
       "url": "https://reut.rs/3SNT7WU",
@@ -243,17 +251,17 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-04/korea-s-memory-chip-lead-over-china-set-to-grow-report-says",
       "pub_raw": "2026-09-04T06:39:23.003Z",
       "pub_sort_dt": "2026-09-04 14:39:23"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "谷歌中国前负责人李开复：中国将在人工智能覆盖范围方面胜出",
-      "title_cn": "谷歌中国前负责人李开复：中国将在人工智能覆盖范围方面胜出",
-      "url": "https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/",
-      "pub_raw": "2026-09-04T05:19:20.782Z",
-      "pub_sort_dt": "2026-09-04 13:19:20"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国将开通连接香港与北京的2370公里铁路的最后一段 - South China Morning Post",
+      "title_cn": "中国将开通连接北京的2370公里铁路的最后一段 - 南华早报",
+      "url": "https://news.google.com/read/CBMi1gFBVV95cUxNYmRxekxneWRibVZjeDJJZmVpZ1NBYUhpWHhsamtZRWk1SlotbzZ1YTktcTlpOHRXRXlYWElCcWZwRWlpM21iTURjVlV2UTJnSFZST2NoSjdTNmJGYTZzY0FiTkVvbGVVUG1JdzdTNWw4N1U0cXlQeGVHekRwZkhJZWpDcUJQaFJhbzJmdE1aVjYzbWhsMU9yajUzQXFlT0NVNWtuU2JaSFhsd3NBRmZNb01tb0oxVkVaU1BTUmdzdzQxdXVtaU9hdWV5bHF5eTdOTHYyX1B30gHWAUFVX3lxTE9lSDQ2Q0pxX1JJWHNLc24wQUJIakFnZEEzTC1SdFdhYzRpNzBMWHJJRm1HeWlDbkJXWGo2c201eFZsVlFSX2xRNTFVNEV2b01oQk1ueE5sclk0R3ZKZDR5ZTFIckVRcE1ORjF2VE9YVXphdHIzWmNDcTBkQkl6M0t5c3ZpcU5uNXRFbGFoMUxhZGRuWWx5MjhSYmNYMTN0SnRDSjNXOFE0d1Fjci1fanp0bTVkdXgxUmhWRHlFV0UwVF8yZ180R3c4QU5WSW9oaDJpd2JHMVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-05T03:00:12.000Z",
+      "pub_sort_dt": "2026-09-05 11:00:12"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国企业盈利激增26%，却在股市遭遇重挫 - Bloomberg.com",
@@ -327,12 +335,12 @@
       "pub_sort_dt": "2026-09-04 21:26:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "随着中美人工智能竞赛延伸至开罗，埃及面临一项战略抉择 - Al Jazeera",
-      "title_cn": "随着中美人工智能竞赛的延伸至开罗，埃及面临一项战略抉择",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxQRGNHNE9YLWhaMGFDT1VmT21wX2hGX2psTFBSSlVTWUY1aXlTenlDU0xYelEzTzE5b01nemtIN3Y2OURJUGpCTWFlTGVNS3JfS3JGQUl6OXZOLWVsdGFvcmRJUW5GekRPQTBaSGNfMzl5RXNKX256WjBzb0FEU0lfSEFEQmFoN0pYWFJmYkFDZEt6RFFHQXR5QjNnb0RnbDFGZXduT0N0UjlLR1ZZWm040gG0AUFVX3lxTFBGWWxicUFHOFd5QjJ3LTR1bVFiV2JtMWV3Ny1fQWp0U216eHQ1TExYM1pWWERUVnNxbWFqSWJEQVh3S0VFRUFsaFJRTml0TzZ2eXo5VkdDbGRhUlFSdEVnaHhOZDBhZXFtTWlTcU5Sbm5jTlFIYTNmXzR2enBQTVdhenhqaHVDcnhrbF9GRWtEWnBFTFp5MHVZSVR1aHlIQzAzTWJNT1lTZVZYNmNGelExZWdXSg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-04T12:40:39.000Z",
-      "pub_sort_dt": "2026-09-04 20:40:39"
+      "source": "Reuters",
+      "title_en": "两名尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
+      "title_cn": "尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
+      "url": "https://reut.rs/4iesEMC",
+      "pub_raw": "2026-09-05T09:15:48.752Z",
+      "pub_sort_dt": "2026-09-05 17:15:48"
     },
     {
       "source": "Reuters",
@@ -485,14 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-04/korea-s-memory-chip-lead-over-china-set-to-grow-report-says",
       "pub_raw": "2026-09-04T06:39:23.003Z",
       "pub_sort_dt": "2026-09-04 14:39:23"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "谷歌中国前负责人李开复：中国将在人工智能覆盖范围方面胜出",
-      "title_cn": "谷歌中国前负责人李开复：中国将在人工智能覆盖范围方面胜出",
-      "url": "https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/",
-      "pub_raw": "2026-09-04T05:19:20.782Z",
-      "pub_sort_dt": "2026-09-04 13:19:20"
     }
   ]
 }
