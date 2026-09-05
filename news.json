@@ -1,13 +1,13 @@
 {
-  "update_cst": "2026-09-05 09:00:50 北京时间",
+  "update_cst": "2026-09-05 12:00:53 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 11,
+    "Bloomberg": 12,
     "Financial Times": 1,
     "Wall Street Journal": 1,
-    "Reuters": 7
+    "Reuters": 6
   },
   "china_news": [
     {
@@ -94,6 +94,14 @@
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "香港的李某表示，该市将在“十二五”规划中扩大离岸人民币的使用范围",
+      "title_cn": "香港的李某表示，该市将在“十二五”规划中扩大离岸人民币的使用范围",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-05/hk-s-lee-says-city-to-expand-offshore-yuan-usage-in-5-year-plan",
+      "pub_raw": "2026-09-05T03:11:13.809Z",
+      "pub_sort_dt": "2026-09-05 11:11:13"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "香港的“Flat Iron”进军香肠卷行业却遭遇挫折",
       "title_cn": "香港的“扁铁”进军香肠卷行业却遭遇苦难",
       "url": "https://www.bloomberg.com/news/articles/2026-09-05/hong-kong-s-flat-iron-bumbles-foray-into-the-sausage-roll-business",
@@ -242,14 +250,6 @@
       "title_cn": "中国蛋糕派对YMTC向标志性IPO迈出关键一步",
       "url": "https://www.bloomberg.com/news/articles/2026-09-04/china-flash-memory-giant-ymtc-takes-key-step-toward-marquee-ipo",
       "pub_raw": "2026-09-04T04:31:23.183Z",
-      "pub_sort_dt": "2026-09-04 12:31:23"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾谴责中国在太平洋论坛上的“战狼”行径",
-      "title_cn": "台湾谴责中国在太平洋论坛上的“战狼”行径",
-      "url": "https://reut.rs/4ct9IpT",
-      "pub_raw": "2026-09-04T04:31:23.033Z",
       "pub_sort_dt": "2026-09-04 12:31:23"
     }
   ],
@@ -336,6 +336,14 @@
     },
     {
       "source": "Bloomberg",
+      "title_en": "香港的李某表示，该市将在“十二五”规划中扩大离岸人民币的使用范围",
+      "title_cn": "香港的李某表示，该市将在“十二五”规划中扩大离岸人民币的使用范围",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-05/hk-s-lee-says-city-to-expand-offshore-yuan-usage-in-5-year-plan",
+      "pub_raw": "2026-09-05T03:11:13.809Z",
+      "pub_sort_dt": "2026-09-05 11:11:13"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "香港的“Flat Iron”进军香肠卷行业却遭遇挫折",
       "title_cn": "香港的“扁铁”进军香肠卷行业却遭遇苦难",
       "url": "https://www.bloomberg.com/news/articles/2026-09-05/hong-kong-s-flat-iron-bumbles-foray-into-the-sausage-roll-business",
@@ -484,14 +492,6 @@
       "title_cn": "中国蛋糕派对YMTC向标志性IPO迈出关键一步",
       "url": "https://www.bloomberg.com/news/articles/2026-09-04/china-flash-memory-giant-ymtc-takes-key-step-toward-marquee-ipo",
       "pub_raw": "2026-09-04T04:31:23.183Z",
-      "pub_sort_dt": "2026-09-04 12:31:23"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾谴责中国在太平洋论坛上的“战狼”行径",
-      "title_cn": "台湾谴责中国在太平洋论坛上的“战狼”行径",
-      "url": "https://reut.rs/4ct9IpT",
-      "pub_raw": "2026-09-04T04:31:23.033Z",
       "pub_sort_dt": "2026-09-04 12:31:23"
     }
   ]
