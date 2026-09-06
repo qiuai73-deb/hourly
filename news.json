@@ -1,22 +1,70 @@
 {
-  "update_cst": "2026-09-06 18:01:01 北京时间",
+  "update_cst": "2026-09-06 22:01:01 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 10,
-    "Financial Times": 2,
+    "The Economist": 1,
+    "Bloomberg": 9,
+    "Financial Times": 3,
     "Wall Street Journal": 1,
-    "Reuters": 7
+    "Reuters": 6
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "在罕见的密集出访中，习近平将中国塑造成特朗普治下美国的稳定替代选择 - The Washington Post",
+      "title_cn": "在罕见的密集访问中，习近平将中国工艺变成了特朗普治下美国的稳定替代选择 - 《华盛顿邮报》",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxQSHNQWGdEV1JmZlhQZEZCY0lLRm5HX1FxVjBlY255bHVzZUs1M1RfRDN4SVZkYW5peUNqX1c3NWVSQURsYTQtcmtjUHpMc3BwVVQxNk11RFppeDYwOHZqRXlmdmxhanlhQ0p1TXBrS3AtVll2RW9XdF9iODZIcWZMZDFlYkZWbHowYUVqb0VOdk56ZUZBVzNGV0wzVnkzTS10MEhDaTNIWko2Mk1hby1VNHBJNDRFeVFm?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-06T11:33:15.000Z",
+      "pub_sort_dt": "2026-09-06 19:33:15"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "卡塔尔总理即将访问中国 - Anadolu Ajansı",
+      "title_cn": "卡塔尔总理即将访问中国 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMie0FVX3lxTE11LWdwaFJZcW9NZlFUTThaQmdPZ0J5TDhSRk51dFlldTZ6Y0V1dy16VWhrejQ3My1nemhYbG5YUjZaX3Z4cV9JY25TdGh4UkNaNDJhWHBnZ2N1Nl9WZHZBTkRJaW1oQUhpeWEzLUZVSkdwUkNvYXg5LWFOYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-06T11:26:36.000Z",
+      "pub_sort_dt": "2026-09-06 19:26:36"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在中国的一户尼泊尔洪灾幸存者家庭，在焦急等待数日后终于松了一口气 - Politico",
+      "title_cn": "在中国的一户尼泊尔洪灾家庭，在焦急等待数日后终于松了一口气 - Politico",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxQY0hDX2RwTTg5cnI2d1VqQmEtQ2cyOG9YRmljMlZTVjBfNnRHbjdtUW9tV25oXzFwZV93c2VlYUhCWmlYdTFhX2J4WmxjNmhleTg0emZrcXNFSVlZdEFZMExsOGdaNVdaSGI0OVVrT1BTaE9tMGRwSks2dC0zVUs5anBMT0d3Z1AzSTFiQmpHamRGOVBoMXhiQnNhSWdzRkpLUWhzdjBMSHF3UzZuTGE3ZWxNU3NKakJtTENoM29TbVVzbmst?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-06T11:14:00.000Z",
+      "pub_sort_dt": "2026-09-06 19:14:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在中国的一户尼泊尔洪灾幸存者家庭，在焦急等待数日后终于松了一口气 - AP News",
+      "title_cn": "在中国的一户尼泊尔洪灾家庭，在焦急等待数日后终于松了一口气 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxPbjlaLXBxbVRNZVJ3dFRxZWxMSk9BbGdDQ0VRVEJGd1g4U1Z0aW1QQjhXVEUtMjFCVDNHQWJ4T1NEa0FjWHMxWU1ndXkwNTkwd1dLZzBoaE5NT0V5WnEzNFR4ZmN1aDlzdlhsZ1NXRlRTaWFxdDVsUFlRTndKNWJnaTZBYWZLMzV2eUFXbTRUZHV1SHdSblhQV0hWSmU0Y19MYnFFVg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-06T09:44:00.000Z",
+      "pub_sort_dt": "2026-09-06 17:44:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一家被列入黑名单的中国科技巨头是如何持续收购美国最顶尖的人工智能芯片的 - The New York Times",
+      "title_cn": "一家被列入黑名单的中国科技巨头是如何持续收购美国最顶尖的人工智能芯片的 - 纽约时报",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-06T09:00:58.000Z",
+      "pub_sort_dt": "2026-09-06 17:00:58"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "在被洪水摧毁的中尼边境，曾经繁忙的港口已不见踪影 - Reuters",
-      "title_cn": "在被洪水摧毁的中尼边境，曾经繁忙的港口已不见踪影 - Reuters",
+      "title_cn": "在被洪水摧毁的中尼边境，曾经昏暗的港口已不见踪影 - Reuters",
       "url": "https://news.google.com/read/CBMiwAFBVV95cUxQbndid2VJNko4cVpiOGlLdFlhX0JEN0trbG1oWjh0cTlsdml4SVF1TWNtTFY0Vlp2ckhTb2JOR3NaZ0hoTThOeG9JRWlTVVd3djNKRFpwWnk3eGxEYTM5bkVKSmloRm4wQnptWUlyTGE3a1FpOEpyQ1pRbFFSX2V2VE5iN2ZTN2EyRzdwaUh0R0d4cFI3NFMyWjhSNTJWOGQ2RnVsM2FZcmtIZmNzQXpCUk9vblhPOUw4WXNBd1V5LTI?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-06T08:17:00.000Z",
       "pub_sort_dt": "2026-09-06 16:17:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国东部发生山体滑坡，造成2人死亡、10人失踪 - Anadolu Ajansı",
+      "title_cn": "中国东部发生山体滑坡，造成2人死亡、10人失踪 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxQd3RuRGFFLTY4dFF0UGw3cmhaUFJQY2FQdVNBMU5YcExzcmFwb3hCdTB3Z3I0bEx0aGllVndVT2dSUVgtZVRNdld5Y0x2RW9QaDhKbm1Kc0lKNE9TMHBEeVlOZWQzM0ZXelVmMDNOS2xnYjNILXV5T0RVU1VlY2lqeDBWRHlmak51T29jZzI0Tk9PWWRURHpjS21mNkNOZ25k?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-06T08:05:16.000Z",
+      "pub_sort_dt": "2026-09-06 16:05:16"
     },
     {
       "source": "China Buzzing",
@@ -29,7 +77,7 @@
     {
       "source": "China Buzzing",
       "title_en": "面对严峻的就业市场，中国应届毕业生还必须应对人工智能的挑战。 - The New York Times",
-      "title_cn": "面对严峻的就业市场，中国应届毕业生还必须应对人工智能的挑战。 - The New York Times",
+      "title_cn": "就业市场严峻，中国应届毕业生还面临着必须应对人工智能的挑战。 - 纽约时报",
       "url": "https://news.google.com/read/CBMijgFBVV95cUxOcW1YT2djWXNUNkMwTTlxbnhMQ2tmbEc2SXE5ZTMxSjZDbUpZMFM5YllWMEVMb3Y0SWMybmJZZGNSOFJjNDFoSmRNZ2I3TGJ6ZzdhTHVFX2k1RzNkVzRVZUlCMG1JZUJpYkxYbzc2dDF1eU5sWHp1dnJLb2dBMVA0UWlVWEZUSGVYWnJJaDJ3?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-06T04:01:15.000Z",
       "pub_sort_dt": "2026-09-06 12:01:15"
@@ -37,65 +85,41 @@
     {
       "source": "China Buzzing",
       "title_en": "在台湾的寺庙里，一窥中国本可能的面貌 - WSJ",
-      "title_cn": "在台湾的寺庙里，一窥中国本可能的面貌 - WSJ",
+      "title_cn": "在台湾的寺庙里，一窥中国本可能的面貌 - 华尔街日报",
       "url": "https://news.google.com/read/CBMipwFBVV95cUxORkVQMzc0SHAzWlc4bHBrV0xkandDZE4tLUhLbDJpUDJkcVMwUUJJS2p5dXlfb3hFQ2VRMXByY0ZqeFdZV1RIVE50RUtWWGY2SzMwcGp4NzJWM25xYmtoT0VPQmFaRkFZZ0JnWWdqcl91SkxheUo0V3p4VmJEM2UwVk1VajZDSUx4dnFYd1hTTjV4Tm9NZHJjTkRzWEE4emlQT3F5azhvRQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-06T03:02:24.000Z",
       "pub_sort_dt": "2026-09-06 11:02:24"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "受热带风暴“索德尔”带来的暴雨影响，中国发生泥石流，造成2人死亡，10人失踪 - wral.com",
-      "title_cn": "受热带风暴“索德尔”带来的暴雨影响，中国发生泥石流，造成2人死亡，10人失踪 - wral.com",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxNMWFPRzBvd3dQMFRYUklKT184YlRYOXZOLWRCVm50M0JLUFNpY052eDdPNnd1UzU4ekg2WV8xUVk5ZVVKeWJTOXc4bU5hdmlyTjRUYTItdmJtVVBuT2JRNnNYNG8zT0FUdXNfU2lmYUE4bEMzRHJCX2l1N2NSdmJ6WHc2OEFmRVVTek90d28xeEx5LXdEYnBaLTd0M1RTN0cxaEt5OXVkNjNoNWkzNDNIc0ttM0xZRldDWEFHY182SzB3eVRXaGc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T02:21:16.000Z",
-      "pub_sort_dt": "2026-09-06 10:21:16"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "入职仅4天的中国海关年轻官员在泥石流中遇难，此事深深触动了公众 - South China Morning Post",
-      "title_cn": "入职仅4天的中国海关年轻官员在泥石流中遇难，此事深深触动了公众 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMi5gFBVV95cUxOczR0NW5TMkNtYW41NGNJTm1qaW15REd4akFySDdzaEVmcmk5a2N2eTM2RDVaT2NXa0xJazRBYXN3TXFnN0tRN1Y2Nk5Gc3dPTndUNmVjN0JqN0VQR2dVcjVZd2s2VHl5REZUMk5zNFptQUdyVERqMDFvU3AyaUV4dF9IUWxaWGdJVzlHeHl5bUxoa3N3Z3B4MDBfd3RVS1ZSN3JXMFljT1hsZ0hwRnFmX2NPWi11SXRiV25VRGMzYV9iM0hhYmxDLWkxenVjVVQ3ZUs5VU1rbnV4UEtnQU4yVDMtZ01sd9IB5gFBVV95cUxNaHAzUFAydWNfQ0N3aFRJY0pmSHpGWmRxNzBYdi1MUzFCejBKZWdPVlBySlJLWEdBWXF4TTJ3VnE5WFdUOVJHN2o4NG9WZU96OWlXVmYzWlQ4aUZ4NDlFRjhTR3BSYnZOMXpwTFZHbXgxYkxjMkNFdXpoZnhDb3NnSFhvVzFrSU93cVAtZjYtSE55a3lmMkxhODc0M1FjNjNGemhQRUMxcENUQ1BmQWFobG1HOGZwN1BoTnl0N2NMRUt2SmtZd05TWm12WDZjazhTQ3RIMFhwWEZQTlYyYjRIMHQ4ZjUzUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T02:14:35.000Z",
-      "pub_sort_dt": "2026-09-06 10:14:35"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "恒大事件后，新规在开发商债务处置过程中引发担忧 - South China Morning Post",
-      "title_cn": "恒大事件后，新规在开发商债务处置过程中引发担忧 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxNS3FFd3ZnNW05eGxqZnFDQnVLUDNROGN3ckZTeTRIRjRheHIybER0RjNXWEpfTWY5b0k2QmlfeEhVZWE1SnhsWnUxUWZ1NlZpU3JlRHN1SnFoRzV4UGw3LUlZR2NMMXJSeFB0R2RfdXpkN2kzbXNXblpYOFVUZzNKbi10UkFEUWRsclotWG9hS0VjVXZ1VGpkUTJVSVdNUTZSQ29UMVRnbVFRckt6elh3aXl0UXBPUVc0a25DZmJuYmZ5RlpNNnp1WndoVl9kd9IBzgFBVV95cUxQM0JueWpuNlRGV0ZQdWxmSVVYVGE4UnFDYmFXWHhBU1gwT3FNeXBEVVpxZEVUT2puVGhYSzc5NE4yZG45b3dwWG9KX1VhTGVyQ2IzdDlrSVB5bEMzUjZzTEh4RGxIWTdKdEZ6SjFPOU5jdmxuS2dUb0NvQlIwdHpOMTgzMGVKNEhZd2hRQlJWcGY0a2ZnRmphTTJMQlFLbHpickl3UnYyck14VEt3Ym5aRVhTcEJLS3dmVTBTMkxmT3JoeHFIa3lyWlp6TXZyQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T01:00:08.000Z",
-      "pub_sort_dt": "2026-09-06 09:00:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国对委内瑞拉石油的控制威胁到欠中国的数十亿美元债务 - The Japan Times",
-      "title_cn": "美国对委内瑞拉石油的控制威胁到欠中国的数十亿美元债务 - The Japan Times",
-      "url": "https://news.google.com/read/CBMifEFVX3lxTE0xZ2RyeGhmb2dzLTFMc3E1YmhOdHlaSmR4UUpYOEZIOFlESmJDQmc2UzhtUllGckZtM0VIdlY3X3FCWWhRX3JXdll0WDA5Ym1FdlNNS2Y0WEhkakUwUm8ybFlCeHFSZk1saG15U2FxVEo1LU8xUW9MamlXaEg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-05T23:10:00.000Z",
-      "pub_sort_dt": "2026-09-06 07:10:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国选手郑在美网重燃竞技激情 - Reuters",
-      "title_cn": "中国选手郑在美网重燃竞技激情 - Reuters",
-      "url": "https://news.google.com/read/CBMiogFBVV95cUxQUTVyMDljOTRMbmhnekJwY3J0VDRVaW5ESFA1NFMxWHQ1U1pYLTJwQ2pEbUhRM1ZQbEM1WHNnaS1FUlRLWkdkMzZmWDNrZFU2Ti1idFRBaFByY2pXZUMyc0dSSS05MTQtV1NYX3hrOEY5Sm5mYzFmOHVKRGVyclFoS1p1VlBhNFBMUkxHT0lhZC1qMUpfdzRWRFlEMkNvbmpTWnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-05T22:19:44.000Z",
-      "pub_sort_dt": "2026-09-06 06:19:44"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "继承人缺位：当中国的家族企业没有接班人时会发生什么？ - South China Morning Post",
-      "title_cn": "继承人缺位：当中国的家族企业没有接班人时会发生什么？ - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxPRnBTNjJmbWVKUEczd3gzLWdMQnoyYTVOc0dFTTRSV01JNTFiZjEzS1FLVVhQSlhsUTVqTF9fZHd1Nm5QTFNEMThpc1dFVk9DMko3emVIRE5qSUw0ZlhxMGdQbldlQ2ZQTy1QMzFrTTIyNERzRFlWaDJWRWtQNmJHTm1WenVEVWdqczNZM3ExdE5XcnlDcG05b1BwYnFaYlYzbjhTQTI1SjB2SXlodHRncHZabW1GZHFxR0llVUFnVVliY0M3bjdac1JB0gHKAUFVX3lxTE5fbVI4TjZlZWNxb0VobHIyZlZxbTJlZEsxMWd6SVk4dVoycG5xUHMxc2tlZXdMZmJKVmIyZ3RUZ29vQWlIdzg4U2NBNXFQYXFJeWU5aGtad0VVMndqUmRjM0lEbUh0YllqNlN0c0FieUt4MklxNmVPMGxjTkVteDFOLTgxR2RnTFloSkNQVFF2NWRLa01HTGY1cFh5SVBDcFUyYUF6cnJBRnNMZEdUbWtpcEc3SC11cnZsbHdHN3B2ZjdvdUtJNFh2SEE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-05T22:00:08.000Z",
-      "pub_sort_dt": "2026-09-06 06:00:08"
     }
   ],
   "media_news": [
     {
+      "source": "The Economist",
+      "title_en": "印度为何让中国感到困惑",
+      "title_cn": "为何让印度感到惊讶",
+      "url": "https://www.economist.com/asia/2026/09/06/why-india-baffles-china",
+      "pub_raw": "2026-09-06T12:01:07.590Z",
+      "pub_sort_dt": "2026-09-06 20:01:07"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国大型银行和保险公司寻求至少530亿美元的资本",
+      "title_cn": "中国大型银行和保险公司寻求至少530亿美元的资本",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/agbank-icbc-plan-private-placements-totaling-up-to-260b-yuan-mtpk2qgx",
+      "pub_raw": "2026-09-06T10:40:48.601Z",
+      "pub_sort_dt": "2026-09-06 18:40:48"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "随着中国竞争对手施加越来越大的压力，捷豹路虎计划裁员多达4,000人",
+      "title_cn": "随着中国竞争对手施加越来越大的压力，捷豹路虎计划评审多达4000人",
+      "url": "https://www.ft.com/content/4a751ca7-83ac-4c62-8d3f-3643e74ad92b?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-06T10:25:48.178Z",
+      "pub_sort_dt": "2026-09-06 18:25:48"
+    },
+    {
       "source": "Bloomberg",
       "title_en": "香港的陈先生表示，更多中亚国有企业将赴港上市",
-      "title_cn": "香港的陈先生表示，更多中亚国有企业将赴港上市",
+      "title_cn": "香港的陈先生表示，更多中国国有企业将赴港上市",
       "url": "https://www.bloomberg.com/news/articles/2026-09-06/hk-s-chan-says-more-central-asia-state-firms-set-to-list-in-city",
       "pub_raw": "2026-09-06T07:18:13.949Z",
       "pub_sort_dt": "2026-09-06 15:18:13"
@@ -119,7 +143,7 @@
     {
       "source": "Reuters",
       "title_en": "中国选手郑在美网重燃竞技激情",
-      "title_cn": "中国选手郑在美网重燃竞技激情",
+      "title_cn": "中国选手郑在美网重燃竞技热",
       "url": "https://reut.rs/4i96Wts",
       "pub_raw": "2026-09-05T22:51:56.918Z",
       "pub_sort_dt": "2026-09-06 06:51:56"
@@ -127,7 +151,7 @@
     {
       "source": "Reuters",
       "title_en": "西藏失踪朝圣者的家属要求中国给出解释",
-      "title_cn": "西藏失踪朝圣者的家属要求中国给出解释",
+      "title_cn": "西藏失踪朝圣者的具体要求中国给出解释",
       "url": "https://reut.rs/4xHKlco",
       "pub_raw": "2026-09-05T12:41:57.988Z",
       "pub_sort_dt": "2026-09-05 20:41:57"
@@ -135,7 +159,7 @@
     {
       "source": "Reuters",
       "title_en": "两名尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
-      "title_cn": "两名尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
+      "title_cn": "尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
       "url": "https://reut.rs/4iesEMC",
       "pub_raw": "2026-09-05T09:15:48.752Z",
       "pub_sort_dt": "2026-09-05 17:15:48"
@@ -159,7 +183,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港的“Flat Iron”进军香肠卷行业却遭遇挫折",
-      "title_cn": "香港的“Flat Iron”进军香肠卷行业却遭遇挫折",
+      "title_cn": "香港的“扁铁”进军香肠卷行业却遭遇苦难",
       "url": "https://www.bloomberg.com/news/articles/2026-09-05/hong-kong-s-flat-iron-bumbles-foray-into-the-sausage-roll-business",
       "pub_raw": "2026-09-05T00:15:38.008Z",
       "pub_sort_dt": "2026-09-05 08:15:38"
@@ -191,7 +215,7 @@
     {
       "source": "Bloomberg",
       "title_en": "特朗普与中国因委内瑞拉的石油和债务问题发生冲突",
-      "title_cn": "特朗普与中国因委内瑞拉的石油和债务问题发生冲突",
+      "title_cn": "特朗普与中国因严重的石油和债务问题发生冲突",
       "url": "https://www.bloomberg.com/news/articles/2026-09-04/trump-y-china-chocan-por-petroleo-y-deuda-de-venezuela",
       "pub_raw": "2026-09-04T15:27:24.958Z",
       "pub_sort_dt": "2026-09-04 23:27:24"
@@ -199,7 +223,7 @@
     {
       "source": "Wall Street Journal",
       "title_en": "挑战特斯拉的电动卡车初创公司Windrose流失了大部分中国员工",
-      "title_cn": "挑战特斯拉的电动卡车初创公司Windrose流失了大部分中国员工",
+      "title_cn": "挑战特斯拉的电动卡车货运公司Windrose流失了大部分中国员工",
       "url": "https://on.wsj.com/3TfqiTw",
       "pub_raw": "2026-09-04T13:51:41.850Z",
       "pub_sort_dt": "2026-09-04 21:51:41"
@@ -207,7 +231,7 @@
     {
       "source": "Reuters",
       "title_en": "中国航运公司中远集团否认其船只曾为北京从事间谍活动",
-      "title_cn": "中国航运公司中远集团否认其船只曾为北京从事间谍活动",
+      "title_cn": "中国最大公司中远集团否认其船舶曾为北京从事间谍活动",
       "url": "https://reut.rs/4yiYnAW",
       "pub_raw": "2026-09-04T12:31:13.575Z",
       "pub_sort_dt": "2026-09-04 20:31:13"
@@ -215,7 +239,7 @@
     {
       "source": "Bloomberg",
       "title_en": "据称，中国“登月计划”今年将在香港IPO中筹集高达50亿美元",
-      "title_cn": "据称，中国“登月计划”今年将在香港IPO中筹集高达50亿美元",
+      "title_cn": "股票，中国“登月计划”今年将在香港IPO中认购高达50亿美元",
       "url": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
       "pub_raw": "2026-09-04T11:27:17.475Z",
       "pub_sort_dt": "2026-09-04 19:27:17"
@@ -223,44 +247,68 @@
     {
       "source": "Reuters",
       "title_en": "独家：消息人士称，中国国家主席习近平将率领一支由众多企业首席执行官组成的代表团访问美国",
-      "title_cn": "独家：消息人士称，中国国家主席习近平将率领一支由众多企业首席执行官组成的代表团访问美国",
+      "title_cn": "独家：消息人士称，中国国家主席习近平将率领大规模企业组成的两次访问美国",
       "url": "https://reut.rs/4r09b4Q",
       "pub_raw": "2026-09-04T10:55:16.750Z",
       "pub_sort_dt": "2026-09-04 18:55:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国对委内瑞拉石油的控制威胁到中国应收的数十亿美元",
-      "title_cn": "美国对委内瑞拉石油的控制威胁到中国应收的数十亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-grab-of-venezuela-denies-china-oil-billions-in-debt-payments",
-      "pub_raw": "2026-09-04T09:35:21.991Z",
-      "pub_sort_dt": "2026-09-04 17:35:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "日益加剧的气候风险不会阻止中国在西藏修建水坝",
-      "title_cn": "日益加剧的气候风险不会阻止中国在西藏修建水坝",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-04/mounting-climate-risks-won-t-stop-china-s-dam-building-in-tibet",
-      "pub_raw": "2026-09-04T08:47:18.803Z",
-      "pub_sort_dt": "2026-09-04 16:47:18"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "新加坡一名部长表示，中国以涉嫌参与传销活动为由逮捕了52名新加坡人",
-      "title_cn": "新加坡一名部长表示，中国以涉嫌参与传销活动为由逮捕了52名新加坡人",
-      "url": "https://reut.rs/4gBWycA",
-      "pub_raw": "2026-09-04T08:31:15.540Z",
-      "pub_sort_dt": "2026-09-04 16:31:15"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "在罕见的密集出访中，习近平将中国塑造成特朗普治下美国的稳定替代选择 - The Washington Post",
+      "title_cn": "在罕见的密集访问中，习近平将中国工艺变成了特朗普治下美国的稳定替代选择 - 《华盛顿邮报》",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxQSHNQWGdEV1JmZlhQZEZCY0lLRm5HX1FxVjBlY255bHVzZUs1M1RfRDN4SVZkYW5peUNqX1c3NWVSQURsYTQtcmtjUHpMc3BwVVQxNk11RFppeDYwOHZqRXlmdmxhanlhQ0p1TXBrS3AtVll2RW9XdF9iODZIcWZMZDFlYkZWbHowYUVqb0VOdk56ZUZBVzNGV0wzVnkzTS10MEhDaTNIWko2Mk1hby1VNHBJNDRFeVFm?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-06T11:33:15.000Z",
+      "pub_sort_dt": "2026-09-06 19:33:15"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "卡塔尔总理即将访问中国 - Anadolu Ajansı",
+      "title_cn": "卡塔尔总理即将访问中国 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMie0FVX3lxTE11LWdwaFJZcW9NZlFUTThaQmdPZ0J5TDhSRk51dFlldTZ6Y0V1dy16VWhrejQ3My1nemhYbG5YUjZaX3Z4cV9JY25TdGh4UkNaNDJhWHBnZ2N1Nl9WZHZBTkRJaW1oQUhpeWEzLUZVSkdwUkNvYXg5LWFOYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-06T11:26:36.000Z",
+      "pub_sort_dt": "2026-09-06 19:26:36"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在中国的一户尼泊尔洪灾幸存者家庭，在焦急等待数日后终于松了一口气 - Politico",
+      "title_cn": "在中国的一户尼泊尔洪灾家庭，在焦急等待数日后终于松了一口气 - Politico",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxQY0hDX2RwTTg5cnI2d1VqQmEtQ2cyOG9YRmljMlZTVjBfNnRHbjdtUW9tV25oXzFwZV93c2VlYUhCWmlYdTFhX2J4WmxjNmhleTg0emZrcXNFSVlZdEFZMExsOGdaNVdaSGI0OVVrT1BTaE9tMGRwSks2dC0zVUs5anBMT0d3Z1AzSTFiQmpHamRGOVBoMXhiQnNhSWdzRkpLUWhzdjBMSHF3UzZuTGE3ZWxNU3NKakJtTENoM29TbVVzbmst?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-06T11:14:00.000Z",
+      "pub_sort_dt": "2026-09-06 19:14:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在中国的一户尼泊尔洪灾幸存者家庭，在焦急等待数日后终于松了一口气 - AP News",
+      "title_cn": "在中国的一户尼泊尔洪灾家庭，在焦急等待数日后终于松了一口气 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxPbjlaLXBxbVRNZVJ3dFRxZWxMSk9BbGdDQ0VRVEJGd1g4U1Z0aW1QQjhXVEUtMjFCVDNHQWJ4T1NEa0FjWHMxWU1ndXkwNTkwd1dLZzBoaE5NT0V5WnEzNFR4ZmN1aDlzdlhsZ1NXRlRTaWFxdDVsUFlRTndKNWJnaTZBYWZLMzV2eUFXbTRUZHV1SHdSblhQV0hWSmU0Y19MYnFFVg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-06T09:44:00.000Z",
+      "pub_sort_dt": "2026-09-06 17:44:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "一家被列入黑名单的中国科技巨头是如何持续收购美国最顶尖的人工智能芯片的 - The New York Times",
+      "title_cn": "一家被列入黑名单的中国科技巨头是如何持续收购美国最顶尖的人工智能芯片的 - 纽约时报",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-06T09:00:58.000Z",
+      "pub_sort_dt": "2026-09-06 17:00:58"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "在被洪水摧毁的中尼边境，曾经繁忙的港口已不见踪影 - Reuters",
-      "title_cn": "在被洪水摧毁的中尼边境，曾经繁忙的港口已不见踪影 - Reuters",
+      "title_cn": "在被洪水摧毁的中尼边境，曾经昏暗的港口已不见踪影 - Reuters",
       "url": "https://news.google.com/read/CBMiwAFBVV95cUxQbndid2VJNko4cVpiOGlLdFlhX0JEN0trbG1oWjh0cTlsdml4SVF1TWNtTFY0Vlp2ckhTb2JOR3NaZ0hoTThOeG9JRWlTVVd3djNKRFpwWnk3eGxEYTM5bkVKSmloRm4wQnptWUlyTGE3a1FpOEpyQ1pRbFFSX2V2VE5iN2ZTN2EyRzdwaUh0R0d4cFI3NFMyWjhSNTJWOGQ2RnVsM2FZcmtIZmNzQXpCUk9vblhPOUw4WXNBd1V5LTI?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-06T08:17:00.000Z",
       "pub_sort_dt": "2026-09-06 16:17:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国东部发生山体滑坡，造成2人死亡、10人失踪 - Anadolu Ajansı",
+      "title_cn": "中国东部发生山体滑坡，造成2人死亡、10人失踪 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxQd3RuRGFFLTY4dFF0UGw3cmhaUFJQY2FQdVNBMU5YcExzcmFwb3hCdTB3Z3I0bEx0aGllVndVT2dSUVgtZVRNdld5Y0x2RW9QaDhKbm1Kc0lKNE9TMHBEeVlOZWQzM0ZXelVmMDNOS2xnYjNILXV5T0RVU1VlY2lqeDBWRHlmak51T29jZzI0Tk9PWWRURHpjS21mNkNOZ25k?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-06T08:05:16.000Z",
+      "pub_sort_dt": "2026-09-06 16:05:16"
     },
     {
       "source": "China Buzzing",
@@ -273,7 +321,7 @@
     {
       "source": "China Buzzing",
       "title_en": "面对严峻的就业市场，中国应届毕业生还必须应对人工智能的挑战。 - The New York Times",
-      "title_cn": "面对严峻的就业市场，中国应届毕业生还必须应对人工智能的挑战。 - The New York Times",
+      "title_cn": "就业市场严峻，中国应届毕业生还面临着必须应对人工智能的挑战。 - 纽约时报",
       "url": "https://news.google.com/read/CBMijgFBVV95cUxOcW1YT2djWXNUNkMwTTlxbnhMQ2tmbEc2SXE5ZTMxSjZDbUpZMFM5YllWMEVMb3Y0SWMybmJZZGNSOFJjNDFoSmRNZ2I3TGJ6ZzdhTHVFX2k1RzNkVzRVZUlCMG1JZUJpYkxYbzc2dDF1eU5sWHp1dnJLb2dBMVA0UWlVWEZUSGVYWnJJaDJ3?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-06T04:01:15.000Z",
       "pub_sort_dt": "2026-09-06 12:01:15"
@@ -281,63 +329,39 @@
     {
       "source": "China Buzzing",
       "title_en": "在台湾的寺庙里，一窥中国本可能的面貌 - WSJ",
-      "title_cn": "在台湾的寺庙里，一窥中国本可能的面貌 - WSJ",
+      "title_cn": "在台湾的寺庙里，一窥中国本可能的面貌 - 华尔街日报",
       "url": "https://news.google.com/read/CBMipwFBVV95cUxORkVQMzc0SHAzWlc4bHBrV0xkandDZE4tLUhLbDJpUDJkcVMwUUJJS2p5dXlfb3hFQ2VRMXByY0ZqeFdZV1RIVE50RUtWWGY2SzMwcGp4NzJWM25xYmtoT0VPQmFaRkFZZ0JnWWdqcl91SkxheUo0V3p4VmJEM2UwVk1VajZDSUx4dnFYd1hTTjV4Tm9NZHJjTkRzWEE4emlQT3F5azhvRQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-06T03:02:24.000Z",
       "pub_sort_dt": "2026-09-06 11:02:24"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "受热带风暴“索德尔”带来的暴雨影响，中国发生泥石流，造成2人死亡，10人失踪 - wral.com",
-      "title_cn": "受热带风暴“索德尔”带来的暴雨影响，中国发生泥石流，造成2人死亡，10人失踪 - wral.com",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxNMWFPRzBvd3dQMFRYUklKT184YlRYOXZOLWRCVm50M0JLUFNpY052eDdPNnd1UzU4ekg2WV8xUVk5ZVVKeWJTOXc4bU5hdmlyTjRUYTItdmJtVVBuT2JRNnNYNG8zT0FUdXNfU2lmYUE4bEMzRHJCX2l1N2NSdmJ6WHc2OEFmRVVTek90d28xeEx5LXdEYnBaLTd0M1RTN0cxaEt5OXVkNjNoNWkzNDNIc0ttM0xZRldDWEFHY182SzB3eVRXaGc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T02:21:16.000Z",
-      "pub_sort_dt": "2026-09-06 10:21:16"
+      "source": "The Economist",
+      "title_en": "印度为何让中国感到困惑",
+      "title_cn": "为何让印度感到惊讶",
+      "url": "https://www.economist.com/asia/2026/09/06/why-india-baffles-china",
+      "pub_raw": "2026-09-06T12:01:07.590Z",
+      "pub_sort_dt": "2026-09-06 20:01:07"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "入职仅4天的中国海关年轻官员在泥石流中遇难，此事深深触动了公众 - South China Morning Post",
-      "title_cn": "入职仅4天的中国海关年轻官员在泥石流中遇难，此事深深触动了公众 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMi5gFBVV95cUxOczR0NW5TMkNtYW41NGNJTm1qaW15REd4akFySDdzaEVmcmk5a2N2eTM2RDVaT2NXa0xJazRBYXN3TXFnN0tRN1Y2Nk5Gc3dPTndUNmVjN0JqN0VQR2dVcjVZd2s2VHl5REZUMk5zNFptQUdyVERqMDFvU3AyaUV4dF9IUWxaWGdJVzlHeHl5bUxoa3N3Z3B4MDBfd3RVS1ZSN3JXMFljT1hsZ0hwRnFmX2NPWi11SXRiV25VRGMzYV9iM0hhYmxDLWkxenVjVVQ3ZUs5VU1rbnV4UEtnQU4yVDMtZ01sd9IB5gFBVV95cUxNaHAzUFAydWNfQ0N3aFRJY0pmSHpGWmRxNzBYdi1MUzFCejBKZWdPVlBySlJLWEdBWXF4TTJ3VnE5WFdUOVJHN2o4NG9WZU96OWlXVmYzWlQ4aUZ4NDlFRjhTR3BSYnZOMXpwTFZHbXgxYkxjMkNFdXpoZnhDb3NnSFhvVzFrSU93cVAtZjYtSE55a3lmMkxhODc0M1FjNjNGemhQRUMxcENUQ1BmQWFobG1HOGZwN1BoTnl0N2NMRUt2SmtZd05TWm12WDZjazhTQ3RIMFhwWEZQTlYyYjRIMHQ4ZjUzUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T02:14:35.000Z",
-      "pub_sort_dt": "2026-09-06 10:14:35"
+      "source": "Bloomberg",
+      "title_en": "中国大型银行和保险公司寻求至少530亿美元的资本",
+      "title_cn": "中国大型银行和保险公司寻求至少530亿美元的资本",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/agbank-icbc-plan-private-placements-totaling-up-to-260b-yuan-mtpk2qgx",
+      "pub_raw": "2026-09-06T10:40:48.601Z",
+      "pub_sort_dt": "2026-09-06 18:40:48"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "恒大事件后，新规在开发商债务处置过程中引发担忧 - South China Morning Post",
-      "title_cn": "恒大事件后，新规在开发商债务处置过程中引发担忧 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxNS3FFd3ZnNW05eGxqZnFDQnVLUDNROGN3ckZTeTRIRjRheHIybER0RjNXWEpfTWY5b0k2QmlfeEhVZWE1SnhsWnUxUWZ1NlZpU3JlRHN1SnFoRzV4UGw3LUlZR2NMMXJSeFB0R2RfdXpkN2kzbXNXblpYOFVUZzNKbi10UkFEUWRsclotWG9hS0VjVXZ1VGpkUTJVSVdNUTZSQ29UMVRnbVFRckt6elh3aXl0UXBPUVc0a25DZmJuYmZ5RlpNNnp1WndoVl9kd9IBzgFBVV95cUxQM0JueWpuNlRGV0ZQdWxmSVVYVGE4UnFDYmFXWHhBU1gwT3FNeXBEVVpxZEVUT2puVGhYSzc5NE4yZG45b3dwWG9KX1VhTGVyQ2IzdDlrSVB5bEMzUjZzTEh4RGxIWTdKdEZ6SjFPOU5jdmxuS2dUb0NvQlIwdHpOMTgzMGVKNEhZd2hRQlJWcGY0a2ZnRmphTTJMQlFLbHpickl3UnYyck14VEt3Ym5aRVhTcEJLS3dmVTBTMkxmT3JoeHFIa3lyWlp6TXZyQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T01:00:08.000Z",
-      "pub_sort_dt": "2026-09-06 09:00:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国对委内瑞拉石油的控制威胁到欠中国的数十亿美元债务 - The Japan Times",
-      "title_cn": "美国对委内瑞拉石油的控制威胁到欠中国的数十亿美元债务 - The Japan Times",
-      "url": "https://news.google.com/read/CBMifEFVX3lxTE0xZ2RyeGhmb2dzLTFMc3E1YmhOdHlaSmR4UUpYOEZIOFlESmJDQmc2UzhtUllGckZtM0VIdlY3X3FCWWhRX3JXdll0WDA5Ym1FdlNNS2Y0WEhkakUwUm8ybFlCeHFSZk1saG15U2FxVEo1LU8xUW9MamlXaEg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-05T23:10:00.000Z",
-      "pub_sort_dt": "2026-09-06 07:10:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国选手郑在美网重燃竞技激情 - Reuters",
-      "title_cn": "中国选手郑在美网重燃竞技激情 - Reuters",
-      "url": "https://news.google.com/read/CBMiogFBVV95cUxQUTVyMDljOTRMbmhnekJwY3J0VDRVaW5ESFA1NFMxWHQ1U1pYLTJwQ2pEbUhRM1ZQbEM1WHNnaS1FUlRLWkdkMzZmWDNrZFU2Ti1idFRBaFByY2pXZUMyc0dSSS05MTQtV1NYX3hrOEY5Sm5mYzFmOHVKRGVyclFoS1p1VlBhNFBMUkxHT0lhZC1qMUpfdzRWRFlEMkNvbmpTWnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-05T22:19:44.000Z",
-      "pub_sort_dt": "2026-09-06 06:19:44"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "继承人缺位：当中国的家族企业没有接班人时会发生什么？ - South China Morning Post",
-      "title_cn": "继承人缺位：当中国的家族企业没有接班人时会发生什么？ - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxPRnBTNjJmbWVKUEczd3gzLWdMQnoyYTVOc0dFTTRSV01JNTFiZjEzS1FLVVhQSlhsUTVqTF9fZHd1Nm5QTFNEMThpc1dFVk9DMko3emVIRE5qSUw0ZlhxMGdQbldlQ2ZQTy1QMzFrTTIyNERzRFlWaDJWRWtQNmJHTm1WenVEVWdqczNZM3ExdE5XcnlDcG05b1BwYnFaYlYzbjhTQTI1SjB2SXlodHRncHZabW1GZHFxR0llVUFnVVliY0M3bjdac1JB0gHKAUFVX3lxTE5fbVI4TjZlZWNxb0VobHIyZlZxbTJlZEsxMWd6SVk4dVoycG5xUHMxc2tlZXdMZmJKVmIyZ3RUZ29vQWlIdzg4U2NBNXFQYXFJeWU5aGtad0VVMndqUmRjM0lEbUh0YllqNlN0c0FieUt4MklxNmVPMGxjTkVteDFOLTgxR2RnTFloSkNQVFF2NWRLa01HTGY1cFh5SVBDcFUyYUF6cnJBRnNMZEdUbWtpcEc3SC11cnZsbHdHN3B2ZjdvdUtJNFh2SEE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-05T22:00:08.000Z",
-      "pub_sort_dt": "2026-09-06 06:00:08"
+      "source": "Financial Times",
+      "title_en": "随着中国竞争对手施加越来越大的压力，捷豹路虎计划裁员多达4,000人",
+      "title_cn": "随着中国竞争对手施加越来越大的压力，捷豹路虎计划评审多达4000人",
+      "url": "https://www.ft.com/content/4a751ca7-83ac-4c62-8d3f-3643e74ad92b?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-06T10:25:48.178Z",
+      "pub_sort_dt": "2026-09-06 18:25:48"
     },
     {
       "source": "Bloomberg",
       "title_en": "香港的陈先生表示，更多中亚国有企业将赴港上市",
-      "title_cn": "香港的陈先生表示，更多中亚国有企业将赴港上市",
+      "title_cn": "香港的陈先生表示，更多中国国有企业将赴港上市",
       "url": "https://www.bloomberg.com/news/articles/2026-09-06/hk-s-chan-says-more-central-asia-state-firms-set-to-list-in-city",
       "pub_raw": "2026-09-06T07:18:13.949Z",
       "pub_sort_dt": "2026-09-06 15:18:13"
@@ -361,7 +385,7 @@
     {
       "source": "Reuters",
       "title_en": "中国选手郑在美网重燃竞技激情",
-      "title_cn": "中国选手郑在美网重燃竞技激情",
+      "title_cn": "中国选手郑在美网重燃竞技热",
       "url": "https://reut.rs/4i96Wts",
       "pub_raw": "2026-09-05T22:51:56.918Z",
       "pub_sort_dt": "2026-09-06 06:51:56"
@@ -369,7 +393,7 @@
     {
       "source": "Reuters",
       "title_en": "西藏失踪朝圣者的家属要求中国给出解释",
-      "title_cn": "西藏失踪朝圣者的家属要求中国给出解释",
+      "title_cn": "西藏失踪朝圣者的具体要求中国给出解释",
       "url": "https://reut.rs/4xHKlco",
       "pub_raw": "2026-09-05T12:41:57.988Z",
       "pub_sort_dt": "2026-09-05 20:41:57"
@@ -377,7 +401,7 @@
     {
       "source": "Reuters",
       "title_en": "两名尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
-      "title_cn": "两名尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
+      "title_cn": "尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
       "url": "https://reut.rs/4iesEMC",
       "pub_raw": "2026-09-05T09:15:48.752Z",
       "pub_sort_dt": "2026-09-05 17:15:48"
@@ -401,7 +425,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港的“Flat Iron”进军香肠卷行业却遭遇挫折",
-      "title_cn": "香港的“Flat Iron”进军香肠卷行业却遭遇挫折",
+      "title_cn": "香港的“扁铁”进军香肠卷行业却遭遇苦难",
       "url": "https://www.bloomberg.com/news/articles/2026-09-05/hong-kong-s-flat-iron-bumbles-foray-into-the-sausage-roll-business",
       "pub_raw": "2026-09-05T00:15:38.008Z",
       "pub_sort_dt": "2026-09-05 08:15:38"
@@ -433,7 +457,7 @@
     {
       "source": "Bloomberg",
       "title_en": "特朗普与中国因委内瑞拉的石油和债务问题发生冲突",
-      "title_cn": "特朗普与中国因委内瑞拉的石油和债务问题发生冲突",
+      "title_cn": "特朗普与中国因严重的石油和债务问题发生冲突",
       "url": "https://www.bloomberg.com/news/articles/2026-09-04/trump-y-china-chocan-por-petroleo-y-deuda-de-venezuela",
       "pub_raw": "2026-09-04T15:27:24.958Z",
       "pub_sort_dt": "2026-09-04 23:27:24"
@@ -441,7 +465,7 @@
     {
       "source": "Wall Street Journal",
       "title_en": "挑战特斯拉的电动卡车初创公司Windrose流失了大部分中国员工",
-      "title_cn": "挑战特斯拉的电动卡车初创公司Windrose流失了大部分中国员工",
+      "title_cn": "挑战特斯拉的电动卡车货运公司Windrose流失了大部分中国员工",
       "url": "https://on.wsj.com/3TfqiTw",
       "pub_raw": "2026-09-04T13:51:41.850Z",
       "pub_sort_dt": "2026-09-04 21:51:41"
@@ -449,7 +473,7 @@
     {
       "source": "Reuters",
       "title_en": "中国航运公司中远集团否认其船只曾为北京从事间谍活动",
-      "title_cn": "中国航运公司中远集团否认其船只曾为北京从事间谍活动",
+      "title_cn": "中国最大公司中远集团否认其船舶曾为北京从事间谍活动",
       "url": "https://reut.rs/4yiYnAW",
       "pub_raw": "2026-09-04T12:31:13.575Z",
       "pub_sort_dt": "2026-09-04 20:31:13"
@@ -457,7 +481,7 @@
     {
       "source": "Bloomberg",
       "title_en": "据称，中国“登月计划”今年将在香港IPO中筹集高达50亿美元",
-      "title_cn": "据称，中国“登月计划”今年将在香港IPO中筹集高达50亿美元",
+      "title_cn": "股票，中国“登月计划”今年将在香港IPO中认购高达50亿美元",
       "url": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
       "pub_raw": "2026-09-04T11:27:17.475Z",
       "pub_sort_dt": "2026-09-04 19:27:17"
@@ -465,34 +489,10 @@
     {
       "source": "Reuters",
       "title_en": "独家：消息人士称，中国国家主席习近平将率领一支由众多企业首席执行官组成的代表团访问美国",
-      "title_cn": "独家：消息人士称，中国国家主席习近平将率领一支由众多企业首席执行官组成的代表团访问美国",
+      "title_cn": "独家：消息人士称，中国国家主席习近平将率领大规模企业组成的两次访问美国",
       "url": "https://reut.rs/4r09b4Q",
       "pub_raw": "2026-09-04T10:55:16.750Z",
       "pub_sort_dt": "2026-09-04 18:55:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国对委内瑞拉石油的控制威胁到中国应收的数十亿美元",
-      "title_cn": "美国对委内瑞拉石油的控制威胁到中国应收的数十亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-grab-of-venezuela-denies-china-oil-billions-in-debt-payments",
-      "pub_raw": "2026-09-04T09:35:21.991Z",
-      "pub_sort_dt": "2026-09-04 17:35:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "日益加剧的气候风险不会阻止中国在西藏修建水坝",
-      "title_cn": "日益加剧的气候风险不会阻止中国在西藏修建水坝",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-04/mounting-climate-risks-won-t-stop-china-s-dam-building-in-tibet",
-      "pub_raw": "2026-09-04T08:47:18.803Z",
-      "pub_sort_dt": "2026-09-04 16:47:18"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "新加坡一名部长表示，中国以涉嫌参与传销活动为由逮捕了52名新加坡人",
-      "title_cn": "新加坡一名部长表示，中国以涉嫌参与传销活动为由逮捕了52名新加坡人",
-      "url": "https://reut.rs/4gBWycA",
-      "pub_raw": "2026-09-04T08:31:15.540Z",
-      "pub_sort_dt": "2026-09-04 16:31:15"
     }
   ]
 }
