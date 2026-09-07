@@ -1,19 +1,59 @@
 {
-  "update_cst": "2026-09-07 15:01:01 北京时间",
+  "update_cst": "2026-09-07 18:01:00 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
-    "Bloomberg": 5,
-    "Financial Times": 4,
+    "Bloomberg": 8,
+    "Financial Times": 2,
     "Wall Street Journal": 1,
-    "Reuters": 9
+    "Reuters": 8
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "一名英国人在中国被对手从燃烧的法拉利赛车中救出 - The Times",
+      "title_cn": "一位英国人在中国被对手从燃烧的法拉利赛车中救出 - 泰晤士报",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxNRzRjTHlvZE9uXzVmdTZ0LXJ5bW81dFlyb1BGSU5RalZUbzM4aTByS2s0bU9YWEhwdWl4SXluM0dMQldGbUxGLXRjeWJrNXNZanRScDk5cnllTmFNdUpJTkhTOHlPNDZsb3JKRkxpdEk3V3AxZERvSHdLbExfcmxqTE1Ld2I5NTBZeUxqZWIyNFNYWU52d3dZbHRIUkYzVlFMRllXNENfLVM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T08:30:00.000Z",
+      "pub_sort_dt": "2026-09-07 16:30:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "天气追踪：台风“萨乌德”导致中国东南地区大规模疏散 - The Guardian",
+      "title_cn": "天气追踪：台风“萨乌德”导致中国东南地区大规模疏散 - 英国卫报",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxNV0VfcFBSVFY1cTNnVGJRdWNsRExCNW1COXlLanFnVEtUUXRUS2E5aE1sUG5vU05QM2UzTzJlR2dHRklHeVZqMXd6eFZUNFNpQmx1aE12UXdzS3VDd0N3cXYxMUtMajNmYkpoU010OWdyaHFKQXNaVjVnQlA5NlJ4Z1JEQ20yY1pkZUZmMzllRDFCY2daNFgxQzFUYjdkc0ZEbFFXTDRrSUc3Nk90T0Zn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T08:29:00.000Z",
+      "pub_sort_dt": "2026-09-07 16:29:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "为什么电动汽车电池制造商的利润几乎是该行业汽车制造商的两倍？ - South China Morning Post",
+      "title_cn": "为什么电动汽车电池制造商的利润几乎是该行业汽车制造商的两倍？ - 南华早报",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxQODgxTVRxM1hSSmI0UXdKeEZNTmJuMVJhazhsb3pNbTEwUjBhSnpyQTJfU3JzUWRsQ04zajVHVVhhZVZpX3V6S2kyaE82U0hrVGRmSHR3eXl1dTRlWnF5NXRNbFF4X1NXR096Yi1tbGNoNXBWdFJBM3BuVFk2WlY2eU5kRWlZbzRXUU41WjdZa3Vpc3lFN1lnbmtQNU9TVmM5blpjS180VFFuekFXbnY3R0JZS0pGT0xHeUxrQU9BOUN5a2NBMHlIMWxB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T07:11:26.000Z",
+      "pub_sort_dt": "2026-09-07 15:11:26"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国石油需求复苏推动从刚果到巴西的油价飙升 - Bloomberg.com",
+      "title_cn": "中国石油需求复苏推动巴西GDP增长 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxNMXpSaHpXNnJWS1p6MEtfMjdyRnNaU1lBam1DdDhUNFdiU2ZPMzRoRkNtVF9FbW9ObjZvQWotQTZ3Yk5fVU5Memt4eGM1SmVoUjk4a2dkN0xNQTBhZTFUOWkzV0pFOENWYURmejlTN1pkcG1idTVEOHhwajlSRWljMVhfM3lRQ0NNdFFmRUdXTHdNTW9WTmgtcmhTMzl6T1FvSkNwUXF5OHN6bUVuMk9aNl83WklIdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T06:55:00.000Z",
+      "pub_sort_dt": "2026-09-07 14:55:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "从舞池到战场：中国正将类人机器人投入实战 - Reuters",
+      "title_cn": "从舞池到战场：中国正将类人机器人投入实战 - 路透中文网",
+      "url": "https://news.google.com/read/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T06:04:00.000Z",
+      "pub_sort_dt": "2026-09-07 14:04:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "菲律宾警告称，随着美韩军演规模缩减，中国可能会重新展现强势姿态 - Al Jazeera",
-      "title_cn": "菲律宾警告称，随着美韩军演规模缩减，中国可能会重新展现强势姿态 - Al Jazeera",
+      "title_cn": "预防警告称，随着美韩军演规模缩小，中国可能会重新做出强势姿势 - 半岛电视台",
       "url": "https://news.google.com/read/CBMitAFBVV95cUxQdzFLRlVwZ3dIZHFIN1I5cUEzbVdydHhQemNMYXRZRU01VWtLcXFYN3FYdWpvMXNKQ2xXbFpkQTFmWDhsZVhUYWRFeDNGdnN6OHZra09OajdGX3lwRDF0Y2l5UklDN2tRemRXOTB5ejlRTlpKMkZfelNvaHhpTWJPeUE3NGdWV3d4MVlFM0NzVjR3VWNSYm5ydXpGdXpuUHdjelAtMFVodzExYU5Gb3VYSFdyWnXSAboBQVVfeXFMTjRHUTYyUlZqX21Ra1pWVXpEbDJ0SF94QlhNN1BWdzItYjhTWGdGcVJMZFZlQy1KTXduVzlvZmhpR01QNGlIRkRBMkRnSnc5VEhONDhnSmJ2c29YTWVud2hfNHZQYklnS3F6TFBNNnpNZUV6dTVhYk5adkwycEtoRlc5d3Z3aXlBbkJYVGRpR0lGQkJVMlBZbk9pZTgxVkZObThIR3BUQ2lPZldmM0ZJby1tcDhveGNKZFNn?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T04:07:30.000Z",
       "pub_sort_dt": "2026-09-07 12:07:30"
@@ -49,51 +89,75 @@
       "url": "https://news.google.com/read/CBMiswFBVV95cUxOQ1Ztd2FnSWxZeEFDMmE5NGVGazRIY1pKZzViZmxnOHMwNWxiaU1xaG90LThhVEJraTVGRUhaWTdHNlY0ZF9wUnFOb2tXalEtbUlIWkF6c3BQTm1TUmxiczZNQy05ZHQ5aE4yazdyUVpEMVloM1BFbU5EZ3hlQ1A0bUxCOUFNcVFXYkU0Q1p2Nm9XQzBEZnF5THlFR1QzV0Y5QjdDeU9BV0tOOHBwNUpfeFJzRQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T02:47:10.000Z",
       "pub_sort_dt": "2026-09-07 10:47:10"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国将向国有银行和保险公司注资540亿美元以提振经济 - BBC",
-      "title_cn": "中国将向国有银行和保险公司注资540亿美元以提振经济 - BBC",
-      "url": "https://news.google.com/read/CBMiWkFVX3lxTE00a2FqemF4cG9JVUVkR2JYRWZCeTFGVjZITS1aWXprVVBqbElzajJpS1doVWhPUlNSMTNTTHhQcWlRSFdxVmNQVFlYRUl5aDhHbnlKeVh0Sl9nZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T02:26:12.000Z",
-      "pub_sort_dt": "2026-09-07 10:26:12"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "消费品牌应如何应对中国折扣热潮？ - Retail Asia",
-      "title_cn": "消费品牌应对如何应对中国折扣热潮？ - Retail Asia",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxPMWpxSWJNTWxpQnpVamp6WVpfUm1ERk1paU0tdFZRcWo4VTFkaEdTQjNzYVR2bVBKRVdfTVdUcDI3WTRjR1hkTHAxZm54dUxYQXI5WHZpOTE1UVZrNVJxZjJ3UzVZREZiNzRWaER1VFE0RUk3dE9idTJvZmJod0Q3U056SmF4ODJOZTNoYnB4LUN3bHFKS1I1RHdZaFBvQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T02:05:34.000Z",
-      "pub_sort_dt": "2026-09-07 10:05:34"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国电动汽车制造商在竞相超越特斯拉、进军类人机器人领域的过程中看到了协同效应 - South China Morning Post",
-      "title_cn": "中国电动汽车制造商在竞相超越特斯拉、进军类机器人领域的过程中看到了良好效果 - 南华早报",
-      "url": "https://news.google.com/read/CBMi2wFBVV95cUxPWkdrdUVDZksxd2t0Y2dJTl9mUkhaNi10WjZBVHY0Q3o3bnRaeWp3bzAzWWpYU1daVFRTS0dDaHNQMEc3cVI1TENlOGpkSzhwdmNPYTNkLW1TSFZnVUtRdUlFNExKb3cxdjZQUXpCUFdFZlFGYmpQSTBkeHhJRmpCNmVOYkRXUVdoTWh2NVJoUmZfQ3AzazMyajJBbGdETmxhSVZ2SF9hcTltdF9LVFB2ZkZ5YnV3eVJwUWFicGxVOHlUdE40RW5pOGxvU01hS0dab043QW9XeGZXQkXSAdsBQVVfeXFMT0RRX0RYVUxiWU96eGhhVzZJa3IyWldKQjEtUnFrOUFoOWFLMjY0SXZTRnBPUlBYS2JNbGE4NHVOTkRBczd0ZXE5NzNESnlTSDVwNjU4UklVOG9MbENZcDh0RFc5c3pWalFaNGFNV2R0M3gzNThJZ0RuQ1ZaUlFYYVY2dXRUNm02SmN3RnBja0pYRFFycmluUEh2RjVmUG1EalY2Q09CNGhXNVJtY3ltOWdPVmVpeEhGaGlxUXEzWXZYNzVtS3lObGZiVTBIanBzeXpwY0JNal9NTGJR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T02:00:19.000Z",
-      "pub_sort_dt": "2026-09-07 10:00:19"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "患者纷纷飞往中国接受最新的癌症治疗 - WSJ",
-      "title_cn": "患者纷纷飞往中国接受最新的癌症治疗 - WSJ",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxQbEx5Um9QbC1VWThkcE1oa2tvRkQyRWRJWGRncHZGODFjSVFLU1htb0gyaXYyY0RpRmtOenFUblpubU1GbjdDSFcyTS1mY3RSUnFaYTRKc0tGdFRDSlA2djNQek0tTlpjQk9mM0pEWV9iNVcycV9ETEVtYXNFX1RFbVVGMGRVTXl6OGdRSjN5S1duQ1VFMWR3SklfVG5pY08tRDdHbkFLcjVWY2M?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T02:00:00.000Z",
-      "pub_sort_dt": "2026-09-07 10:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "高盛称，中国房地产市场动向导致土地销售额锐减30% - Bloomberg.com",
-      "title_cn": "高盛称，中国房地产市场动向导致土地销售额锐减30% - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxNclU4SktObnlieXptUVJGX1h4cU1qUDhCTHNPRVAxcTFuR3VjQ3NYN1hkN3dYdEN2eFQzMnY5N1VxN2tBVjlzRWNWanQ4OU83YnBsTm14WWFnVnFuV2NJWks5X2VLdjZqOEE3WV9id0c1eXotc3dMbGdhRlozdkNZQmw5VV9RcWpIdzROa3dxbTZNU1NHZDBDTGx0eG1NLUN0LTEwczREb2gyQm1SQndpcUxvRQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T01:44:00.000Z",
-      "pub_sort_dt": "2026-09-07 09:44:00"
     }
   ],
   "media_news": [
     {
       "source": "Reuters",
+      "title_en": "比利时以涉嫌半导体间谍活动为由拘留一名中国男子",
+      "title_cn": "比利时以涉嫌半导体间谍活动为由扣留一名中国男子",
+      "url": "https://reut.rs/4xH2V4e",
+      "pub_raw": "2026-09-07T09:46:57.892Z",
+      "pub_sort_dt": "2026-09-07 17:46:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Shein市值缩水50亿美元，成为香港股市上市后表现最差的一周之一",
+      "title_cn": "Shein市值缩水50亿美元，成为香港股市上市后表现最差的一周之一",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/shein-s-value-down-5-billion-among-hk-s-worst-post-ipo-weeks",
+      "pub_raw": "2026-09-07T09:32:27.905Z",
+      "pub_sort_dt": "2026-09-07 17:32:27"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "华为这款售价3,000美元的设备引领了中国对可折叠iPhone的回应",
+      "title_cn": "华为这款售价 3,000 美元的设备引领了中国对可折叠 iPhone 的回应",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone",
+      "pub_raw": "2026-09-07T09:16:15.093Z",
+      "pub_sort_dt": "2026-09-07 17:16:15"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "一名中国芯片间谍嫌疑人于布鲁塞尔飞往北京的航班起飞前被捕",
+      "title_cn": "一名中国芯片间谍嫌疑人在伊斯坦布尔北京的航班车站前搭乘",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/chinese-chip-spy-suspect-arrested-before-brussels-beijing-flight",
+      "pub_raw": "2026-09-07T08:59:50.040Z",
+      "pub_sort_dt": "2026-09-07 16:59:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国扩大对台湾太平洋沿岸海域的巡逻，加剧了海上紧张局势",
+      "title_cn": "中国扩大对台湾太平洋沿岸的巡逻，增强了海上紧张局势",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/china-piles-pressure-on-taiwan-with-fresh-patrols-off-east-coast",
+      "pub_raw": "2026-09-07T08:27:53.783Z",
+      "pub_sort_dt": "2026-09-07 16:27:53"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "分析师称，中国保险公司的注资可能提振股票投资",
+      "title_cn": "分析师称，中国保险公司的注资可能提振股票投资",
+      "url": "https://reut.rs/4iRcFUV",
+      "pub_raw": "2026-09-07T08:27:53.658Z",
+      "pub_sort_dt": "2026-09-07 16:27:53"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "路透社调查显示，中国8月出口增速有望加快",
+      "title_cn": "路透社调查显示，中国8月出口得知有望加快",
+      "url": "https://reut.rs/4yhKBP4",
+      "pub_raw": "2026-09-07T07:40:50.879Z",
+      "pub_sort_dt": "2026-09-07 15:40:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国石油需求回暖推动从刚果到巴西的油价飙升",
+      "title_cn": "中国石油需求回暖推动巴西收入增长",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/china-oil-demand-revival-spurs-price-spikes-from-congo-to-brazil",
+      "pub_raw": "2026-09-07T07:09:05.097Z",
+      "pub_sort_dt": "2026-09-07 15:09:05"
+    },
+    {
+      "source": "Reuters",
       "title_en": "从舞池到战场：中国正将类人机器人投入实战",
       "title_cn": "从舞池到战场：中国正将类人机器人投入实战",
       "url": "https://reut.rs/4xfrFzA",
@@ -187,77 +251,53 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-06/agbank-icbc-plan-private-placements-totaling-up-to-260b-yuan-mtpk2qgx",
       "pub_raw": "2026-09-06T10:40:48.601Z",
       "pub_sort_dt": "2026-09-06 18:40:48"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "随着中国竞争对手施加越来越大的压力，捷豹路虎计划裁员多达4,000人",
-      "title_cn": "随着中国竞争对手施加越来越大的压力，捷豹路虎计划评审多达4000人",
-      "url": "https://www.ft.com/content/4a751ca7-83ac-4c62-8d3f-3643e74ad92b?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-06T10:25:48.178Z",
-      "pub_sort_dt": "2026-09-06 18:25:48"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港的陈先生表示，更多中亚国有企业将赴港上市",
-      "title_cn": "香港的陈先生表示，更多中国国有企业将赴港上市",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-06/hk-s-chan-says-more-central-asia-state-firms-set-to-list-in-city",
-      "pub_raw": "2026-09-06T07:18:13.949Z",
-      "pub_sort_dt": "2026-09-06 15:18:13"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "在西方制裁的背景下，俄罗斯黄金大量涌入香港",
-      "title_cn": "在西方制裁的背景下，俄罗斯黄金大量涌入香港",
-      "url": "https://www.ft.com/content/39b0c966-b153-4706-9325-2f6176ba3752?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-06T04:39:44.811Z",
-      "pub_sort_dt": "2026-09-06 12:39:44"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "交易员纷纷涌向看涨中国股市的交易，将其视为人工智能的替代选择",
-      "title_cn": "交易员纷纷涌向看涨中国股市的交易，将其视为人工智能的替代选择",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-06/traders-flock-to-bullish-chinese-stock-bets-for-ai-alternative",
-      "pub_raw": "2026-09-06T01:28:48.068Z",
-      "pub_sort_dt": "2026-09-06 09:28:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国选手郑在美网重燃竞技激情",
-      "title_cn": "中国选手郑在美网重燃竞技热",
-      "url": "https://reut.rs/4i96Wts",
-      "pub_raw": "2026-09-05T22:51:56.918Z",
-      "pub_sort_dt": "2026-09-06 06:51:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "西藏失踪朝圣者的家属要求中国给出解释",
-      "title_cn": "西藏失踪朝圣者的具体要求中国给出解释",
-      "url": "https://reut.rs/4xHKlco",
-      "pub_raw": "2026-09-05T12:41:57.988Z",
-      "pub_sort_dt": "2026-09-05 20:41:57"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "两名尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
-      "title_cn": "尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
-      "url": "https://reut.rs/4iesEMC",
-      "pub_raw": "2026-09-05T09:15:48.752Z",
-      "pub_sort_dt": "2026-09-05 17:15:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据央视报道，中国江西省发生山体滑坡，逾10人被困",
-      "title_cn": "据央视报道，中国江西省发生山体滑坡，逾10人被困",
-      "url": "https://reut.rs/3SNT7WU",
-      "pub_raw": "2026-09-05T05:18:02.193Z",
-      "pub_sort_dt": "2026-09-05 13:18:02"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "一名英国人在中国被对手从燃烧的法拉利赛车中救出 - The Times",
+      "title_cn": "一位英国人在中国被对手从燃烧的法拉利赛车中救出 - 泰晤士报",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxNRzRjTHlvZE9uXzVmdTZ0LXJ5bW81dFlyb1BGSU5RalZUbzM4aTByS2s0bU9YWEhwdWl4SXluM0dMQldGbUxGLXRjeWJrNXNZanRScDk5cnllTmFNdUpJTkhTOHlPNDZsb3JKRkxpdEk3V3AxZERvSHdLbExfcmxqTE1Ld2I5NTBZeUxqZWIyNFNYWU52d3dZbHRIUkYzVlFMRllXNENfLVM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T08:30:00.000Z",
+      "pub_sort_dt": "2026-09-07 16:30:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "天气追踪：台风“萨乌德”导致中国东南地区大规模疏散 - The Guardian",
+      "title_cn": "天气追踪：台风“萨乌德”导致中国东南地区大规模疏散 - 英国卫报",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxNV0VfcFBSVFY1cTNnVGJRdWNsRExCNW1COXlLanFnVEtUUXRUS2E5aE1sUG5vU05QM2UzTzJlR2dHRklHeVZqMXd6eFZUNFNpQmx1aE12UXdzS3VDd0N3cXYxMUtMajNmYkpoU010OWdyaHFKQXNaVjVnQlA5NlJ4Z1JEQ20yY1pkZUZmMzllRDFCY2daNFgxQzFUYjdkc0ZEbFFXTDRrSUc3Nk90T0Zn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T08:29:00.000Z",
+      "pub_sort_dt": "2026-09-07 16:29:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "为什么电动汽车电池制造商的利润几乎是该行业汽车制造商的两倍？ - South China Morning Post",
+      "title_cn": "为什么电动汽车电池制造商的利润几乎是该行业汽车制造商的两倍？ - 南华早报",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxQODgxTVRxM1hSSmI0UXdKeEZNTmJuMVJhazhsb3pNbTEwUjBhSnpyQTJfU3JzUWRsQ04zajVHVVhhZVZpX3V6S2kyaE82U0hrVGRmSHR3eXl1dTRlWnF5NXRNbFF4X1NXR096Yi1tbGNoNXBWdFJBM3BuVFk2WlY2eU5kRWlZbzRXUU41WjdZa3Vpc3lFN1lnbmtQNU9TVmM5blpjS180VFFuekFXbnY3R0JZS0pGT0xHeUxrQU9BOUN5a2NBMHlIMWxB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T07:11:26.000Z",
+      "pub_sort_dt": "2026-09-07 15:11:26"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国石油需求复苏推动从刚果到巴西的油价飙升 - Bloomberg.com",
+      "title_cn": "中国石油需求复苏推动巴西GDP增长 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxNMXpSaHpXNnJWS1p6MEtfMjdyRnNaU1lBam1DdDhUNFdiU2ZPMzRoRkNtVF9FbW9ObjZvQWotQTZ3Yk5fVU5Memt4eGM1SmVoUjk4a2dkN0xNQTBhZTFUOWkzV0pFOENWYURmejlTN1pkcG1idTVEOHhwajlSRWljMVhfM3lRQ0NNdFFmRUdXTHdNTW9WTmgtcmhTMzl6T1FvSkNwUXF5OHN6bUVuMk9aNl83WklIdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T06:55:00.000Z",
+      "pub_sort_dt": "2026-09-07 14:55:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "从舞池到战场：中国正将类人机器人投入实战 - Reuters",
+      "title_cn": "从舞池到战场：中国正将类人机器人投入实战 - 路透中文网",
+      "url": "https://news.google.com/read/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T06:04:00.000Z",
+      "pub_sort_dt": "2026-09-07 14:04:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "菲律宾警告称，随着美韩军演规模缩减，中国可能会重新展现强势姿态 - Al Jazeera",
-      "title_cn": "菲律宾警告称，随着美韩军演规模缩减，中国可能会重新展现强势姿态 - Al Jazeera",
+      "title_cn": "预防警告称，随着美韩军演规模缩小，中国可能会重新做出强势姿势 - 半岛电视台",
       "url": "https://news.google.com/read/CBMitAFBVV95cUxQdzFLRlVwZ3dIZHFIN1I5cUEzbVdydHhQemNMYXRZRU01VWtLcXFYN3FYdWpvMXNKQ2xXbFpkQTFmWDhsZVhUYWRFeDNGdnN6OHZra09OajdGX3lwRDF0Y2l5UklDN2tRemRXOTB5ejlRTlpKMkZfelNvaHhpTWJPeUE3NGdWV3d4MVlFM0NzVjR3VWNSYm5ydXpGdXpuUHdjelAtMFVodzExYU5Gb3VYSFdyWnXSAboBQVVfeXFMTjRHUTYyUlZqX21Ra1pWVXpEbDJ0SF94QlhNN1BWdzItYjhTWGdGcVJMZFZlQy1KTXduVzlvZmhpR01QNGlIRkRBMkRnSnc5VEhONDhnSmJ2c29YTWVud2hfNHZQYklnS3F6TFBNNnpNZUV6dTVhYk5adkwycEtoRlc5d3Z3aXlBbkJYVGRpR0lGQkJVMlBZbk9pZTgxVkZObThIR3BUQ2lPZldmM0ZJby1tcDhveGNKZFNn?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T04:07:30.000Z",
       "pub_sort_dt": "2026-09-07 12:07:30"
@@ -295,44 +335,68 @@
       "pub_sort_dt": "2026-09-07 10:47:10"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国将向国有银行和保险公司注资540亿美元以提振经济 - BBC",
-      "title_cn": "中国将向国有银行和保险公司注资540亿美元以提振经济 - BBC",
-      "url": "https://news.google.com/read/CBMiWkFVX3lxTE00a2FqemF4cG9JVUVkR2JYRWZCeTFGVjZITS1aWXprVVBqbElzajJpS1doVWhPUlNSMTNTTHhQcWlRSFdxVmNQVFlYRUl5aDhHbnlKeVh0Sl9nZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T02:26:12.000Z",
-      "pub_sort_dt": "2026-09-07 10:26:12"
+      "source": "Reuters",
+      "title_en": "比利时以涉嫌半导体间谍活动为由拘留一名中国男子",
+      "title_cn": "比利时以涉嫌半导体间谍活动为由扣留一名中国男子",
+      "url": "https://reut.rs/4xH2V4e",
+      "pub_raw": "2026-09-07T09:46:57.892Z",
+      "pub_sort_dt": "2026-09-07 17:46:57"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "消费品牌应如何应对中国折扣热潮？ - Retail Asia",
-      "title_cn": "消费品牌应对如何应对中国折扣热潮？ - Retail Asia",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxPMWpxSWJNTWxpQnpVamp6WVpfUm1ERk1paU0tdFZRcWo4VTFkaEdTQjNzYVR2bVBKRVdfTVdUcDI3WTRjR1hkTHAxZm54dUxYQXI5WHZpOTE1UVZrNVJxZjJ3UzVZREZiNzRWaER1VFE0RUk3dE9idTJvZmJod0Q3U056SmF4ODJOZTNoYnB4LUN3bHFKS1I1RHdZaFBvQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T02:05:34.000Z",
-      "pub_sort_dt": "2026-09-07 10:05:34"
+      "source": "Bloomberg",
+      "title_en": "Shein市值缩水50亿美元，成为香港股市上市后表现最差的一周之一",
+      "title_cn": "Shein市值缩水50亿美元，成为香港股市上市后表现最差的一周之一",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/shein-s-value-down-5-billion-among-hk-s-worst-post-ipo-weeks",
+      "pub_raw": "2026-09-07T09:32:27.905Z",
+      "pub_sort_dt": "2026-09-07 17:32:27"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国电动汽车制造商在竞相超越特斯拉、进军类人机器人领域的过程中看到了协同效应 - South China Morning Post",
-      "title_cn": "中国电动汽车制造商在竞相超越特斯拉、进军类机器人领域的过程中看到了良好效果 - 南华早报",
-      "url": "https://news.google.com/read/CBMi2wFBVV95cUxPWkdrdUVDZksxd2t0Y2dJTl9mUkhaNi10WjZBVHY0Q3o3bnRaeWp3bzAzWWpYU1daVFRTS0dDaHNQMEc3cVI1TENlOGpkSzhwdmNPYTNkLW1TSFZnVUtRdUlFNExKb3cxdjZQUXpCUFdFZlFGYmpQSTBkeHhJRmpCNmVOYkRXUVdoTWh2NVJoUmZfQ3AzazMyajJBbGdETmxhSVZ2SF9hcTltdF9LVFB2ZkZ5YnV3eVJwUWFicGxVOHlUdE40RW5pOGxvU01hS0dab043QW9XeGZXQkXSAdsBQVVfeXFMT0RRX0RYVUxiWU96eGhhVzZJa3IyWldKQjEtUnFrOUFoOWFLMjY0SXZTRnBPUlBYS2JNbGE4NHVOTkRBczd0ZXE5NzNESnlTSDVwNjU4UklVOG9MbENZcDh0RFc5c3pWalFaNGFNV2R0M3gzNThJZ0RuQ1ZaUlFYYVY2dXRUNm02SmN3RnBja0pYRFFycmluUEh2RjVmUG1EalY2Q09CNGhXNVJtY3ltOWdPVmVpeEhGaGlxUXEzWXZYNzVtS3lObGZiVTBIanBzeXpwY0JNal9NTGJR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T02:00:19.000Z",
-      "pub_sort_dt": "2026-09-07 10:00:19"
+      "source": "Bloomberg",
+      "title_en": "华为这款售价3,000美元的设备引领了中国对可折叠iPhone的回应",
+      "title_cn": "华为这款售价 3,000 美元的设备引领了中国对可折叠 iPhone 的回应",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone",
+      "pub_raw": "2026-09-07T09:16:15.093Z",
+      "pub_sort_dt": "2026-09-07 17:16:15"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "患者纷纷飞往中国接受最新的癌症治疗 - WSJ",
-      "title_cn": "患者纷纷飞往中国接受最新的癌症治疗 - WSJ",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxQbEx5Um9QbC1VWThkcE1oa2tvRkQyRWRJWGRncHZGODFjSVFLU1htb0gyaXYyY0RpRmtOenFUblpubU1GbjdDSFcyTS1mY3RSUnFaYTRKc0tGdFRDSlA2djNQek0tTlpjQk9mM0pEWV9iNVcycV9ETEVtYXNFX1RFbVVGMGRVTXl6OGdRSjN5S1duQ1VFMWR3SklfVG5pY08tRDdHbkFLcjVWY2M?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T02:00:00.000Z",
-      "pub_sort_dt": "2026-09-07 10:00:00"
+      "source": "Bloomberg",
+      "title_en": "一名中国芯片间谍嫌疑人于布鲁塞尔飞往北京的航班起飞前被捕",
+      "title_cn": "一名中国芯片间谍嫌疑人在伊斯坦布尔北京的航班车站前搭乘",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/chinese-chip-spy-suspect-arrested-before-brussels-beijing-flight",
+      "pub_raw": "2026-09-07T08:59:50.040Z",
+      "pub_sort_dt": "2026-09-07 16:59:50"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "高盛称，中国房地产市场动向导致土地销售额锐减30% - Bloomberg.com",
-      "title_cn": "高盛称，中国房地产市场动向导致土地销售额锐减30% - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxNclU4SktObnlieXptUVJGX1h4cU1qUDhCTHNPRVAxcTFuR3VjQ3NYN1hkN3dYdEN2eFQzMnY5N1VxN2tBVjlzRWNWanQ4OU83YnBsTm14WWFnVnFuV2NJWks5X2VLdjZqOEE3WV9id0c1eXotc3dMbGdhRlozdkNZQmw5VV9RcWpIdzROa3dxbTZNU1NHZDBDTGx0eG1NLUN0LTEwczREb2gyQm1SQndpcUxvRQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T01:44:00.000Z",
-      "pub_sort_dt": "2026-09-07 09:44:00"
+      "source": "Bloomberg",
+      "title_en": "中国扩大对台湾太平洋沿岸海域的巡逻，加剧了海上紧张局势",
+      "title_cn": "中国扩大对台湾太平洋沿岸的巡逻，增强了海上紧张局势",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/china-piles-pressure-on-taiwan-with-fresh-patrols-off-east-coast",
+      "pub_raw": "2026-09-07T08:27:53.783Z",
+      "pub_sort_dt": "2026-09-07 16:27:53"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "分析师称，中国保险公司的注资可能提振股票投资",
+      "title_cn": "分析师称，中国保险公司的注资可能提振股票投资",
+      "url": "https://reut.rs/4iRcFUV",
+      "pub_raw": "2026-09-07T08:27:53.658Z",
+      "pub_sort_dt": "2026-09-07 16:27:53"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "路透社调查显示，中国8月出口增速有望加快",
+      "title_cn": "路透社调查显示，中国8月出口得知有望加快",
+      "url": "https://reut.rs/4yhKBP4",
+      "pub_raw": "2026-09-07T07:40:50.879Z",
+      "pub_sort_dt": "2026-09-07 15:40:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国石油需求回暖推动从刚果到巴西的油价飙升",
+      "title_cn": "中国石油需求回暖推动巴西收入增长",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/china-oil-demand-revival-spurs-price-spikes-from-congo-to-brazil",
+      "pub_raw": "2026-09-07T07:09:05.097Z",
+      "pub_sort_dt": "2026-09-07 15:09:05"
     },
     {
       "source": "Reuters",
@@ -429,70 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-06/agbank-icbc-plan-private-placements-totaling-up-to-260b-yuan-mtpk2qgx",
       "pub_raw": "2026-09-06T10:40:48.601Z",
       "pub_sort_dt": "2026-09-06 18:40:48"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "随着中国竞争对手施加越来越大的压力，捷豹路虎计划裁员多达4,000人",
-      "title_cn": "随着中国竞争对手施加越来越大的压力，捷豹路虎计划评审多达4000人",
-      "url": "https://www.ft.com/content/4a751ca7-83ac-4c62-8d3f-3643e74ad92b?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-06T10:25:48.178Z",
-      "pub_sort_dt": "2026-09-06 18:25:48"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港的陈先生表示，更多中亚国有企业将赴港上市",
-      "title_cn": "香港的陈先生表示，更多中国国有企业将赴港上市",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-06/hk-s-chan-says-more-central-asia-state-firms-set-to-list-in-city",
-      "pub_raw": "2026-09-06T07:18:13.949Z",
-      "pub_sort_dt": "2026-09-06 15:18:13"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "在西方制裁的背景下，俄罗斯黄金大量涌入香港",
-      "title_cn": "在西方制裁的背景下，俄罗斯黄金大量涌入香港",
-      "url": "https://www.ft.com/content/39b0c966-b153-4706-9325-2f6176ba3752?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-06T04:39:44.811Z",
-      "pub_sort_dt": "2026-09-06 12:39:44"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "交易员纷纷涌向看涨中国股市的交易，将其视为人工智能的替代选择",
-      "title_cn": "交易员纷纷涌向看涨中国股市的交易，将其视为人工智能的替代选择",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-06/traders-flock-to-bullish-chinese-stock-bets-for-ai-alternative",
-      "pub_raw": "2026-09-06T01:28:48.068Z",
-      "pub_sort_dt": "2026-09-06 09:28:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国选手郑在美网重燃竞技激情",
-      "title_cn": "中国选手郑在美网重燃竞技热",
-      "url": "https://reut.rs/4i96Wts",
-      "pub_raw": "2026-09-05T22:51:56.918Z",
-      "pub_sort_dt": "2026-09-06 06:51:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "西藏失踪朝圣者的家属要求中国给出解释",
-      "title_cn": "西藏失踪朝圣者的具体要求中国给出解释",
-      "url": "https://reut.rs/4xHKlco",
-      "pub_raw": "2026-09-05T12:41:57.988Z",
-      "pub_sort_dt": "2026-09-05 20:41:57"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "两名尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
-      "title_cn": "尼泊尔人获救次日，一名中国公民在尼泊尔隧道中获救",
-      "url": "https://reut.rs/4iesEMC",
-      "pub_raw": "2026-09-05T09:15:48.752Z",
-      "pub_sort_dt": "2026-09-05 17:15:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据央视报道，中国江西省发生山体滑坡，逾10人被困",
-      "title_cn": "据央视报道，中国江西省发生山体滑坡，逾10人被困",
-      "url": "https://reut.rs/3SNT7WU",
-      "pub_raw": "2026-09-05T05:18:02.193Z",
-      "pub_sort_dt": "2026-09-05 13:18:02"
     }
   ]
 }
