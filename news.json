@@ -1,15 +1,39 @@
 {
-  "update_cst": "2026-09-07 12:00:55 北京时间",
+  "update_cst": "2026-09-07 15:01:01 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
-    "Bloomberg": 9,
-    "Financial Times": 3,
-    "Wall Street Journal": 2,
-    "Reuters": 5
+    "Bloomberg": 5,
+    "Financial Times": 4,
+    "Wall Street Journal": 1,
+    "Reuters": 9
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "菲律宾警告称，随着美韩军演规模缩减，中国可能会重新展现强势姿态 - Al Jazeera",
+      "title_cn": "菲律宾警告称，随着美韩军演规模缩减，中国可能会重新展现强势姿态 - Al Jazeera",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQdzFLRlVwZ3dIZHFIN1I5cUEzbVdydHhQemNMYXRZRU01VWtLcXFYN3FYdWpvMXNKQ2xXbFpkQTFmWDhsZVhUYWRFeDNGdnN6OHZra09OajdGX3lwRDF0Y2l5UklDN2tRemRXOTB5ejlRTlpKMkZfelNvaHhpTWJPeUE3NGdWV3d4MVlFM0NzVjR3VWNSYm5ydXpGdXpuUHdjelAtMFVodzExYU5Gb3VYSFdyWnXSAboBQVVfeXFMTjRHUTYyUlZqX21Ra1pWVXpEbDJ0SF94QlhNN1BWdzItYjhTWGdGcVJMZFZlQy1KTXduVzlvZmhpR01QNGlIRkRBMkRnSnc5VEhONDhnSmJ2c29YTWVud2hfNHZQYklnS3F6TFBNNnpNZUV6dTVhYk5adkwycEtoRlc5d3Z3aXlBbkJYVGRpR0lGQkJVMlBZbk9pZTgxVkZObThIR3BUQ2lPZldmM0ZJby1tcDhveGNKZFNn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T04:07:30.000Z",
+      "pub_sort_dt": "2026-09-07 12:07:30"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国绿色技术如何削弱美国在非洲的能源战略 - South China Morning Post",
+      "title_cn": "中国绿色技术如何羡慕美国在非洲的能源战略 - 南华早报",
+      "url": "https://news.google.com/read/CBMi0gFBVV95cUxQbnhRWHZ4azNWX0h2QTN1MTk5VmJTVlBHRloyMmVpUE1Lb2RfNG4wQ083dHExU3JsbkxuTVZBeU5xZWhVM0doZWY5UG13UFRfUl81a1FBRXNyOTFsUjhPYndLYjBmckVQR2xBcmFFT0xVSlFhTHVwUG5qaDdKY2FhblJwMFc3enhoUDhCTzd0amVLWDRlNTd0enNENkg5Q2ppQk9uVGpqeGZrVl8zbS0xcGJCU2RDb2NYUGtGV1U1RTdicmQwcXktTVo5LXlqVGlXX0HSAdIBQVVfeXFMTWc2LXk3M1o5Nk1nbFdUSFJfbHBSQUNNallpLXRtNmFYRFAtYzU2TjFRTE5jUnBXeFpSNzVRSFM2Y0U4endEV3g4TC11WkljRDkzYmxWYnQyRno0VzczeWFBd0p6RU5jdEVxVDZhZFhpamVxWU5pUzlQbW5WeHF0VTk5QTdwNHJJZEJGaG1VTTlLTlNyTEdycFhQeFFycjducEJ1VGVCWmZrUXFsOFNNU245dHBaTkREVzYyNHJUNEdBLUlIVC1LOGg4dmtfQjdQbWt3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T04:00:09.000Z",
+      "pub_sort_dt": "2026-09-07 12:00:09"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "菲律宾的特奥多罗表示，中国可能会利用美韩军演规模缩减这一情况 - Reuters",
+      "title_cn": "预防的特奥多罗表示，中国可能会利用美韩军演规模缩小情况这种情况 - 路透社",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxPblpmdXplOXBOQVExNG5JSkkta1E0VEJYNDRqRG1ncUNrQ1Q3eS1RQmQ5T05OUG1rbUVYakhHM0hzWUwyRHJIa1FmWmFCeXdRbF8xbmctNVpXZ3ZDaldhMjJNMEVZMXlLU1ZSandKQl96MzhXMTJEdUhOcXNUZGJ3RE15X01hYlE5NFMzaEFPbjY0REQ1Z2Q3Q0RFeWpFZnFiUHpKckNCcjE0SEptdXRyZVlJRVAydHJCQjVYdHktZ3U0T3ZrVmNr?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T03:26:00.000Z",
+      "pub_sort_dt": "2026-09-07 11:26:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "Breakingviews - 评论：中国AI巨头向英伟达的护城河喷火 - Reuters",
@@ -28,6 +52,22 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "中国将向国有银行和保险公司注资540亿美元以提振经济 - BBC",
+      "title_cn": "中国将向国有银行和保险公司注资540亿美元以提振经济 - BBC",
+      "url": "https://news.google.com/read/CBMiWkFVX3lxTE00a2FqemF4cG9JVUVkR2JYRWZCeTFGVjZITS1aWXprVVBqbElzajJpS1doVWhPUlNSMTNTTHhQcWlRSFdxVmNQVFlYRUl5aDhHbnlKeVh0Sl9nZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T02:26:12.000Z",
+      "pub_sort_dt": "2026-09-07 10:26:12"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "消费品牌应如何应对中国折扣热潮？ - Retail Asia",
+      "title_cn": "消费品牌应对如何应对中国折扣热潮？ - Retail Asia",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxPMWpxSWJNTWxpQnpVamp6WVpfUm1ERk1paU0tdFZRcWo4VTFkaEdTQjNzYVR2bVBKRVdfTVdUcDI3WTRjR1hkTHAxZm54dUxYQXI5WHZpOTE1UVZrNVJxZjJ3UzVZREZiNzRWaER1VFE0RUk3dE9idTJvZmJod0Q3U056SmF4ODJOZTNoYnB4LUN3bHFKS1I1RHdZaFBvQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T02:05:34.000Z",
+      "pub_sort_dt": "2026-09-07 10:05:34"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国电动汽车制造商在竞相超越特斯拉、进军类人机器人领域的过程中看到了协同效应 - South China Morning Post",
       "title_cn": "中国电动汽车制造商在竞相超越特斯拉、进军类机器人领域的过程中看到了良好效果 - 南华早报",
       "url": "https://news.google.com/read/CBMi2wFBVV95cUxPWkdrdUVDZksxd2t0Y2dJTl9mUkhaNi10WjZBVHY0Q3o3bnRaeWp3bzAzWWpYU1daVFRTS0dDaHNQMEc3cVI1TENlOGpkSzhwdmNPYTNkLW1TSFZnVUtRdUlFNExKb3cxdjZQUXpCUFdFZlFGYmpQSTBkeHhJRmpCNmVOYkRXUVdoTWh2NVJoUmZfQ3AzazMyajJBbGdETmxhSVZ2SF9hcTltdF9LVFB2ZkZ5YnV3eVJwUWFicGxVOHlUdE40RW5pOGxvU01hS0dab043QW9XeGZXQkXSAdsBQVVfeXFMT0RRX0RYVUxiWU96eGhhVzZJa3IyWldKQjEtUnFrOUFoOWFLMjY0SXZTRnBPUlBYS2JNbGE4NHVOTkRBczd0ZXE5NzNESnlTSDVwNjU4UklVOG9MbENZcDh0RFc5c3pWalFaNGFNV2R0M3gzNThJZ0RuQ1ZaUlFYYVY2dXRUNm02SmN3RnBja0pYRFFycmluUEh2RjVmUG1EalY2Q09CNGhXNVJtY3ltOWdPVmVpeEhGaGlxUXEzWXZYNzVtS3lObGZiVTBIanBzeXpwY0JNal9NTGJR?hl=en-US&gl=US&ceid=US%3Aen",
@@ -36,64 +76,80 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "患者纷纷飞往中国接受最新的癌症治疗 - WSJ",
+      "title_cn": "患者纷纷飞往中国接受最新的癌症治疗 - WSJ",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxQbEx5Um9QbC1VWThkcE1oa2tvRkQyRWRJWGRncHZGODFjSVFLU1htb0gyaXYyY0RpRmtOenFUblpubU1GbjdDSFcyTS1mY3RSUnFaYTRKc0tGdFRDSlA2djNQek0tTlpjQk9mM0pEWV9iNVcycV9ETEVtYXNFX1RFbVVGMGRVTXl6OGdRSjN5S1duQ1VFMWR3SklfVG5pY08tRDdHbkFLcjVWY2M?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T02:00:00.000Z",
+      "pub_sort_dt": "2026-09-07 10:00:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "高盛称，中国房地产市场动向导致土地销售额锐减30% - Bloomberg.com",
-      "title_cn": "高盛称，中国房地产市场动向导致土地成交锐减30% - Bloomberg.com",
+      "title_cn": "高盛称，中国房地产市场动向导致土地销售额锐减30% - Bloomberg.com",
       "url": "https://news.google.com/read/CBMiswFBVV95cUxNclU4SktObnlieXptUVJGX1h4cU1qUDhCTHNPRVAxcTFuR3VjQ3NYN1hkN3dYdEN2eFQzMnY5N1VxN2tBVjlzRWNWanQ4OU83YnBsTm14WWFnVnFuV2NJWks5X2VLdjZqOEE3WV9id0c1eXotc3dMbGdhRlozdkNZQmw5VV9RcWpIdzROa3dxbTZNU1NHZDBDTGx0eG1NLUN0LTEwczREb2gyQm1SQndpcUxvRQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T01:44:00.000Z",
       "pub_sort_dt": "2026-09-07 09:44:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国的“恋爱盲区”现象：从古代根源到现代困境 - South China Morning Post",
-      "title_cn": "中国的“恋爱盲区”现象：从古代根源到现代困境 - 南华早报",
-      "url": "https://news.google.com/read/CBMi8AFBVV95cUxOQWplZWR2aTlIek9aeFVTZnpveWUtemRnSEhqbWU5QlJJdHBMZmhYUDhqUGFQalU1U042Y3dKOHA2djJtb1JJWjByYV93R2s3TUxBNW1LcG9xdng2UjJ0NkVEekVJaTBDVVYtSVh4ZFpfTnFpV2ctR0JtVHZqUWVkWGhlUDg5bjVTTTd4OWtCeWdycGwzek5CRzRBNlVTZm9JVWpLYVcwalo1WGd2cDhaVEdwdnUxcV94NHBDZi1RWlp3RDA0NTJwLW1KYlVWdWthM21OSEJuOVl3dnA0UTYzQnJ2S3NXN0NrRlVzOHBVU0TSAfABQVVfeXFMTlFMeW14U0c5Zy1XVk9vcXFLSm1EU1NuZW51SDhoanc3cE5kM0tua08yQVkwdFAyOTZWODFEdF9MMTVSS19SSGpadDdPajV0cnJ6VjhoWnRWdWxKVUkyYi00bHJVT1pPaHFwaXgzQkMzaUQ2LVN1eG4yYXRJcUZWa0ZRck5DckpmRV9Fd0RXNWExQW5iWTZHRldBYU1DUVFrVW9DbnlreW4xakRGeHFlaDVPd3lkenprTE55OG9NQ25iNmRyZE1OZ0VxbWhmYndLY3BHVTdSTzNfWEY3TGZNMXpPUmFvcFR3VGp2MTZEemx4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T01:12:15.000Z",
-      "pub_sort_dt": "2026-09-07 09:12:15"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国在建设绕过俄罗斯的中亚铁路项目中，一处重要隧道工程取得重大进展 - South China Morning Post",
-      "title_cn": "中国在建设绕行俄罗斯中亚铁路项目中一处重要隧道工程取得重大进展 - 南华早报",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxPZllQQzZsWmdKSTJlMmJtR3haTGFBWWZLM2wyOTJUUGFVMTZTaFlnNm1faUFrRGE4ZG9sYVgyZlFPZzBuMm9oTGU5SUxUZlVTM0dqd3Jfa1ByN1JZdTRBX0ZFZDVFYjg5N25hMEtBQ2trQVphZXNxYVNkSlRtbTdwak9zRjVnam1VVXA1OG81X1VPWkxQWHVxVkx0c25uWXdiYUdZbmRsTmtlbTlyUHhpcXk3d0RqNGZCaXhxVk9UUy1IYWJOYkNhOHV30gHKAUFVX3lxTE52WTRCQkZfdnQzZEhLa3NQMFZETkxzMF92eERNc3V0UUpqNzh3RjlRSWhpWXh4RHVLTHNpM1h4aDJ5Y19pUWJVc0ZrY0d6SzRmNlk2eHZJLUxQVGdwVFdMTGVEdklBbExVNGZfbm9wTmZDWkpoeFdYa0IyZVVNU01LQ2NKRlUtYXM4ak1obVEtVWpTcndTX08wbWZIMVEtajNSN09EQ2pBLVBPRnY2TmJETm9JX2k0NWNsN001ZndnWGlJZzA5TWZLdmc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T00:00:21.000Z",
-      "pub_sort_dt": "2026-09-07 08:00:21"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "前贸易官员称，中国的出口冲击正将全球经济推向临界点 - Fortune",
-      "title_cn": "前贸易官员称，中国的出口冲击正将全球经济推向临界点 - 《财富》",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxNWG9UdmFJZzJGaDZkY2otRW1EQkUwaVhaYXNzNTdYTDZFcktDbk1CWHdrVUJ6QnZKVjQtaGd5cTgtSk04N1ZWUlJHUF9Obm9SQWdYczBNMGxOWUhXYlprMTYxQS1ETDJnOW0zN2E1TENFVmkxRmhBb2RoTFotaFgweDZ0aVM5em9JYXdFQW1UWWYzLXozTUZnZ2o4R3VnRFE4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T23:04:00.000Z",
-      "pub_sort_dt": "2026-09-07 07:04:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "独家 兰小欢谈中国为提振内需而采取的平衡之策 - South China Morning Post",
-      "title_cn": "独家兰小欢谈中国为提振内需而采取的平衡之策 - 南华早报",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxQc3NISWVlbXdGWkFKai1LTEtKeGRHRVpBMHEtdTgxa3UzMFlBN0VKbU94b1RLS3pHa1pHS3QzcFd4SUhrV0tNVWFnanhVenQ0MVl1amxfbzVxbjJqN2duMkF2eGs3WXA3VDUzVVB2ZGNmNnYyVGtSaE5GeGtVZXVoS0xfMURLdDU5eEQzVS00ZFNWOWdqWTVCcFE2SlBkcTJjS0g0ZGJRZ2dPeURTNUEzaVlfYnU5M0pZOG0xRUNKYlZYNUZCcVg40gHHAUFVX3lxTE5fZFVwUlM4UkpNb2ZreW9qTmpIcWJaRDdxVllFZWRoMEJobWk1NG4tQkIteHBQYjhaZkY0aTFkbjktSy1HVkwya29DbGxBSzFDWVlxRkg2V3NGQ1FVZWR5MUZ1TDB2TUI4WGRrdHd5ZU1hYW9iZnNmMkRDdEI1QmthRDNLd2c5Z2ZJZHFpM3dmNng0SXVldUhmMXNHVWp5d2M0ZDFYeWt2LU1laDJxMk5xSF9qc2x4RGVEc01mZWU1MTNhUHBrem8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T22:00:09.000Z",
-      "pub_sort_dt": "2026-09-07 06:00:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "女篮世界杯上，意大利队给美国队制造了不小麻烦，中国队则险胜捷克队 - Baltimore Sun",
-      "title_cn": "女篮世界杯上，意大利队给美国队制造了不小麻烦，中国队则险胜捷克队 - 巴尔的摩太阳报",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQRHJtRkNLdW5HemZ5VWRxSkZPeFY5TGp5a3paa1lXZERsUFZQMHMybTQyb2xudmJYZkRsNjMxRDdsdTdYcWtWVEM0UmwyOGc5Um1SWGNKTFlaaUpCTGI4dktsRzl4S0IyaXpwWi0tQzNqNlRXWEc0ZjZfc1RXWmNVcDB5N3l3UVZSN09SS3lzLUhFa2lFdzRQTDZGMXdfUkRDYmpiSnM5eUJiS1N3ZkRUa2RPeHdMeDlRdnUzX1E0M2xHN0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T21:44:03.000Z",
-      "pub_sort_dt": "2026-09-07 05:44:03"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "观点 前往美国，弥合中美关系中的裂痕 - South China Morning Post",
-      "title_cn": "观点前往美国，弥合中美关系中的裂痕 - 南华早报",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxPVGZDQzR0YVFhSUVWdm1iWUpTWGxtdEhCN1YyX296TldMQkVhbVJmcHJieTZmRm82NmVWN2htME41MndJTV8yVFI3QkFyelFya0lxXzZFNTM5SXB0Z2FRN3FpY09yaUFWb1VwVFBIMXZOc3lMem8yeGg4Rm1tZGRhRDIyV1pPVFh1dm43cFJEZHo4QUdSaGVQd1E2ZTA5am0yMVUtQzJkWdIBpwFBVV95cUxOWXlic1NtdmFqSmJDamhRZW1oa1RFOTBDaHZoc2NWakQzOFBSQks4ckhUZWt4U2hLRnhpQ2tTLXUtTWNlcDlHRG5DcENMbEdidG1PYmFsOVpDUERmRmIzMnQ3d0dVLTAyMTl2V0F2T2pfdkU2SXA5ZHdZM01vN0lOaW9LbkFOUmtYUUQ1QXdYWUhqTHowSDhWLVRaYzRJSlNwM2tzMHhVdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T21:30:06.000Z",
-      "pub_sort_dt": "2026-09-07 05:30:06"
     }
   ],
   "media_news": [
     {
       "source": "Reuters",
+      "title_en": "从舞池到战场：中国正将类人机器人投入实战",
+      "title_cn": "从舞池到战场：中国正将类人机器人投入实战",
+      "url": "https://reut.rs/4xfrFzA",
+      "pub_raw": "2026-09-07T06:21:58.615Z",
+      "pub_sort_dt": "2026-09-07 14:21:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "据财联社报道，中国暂停审批电池储能制造项目",
+      "title_cn": "据财联社报道，中国暂停氦气储能制造项目",
+      "url": "https://reut.rs/4yjs70x",
+      "pub_raw": "2026-09-07T06:21:58.611Z",
+      "pub_sort_dt": "2026-09-07 14:21:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "英国车手米尔罗伊表示，在上海发生那场烈火吞噬的事故后，是对手救了他一命",
+      "title_cn": "英国议员米尔罗伊表示，在上海发生那场烈火杀害的事故后，是对手救了他一命",
+      "url": "https://reut.rs/46f1cHo",
+      "pub_raw": "2026-09-07T05:51:16.702Z",
+      "pub_sort_dt": "2026-09-07 13:51:16"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Breakingviews - 评论：中国AI巨头向英伟达的护城河喷火",
+      "title_cn": "突发观点 - 评论：中国AI工会向英伟达的护城河喷火",
+      "url": "https://reut.rs/4yopsCL",
+      "pub_raw": "2026-09-07T05:51:16.698Z",
+      "pub_sort_dt": "2026-09-07 13:51:16"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "欧盟将提出“购买欧洲产品”的公共采购规则，以挤压中国市场",
+      "title_cn": "欧盟将提出“购买欧洲产品”的公共采购规则，以挤压中国市场",
+      "url": "https://www.ft.com/content/f8e97cdb-6edb-4cb1-ae38-b3c0ceeba485?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-07T05:35:14.301Z",
+      "pub_sort_dt": "2026-09-07 13:35:14"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国向银行和保险公司注资530亿美元",
+      "title_cn": "中国向银行和保险公司注资530亿美元",
+      "url": "https://www.ft.com/content/8012b60e-c74e-49bc-9200-d37f13b4a135?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-07T04:32:15.057Z",
+      "pub_sort_dt": "2026-09-07 12:32:15"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受持仓平仓及中国买盘预期推动，铁矿石价格突破100美元",
+      "title_cn": "受持仓平仓及中国买盘预期推动，铁矿石价格突破100美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/iron-ore-tops-100-on-position-unwinds-and-china-buying-hopes",
+      "pub_raw": "2026-09-07T03:59:52.831Z",
+      "pub_sort_dt": "2026-09-07 11:59:52"
+    },
+    {
+      "source": "Reuters",
       "title_en": "面对与盟友分享人工智能红利的压力，台湾正大展“芯片外交”之势",
       "title_cn": "与中央分享人工智能红利的压力，台湾正大展“芯片中东”之势",
       "url": "https://reut.rs/3Uv7YGv",
@@ -195,65 +251,33 @@
       "url": "https://reut.rs/3SNT7WU",
       "pub_raw": "2026-09-05T05:18:02.193Z",
       "pub_sort_dt": "2026-09-05 13:18:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港的李某表示，该市将在“十二五”规划中扩大离岸人民币的使用范围",
-      "title_cn": "香港的李某表示，该市将在“十二五”规划中扩大离岸人民币的使用范围",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-05/hk-s-lee-says-city-to-expand-offshore-yuan-usage-in-5-year-plan",
-      "pub_raw": "2026-09-05T03:11:13.809Z",
-      "pub_sort_dt": "2026-09-05 11:11:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港的“Flat Iron”进军香肠卷行业却遭遇挫折",
-      "title_cn": "香港的“扁铁”进军香肠卷行业却遭遇苦难",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-05/hong-kong-s-flat-iron-bumbles-foray-into-the-sausage-roll-business",
-      "pub_raw": "2026-09-05T00:15:38.008Z",
-      "pub_sort_dt": "2026-09-05 08:15:38"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "马加最喜欢的格斗运动在中国风靡起来",
-      "title_cn": "马加最喜欢的格斗运动在中国风靡起来",
-      "url": "https://www.ft.com/content/966cbb76-93a1-4215-a610-cea5709f3d6a?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-04T20:47:16.650Z",
-      "pub_sort_dt": "2026-09-05 04:47:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普对委内瑞拉石油的掠夺对中国意味着什么",
-      "title_cn": "特朗普对委内瑞拉石油的掠夺对中国意味着什么",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/what-trump-s-venezuela-oil-grab-means-for-china",
-      "pub_raw": "2026-09-04T17:19:18.535Z",
-      "pub_sort_dt": "2026-09-05 01:19:18"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国的上海合作组织能否成为新的北约？",
-      "title_cn": "中国的上海合作组织能否成为新的北约？",
-      "url": "https://www.bloomberg.com/opinion/newsletters/2026-09-04/can-china-s-shanghai-cooperation-organization-become-the-new-nato",
-      "pub_raw": "2026-09-04T15:27:24.961Z",
-      "pub_sort_dt": "2026-09-04 23:27:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普与中国因委内瑞拉的石油和债务问题发生冲突",
-      "title_cn": "特朗普与中国因严重的石油和债务问题发生冲突",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/trump-y-china-chocan-por-petroleo-y-deuda-de-venezuela",
-      "pub_raw": "2026-09-04T15:27:24.958Z",
-      "pub_sort_dt": "2026-09-04 23:27:24"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "挑战特斯拉的电动卡车初创公司Windrose流失了大部分中国员工",
-      "title_cn": "挑战特斯拉的电动卡车货运公司Windrose流失了大部分中国员工",
-      "url": "https://on.wsj.com/3TfqiTw",
-      "pub_raw": "2026-09-04T13:51:41.850Z",
-      "pub_sort_dt": "2026-09-04 21:51:41"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "菲律宾警告称，随着美韩军演规模缩减，中国可能会重新展现强势姿态 - Al Jazeera",
+      "title_cn": "菲律宾警告称，随着美韩军演规模缩减，中国可能会重新展现强势姿态 - Al Jazeera",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQdzFLRlVwZ3dIZHFIN1I5cUEzbVdydHhQemNMYXRZRU01VWtLcXFYN3FYdWpvMXNKQ2xXbFpkQTFmWDhsZVhUYWRFeDNGdnN6OHZra09OajdGX3lwRDF0Y2l5UklDN2tRemRXOTB5ejlRTlpKMkZfelNvaHhpTWJPeUE3NGdWV3d4MVlFM0NzVjR3VWNSYm5ydXpGdXpuUHdjelAtMFVodzExYU5Gb3VYSFdyWnXSAboBQVVfeXFMTjRHUTYyUlZqX21Ra1pWVXpEbDJ0SF94QlhNN1BWdzItYjhTWGdGcVJMZFZlQy1KTXduVzlvZmhpR01QNGlIRkRBMkRnSnc5VEhONDhnSmJ2c29YTWVud2hfNHZQYklnS3F6TFBNNnpNZUV6dTVhYk5adkwycEtoRlc5d3Z3aXlBbkJYVGRpR0lGQkJVMlBZbk9pZTgxVkZObThIR3BUQ2lPZldmM0ZJby1tcDhveGNKZFNn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T04:07:30.000Z",
+      "pub_sort_dt": "2026-09-07 12:07:30"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国绿色技术如何削弱美国在非洲的能源战略 - South China Morning Post",
+      "title_cn": "中国绿色技术如何羡慕美国在非洲的能源战略 - 南华早报",
+      "url": "https://news.google.com/read/CBMi0gFBVV95cUxQbnhRWHZ4azNWX0h2QTN1MTk5VmJTVlBHRloyMmVpUE1Lb2RfNG4wQ083dHExU3JsbkxuTVZBeU5xZWhVM0doZWY5UG13UFRfUl81a1FBRXNyOTFsUjhPYndLYjBmckVQR2xBcmFFT0xVSlFhTHVwUG5qaDdKY2FhblJwMFc3enhoUDhCTzd0amVLWDRlNTd0enNENkg5Q2ppQk9uVGpqeGZrVl8zbS0xcGJCU2RDb2NYUGtGV1U1RTdicmQwcXktTVo5LXlqVGlXX0HSAdIBQVVfeXFMTWc2LXk3M1o5Nk1nbFdUSFJfbHBSQUNNallpLXRtNmFYRFAtYzU2TjFRTE5jUnBXeFpSNzVRSFM2Y0U4endEV3g4TC11WkljRDkzYmxWYnQyRno0VzczeWFBd0p6RU5jdEVxVDZhZFhpamVxWU5pUzlQbW5WeHF0VTk5QTdwNHJJZEJGaG1VTTlLTlNyTEdycFhQeFFycjducEJ1VGVCWmZrUXFsOFNNU245dHBaTkREVzYyNHJUNEdBLUlIVC1LOGg4dmtfQjdQbWt3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T04:00:09.000Z",
+      "pub_sort_dt": "2026-09-07 12:00:09"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "菲律宾的特奥多罗表示，中国可能会利用美韩军演规模缩减这一情况 - Reuters",
+      "title_cn": "预防的特奥多罗表示，中国可能会利用美韩军演规模缩小情况这种情况 - 路透社",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxPblpmdXplOXBOQVExNG5JSkkta1E0VEJYNDRqRG1ncUNrQ1Q3eS1RQmQ5T05OUG1rbUVYakhHM0hzWUwyRHJIa1FmWmFCeXdRbF8xbmctNVpXZ3ZDaldhMjJNMEVZMXlLU1ZSandKQl96MzhXMTJEdUhOcXNUZGJ3RE15X01hYlE5NFMzaEFPbjY0REQ1Z2Q3Q0RFeWpFZnFiUHpKckNCcjE0SEptdXRyZVlJRVAydHJCQjVYdHktZ3U0T3ZrVmNr?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T03:26:00.000Z",
+      "pub_sort_dt": "2026-09-07 11:26:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "Breakingviews - 评论：中国AI巨头向英伟达的护城河喷火 - Reuters",
@@ -272,6 +296,22 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "中国将向国有银行和保险公司注资540亿美元以提振经济 - BBC",
+      "title_cn": "中国将向国有银行和保险公司注资540亿美元以提振经济 - BBC",
+      "url": "https://news.google.com/read/CBMiWkFVX3lxTE00a2FqemF4cG9JVUVkR2JYRWZCeTFGVjZITS1aWXprVVBqbElzajJpS1doVWhPUlNSMTNTTHhQcWlRSFdxVmNQVFlYRUl5aDhHbnlKeVh0Sl9nZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T02:26:12.000Z",
+      "pub_sort_dt": "2026-09-07 10:26:12"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "消费品牌应如何应对中国折扣热潮？ - Retail Asia",
+      "title_cn": "消费品牌应对如何应对中国折扣热潮？ - Retail Asia",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxPMWpxSWJNTWxpQnpVamp6WVpfUm1ERk1paU0tdFZRcWo4VTFkaEdTQjNzYVR2bVBKRVdfTVdUcDI3WTRjR1hkTHAxZm54dUxYQXI5WHZpOTE1UVZrNVJxZjJ3UzVZREZiNzRWaER1VFE0RUk3dE9idTJvZmJod0Q3U056SmF4ODJOZTNoYnB4LUN3bHFKS1I1RHdZaFBvQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T02:05:34.000Z",
+      "pub_sort_dt": "2026-09-07 10:05:34"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国电动汽车制造商在竞相超越特斯拉、进军类人机器人领域的过程中看到了协同效应 - South China Morning Post",
       "title_cn": "中国电动汽车制造商在竞相超越特斯拉、进军类机器人领域的过程中看到了良好效果 - 南华早报",
       "url": "https://news.google.com/read/CBMi2wFBVV95cUxPWkdrdUVDZksxd2t0Y2dJTl9mUkhaNi10WjZBVHY0Q3o3bnRaeWp3bzAzWWpYU1daVFRTS0dDaHNQMEc3cVI1TENlOGpkSzhwdmNPYTNkLW1TSFZnVUtRdUlFNExKb3cxdjZQUXpCUFdFZlFGYmpQSTBkeHhJRmpCNmVOYkRXUVdoTWh2NVJoUmZfQ3AzazMyajJBbGdETmxhSVZ2SF9hcTltdF9LVFB2ZkZ5YnV3eVJwUWFicGxVOHlUdE40RW5pOGxvU01hS0dab043QW9XeGZXQkXSAdsBQVVfeXFMT0RRX0RYVUxiWU96eGhhVzZJa3IyWldKQjEtUnFrOUFoOWFLMjY0SXZTRnBPUlBYS2JNbGE4NHVOTkRBczd0ZXE5NzNESnlTSDVwNjU4UklVOG9MbENZcDh0RFc5c3pWalFaNGFNV2R0M3gzNThJZ0RuQ1ZaUlFYYVY2dXRUNm02SmN3RnBja0pYRFFycmluUEh2RjVmUG1EalY2Q09CNGhXNVJtY3ltOWdPVmVpeEhGaGlxUXEzWXZYNzVtS3lObGZiVTBIanBzeXpwY0JNal9NTGJR?hl=en-US&gl=US&ceid=US%3Aen",
@@ -280,59 +320,75 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "患者纷纷飞往中国接受最新的癌症治疗 - WSJ",
+      "title_cn": "患者纷纷飞往中国接受最新的癌症治疗 - WSJ",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxQbEx5Um9QbC1VWThkcE1oa2tvRkQyRWRJWGRncHZGODFjSVFLU1htb0gyaXYyY0RpRmtOenFUblpubU1GbjdDSFcyTS1mY3RSUnFaYTRKc0tGdFRDSlA2djNQek0tTlpjQk9mM0pEWV9iNVcycV9ETEVtYXNFX1RFbVVGMGRVTXl6OGdRSjN5S1duQ1VFMWR3SklfVG5pY08tRDdHbkFLcjVWY2M?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T02:00:00.000Z",
+      "pub_sort_dt": "2026-09-07 10:00:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "高盛称，中国房地产市场动向导致土地销售额锐减30% - Bloomberg.com",
-      "title_cn": "高盛称，中国房地产市场动向导致土地成交锐减30% - Bloomberg.com",
+      "title_cn": "高盛称，中国房地产市场动向导致土地销售额锐减30% - Bloomberg.com",
       "url": "https://news.google.com/read/CBMiswFBVV95cUxNclU4SktObnlieXptUVJGX1h4cU1qUDhCTHNPRVAxcTFuR3VjQ3NYN1hkN3dYdEN2eFQzMnY5N1VxN2tBVjlzRWNWanQ4OU83YnBsTm14WWFnVnFuV2NJWks5X2VLdjZqOEE3WV9id0c1eXotc3dMbGdhRlozdkNZQmw5VV9RcWpIdzROa3dxbTZNU1NHZDBDTGx0eG1NLUN0LTEwczREb2gyQm1SQndpcUxvRQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T01:44:00.000Z",
       "pub_sort_dt": "2026-09-07 09:44:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国的“恋爱盲区”现象：从古代根源到现代困境 - South China Morning Post",
-      "title_cn": "中国的“恋爱盲区”现象：从古代根源到现代困境 - 南华早报",
-      "url": "https://news.google.com/read/CBMi8AFBVV95cUxOQWplZWR2aTlIek9aeFVTZnpveWUtemRnSEhqbWU5QlJJdHBMZmhYUDhqUGFQalU1U042Y3dKOHA2djJtb1JJWjByYV93R2s3TUxBNW1LcG9xdng2UjJ0NkVEekVJaTBDVVYtSVh4ZFpfTnFpV2ctR0JtVHZqUWVkWGhlUDg5bjVTTTd4OWtCeWdycGwzek5CRzRBNlVTZm9JVWpLYVcwalo1WGd2cDhaVEdwdnUxcV94NHBDZi1RWlp3RDA0NTJwLW1KYlVWdWthM21OSEJuOVl3dnA0UTYzQnJ2S3NXN0NrRlVzOHBVU0TSAfABQVVfeXFMTlFMeW14U0c5Zy1XVk9vcXFLSm1EU1NuZW51SDhoanc3cE5kM0tua08yQVkwdFAyOTZWODFEdF9MMTVSS19SSGpadDdPajV0cnJ6VjhoWnRWdWxKVUkyYi00bHJVT1pPaHFwaXgzQkMzaUQ2LVN1eG4yYXRJcUZWa0ZRck5DckpmRV9Fd0RXNWExQW5iWTZHRldBYU1DUVFrVW9DbnlreW4xakRGeHFlaDVPd3lkenprTE55OG9NQ25iNmRyZE1OZ0VxbWhmYndLY3BHVTdSTzNfWEY3TGZNMXpPUmFvcFR3VGp2MTZEemx4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T01:12:15.000Z",
-      "pub_sort_dt": "2026-09-07 09:12:15"
+      "source": "Reuters",
+      "title_en": "从舞池到战场：中国正将类人机器人投入实战",
+      "title_cn": "从舞池到战场：中国正将类人机器人投入实战",
+      "url": "https://reut.rs/4xfrFzA",
+      "pub_raw": "2026-09-07T06:21:58.615Z",
+      "pub_sort_dt": "2026-09-07 14:21:58"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国在建设绕过俄罗斯的中亚铁路项目中，一处重要隧道工程取得重大进展 - South China Morning Post",
-      "title_cn": "中国在建设绕行俄罗斯中亚铁路项目中一处重要隧道工程取得重大进展 - 南华早报",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxPZllQQzZsWmdKSTJlMmJtR3haTGFBWWZLM2wyOTJUUGFVMTZTaFlnNm1faUFrRGE4ZG9sYVgyZlFPZzBuMm9oTGU5SUxUZlVTM0dqd3Jfa1ByN1JZdTRBX0ZFZDVFYjg5N25hMEtBQ2trQVphZXNxYVNkSlRtbTdwak9zRjVnam1VVXA1OG81X1VPWkxQWHVxVkx0c25uWXdiYUdZbmRsTmtlbTlyUHhpcXk3d0RqNGZCaXhxVk9UUy1IYWJOYkNhOHV30gHKAUFVX3lxTE52WTRCQkZfdnQzZEhLa3NQMFZETkxzMF92eERNc3V0UUpqNzh3RjlRSWhpWXh4RHVLTHNpM1h4aDJ5Y19pUWJVc0ZrY0d6SzRmNlk2eHZJLUxQVGdwVFdMTGVEdklBbExVNGZfbm9wTmZDWkpoeFdYa0IyZVVNU01LQ2NKRlUtYXM4ak1obVEtVWpTcndTX08wbWZIMVEtajNSN09EQ2pBLVBPRnY2TmJETm9JX2k0NWNsN001ZndnWGlJZzA5TWZLdmc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T00:00:21.000Z",
-      "pub_sort_dt": "2026-09-07 08:00:21"
+      "source": "Reuters",
+      "title_en": "据财联社报道，中国暂停审批电池储能制造项目",
+      "title_cn": "据财联社报道，中国暂停氦气储能制造项目",
+      "url": "https://reut.rs/4yjs70x",
+      "pub_raw": "2026-09-07T06:21:58.611Z",
+      "pub_sort_dt": "2026-09-07 14:21:58"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "前贸易官员称，中国的出口冲击正将全球经济推向临界点 - Fortune",
-      "title_cn": "前贸易官员称，中国的出口冲击正将全球经济推向临界点 - 《财富》",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxNWG9UdmFJZzJGaDZkY2otRW1EQkUwaVhaYXNzNTdYTDZFcktDbk1CWHdrVUJ6QnZKVjQtaGd5cTgtSk04N1ZWUlJHUF9Obm9SQWdYczBNMGxOWUhXYlprMTYxQS1ETDJnOW0zN2E1TENFVmkxRmhBb2RoTFotaFgweDZ0aVM5em9JYXdFQW1UWWYzLXozTUZnZ2o4R3VnRFE4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T23:04:00.000Z",
-      "pub_sort_dt": "2026-09-07 07:04:00"
+      "source": "Reuters",
+      "title_en": "英国车手米尔罗伊表示，在上海发生那场烈火吞噬的事故后，是对手救了他一命",
+      "title_cn": "英国议员米尔罗伊表示，在上海发生那场烈火杀害的事故后，是对手救了他一命",
+      "url": "https://reut.rs/46f1cHo",
+      "pub_raw": "2026-09-07T05:51:16.702Z",
+      "pub_sort_dt": "2026-09-07 13:51:16"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "独家 兰小欢谈中国为提振内需而采取的平衡之策 - South China Morning Post",
-      "title_cn": "独家兰小欢谈中国为提振内需而采取的平衡之策 - 南华早报",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxQc3NISWVlbXdGWkFKai1LTEtKeGRHRVpBMHEtdTgxa3UzMFlBN0VKbU94b1RLS3pHa1pHS3QzcFd4SUhrV0tNVWFnanhVenQ0MVl1amxfbzVxbjJqN2duMkF2eGs3WXA3VDUzVVB2ZGNmNnYyVGtSaE5GeGtVZXVoS0xfMURLdDU5eEQzVS00ZFNWOWdqWTVCcFE2SlBkcTJjS0g0ZGJRZ2dPeURTNUEzaVlfYnU5M0pZOG0xRUNKYlZYNUZCcVg40gHHAUFVX3lxTE5fZFVwUlM4UkpNb2ZreW9qTmpIcWJaRDdxVllFZWRoMEJobWk1NG4tQkIteHBQYjhaZkY0aTFkbjktSy1HVkwya29DbGxBSzFDWVlxRkg2V3NGQ1FVZWR5MUZ1TDB2TUI4WGRrdHd5ZU1hYW9iZnNmMkRDdEI1QmthRDNLd2c5Z2ZJZHFpM3dmNng0SXVldUhmMXNHVWp5d2M0ZDFYeWt2LU1laDJxMk5xSF9qc2x4RGVEc01mZWU1MTNhUHBrem8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T22:00:09.000Z",
-      "pub_sort_dt": "2026-09-07 06:00:09"
+      "source": "Reuters",
+      "title_en": "Breakingviews - 评论：中国AI巨头向英伟达的护城河喷火",
+      "title_cn": "突发观点 - 评论：中国AI工会向英伟达的护城河喷火",
+      "url": "https://reut.rs/4yopsCL",
+      "pub_raw": "2026-09-07T05:51:16.698Z",
+      "pub_sort_dt": "2026-09-07 13:51:16"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "女篮世界杯上，意大利队给美国队制造了不小麻烦，中国队则险胜捷克队 - Baltimore Sun",
-      "title_cn": "女篮世界杯上，意大利队给美国队制造了不小麻烦，中国队则险胜捷克队 - 巴尔的摩太阳报",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQRHJtRkNLdW5HemZ5VWRxSkZPeFY5TGp5a3paa1lXZERsUFZQMHMybTQyb2xudmJYZkRsNjMxRDdsdTdYcWtWVEM0UmwyOGc5Um1SWGNKTFlaaUpCTGI4dktsRzl4S0IyaXpwWi0tQzNqNlRXWEc0ZjZfc1RXWmNVcDB5N3l3UVZSN09SS3lzLUhFa2lFdzRQTDZGMXdfUkRDYmpiSnM5eUJiS1N3ZkRUa2RPeHdMeDlRdnUzX1E0M2xHN0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T21:44:03.000Z",
-      "pub_sort_dt": "2026-09-07 05:44:03"
+      "source": "Financial Times",
+      "title_en": "欧盟将提出“购买欧洲产品”的公共采购规则，以挤压中国市场",
+      "title_cn": "欧盟将提出“购买欧洲产品”的公共采购规则，以挤压中国市场",
+      "url": "https://www.ft.com/content/f8e97cdb-6edb-4cb1-ae38-b3c0ceeba485?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-07T05:35:14.301Z",
+      "pub_sort_dt": "2026-09-07 13:35:14"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "观点 前往美国，弥合中美关系中的裂痕 - South China Morning Post",
-      "title_cn": "观点前往美国，弥合中美关系中的裂痕 - 南华早报",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxPVGZDQzR0YVFhSUVWdm1iWUpTWGxtdEhCN1YyX296TldMQkVhbVJmcHJieTZmRm82NmVWN2htME41MndJTV8yVFI3QkFyelFya0lxXzZFNTM5SXB0Z2FRN3FpY09yaUFWb1VwVFBIMXZOc3lMem8yeGg4Rm1tZGRhRDIyV1pPVFh1dm43cFJEZHo4QUdSaGVQd1E2ZTA5am0yMVUtQzJkWdIBpwFBVV95cUxOWXlic1NtdmFqSmJDamhRZW1oa1RFOTBDaHZoc2NWakQzOFBSQks4ckhUZWt4U2hLRnhpQ2tTLXUtTWNlcDlHRG5DcENMbEdidG1PYmFsOVpDUERmRmIzMnQ3d0dVLTAyMTl2V0F2T2pfdkU2SXA5ZHdZM01vN0lOaW9LbkFOUmtYUUQ1QXdYWUhqTHowSDhWLVRaYzRJSlNwM2tzMHhVdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-06T21:30:06.000Z",
-      "pub_sort_dt": "2026-09-07 05:30:06"
+      "source": "Financial Times",
+      "title_en": "中国向银行和保险公司注资530亿美元",
+      "title_cn": "中国向银行和保险公司注资530亿美元",
+      "url": "https://www.ft.com/content/8012b60e-c74e-49bc-9200-d37f13b4a135?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-07T04:32:15.057Z",
+      "pub_sort_dt": "2026-09-07 12:32:15"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受持仓平仓及中国买盘预期推动，铁矿石价格突破100美元",
+      "title_cn": "受持仓平仓及中国买盘预期推动，铁矿石价格突破100美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/iron-ore-tops-100-on-position-unwinds-and-china-buying-hopes",
+      "pub_raw": "2026-09-07T03:59:52.831Z",
+      "pub_sort_dt": "2026-09-07 11:59:52"
     },
     {
       "source": "Reuters",
@@ -437,62 +493,6 @@
       "url": "https://reut.rs/3SNT7WU",
       "pub_raw": "2026-09-05T05:18:02.193Z",
       "pub_sort_dt": "2026-09-05 13:18:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港的李某表示，该市将在“十二五”规划中扩大离岸人民币的使用范围",
-      "title_cn": "香港的李某表示，该市将在“十二五”规划中扩大离岸人民币的使用范围",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-05/hk-s-lee-says-city-to-expand-offshore-yuan-usage-in-5-year-plan",
-      "pub_raw": "2026-09-05T03:11:13.809Z",
-      "pub_sort_dt": "2026-09-05 11:11:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港的“Flat Iron”进军香肠卷行业却遭遇挫折",
-      "title_cn": "香港的“扁铁”进军香肠卷行业却遭遇苦难",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-05/hong-kong-s-flat-iron-bumbles-foray-into-the-sausage-roll-business",
-      "pub_raw": "2026-09-05T00:15:38.008Z",
-      "pub_sort_dt": "2026-09-05 08:15:38"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "马加最喜欢的格斗运动在中国风靡起来",
-      "title_cn": "马加最喜欢的格斗运动在中国风靡起来",
-      "url": "https://www.ft.com/content/966cbb76-93a1-4215-a610-cea5709f3d6a?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-04T20:47:16.650Z",
-      "pub_sort_dt": "2026-09-05 04:47:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普对委内瑞拉石油的掠夺对中国意味着什么",
-      "title_cn": "特朗普对委内瑞拉石油的掠夺对中国意味着什么",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/what-trump-s-venezuela-oil-grab-means-for-china",
-      "pub_raw": "2026-09-04T17:19:18.535Z",
-      "pub_sort_dt": "2026-09-05 01:19:18"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国的上海合作组织能否成为新的北约？",
-      "title_cn": "中国的上海合作组织能否成为新的北约？",
-      "url": "https://www.bloomberg.com/opinion/newsletters/2026-09-04/can-china-s-shanghai-cooperation-organization-become-the-new-nato",
-      "pub_raw": "2026-09-04T15:27:24.961Z",
-      "pub_sort_dt": "2026-09-04 23:27:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普与中国因委内瑞拉的石油和债务问题发生冲突",
-      "title_cn": "特朗普与中国因严重的石油和债务问题发生冲突",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/trump-y-china-chocan-por-petroleo-y-deuda-de-venezuela",
-      "pub_raw": "2026-09-04T15:27:24.958Z",
-      "pub_sort_dt": "2026-09-04 23:27:24"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "挑战特斯拉的电动卡车初创公司Windrose流失了大部分中国员工",
-      "title_cn": "挑战特斯拉的电动卡车货运公司Windrose流失了大部分中国员工",
-      "url": "https://on.wsj.com/3TfqiTw",
-      "pub_raw": "2026-09-04T13:51:41.850Z",
-      "pub_sort_dt": "2026-09-04 21:51:41"
     }
   ]
 }
