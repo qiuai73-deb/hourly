@@ -1,15 +1,63 @@
 {
-  "update_cst": "2026-09-07 18:01:00 北京时间",
+  "update_cst": "2026-09-07 22:00:56 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 1,
+    "The Economist": 0,
     "Bloomberg": 8,
     "Financial Times": 2,
-    "Wall Street Journal": 1,
-    "Reuters": 8
+    "Wall Street Journal": 0,
+    "Reuters": 10
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国一家公司因在招聘毕业生仅一个月后便解雇100人而遭到抨击 - WSJ",
+      "title_cn": "中国一家公司因在招聘机器人仅一个月后便解雇了100人而发起了猛烈攻击 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxOTWJpaHZTeEVvZlRMVmRYZGVaVW5vREdtbDlrcEJ6bEp0RmtDSU5KMk1BdW41OHpUNndIWUxjVngzdGx2RWNKOEhZT2ZnOWllRGs2TFNIdmZSdjlQS2hVenpic1FYdS1rVDc0U1kzd09wT2RXRXhDRHBkMk5TY0JnZmRYT3NKLURZZFNtMExtcEZnZEh1ZFphTXpDcy1ydmhYSllBbjh1WFdONXduVEJVY2gtMUM2N25xX3c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T13:24:00.000Z",
+      "pub_sort_dt": "2026-09-07 21:24:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "习近平领导下的中国全球战略——从西方转移权力的计划 - ft.com",
+      "title_cn": "习近平领导的中国全球战略——从西方转移权力的计划 - FT.com",
+      "url": "https://news.google.com/read/CBMicEFVX3lxTE9hWmMzMF9YRnlreUpQY1FkLS05WjMxTHRzaVVJMUhJd1VWYUdqTHhFV29WWlZsb1hwREtJdUZZekRrRC1lbFBPQVRoZmk5WjhiZTdkSl9VMUhVNWxEUkc4LTJjZ2d0YnF1M1Z1RU5GYms?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T11:00:11.000Z",
+      "pub_sort_dt": "2026-09-07 19:00:11"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "日本首相高市早苗希望在特朗普与中方领导人习近平会晤前与其进行会谈 - Anadolu Ajansı",
+      "title_cn": "日本关系高市早苗希望在特朗普与中方习近平领导人会晤之前进行协议 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxPV1o0dW8zMm9mRHdqcU9LWS1yUzhLM1ZTN2ZZN1hMZE9DTE16NktKejJPRDZjMVRRbWN3WFFOOF9UdUV6Vlg5RlN4QW5MT0RsR211d3dONkxxNFhQUHM4ek8xSk9qakc1X1JhZWNBaEN1RmZIZTJuRlRIYjBYdGRkRHNxZnlBVU9DOUdja3hydmpxVUVnaFI5SklvY0Rwck01Vk1qVE5HeF9YdkxKeEVjd0dMbmo0bl9TUTJoSG9n?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T10:21:21.000Z",
+      "pub_sort_dt": "2026-09-07 18:21:21"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国外汇储备持续攀升 - WSJ",
+      "title_cn": "中国外汇储备持续攀升 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxNN2xJYjQ5ODNZdUhoT2Fha0hEUWRrM3NHbXZ1SmNjMlM1RVhtbUlOTmkxa18yT2hGamx6OGItZS13SnJuVkY4RHA4a0tWZ0FpNXhDcjNfRFFEYm01THF3a0NONUl3MGNLOUh5NFJvY3NRMmhabHdaMzNmc1JwN2RlWFQteWRIRDF3NlMweUFmRlg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T09:18:00.000Z",
+      "pub_sort_dt": "2026-09-07 17:18:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国的社交媒体正变得越来越阴暗 - The New York Times",
+      "title_cn": "中国的社交媒体正变得越来越阴暗 - 纽约时报中文网",
+      "url": "https://news.google.com/read/CBMigwFBVV95cUxOMU40T0kzS09mVE1KQkdHRm1za0pMYXFMZG8zVWMwaUxNYWtFa0NNd3BSODdBZmpDR21LWmNfMF9sWmkxUDg3WXFaNmlCMHBaaF9kSjJWREpiNWhPdGRRRkZPeURFVFNGdWxqUExGUm91eDVKc1g1c1VKUkhuN2NCbFlBcw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T09:04:03.000Z",
+      "pub_sort_dt": "2026-09-07 17:04:03"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在秘鲁，特朗普政府意识到其反华举措的局限性 - The New York Times",
+      "title_cn": "在巴勒斯坦，特朗普政府意识到其反华举措的局限性 - 纽约时报中文网",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxNX205LUFpc3ZEdS1wa1pOSE0zWEV4LV80bjdEbHNIanhadUI4R0dQSmRQR0xWdmV6RFpKSHpLUHMxMzcweGpXNm5JRThVcS1YNDE5aHJtOGs4S0xOYjJJNGhyOWVUN1NhTkFoWFlBSkVlbVF6RWs2bjJmUW01bnFZOUxrUS1OQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T09:00:13.000Z",
+      "pub_sort_dt": "2026-09-07 17:00:13"
+    },
     {
       "source": "China Buzzing",
       "title_en": "一名英国人在中国被对手从燃烧的法拉利赛车中救出 - The Times",
@@ -28,70 +76,86 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "中国在初步调查中认定日本产二氯硅烷存在倾销行为，要求自9月8日起缴纳保证金 - globaltimes.cn",
+      "title_cn": "中国初步调查中认定日本产二氯氰企业存在倾销行为，要求自9月8日起追缴保证金 - 环球时报中文网",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTFBQQmtNVlJmamdrYk9NRWdrQW83M0NNMnZRemwyZlEzbzBPTnlfV3NaSHU5X010MEVOV2JxdWxYY0MwMjc5RTMyTDBZTFlHd241UGdGU2p0UlhlcnRwcGcyVGx3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T08:11:00.000Z",
+      "pub_sort_dt": "2026-09-07 16:11:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "为什么电动汽车电池制造商的利润几乎是该行业汽车制造商的两倍？ - South China Morning Post",
       "title_cn": "为什么电动汽车电池制造商的利润几乎是该行业汽车制造商的两倍？ - 南华早报",
       "url": "https://news.google.com/read/CBMiygFBVV95cUxQODgxTVRxM1hSSmI0UXdKeEZNTmJuMVJhazhsb3pNbTEwUjBhSnpyQTJfU3JzUWRsQ04zajVHVVhhZVZpX3V6S2kyaE82U0hrVGRmSHR3eXl1dTRlWnF5NXRNbFF4X1NXR096Yi1tbGNoNXBWdFJBM3BuVFk2WlY2eU5kRWlZbzRXUU41WjdZa3Vpc3lFN1lnbmtQNU9TVmM5blpjS180VFFuekFXbnY3R0JZS0pGT0xHeUxrQU9BOUN5a2NBMHlIMWxB?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T07:11:26.000Z",
       "pub_sort_dt": "2026-09-07 15:11:26"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国石油需求复苏推动从刚果到巴西的油价飙升 - Bloomberg.com",
-      "title_cn": "中国石油需求复苏推动巴西GDP增长 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxNMXpSaHpXNnJWS1p6MEtfMjdyRnNaU1lBam1DdDhUNFdiU2ZPMzRoRkNtVF9FbW9ObjZvQWotQTZ3Yk5fVU5Memt4eGM1SmVoUjk4a2dkN0xNQTBhZTFUOWkzV0pFOENWYURmejlTN1pkcG1idTVEOHhwajlSRWljMVhfM3lRQ0NNdFFmRUdXTHdNTW9WTmgtcmhTMzl6T1FvSkNwUXF5OHN6bUVuMk9aNl83WklIdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T06:55:00.000Z",
-      "pub_sort_dt": "2026-09-07 14:55:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "从舞池到战场：中国正将类人机器人投入实战 - Reuters",
-      "title_cn": "从舞池到战场：中国正将类人机器人投入实战 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T06:04:00.000Z",
-      "pub_sort_dt": "2026-09-07 14:04:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "菲律宾警告称，随着美韩军演规模缩减，中国可能会重新展现强势姿态 - Al Jazeera",
-      "title_cn": "预防警告称，随着美韩军演规模缩小，中国可能会重新做出强势姿势 - 半岛电视台",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQdzFLRlVwZ3dIZHFIN1I5cUEzbVdydHhQemNMYXRZRU01VWtLcXFYN3FYdWpvMXNKQ2xXbFpkQTFmWDhsZVhUYWRFeDNGdnN6OHZra09OajdGX3lwRDF0Y2l5UklDN2tRemRXOTB5ejlRTlpKMkZfelNvaHhpTWJPeUE3NGdWV3d4MVlFM0NzVjR3VWNSYm5ydXpGdXpuUHdjelAtMFVodzExYU5Gb3VYSFdyWnXSAboBQVVfeXFMTjRHUTYyUlZqX21Ra1pWVXpEbDJ0SF94QlhNN1BWdzItYjhTWGdGcVJMZFZlQy1KTXduVzlvZmhpR01QNGlIRkRBMkRnSnc5VEhONDhnSmJ2c29YTWVud2hfNHZQYklnS3F6TFBNNnpNZUV6dTVhYk5adkwycEtoRlc5d3Z3aXlBbkJYVGRpR0lGQkJVMlBZbk9pZTgxVkZObThIR3BUQ2lPZldmM0ZJby1tcDhveGNKZFNn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T04:07:30.000Z",
-      "pub_sort_dt": "2026-09-07 12:07:30"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国绿色技术如何削弱美国在非洲的能源战略 - South China Morning Post",
-      "title_cn": "中国绿色技术如何羡慕美国在非洲的能源战略 - 南华早报",
-      "url": "https://news.google.com/read/CBMi0gFBVV95cUxQbnhRWHZ4azNWX0h2QTN1MTk5VmJTVlBHRloyMmVpUE1Lb2RfNG4wQ083dHExU3JsbkxuTVZBeU5xZWhVM0doZWY5UG13UFRfUl81a1FBRXNyOTFsUjhPYndLYjBmckVQR2xBcmFFT0xVSlFhTHVwUG5qaDdKY2FhblJwMFc3enhoUDhCTzd0amVLWDRlNTd0enNENkg5Q2ppQk9uVGpqeGZrVl8zbS0xcGJCU2RDb2NYUGtGV1U1RTdicmQwcXktTVo5LXlqVGlXX0HSAdIBQVVfeXFMTWc2LXk3M1o5Nk1nbFdUSFJfbHBSQUNNallpLXRtNmFYRFAtYzU2TjFRTE5jUnBXeFpSNzVRSFM2Y0U4endEV3g4TC11WkljRDkzYmxWYnQyRno0VzczeWFBd0p6RU5jdEVxVDZhZFhpamVxWU5pUzlQbW5WeHF0VTk5QTdwNHJJZEJGaG1VTTlLTlNyTEdycFhQeFFycjducEJ1VGVCWmZrUXFsOFNNU245dHBaTkREVzYyNHJUNEdBLUlIVC1LOGg4dmtfQjdQbWt3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T04:00:09.000Z",
-      "pub_sort_dt": "2026-09-07 12:00:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "菲律宾的特奥多罗表示，中国可能会利用美韩军演规模缩减这一情况 - Reuters",
-      "title_cn": "预防的特奥多罗表示，中国可能会利用美韩军演规模缩小情况这种情况 - 路透社",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxPblpmdXplOXBOQVExNG5JSkkta1E0VEJYNDRqRG1ncUNrQ1Q3eS1RQmQ5T05OUG1rbUVYakhHM0hzWUwyRHJIa1FmWmFCeXdRbF8xbmctNVpXZ3ZDaldhMjJNMEVZMXlLU1ZSandKQl96MzhXMTJEdUhOcXNUZGJ3RE15X01hYlE5NFMzaEFPbjY0REQ1Z2Q3Q0RFeWpFZnFiUHpKckNCcjE0SEptdXRyZVlJRVAydHJCQjVYdHktZ3U0T3ZrVmNr?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T03:26:00.000Z",
-      "pub_sort_dt": "2026-09-07 11:26:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "Breakingviews - 评论：中国AI巨头向英伟达的护城河喷火 - Reuters",
-      "title_cn": "Breakingviews - 评论：中国AI工会向英伟达的护城河喷火 - 路透",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxQc2V3MzMyWDhGbmtOTkItcEdzR2dPdHNPelhqSG9sbEw1Mk0xTE85N29vZmtoTnZOa2NpOWFpNF9BSmd5N2EwMDVNOEFWWFlZR2l3SUlSNTdxR2wtT01Kc3RoUmh1bm9xTHBZNjItVXJ0dHZCeHNfX0pRTDBfdlh0QVV0N21fT2ZUZlF1WVFBWW5TejczdUE5MmRkaHpNeGZkTG1zVTlzbw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T02:53:00.000Z",
-      "pub_sort_dt": "2026-09-07 10:53:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "世界排名第一的安凭借中国队三连冠向亚运会发出警告 - France 24",
-      "title_cn": "世界排名第一的安凭借中国队三连冠向亚运会发出警告 - France 24",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxOQ1Ztd2FnSWxZeEFDMmE5NGVGazRIY1pKZzViZmxnOHMwNWxiaU1xaG90LThhVEJraTVGRUhaWTdHNlY0ZF9wUnFOb2tXalEtbUlIWkF6c3BQTm1TUmxiczZNQy05ZHQ5aE4yazdyUVpEMVloM1BFbU5EZ3hlQ1A0bUxCOUFNcVFXYkU0Q1p2Nm9XQzBEZnF5THlFR1QzV0Y5QjdDeU9BV0tOOHBwNUpfeFJzRQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T02:47:10.000Z",
-      "pub_sort_dt": "2026-09-07 10:47:10"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "华为新款设备是中国对可折叠iPhone的回应",
+      "title_cn": "华为新款是中国针对可折叠 iPhone 的设备",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone",
+      "pub_raw": "2026-09-07T13:26:53.031Z",
+      "pub_sort_dt": "2026-09-07 21:26:53"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "尽管金价飙升，中国央行仍增持了自2023年以来最多黄金",
+      "title_cn": "尽管金价上涨，中国央行仍维持了2023年以来的最高黄金",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/china-central-bank-adds-most-gold-since-2023-even-as-prices-jump",
+      "pub_raw": "2026-09-07T11:53:14.682Z",
+      "pub_sort_dt": "2026-09-07 19:53:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国正因汽车制造商开发车辆速度过快而对其进行整顿",
+      "title_cn": "中国正因汽车制造商开发车辆速度过快而进行整顿",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-07/china-is-cracking-down-on-its-carmakers-for-developing-vehicles-too-fast",
+      "pub_raw": "2026-09-07T11:53:14.678Z",
+      "pub_sort_dt": "2026-09-07 19:53:14"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "习近平领导下的中国全球战略——将权力从西方转移的计划",
+      "title_cn": "习近平领导下的中国全球战略——权力从西方转移的计划",
+      "url": "https://www.ft.com/content/ace61021-f3be-47a7-9117-b9f0c63d40d1",
+      "pub_raw": "2026-09-07T11:06:16.764Z",
+      "pub_sort_dt": "2026-09-07 19:06:16"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着两国关系不断深化，巴基斯坦展示了一套可能来自中国的导弹系统",
+      "title_cn": "随着巴基斯坦的不断深化，巴基斯坦展示了一套可能来自中国的导弹系统",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/pakistan-shows-possible-chinese-missile-system-as-ties-deepen",
+      "pub_raw": "2026-09-07T10:49:53.104Z",
+      "pub_sort_dt": "2026-09-07 18:49:53"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "在习近平访美前夕，中国大豆压榨企业面临成本高企、利润微薄的困境",
+      "title_cn": "在习近平访美前夕，中国大豆压榨企业面临成本高企、利润微薄的困境",
+      "url": "https://reut.rs/4xGlaXr",
+      "pub_raw": "2026-09-07T10:49:52.990Z",
+      "pub_sort_dt": "2026-09-07 18:49:52"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国外交部长表示，中墨关系“不针对任何第三方”",
+      "title_cn": "中国长征表示，中墨关系“不针对任何第三方”",
+      "url": "https://reut.rs/4r2DmZ8",
+      "pub_raw": "2026-09-07T10:18:52.914Z",
+      "pub_sort_dt": "2026-09-07 18:18:52"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国专家、前证券监管官员王建军因受贿被判处无期徒刑",
+      "title_cn": "中国专家、前证券监管人员王建军因受贿被判定无期徒刑",
+      "url": "https://reut.rs/3SOilEO",
+      "pub_raw": "2026-09-07T10:02:49.734Z",
+      "pub_sort_dt": "2026-09-07 18:02:49"
+    },
     {
       "source": "Reuters",
       "title_en": "比利时以涉嫌半导体间谍活动为由拘留一名中国男子",
@@ -107,14 +171,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-07/shein-s-value-down-5-billion-among-hk-s-worst-post-ipo-weeks",
       "pub_raw": "2026-09-07T09:32:27.905Z",
       "pub_sort_dt": "2026-09-07 17:32:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "华为这款售价3,000美元的设备引领了中国对可折叠iPhone的回应",
-      "title_cn": "华为这款售价 3,000 美元的设备引领了中国对可折叠 iPhone 的回应",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone",
-      "pub_raw": "2026-09-07T09:16:15.093Z",
-      "pub_sort_dt": "2026-09-07 17:16:15"
     },
     {
       "source": "Bloomberg",
@@ -195,67 +251,59 @@
       "url": "https://www.ft.com/content/f8e97cdb-6edb-4cb1-ae38-b3c0ceeba485?syn-25a6b1a6=1",
       "pub_raw": "2026-09-07T05:35:14.301Z",
       "pub_sort_dt": "2026-09-07 13:35:14"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国向银行和保险公司注资530亿美元",
-      "title_cn": "中国向银行和保险公司注资530亿美元",
-      "url": "https://www.ft.com/content/8012b60e-c74e-49bc-9200-d37f13b4a135?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-07T04:32:15.057Z",
-      "pub_sort_dt": "2026-09-07 12:32:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受持仓平仓及中国买盘预期推动，铁矿石价格突破100美元",
-      "title_cn": "受持仓平仓及中国买盘预期推动，铁矿石价格突破100美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/iron-ore-tops-100-on-position-unwinds-and-china-buying-hopes",
-      "pub_raw": "2026-09-07T03:59:52.831Z",
-      "pub_sort_dt": "2026-09-07 11:59:52"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "面对与盟友分享人工智能红利的压力，台湾正大展“芯片外交”之势",
-      "title_cn": "与中央分享人工智能红利的压力，台湾正大展“芯片中东”之势",
-      "url": "https://reut.rs/3Uv7YGv",
-      "pub_raw": "2026-09-07T03:28:12.125Z",
-      "pub_sort_dt": "2026-09-07 11:28:12"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "患者纷纷飞往中国接受最新的癌症治疗",
-      "title_cn": "大量中国患者接受最新的癌症治疗",
-      "url": "https://on.wsj.com/4qYHVUc",
-      "pub_raw": "2026-09-07T03:28:12.056Z",
-      "pub_sort_dt": "2026-09-07 11:28:12"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国奢侈品市场放缓，时尚品牌不得不依赖美国消费者的消费",
-      "title_cn": "中国奢侈品市场呼吁，时尚品牌必须依赖美国消费者的消费",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-06/china-s-luxury-slowdown-leaves-fashion-brands-reliant-on-us-spending",
-      "pub_raw": "2026-09-06T19:19:51.172Z",
-      "pub_sort_dt": "2026-09-07 03:19:51"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "印度为何让中国感到困惑",
-      "title_cn": "为何让印度感到惊讶",
-      "url": "https://www.economist.com/asia/2026/09/06/why-india-baffles-china",
-      "pub_raw": "2026-09-06T12:01:07.590Z",
-      "pub_sort_dt": "2026-09-06 20:01:07"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国大型银行和保险公司寻求至少530亿美元的资本",
-      "title_cn": "中国大型银行和保险公司寻求至少530亿美元的资本",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-06/agbank-icbc-plan-private-placements-totaling-up-to-260b-yuan-mtpk2qgx",
-      "pub_raw": "2026-09-06T10:40:48.601Z",
-      "pub_sort_dt": "2026-09-06 18:40:48"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国一家公司因在招聘毕业生仅一个月后便解雇100人而遭到抨击 - WSJ",
+      "title_cn": "中国一家公司因在招聘机器人仅一个月后便解雇了100人而发起了猛烈攻击 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxOTWJpaHZTeEVvZlRMVmRYZGVaVW5vREdtbDlrcEJ6bEp0RmtDSU5KMk1BdW41OHpUNndIWUxjVngzdGx2RWNKOEhZT2ZnOWllRGs2TFNIdmZSdjlQS2hVenpic1FYdS1rVDc0U1kzd09wT2RXRXhDRHBkMk5TY0JnZmRYT3NKLURZZFNtMExtcEZnZEh1ZFphTXpDcy1ydmhYSllBbjh1WFdONXduVEJVY2gtMUM2N25xX3c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T13:24:00.000Z",
+      "pub_sort_dt": "2026-09-07 21:24:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "习近平领导下的中国全球战略——从西方转移权力的计划 - ft.com",
+      "title_cn": "习近平领导的中国全球战略——从西方转移权力的计划 - FT.com",
+      "url": "https://news.google.com/read/CBMicEFVX3lxTE9hWmMzMF9YRnlreUpQY1FkLS05WjMxTHRzaVVJMUhJd1VWYUdqTHhFV29WWlZsb1hwREtJdUZZekRrRC1lbFBPQVRoZmk5WjhiZTdkSl9VMUhVNWxEUkc4LTJjZ2d0YnF1M1Z1RU5GYms?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T11:00:11.000Z",
+      "pub_sort_dt": "2026-09-07 19:00:11"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "日本首相高市早苗希望在特朗普与中方领导人习近平会晤前与其进行会谈 - Anadolu Ajansı",
+      "title_cn": "日本关系高市早苗希望在特朗普与中方习近平领导人会晤之前进行协议 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxPV1o0dW8zMm9mRHdqcU9LWS1yUzhLM1ZTN2ZZN1hMZE9DTE16NktKejJPRDZjMVRRbWN3WFFOOF9UdUV6Vlg5RlN4QW5MT0RsR211d3dONkxxNFhQUHM4ek8xSk9qakc1X1JhZWNBaEN1RmZIZTJuRlRIYjBYdGRkRHNxZnlBVU9DOUdja3hydmpxVUVnaFI5SklvY0Rwck01Vk1qVE5HeF9YdkxKeEVjd0dMbmo0bl9TUTJoSG9n?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T10:21:21.000Z",
+      "pub_sort_dt": "2026-09-07 18:21:21"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国外汇储备持续攀升 - WSJ",
+      "title_cn": "中国外汇储备持续攀升 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxNN2xJYjQ5ODNZdUhoT2Fha0hEUWRrM3NHbXZ1SmNjMlM1RVhtbUlOTmkxa18yT2hGamx6OGItZS13SnJuVkY4RHA4a0tWZ0FpNXhDcjNfRFFEYm01THF3a0NONUl3MGNLOUh5NFJvY3NRMmhabHdaMzNmc1JwN2RlWFQteWRIRDF3NlMweUFmRlg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T09:18:00.000Z",
+      "pub_sort_dt": "2026-09-07 17:18:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国的社交媒体正变得越来越阴暗 - The New York Times",
+      "title_cn": "中国的社交媒体正变得越来越阴暗 - 纽约时报中文网",
+      "url": "https://news.google.com/read/CBMigwFBVV95cUxOMU40T0kzS09mVE1KQkdHRm1za0pMYXFMZG8zVWMwaUxNYWtFa0NNd3BSODdBZmpDR21LWmNfMF9sWmkxUDg3WXFaNmlCMHBaaF9kSjJWREpiNWhPdGRRRkZPeURFVFNGdWxqUExGUm91eDVKc1g1c1VKUkhuN2NCbFlBcw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T09:04:03.000Z",
+      "pub_sort_dt": "2026-09-07 17:04:03"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在秘鲁，特朗普政府意识到其反华举措的局限性 - The New York Times",
+      "title_cn": "在巴勒斯坦，特朗普政府意识到其反华举措的局限性 - 纽约时报中文网",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxNX205LUFpc3ZEdS1wa1pOSE0zWEV4LV80bjdEbHNIanhadUI4R0dQSmRQR0xWdmV6RFpKSHpLUHMxMzcweGpXNm5JRThVcS1YNDE5aHJtOGs4S0xOYjJJNGhyOWVUN1NhTkFoWFlBSkVlbVF6RWs2bjJmUW01bnFZOUxrUS1OQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T09:00:13.000Z",
+      "pub_sort_dt": "2026-09-07 17:00:13"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "一名英国人在中国被对手从燃烧的法拉利赛车中救出 - The Times",
       "title_cn": "一位英国人在中国被对手从燃烧的法拉利赛车中救出 - 泰晤士报",
       "url": "https://news.google.com/read/CBMiqAFBVV95cUxNRzRjTHlvZE9uXzVmdTZ0LXJ5bW81dFlyb1BGSU5RalZUbzM4aTByS2s0bU9YWEhwdWl4SXluM0dMQldGbUxGLXRjeWJrNXNZanRScDk5cnllTmFNdUpJTkhTOHlPNDZsb3JKRkxpdEk3V3AxZERvSHdLbExfcmxqTE1Ld2I5NTBZeUxqZWIyNFNYWU52d3dZbHRIUkYzVlFMRllXNENfLVM?hl=en-US&gl=US&ceid=US%3Aen",
@@ -272,6 +320,14 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "中国在初步调查中认定日本产二氯硅烷存在倾销行为，要求自9月8日起缴纳保证金 - globaltimes.cn",
+      "title_cn": "中国初步调查中认定日本产二氯氰企业存在倾销行为，要求自9月8日起追缴保证金 - 环球时报中文网",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTFBQQmtNVlJmamdrYk9NRWdrQW83M0NNMnZRemwyZlEzbzBPTnlfV3NaSHU5X010MEVOV2JxdWxYY0MwMjc5RTMyTDBZTFlHd241UGdGU2p0UlhlcnRwcGcyVGx3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T08:11:00.000Z",
+      "pub_sort_dt": "2026-09-07 16:11:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "为什么电动汽车电池制造商的利润几乎是该行业汽车制造商的两倍？ - South China Morning Post",
       "title_cn": "为什么电动汽车电池制造商的利润几乎是该行业汽车制造商的两倍？ - 南华早报",
       "url": "https://news.google.com/read/CBMiygFBVV95cUxQODgxTVRxM1hSSmI0UXdKeEZNTmJuMVJhazhsb3pNbTEwUjBhSnpyQTJfU3JzUWRsQ04zajVHVVhhZVZpX3V6S2kyaE82U0hrVGRmSHR3eXl1dTRlWnF5NXRNbFF4X1NXR096Yi1tbGNoNXBWdFJBM3BuVFk2WlY2eU5kRWlZbzRXUU41WjdZa3Vpc3lFN1lnbmtQNU9TVmM5blpjS180VFFuekFXbnY3R0JZS0pGT0xHeUxrQU9BOUN5a2NBMHlIMWxB?hl=en-US&gl=US&ceid=US%3Aen",
@@ -279,60 +335,68 @@
       "pub_sort_dt": "2026-09-07 15:11:26"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国石油需求复苏推动从刚果到巴西的油价飙升 - Bloomberg.com",
-      "title_cn": "中国石油需求复苏推动巴西GDP增长 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxNMXpSaHpXNnJWS1p6MEtfMjdyRnNaU1lBam1DdDhUNFdiU2ZPMzRoRkNtVF9FbW9ObjZvQWotQTZ3Yk5fVU5Memt4eGM1SmVoUjk4a2dkN0xNQTBhZTFUOWkzV0pFOENWYURmejlTN1pkcG1idTVEOHhwajlSRWljMVhfM3lRQ0NNdFFmRUdXTHdNTW9WTmgtcmhTMzl6T1FvSkNwUXF5OHN6bUVuMk9aNl83WklIdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T06:55:00.000Z",
-      "pub_sort_dt": "2026-09-07 14:55:00"
+      "source": "Bloomberg",
+      "title_en": "华为新款设备是中国对可折叠iPhone的回应",
+      "title_cn": "华为新款是中国针对可折叠 iPhone 的设备",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone",
+      "pub_raw": "2026-09-07T13:26:53.031Z",
+      "pub_sort_dt": "2026-09-07 21:26:53"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "从舞池到战场：中国正将类人机器人投入实战 - Reuters",
-      "title_cn": "从舞池到战场：中国正将类人机器人投入实战 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T06:04:00.000Z",
-      "pub_sort_dt": "2026-09-07 14:04:00"
+      "source": "Bloomberg",
+      "title_en": "尽管金价飙升，中国央行仍增持了自2023年以来最多黄金",
+      "title_cn": "尽管金价上涨，中国央行仍维持了2023年以来的最高黄金",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/china-central-bank-adds-most-gold-since-2023-even-as-prices-jump",
+      "pub_raw": "2026-09-07T11:53:14.682Z",
+      "pub_sort_dt": "2026-09-07 19:53:14"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "菲律宾警告称，随着美韩军演规模缩减，中国可能会重新展现强势姿态 - Al Jazeera",
-      "title_cn": "预防警告称，随着美韩军演规模缩小，中国可能会重新做出强势姿势 - 半岛电视台",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQdzFLRlVwZ3dIZHFIN1I5cUEzbVdydHhQemNMYXRZRU01VWtLcXFYN3FYdWpvMXNKQ2xXbFpkQTFmWDhsZVhUYWRFeDNGdnN6OHZra09OajdGX3lwRDF0Y2l5UklDN2tRemRXOTB5ejlRTlpKMkZfelNvaHhpTWJPeUE3NGdWV3d4MVlFM0NzVjR3VWNSYm5ydXpGdXpuUHdjelAtMFVodzExYU5Gb3VYSFdyWnXSAboBQVVfeXFMTjRHUTYyUlZqX21Ra1pWVXpEbDJ0SF94QlhNN1BWdzItYjhTWGdGcVJMZFZlQy1KTXduVzlvZmhpR01QNGlIRkRBMkRnSnc5VEhONDhnSmJ2c29YTWVud2hfNHZQYklnS3F6TFBNNnpNZUV6dTVhYk5adkwycEtoRlc5d3Z3aXlBbkJYVGRpR0lGQkJVMlBZbk9pZTgxVkZObThIR3BUQ2lPZldmM0ZJby1tcDhveGNKZFNn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T04:07:30.000Z",
-      "pub_sort_dt": "2026-09-07 12:07:30"
+      "source": "Bloomberg",
+      "title_en": "中国正因汽车制造商开发车辆速度过快而对其进行整顿",
+      "title_cn": "中国正因汽车制造商开发车辆速度过快而进行整顿",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-07/china-is-cracking-down-on-its-carmakers-for-developing-vehicles-too-fast",
+      "pub_raw": "2026-09-07T11:53:14.678Z",
+      "pub_sort_dt": "2026-09-07 19:53:14"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国绿色技术如何削弱美国在非洲的能源战略 - South China Morning Post",
-      "title_cn": "中国绿色技术如何羡慕美国在非洲的能源战略 - 南华早报",
-      "url": "https://news.google.com/read/CBMi0gFBVV95cUxQbnhRWHZ4azNWX0h2QTN1MTk5VmJTVlBHRloyMmVpUE1Lb2RfNG4wQ083dHExU3JsbkxuTVZBeU5xZWhVM0doZWY5UG13UFRfUl81a1FBRXNyOTFsUjhPYndLYjBmckVQR2xBcmFFT0xVSlFhTHVwUG5qaDdKY2FhblJwMFc3enhoUDhCTzd0amVLWDRlNTd0enNENkg5Q2ppQk9uVGpqeGZrVl8zbS0xcGJCU2RDb2NYUGtGV1U1RTdicmQwcXktTVo5LXlqVGlXX0HSAdIBQVVfeXFMTWc2LXk3M1o5Nk1nbFdUSFJfbHBSQUNNallpLXRtNmFYRFAtYzU2TjFRTE5jUnBXeFpSNzVRSFM2Y0U4endEV3g4TC11WkljRDkzYmxWYnQyRno0VzczeWFBd0p6RU5jdEVxVDZhZFhpamVxWU5pUzlQbW5WeHF0VTk5QTdwNHJJZEJGaG1VTTlLTlNyTEdycFhQeFFycjducEJ1VGVCWmZrUXFsOFNNU245dHBaTkREVzYyNHJUNEdBLUlIVC1LOGg4dmtfQjdQbWt3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T04:00:09.000Z",
-      "pub_sort_dt": "2026-09-07 12:00:09"
+      "source": "Financial Times",
+      "title_en": "习近平领导下的中国全球战略——将权力从西方转移的计划",
+      "title_cn": "习近平领导下的中国全球战略——权力从西方转移的计划",
+      "url": "https://www.ft.com/content/ace61021-f3be-47a7-9117-b9f0c63d40d1",
+      "pub_raw": "2026-09-07T11:06:16.764Z",
+      "pub_sort_dt": "2026-09-07 19:06:16"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "菲律宾的特奥多罗表示，中国可能会利用美韩军演规模缩减这一情况 - Reuters",
-      "title_cn": "预防的特奥多罗表示，中国可能会利用美韩军演规模缩小情况这种情况 - 路透社",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxPblpmdXplOXBOQVExNG5JSkkta1E0VEJYNDRqRG1ncUNrQ1Q3eS1RQmQ5T05OUG1rbUVYakhHM0hzWUwyRHJIa1FmWmFCeXdRbF8xbmctNVpXZ3ZDaldhMjJNMEVZMXlLU1ZSandKQl96MzhXMTJEdUhOcXNUZGJ3RE15X01hYlE5NFMzaEFPbjY0REQ1Z2Q3Q0RFeWpFZnFiUHpKckNCcjE0SEptdXRyZVlJRVAydHJCQjVYdHktZ3U0T3ZrVmNr?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T03:26:00.000Z",
-      "pub_sort_dt": "2026-09-07 11:26:00"
+      "source": "Bloomberg",
+      "title_en": "随着两国关系不断深化，巴基斯坦展示了一套可能来自中国的导弹系统",
+      "title_cn": "随着巴基斯坦的不断深化，巴基斯坦展示了一套可能来自中国的导弹系统",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/pakistan-shows-possible-chinese-missile-system-as-ties-deepen",
+      "pub_raw": "2026-09-07T10:49:53.104Z",
+      "pub_sort_dt": "2026-09-07 18:49:53"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "Breakingviews - 评论：中国AI巨头向英伟达的护城河喷火 - Reuters",
-      "title_cn": "Breakingviews - 评论：中国AI工会向英伟达的护城河喷火 - 路透",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxQc2V3MzMyWDhGbmtOTkItcEdzR2dPdHNPelhqSG9sbEw1Mk0xTE85N29vZmtoTnZOa2NpOWFpNF9BSmd5N2EwMDVNOEFWWFlZR2l3SUlSNTdxR2wtT01Kc3RoUmh1bm9xTHBZNjItVXJ0dHZCeHNfX0pRTDBfdlh0QVV0N21fT2ZUZlF1WVFBWW5TejczdUE5MmRkaHpNeGZkTG1zVTlzbw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T02:53:00.000Z",
-      "pub_sort_dt": "2026-09-07 10:53:00"
+      "source": "Reuters",
+      "title_en": "在习近平访美前夕，中国大豆压榨企业面临成本高企、利润微薄的困境",
+      "title_cn": "在习近平访美前夕，中国大豆压榨企业面临成本高企、利润微薄的困境",
+      "url": "https://reut.rs/4xGlaXr",
+      "pub_raw": "2026-09-07T10:49:52.990Z",
+      "pub_sort_dt": "2026-09-07 18:49:52"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "世界排名第一的安凭借中国队三连冠向亚运会发出警告 - France 24",
-      "title_cn": "世界排名第一的安凭借中国队三连冠向亚运会发出警告 - France 24",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxOQ1Ztd2FnSWxZeEFDMmE5NGVGazRIY1pKZzViZmxnOHMwNWxiaU1xaG90LThhVEJraTVGRUhaWTdHNlY0ZF9wUnFOb2tXalEtbUlIWkF6c3BQTm1TUmxiczZNQy05ZHQ5aE4yazdyUVpEMVloM1BFbU5EZ3hlQ1A0bUxCOUFNcVFXYkU0Q1p2Nm9XQzBEZnF5THlFR1QzV0Y5QjdDeU9BV0tOOHBwNUpfeFJzRQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T02:47:10.000Z",
-      "pub_sort_dt": "2026-09-07 10:47:10"
+      "source": "Reuters",
+      "title_en": "中国外交部长表示，中墨关系“不针对任何第三方”",
+      "title_cn": "中国长征表示，中墨关系“不针对任何第三方”",
+      "url": "https://reut.rs/4r2DmZ8",
+      "pub_raw": "2026-09-07T10:18:52.914Z",
+      "pub_sort_dt": "2026-09-07 18:18:52"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国专家、前证券监管官员王建军因受贿被判处无期徒刑",
+      "title_cn": "中国专家、前证券监管人员王建军因受贿被判定无期徒刑",
+      "url": "https://reut.rs/3SOilEO",
+      "pub_raw": "2026-09-07T10:02:49.734Z",
+      "pub_sort_dt": "2026-09-07 18:02:49"
     },
     {
       "source": "Reuters",
@@ -349,14 +413,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-07/shein-s-value-down-5-billion-among-hk-s-worst-post-ipo-weeks",
       "pub_raw": "2026-09-07T09:32:27.905Z",
       "pub_sort_dt": "2026-09-07 17:32:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "华为这款售价3,000美元的设备引领了中国对可折叠iPhone的回应",
-      "title_cn": "华为这款售价 3,000 美元的设备引领了中国对可折叠 iPhone 的回应",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone",
-      "pub_raw": "2026-09-07T09:16:15.093Z",
-      "pub_sort_dt": "2026-09-07 17:16:15"
     },
     {
       "source": "Bloomberg",
@@ -437,62 +493,6 @@
       "url": "https://www.ft.com/content/f8e97cdb-6edb-4cb1-ae38-b3c0ceeba485?syn-25a6b1a6=1",
       "pub_raw": "2026-09-07T05:35:14.301Z",
       "pub_sort_dt": "2026-09-07 13:35:14"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国向银行和保险公司注资530亿美元",
-      "title_cn": "中国向银行和保险公司注资530亿美元",
-      "url": "https://www.ft.com/content/8012b60e-c74e-49bc-9200-d37f13b4a135?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-07T04:32:15.057Z",
-      "pub_sort_dt": "2026-09-07 12:32:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受持仓平仓及中国买盘预期推动，铁矿石价格突破100美元",
-      "title_cn": "受持仓平仓及中国买盘预期推动，铁矿石价格突破100美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/iron-ore-tops-100-on-position-unwinds-and-china-buying-hopes",
-      "pub_raw": "2026-09-07T03:59:52.831Z",
-      "pub_sort_dt": "2026-09-07 11:59:52"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "面对与盟友分享人工智能红利的压力，台湾正大展“芯片外交”之势",
-      "title_cn": "与中央分享人工智能红利的压力，台湾正大展“芯片中东”之势",
-      "url": "https://reut.rs/3Uv7YGv",
-      "pub_raw": "2026-09-07T03:28:12.125Z",
-      "pub_sort_dt": "2026-09-07 11:28:12"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "患者纷纷飞往中国接受最新的癌症治疗",
-      "title_cn": "大量中国患者接受最新的癌症治疗",
-      "url": "https://on.wsj.com/4qYHVUc",
-      "pub_raw": "2026-09-07T03:28:12.056Z",
-      "pub_sort_dt": "2026-09-07 11:28:12"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国奢侈品市场放缓，时尚品牌不得不依赖美国消费者的消费",
-      "title_cn": "中国奢侈品市场呼吁，时尚品牌必须依赖美国消费者的消费",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-06/china-s-luxury-slowdown-leaves-fashion-brands-reliant-on-us-spending",
-      "pub_raw": "2026-09-06T19:19:51.172Z",
-      "pub_sort_dt": "2026-09-07 03:19:51"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "印度为何让中国感到困惑",
-      "title_cn": "为何让印度感到惊讶",
-      "url": "https://www.economist.com/asia/2026/09/06/why-india-baffles-china",
-      "pub_raw": "2026-09-06T12:01:07.590Z",
-      "pub_sort_dt": "2026-09-06 20:01:07"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国大型银行和保险公司寻求至少530亿美元的资本",
-      "title_cn": "中国大型银行和保险公司寻求至少530亿美元的资本",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-06/agbank-icbc-plan-private-placements-totaling-up-to-260b-yuan-mtpk2qgx",
-      "pub_raw": "2026-09-06T10:40:48.601Z",
-      "pub_sort_dt": "2026-09-06 18:40:48"
     }
   ]
 }
