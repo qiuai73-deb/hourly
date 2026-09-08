@@ -1,15 +1,39 @@
 {
-  "update_cst": "2026-09-08 12:01:08 北京时间",
+  "update_cst": "2026-09-08 15:01:46 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 2,
-    "Bloomberg": 13,
-    "Financial Times": 3,
+    "Bloomberg": 12,
+    "Financial Times": 2,
     "Wall Street Journal": 1,
-    "Reuters": 1
+    "Reuters": 3
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国华为技术公司将在纽约面临敲诈勒索罪的审判 - AP News",
+      "title_cn": "中国华为技术公司将在纽约面临敲诈勒索罪的审判 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxPQ1gzVGJsbFFiZlRvLU1ZVi1SdmhYRzc2cmJTSnpyN2ZzMFdfbzZFNXNjUThCci13cWh0c0taTzUwc3dTYU1hSTM4NnJoNEtjYlJEWjVHWHY5aVducmhjNmJkZFJwUFBCeFRBUUZHTVlfY2JVdmFJeG12SGpBV0tGVTFjZk01S3czNVBDT0Q2TUVxMjhHRHdV?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T04:19:00.000Z",
+      "pub_sort_dt": "2026-09-08 12:19:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "尼泊尔-西藏灾难如何成为中国“清洁网络”行动的最新“牺牲品” - The Guardian",
+      "title_cn": "尼泊尔-西藏灾难如何成为中国“清洁网络”行动的最新“牺牲品” - 卫报",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxQbFFReHVwbjJBUkFNeWlBLXB0cEw2a0tvMHpMVFR6c1M1cUhsZTNCWm1mV19fMmhmTzY2OGNyOGdGV3c2azdWRmZMd3ZBaWtKNTQ3ajI0NHd3Qk03b1VDekFtZE5obTlEUV9ZaFllRHZlSTJVM3d6RlJQb1JPWkFEMFMxMGtFbDVZcGdQZ1FkVC1FZkJYTllqYVlLTHl0M2VOeGJSWmdERmZHdEtxZWhHMnQ0QXp1U2ZORi1fY1phZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T03:14:00.000Z",
+      "pub_sort_dt": "2026-09-08 11:14:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "《2026年中国能源转型回顾》 - ember-energy.org",
+      "title_cn": "《2026年中国能源转型回顾》 - ember-energy.org",
+      "url": "https://news.google.com/read/CBMigwFBVV95cUxNMnZvcTdXS1NGWFVYeUJIc0ZuUlRJRGJFRUpLeUR4YjVHSHdTdzBIZTVTSWtzb01fV2ExbXFndGlubnlpZUw3N2xSaW5NWU1MNll6WGt6NG9qVVFubVJNVWxfc3NyWm9yaW0yQzZTX3hlV0RGTm1XcHItLXNjZTZGck9iSQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T03:10:33.000Z",
+      "pub_sort_dt": "2026-09-08 11:10:33"
+    },
     {
       "source": "China Buzzing",
       "title_en": "华为引领中国自主研发先进芯片的进程 - ft.com",
@@ -17,6 +41,14 @@
       "url": "https://news.google.com/read/CBMihAFBVV95cUxOMFNTc3V3akREbVlsb2N3VmJMcFY1ZUtKZXlWc28zMnFIcmE3M0R1X0gtMnl4bXZIX2pPX2YtLS1ZbDZsdkxPYTM0MVpyOTc0SlJtd2x3YUgydHNocDBQdnBoWkZsb0Q5QnhCX2tEaVdwMDZYZFl0VXZKWl9DNm56aHU5QV8?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-08T03:00:00.000Z",
       "pub_sort_dt": "2026-09-08 11:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着炼油企业多元化采购渠道，中国原油进口量持续增长 - Bloomberg.com",
+      "title_cn": "随着炼油企业信心十足采购渠道，中国原油进口量持续增长 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxOekhyZnZaN2djQmpKT2YyeGRaem1mS0FMSTlyZFVHTVF5Z0dzRU5LV21jRmlxWnZTVHFhZHUwUlU1UUNQdmUzcGo0ak44YmpuNjRoeFV2YkI3QWV5NUdwcWJQcERBWW5zczNDb0p2RE9EOUtNbmZadE9ITlpiZDFicHozZDJCeEpmUUxXTHZxZTAzTjRHX01aWkNMVFJVbjl4Y3EwQ3lsNzNJUDZ2bWJ1N3V3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T02:58:00.000Z",
+      "pub_sort_dt": "2026-09-08 10:58:00"
     },
     {
       "source": "China Buzzing",
@@ -28,70 +60,86 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "中国要求钢厂暂缓购买力拓的铁矿石 - Bloomberg.com",
+      "title_cn": "中国要求钢厂暂缓采购力拓铁矿石 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxPU0QtT0plbHZpMDh5d2xERTlBdFpzVXhzWWRIOS1WR1RnNW1LMkhKbVdzRk1yRmhaenNtZzZCWUJLYmw4YmhzVTF5VDdRb3UxalFCMFd0MTltRjBweFVQT3pQQkRlSkhub1RUNGJfVWRPUm1NeTBtSnlfNjU5R2gtYmlFZy0tdnNpUk1NU3NsNURnZk9qOGxnQ0hwdF9HZVg1bGRZYUo4SzFFM0FKTGh6X3NR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T02:17:00.000Z",
+      "pub_sort_dt": "2026-09-08 10:17:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国对日本实施芯片化学品反倾销措施 - Bloomberg.com",
+      "title_cn": "中国对日本实施芯片反倾销措施 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxQN3BPUWJZN0N2dGtrSXhmVEFjcVJPMUNtOURHQ1YwOEw2MGFRTGh5ZmdldHNFY0VhSXRjeWh6dGVMWkJyTmp6NmRWRHdkRnczMmJadnpEQkV4Um93ZmpwOS1Zbk1lWi1EU0ktdjBJZVRsUEdrSzE1dFlOWGRibm9qNUt6SU5qN1p3cEVhTi1SbnROQm9WLV9PRmNKWmdQSHl6NldoUzZMV2swTmVpRnh3bg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T01:23:00.000Z",
+      "pub_sort_dt": "2026-09-08 09:23:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国正在远离其主要大城市的地方建设人工智能的未来 - Yahoo Finance",
+      "title_cn": "中国正在远离其所在的地方人工智能的主要未来 - 雅虎财经",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxOS2hSR1NkUDRrWDVGR3hycUM1d3JSTWxPM2hFV2QzWkVaeXlFZmdJeUJZelpYRm9MZG5KREdXMHNiRFhaOWEwQ1RCQ3B4UloxVS1EWTk5ZmJqMFdidDZVd3dVYmo0cmFxdFBDMXJfSk91MjMwNGF1aGNDcTFOUUd5RGpCSFZNY3dpZUdscVp3WHFKSzZpVUFR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T00:07:00.000Z",
+      "pub_sort_dt": "2026-09-08 08:07:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "CNBC《中国联结》通讯：中国疲软的消费市场已成为全球性问题 - CNBC",
       "title_cn": "CNBC《中国联结》通讯：中国消费市场疲软已成为全球性问题 - CNBC",
       "url": "https://news.google.com/read/CBMimAFBVV95cUxOQlVFdVVqRnBLZ1pfY0JKcFMwcmdna0dwbm1fai11Slk4OHA4NEU4enRDcDhhZ2RNVDhCcmJhVWEyYXdMYzV3MExjYXJuUk1MLVNqdU1RZUxvX0ZweFJOeHV2cUpvdFR4YThHdnNPanVLalFtX0JuTFpZRDBMOUI4cE1mVy1oWGdzVF9Zbnp4aW0xeUQ2bGtWVdIBngFBVV95cUxNV0I2T3dwQ3haNkJCU2FaWk8xMjY1RnU5b0lHakp5VzhoTmdSdTA5cXR0WnlZV3hndU9FR1ZuWUJjenJsQkFUeFRwbEV2UGxFb09kNlM1ZXV1SlA5TlJYMU80SFNnV3ZBS213NE5OTTd2cjhrQm1UOGhtWFRuSThhNGJKYmVsYmZSSG5IU3ZDbHZ5dl92NHRJXzRacUp4dw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T23:00:01.000Z",
       "pub_sort_dt": "2026-09-08 07:00:01"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "东京如何通过扩大地区防务合作，使北京在台湾问题上的决策变得更加复杂 - South China Morning Post",
-      "title_cn": "东京如何通过扩大地区防务合作，使北京在台湾问题上的决策变得更加复杂 - 南华早报",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxPSk5vdmM2Z0ZVVDhOTm9MZ0FQSDZMbkljUGZXOFVmVTRrbVlzZldpYVVPQzFSeGVuQzB2WDI1MWdSRzhlNG5FTk03X1VPVDhOeFNneW1KMjNZVk9uQ0R2em53Yjgxc1VRdy1yTVBIT1FiYzdIVW40cURtT3dzX1VJSEs1S2dXa2FITnFkdGRQZHdORGNnTUlDc1FkT01uaHp4N29PSzJtTlNwS3l3aGd6VkFRUE91ZUtTNzQ5elhLRDV2V2p4eWJFWk9iclZzUdIBzgFBVV95cUxPYTdDRFplZzhEeGZYRTBaWHBucWZvVXdsY1cwVU0zVnpMSm1WTmhIWkV2Ukk3VWNPWUYzRnVNR254SW1oVUpQRVFVeWlzNXVBNkVYYllqWVFJMGJqVjhidkNDT0Z3Q2NDS1ZiVFlhTDNjcEdOSGw5WDdkdUROYmFPX19TR0JLVUxCb0g4SEJxWjktTFRpR211M2RmZHIwbERVTmh1MlpwYzhZd196bFQxUTdUTThIUG9Uam5MaFNkc1BhMVpXWDFuMUJOV253Zw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T22:00:13.000Z",
-      "pub_sort_dt": "2026-09-08 06:00:13"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "从舞池到战场：中国正为作战准备人形机器人 - MSN",
-      "title_cn": "从舞池到战场：中国正为作战准备人形机器人 - MSN",
-      "url": "https://news.google.com/read/CBMiaEFVX3lxTE5OWGNkTkFCa25zV1hyTEpxeW1IM1NBckNnemhGeXVxZElRQzR3U3dXaTgyazNjS2JmeHVSYjN5eTJsSHdwTjBjTGpqQmZHQmlOYU5VdHhlU2FwQWI5VjhOcWlvSFBIX3RR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T17:26:22.000Z",
-      "pub_sort_dt": "2026-09-08 01:26:22"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "欧盟贸易专员将就对华战略与企业首席执行官们会面 - politico.eu",
-      "title_cn": "欧盟贸易专员将就华战略与企业领导人会面 - politico.eu",
-      "url": "https://news.google.com/read/CBMimwFBVV95cUxOaWtudVNmS3RIb25nVW5rRjdiNTIyYm1xX2t5Z3dMNzliZW9YdDA5eFpmVEdNUXlQS0lRckMwbW1hN1JkcEtQdGRzZllBZHVfRldzV3ZMYzRDU1hXeTc1RTUwRmRKVlR4UFl0SXh5empPQU1uOWYxR2pCU3VSZnJBRmo2Nk5PRXVWZHp5MlFKbFlGb0wzVm55bXFnTQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T17:16:00.000Z",
-      "pub_sort_dt": "2026-09-08 01:16:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国清理被致命洪灾冲毁的西藏边境口岸，数百人仍下落不明 - NBC News",
-      "title_cn": "中国清理被致命洪灾冲毁的西藏边境口岸，数百人仍下落不明 - NBC News",
-      "url": "https://news.google.com/read/CBMilgFBVV95cUxPWWo5RG1oSmpReDR6QnhlamdzMWRac0ZXTlBlNXBXcDVPZFlEbmM1R1VvSFo3YXdBRE9OVW9OVkQ1ODRQb3R5RHRGeFgwNWprZXpqOWVZZHNLY05hRFZRMFZJVmN4ZkZYS3JWNkRZSXozMUh0YzZ4NV9rc2pmaDNzRFNhUDhBSjFNdnFJdVcybU84akpBeVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T16:23:09.000Z",
-      "pub_sort_dt": "2026-09-08 00:23:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "比利时逮捕一名涉嫌窃取芯片技术的中国公民，加剧了欧洲对北京的担忧 - WSJ",
-      "title_cn": "比利时逮捕一名涉嫌被盗芯片技术的中国公民，增强了欧洲对北京的担忧 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxQZV9wS01NWjViQV9VWlRCYWllR2t6TkxRTUw0ZWtRODRHVHRIZFBCUko0b1AwQm9yZXpqejJCdV9aNHI1aHRXODJVR21kbWJiSDVOUlNodFAxWS1GWXprN0tncThKenlwcWxiVldUelk4TVktQ0x0c1F6SVpFdDU3Um9rTElieGQwMFVmYW9RMVp2UjNWNXkyWDhITlB0cHRrbzl5YXlvTWhMdHJES3Fsdm13UVZrckhJSFlOUHpkVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T15:45:25.000Z",
-      "pub_sort_dt": "2026-09-07 23:45:25"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国制造业和消费市场为印度企业带来新机遇：代表表示 - Global Times",
-      "title_cn": "中国制造业和消费市场为印度企业迎来新机遇：代表表示 - 环球时报",
-      "url": "https://news.google.com/read/CBMiYkFVX3lxTE1qS2Rac1YzbTRqVDdXUVg5UjRyejBGZVphdlh6X254cTVyY2lxTmRCaS1uRE1ENUF4OWpmcGRvY1VLVklxMlYtdGh0UHZkWkVwVDZ1VkhnWHVUSlZ1anpiY3ZR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T15:24:00.000Z",
-      "pub_sort_dt": "2026-09-07 23:24:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国的言论自由正处于严寒之中 - The Economist",
-      "title_cn": "中国的蔑视自由受到严寒 - 《经济学人》",
-      "url": "https://news.google.com/read/CBMihwFBVV95cUxOTVBLVVdBZm5TaEZpSnRqenNGaGVadXZkcWFZcldWTzNCbUV2VGlFbHJoZEtVRDhpYUNHTlVMM1ljT2dka044enkybkRtNHB5aEtHU29KLWRfOFZTRmNpQ1hzaEpVc0JlelNsNlFNXzA0Z19rTGJRSl9YeTR5R0pBUXF0Rl8ySWM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T15:02:44.000Z",
-      "pub_sort_dt": "2026-09-07 23:02:44"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "8月份中国汽车出口激增，而国内销量则持续下滑",
+      "title_cn": "8月份中国汽车出口激增，而国内销量则持续上升",
+      "url": "https://reut.rs/3SVRl6i",
+      "pub_raw": "2026-09-08T06:33:02.763Z",
+      "pub_sort_dt": "2026-09-08 14:33:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国对日本实施芯片化学品反倾销措施",
+      "title_cn": "中国对日本实施芯片反倾销措施",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-hits-japan-with-anti-dumping-measures-on-chip-chemical",
+      "pub_raw": "2026-09-08T06:17:42.819Z",
+      "pub_sort_dt": "2026-09-08 14:17:42"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "达契亚将把热门车型“Spring”电动汽车从中国带回欧洲",
+      "title_cn": "达契亚将把热门男友“Spring”电动汽车从中国带回欧洲",
+      "url": "https://reut.rs/4qYiXEv",
+      "pub_raw": "2026-09-08T06:17:42.709Z",
+      "pub_sort_dt": "2026-09-08 14:17:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "前中国人民银行官员称，熊猫债券可助力能源转型融资",
+      "title_cn": "前中国人民银行官员称，一笔债券可支持能源融资",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/panda-bonds-can-help-fund-energy-transition-ex-pboc-official-says",
+      "pub_raw": "2026-09-08T05:13:50.377Z",
+      "pub_sort_dt": "2026-09-08 13:13:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "人工智能助推中国出口增长，贸易顺差逼近8060亿美元",
+      "title_cn": "人工智能助推中国出口增长，贸易顺差逼近8060亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
+      "pub_raw": "2026-09-08T04:57:57.855Z",
+      "pub_sort_dt": "2026-09-08 12:57:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Longsys在香港上市首日股价下跌，募资9.03亿美元",
+      "title_cn": "江波龙在香港上市首日股价下跌，募资9.03亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
+      "pub_raw": "2026-09-08T04:26:53.289Z",
+      "pub_sort_dt": "2026-09-08 12:26:53"
+    },
     {
       "source": "Bloomberg",
       "title_en": "随着炼油企业多元化采购，中国原油进口量持续增长",
@@ -99,14 +147,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-s-crude-imports-strengthen-as-refiners-diversify-supply",
       "pub_raw": "2026-09-08T03:40:03.811Z",
       "pub_sort_dt": "2026-09-08 11:40:03"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国出口增长回升，贸易顺差逼近8060亿美元",
-      "title_cn": "中国出口增长回升，贸易顺差逼近8060亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
-      "pub_raw": "2026-09-08T03:23:52.445Z",
-      "pub_sort_dt": "2026-09-08 11:23:52"
     },
     {
       "source": "Financial Times",
@@ -139,14 +179,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-tells-steel-mills-to-hold-off-on-buying-rio-tinto-s-ore",
       "pub_raw": "2026-09-08T02:36:09.693Z",
       "pub_sort_dt": "2026-09-08 10:36:09"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Longsys以9.03亿美元募资在香港上市，开盘持平",
-      "title_cn": "江波龙以9.03亿美元募资在香港上市，开盘持平",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
-      "pub_raw": "2026-09-08T01:47:45.238Z",
-      "pub_sort_dt": "2026-09-08 09:47:45"
     },
     {
       "source": "Bloomberg",
@@ -219,48 +251,48 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone",
       "pub_raw": "2026-09-07T13:59:38.159Z",
       "pub_sort_dt": "2026-09-07 21:59:38"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "尽管金价飙升，中国央行仍增持了自2023年以来最多黄金",
-      "title_cn": "尽管金价上涨，中国央行仍维持了2023年以来的最高黄金",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/china-central-bank-adds-most-gold-since-2023-even-as-prices-jump",
-      "pub_raw": "2026-09-07T11:53:14.682Z",
-      "pub_sort_dt": "2026-09-07 19:53:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国正因汽车制造商开发车辆速度过快而对其进行整顿",
-      "title_cn": "中国正因汽车制造商开发车辆速度过快而进行整顿",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-07/china-is-cracking-down-on-its-carmakers-for-developing-vehicles-too-fast",
-      "pub_raw": "2026-09-07T11:53:14.678Z",
-      "pub_sort_dt": "2026-09-07 19:53:14"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "习近平领导下的中国全球战略——将权力从西方转移的计划",
-      "title_cn": "习近平领导下的中国全球战略——权力从西方转移的计划",
-      "url": "https://www.ft.com/content/ace61021-f3be-47a7-9117-b9f0c63d40d1",
-      "pub_raw": "2026-09-07T11:06:16.764Z",
-      "pub_sort_dt": "2026-09-07 19:06:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着两国关系不断深化，巴基斯坦展示了一套可能来自中国的导弹系统",
-      "title_cn": "随着巴基斯坦的不断深化，巴基斯坦展示了一套可能来自中国的导弹系统",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/pakistan-shows-possible-chinese-missile-system-as-ties-deepen",
-      "pub_raw": "2026-09-07T10:49:53.104Z",
-      "pub_sort_dt": "2026-09-07 18:49:53"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国华为技术公司将在纽约面临敲诈勒索罪的审判 - AP News",
+      "title_cn": "中国华为技术公司将在纽约面临敲诈勒索罪的审判 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxPQ1gzVGJsbFFiZlRvLU1ZVi1SdmhYRzc2cmJTSnpyN2ZzMFdfbzZFNXNjUThCci13cWh0c0taTzUwc3dTYU1hSTM4NnJoNEtjYlJEWjVHWHY5aVducmhjNmJkZFJwUFBCeFRBUUZHTVlfY2JVdmFJeG12SGpBV0tGVTFjZk01S3czNVBDT0Q2TUVxMjhHRHdV?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T04:19:00.000Z",
+      "pub_sort_dt": "2026-09-08 12:19:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "尼泊尔-西藏灾难如何成为中国“清洁网络”行动的最新“牺牲品” - The Guardian",
+      "title_cn": "尼泊尔-西藏灾难如何成为中国“清洁网络”行动的最新“牺牲品” - 卫报",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxQbFFReHVwbjJBUkFNeWlBLXB0cEw2a0tvMHpMVFR6c1M1cUhsZTNCWm1mV19fMmhmTzY2OGNyOGdGV3c2azdWRmZMd3ZBaWtKNTQ3ajI0NHd3Qk03b1VDekFtZE5obTlEUV9ZaFllRHZlSTJVM3d6RlJQb1JPWkFEMFMxMGtFbDVZcGdQZ1FkVC1FZkJYTllqYVlLTHl0M2VOeGJSWmdERmZHdEtxZWhHMnQ0QXp1U2ZORi1fY1phZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T03:14:00.000Z",
+      "pub_sort_dt": "2026-09-08 11:14:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "《2026年中国能源转型回顾》 - ember-energy.org",
+      "title_cn": "《2026年中国能源转型回顾》 - ember-energy.org",
+      "url": "https://news.google.com/read/CBMigwFBVV95cUxNMnZvcTdXS1NGWFVYeUJIc0ZuUlRJRGJFRUpLeUR4YjVHSHdTdzBIZTVTSWtzb01fV2ExbXFndGlubnlpZUw3N2xSaW5NWU1MNll6WGt6NG9qVVFubVJNVWxfc3NyWm9yaW0yQzZTX3hlV0RGTm1XcHItLXNjZTZGck9iSQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T03:10:33.000Z",
+      "pub_sort_dt": "2026-09-08 11:10:33"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "华为引领中国自主研发先进芯片的进程 - ft.com",
       "title_cn": "华为引领中国自主研发先进芯片的进程 - ft.com",
       "url": "https://news.google.com/read/CBMihAFBVV95cUxOMFNTc3V3akREbVlsb2N3VmJMcFY1ZUtKZXlWc28zMnFIcmE3M0R1X0gtMnl4bXZIX2pPX2YtLS1ZbDZsdkxPYTM0MVpyOTc0SlJtd2x3YUgydHNocDBQdnBoWkZsb0Q5QnhCX2tEaVdwMDZYZFl0VXZKWl9DNm56aHU5QV8?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-08T03:00:00.000Z",
       "pub_sort_dt": "2026-09-08 11:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着炼油企业多元化采购渠道，中国原油进口量持续增长 - Bloomberg.com",
+      "title_cn": "随着炼油企业信心十足采购渠道，中国原油进口量持续增长 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxOekhyZnZaN2djQmpKT2YyeGRaem1mS0FMSTlyZFVHTVF5Z0dzRU5LV21jRmlxWnZTVHFhZHUwUlU1UUNQdmUzcGo0ak44YmpuNjRoeFV2YkI3QWV5NUdwcWJQcERBWW5zczNDb0p2RE9EOUtNbmZadE9ITlpiZDFicHozZDJCeEpmUUxXTHZxZTAzTjRHX01aWkNMVFJVbjl4Y3EwQ3lsNzNJUDZ2bWJ1N3V3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T02:58:00.000Z",
+      "pub_sort_dt": "2026-09-08 10:58:00"
     },
     {
       "source": "China Buzzing",
@@ -272,6 +304,30 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "中国要求钢厂暂缓购买力拓的铁矿石 - Bloomberg.com",
+      "title_cn": "中国要求钢厂暂缓采购力拓铁矿石 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxPU0QtT0plbHZpMDh5d2xERTlBdFpzVXhzWWRIOS1WR1RnNW1LMkhKbVdzRk1yRmhaenNtZzZCWUJLYmw4YmhzVTF5VDdRb3UxalFCMFd0MTltRjBweFVQT3pQQkRlSkhub1RUNGJfVWRPUm1NeTBtSnlfNjU5R2gtYmlFZy0tdnNpUk1NU3NsNURnZk9qOGxnQ0hwdF9HZVg1bGRZYUo4SzFFM0FKTGh6X3NR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T02:17:00.000Z",
+      "pub_sort_dt": "2026-09-08 10:17:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国对日本实施芯片化学品反倾销措施 - Bloomberg.com",
+      "title_cn": "中国对日本实施芯片反倾销措施 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxQN3BPUWJZN0N2dGtrSXhmVEFjcVJPMUNtOURHQ1YwOEw2MGFRTGh5ZmdldHNFY0VhSXRjeWh6dGVMWkJyTmp6NmRWRHdkRnczMmJadnpEQkV4Um93ZmpwOS1Zbk1lWi1EU0ktdjBJZVRsUEdrSzE1dFlOWGRibm9qNUt6SU5qN1p3cEVhTi1SbnROQm9WLV9PRmNKWmdQSHl6NldoUzZMV2swTmVpRnh3bg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T01:23:00.000Z",
+      "pub_sort_dt": "2026-09-08 09:23:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国正在远离其主要大城市的地方建设人工智能的未来 - Yahoo Finance",
+      "title_cn": "中国正在远离其所在的地方人工智能的主要未来 - 雅虎财经",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxOS2hSR1NkUDRrWDVGR3hycUM1d3JSTWxPM2hFV2QzWkVaeXlFZmdJeUJZelpYRm9MZG5KREdXMHNiRFhaOWEwQ1RCQ3B4UloxVS1EWTk5ZmJqMFdidDZVd3dVYmo0cmFxdFBDMXJfSk91MjMwNGF1aGNDcTFOUUd5RGpCSFZNY3dpZUdscVp3WHFKSzZpVUFR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T00:07:00.000Z",
+      "pub_sort_dt": "2026-09-08 08:07:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "CNBC《中国联结》通讯：中国疲软的消费市场已成为全球性问题 - CNBC",
       "title_cn": "CNBC《中国联结》通讯：中国消费市场疲软已成为全球性问题 - CNBC",
       "url": "https://news.google.com/read/CBMimAFBVV95cUxOQlVFdVVqRnBLZ1pfY0JKcFMwcmdna0dwbm1fai11Slk4OHA4NEU4enRDcDhhZ2RNVDhCcmJhVWEyYXdMYzV3MExjYXJuUk1MLVNqdU1RZUxvX0ZweFJOeHV2cUpvdFR4YThHdnNPanVLalFtX0JuTFpZRDBMOUI4cE1mVy1oWGdzVF9Zbnp4aW0xeUQ2bGtWVdIBngFBVV95cUxNV0I2T3dwQ3haNkJCU2FaWk8xMjY1RnU5b0lHakp5VzhoTmdSdTA5cXR0WnlZV3hndU9FR1ZuWUJjenJsQkFUeFRwbEV2UGxFb09kNlM1ZXV1SlA5TlJYMU80SFNnV3ZBS213NE5OTTd2cjhrQm1UOGhtWFRuSThhNGJKYmVsYmZSSG5IU3ZDbHZ5dl92NHRJXzRacUp4dw?hl=en-US&gl=US&ceid=US%3Aen",
@@ -279,60 +335,52 @@
       "pub_sort_dt": "2026-09-08 07:00:01"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "东京如何通过扩大地区防务合作，使北京在台湾问题上的决策变得更加复杂 - South China Morning Post",
-      "title_cn": "东京如何通过扩大地区防务合作，使北京在台湾问题上的决策变得更加复杂 - 南华早报",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxPSk5vdmM2Z0ZVVDhOTm9MZ0FQSDZMbkljUGZXOFVmVTRrbVlzZldpYVVPQzFSeGVuQzB2WDI1MWdSRzhlNG5FTk03X1VPVDhOeFNneW1KMjNZVk9uQ0R2em53Yjgxc1VRdy1yTVBIT1FiYzdIVW40cURtT3dzX1VJSEs1S2dXa2FITnFkdGRQZHdORGNnTUlDc1FkT01uaHp4N29PSzJtTlNwS3l3aGd6VkFRUE91ZUtTNzQ5elhLRDV2V2p4eWJFWk9iclZzUdIBzgFBVV95cUxPYTdDRFplZzhEeGZYRTBaWHBucWZvVXdsY1cwVU0zVnpMSm1WTmhIWkV2Ukk3VWNPWUYzRnVNR254SW1oVUpQRVFVeWlzNXVBNkVYYllqWVFJMGJqVjhidkNDT0Z3Q2NDS1ZiVFlhTDNjcEdOSGw5WDdkdUROYmFPX19TR0JLVUxCb0g4SEJxWjktTFRpR211M2RmZHIwbERVTmh1MlpwYzhZd196bFQxUTdUTThIUG9Uam5MaFNkc1BhMVpXWDFuMUJOV253Zw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T22:00:13.000Z",
-      "pub_sort_dt": "2026-09-08 06:00:13"
+      "source": "Reuters",
+      "title_en": "8月份中国汽车出口激增，而国内销量则持续下滑",
+      "title_cn": "8月份中国汽车出口激增，而国内销量则持续上升",
+      "url": "https://reut.rs/3SVRl6i",
+      "pub_raw": "2026-09-08T06:33:02.763Z",
+      "pub_sort_dt": "2026-09-08 14:33:02"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "从舞池到战场：中国正为作战准备人形机器人 - MSN",
-      "title_cn": "从舞池到战场：中国正为作战准备人形机器人 - MSN",
-      "url": "https://news.google.com/read/CBMiaEFVX3lxTE5OWGNkTkFCa25zV1hyTEpxeW1IM1NBckNnemhGeXVxZElRQzR3U3dXaTgyazNjS2JmeHVSYjN5eTJsSHdwTjBjTGpqQmZHQmlOYU5VdHhlU2FwQWI5VjhOcWlvSFBIX3RR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T17:26:22.000Z",
-      "pub_sort_dt": "2026-09-08 01:26:22"
+      "source": "Bloomberg",
+      "title_en": "中国对日本实施芯片化学品反倾销措施",
+      "title_cn": "中国对日本实施芯片反倾销措施",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-hits-japan-with-anti-dumping-measures-on-chip-chemical",
+      "pub_raw": "2026-09-08T06:17:42.819Z",
+      "pub_sort_dt": "2026-09-08 14:17:42"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "欧盟贸易专员将就对华战略与企业首席执行官们会面 - politico.eu",
-      "title_cn": "欧盟贸易专员将就华战略与企业领导人会面 - politico.eu",
-      "url": "https://news.google.com/read/CBMimwFBVV95cUxOaWtudVNmS3RIb25nVW5rRjdiNTIyYm1xX2t5Z3dMNzliZW9YdDA5eFpmVEdNUXlQS0lRckMwbW1hN1JkcEtQdGRzZllBZHVfRldzV3ZMYzRDU1hXeTc1RTUwRmRKVlR4UFl0SXh5empPQU1uOWYxR2pCU3VSZnJBRmo2Nk5PRXVWZHp5MlFKbFlGb0wzVm55bXFnTQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T17:16:00.000Z",
-      "pub_sort_dt": "2026-09-08 01:16:00"
+      "source": "Reuters",
+      "title_en": "达契亚将把热门车型“Spring”电动汽车从中国带回欧洲",
+      "title_cn": "达契亚将把热门男友“Spring”电动汽车从中国带回欧洲",
+      "url": "https://reut.rs/4qYiXEv",
+      "pub_raw": "2026-09-08T06:17:42.709Z",
+      "pub_sort_dt": "2026-09-08 14:17:42"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国清理被致命洪灾冲毁的西藏边境口岸，数百人仍下落不明 - NBC News",
-      "title_cn": "中国清理被致命洪灾冲毁的西藏边境口岸，数百人仍下落不明 - NBC News",
-      "url": "https://news.google.com/read/CBMilgFBVV95cUxPWWo5RG1oSmpReDR6QnhlamdzMWRac0ZXTlBlNXBXcDVPZFlEbmM1R1VvSFo3YXdBRE9OVW9OVkQ1ODRQb3R5RHRGeFgwNWprZXpqOWVZZHNLY05hRFZRMFZJVmN4ZkZYS3JWNkRZSXozMUh0YzZ4NV9rc2pmaDNzRFNhUDhBSjFNdnFJdVcybU84akpBeVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T16:23:09.000Z",
-      "pub_sort_dt": "2026-09-08 00:23:09"
+      "source": "Bloomberg",
+      "title_en": "前中国人民银行官员称，熊猫债券可助力能源转型融资",
+      "title_cn": "前中国人民银行官员称，一笔债券可支持能源融资",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/panda-bonds-can-help-fund-energy-transition-ex-pboc-official-says",
+      "pub_raw": "2026-09-08T05:13:50.377Z",
+      "pub_sort_dt": "2026-09-08 13:13:50"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "比利时逮捕一名涉嫌窃取芯片技术的中国公民，加剧了欧洲对北京的担忧 - WSJ",
-      "title_cn": "比利时逮捕一名涉嫌被盗芯片技术的中国公民，增强了欧洲对北京的担忧 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxQZV9wS01NWjViQV9VWlRCYWllR2t6TkxRTUw0ZWtRODRHVHRIZFBCUko0b1AwQm9yZXpqejJCdV9aNHI1aHRXODJVR21kbWJiSDVOUlNodFAxWS1GWXprN0tncThKenlwcWxiVldUelk4TVktQ0x0c1F6SVpFdDU3Um9rTElieGQwMFVmYW9RMVp2UjNWNXkyWDhITlB0cHRrbzl5YXlvTWhMdHJES3Fsdm13UVZrckhJSFlOUHpkVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T15:45:25.000Z",
-      "pub_sort_dt": "2026-09-07 23:45:25"
+      "source": "Bloomberg",
+      "title_en": "人工智能助推中国出口增长，贸易顺差逼近8060亿美元",
+      "title_cn": "人工智能助推中国出口增长，贸易顺差逼近8060亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
+      "pub_raw": "2026-09-08T04:57:57.855Z",
+      "pub_sort_dt": "2026-09-08 12:57:57"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国制造业和消费市场为印度企业带来新机遇：代表表示 - Global Times",
-      "title_cn": "中国制造业和消费市场为印度企业迎来新机遇：代表表示 - 环球时报",
-      "url": "https://news.google.com/read/CBMiYkFVX3lxTE1qS2Rac1YzbTRqVDdXUVg5UjRyejBGZVphdlh6X254cTVyY2lxTmRCaS1uRE1ENUF4OWpmcGRvY1VLVklxMlYtdGh0UHZkWkVwVDZ1VkhnWHVUSlZ1anpiY3ZR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T15:24:00.000Z",
-      "pub_sort_dt": "2026-09-07 23:24:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国的言论自由正处于严寒之中 - The Economist",
-      "title_cn": "中国的蔑视自由受到严寒 - 《经济学人》",
-      "url": "https://news.google.com/read/CBMihwFBVV95cUxOTVBLVVdBZm5TaEZpSnRqenNGaGVadXZkcWFZcldWTzNCbUV2VGlFbHJoZEtVRDhpYUNHTlVMM1ljT2dka044enkybkRtNHB5aEtHU29KLWRfOFZTRmNpQ1hzaEpVc0JlelNsNlFNXzA0Z19rTGJRSl9YeTR5R0pBUXF0Rl8ySWM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T15:02:44.000Z",
-      "pub_sort_dt": "2026-09-07 23:02:44"
+      "source": "Bloomberg",
+      "title_en": "Longsys在香港上市首日股价下跌，募资9.03亿美元",
+      "title_cn": "江波龙在香港上市首日股价下跌，募资9.03亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
+      "pub_raw": "2026-09-08T04:26:53.289Z",
+      "pub_sort_dt": "2026-09-08 12:26:53"
     },
     {
       "source": "Bloomberg",
@@ -341,14 +389,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-s-crude-imports-strengthen-as-refiners-diversify-supply",
       "pub_raw": "2026-09-08T03:40:03.811Z",
       "pub_sort_dt": "2026-09-08 11:40:03"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国出口增长回升，贸易顺差逼近8060亿美元",
-      "title_cn": "中国出口增长回升，贸易顺差逼近8060亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
-      "pub_raw": "2026-09-08T03:23:52.445Z",
-      "pub_sort_dt": "2026-09-08 11:23:52"
     },
     {
       "source": "Financial Times",
@@ -381,14 +421,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-tells-steel-mills-to-hold-off-on-buying-rio-tinto-s-ore",
       "pub_raw": "2026-09-08T02:36:09.693Z",
       "pub_sort_dt": "2026-09-08 10:36:09"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Longsys以9.03亿美元募资在香港上市，开盘持平",
-      "title_cn": "江波龙以9.03亿美元募资在香港上市，开盘持平",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
-      "pub_raw": "2026-09-08T01:47:45.238Z",
-      "pub_sort_dt": "2026-09-08 09:47:45"
     },
     {
       "source": "Bloomberg",
@@ -461,38 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone",
       "pub_raw": "2026-09-07T13:59:38.159Z",
       "pub_sort_dt": "2026-09-07 21:59:38"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "尽管金价飙升，中国央行仍增持了自2023年以来最多黄金",
-      "title_cn": "尽管金价上涨，中国央行仍维持了2023年以来的最高黄金",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/china-central-bank-adds-most-gold-since-2023-even-as-prices-jump",
-      "pub_raw": "2026-09-07T11:53:14.682Z",
-      "pub_sort_dt": "2026-09-07 19:53:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国正因汽车制造商开发车辆速度过快而对其进行整顿",
-      "title_cn": "中国正因汽车制造商开发车辆速度过快而进行整顿",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-07/china-is-cracking-down-on-its-carmakers-for-developing-vehicles-too-fast",
-      "pub_raw": "2026-09-07T11:53:14.678Z",
-      "pub_sort_dt": "2026-09-07 19:53:14"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "习近平领导下的中国全球战略——将权力从西方转移的计划",
-      "title_cn": "习近平领导下的中国全球战略——权力从西方转移的计划",
-      "url": "https://www.ft.com/content/ace61021-f3be-47a7-9117-b9f0c63d40d1",
-      "pub_raw": "2026-09-07T11:06:16.764Z",
-      "pub_sort_dt": "2026-09-07 19:06:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着两国关系不断深化，巴基斯坦展示了一套可能来自中国的导弹系统",
-      "title_cn": "随着巴基斯坦的不断深化，巴基斯坦展示了一套可能来自中国的导弹系统",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/pakistan-shows-possible-chinese-missile-system-as-ties-deepen",
-      "pub_raw": "2026-09-07T10:49:53.104Z",
-      "pub_sort_dt": "2026-09-07 18:49:53"
     }
   ]
 }
