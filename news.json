@@ -1,19 +1,27 @@
 {
-  "update_cst": "2026-09-08 06:01:01 北京时间",
+  "update_cst": "2026-09-08 09:01:10 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 2,
-    "Bloomberg": 9,
+    "Bloomberg": 11,
     "Financial Times": 1,
     "Wall Street Journal": 1,
-    "Reuters": 7
+    "Reuters": 5
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "CNBC《中国联结》通讯：中国疲软的消费市场已成为全球性问题 - CNBC",
+      "title_cn": "CNBC《中国联结》通讯：中国消费市场疲软已成为全球性问题 - CNBC",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxOQlVFdVVqRnBLZ1pfY0JKcFMwcmdna0dwbm1fai11Slk4OHA4NEU4enRDcDhhZ2RNVDhCcmJhVWEyYXdMYzV3MExjYXJuUk1MLVNqdU1RZUxvX0ZweFJOeHV2cUpvdFR4YThHdnNPanVLalFtX0JuTFpZRDBMOUI4cE1mVy1oWGdzVF9Zbnp4aW0xeUQ2bGtWVdIBngFBVV95cUxNV0I2T3dwQ3haNkJCU2FaWk8xMjY1RnU5b0lHakp5VzhoTmdSdTA5cXR0WnlZV3hndU9FR1ZuWUJjenJsQkFUeFRwbEV2UGxFb09kNlM1ZXV1SlA5TlJYMU80SFNnV3ZBS213NE5OTTd2cjhrQm1UOGhtWFRuSThhNGJKYmVsYmZSSG5IU3ZDbHZ5dl92NHRJXzRacUp4dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T23:00:01.000Z",
+      "pub_sort_dt": "2026-09-08 07:00:01"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "欧盟贸易专员将就对华战略与企业首席执行官们会面 - politico.eu",
-      "title_cn": "欧盟贸易专员将就对华战略与企业首席执行官们会面 - politico.eu",
+      "title_cn": "欧盟贸易专员将就华战略与企业领导人会面 - politico.eu",
       "url": "https://news.google.com/read/CBMimwFBVV95cUxOaWtudVNmS3RIb25nVW5rRjdiNTIyYm1xX2t5Z3dMNzliZW9YdDA5eFpmVEdNUXlQS0lRckMwbW1hN1JkcEtQdGRzZllBZHVfRldzV3ZMYzRDU1hXeTc1RTUwRmRKVlR4UFl0SXh5empPQU1uOWYxR2pCU3VSZnJBRmo2Nk5PRXVWZHp5MlFKbFlGb0wzVm55bXFnTQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T17:16:00.000Z",
       "pub_sort_dt": "2026-09-08 01:16:00"
@@ -29,7 +37,7 @@
     {
       "source": "China Buzzing",
       "title_en": "比利时逮捕一名涉嫌窃取芯片技术的中国公民，加剧了欧洲对北京的担忧 - WSJ",
-      "title_cn": "比利时逮捕一名涉嫌窃取芯片技术的中国公民，加剧了欧洲对北京的担忧 - WSJ",
+      "title_cn": "比利时逮捕一名涉嫌被盗芯片技术的中国公民，增强了欧洲对北京的担忧 - 华尔街日报",
       "url": "https://news.google.com/read/CBMivwFBVV95cUxQZV9wS01NWjViQV9VWlRCYWllR2t6TkxRTUw0ZWtRODRHVHRIZFBCUko0b1AwQm9yZXpqejJCdV9aNHI1aHRXODJVR21kbWJiSDVOUlNodFAxWS1GWXprN0tncThKenlwcWxiVldUelk4TVktQ0x0c1F6SVpFdDU3Um9rTElieGQwMFVmYW9RMVp2UjNWNXkyWDhITlB0cHRrbzl5YXlvTWhMdHJES3Fsdm13UVZrckhJSFlOUHpkVQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T15:45:25.000Z",
       "pub_sort_dt": "2026-09-07 23:45:25"
@@ -45,7 +53,7 @@
     {
       "source": "China Buzzing",
       "title_en": "中国华为因制裁和商业机密问题将在美国接受审判 - Nikkei Asia",
-      "title_cn": "中国华为因制裁和商业机密问题将在美国接受审判 - Nikkei Asia",
+      "title_cn": "中国华为因制裁和商业机密问题将在美国接受审判 - 日经亚洲",
       "url": "https://news.google.com/read/CBMi2wFBVV95cUxNTlFjWGxqeE9GNTUySDV5UXQ1OC15WldNUW4yaXRiMkFOS2llV1FLRU1mRkFZVzROR0g5ZmJOdEQ1TnUzalhOR0diY3U1aENkNG9qeGE5TDg3d0xPVzl1RFZjWGxfRkVlZFB1dG9RcmVFaE1zZzg4QXk3elBLaUp3NWluRi1OVFFrY3RyNGpDRXBTRGR3RWtrekVENmtYVFZXZ21pdWJyaWJsRFVsZHd1eWdyWk9xUWF0aVdHR3VhZHZrdFYzWHJxeHVEVHpIVnVZQ2lISGY5V1JJQjA?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T15:00:00.000Z",
       "pub_sort_dt": "2026-09-07 23:00:00"
@@ -61,7 +69,7 @@
     {
       "source": "China Buzzing",
       "title_en": "随着尼泊尔确认洪灾遇难者身份，外界对中国报道的质疑声日益高涨 - NPR",
-      "title_cn": "随着尼泊尔确认洪灾遇难者身份，外界对中国报道的质疑声日益高涨 - NPR",
+      "title_cn": "随着尼泊尔确认洪灾难者身份，大象对中国报道的质疑声音激动高涨 - NPR",
       "url": "https://news.google.com/read/CBMikwFBVV95cUxQZ25qeG45Tk56aDhNbl9oTDBOSHViUDFDdjBZS1o5ejVUYWxKd2lvZVFuT1hlb3BqSXVFRHBaUGhUOXkzYkNqQ3RqYVhpTmR0bzhuUHFWOVRKMG0zVDFFSmFNOXdTMEh0Yjd6dWZaT182Yk1FVmJLbUo4YWVRX1B2U1dpUjZQaUFfLTduXzJjTGt6VDg?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T13:31:16.000Z",
       "pub_sort_dt": "2026-09-07 21:31:16"
@@ -69,7 +77,7 @@
     {
       "source": "China Buzzing",
       "title_en": "中国一家公司因在招聘毕业生仅一个月后便解雇100人而遭到抨击 - WSJ",
-      "title_cn": "中国一家公司因在招聘毕业生仅一个月后便解雇100人而遭到抨击 - WSJ",
+      "title_cn": "中国一家公司因在招聘机器人仅一个月后便解雇了100人而发起了猛烈攻击 - 华尔街日报",
       "url": "https://news.google.com/read/CBMiugFBVV95cUxOTWJpaHZTeEVvZlRMVmRYZGVaVW5vREdtbDlrcEJ6bEp0RmtDSU5KMk1BdW41OHpUNndIWUxjVngzdGx2RWNKOEhZT2ZnOWllRGs2TFNIdmZSdjlQS2hVenpic1FYdS1rVDc0U1kzd09wT2RXRXhDRHBkMk5TY0JnZmRYT3NKLURZZFNtMExtcEZnZEh1ZFphTXpDcy1ydmhYSllBbjh1WFdONXduVEJVY2gtMUM2N25xX3c?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T13:24:00.000Z",
       "pub_sort_dt": "2026-09-07 21:24:00"
@@ -77,21 +85,37 @@
     {
       "source": "China Buzzing",
       "title_en": "随着北极局势日益紧张，中俄启动首次海冰调查 - SCMP",
-      "title_cn": "随着北极局势日益紧张，中俄启动首次海冰调查 - SCMP",
+      "title_cn": "随着北极心跳紧张，中俄启动首次海冰调查 - 南华早报",
       "url": "https://news.google.com/read/CBMi1gFBVV95cUxNYjYtRkNxeDJkeHlVcHlFQWhSUnlCbnhzWkQ4M1FHSWE3ZjFZdWhWN3JFM0pySm9TU2F3LVR0ODRiVjRkRzFDNzBwZ05NNnBvOFVDb09ZS3U1N0YtUkZUeVAtUE14LU5aV0xPSDlSd2xHQjZaN05jUWZndlFwYk1zRklrVmFwdXJjOHZRb1hIVzYxRF9tS2JLTFVlYjlJaVc5enJnSUk5aVk5ZUJkM0VUc3lQOHd4ZjFBV2w1QVU5anhPRm5KZ0g4TzZlU2V4ME9BaEk2R3Rn0gHWAUFVX3lxTE5XMTdhbF9jQ0N1LUhNeXZhMTRqWkVqTDY3T3Rnd0hHbmphcmlja3BEcVBtR1RCSnU3dWsweEEzM3Vjb2J6dFZFbDlOTENicUJwRC04VTVqYlJhbFhMY3gzV2RvTWQ1UURWY3dPWTNzaU9RT1VMMXlMUDZPMk0taWRNZUFWaXNjN24tb09SVlpRSG5vem1XbnlNX01NODRnZkRQbGl3YWZITnJVeU42WkJKRlBvSUYxbG9SeDV0Z1llTllqTFV2a181OXlDX3V0RHRZS205cmc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T13:00:08.000Z",
       "pub_sort_dt": "2026-09-07 21:00:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“奇美利加”如今已成一头怪兽——而全球稳定则成了牺牲品 - Financial Times",
-      "title_cn": "“奇美利加”如今已成一头怪兽——而全球稳定则成了牺牲品 - Financial Times",
-      "url": "https://news.google.com/read/CBMicEFVX3lxTE5lYnB1WWdwRVNlR2lfc2VVa3ZQcEMtY3l5Uko2ckJIUGs2aGd1ZmEyV2FHdUhmSkdvTHlRSmxyMzBtcHYxQ2VMeGtSb2dyLTA5dGlUX3RhYUhETGRwSGYwUkFxSGlwUXlFZENwekNDcTA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T13:00:01.000Z",
-      "pub_sort_dt": "2026-09-07 21:00:01"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "中国正争分夺秒地在远离其主要城市的地方建设人工智能数据中心",
+      "title_cn": "中国正争分夺秒地在远离其主要城市的地方建设人工智能数据中心",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-races-to-build-ai-data-centers-far-away-from-its-biggest-cities",
+      "pub_raw": "2026-09-08T00:13:59.023Z",
+      "pub_sort_dt": "2026-09-08 08:13:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Longsys 完成9.03亿美元募资后，即将登陆香港股市",
+      "title_cn": "江波龙完成9.03亿美元募资后即将，登陆香港股市",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
+      "pub_raw": "2026-09-07T23:11:55.529Z",
+      "pub_sort_dt": "2026-09-08 07:11:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "2026年最适合外籍人士居住的城市：香港与新加坡之争",
+      "title_cn": "2026年最适合外籍人士居住的城市：香港与新加坡之争",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/best-city-to-live-in-for-expats-2026-hong-kong-versus-singapore",
+      "pub_raw": "2026-09-07T22:39:56.887Z",
+      "pub_sort_dt": "2026-09-08 06:39:56"
+    },
     {
       "source": "The Economist",
       "title_en": "中国汽车制造商正将工厂带向世界各地",
@@ -103,7 +127,7 @@
     {
       "source": "Bloomberg",
       "title_en": "你不必相信中国的人工智能",
-      "title_cn": "你不必相信中国的人工智能",
+      "title_cn": "你一定相信中国的人工智能",
       "url": "https://www.bloomberg.com/opinion/articles/2026-09-07/you-don-t-have-to-trust-chinese-ai",
       "pub_raw": "2026-09-07T19:14:56.745Z",
       "pub_sort_dt": "2026-09-08 03:14:56"
@@ -111,7 +135,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国债券市场的上涨带来了一项附带损害",
-      "title_cn": "中国债券市场的上涨带来了一项附带损害",
+      "title_cn": "中国债券市场的增长带来了一个附带损害",
       "url": "https://www.bloomberg.com/opinion/articles/2026-09-07/china-s-bond-rally-has-one-collateral-damage",
       "pub_raw": "2026-09-07T18:12:12.104Z",
       "pub_sort_dt": "2026-09-08 02:12:12"
@@ -127,7 +151,7 @@
     {
       "source": "The Economist",
       "title_en": "中国的言论自由正处于严冬之中",
-      "title_cn": "中国的言论自由正处于严冬之中",
+      "title_cn": "中国的蔑视受到严冬的对待",
       "url": "https://www.economist.com/china/2026/09/07/speech-in-china-is-in-the-deep-freeze",
       "pub_raw": "2026-09-07T15:18:13.312Z",
       "pub_sort_dt": "2026-09-07 23:18:13"
@@ -135,7 +159,7 @@
     {
       "source": "Reuters",
       "title_en": "中国8月份外汇储备增幅超出预期",
-      "title_cn": "中国8月份外汇储备增幅超出预期",
+      "title_cn": "中国8月份外汇储备充足预期",
       "url": "https://reut.rs/4yoOxNV",
       "pub_raw": "2026-09-07T14:14:04.085Z",
       "pub_sort_dt": "2026-09-07 22:14:04"
@@ -159,7 +183,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国正因汽车制造商开发车辆速度过快而对其进行整顿",
-      "title_cn": "中国正因汽车制造商开发车辆速度过快而对其进行整顿",
+      "title_cn": "中国正因汽车制造商开发车辆速度过快而进行整顿",
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-07/china-is-cracking-down-on-its-carmakers-for-developing-vehicles-too-fast",
       "pub_raw": "2026-09-07T11:53:14.678Z",
       "pub_sort_dt": "2026-09-07 19:53:14"
@@ -191,7 +215,7 @@
     {
       "source": "Reuters",
       "title_en": "中国外交部长表示，中墨关系“不针对任何第三方”",
-      "title_cn": "中国外交部长表示，中墨关系“不针对任何第三方”",
+      "title_cn": "中国长征表示，中墨关系“不针对任何第三方”",
       "url": "https://reut.rs/4r2DmZ8",
       "pub_raw": "2026-09-07T10:18:52.914Z",
       "pub_sort_dt": "2026-09-07 18:18:52"
@@ -223,41 +247,25 @@
     {
       "source": "Bloomberg",
       "title_en": "一名中国芯片间谍嫌疑人于布鲁塞尔飞往北京的航班起飞前被捕",
-      "title_cn": "一名中国芯片间谍嫌疑人于布鲁塞尔飞往北京的航班起飞前被捕",
+      "title_cn": "一名中国芯片间谍嫌疑人在伊斯坦布尔北京的航班车站前搭乘",
       "url": "https://www.bloomberg.com/news/articles/2026-09-07/chinese-chip-spy-suspect-arrested-before-brussels-beijing-flight",
       "pub_raw": "2026-09-07T08:59:50.040Z",
       "pub_sort_dt": "2026-09-07 16:59:50"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国扩大对台湾太平洋沿岸海域的巡逻，加剧了海上紧张局势",
-      "title_cn": "中国扩大对台湾太平洋沿岸海域的巡逻，加剧了海上紧张局势",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-06/china-piles-pressure-on-taiwan-with-fresh-patrols-off-east-coast",
-      "pub_raw": "2026-09-07T08:27:53.783Z",
-      "pub_sort_dt": "2026-09-07 16:27:53"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "分析师称，中国保险公司的注资可能提振股票投资",
-      "title_cn": "分析师称，中国保险公司的注资可能提振股票投资",
-      "url": "https://reut.rs/4iRcFUV",
-      "pub_raw": "2026-09-07T08:27:53.658Z",
-      "pub_sort_dt": "2026-09-07 16:27:53"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "路透社调查显示，中国8月出口增速有望加快",
-      "title_cn": "路透社调查显示，中国8月出口增速有望加快",
-      "url": "https://reut.rs/4yhKBP4",
-      "pub_raw": "2026-09-07T07:40:50.879Z",
-      "pub_sort_dt": "2026-09-07 15:40:50"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "CNBC《中国联结》通讯：中国疲软的消费市场已成为全球性问题 - CNBC",
+      "title_cn": "CNBC《中国联结》通讯：中国消费市场疲软已成为全球性问题 - CNBC",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxOQlVFdVVqRnBLZ1pfY0JKcFMwcmdna0dwbm1fai11Slk4OHA4NEU4enRDcDhhZ2RNVDhCcmJhVWEyYXdMYzV3MExjYXJuUk1MLVNqdU1RZUxvX0ZweFJOeHV2cUpvdFR4YThHdnNPanVLalFtX0JuTFpZRDBMOUI4cE1mVy1oWGdzVF9Zbnp4aW0xeUQ2bGtWVdIBngFBVV95cUxNV0I2T3dwQ3haNkJCU2FaWk8xMjY1RnU5b0lHakp5VzhoTmdSdTA5cXR0WnlZV3hndU9FR1ZuWUJjenJsQkFUeFRwbEV2UGxFb09kNlM1ZXV1SlA5TlJYMU80SFNnV3ZBS213NE5OTTd2cjhrQm1UOGhtWFRuSThhNGJKYmVsYmZSSG5IU3ZDbHZ5dl92NHRJXzRacUp4dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-07T23:00:01.000Z",
+      "pub_sort_dt": "2026-09-08 07:00:01"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "欧盟贸易专员将就对华战略与企业首席执行官们会面 - politico.eu",
-      "title_cn": "欧盟贸易专员将就对华战略与企业首席执行官们会面 - politico.eu",
+      "title_cn": "欧盟贸易专员将就华战略与企业领导人会面 - politico.eu",
       "url": "https://news.google.com/read/CBMimwFBVV95cUxOaWtudVNmS3RIb25nVW5rRjdiNTIyYm1xX2t5Z3dMNzliZW9YdDA5eFpmVEdNUXlQS0lRckMwbW1hN1JkcEtQdGRzZllBZHVfRldzV3ZMYzRDU1hXeTc1RTUwRmRKVlR4UFl0SXh5empPQU1uOWYxR2pCU3VSZnJBRmo2Nk5PRXVWZHp5MlFKbFlGb0wzVm55bXFnTQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T17:16:00.000Z",
       "pub_sort_dt": "2026-09-08 01:16:00"
@@ -273,7 +281,7 @@
     {
       "source": "China Buzzing",
       "title_en": "比利时逮捕一名涉嫌窃取芯片技术的中国公民，加剧了欧洲对北京的担忧 - WSJ",
-      "title_cn": "比利时逮捕一名涉嫌窃取芯片技术的中国公民，加剧了欧洲对北京的担忧 - WSJ",
+      "title_cn": "比利时逮捕一名涉嫌被盗芯片技术的中国公民，增强了欧洲对北京的担忧 - 华尔街日报",
       "url": "https://news.google.com/read/CBMivwFBVV95cUxQZV9wS01NWjViQV9VWlRCYWllR2t6TkxRTUw0ZWtRODRHVHRIZFBCUko0b1AwQm9yZXpqejJCdV9aNHI1aHRXODJVR21kbWJiSDVOUlNodFAxWS1GWXprN0tncThKenlwcWxiVldUelk4TVktQ0x0c1F6SVpFdDU3Um9rTElieGQwMFVmYW9RMVp2UjNWNXkyWDhITlB0cHRrbzl5YXlvTWhMdHJES3Fsdm13UVZrckhJSFlOUHpkVQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T15:45:25.000Z",
       "pub_sort_dt": "2026-09-07 23:45:25"
@@ -289,7 +297,7 @@
     {
       "source": "China Buzzing",
       "title_en": "中国华为因制裁和商业机密问题将在美国接受审判 - Nikkei Asia",
-      "title_cn": "中国华为因制裁和商业机密问题将在美国接受审判 - Nikkei Asia",
+      "title_cn": "中国华为因制裁和商业机密问题将在美国接受审判 - 日经亚洲",
       "url": "https://news.google.com/read/CBMi2wFBVV95cUxNTlFjWGxqeE9GNTUySDV5UXQ1OC15WldNUW4yaXRiMkFOS2llV1FLRU1mRkFZVzROR0g5ZmJOdEQ1TnUzalhOR0diY3U1aENkNG9qeGE5TDg3d0xPVzl1RFZjWGxfRkVlZFB1dG9RcmVFaE1zZzg4QXk3elBLaUp3NWluRi1OVFFrY3RyNGpDRXBTRGR3RWtrekVENmtYVFZXZ21pdWJyaWJsRFVsZHd1eWdyWk9xUWF0aVdHR3VhZHZrdFYzWHJxeHVEVHpIVnVZQ2lISGY5V1JJQjA?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T15:00:00.000Z",
       "pub_sort_dt": "2026-09-07 23:00:00"
@@ -305,7 +313,7 @@
     {
       "source": "China Buzzing",
       "title_en": "随着尼泊尔确认洪灾遇难者身份，外界对中国报道的质疑声日益高涨 - NPR",
-      "title_cn": "随着尼泊尔确认洪灾遇难者身份，外界对中国报道的质疑声日益高涨 - NPR",
+      "title_cn": "随着尼泊尔确认洪灾难者身份，大象对中国报道的质疑声音激动高涨 - NPR",
       "url": "https://news.google.com/read/CBMikwFBVV95cUxQZ25qeG45Tk56aDhNbl9oTDBOSHViUDFDdjBZS1o5ejVUYWxKd2lvZVFuT1hlb3BqSXVFRHBaUGhUOXkzYkNqQ3RqYVhpTmR0bzhuUHFWOVRKMG0zVDFFSmFNOXdTMEh0Yjd6dWZaT182Yk1FVmJLbUo4YWVRX1B2U1dpUjZQaUFfLTduXzJjTGt6VDg?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T13:31:16.000Z",
       "pub_sort_dt": "2026-09-07 21:31:16"
@@ -313,7 +321,7 @@
     {
       "source": "China Buzzing",
       "title_en": "中国一家公司因在招聘毕业生仅一个月后便解雇100人而遭到抨击 - WSJ",
-      "title_cn": "中国一家公司因在招聘毕业生仅一个月后便解雇100人而遭到抨击 - WSJ",
+      "title_cn": "中国一家公司因在招聘机器人仅一个月后便解雇了100人而发起了猛烈攻击 - 华尔街日报",
       "url": "https://news.google.com/read/CBMiugFBVV95cUxOTWJpaHZTeEVvZlRMVmRYZGVaVW5vREdtbDlrcEJ6bEp0RmtDSU5KMk1BdW41OHpUNndIWUxjVngzdGx2RWNKOEhZT2ZnOWllRGs2TFNIdmZSdjlQS2hVenpic1FYdS1rVDc0U1kzd09wT2RXRXhDRHBkMk5TY0JnZmRYT3NKLURZZFNtMExtcEZnZEh1ZFphTXpDcy1ydmhYSllBbjh1WFdONXduVEJVY2gtMUM2N25xX3c?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T13:24:00.000Z",
       "pub_sort_dt": "2026-09-07 21:24:00"
@@ -321,18 +329,34 @@
     {
       "source": "China Buzzing",
       "title_en": "随着北极局势日益紧张，中俄启动首次海冰调查 - SCMP",
-      "title_cn": "随着北极局势日益紧张，中俄启动首次海冰调查 - SCMP",
+      "title_cn": "随着北极心跳紧张，中俄启动首次海冰调查 - 南华早报",
       "url": "https://news.google.com/read/CBMi1gFBVV95cUxNYjYtRkNxeDJkeHlVcHlFQWhSUnlCbnhzWkQ4M1FHSWE3ZjFZdWhWN3JFM0pySm9TU2F3LVR0ODRiVjRkRzFDNzBwZ05NNnBvOFVDb09ZS3U1N0YtUkZUeVAtUE14LU5aV0xPSDlSd2xHQjZaN05jUWZndlFwYk1zRklrVmFwdXJjOHZRb1hIVzYxRF9tS2JLTFVlYjlJaVc5enJnSUk5aVk5ZUJkM0VUc3lQOHd4ZjFBV2w1QVU5anhPRm5KZ0g4TzZlU2V4ME9BaEk2R3Rn0gHWAUFVX3lxTE5XMTdhbF9jQ0N1LUhNeXZhMTRqWkVqTDY3T3Rnd0hHbmphcmlja3BEcVBtR1RCSnU3dWsweEEzM3Vjb2J6dFZFbDlOTENicUJwRC04VTVqYlJhbFhMY3gzV2RvTWQ1UURWY3dPWTNzaU9RT1VMMXlMUDZPMk0taWRNZUFWaXNjN24tb09SVlpRSG5vem1XbnlNX01NODRnZkRQbGl3YWZITnJVeU42WkJKRlBvSUYxbG9SeDV0Z1llTllqTFV2a181OXlDX3V0RHRZS205cmc?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-07T13:00:08.000Z",
       "pub_sort_dt": "2026-09-07 21:00:08"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "“奇美利加”如今已成一头怪兽——而全球稳定则成了牺牲品 - Financial Times",
-      "title_cn": "“奇美利加”如今已成一头怪兽——而全球稳定则成了牺牲品 - Financial Times",
-      "url": "https://news.google.com/read/CBMicEFVX3lxTE5lYnB1WWdwRVNlR2lfc2VVa3ZQcEMtY3l5Uko2ckJIUGs2aGd1ZmEyV2FHdUhmSkdvTHlRSmxyMzBtcHYxQ2VMeGtSb2dyLTA5dGlUX3RhYUhETGRwSGYwUkFxSGlwUXlFZENwekNDcTA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T13:00:01.000Z",
-      "pub_sort_dt": "2026-09-07 21:00:01"
+      "source": "Bloomberg",
+      "title_en": "中国正争分夺秒地在远离其主要城市的地方建设人工智能数据中心",
+      "title_cn": "中国正争分夺秒地在远离其主要城市的地方建设人工智能数据中心",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-races-to-build-ai-data-centers-far-away-from-its-biggest-cities",
+      "pub_raw": "2026-09-08T00:13:59.023Z",
+      "pub_sort_dt": "2026-09-08 08:13:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Longsys 完成9.03亿美元募资后，即将登陆香港股市",
+      "title_cn": "江波龙完成9.03亿美元募资后即将，登陆香港股市",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
+      "pub_raw": "2026-09-07T23:11:55.529Z",
+      "pub_sort_dt": "2026-09-08 07:11:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "2026年最适合外籍人士居住的城市：香港与新加坡之争",
+      "title_cn": "2026年最适合外籍人士居住的城市：香港与新加坡之争",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/best-city-to-live-in-for-expats-2026-hong-kong-versus-singapore",
+      "pub_raw": "2026-09-07T22:39:56.887Z",
+      "pub_sort_dt": "2026-09-08 06:39:56"
     },
     {
       "source": "The Economist",
@@ -345,7 +369,7 @@
     {
       "source": "Bloomberg",
       "title_en": "你不必相信中国的人工智能",
-      "title_cn": "你不必相信中国的人工智能",
+      "title_cn": "你一定相信中国的人工智能",
       "url": "https://www.bloomberg.com/opinion/articles/2026-09-07/you-don-t-have-to-trust-chinese-ai",
       "pub_raw": "2026-09-07T19:14:56.745Z",
       "pub_sort_dt": "2026-09-08 03:14:56"
@@ -353,7 +377,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国债券市场的上涨带来了一项附带损害",
-      "title_cn": "中国债券市场的上涨带来了一项附带损害",
+      "title_cn": "中国债券市场的增长带来了一个附带损害",
       "url": "https://www.bloomberg.com/opinion/articles/2026-09-07/china-s-bond-rally-has-one-collateral-damage",
       "pub_raw": "2026-09-07T18:12:12.104Z",
       "pub_sort_dt": "2026-09-08 02:12:12"
@@ -369,7 +393,7 @@
     {
       "source": "The Economist",
       "title_en": "中国的言论自由正处于严冬之中",
-      "title_cn": "中国的言论自由正处于严冬之中",
+      "title_cn": "中国的蔑视受到严冬的对待",
       "url": "https://www.economist.com/china/2026/09/07/speech-in-china-is-in-the-deep-freeze",
       "pub_raw": "2026-09-07T15:18:13.312Z",
       "pub_sort_dt": "2026-09-07 23:18:13"
@@ -377,7 +401,7 @@
     {
       "source": "Reuters",
       "title_en": "中国8月份外汇储备增幅超出预期",
-      "title_cn": "中国8月份外汇储备增幅超出预期",
+      "title_cn": "中国8月份外汇储备充足预期",
       "url": "https://reut.rs/4yoOxNV",
       "pub_raw": "2026-09-07T14:14:04.085Z",
       "pub_sort_dt": "2026-09-07 22:14:04"
@@ -401,7 +425,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国正因汽车制造商开发车辆速度过快而对其进行整顿",
-      "title_cn": "中国正因汽车制造商开发车辆速度过快而对其进行整顿",
+      "title_cn": "中国正因汽车制造商开发车辆速度过快而进行整顿",
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-07/china-is-cracking-down-on-its-carmakers-for-developing-vehicles-too-fast",
       "pub_raw": "2026-09-07T11:53:14.678Z",
       "pub_sort_dt": "2026-09-07 19:53:14"
@@ -433,7 +457,7 @@
     {
       "source": "Reuters",
       "title_en": "中国外交部长表示，中墨关系“不针对任何第三方”",
-      "title_cn": "中国外交部长表示，中墨关系“不针对任何第三方”",
+      "title_cn": "中国长征表示，中墨关系“不针对任何第三方”",
       "url": "https://reut.rs/4r2DmZ8",
       "pub_raw": "2026-09-07T10:18:52.914Z",
       "pub_sort_dt": "2026-09-07 18:18:52"
@@ -465,34 +489,10 @@
     {
       "source": "Bloomberg",
       "title_en": "一名中国芯片间谍嫌疑人于布鲁塞尔飞往北京的航班起飞前被捕",
-      "title_cn": "一名中国芯片间谍嫌疑人于布鲁塞尔飞往北京的航班起飞前被捕",
+      "title_cn": "一名中国芯片间谍嫌疑人在伊斯坦布尔北京的航班车站前搭乘",
       "url": "https://www.bloomberg.com/news/articles/2026-09-07/chinese-chip-spy-suspect-arrested-before-brussels-beijing-flight",
       "pub_raw": "2026-09-07T08:59:50.040Z",
       "pub_sort_dt": "2026-09-07 16:59:50"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国扩大对台湾太平洋沿岸海域的巡逻，加剧了海上紧张局势",
-      "title_cn": "中国扩大对台湾太平洋沿岸海域的巡逻，加剧了海上紧张局势",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-06/china-piles-pressure-on-taiwan-with-fresh-patrols-off-east-coast",
-      "pub_raw": "2026-09-07T08:27:53.783Z",
-      "pub_sort_dt": "2026-09-07 16:27:53"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "分析师称，中国保险公司的注资可能提振股票投资",
-      "title_cn": "分析师称，中国保险公司的注资可能提振股票投资",
-      "url": "https://reut.rs/4iRcFUV",
-      "pub_raw": "2026-09-07T08:27:53.658Z",
-      "pub_sort_dt": "2026-09-07 16:27:53"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "路透社调查显示，中国8月出口增速有望加快",
-      "title_cn": "路透社调查显示，中国8月出口增速有望加快",
-      "url": "https://reut.rs/4yhKBP4",
-      "pub_raw": "2026-09-07T07:40:50.879Z",
-      "pub_sort_dt": "2026-09-07 15:40:50"
     }
   ]
 }
