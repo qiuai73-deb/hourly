@@ -1,15 +1,23 @@
 {
-  "update_cst": "2026-09-08 15:01:46 北京时间",
+  "update_cst": "2026-09-08 18:01:02 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 2,
-    "Bloomberg": 12,
+    "The Economist": 1,
+    "Bloomberg": 14,
     "Financial Times": 2,
     "Wall Street Journal": 1,
-    "Reuters": 3
+    "Reuters": 2
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国出口激增25%，为创下年度贸易顺差新高奠定了基础 - Financial Times",
+      "title_cn": "中国出口飙升25%，为年度贸易顺差新高奠定了基础 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNcnkxQXZIUUNxQzlQMXFUYTNMTXpfSjdjcHZaSUtTa0U4dEF1dHZUYzk2QzRDdzJlN0djaFNObE9qSXo1QUthc25Wck16MUZjd1FIVGFmZEg1RDlRZGFFRndWbENRVXpEUWVPRnM5MFd6aWlNaHpIblA0ejNZZW1PT3l1RjU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T05:46:12.000Z",
+      "pub_sort_dt": "2026-09-08 13:46:12"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国华为技术公司将在纽约面临敲诈勒索罪的审判 - AP News",
@@ -17,6 +25,14 @@
       "url": "https://news.google.com/read/CBMilwFBVV95cUxPQ1gzVGJsbFFiZlRvLU1ZVi1SdmhYRzc2cmJTSnpyN2ZzMFdfbzZFNXNjUThCci13cWh0c0taTzUwc3dTYU1hSTM4NnJoNEtjYlJEWjVHWHY5aVducmhjNmJkZFJwUFBCeFRBUUZHTVlfY2JVdmFJeG12SGpBV0tGVTFjZk01S3czNVBDT0Q2TUVxMjhHRHdV?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-08T04:19:00.000Z",
       "pub_sort_dt": "2026-09-08 12:19:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国退出公用事业销售领域，暗示其对巴基斯坦的兴趣正在减弱 - Nikkei Asia",
+      "title_cn": "中国退出公用事业销售领域，暗示其对巴基斯坦的兴趣正在解除 - 日经亚洲",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQZEFNYnZ3anowdjV2QlNOMU01OEFEb1FuZGlQeTJOenpyN3JrS3FQTmFBczdjMUFSUUROVGRBQTNmTGJGVWxXS0xSZUlqZjZoMi1RSU9leDdKaDFOYVMydEZRVzRSVjRpRi1UMGJvd3c5QzhUMGhsUzB4SzRNcGNxVm1ycjdaa2ZiMzZkemljMFdWU3Zya1FwLVdQbnU1NTVCVzJseDVzZ1Z1MEZqMHRiZURJZTJONFNrN1lv?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T03:33:00.000Z",
+      "pub_sort_dt": "2026-09-08 11:33:00"
     },
     {
       "source": "China Buzzing",
@@ -68,30 +84,54 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国对日本实施芯片化学品反倾销措施 - Bloomberg.com",
-      "title_cn": "中国对日本实施芯片反倾销措施 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxQN3BPUWJZN0N2dGtrSXhmVEFjcVJPMUNtOURHQ1YwOEw2MGFRTGh5ZmdldHNFY0VhSXRjeWh6dGVMWkJyTmp6NmRWRHdkRnczMmJadnpEQkV4Um93ZmpwOS1Zbk1lWi1EU0ktdjBJZVRsUEdrSzE1dFlOWGRibm9qNUt6SU5qN1p3cEVhTi1SbnROQm9WLV9PRmNKWmdQSHl6NldoUzZMV2swTmVpRnh3bg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T01:23:00.000Z",
-      "pub_sort_dt": "2026-09-08 09:23:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国正在远离其主要大城市的地方建设人工智能的未来 - Yahoo Finance",
-      "title_cn": "中国正在远离其所在的地方人工智能的主要未来 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMilwFBVV95cUxOS2hSR1NkUDRrWDVGR3hycUM1d3JSTWxPM2hFV2QzWkVaeXlFZmdJeUJZelpYRm9MZG5KREdXMHNiRFhaOWEwQ1RCQ3B4UloxVS1EWTk5ZmJqMFdidDZVd3dVYmo0cmFxdFBDMXJfSk91MjMwNGF1aGNDcTFOUUd5RGpCSFZNY3dpZUdscVp3WHFKSzZpVUFR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T00:07:00.000Z",
-      "pub_sort_dt": "2026-09-08 08:07:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "CNBC《中国联结》通讯：中国疲软的消费市场已成为全球性问题 - CNBC",
-      "title_cn": "CNBC《中国联结》通讯：中国消费市场疲软已成为全球性问题 - CNBC",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxOQlVFdVVqRnBLZ1pfY0JKcFMwcmdna0dwbm1fai11Slk4OHA4NEU4enRDcDhhZ2RNVDhCcmJhVWEyYXdMYzV3MExjYXJuUk1MLVNqdU1RZUxvX0ZweFJOeHV2cUpvdFR4YThHdnNPanVLalFtX0JuTFpZRDBMOUI4cE1mVy1oWGdzVF9Zbnp4aW0xeUQ2bGtWVdIBngFBVV95cUxNV0I2T3dwQ3haNkJCU2FaWk8xMjY1RnU5b0lHakp5VzhoTmdSdTA5cXR0WnlZV3hndU9FR1ZuWUJjenJsQkFUeFRwbEV2UGxFb09kNlM1ZXV1SlA5TlJYMU80SFNnV3ZBS213NE5OTTd2cjhrQm1UOGhtWFRuSThhNGJKYmVsYmZSSG5IU3ZDbHZ5dl92NHRJXzRacUp4dw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T23:00:01.000Z",
-      "pub_sort_dt": "2026-09-08 07:00:01"
+      "title_en": "中国经济中的万亿级亮点：旅游业 - WSJ",
+      "title_cn": "中国经济中的万亿级亮点：粮食 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxNMzhYVVZWMzRyYlZyODdNYjlIYURDOUJOM0ZqOTJhbE1xUlZqM3NfUXY5OXlyRjB2c0NTVF9uWmp0VU5uLWtld3QwQzRKbmstVFUxekVWVmUxMGZ5WEVqaDNpT2FTZGhpbk4yS1AzSXRQUXlJemRvbzRFeVlEZlRyY1NSRzc1VFQ3cm5yY0Z5Z1NFOGF6V1ZIU2FvZV9vY28?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T02:00:00.000Z",
+      "pub_sort_dt": "2026-09-08 10:00:00"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾通胀率略高于警戒线，央行即将公布利率决议",
+      "title_cn": "台湾通胀率略设警戒线，央行即将公布利率决议",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/taiwan-inflation-sticks-above-alert-level-before-rate-decision",
+      "pub_raw": "2026-09-08T09:25:47.777Z",
+      "pub_sort_dt": "2026-09-08 17:25:47"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "中国经济中万亿美元的亮点：旅游业",
+      "title_cn": "中国经济中万亿美元的亮点：焦点",
+      "url": "https://on.wsj.com/4xdscC2",
+      "pub_raw": "2026-09-08T09:25:47.334Z",
+      "pub_sort_dt": "2026-09-08 17:25:47"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国向汽车制造商施压，要求其加快向供应商付款",
+      "title_cn": "中国向汽车制造商施压，要求其加快向供应商付款",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-turns-screws-on-automakers-to-pay-suppliers-faster",
+      "pub_raw": "2026-09-08T08:55:47.896Z",
+      "pub_sort_dt": "2026-09-08 16:55:47"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国汽车销量下滑24%，比亚迪和特斯拉寻求海外市场喘息之机",
+      "title_cn": "中国汽车销量增长24%，比亚迪和特斯拉寻求海外市场喘息之机",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-s-car-sales-fall-24-as-byd-tesla-seek-reprieve-abroad",
+      "pub_raw": "2026-09-08T08:23:47.700Z",
+      "pub_sort_dt": "2026-09-08 16:23:47"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Gaw Capital 获得一笔由香港瑞生集团提供担保的 5.47 亿美元贷款",
+      "title_cn": "基汇资本获得由香港瑞生集团提供的5.47亿美元贷款",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/gaw-capital-gets-547-million-loan-backed-by-regent-hong-kong",
+      "pub_raw": "2026-09-08T07:51:59.758Z",
+      "pub_sort_dt": "2026-09-08 15:51:59"
+    },
     {
       "source": "Reuters",
       "title_en": "8月份中国汽车出口激增，而国内销量则持续下滑",
@@ -211,56 +251,32 @@
       "url": "https://www.bloomberg.com/opinion/articles/2026-09-07/you-don-t-have-to-trust-chinese-ai",
       "pub_raw": "2026-09-07T19:14:56.745Z",
       "pub_sort_dt": "2026-09-08 03:14:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国债券市场的上涨带来了一项附带损害",
-      "title_cn": "中国债券市场的增长带来了一个附带损害",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-07/china-s-bond-rally-has-one-collateral-damage",
-      "pub_raw": "2026-09-07T18:12:12.104Z",
-      "pub_sort_dt": "2026-09-08 02:12:12"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "比利时逮捕一名涉嫌窃取芯片技术的中国公民，加剧了欧洲对北京的担忧",
-      "title_cn": "比利时逮捕一名涉嫌被盗芯片技术的中国公民，增强了欧洲对北京的担忧",
-      "url": "https://on.wsj.com/46fF9QS",
-      "pub_raw": "2026-09-07T17:25:14.660Z",
-      "pub_sort_dt": "2026-09-08 01:25:14"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国的言论自由正处于严冬之中",
-      "title_cn": "中国的蔑视受到严冬的对待",
-      "url": "https://www.economist.com/china/2026/09/07/speech-in-china-is-in-the-deep-freeze",
-      "pub_raw": "2026-09-07T15:18:13.312Z",
-      "pub_sort_dt": "2026-09-07 23:18:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国8月份外汇储备增幅超出预期",
-      "title_cn": "中国8月份外汇储备充足预期",
-      "url": "https://reut.rs/4yoOxNV",
-      "pub_raw": "2026-09-07T14:14:04.085Z",
-      "pub_sort_dt": "2026-09-07 22:14:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "华为这款售价3,000美元的设备是中国对可折叠iPhone的回应",
-      "title_cn": "华为这款售价 3,000 美元的设备是中国对可折叠 iPhone 的回应",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone",
-      "pub_raw": "2026-09-07T13:59:38.159Z",
-      "pub_sort_dt": "2026-09-07 21:59:38"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国出口激增25%，为创下年度贸易顺差新高奠定了基础 - Financial Times",
+      "title_cn": "中国出口飙升25%，为年度贸易顺差新高奠定了基础 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNcnkxQXZIUUNxQzlQMXFUYTNMTXpfSjdjcHZaSUtTa0U4dEF1dHZUYzk2QzRDdzJlN0djaFNObE9qSXo1QUthc25Wck16MUZjd1FIVGFmZEg1RDlRZGFFRndWbENRVXpEUWVPRnM5MFd6aWlNaHpIblA0ejNZZW1PT3l1RjU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T05:46:12.000Z",
+      "pub_sort_dt": "2026-09-08 13:46:12"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国华为技术公司将在纽约面临敲诈勒索罪的审判 - AP News",
       "title_cn": "中国华为技术公司将在纽约面临敲诈勒索罪的审判 - 美联社新闻",
       "url": "https://news.google.com/read/CBMilwFBVV95cUxPQ1gzVGJsbFFiZlRvLU1ZVi1SdmhYRzc2cmJTSnpyN2ZzMFdfbzZFNXNjUThCci13cWh0c0taTzUwc3dTYU1hSTM4NnJoNEtjYlJEWjVHWHY5aVducmhjNmJkZFJwUFBCeFRBUUZHTVlfY2JVdmFJeG12SGpBV0tGVTFjZk01S3czNVBDT0Q2TUVxMjhHRHdV?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-08T04:19:00.000Z",
       "pub_sort_dt": "2026-09-08 12:19:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国退出公用事业销售领域，暗示其对巴基斯坦的兴趣正在减弱 - Nikkei Asia",
+      "title_cn": "中国退出公用事业销售领域，暗示其对巴基斯坦的兴趣正在解除 - 日经亚洲",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQZEFNYnZ3anowdjV2QlNOMU01OEFEb1FuZGlQeTJOenpyN3JrS3FQTmFBczdjMUFSUUROVGRBQTNmTGJGVWxXS0xSZUlqZjZoMi1RSU9leDdKaDFOYVMydEZRVzRSVjRpRi1UMGJvd3c5QzhUMGhsUzB4SzRNcGNxVm1ycjdaa2ZiMzZkemljMFdWU3Zya1FwLVdQbnU1NTVCVzJseDVzZ1Z1MEZqMHRiZURJZTJONFNrN1lv?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T03:33:00.000Z",
+      "pub_sort_dt": "2026-09-08 11:33:00"
     },
     {
       "source": "China Buzzing",
@@ -312,27 +328,51 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国对日本实施芯片化学品反倾销措施 - Bloomberg.com",
-      "title_cn": "中国对日本实施芯片反倾销措施 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxQN3BPUWJZN0N2dGtrSXhmVEFjcVJPMUNtOURHQ1YwOEw2MGFRTGh5ZmdldHNFY0VhSXRjeWh6dGVMWkJyTmp6NmRWRHdkRnczMmJadnpEQkV4Um93ZmpwOS1Zbk1lWi1EU0ktdjBJZVRsUEdrSzE1dFlOWGRibm9qNUt6SU5qN1p3cEVhTi1SbnROQm9WLV9PRmNKWmdQSHl6NldoUzZMV2swTmVpRnh3bg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T01:23:00.000Z",
-      "pub_sort_dt": "2026-09-08 09:23:00"
+      "title_en": "中国经济中的万亿级亮点：旅游业 - WSJ",
+      "title_cn": "中国经济中的万亿级亮点：粮食 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxNMzhYVVZWMzRyYlZyODdNYjlIYURDOUJOM0ZqOTJhbE1xUlZqM3NfUXY5OXlyRjB2c0NTVF9uWmp0VU5uLWtld3QwQzRKbmstVFUxekVWVmUxMGZ5WEVqaDNpT2FTZGhpbk4yS1AzSXRQUXlJemRvbzRFeVlEZlRyY1NSRzc1VFQ3cm5yY0Z5Z1NFOGF6V1ZIU2FvZV9vY28?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T02:00:00.000Z",
+      "pub_sort_dt": "2026-09-08 10:00:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国正在远离其主要大城市的地方建设人工智能的未来 - Yahoo Finance",
-      "title_cn": "中国正在远离其所在的地方人工智能的主要未来 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMilwFBVV95cUxOS2hSR1NkUDRrWDVGR3hycUM1d3JSTWxPM2hFV2QzWkVaeXlFZmdJeUJZelpYRm9MZG5KREdXMHNiRFhaOWEwQ1RCQ3B4UloxVS1EWTk5ZmJqMFdidDZVd3dVYmo0cmFxdFBDMXJfSk91MjMwNGF1aGNDcTFOUUd5RGpCSFZNY3dpZUdscVp3WHFKSzZpVUFR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T00:07:00.000Z",
-      "pub_sort_dt": "2026-09-08 08:07:00"
+      "source": "Bloomberg",
+      "title_en": "台湾通胀率略高于警戒线，央行即将公布利率决议",
+      "title_cn": "台湾通胀率略设警戒线，央行即将公布利率决议",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/taiwan-inflation-sticks-above-alert-level-before-rate-decision",
+      "pub_raw": "2026-09-08T09:25:47.777Z",
+      "pub_sort_dt": "2026-09-08 17:25:47"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "CNBC《中国联结》通讯：中国疲软的消费市场已成为全球性问题 - CNBC",
-      "title_cn": "CNBC《中国联结》通讯：中国消费市场疲软已成为全球性问题 - CNBC",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxOQlVFdVVqRnBLZ1pfY0JKcFMwcmdna0dwbm1fai11Slk4OHA4NEU4enRDcDhhZ2RNVDhCcmJhVWEyYXdMYzV3MExjYXJuUk1MLVNqdU1RZUxvX0ZweFJOeHV2cUpvdFR4YThHdnNPanVLalFtX0JuTFpZRDBMOUI4cE1mVy1oWGdzVF9Zbnp4aW0xeUQ2bGtWVdIBngFBVV95cUxNV0I2T3dwQ3haNkJCU2FaWk8xMjY1RnU5b0lHakp5VzhoTmdSdTA5cXR0WnlZV3hndU9FR1ZuWUJjenJsQkFUeFRwbEV2UGxFb09kNlM1ZXV1SlA5TlJYMU80SFNnV3ZBS213NE5OTTd2cjhrQm1UOGhtWFRuSThhNGJKYmVsYmZSSG5IU3ZDbHZ5dl92NHRJXzRacUp4dw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-07T23:00:01.000Z",
-      "pub_sort_dt": "2026-09-08 07:00:01"
+      "source": "Wall Street Journal",
+      "title_en": "中国经济中万亿美元的亮点：旅游业",
+      "title_cn": "中国经济中万亿美元的亮点：焦点",
+      "url": "https://on.wsj.com/4xdscC2",
+      "pub_raw": "2026-09-08T09:25:47.334Z",
+      "pub_sort_dt": "2026-09-08 17:25:47"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国向汽车制造商施压，要求其加快向供应商付款",
+      "title_cn": "中国向汽车制造商施压，要求其加快向供应商付款",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-turns-screws-on-automakers-to-pay-suppliers-faster",
+      "pub_raw": "2026-09-08T08:55:47.896Z",
+      "pub_sort_dt": "2026-09-08 16:55:47"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国汽车销量下滑24%，比亚迪和特斯拉寻求海外市场喘息之机",
+      "title_cn": "中国汽车销量增长24%，比亚迪和特斯拉寻求海外市场喘息之机",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-s-car-sales-fall-24-as-byd-tesla-seek-reprieve-abroad",
+      "pub_raw": "2026-09-08T08:23:47.700Z",
+      "pub_sort_dt": "2026-09-08 16:23:47"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Gaw Capital 获得一笔由香港瑞生集团提供担保的 5.47 亿美元贷款",
+      "title_cn": "基汇资本获得由香港瑞生集团提供的5.47亿美元贷款",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/gaw-capital-gets-547-million-loan-backed-by-regent-hong-kong",
+      "pub_raw": "2026-09-08T07:51:59.758Z",
+      "pub_sort_dt": "2026-09-08 15:51:59"
     },
     {
       "source": "Reuters",
@@ -453,46 +493,6 @@
       "url": "https://www.bloomberg.com/opinion/articles/2026-09-07/you-don-t-have-to-trust-chinese-ai",
       "pub_raw": "2026-09-07T19:14:56.745Z",
       "pub_sort_dt": "2026-09-08 03:14:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国债券市场的上涨带来了一项附带损害",
-      "title_cn": "中国债券市场的增长带来了一个附带损害",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-07/china-s-bond-rally-has-one-collateral-damage",
-      "pub_raw": "2026-09-07T18:12:12.104Z",
-      "pub_sort_dt": "2026-09-08 02:12:12"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "比利时逮捕一名涉嫌窃取芯片技术的中国公民，加剧了欧洲对北京的担忧",
-      "title_cn": "比利时逮捕一名涉嫌被盗芯片技术的中国公民，增强了欧洲对北京的担忧",
-      "url": "https://on.wsj.com/46fF9QS",
-      "pub_raw": "2026-09-07T17:25:14.660Z",
-      "pub_sort_dt": "2026-09-08 01:25:14"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国的言论自由正处于严冬之中",
-      "title_cn": "中国的蔑视受到严冬的对待",
-      "url": "https://www.economist.com/china/2026/09/07/speech-in-china-is-in-the-deep-freeze",
-      "pub_raw": "2026-09-07T15:18:13.312Z",
-      "pub_sort_dt": "2026-09-07 23:18:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国8月份外汇储备增幅超出预期",
-      "title_cn": "中国8月份外汇储备充足预期",
-      "url": "https://reut.rs/4yoOxNV",
-      "pub_raw": "2026-09-07T14:14:04.085Z",
-      "pub_sort_dt": "2026-09-07 22:14:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "华为这款售价3,000美元的设备是中国对可折叠iPhone的回应",
-      "title_cn": "华为这款售价 3,000 美元的设备是中国对可折叠 iPhone 的回应",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone",
-      "pub_raw": "2026-09-07T13:59:38.159Z",
-      "pub_sort_dt": "2026-09-07 21:59:38"
     }
   ]
 }
