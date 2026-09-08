@@ -1,99 +1,171 @@
 {
-  "update_cst": "2026-09-08 22:01:06 北京时间",
+  "update_cst": "2026-09-09 06:01:20 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 14,
-    "Financial Times": 3,
-    "Wall Street Journal": 1,
-    "Reuters": 2
+    "The Economist": 1,
+    "Bloomberg": 10,
+    "Financial Times": 2,
+    "Wall Street Journal": 2,
+    "Reuters": 5
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "谷歌称，中国黑客正在被盗网络上运行人工智能程序，以逃避检测 - NBC News",
-      "title_cn": "谷歌称，中国黑客正在被盗网络上运行人工智能程序，以逃避检测 - NBC新闻",
-      "url": "https://news.google.com/read/CBMiugFBVV95cUxNeDBsWWNHTTFJV3Q4WTNrV2FXaGpkdTdYNUh5eF9qLVpSYmhFMkY1SDB1WkVXWEtRSGY1UjhhSU5EODBVTEFWcnBodF9Tc0lMVUYwME9WVlVNWWh6R1dITEtsSm5tbFk4TUpQazdYTi1oMDUyckdPLTFkWGpoZkpPbjVrMmNGdEYyVDdOendkNmFBWklYaXFmeVNkbjdvRTJXMHR5bHA2OHUzZElSUXAtQTBULVRKakNKUUE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T12:00:00.000Z",
-      "pub_sort_dt": "2026-09-08 20:00:00"
+      "title_en": "特朗普政府对福特与中国的关系表示“深切关切” - CNBC",
+      "title_cn": "特朗普政府对福特与中国的关系表示“深切关切” - CNBC",
+      "url": "https://news.google.com/read/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NNIBdEFVX3lxTE1BYzFIa1p4MnpkQV9KR3c0SUNlbDkyRExQRjlRd2M0bS0zREJ3SEgxcnhvLXd6bEdYaFozbVQ0LXRhZjdIWHQ3ZUtSS0N0SGdmcHFQTkc2Y2d3S0puRkRCdGpwalphQ1RJVjJHRElHdGl3SGI4?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T20:15:28.000Z",
+      "pub_sort_dt": "2026-09-09 04:15:28"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国正试图减少对中国的电池依赖。以下是它面临挑战 - CNBC",
-      "title_cn": "美国正试图减少对中国的电池依赖。以下是它面临的挑战 - CNBC",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxPTzhYamVUcFlaMWpQOHZ1WGQ5ZW1zekdQWF9MRmViX1RGaWs0cmhPZXJ0X3hPY0tKZXRIZWdWZGlzWG0yQ3BlLVVvUzRCUXFyYWVwSk44M1ZIRXpXXzVjWDE4SUVOeXdRZ0pWTHR3aHFtUGtoeTJQaExaVnpDME5wQjRVTXhycEN6cXp0M2pUNlgwdkdZQU4wMNIBngFBVV95cUxOWXpIOWxJQjJnWGlON3pRUDF1bHJDMWY0dEM0X0w5SFVmRGtqc3NDYlhkaHlLSEU4VXBsSnBDM1hzLTFlM21tdUJ4VzFiYnJFYmlOLVJzdjg4WnNnbnVuNXdMTEM0dERCb2daNWxvWmdoTVZsbWlmLUVPaE1BdldMVmM3ZlZaWllRRllaYVJNNEdGQ1ZEYVBrcGNQb2E1UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T11:00:01.000Z",
-      "pub_sort_dt": "2026-09-08 19:00:01"
+      "title_en": "达菲就福特与中国的关系向其发出警告，并指出存在安全隐患 - Fox Business",
+      "title_cn": "达菲就福特与中国的关系向其发出警告，并指出存在安全隐患 - Fox Business",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxQM2RtcHlGVHowNm85NjBCQ3lfX2ZSMWlTVmc4azFFbDNBV3JVamljdG1ZRV9JMkh5YXFldl95VWxlaVFnWWUxbFl5blJ4YkMydzg4alhNbmItUnhrd184ckpLU1pHN2IwX2gwaXRlRVdNZ3hYZVBJWjV0VzI2UFlBekx3QXB4NFhnZHhhSnBtY3NFZTBFZ3QzcGNNeFd6SVHSAaQBQVVfeXFMTzhCeWx5TDZhMXllamJVb25CRkF4TnYtTnBsNU9jMjIyc3VQMkg0VmtYSk5KMUJ5ci03LVBiWnVWS0lLdUdqOHp4TXRfMkI0U29kLWhtZTFOejlYamxQdmdKTE1RMXBWT0VnVmpaX0wtR0l0T0RTUkxvX3ZmZ2ZyQm1FeW5DV2tWdERyNWZaelloREVlVEtoaTdCa2xyYjNybFhVN3M?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T19:50:00.000Z",
+      "pub_sort_dt": "2026-09-09 03:50:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "台湾会就此放弃吗？ - The Atlantic",
-      "title_cn": "台湾会无力吗？ - 大西洋月刊",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxPWG81MUZ5NkZ1QlZzcFotWHhJS1N6LW1wdnJqcUJsTUhmOWttV3B2eDFHWWxKbjJpcW11TGg1VVRjWlU1QnJFekhiWDgwWXVTODhxdW1lTHdSd2xfM0NSRmp4alI2dkE0ZWtJdE9EYm1VWDlZNDJHSWhVc1M0LTRfaHA2UGJYajVZYnV3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T11:00:00.000Z",
-      "pub_sort_dt": "2026-09-08 19:00:00"
+      "title_en": "美国警告本国公民：热门旅游目的地存在出境禁令和“不公正”的拘留现象 - Fox News",
+      "title_cn": "美国警告本国公民：热门旅游目的地存在出境禁令和“不公正”的拘留现象 - Fox News",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxOWVdkU01JVFVVWjdOZUhXa2hqSjlkTGhJd3lJM0FYcUszSEktSXA4UUl6bk9FRzFFTmRIOXMxSkdjY0hVN1RVSzR0MkNyeV9TN25CZ0RFZTdiZFBJTHFqajB5cnBoVTl5YXhwbVJ5Q2pXWGlnWDBIV245QldNVEVmdS1USWJUY2NRblhjUlRZd2FScVJxTmpoU2hQT3PSAaIBQVVfeXFMT2dxczdLZXlCblRHZEdhWUQ4aHhCcUxDeUNiTjJrTXNqU0FZeHF5aDgxNkpleG1BVmVuSzJ4eVpfRWN2OHpQYUdxQTlkZE1kcXJRam9GZ0JCd19nSWpaNTVzdnBNWDg0Qks3S0NFUFlTUlhvNnVVZXZSRWJnUTFPVF9jbkNXSVBVbFFmdnVFWDF0NVBuTlE0cDZCaDBZc0tQcG13?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T19:36:51.000Z",
+      "pub_sort_dt": "2026-09-09 03:36:51"
     },
     {
       "source": "China Buzzing",
-      "title_en": "为何将中国视为一个普通的新兴大国是本末倒置的 - WSJ",
-      "title_cn": "为何将中国本末倒置为普通新兴大国 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T10:55:00.000Z",
-      "pub_sort_dt": "2026-09-08 18:55:00"
+      "title_en": "中国与卡塔尔正在加强双边关系：这究竟意味着什么 - Al Jazeera",
+      "title_cn": "中国与土耳其正在加强双边关系：这究竟意味着什么 - 半岛电视台",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxOdGM3T2VkRjdTV0g4OUh1WFVkZE55aWhicjhFVHFyVGUydE5idlE5cHhkcWJpQnZZY282dTJ0Z3BrVWJka0VDLWhsUVh6aEJ3a2dxWDU0SlM4alMzYW5HTzlZWll6NkFPeFhmb1BmdnU4Sy1LbXQ3a3E3X3RHOWNfdVBVNXIxb0kxUGJra1FrSE9qd2JDanNFSGt2WGJfQWRiQ2lqNTRhcHZ5RjFzelJaZWYxMjA1QdIBuwFBVV95cUxOYlNzZjR2eG1ZcHVXREpLUHk1YU1NTlE5NzFONHpFVzlia1o3MTB4Sl9pSnVpLXJGb3J2czhCaEpoVzVBRG5wQ041VkhzQlVoY0pUSmtkMHhCcHdkQmhYNWZtVGxsNE05Wlk3R2o5anlMWmQxSXY1UVJfdVo2SjlfTU5Fd050RV9XS0lrS0phSU1aZlQ0WGl4UmNUUktaUkJIZTdNc3VyUFFaVDBJZ1JiVk5reDNqNDQyMUhR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T18:48:09.000Z",
+      "pub_sort_dt": "2026-09-09 02:48:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "三个数字揭示了中国出口热潮的规模究竟有多大 - WSJ",
-      "title_cn": "三个数字揭示了中国出口热潮的规模到底有多大 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxOSkFjZUgwUXJPT004R2Qzd1A0T3B1YTVhclJfNnhrdGdSUXcwZHJQVEVqQnMzTGcwUGVrX1Jaa2R1clJpN1h5Zk5RczU3bkJmWnZ3RmlxN01EcExmZ05CMlRWWk42NVhadTItYklVcDc2cE9YMEVMSERqZU9FTV80RXFvSHN6NW5BQ2hSZ25PMzlSMHB4NDYyaXlVU3ZiNmh4dHJ3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T10:46:00.000Z",
-      "pub_sort_dt": "2026-09-08 18:46:00"
+      "title_en": "菲律宾国防部长在首尔论坛上发言时因收到一封信件而中断发言，随后指责中国：“胁迫、霸凌” - Fox News",
+      "title_cn": "预防恐长在首尔论坛上发言时因收到一封信而中断发言，并指责中国：“相邻、霸凌” - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQV0J6TlNudlNtTi1UN2tHbDkwQmU2LWFlQmtMNEZKNmQ2cWNnaGZzd2s1eTdSWko2MFR0MlNzeENpZFhaOGlsdkUxUExyRTJNS2FQMXhrSEtrRUtubnNMalF0dlJYYXhVM1JpRE9SWW8yZ09VLWF6UWVzbkRoY1VfdTRubjhyN0xGTmtIeHZ1YUI2M2xwQWpkZTFOdU1qM1hTa3h2enJSQUxvRGJEZ0JsaHh6VU9kVnIzZ1ZTRHhWVV9JYlHSAcgBQVVfeXFMTTBrOWtqV3lDX3ktb1JnWkNzdmIzdl9RWi1DUE4zSnYzNnVlWXRHQllRQ0l2eGQ5Rldqc1pmT1dSX3BuNDQ4azFtSXZWMUhfSGgzZDl5QlBZVzlQRFNMSmpMN3VxeHdIc0dqX3ZSSlRlbHltY1Y1VzBOTXBwUUxOVEs4Ui0zRG5RRnJVWXIxMXF2bjRDY1FMejVTMnh1Q0VMXzQ2ZGFLOEVOcmZFRENZb29ENnJOWFRnR1ZjLVZRYjZ6Wjc0TkR4OXE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T18:18:09.000Z",
+      "pub_sort_dt": "2026-09-09 02:18:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国对日本出口的一种关键芯片制造材料实施新措施，日本对此表示抗议 - AP News",
-      "title_cn": "中国对日本出口的一项关键芯片制造材料实施新措施，日本对此表示抗议 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMimgFBVV95cUxQSWFNb191TjE4UW5xUXhPbDAxZ1hBRVlZcWN3dkFVMG0wSGFQdEhfTVprOU5rU0lDUFQ4S2hzdm5MOWg2ZkRXSWl4anUycWx3MEVjUWtrNnpicFFyaW9yX0RGSFpOdl9tT1gyN3lfSC1IUUNFbTNqR0dZb19qaVRZOTlobEk0aER1b0dYLThObDJiR19pVXkwUDhR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T09:45:00.000Z",
-      "pub_sort_dt": "2026-09-08 17:45:00"
+      "title_en": "突发 香港首任行政长官董建华去世，享年89岁 - South China Morning Post",
+      "title_cn": "突发 香港首任行政长官董建华去世，享年89岁 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxPNlJSbEQtZS1iT1BCSzZJU2l4aDRESVFpeU5ZRjkzZTRrMWhwMW0yZWlWUGlmSVBGVXBxdnRidDl5dWpuN3FOb2lOcld2Z3I1djhVSHJ3ak9jQnZQUUtLZXhBUlVyZlQ0U2tBb0Q2X3Y2WGptRWpENVpBTEhvNXh1eHV2NE1XSGd1djhaVm9ueWdnX2JVSWlEenQ4MjNwRF92VlNQYndxVE5CVzZ4SEFZM2tvM05CYzdQcTRsTNIBvAFBVV95cUxPTmpac0lXSElUTVJuN1poTXJtU1NETWxLZXc0bFY0X1ozN3JaNDlxeHFtYkFDR0FtR1Ric1JWRXROaVFveXN2WVZBYjFyLXRjWVZiOWRtTU1VZm9mdDl5T1EzdXdLNEJzajRSTnNsZkZQaU56OFBya3lIWkhneUNvM2JwYkpxdFdVN2c5dFJPZV92eVlVT1RDOEp2VGVseHd6aFY1XzVCYU1VaFVkZXVuZ3FiNE5HbjJIaFoyTw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T17:00:36.000Z",
+      "pub_sort_dt": "2026-09-09 01:00:36"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着中国寻求伊朗原油的替代来源，巴西的石油出口量激增 - CNN",
-      "title_cn": "随着中国寻求伊朗原油的替代来源，巴西的石油出口量激增 - CNN",
-      "url": "https://news.google.com/read/CBMiZ0FVX3lxTE1TbUhXak81YTJLWmg4emhpc0tlcFRRdGM2VnJUSVdsYW5TQmp3X3VnLWRpN2RkM05BRnMyRklTOUpMNHUxekwyV2ozLUx1U19JM3M1anJCemJQMmIzdFpMWWZuQlkxOTA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T09:00:31.000Z",
-      "pub_sort_dt": "2026-09-08 17:00:31"
+      "title_en": "中国为银行提供的540亿美元资本注资远未达到预期 - The Economist",
+      "title_cn": "中国为银行提供的540亿美元资本注资远未达到预期 - The Economist",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxOX0RLX0poWXpkdFNJeUFxbVhwcmJPNW40UVNmZllva3l4eVlkUXo4S2lCVERRb19pZ0MtczliRjlBVjJFa0xrRTVwSzc5SDBPUS1vck1sWVMydGwtMkFCbkd1cEFIN1JGQjVmb25NWF8yVmVSQnhzRHk4S2plbFl6aWdYa3pGWDNhTWFBNTFmbTdPU3NkVDNNc3hLYUt5R010bENQRXc1TmxIMUtfcjk4?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T16:18:35.000Z",
+      "pub_sort_dt": "2026-09-09 00:18:35"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国船只走北极捷径：明智之举？还是政治示威？ - The New York Times",
-      "title_cn": "中国船只走北极捷径：知识之举？还是政治抗议？ - 纽约时报",
-      "url": "https://news.google.com/read/CBMijwFBVV95cUxNMXp1czF1aVA3akpVM1JRYTh4dTZyODN4RjVPcmlscE9QTUw3cms5SUlBZGxDRmVqb3ZUR0N1RVZjLUVFbzRRbURFQWo5MVd1alB4YVp2aHJUTkZrTC1tTTVHUFJjckphb1F1VEVORDFmYmtZcWpyVHliTVUwZTVKRFJwN1NDZXZfUkF3eW0zUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T08:49:18.000Z",
-      "pub_sort_dt": "2026-09-08 16:49:18"
+      "title_en": "中国自暂停出口以来首次发运硫酸 - bloomberg.com",
+      "title_cn": "中国自暂停出口以来首次发运硫酸 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQT3FnbEdweE9lQzlzV1BJajU5QjhrYnoyOTl4Z2JyeW51b0EycFBfUG5ZMkYtREhpMVg4QmljZU4xSXFEMG53ZDRmZ2tHZVpEV3daek85Y284dHRrZW1adWlTYXBCS0JFQWxqVTZVTWxOWEhqRUtvYjRNM3BNSjlBejlzNEdaWnlSaldBa2RaQ04xWGFPVlZkbkcxMVRvOWJNUWJ2UWI4TVdhU1c0UWJybERFa2c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T14:40:13.000Z",
+      "pub_sort_dt": "2026-09-08 22:40:13"
     },
     {
       "source": "China Buzzing",
-      "title_en": "1中国出口激增给特朗普与习近平的会谈蒙上阴影 - The New York Times",
-      "title_cn": "1中国出口激增给特朗普与习近平的任期蒙上阴影 - 纽约时报",
-      "url": "https://news.google.com/read/CBMigwFBVV95cUxPUlR4d0EwcFVWcnRtZm83dm1MbF9VLTZaN3ViMXZHNy1yNVFxS1FDRW84X3VBRDlMX3ZsbHdVQ3hCMktqQ2wtOW4wNEVselF1X21LWXFDMHNnZHhMVWdqLWxEUHNrNkR4TEkyNkFuX2ZaUGZqaGFURkhfNmZsRWhMRGsxUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T08:24:33.000Z",
-      "pub_sort_dt": "2026-09-08 16:24:33"
+      "title_en": "达契亚将把热门车型Spring电动汽车从中国带回欧洲 - Reuters",
+      "title_cn": "达契亚将把热门电动汽车Spring电动汽车从中国带回欧洲 - 路透社",
+      "url": "https://news.google.com/read/CBMiogFBVV95cUxOdVVVSjRsSkZGQko0VThMZXZNRXN2WkE5OG9zX0ZjTVlSelNSZVNPQ3ZCb2VneERJUHJOak1pdkFENEp5TE1uYk5mOE4tR2loREpxbVFfaW1neTNqaDVfTmFKZ0JsZ1JLUkpZY0R2X1VES083ZVJoV1FfR01seXhpYU5vNDBJWjdHcEZPZVA2b2lXVklJbWYwdWJjNVVCVG43VlE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T14:26:31.000Z",
+      "pub_sort_dt": "2026-09-08 22:26:31"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国就恐怖主义威胁、能源和贸易问题召集中亚各国警察局长举行会议 - South China Morning Post",
-      "title_cn": "中国就恐慌威胁、能源和贸易问题召集中亚各地警察局长召开会议 - 南华早报",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxPVWNJTklHZ2JKRkxtZUtzejFSdHVSOUlGVGRHWVNtREJyRnMxcTNEWWdvZHVJNTIwRnQ4QThQeS1uempnS0JZTkRoUlZldlV6MWphb0lVSFhzdTE4ZWpRNlNVbzFuM2JHU05scWs2RWlpNlZ3NUJoTHR2WmdjVGpKZEdLSVY4eHdtT2NKNGY4b3E2S1ZuYXd2SDdpSVNyd2M3SV80bWRIVUFaOF9CdXg5bXU4ZzdmT0M3dVN5Mjg4c0VNY3duQ2gweVRTbFZ0UdIBzgFBVV95cUxNSmJ4TWJINjJpVVl1UXBrWnlYb0tRbVgzTzVCT0tjNUlkWGdmc255MXFPSFh1cjFWVXVieWpqMHI4ZVgyRHJieFpGUGdYaUFEY0R6WmFDd0hiQ3d4eWJMQnFib1ZVZVNMMlhFUGRSOGs4amhKY2xNX1EyWGVxZUwteUx4OWJSSG9rMUdNRUhtYkptdS15RjZXYWJQX3VtRU52c0puTXQ2ZnZldWw3ZEdMNi1NV2ZmNE02OTFNUUMwaTZPZUNCckZHZ3FZem03Zw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T07:58:59.000Z",
-      "pub_sort_dt": "2026-09-08 15:58:59"
+      "title_en": "巴基斯坦的这款中国制造的HQ-17AE系统将增强其在未来与印度的战争中的反无人机防御能力 - South China Morning Post",
+      "title_cn": "巴基斯坦的这款中国制造的HQ-17AE系统将增强其在未来与印度的战争中的反无人机防御能力 - 南华早报",
+      "url": "https://news.google.com/read/CBMi0wFBVV95cUxPZU5FWXZGNEs2U3dBRGU5WFpra01zREJVRVZJT0k3alFNSWpfV2M4OVVQT0ViZVR6TFpJVVJqb0Q4SWxUbVg4WTZaTGttTXQ0VTF0VU8zSGRmNEI2RHZ0d3cwY3hqRVFTV05LQ1p1RTllM09NQ2N0QUswT1NRdTI2UnZRTWFLbXdMVzk5dUx6NzhrUXplSWtaZWkwYVhTcnJtNlBSUlhuRVFzNEo1ck0wN052YzU1NE1rQkpyc1ZXYTBIemRjWkhWQ2hVSlIwbFk1UmFV0gHTAUFVX3lxTE9Wd2FVc2N4STlkSnpidnluN29YY3E1RVlZLW05MDB5ZTdWOG9GLUtTeDhDSE9fSUUtc2FsT3lrNTlvOEtXQzFfREQwdHB1QzluMVBQX29tbV9aQVk5YlR3ZDYwelZBSEtyc19sc3dQRlVJZlpsVmdlaDkzR0lhWTB6LTJsS0RhTVllRDVvdUE3RzY3TkU5andhTnNjalRZRDlYVXdPenpBMnd2WjZWdFZ1NkRHcDJwZWJSOXpKbjVSN01zeS1JbkxYVFIzMmt2WlhGeDg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T14:00:08.000Z",
+      "pub_sort_dt": "2026-09-08 22:00:08"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "达菲因福特与中国汽车公司的联系对其大加抨击",
+      "title_cn": "达菲因福特与中国汽车公司的关联大加法兰克福",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/duffy-lashes-out-at-ford-over-ties-to-chinese-auto-companies",
+      "pub_raw": "2026-09-08T20:02:00.313Z",
+      "pub_sort_dt": "2026-09-09 04:02:00"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "交通部长肖恩·达菲严厉批评了福特与中国汽车企业的合作",
+      "title_cn": "交通部长肖恩·达菲严厉批评福特与中国汽车企业的合作",
+      "url": "https://on.wsj.com/4yqaFHO",
+      "pub_raw": "2026-09-08T20:02:00.180Z",
+      "pub_sort_dt": "2026-09-09 04:02:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "特朗普政府猛烈抨击福特与中国企业的商业交易",
+      "title_cn": "特朗普政府猛烈抨击福特与中国企业的商业交易",
+      "url": "https://reut.rs/3TknHI3",
+      "pub_raw": "2026-09-08T19:29:51.135Z",
+      "pub_sort_dt": "2026-09-09 03:29:51"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "董建华，香港行政长官，1937-2026",
+      "title_cn": "董建华，香港行政长官，1937-2026",
+      "url": "https://www.ft.com/content/a943b766-c4f1-4417-8578-2c9f60ec6c11?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-08T19:29:51.099Z",
+      "pub_sort_dt": "2026-09-09 03:29:51"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国接管香港后的首任领导人董建华去世，享年89岁",
+      "title_cn": "中国占领香港后的首任领导人董建华去世，享年89岁",
+      "url": "https://reut.rs/4iQ1WKr",
+      "pub_raw": "2026-09-08T18:58:28.674Z",
+      "pub_sort_dt": "2026-09-09 02:58:28"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国指责中国人工智能企业“大规模”窃取人工智能技术",
+      "title_cn": "美国指责中国人工智能企业“大规模”窃取人工智能技术",
+      "url": "https://reut.rs/46K8GST",
+      "pub_raw": "2026-09-08T18:42:16.549Z",
+      "pub_sort_dt": "2026-09-09 02:42:16"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国为银行提供的540亿美元资本增资远未达到预期",
+      "title_cn": "中国为银行提供的540亿美元资本增资远未达到预期",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/08/chinas-54bn-capital-boost-for-banks-falls-far-short",
+      "pub_raw": "2026-09-08T16:33:57.266Z",
+      "pub_sort_dt": "2026-09-09 00:33:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "澳大利亚巴特拉事件引发对“中国式恶性循环”的担忧",
+      "title_cn": "澳大利亚巴特拉事件引发对“中国式恶性循环”的担忧",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-08/australia-s-bathla-collapse-raises-fears-of-a-china-style-spiral",
+      "pub_raw": "2026-09-08T16:01:49.625Z",
+      "pub_sort_dt": "2026-09-09 00:01:49"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国国家主席习近平告诉英国的伯纳姆，双方的共同利益多于分歧",
+      "title_cn": "中国国家主席习近平告诉英国的伯纳姆，两国的共同利益已经结束",
+      "url": "https://reut.rs/4xbnYec",
+      "pub_raw": "2026-09-08T16:01:49.486Z",
+      "pub_sort_dt": "2026-09-09 00:01:49"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "习近平在与伯纳姆通话时敦促英国保护中国投资者",
       "title_cn": "习近平在与伯纳姆通话时敦促英国保护中国投资者",
       "url": "https://www.bloomberg.com/news/articles/2026-09-08/xi-urges-uk-to-protect-chinese-investors-in-call-with-burnham",
@@ -179,160 +251,160 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-hits-japan-with-anti-dumping-measures-on-chip-chemical",
       "pub_raw": "2026-09-08T06:17:42.819Z",
       "pub_sort_dt": "2026-09-08 14:17:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "达契亚将把热门车型“Spring”电动汽车从中国带回欧洲",
-      "title_cn": "达契亚将把热门男友“Spring”电动汽车从中国带回欧洲",
-      "url": "https://reut.rs/4qYiXEv",
-      "pub_raw": "2026-09-08T06:17:42.709Z",
-      "pub_sort_dt": "2026-09-08 14:17:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "前中国人民银行官员称，熊猫债券可助力能源转型融资",
-      "title_cn": "前中国人民银行官员称，一笔债券可支持能源融资",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/panda-bonds-can-help-fund-energy-transition-ex-pboc-official-says",
-      "pub_raw": "2026-09-08T05:13:50.377Z",
-      "pub_sort_dt": "2026-09-08 13:13:50"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "人工智能助推中国出口增长，贸易顺差逼近8060亿美元",
-      "title_cn": "人工智能助推中国出口增长，贸易顺差逼近8060亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
-      "pub_raw": "2026-09-08T04:57:57.855Z",
-      "pub_sort_dt": "2026-09-08 12:57:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Longsys在香港上市首日股价下跌，募资9.03亿美元",
-      "title_cn": "江波龙在香港上市首日股价下跌，募资9.03亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
-      "pub_raw": "2026-09-08T04:26:53.289Z",
-      "pub_sort_dt": "2026-09-08 12:26:53"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着炼油企业多元化采购，中国原油进口量持续增长",
-      "title_cn": "随着炼油企业信心十足采购，中国原油进口量持续增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-s-crude-imports-strengthen-as-refiners-diversify-supply",
-      "pub_raw": "2026-09-08T03:40:03.811Z",
-      "pub_sort_dt": "2026-09-08 11:40:03"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "得益于人工智能基础设施建设的推动，中国8月份出口猛增25%",
-      "title_cn": "得益于人工智能基础设施建设的推动，中国8月份出口猛增25%",
-      "url": "https://www.ft.com/content/56bcc2fb-99eb-4ad9-af67-101c8d0382cb?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-08T03:23:52.264Z",
-      "pub_sort_dt": "2026-09-08 11:23:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "据称印尼Merdeka Battery正考虑在香港出售股份",
-      "title_cn": "演讲对话Merdeka Battery正考虑在香港出售股份",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/indonesia-s-merdeka-battery-is-said-to-consider-hk-share-sale",
-      "pub_raw": "2026-09-08T03:07:53.159Z",
-      "pub_sort_dt": "2026-09-08 11:07:53"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "华为引领中国自主研发先进芯片的进程",
-      "title_cn": "华为引领中国自主研发先进芯片的进程",
-      "url": "https://www.ft.com/content/36333a53-4063-4aad-8df9-8d2f9d0048a3?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-08T03:07:53.082Z",
-      "pub_sort_dt": "2026-09-08 11:07:53"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国要求钢铁企业暂缓采购力拓的铁矿石",
-      "title_cn": "中国要求钢铁企业暂缓进口铁矿石",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-tells-steel-mills-to-hold-off-on-buying-rio-tinto-s-ore",
-      "pub_raw": "2026-09-08T02:36:09.693Z",
-      "pub_sort_dt": "2026-09-08 10:36:09"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "谷歌称，中国黑客正在被盗网络上运行人工智能程序，以逃避检测 - NBC News",
-      "title_cn": "谷歌称，中国黑客正在被盗网络上运行人工智能程序，以逃避检测 - NBC新闻",
-      "url": "https://news.google.com/read/CBMiugFBVV95cUxNeDBsWWNHTTFJV3Q4WTNrV2FXaGpkdTdYNUh5eF9qLVpSYmhFMkY1SDB1WkVXWEtRSGY1UjhhSU5EODBVTEFWcnBodF9Tc0lMVUYwME9WVlVNWWh6R1dITEtsSm5tbFk4TUpQazdYTi1oMDUyckdPLTFkWGpoZkpPbjVrMmNGdEYyVDdOendkNmFBWklYaXFmeVNkbjdvRTJXMHR5bHA2OHUzZElSUXAtQTBULVRKakNKUUE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T12:00:00.000Z",
-      "pub_sort_dt": "2026-09-08 20:00:00"
+      "title_en": "特朗普政府对福特与中国的关系表示“深切关切” - CNBC",
+      "title_cn": "特朗普政府对福特与中国的关系表示“深切关切” - CNBC",
+      "url": "https://news.google.com/read/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NNIBdEFVX3lxTE1BYzFIa1p4MnpkQV9KR3c0SUNlbDkyRExQRjlRd2M0bS0zREJ3SEgxcnhvLXd6bEdYaFozbVQ0LXRhZjdIWHQ3ZUtSS0N0SGdmcHFQTkc2Y2d3S0puRkRCdGpwalphQ1RJVjJHRElHdGl3SGI4?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T20:15:28.000Z",
+      "pub_sort_dt": "2026-09-09 04:15:28"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国正试图减少对中国的电池依赖。以下是它面临挑战 - CNBC",
-      "title_cn": "美国正试图减少对中国的电池依赖。以下是它面临的挑战 - CNBC",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxPTzhYamVUcFlaMWpQOHZ1WGQ5ZW1zekdQWF9MRmViX1RGaWs0cmhPZXJ0X3hPY0tKZXRIZWdWZGlzWG0yQ3BlLVVvUzRCUXFyYWVwSk44M1ZIRXpXXzVjWDE4SUVOeXdRZ0pWTHR3aHFtUGtoeTJQaExaVnpDME5wQjRVTXhycEN6cXp0M2pUNlgwdkdZQU4wMNIBngFBVV95cUxOWXpIOWxJQjJnWGlON3pRUDF1bHJDMWY0dEM0X0w5SFVmRGtqc3NDYlhkaHlLSEU4VXBsSnBDM1hzLTFlM21tdUJ4VzFiYnJFYmlOLVJzdjg4WnNnbnVuNXdMTEM0dERCb2daNWxvWmdoTVZsbWlmLUVPaE1BdldMVmM3ZlZaWllRRllaYVJNNEdGQ1ZEYVBrcGNQb2E1UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T11:00:01.000Z",
-      "pub_sort_dt": "2026-09-08 19:00:01"
+      "title_en": "达菲就福特与中国的关系向其发出警告，并指出存在安全隐患 - Fox Business",
+      "title_cn": "达菲就福特与中国的关系向其发出警告，并指出存在安全隐患 - Fox Business",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxQM2RtcHlGVHowNm85NjBCQ3lfX2ZSMWlTVmc4azFFbDNBV3JVamljdG1ZRV9JMkh5YXFldl95VWxlaVFnWWUxbFl5blJ4YkMydzg4alhNbmItUnhrd184ckpLU1pHN2IwX2gwaXRlRVdNZ3hYZVBJWjV0VzI2UFlBekx3QXB4NFhnZHhhSnBtY3NFZTBFZ3QzcGNNeFd6SVHSAaQBQVVfeXFMTzhCeWx5TDZhMXllamJVb25CRkF4TnYtTnBsNU9jMjIyc3VQMkg0VmtYSk5KMUJ5ci03LVBiWnVWS0lLdUdqOHp4TXRfMkI0U29kLWhtZTFOejlYamxQdmdKTE1RMXBWT0VnVmpaX0wtR0l0T0RTUkxvX3ZmZ2ZyQm1FeW5DV2tWdERyNWZaelloREVlVEtoaTdCa2xyYjNybFhVN3M?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T19:50:00.000Z",
+      "pub_sort_dt": "2026-09-09 03:50:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "台湾会就此放弃吗？ - The Atlantic",
-      "title_cn": "台湾会无力吗？ - 大西洋月刊",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxPWG81MUZ5NkZ1QlZzcFotWHhJS1N6LW1wdnJqcUJsTUhmOWttV3B2eDFHWWxKbjJpcW11TGg1VVRjWlU1QnJFekhiWDgwWXVTODhxdW1lTHdSd2xfM0NSRmp4alI2dkE0ZWtJdE9EYm1VWDlZNDJHSWhVc1M0LTRfaHA2UGJYajVZYnV3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T11:00:00.000Z",
-      "pub_sort_dt": "2026-09-08 19:00:00"
+      "title_en": "美国警告本国公民：热门旅游目的地存在出境禁令和“不公正”的拘留现象 - Fox News",
+      "title_cn": "美国警告本国公民：热门旅游目的地存在出境禁令和“不公正”的拘留现象 - Fox News",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxOWVdkU01JVFVVWjdOZUhXa2hqSjlkTGhJd3lJM0FYcUszSEktSXA4UUl6bk9FRzFFTmRIOXMxSkdjY0hVN1RVSzR0MkNyeV9TN25CZ0RFZTdiZFBJTHFqajB5cnBoVTl5YXhwbVJ5Q2pXWGlnWDBIV245QldNVEVmdS1USWJUY2NRblhjUlRZd2FScVJxTmpoU2hQT3PSAaIBQVVfeXFMT2dxczdLZXlCblRHZEdhWUQ4aHhCcUxDeUNiTjJrTXNqU0FZeHF5aDgxNkpleG1BVmVuSzJ4eVpfRWN2OHpQYUdxQTlkZE1kcXJRam9GZ0JCd19nSWpaNTVzdnBNWDg0Qks3S0NFUFlTUlhvNnVVZXZSRWJnUTFPVF9jbkNXSVBVbFFmdnVFWDF0NVBuTlE0cDZCaDBZc0tQcG13?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T19:36:51.000Z",
+      "pub_sort_dt": "2026-09-09 03:36:51"
     },
     {
       "source": "China Buzzing",
-      "title_en": "为何将中国视为一个普通的新兴大国是本末倒置的 - WSJ",
-      "title_cn": "为何将中国本末倒置为普通新兴大国 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T10:55:00.000Z",
-      "pub_sort_dt": "2026-09-08 18:55:00"
+      "title_en": "中国与卡塔尔正在加强双边关系：这究竟意味着什么 - Al Jazeera",
+      "title_cn": "中国与土耳其正在加强双边关系：这究竟意味着什么 - 半岛电视台",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxOdGM3T2VkRjdTV0g4OUh1WFVkZE55aWhicjhFVHFyVGUydE5idlE5cHhkcWJpQnZZY282dTJ0Z3BrVWJka0VDLWhsUVh6aEJ3a2dxWDU0SlM4alMzYW5HTzlZWll6NkFPeFhmb1BmdnU4Sy1LbXQ3a3E3X3RHOWNfdVBVNXIxb0kxUGJra1FrSE9qd2JDanNFSGt2WGJfQWRiQ2lqNTRhcHZ5RjFzelJaZWYxMjA1QdIBuwFBVV95cUxOYlNzZjR2eG1ZcHVXREpLUHk1YU1NTlE5NzFONHpFVzlia1o3MTB4Sl9pSnVpLXJGb3J2czhCaEpoVzVBRG5wQ041VkhzQlVoY0pUSmtkMHhCcHdkQmhYNWZtVGxsNE05Wlk3R2o5anlMWmQxSXY1UVJfdVo2SjlfTU5Fd050RV9XS0lrS0phSU1aZlQ0WGl4UmNUUktaUkJIZTdNc3VyUFFaVDBJZ1JiVk5reDNqNDQyMUhR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T18:48:09.000Z",
+      "pub_sort_dt": "2026-09-09 02:48:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "三个数字揭示了中国出口热潮的规模究竟有多大 - WSJ",
-      "title_cn": "三个数字揭示了中国出口热潮的规模到底有多大 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxOSkFjZUgwUXJPT004R2Qzd1A0T3B1YTVhclJfNnhrdGdSUXcwZHJQVEVqQnMzTGcwUGVrX1Jaa2R1clJpN1h5Zk5RczU3bkJmWnZ3RmlxN01EcExmZ05CMlRWWk42NVhadTItYklVcDc2cE9YMEVMSERqZU9FTV80RXFvSHN6NW5BQ2hSZ25PMzlSMHB4NDYyaXlVU3ZiNmh4dHJ3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T10:46:00.000Z",
-      "pub_sort_dt": "2026-09-08 18:46:00"
+      "title_en": "菲律宾国防部长在首尔论坛上发言时因收到一封信件而中断发言，随后指责中国：“胁迫、霸凌” - Fox News",
+      "title_cn": "预防恐长在首尔论坛上发言时因收到一封信而中断发言，并指责中国：“相邻、霸凌” - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQV0J6TlNudlNtTi1UN2tHbDkwQmU2LWFlQmtMNEZKNmQ2cWNnaGZzd2s1eTdSWko2MFR0MlNzeENpZFhaOGlsdkUxUExyRTJNS2FQMXhrSEtrRUtubnNMalF0dlJYYXhVM1JpRE9SWW8yZ09VLWF6UWVzbkRoY1VfdTRubjhyN0xGTmtIeHZ1YUI2M2xwQWpkZTFOdU1qM1hTa3h2enJSQUxvRGJEZ0JsaHh6VU9kVnIzZ1ZTRHhWVV9JYlHSAcgBQVVfeXFMTTBrOWtqV3lDX3ktb1JnWkNzdmIzdl9RWi1DUE4zSnYzNnVlWXRHQllRQ0l2eGQ5Rldqc1pmT1dSX3BuNDQ4azFtSXZWMUhfSGgzZDl5QlBZVzlQRFNMSmpMN3VxeHdIc0dqX3ZSSlRlbHltY1Y1VzBOTXBwUUxOVEs4Ui0zRG5RRnJVWXIxMXF2bjRDY1FMejVTMnh1Q0VMXzQ2ZGFLOEVOcmZFRENZb29ENnJOWFRnR1ZjLVZRYjZ6Wjc0TkR4OXE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T18:18:09.000Z",
+      "pub_sort_dt": "2026-09-09 02:18:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国对日本出口的一种关键芯片制造材料实施新措施，日本对此表示抗议 - AP News",
-      "title_cn": "中国对日本出口的一项关键芯片制造材料实施新措施，日本对此表示抗议 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMimgFBVV95cUxQSWFNb191TjE4UW5xUXhPbDAxZ1hBRVlZcWN3dkFVMG0wSGFQdEhfTVprOU5rU0lDUFQ4S2hzdm5MOWg2ZkRXSWl4anUycWx3MEVjUWtrNnpicFFyaW9yX0RGSFpOdl9tT1gyN3lfSC1IUUNFbTNqR0dZb19qaVRZOTlobEk0aER1b0dYLThObDJiR19pVXkwUDhR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T09:45:00.000Z",
-      "pub_sort_dt": "2026-09-08 17:45:00"
+      "title_en": "突发 香港首任行政长官董建华去世，享年89岁 - South China Morning Post",
+      "title_cn": "突发 香港首任行政长官董建华去世，享年89岁 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxPNlJSbEQtZS1iT1BCSzZJU2l4aDRESVFpeU5ZRjkzZTRrMWhwMW0yZWlWUGlmSVBGVXBxdnRidDl5dWpuN3FOb2lOcld2Z3I1djhVSHJ3ak9jQnZQUUtLZXhBUlVyZlQ0U2tBb0Q2X3Y2WGptRWpENVpBTEhvNXh1eHV2NE1XSGd1djhaVm9ueWdnX2JVSWlEenQ4MjNwRF92VlNQYndxVE5CVzZ4SEFZM2tvM05CYzdQcTRsTNIBvAFBVV95cUxPTmpac0lXSElUTVJuN1poTXJtU1NETWxLZXc0bFY0X1ozN3JaNDlxeHFtYkFDR0FtR1Ric1JWRXROaVFveXN2WVZBYjFyLXRjWVZiOWRtTU1VZm9mdDl5T1EzdXdLNEJzajRSTnNsZkZQaU56OFBya3lIWkhneUNvM2JwYkpxdFdVN2c5dFJPZV92eVlVT1RDOEp2VGVseHd6aFY1XzVCYU1VaFVkZXVuZ3FiNE5HbjJIaFoyTw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T17:00:36.000Z",
+      "pub_sort_dt": "2026-09-09 01:00:36"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着中国寻求伊朗原油的替代来源，巴西的石油出口量激增 - CNN",
-      "title_cn": "随着中国寻求伊朗原油的替代来源，巴西的石油出口量激增 - CNN",
-      "url": "https://news.google.com/read/CBMiZ0FVX3lxTE1TbUhXak81YTJLWmg4emhpc0tlcFRRdGM2VnJUSVdsYW5TQmp3X3VnLWRpN2RkM05BRnMyRklTOUpMNHUxekwyV2ozLUx1U19JM3M1anJCemJQMmIzdFpMWWZuQlkxOTA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T09:00:31.000Z",
-      "pub_sort_dt": "2026-09-08 17:00:31"
+      "title_en": "中国为银行提供的540亿美元资本注资远未达到预期 - The Economist",
+      "title_cn": "中国为银行提供的540亿美元资本注资远未达到预期 - The Economist",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxOX0RLX0poWXpkdFNJeUFxbVhwcmJPNW40UVNmZllva3l4eVlkUXo4S2lCVERRb19pZ0MtczliRjlBVjJFa0xrRTVwSzc5SDBPUS1vck1sWVMydGwtMkFCbkd1cEFIN1JGQjVmb25NWF8yVmVSQnhzRHk4S2plbFl6aWdYa3pGWDNhTWFBNTFmbTdPU3NkVDNNc3hLYUt5R010bENQRXc1TmxIMUtfcjk4?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T16:18:35.000Z",
+      "pub_sort_dt": "2026-09-09 00:18:35"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国船只走北极捷径：明智之举？还是政治示威？ - The New York Times",
-      "title_cn": "中国船只走北极捷径：知识之举？还是政治抗议？ - 纽约时报",
-      "url": "https://news.google.com/read/CBMijwFBVV95cUxNMXp1czF1aVA3akpVM1JRYTh4dTZyODN4RjVPcmlscE9QTUw3cms5SUlBZGxDRmVqb3ZUR0N1RVZjLUVFbzRRbURFQWo5MVd1alB4YVp2aHJUTkZrTC1tTTVHUFJjckphb1F1VEVORDFmYmtZcWpyVHliTVUwZTVKRFJwN1NDZXZfUkF3eW0zUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T08:49:18.000Z",
-      "pub_sort_dt": "2026-09-08 16:49:18"
+      "title_en": "中国自暂停出口以来首次发运硫酸 - bloomberg.com",
+      "title_cn": "中国自暂停出口以来首次发运硫酸 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQT3FnbEdweE9lQzlzV1BJajU5QjhrYnoyOTl4Z2JyeW51b0EycFBfUG5ZMkYtREhpMVg4QmljZU4xSXFEMG53ZDRmZ2tHZVpEV3daek85Y284dHRrZW1adWlTYXBCS0JFQWxqVTZVTWxOWEhqRUtvYjRNM3BNSjlBejlzNEdaWnlSaldBa2RaQ04xWGFPVlZkbkcxMVRvOWJNUWJ2UWI4TVdhU1c0UWJybERFa2c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T14:40:13.000Z",
+      "pub_sort_dt": "2026-09-08 22:40:13"
     },
     {
       "source": "China Buzzing",
-      "title_en": "1中国出口激增给特朗普与习近平的会谈蒙上阴影 - The New York Times",
-      "title_cn": "1中国出口激增给特朗普与习近平的任期蒙上阴影 - 纽约时报",
-      "url": "https://news.google.com/read/CBMigwFBVV95cUxPUlR4d0EwcFVWcnRtZm83dm1MbF9VLTZaN3ViMXZHNy1yNVFxS1FDRW84X3VBRDlMX3ZsbHdVQ3hCMktqQ2wtOW4wNEVselF1X21LWXFDMHNnZHhMVWdqLWxEUHNrNkR4TEkyNkFuX2ZaUGZqaGFURkhfNmZsRWhMRGsxUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T08:24:33.000Z",
-      "pub_sort_dt": "2026-09-08 16:24:33"
+      "title_en": "达契亚将把热门车型Spring电动汽车从中国带回欧洲 - Reuters",
+      "title_cn": "达契亚将把热门电动汽车Spring电动汽车从中国带回欧洲 - 路透社",
+      "url": "https://news.google.com/read/CBMiogFBVV95cUxOdVVVSjRsSkZGQko0VThMZXZNRXN2WkE5OG9zX0ZjTVlSelNSZVNPQ3ZCb2VneERJUHJOak1pdkFENEp5TE1uYk5mOE4tR2loREpxbVFfaW1neTNqaDVfTmFKZ0JsZ1JLUkpZY0R2X1VES083ZVJoV1FfR01seXhpYU5vNDBJWjdHcEZPZVA2b2lXVklJbWYwdWJjNVVCVG43VlE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T14:26:31.000Z",
+      "pub_sort_dt": "2026-09-08 22:26:31"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国就恐怖主义威胁、能源和贸易问题召集中亚各国警察局长举行会议 - South China Morning Post",
-      "title_cn": "中国就恐慌威胁、能源和贸易问题召集中亚各地警察局长召开会议 - 南华早报",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxPVWNJTklHZ2JKRkxtZUtzejFSdHVSOUlGVGRHWVNtREJyRnMxcTNEWWdvZHVJNTIwRnQ4QThQeS1uempnS0JZTkRoUlZldlV6MWphb0lVSFhzdTE4ZWpRNlNVbzFuM2JHU05scWs2RWlpNlZ3NUJoTHR2WmdjVGpKZEdLSVY4eHdtT2NKNGY4b3E2S1ZuYXd2SDdpSVNyd2M3SV80bWRIVUFaOF9CdXg5bXU4ZzdmT0M3dVN5Mjg4c0VNY3duQ2gweVRTbFZ0UdIBzgFBVV95cUxNSmJ4TWJINjJpVVl1UXBrWnlYb0tRbVgzTzVCT0tjNUlkWGdmc255MXFPSFh1cjFWVXVieWpqMHI4ZVgyRHJieFpGUGdYaUFEY0R6WmFDd0hiQ3d4eWJMQnFib1ZVZVNMMlhFUGRSOGs4amhKY2xNX1EyWGVxZUwteUx4OWJSSG9rMUdNRUhtYkptdS15RjZXYWJQX3VtRU52c0puTXQ2ZnZldWw3ZEdMNi1NV2ZmNE02OTFNUUMwaTZPZUNCckZHZ3FZem03Zw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T07:58:59.000Z",
-      "pub_sort_dt": "2026-09-08 15:58:59"
+      "title_en": "巴基斯坦的这款中国制造的HQ-17AE系统将增强其在未来与印度的战争中的反无人机防御能力 - South China Morning Post",
+      "title_cn": "巴基斯坦的这款中国制造的HQ-17AE系统将增强其在未来与印度的战争中的反无人机防御能力 - 南华早报",
+      "url": "https://news.google.com/read/CBMi0wFBVV95cUxPZU5FWXZGNEs2U3dBRGU5WFpra01zREJVRVZJT0k3alFNSWpfV2M4OVVQT0ViZVR6TFpJVVJqb0Q4SWxUbVg4WTZaTGttTXQ0VTF0VU8zSGRmNEI2RHZ0d3cwY3hqRVFTV05LQ1p1RTllM09NQ2N0QUswT1NRdTI2UnZRTWFLbXdMVzk5dUx6NzhrUXplSWtaZWkwYVhTcnJtNlBSUlhuRVFzNEo1ck0wN052YzU1NE1rQkpyc1ZXYTBIemRjWkhWQ2hVSlIwbFk1UmFV0gHTAUFVX3lxTE9Wd2FVc2N4STlkSnpidnluN29YY3E1RVlZLW05MDB5ZTdWOG9GLUtTeDhDSE9fSUUtc2FsT3lrNTlvOEtXQzFfREQwdHB1QzluMVBQX29tbV9aQVk5YlR3ZDYwelZBSEtyc19sc3dQRlVJZlpsVmdlaDkzR0lhWTB6LTJsS0RhTVllRDVvdUE3RzY3TkU5andhTnNjalRZRDlYVXdPenpBMnd2WjZWdFZ1NkRHcDJwZWJSOXpKbjVSN01zeS1JbkxYVFIzMmt2WlhGeDg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-08T14:00:08.000Z",
+      "pub_sort_dt": "2026-09-08 22:00:08"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "达菲因福特与中国汽车公司的联系对其大加抨击",
+      "title_cn": "达菲因福特与中国汽车公司的关联大加法兰克福",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/duffy-lashes-out-at-ford-over-ties-to-chinese-auto-companies",
+      "pub_raw": "2026-09-08T20:02:00.313Z",
+      "pub_sort_dt": "2026-09-09 04:02:00"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "交通部长肖恩·达菲严厉批评了福特与中国汽车企业的合作",
+      "title_cn": "交通部长肖恩·达菲严厉批评福特与中国汽车企业的合作",
+      "url": "https://on.wsj.com/4yqaFHO",
+      "pub_raw": "2026-09-08T20:02:00.180Z",
+      "pub_sort_dt": "2026-09-09 04:02:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "特朗普政府猛烈抨击福特与中国企业的商业交易",
+      "title_cn": "特朗普政府猛烈抨击福特与中国企业的商业交易",
+      "url": "https://reut.rs/3TknHI3",
+      "pub_raw": "2026-09-08T19:29:51.135Z",
+      "pub_sort_dt": "2026-09-09 03:29:51"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "董建华，香港行政长官，1937-2026",
+      "title_cn": "董建华，香港行政长官，1937-2026",
+      "url": "https://www.ft.com/content/a943b766-c4f1-4417-8578-2c9f60ec6c11?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-08T19:29:51.099Z",
+      "pub_sort_dt": "2026-09-09 03:29:51"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国接管香港后的首任领导人董建华去世，享年89岁",
+      "title_cn": "中国占领香港后的首任领导人董建华去世，享年89岁",
+      "url": "https://reut.rs/4iQ1WKr",
+      "pub_raw": "2026-09-08T18:58:28.674Z",
+      "pub_sort_dt": "2026-09-09 02:58:28"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国指责中国人工智能企业“大规模”窃取人工智能技术",
+      "title_cn": "美国指责中国人工智能企业“大规模”窃取人工智能技术",
+      "url": "https://reut.rs/46K8GST",
+      "pub_raw": "2026-09-08T18:42:16.549Z",
+      "pub_sort_dt": "2026-09-09 02:42:16"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国为银行提供的540亿美元资本增资远未达到预期",
+      "title_cn": "中国为银行提供的540亿美元资本增资远未达到预期",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/08/chinas-54bn-capital-boost-for-banks-falls-far-short",
+      "pub_raw": "2026-09-08T16:33:57.266Z",
+      "pub_sort_dt": "2026-09-09 00:33:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "澳大利亚巴特拉事件引发对“中国式恶性循环”的担忧",
+      "title_cn": "澳大利亚巴特拉事件引发对“中国式恶性循环”的担忧",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-08/australia-s-bathla-collapse-raises-fears-of-a-china-style-spiral",
+      "pub_raw": "2026-09-08T16:01:49.625Z",
+      "pub_sort_dt": "2026-09-09 00:01:49"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国国家主席习近平告诉英国的伯纳姆，双方的共同利益多于分歧",
+      "title_cn": "中国国家主席习近平告诉英国的伯纳姆，两国的共同利益已经结束",
+      "url": "https://reut.rs/4xbnYec",
+      "pub_raw": "2026-09-08T16:01:49.486Z",
+      "pub_sort_dt": "2026-09-09 00:01:49"
     },
     {
       "source": "Bloomberg",
@@ -421,78 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-hits-japan-with-anti-dumping-measures-on-chip-chemical",
       "pub_raw": "2026-09-08T06:17:42.819Z",
       "pub_sort_dt": "2026-09-08 14:17:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "达契亚将把热门车型“Spring”电动汽车从中国带回欧洲",
-      "title_cn": "达契亚将把热门男友“Spring”电动汽车从中国带回欧洲",
-      "url": "https://reut.rs/4qYiXEv",
-      "pub_raw": "2026-09-08T06:17:42.709Z",
-      "pub_sort_dt": "2026-09-08 14:17:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "前中国人民银行官员称，熊猫债券可助力能源转型融资",
-      "title_cn": "前中国人民银行官员称，一笔债券可支持能源融资",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/panda-bonds-can-help-fund-energy-transition-ex-pboc-official-says",
-      "pub_raw": "2026-09-08T05:13:50.377Z",
-      "pub_sort_dt": "2026-09-08 13:13:50"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "人工智能助推中国出口增长，贸易顺差逼近8060亿美元",
-      "title_cn": "人工智能助推中国出口增长，贸易顺差逼近8060亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
-      "pub_raw": "2026-09-08T04:57:57.855Z",
-      "pub_sort_dt": "2026-09-08 12:57:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Longsys在香港上市首日股价下跌，募资9.03亿美元",
-      "title_cn": "江波龙在香港上市首日股价下跌，募资9.03亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
-      "pub_raw": "2026-09-08T04:26:53.289Z",
-      "pub_sort_dt": "2026-09-08 12:26:53"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着炼油企业多元化采购，中国原油进口量持续增长",
-      "title_cn": "随着炼油企业信心十足采购，中国原油进口量持续增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-s-crude-imports-strengthen-as-refiners-diversify-supply",
-      "pub_raw": "2026-09-08T03:40:03.811Z",
-      "pub_sort_dt": "2026-09-08 11:40:03"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "得益于人工智能基础设施建设的推动，中国8月份出口猛增25%",
-      "title_cn": "得益于人工智能基础设施建设的推动，中国8月份出口猛增25%",
-      "url": "https://www.ft.com/content/56bcc2fb-99eb-4ad9-af67-101c8d0382cb?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-08T03:23:52.264Z",
-      "pub_sort_dt": "2026-09-08 11:23:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "据称印尼Merdeka Battery正考虑在香港出售股份",
-      "title_cn": "演讲对话Merdeka Battery正考虑在香港出售股份",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/indonesia-s-merdeka-battery-is-said-to-consider-hk-share-sale",
-      "pub_raw": "2026-09-08T03:07:53.159Z",
-      "pub_sort_dt": "2026-09-08 11:07:53"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "华为引领中国自主研发先进芯片的进程",
-      "title_cn": "华为引领中国自主研发先进芯片的进程",
-      "url": "https://www.ft.com/content/36333a53-4063-4aad-8df9-8d2f9d0048a3?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-08T03:07:53.082Z",
-      "pub_sort_dt": "2026-09-08 11:07:53"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国要求钢铁企业暂缓采购力拓的铁矿石",
-      "title_cn": "中国要求钢铁企业暂缓进口铁矿石",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-tells-steel-mills-to-hold-off-on-buying-rio-tinto-s-ore",
-      "pub_raw": "2026-09-08T02:36:09.693Z",
-      "pub_sort_dt": "2026-09-08 10:36:09"
     }
   ]
 }
