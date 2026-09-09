@@ -1,15 +1,47 @@
 {
-  "update_cst": "2026-09-09 12:01:08 北京时间",
+  "update_cst": "2026-09-09 15:01:11 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
     "Bloomberg": 10,
     "Financial Times": 2,
-    "Wall Street Journal": 2,
-    "Reuters": 5
+    "Wall Street Journal": 1,
+    "Reuters": 6
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "50年过去了，毛泽东和文化大革命仍给中国投下长长的阴影 - Reuters",
+      "title_cn": "50年过去了，毛泽东和文化大革命仍给中国投下长长的阴影 - 路透社",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxQMlBTbF9DRW05WUVNSkg2MmJJclhIbEg0dFEtUDB4UDVMX3BCZFhGU0tuRXdPbHZCMXA2WTFiZUE2SGdGZzE1ZE9Wei1qblREbE85QTlNWnRJdGw2SFpNM2RMLXh6VUdCLVV6VGxocHlQTnZCZE1ENGROQTBOUWktUVVaUEwwSHZjYXdQdzl5T0hxNFRCRjk3bWN3X0hsdnBSdHhEU3haTjZrS1VU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T04:35:00.000Z",
+      "pub_sort_dt": "2026-09-09 12:35:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "全球最重要的双边关系？习近平与莫迪致力于为28亿人民重建双边关系 - Financial Times",
+      "title_cn": "全球最重要的双边关系？习近平与莫迪致力于打造28亿人民双边关系 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOR3JtaTlZbTk3bjBRSEt4R1pCaW42ZFFqQUI4YzVuazlNSWNzbUxyYmdWWVU5eHJLQ1FfOGVYVTlkdGd3UDJDUVhUS09FUFZrSlBBXzEwTDYzZ0Uyd1RONWZZX0wwQk05eGc4Zmd1X1VZdWp1VkNyQUxfY2hGN01EYmZWZHo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T04:02:03.000Z",
+      "pub_sort_dt": "2026-09-09 12:02:03"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "为什么中国的军官队伍如此庞大？ - Foreign Policy",
+      "title_cn": "为什么中国的军官队伍如此庞大？ - 外交政策",
+      "url": "https://news.google.com/read/CBMif0FVX3lxTE1lTU9yX0FkX1FFTGJ3RDQxMS1lakUyR2RRSXk1UzJleVU5RGoxMlJva1FhODNqa0NaOXprdjNKTHNhMUVXVmxyaWhERkxWdnktejI0MWVhNHNCOGt0RHM3OXJfMkwxREhDMmFDVG4yNFNMeWNwM1Ftc08xTVhtbzg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T03:40:57.000Z",
+      "pub_sort_dt": "2026-09-09 11:40:57"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "香港首位后殖民时期领导人董建华逝世，享年89岁 - BBC",
+      "title_cn": "香港后殖民统治领导人董建华去世，享年89岁 - BBC",
+      "url": "https://news.google.com/read/CBMiWkFVX3lxTE1OUEpGNE9YZWYzVldkeGFqWmVVblZyM3Q4TW1IdzJYTXdNWGo5cV9JdkFvLV9ocVMyX1ctYzdac1haM1ViZnA3dTdKMnZYNG5tSEhCdmpOQU5YUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T03:09:59.000Z",
+      "pub_sort_dt": "2026-09-09 11:09:59"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国8月份消费者物价指数和批发物价指数回升 - CNBC",
@@ -57,43 +89,59 @@
       "url": "https://news.google.com/read/CBMiuAFBVV95cUxPVUxsTGJWZ0pWNzFIUEtVdnVmTjVNMmU5ei1VUW52cFJ5b1plbEY5a2xidEllRFR3NXBkdlpHeTFmR1NyNVJ2Y19oSElYd3RrTXhfQVJtZ3JvbEg3TTBYUG1wSFdpY3RZaXJaSk9EdGstZWlpcXJQY0lVdnZYanhkTVNwVzN3R0wwQmVvRDZZMHNwcVhLbG44SXFsZkhBekcxdl85U0dUVXVkVnpVMlBmcXNWS19HX0sz?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-08T22:04:00.000Z",
       "pub_sort_dt": "2026-09-09 06:04:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "观点 中国在关键矿产问题上操之过急 - WSJ",
-      "title_cn": "观点中国在关键矿产问题上操之过急 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxPOHpKQlJqM0ZWOWdfWGZ6NG1EaDM0LWtyTUk2SzlOVmozeXV4dVE4dENCelNNdFNjZHJyYThWaElVTmF6WVNZWTRYQ0MzTURYV0JlT2Vzd3JNNXRsWlJXYTh1NHNZODZDXzBiSURsVXcxb3lHZ3BQVXF1WXlNUk1LSlpYdFN2M2ZtbVpz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T20:58:11.000Z",
-      "pub_sort_dt": "2026-09-09 04:58:11"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "特朗普政府对福特与中国的关系表示“深切关切” - CNBC",
-      "title_cn": "特朗普政府对福特与中国的关系表示“深切关注” - CNBC",
-      "url": "https://news.google.com/read/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NNIBdEFVX3lxTE1BYzFIa1p4MnpkQV9KR3c0SUNlbDkyRExQRjlRd2M0bS0zREJ3SEgxcnhvLXd6bEdYaFozbVQ0LXRhZjdIWHQ3ZUtSS0N0SGdmcHFQTkc2Y2d3S0puRkRCdGpwalphQ1RJVjJHRElHdGl3SGI4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T20:15:28.000Z",
-      "pub_sort_dt": "2026-09-09 04:15:28"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "马可·鲁比奥抵达哥伦比亚，议程包括与中国的关系及贸易协议 - South China Morning Post",
-      "title_cn": "马可·鲁比奥古巴，包括与中国的关系及贸易协议 - 南华早报",
-      "url": "https://news.google.com/read/CBMi0wFBVV95cUxNYUhoVi1BVXlKWmlFT0F0X1d5dHFRdllqcUZtUjBYNEpVaktPd201Tm5DY2JRdjBVMF9LV0tmcmo1UHBoUEp0dWc4eXg0VFQ4TjVUZmpNNUNGSVFNcFF0SnJxaGVndm9qZnZzM0N0Y3ZyVWh0UXo1djNycGJtYWx6UW55RDNaOC1xWGVFVzJVMDFVSFp2TjlZc2E0aFFYRVNiSDdqbkxDSzU2eTFMSUU4eWJvMll3UGFpMkotemtZaEJFME9IRFZBYW5wb0FCQjdqNHUw0gHTAUFVX3lxTE4wcWNySEh1Zi1mWGp0T2Z4ZGFpTmVDQlJFdG5jSzFlMjZ4WFozTDctZmJWc1ktUmtfQ01kdG9xbzdxSWFCYWRiZWFrZmE1MERYTW1CMmNCcmJSbDNZcFJlMzY0clhieks0LS0xbU1PMWV4NUlteXZhb3J4V3phb0tvc2VFS0I5WF9MSUtVZFFfdWFfYlpDUlVTS2RzbUJybDMyX004MU95bzB4bUhlTEI2Wk9NMWhGSGJqMXFmLXU4eWZJOUVnVVN0cUFqd0EtTkY4ZTg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T19:53:40.000Z",
-      "pub_sort_dt": "2026-09-09 03:53:40"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "达菲就福特与中国的关系向其发出警告，并指出存在安全隐患 - Fox Business",
-      "title_cn": "达菲就福特与中国的关系向其发出警告，并指出存在安全隐患 - Fox Business",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxQM2RtcHlGVHowNm85NjBCQ3lfX2ZSMWlTVmc4azFFbDNBV3JVamljdG1ZRV9JMkh5YXFldl95VWxlaVFnWWUxbFl5blJ4YkMydzg4alhNbmItUnhrd184ckpLU1pHN2IwX2gwaXRlRVdNZ3hYZVBJWjV0VzI2UFlBekx3QXB4NFhnZHhhSnBtY3NFZTBFZ3QzcGNNeFd6SVHSAaQBQVVfeXFMTzhCeWx5TDZhMXllamJVb25CRkF4TnYtTnBsNU9jMjIyc3VQMkg0VmtYSk5KMUJ5ci03LVBiWnVWS0lLdUdqOHp4TXRfMkI0U29kLWhtZTFOejlYamxQdmdKTE1RMXBWT0VnVmpaX0wtR0l0T0RTUkxvX3ZmZ2ZyQm1FeW5DV2tWdERyNWZaelloREVlVEtoaTdCa2xyYjNybFhVN3M?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T19:50:00.000Z",
-      "pub_sort_dt": "2026-09-09 03:50:00"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "中国锂生产商呼吁在价格受影响后改善数据质量",
+      "title_cn": "中国锂生产商呼吁价格上涨后改善数据质量",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-lithium-producers-call-for-better-data-after-price-impact",
+      "pub_raw": "2026-09-09T06:21:53.451Z",
+      "pub_sort_dt": "2026-09-09 14:21:53"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "50年过去了，毛泽东和文化大革命仍给中国蒙上了一层阴影",
+      "title_cn": "50年过去了，毛泽东和文化大革命仍给中国蒙上了一层阴影",
+      "url": "https://reut.rs/4A4oMUX",
+      "pub_raw": "2026-09-09T06:21:53.319Z",
+      "pub_sort_dt": "2026-09-09 14:21:53"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国由人工智能驱动的IPO热潮为散户投资者带来六位数的意外之财",
+      "title_cn": "中国由人工智能驱动的IPO热潮为散户投资者带来六次下跌的意外之财",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-s-ai-fueled-ipo-boom-delivers-six-figure-windfalls-to-retail-investors",
+      "pub_raw": "2026-09-09T05:50:30.578Z",
+      "pub_sort_dt": "2026-09-09 13:50:30"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国炼油厂可能下调运行率，这对原油进口需求构成打击",
+      "title_cn": "中国炼油厂可能下降运行速度，这对原油进口需求构成打击",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-s-teapots-may-cut-run-rates-in-blow-to-crude-import-demand",
+      "pub_raw": "2026-09-09T04:15:10.114Z",
+      "pub_sort_dt": "2026-09-09 12:15:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国事实上的驻台大使称，围绕台湾的冲突将带来灾难性后果",
+      "title_cn": "美国驻台大使称，围绕台湾的冲突将带来灾难性后果",
+      "url": "https://reut.rs/4xGm7z5",
+      "pub_raw": "2026-09-09T04:15:10.016Z",
+      "pub_sort_dt": "2026-09-09 12:15:10"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "“有点羞耻心吧”：菲律宾因备忘录失误抨击中国",
+      "title_cn": "“有点羞耻心吧”：预防因失误击中中国",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/-have-some-shame-philippine-defense-chief-slams-china-on-stage",
+      "pub_raw": "2026-09-09T03:59:42.655Z",
+      "pub_sort_dt": "2026-09-09 11:59:42"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "受油价飙升和人工智能热潮推高物价影响，中国通胀再度抬头",
       "title_cn": "受人工智能热潮推高物价影响，中国奢侈品再度崛起",
       "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-consumer-producer-price-pressures-revived-by-energy-spike",
@@ -167,7 +215,7 @@
     {
       "source": "Reuters",
       "title_en": "中国国家主席习近平告诉英国的伯纳姆，双方的共同利益多于分歧",
-      "title_cn": "中国国家主席习近平告诉英国的伯纳姆，两国的共同利益已经结束",
+      "title_cn": "中国国家主席习近平向英国的伯纳姆表示，两国的共同利益已经结束",
       "url": "https://reut.rs/4xbnYec",
       "pub_raw": "2026-09-08T16:01:49.486Z",
       "pub_sort_dt": "2026-09-09 00:01:49"
@@ -203,57 +251,41 @@
       "url": "https://www.ft.com/content/e8273e59-36e9-42a0-a7f0-8df556480c75?syn-25a6b1a6=1",
       "pub_raw": "2026-09-08T10:29:57.034Z",
       "pub_sort_dt": "2026-09-08 18:29:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "台湾通胀率略高于警戒线，央行即将公布利率决议",
-      "title_cn": "台湾通胀率略设警戒线，央行即将公布利率决议",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/taiwan-inflation-sticks-above-alert-level-before-rate-decision",
-      "pub_raw": "2026-09-08T09:25:47.777Z",
-      "pub_sort_dt": "2026-09-08 17:25:47"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "中国经济中万亿美元的亮点：旅游业",
-      "title_cn": "中国经济中万亿美元的亮点：焦点",
-      "url": "https://on.wsj.com/4xdscC2",
-      "pub_raw": "2026-09-08T09:25:47.334Z",
-      "pub_sort_dt": "2026-09-08 17:25:47"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国向汽车制造商施压，要求其加快向供应商付款",
-      "title_cn": "中国向汽车制造商施压，要求其加快向供应商付款",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-turns-screws-on-automakers-to-pay-suppliers-faster",
-      "pub_raw": "2026-09-08T08:55:47.896Z",
-      "pub_sort_dt": "2026-09-08 16:55:47"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国汽车销量下滑24%，比亚迪和特斯拉寻求海外市场喘息之机",
-      "title_cn": "中国汽车销量增长24%，比亚迪和特斯拉寻求海外市场喘息之机",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-s-car-sales-fall-24-as-byd-tesla-seek-reprieve-abroad",
-      "pub_raw": "2026-09-08T08:23:47.700Z",
-      "pub_sort_dt": "2026-09-08 16:23:47"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Gaw Capital 获得一笔由香港瑞生集团提供担保的 5.47 亿美元贷款",
-      "title_cn": "基汇资本获得由香港瑞生集团提供的5.47亿美元贷款",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/gaw-capital-gets-547-million-loan-backed-by-regent-hong-kong",
-      "pub_raw": "2026-09-08T07:51:59.758Z",
-      "pub_sort_dt": "2026-09-08 15:51:59"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "8月份中国汽车出口激增，而国内销量则持续下滑",
-      "title_cn": "8月份中国汽车出口激增，而国内销量则持续上升",
-      "url": "https://reut.rs/3SVRl6i",
-      "pub_raw": "2026-09-08T06:33:02.763Z",
-      "pub_sort_dt": "2026-09-08 14:33:02"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "50年过去了，毛泽东和文化大革命仍给中国投下长长的阴影 - Reuters",
+      "title_cn": "50年过去了，毛泽东和文化大革命仍给中国投下长长的阴影 - 路透社",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxQMlBTbF9DRW05WUVNSkg2MmJJclhIbEg0dFEtUDB4UDVMX3BCZFhGU0tuRXdPbHZCMXA2WTFiZUE2SGdGZzE1ZE9Wei1qblREbE85QTlNWnRJdGw2SFpNM2RMLXh6VUdCLVV6VGxocHlQTnZCZE1ENGROQTBOUWktUVVaUEwwSHZjYXdQdzl5T0hxNFRCRjk3bWN3X0hsdnBSdHhEU3haTjZrS1VU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T04:35:00.000Z",
+      "pub_sort_dt": "2026-09-09 12:35:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "全球最重要的双边关系？习近平与莫迪致力于为28亿人民重建双边关系 - Financial Times",
+      "title_cn": "全球最重要的双边关系？习近平与莫迪致力于打造28亿人民双边关系 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOR3JtaTlZbTk3bjBRSEt4R1pCaW42ZFFqQUI4YzVuazlNSWNzbUxyYmdWWVU5eHJLQ1FfOGVYVTlkdGd3UDJDUVhUS09FUFZrSlBBXzEwTDYzZ0Uyd1RONWZZX0wwQk05eGc4Zmd1X1VZdWp1VkNyQUxfY2hGN01EYmZWZHo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T04:02:03.000Z",
+      "pub_sort_dt": "2026-09-09 12:02:03"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "为什么中国的军官队伍如此庞大？ - Foreign Policy",
+      "title_cn": "为什么中国的军官队伍如此庞大？ - 外交政策",
+      "url": "https://news.google.com/read/CBMif0FVX3lxTE1lTU9yX0FkX1FFTGJ3RDQxMS1lakUyR2RRSXk1UzJleVU5RGoxMlJva1FhODNqa0NaOXprdjNKTHNhMUVXVmxyaWhERkxWdnktejI0MWVhNHNCOGt0RHM3OXJfMkwxREhDMmFDVG4yNFNMeWNwM1Ftc08xTVhtbzg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T03:40:57.000Z",
+      "pub_sort_dt": "2026-09-09 11:40:57"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "香港首位后殖民时期领导人董建华逝世，享年89岁 - BBC",
+      "title_cn": "香港后殖民统治领导人董建华去世，享年89岁 - BBC",
+      "url": "https://news.google.com/read/CBMiWkFVX3lxTE1OUEpGNE9YZWYzVldkeGFqWmVVblZyM3Q4TW1IdzJYTXdNWGo5cV9JdkFvLV9ocVMyX1ctYzdac1haM1ViZnA3dTdKMnZYNG5tSEhCdmpOQU5YUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T03:09:59.000Z",
+      "pub_sort_dt": "2026-09-09 11:09:59"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国8月份消费者物价指数和批发物价指数回升 - CNBC",
@@ -303,36 +335,52 @@
       "pub_sort_dt": "2026-09-09 06:04:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "观点 中国在关键矿产问题上操之过急 - WSJ",
-      "title_cn": "观点中国在关键矿产问题上操之过急 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxPOHpKQlJqM0ZWOWdfWGZ6NG1EaDM0LWtyTUk2SzlOVmozeXV4dVE4dENCelNNdFNjZHJyYThWaElVTmF6WVNZWTRYQ0MzTURYV0JlT2Vzd3JNNXRsWlJXYTh1NHNZODZDXzBiSURsVXcxb3lHZ3BQVXF1WXlNUk1LSlpYdFN2M2ZtbVpz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T20:58:11.000Z",
-      "pub_sort_dt": "2026-09-09 04:58:11"
+      "source": "Bloomberg",
+      "title_en": "中国锂生产商呼吁在价格受影响后改善数据质量",
+      "title_cn": "中国锂生产商呼吁价格上涨后改善数据质量",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-lithium-producers-call-for-better-data-after-price-impact",
+      "pub_raw": "2026-09-09T06:21:53.451Z",
+      "pub_sort_dt": "2026-09-09 14:21:53"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "特朗普政府对福特与中国的关系表示“深切关切” - CNBC",
-      "title_cn": "特朗普政府对福特与中国的关系表示“深切关注” - CNBC",
-      "url": "https://news.google.com/read/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NNIBdEFVX3lxTE1BYzFIa1p4MnpkQV9KR3c0SUNlbDkyRExQRjlRd2M0bS0zREJ3SEgxcnhvLXd6bEdYaFozbVQ0LXRhZjdIWHQ3ZUtSS0N0SGdmcHFQTkc2Y2d3S0puRkRCdGpwalphQ1RJVjJHRElHdGl3SGI4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T20:15:28.000Z",
-      "pub_sort_dt": "2026-09-09 04:15:28"
+      "source": "Reuters",
+      "title_en": "50年过去了，毛泽东和文化大革命仍给中国蒙上了一层阴影",
+      "title_cn": "50年过去了，毛泽东和文化大革命仍给中国蒙上了一层阴影",
+      "url": "https://reut.rs/4A4oMUX",
+      "pub_raw": "2026-09-09T06:21:53.319Z",
+      "pub_sort_dt": "2026-09-09 14:21:53"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "马可·鲁比奥抵达哥伦比亚，议程包括与中国的关系及贸易协议 - South China Morning Post",
-      "title_cn": "马可·鲁比奥古巴，包括与中国的关系及贸易协议 - 南华早报",
-      "url": "https://news.google.com/read/CBMi0wFBVV95cUxNYUhoVi1BVXlKWmlFT0F0X1d5dHFRdllqcUZtUjBYNEpVaktPd201Tm5DY2JRdjBVMF9LV0tmcmo1UHBoUEp0dWc4eXg0VFQ4TjVUZmpNNUNGSVFNcFF0SnJxaGVndm9qZnZzM0N0Y3ZyVWh0UXo1djNycGJtYWx6UW55RDNaOC1xWGVFVzJVMDFVSFp2TjlZc2E0aFFYRVNiSDdqbkxDSzU2eTFMSUU4eWJvMll3UGFpMkotemtZaEJFME9IRFZBYW5wb0FCQjdqNHUw0gHTAUFVX3lxTE4wcWNySEh1Zi1mWGp0T2Z4ZGFpTmVDQlJFdG5jSzFlMjZ4WFozTDctZmJWc1ktUmtfQ01kdG9xbzdxSWFCYWRiZWFrZmE1MERYTW1CMmNCcmJSbDNZcFJlMzY0clhieks0LS0xbU1PMWV4NUlteXZhb3J4V3phb0tvc2VFS0I5WF9MSUtVZFFfdWFfYlpDUlVTS2RzbUJybDMyX004MU95bzB4bUhlTEI2Wk9NMWhGSGJqMXFmLXU4eWZJOUVnVVN0cUFqd0EtTkY4ZTg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T19:53:40.000Z",
-      "pub_sort_dt": "2026-09-09 03:53:40"
+      "source": "Bloomberg",
+      "title_en": "中国由人工智能驱动的IPO热潮为散户投资者带来六位数的意外之财",
+      "title_cn": "中国由人工智能驱动的IPO热潮为散户投资者带来六次下跌的意外之财",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-s-ai-fueled-ipo-boom-delivers-six-figure-windfalls-to-retail-investors",
+      "pub_raw": "2026-09-09T05:50:30.578Z",
+      "pub_sort_dt": "2026-09-09 13:50:30"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "达菲就福特与中国的关系向其发出警告，并指出存在安全隐患 - Fox Business",
-      "title_cn": "达菲就福特与中国的关系向其发出警告，并指出存在安全隐患 - Fox Business",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxQM2RtcHlGVHowNm85NjBCQ3lfX2ZSMWlTVmc4azFFbDNBV3JVamljdG1ZRV9JMkh5YXFldl95VWxlaVFnWWUxbFl5blJ4YkMydzg4alhNbmItUnhrd184ckpLU1pHN2IwX2gwaXRlRVdNZ3hYZVBJWjV0VzI2UFlBekx3QXB4NFhnZHhhSnBtY3NFZTBFZ3QzcGNNeFd6SVHSAaQBQVVfeXFMTzhCeWx5TDZhMXllamJVb25CRkF4TnYtTnBsNU9jMjIyc3VQMkg0VmtYSk5KMUJ5ci03LVBiWnVWS0lLdUdqOHp4TXRfMkI0U29kLWhtZTFOejlYamxQdmdKTE1RMXBWT0VnVmpaX0wtR0l0T0RTUkxvX3ZmZ2ZyQm1FeW5DV2tWdERyNWZaelloREVlVEtoaTdCa2xyYjNybFhVN3M?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T19:50:00.000Z",
-      "pub_sort_dt": "2026-09-09 03:50:00"
+      "source": "Bloomberg",
+      "title_en": "中国炼油厂可能下调运行率，这对原油进口需求构成打击",
+      "title_cn": "中国炼油厂可能下降运行速度，这对原油进口需求构成打击",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-s-teapots-may-cut-run-rates-in-blow-to-crude-import-demand",
+      "pub_raw": "2026-09-09T04:15:10.114Z",
+      "pub_sort_dt": "2026-09-09 12:15:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国事实上的驻台大使称，围绕台湾的冲突将带来灾难性后果",
+      "title_cn": "美国驻台大使称，围绕台湾的冲突将带来灾难性后果",
+      "url": "https://reut.rs/4xGm7z5",
+      "pub_raw": "2026-09-09T04:15:10.016Z",
+      "pub_sort_dt": "2026-09-09 12:15:10"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "“有点羞耻心吧”：菲律宾因备忘录失误抨击中国",
+      "title_cn": "“有点羞耻心吧”：预防因失误击中中国",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/-have-some-shame-philippine-defense-chief-slams-china-on-stage",
+      "pub_raw": "2026-09-09T03:59:42.655Z",
+      "pub_sort_dt": "2026-09-09 11:59:42"
     },
     {
       "source": "Bloomberg",
@@ -409,7 +457,7 @@
     {
       "source": "Reuters",
       "title_en": "中国国家主席习近平告诉英国的伯纳姆，双方的共同利益多于分歧",
-      "title_cn": "中国国家主席习近平告诉英国的伯纳姆，两国的共同利益已经结束",
+      "title_cn": "中国国家主席习近平向英国的伯纳姆表示，两国的共同利益已经结束",
       "url": "https://reut.rs/4xbnYec",
       "pub_raw": "2026-09-08T16:01:49.486Z",
       "pub_sort_dt": "2026-09-09 00:01:49"
@@ -445,54 +493,6 @@
       "url": "https://www.ft.com/content/e8273e59-36e9-42a0-a7f0-8df556480c75?syn-25a6b1a6=1",
       "pub_raw": "2026-09-08T10:29:57.034Z",
       "pub_sort_dt": "2026-09-08 18:29:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "台湾通胀率略高于警戒线，央行即将公布利率决议",
-      "title_cn": "台湾通胀率略设警戒线，央行即将公布利率决议",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/taiwan-inflation-sticks-above-alert-level-before-rate-decision",
-      "pub_raw": "2026-09-08T09:25:47.777Z",
-      "pub_sort_dt": "2026-09-08 17:25:47"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "中国经济中万亿美元的亮点：旅游业",
-      "title_cn": "中国经济中万亿美元的亮点：焦点",
-      "url": "https://on.wsj.com/4xdscC2",
-      "pub_raw": "2026-09-08T09:25:47.334Z",
-      "pub_sort_dt": "2026-09-08 17:25:47"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国向汽车制造商施压，要求其加快向供应商付款",
-      "title_cn": "中国向汽车制造商施压，要求其加快向供应商付款",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-turns-screws-on-automakers-to-pay-suppliers-faster",
-      "pub_raw": "2026-09-08T08:55:47.896Z",
-      "pub_sort_dt": "2026-09-08 16:55:47"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国汽车销量下滑24%，比亚迪和特斯拉寻求海外市场喘息之机",
-      "title_cn": "中国汽车销量增长24%，比亚迪和特斯拉寻求海外市场喘息之机",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-s-car-sales-fall-24-as-byd-tesla-seek-reprieve-abroad",
-      "pub_raw": "2026-09-08T08:23:47.700Z",
-      "pub_sort_dt": "2026-09-08 16:23:47"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Gaw Capital 获得一笔由香港瑞生集团提供担保的 5.47 亿美元贷款",
-      "title_cn": "基汇资本获得由香港瑞生集团提供的5.47亿美元贷款",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/gaw-capital-gets-547-million-loan-backed-by-regent-hong-kong",
-      "pub_raw": "2026-09-08T07:51:59.758Z",
-      "pub_sort_dt": "2026-09-08 15:51:59"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "8月份中国汽车出口激增，而国内销量则持续下滑",
-      "title_cn": "8月份中国汽车出口激增，而国内销量则持续上升",
-      "url": "https://reut.rs/3SVRl6i",
-      "pub_raw": "2026-09-08T06:33:02.763Z",
-      "pub_sort_dt": "2026-09-08 14:33:02"
     }
   ]
 }
