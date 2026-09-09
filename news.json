@@ -1,15 +1,63 @@
 {
-  "update_cst": "2026-09-09 18:01:09 北京时间",
+  "update_cst": "2026-09-09 22:01:07 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 1,
-    "Bloomberg": 10,
+    "The Economist": 0,
+    "Bloomberg": 11,
     "Financial Times": 1,
-    "Wall Street Journal": 1,
-    "Reuters": 7
+    "Wall Street Journal": 2,
+    "Reuters": 6
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "消息人士称，“西伯利亚力量-2”管道谈判因中俄价格纠纷陷入僵局 - South China Morning Post",
+      "title_cn": "消息人士称，“西伯利亚力量-2”管道谈判因中俄价格纠纷陷入僵局 - 南华早报",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxOR0Z1YUhWY3ZtY04tMDdhSzdkWmRfdWJ1X1E1ek9PZTcxYWg4VEJaQjI1azFfMWwwUXZaYU5VVEdtNHZzS3dBcUdDUjI3Ylo0Ql9wSFAyc2Jaa3BWS3h0U3ROZjByOER4TDZvdV9QUjg5OEI2UjRucEs4YWFTYy1NY2pBbS1FYWRENG9xRU03QkxxZ2plc3d4S1U3WjgxZG94UlZHMWs4TVdFS2pMc2pJUTlRYXRyR1QyVWItT1NfNVlNLV96LU5YRkZQQ0lIbW1K0gHQAUFVX3lxTE9RZmxseGNydTBqdEFFdVBPdmduV2V1QWdyQVhnb0U1SUJ2R2xSdzNKNS1PcDZLYUNLRjB3U3kwMjBZcExXRk5xZndCbW1PUjduOThianlXOU1JOUp6b3BzYzhaOThhaG5tRC1xc1g3SGR6OWFra0tBcGhJczlHQzBVMlpNYmV6ZmltMmJKQXBQRm5qcnBsNWNGTHNURjAwczN3SG1mUms4a1hYWHpTR1FLbHRqVlNPRUc0MnhtdFp5MzFBNzFheHZQX1NPRkx3UGk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T11:00:06.000Z",
+      "pub_sort_dt": "2026-09-09 19:00:06"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国巨额贸易顺差正日益带有地缘政治色彩 - Financial Times",
+      "title_cn": "中国巨额贸易顺差正引发地缘政治色彩 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOZkhIdURCZWFSX3JjTF9zTmRTMTVjVXNXLUdvaENPaVpyUHdWU0s0RkQ0R1YweVFNZkg2Z0poYlpkNWhBOHBzRzZDcW5IZ3NxT2dPT2FZbjYxYmZwTjRuUFZGRGJBZE5BdW5YdG1sbEppQUswTEozRlZkcjZPVzNfblZXbmM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T10:00:08.000Z",
+      "pub_sort_dt": "2026-09-09 18:00:08"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "分析公司称，朝鲜与中国的桥梁建设已接近完工 - reuters.com",
+      "title_cn": "分析公司称，朝鲜与中国的大桥建设已接近完工 - reuters.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxNUDJkQ1JsOEZhZ3NsSWtzbFRMMFJ1QTY4RDJjZ3RLOF9HTXZrNkpxREVEQnhmbHRJVXpNSDdETnVfdWt2NEdud1F0OFRyUURFZm1kVFJLVnMxYzlSVHVKcWpyU2tkOUdXZFN6eURaeTVLWW1XMVBwbC1iUUMza1ItU25tUksxcmNrNERvWkRKMHk0RmlsOUU3QXdBY21zLXNNd2RrcGhsbFFGalVjNTYxa2o1S1Q?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T09:55:51.000Z",
+      "pub_sort_dt": "2026-09-09 17:55:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "贝森特警告称，如果中国在人工智能竞赛中胜出，“一切都将失去意义” - Yahoo Finance",
+      "title_cn": "贝森特警告称，如果中国在人工智能竞赛中胜出，“一切都将失去意义” - 雅虎财经",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxNT2NOeUl5Z1lxUU9GWFdOVWtaUWM3bTZYUWFnZmNQMjdNaFJsNFFQZ0liSXQ5azVidm15LXFPRHZJQWgyT05oZjRDWGdkTzdHa1Z3dW9vbVhXRHBFVjgwcTEtQWo3OVZqaEo2ajlpb05ZMjhqdGdwQUhZSGlMS1U3V0tPNGZIbUU3Mm1zMmpmNl9ZdlVnaGEzR1FwUG1STkU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T09:11:14.000Z",
+      "pub_sort_dt": "2026-09-09 17:11:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国是否在窃取美国的人工智能？为何“蒸馏”技术让华盛顿群情激愤 - WSJ",
+      "title_cn": "中国是否在窃取美国的人工智能？为何“升级”技术让华盛顿群情激愤 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMirgFBVV95cUxNbmFMRnNQSEJ1SXZJcVJ0QTlWODFsczktc01hNW9wQnU0M3dERHIxRDJnODVsUVhWblF4cmVWYWpwTUh1OFBPVlZ1emRucnY1djdPTW00ZnFJZHktaFpMRVpDS1hGb1FCUXlEeHBpamsxRzl5NFo1eERuMFpWb1B4alNEVlJiMGIxUURwQnZNbHgxTGxZNWxHZENaMFBrR21XcW11MnZQbDRTNk44YVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T07:47:00.000Z",
+      "pub_sort_dt": "2026-09-09 15:47:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "东南亚对台湾问题的微妙转变 - foreignpolicy.com",
+      "title_cn": "对东南亚问题的微妙转变 -foreignpolicy.com",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNMkd6QkVBMnppTUtGcFRiRXB2cVVhakYwc3NDck1qZkZqeDZvcFk1U3JHZ21ZQVdZdFZvSjlwRVIyNTY0YjFDY3JOdlc3VXpIMnJoeFQ3OS1ROXVwNHRxX2xNMm9IM2pzQWllTHk3bWFWOFFhOFhnYzBsNm9XUE9kVDJicXo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T07:12:06.000Z",
+      "pub_sort_dt": "2026-09-09 15:12:06"
+    },
     {
       "source": "China Buzzing",
       "title_en": "车队指责中国赛事组织方在处理那起起火事故时的行为“严重疏忽” - apnews.com",
@@ -41,59 +89,75 @@
       "url": "https://news.google.com/read/CBMif0FVX3lxTE1lTU9yX0FkX1FFTGJ3RDQxMS1lakUyR2RRSXk1UzJleVU5RGoxMlJva1FhODNqa0NaOXprdjNKTHNhMUVXVmxyaWhERkxWdnktejI0MWVhNHNCOGt0RHM3OXJfMkwxREhDMmFDVG4yNFNMeWNwM1Ftc08xTVhtbzg?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-09T03:40:57.000Z",
       "pub_sort_dt": "2026-09-09 11:40:57"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "香港首位后殖民时期领导人董建华逝世，享年89岁 - BBC",
-      "title_cn": "香港后殖民统治领导人董建华去世，享年89岁 - BBC",
-      "url": "https://news.google.com/read/CBMiWkFVX3lxTE1OUEpGNE9YZWYzVldkeGFqWmVVblZyM3Q4TW1IdzJYTXdNWGo5cV9JdkFvLV9ocVMyX1ctYzdac1haM1ViZnA3dTdKMnZYNG5tSEhCdmpOQU5YUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T03:09:59.000Z",
-      "pub_sort_dt": "2026-09-09 11:09:59"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国8月份消费者物价指数和批发物价指数回升 - CNBC",
-      "title_cn": "中国8月份消费者物价指数和批发物价指数回升 - CNBC",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxNUGtvY1BHU2cwUmFyZXM5dXl2ZGFpWGFjWF9CSFBFRUNIcEFXaXBDblhJZFpRVE5JcUJQQ0dUamRleHZwYTc2MlZNQ2pSOEFPNWlfVTBxaU5NQTc1NkNXdzB4YnFwdHd6Q1hzdExsQnlwdlVrT1RmT2VraXBiSExub3F2d1pXRTV4aDB2dnljYXlrdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T02:06:00.000Z",
-      "pub_sort_dt": "2026-09-09 10:06:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "特朗普政府抨击福特与中国存在关联 - CNN",
-      "title_cn": "特朗普政府峰会与中国存在联系 - CNN",
-      "url": "https://news.google.com/read/CBMiggFBVV95cUxPTERLemdyM1dPQmx3RXlpOFFuS3VLNFdXRnJ0dFZJdG1CNURCc0FVN21FT1pTbnZydnp1SHdZVlBRcWlVYnJmalBMM1VqR0lBZ0VzUGpaUzRsTG5DYUxJdVl2OEJrc1NhMFgwcWZyMVJWdDJnMjlGQmY1ZXRDVU5OT0JR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T01:27:00.000Z",
-      "pub_sort_dt": "2026-09-09 09:27:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "香港回归后曾领导该地区的董建华去世，享年89岁 - The New York Times",
-      "title_cn": "香港回归后曾领导该地区的董建华去世，享年89岁 - 纽约时报",
-      "url": "https://news.google.com/read/CBMieEFVX3lxTE05Z3NoaUpiRlpzX3ZUUXZOZkszd0R6QVZLVUtMU0diQ1I4amJfTDFEQ1o1V0JqcHo3c0Z0X3lSQ2h3UGl3NXQ3NmEzczJUWnByN2RpQy1KWElyNmlpVXA4ZUUzdk1CZ045b2lKMlM0SElqeVlQTGRGWA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T00:25:38.000Z",
-      "pub_sort_dt": "2026-09-09 08:25:38"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中情局副局长称，中国威胁要求开展更广泛的间谍行动 - The New York Times",
-      "title_cn": "中情局副局长称，中国威胁要求开展更广泛的间谍行动 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMigwFBVV95cUxNWkQtWXRwWU56LWgwS0Zxek1CbGo1aGJVc19oQ0RiZjluazRuVHF2MU9pV29fQVJQTzYxbzh1bUpMUUwwUTg2Z2FhNUFBdVc2X0FvSEQyU2FKbTQwRUE4M05zN3B6SkdXUGVreGxtR1BwNkVlTGRESEJBZ2JBLTViUFFPOA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T23:13:07.000Z",
-      "pub_sort_dt": "2026-09-09 07:13:07"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国、俄罗斯在致金正恩的周年贺信中强调了与朝鲜的战略关系 - Reuters",
-      "title_cn": "中国、俄罗斯在致金正恩的周年贺信中强调了与朝鲜的战略关系 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiwgFBVV95cUxOX1VlT0RPd0xIZFozZTZBSEItZzVqTzVjNnBFSGplS3Y0WXhSQ08zc3VTaTdDVWlVMEZKYmNJYU9aNjVaNTFpMlpFdk9XQ1ZFcVFXZUg5SjgwX0M0Q1RSendqR2lxTm5jOGNZZUM5c3BvNDhvX1NYdnptYy1Xa2VtWGNvNXIzR2N5OVFTX21QQWcxT3VOUWhGN0o2RTRHS2NlTUhxc1g0R0ZwVWFBYVRYTVdJWkNlSmlIVl9WRVZ4bVNlQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T22:24:36.000Z",
-      "pub_sort_dt": "2026-09-09 06:24:36"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "欧盟在公共采购领域发起新一轮主权举措，以对抗中国",
+      "title_cn": "欧盟在采购公共领域发起新征程，以对抗中国",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-09/eu-makes-fresh-sovereignty-push-to-counter-china-in-public-procurement",
+      "pub_raw": "2026-09-09T13:13:26.022Z",
+      "pub_sort_dt": "2026-09-09 21:13:26"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "意大利游说团体呼吁对中国汽车及零部件征收80%的欧盟关税",
+      "title_cn": "意大利游说团体呼吁对中国汽车及零部件进口80%的欧盟关税",
+      "url": "https://reut.rs/4h1wOVT",
+      "pub_raw": "2026-09-09T12:10:19.925Z",
+      "pub_sort_dt": "2026-09-09 20:10:19"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "美国安全机构指控六家中国人工智能公司系统性地利用美国人工智能模型来训练其自身系统",
+      "title_cn": "美国安全机构指控六家中国人工智能公司系统性地利用美国人工智能模型来训练其自身系统",
+      "url": "https://on.wsj.com/4gEjDva",
+      "pub_raw": "2026-09-09T12:10:19.693Z",
+      "pub_sort_dt": "2026-09-09 20:10:19"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟针对中国出台“欧洲制造”公共采购规则",
+      "title_cn": "欧盟针对中国生活“欧洲制造”公共采购规则",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/eu-targets-china-with-made-in-europe-public-contract-rules",
+      "pub_raw": "2026-09-09T11:56:21.933Z",
+      "pub_sort_dt": "2026-09-09 19:56:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中石化研究部门称，今年中国石油需求将萎缩",
+      "title_cn": "中石化研究部门称，今年中国石油需求将萎缩",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-oil-demand-to-shrink-this-year-sinopec-research-arm-says",
+      "pub_raw": "2026-09-09T11:08:18.712Z",
+      "pub_sort_dt": "2026-09-09 19:08:18"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "分析公司称，朝鲜与中国的桥梁即将竣工",
+      "title_cn": "分析公司称，朝鲜与中国的大桥即将竣工",
+      "url": "https://reut.rs/4xije6H",
+      "pub_raw": "2026-09-09T10:37:20.182Z",
+      "pub_sort_dt": "2026-09-09 18:37:20"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国巨额贸易顺差正日益带有地缘政治色彩",
+      "title_cn": "中国巨额贸易顺差正引发地缘政治色彩",
+      "url": "https://www.ft.com/content/b397ced1-b9bc-4fe6-8dc7-20f0752e2591?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-09T10:37:20.084Z",
+      "pub_sort_dt": "2026-09-09 18:37:20"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国华为现身布鲁克林，面临一场影响深远的美国刑事审判",
+      "title_cn": "中国华为现身布鲁克林，有望影响美国刑事审判",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-s-huawei-comes-to-brooklyn-for-sweeping-us-criminal-trial",
+      "pub_raw": "2026-09-09T10:21:28.048Z",
+      "pub_sort_dt": "2026-09-09 18:21:28"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "中国华辰能源寻求将债券期限再延长六年",
       "title_cn": "中国华辰能源寻求将债券期限再延长六年",
       "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-s-huachen-energy-seeks-another-six-year-extension-on-bonds",
@@ -151,7 +215,7 @@
     {
       "source": "Bloomberg",
       "title_en": "“有点羞耻心吧”：菲律宾因备忘录失误抨击中国",
-      "title_cn": "“有点羞耻心吧”：预防因失误击垮中国",
+      "title_cn": "“有点羞耻心吧”：预防因失误击中中国",
       "url": "https://www.bloomberg.com/news/articles/2026-09-08/-have-some-shame-philippine-defense-chief-slams-china-on-stage",
       "pub_raw": "2026-09-09T03:59:42.655Z",
       "pub_sort_dt": "2026-09-09 11:59:42"
@@ -187,73 +251,57 @@
       "url": "https://reut.rs/3TknHI3",
       "pub_raw": "2026-09-08T19:29:51.135Z",
       "pub_sort_dt": "2026-09-09 03:29:51"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "董建华，香港行政长官，1937-2026",
-      "title_cn": "董建华，香港行政长官，1937-2026",
-      "url": "https://www.ft.com/content/a943b766-c4f1-4417-8578-2c9f60ec6c11?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-08T19:29:51.099Z",
-      "pub_sort_dt": "2026-09-09 03:29:51"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国接管香港后的首任领导人董建华去世，享年89岁",
-      "title_cn": "中国占领香港后的首任领导人董建华去世，享年89岁",
-      "url": "https://reut.rs/4iQ1WKr",
-      "pub_raw": "2026-09-08T18:58:28.674Z",
-      "pub_sort_dt": "2026-09-09 02:58:28"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国指责中国人工智能企业“大规模”窃取人工智能技术",
-      "title_cn": "美国指责中国人工智能企业“大规模”窃取人工智能技术",
-      "url": "https://reut.rs/46K8GST",
-      "pub_raw": "2026-09-08T18:42:16.549Z",
-      "pub_sort_dt": "2026-09-09 02:42:16"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国为银行提供的540亿美元资本增资远未达到预期",
-      "title_cn": "中国为银行提供的540亿美元资本增资远未达到预期",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/08/chinas-54bn-capital-boost-for-banks-falls-far-short",
-      "pub_raw": "2026-09-08T16:33:57.266Z",
-      "pub_sort_dt": "2026-09-09 00:33:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "澳大利亚巴特拉事件引发对“中国式恶性循环”的担忧",
-      "title_cn": "澳大利亚巴特拉事件引发对“中国式恶性循环”的担忧",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-08/australia-s-bathla-collapse-raises-fears-of-a-china-style-spiral",
-      "pub_raw": "2026-09-08T16:01:49.625Z",
-      "pub_sort_dt": "2026-09-09 00:01:49"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国家主席习近平告诉英国的伯纳姆，双方的共同利益多于分歧",
-      "title_cn": "中国国家主席习近平告诉英国的伯纳姆，两国的共同利益已经结束",
-      "url": "https://reut.rs/4xbnYec",
-      "pub_raw": "2026-09-08T16:01:49.486Z",
-      "pub_sort_dt": "2026-09-09 00:01:49"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "习近平在与伯纳姆通话时敦促英国保护中国投资者",
-      "title_cn": "习近平在与伯纳姆通话时敦促英国保护中国投资者",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/xi-urges-uk-to-protect-chinese-investors-in-call-with-burnham",
-      "pub_raw": "2026-09-08T13:07:17.180Z",
-      "pub_sort_dt": "2026-09-08 21:07:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国的贸易顺差",
-      "title_cn": "中国的贸易顺差",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-08/china-s-trade-surplus",
-      "pub_raw": "2026-09-08T11:34:04.973Z",
-      "pub_sort_dt": "2026-09-08 19:34:04"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "消息人士称，“西伯利亚力量-2”管道谈判因中俄价格纠纷陷入僵局 - South China Morning Post",
+      "title_cn": "消息人士称，“西伯利亚力量-2”管道谈判因中俄价格纠纷陷入僵局 - 南华早报",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxOR0Z1YUhWY3ZtY04tMDdhSzdkWmRfdWJ1X1E1ek9PZTcxYWg4VEJaQjI1azFfMWwwUXZaYU5VVEdtNHZzS3dBcUdDUjI3Ylo0Ql9wSFAyc2Jaa3BWS3h0U3ROZjByOER4TDZvdV9QUjg5OEI2UjRucEs4YWFTYy1NY2pBbS1FYWRENG9xRU03QkxxZ2plc3d4S1U3WjgxZG94UlZHMWs4TVdFS2pMc2pJUTlRYXRyR1QyVWItT1NfNVlNLV96LU5YRkZQQ0lIbW1K0gHQAUFVX3lxTE9RZmxseGNydTBqdEFFdVBPdmduV2V1QWdyQVhnb0U1SUJ2R2xSdzNKNS1PcDZLYUNLRjB3U3kwMjBZcExXRk5xZndCbW1PUjduOThianlXOU1JOUp6b3BzYzhaOThhaG5tRC1xc1g3SGR6OWFra0tBcGhJczlHQzBVMlpNYmV6ZmltMmJKQXBQRm5qcnBsNWNGTHNURjAwczN3SG1mUms4a1hYWHpTR1FLbHRqVlNPRUc0MnhtdFp5MzFBNzFheHZQX1NPRkx3UGk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T11:00:06.000Z",
+      "pub_sort_dt": "2026-09-09 19:00:06"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国巨额贸易顺差正日益带有地缘政治色彩 - Financial Times",
+      "title_cn": "中国巨额贸易顺差正引发地缘政治色彩 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOZkhIdURCZWFSX3JjTF9zTmRTMTVjVXNXLUdvaENPaVpyUHdWU0s0RkQ0R1YweVFNZkg2Z0poYlpkNWhBOHBzRzZDcW5IZ3NxT2dPT2FZbjYxYmZwTjRuUFZGRGJBZE5BdW5YdG1sbEppQUswTEozRlZkcjZPVzNfblZXbmM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T10:00:08.000Z",
+      "pub_sort_dt": "2026-09-09 18:00:08"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "分析公司称，朝鲜与中国的桥梁建设已接近完工 - reuters.com",
+      "title_cn": "分析公司称，朝鲜与中国的大桥建设已接近完工 - reuters.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxNUDJkQ1JsOEZhZ3NsSWtzbFRMMFJ1QTY4RDJjZ3RLOF9HTXZrNkpxREVEQnhmbHRJVXpNSDdETnVfdWt2NEdud1F0OFRyUURFZm1kVFJLVnMxYzlSVHVKcWpyU2tkOUdXZFN6eURaeTVLWW1XMVBwbC1iUUMza1ItU25tUksxcmNrNERvWkRKMHk0RmlsOUU3QXdBY21zLXNNd2RrcGhsbFFGalVjNTYxa2o1S1Q?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T09:55:51.000Z",
+      "pub_sort_dt": "2026-09-09 17:55:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "贝森特警告称，如果中国在人工智能竞赛中胜出，“一切都将失去意义” - Yahoo Finance",
+      "title_cn": "贝森特警告称，如果中国在人工智能竞赛中胜出，“一切都将失去意义” - 雅虎财经",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxNT2NOeUl5Z1lxUU9GWFdOVWtaUWM3bTZYUWFnZmNQMjdNaFJsNFFQZ0liSXQ5azVidm15LXFPRHZJQWgyT05oZjRDWGdkTzdHa1Z3dW9vbVhXRHBFVjgwcTEtQWo3OVZqaEo2ajlpb05ZMjhqdGdwQUhZSGlMS1U3V0tPNGZIbUU3Mm1zMmpmNl9ZdlVnaGEzR1FwUG1STkU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T09:11:14.000Z",
+      "pub_sort_dt": "2026-09-09 17:11:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国是否在窃取美国的人工智能？为何“蒸馏”技术让华盛顿群情激愤 - WSJ",
+      "title_cn": "中国是否在窃取美国的人工智能？为何“升级”技术让华盛顿群情激愤 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMirgFBVV95cUxNbmFMRnNQSEJ1SXZJcVJ0QTlWODFsczktc01hNW9wQnU0M3dERHIxRDJnODVsUVhWblF4cmVWYWpwTUh1OFBPVlZ1emRucnY1djdPTW00ZnFJZHktaFpMRVpDS1hGb1FCUXlEeHBpamsxRzl5NFo1eERuMFpWb1B4alNEVlJiMGIxUURwQnZNbHgxTGxZNWxHZENaMFBrR21XcW11MnZQbDRTNk44YVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T07:47:00.000Z",
+      "pub_sort_dt": "2026-09-09 15:47:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "东南亚对台湾问题的微妙转变 - foreignpolicy.com",
+      "title_cn": "对东南亚问题的微妙转变 -foreignpolicy.com",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNMkd6QkVBMnppTUtGcFRiRXB2cVVhakYwc3NDck1qZkZqeDZvcFk1U3JHZ21ZQVdZdFZvSjlwRVIyNTY0YjFDY3JOdlc3VXpIMnJoeFQ3OS1ROXVwNHRxX2xNMm9IM2pzQWllTHk3bWFWOFFhOFhnYzBsNm9XUE9kVDJicXo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T07:12:06.000Z",
+      "pub_sort_dt": "2026-09-09 15:12:06"
+    },
     {
       "source": "China Buzzing",
       "title_en": "车队指责中国赛事组织方在处理那起起火事故时的行为“严重疏忽” - apnews.com",
@@ -287,52 +335,68 @@
       "pub_sort_dt": "2026-09-09 11:40:57"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "香港首位后殖民时期领导人董建华逝世，享年89岁 - BBC",
-      "title_cn": "香港后殖民统治领导人董建华去世，享年89岁 - BBC",
-      "url": "https://news.google.com/read/CBMiWkFVX3lxTE1OUEpGNE9YZWYzVldkeGFqWmVVblZyM3Q4TW1IdzJYTXdNWGo5cV9JdkFvLV9ocVMyX1ctYzdac1haM1ViZnA3dTdKMnZYNG5tSEhCdmpOQU5YUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T03:09:59.000Z",
-      "pub_sort_dt": "2026-09-09 11:09:59"
+      "source": "Bloomberg",
+      "title_en": "欧盟在公共采购领域发起新一轮主权举措，以对抗中国",
+      "title_cn": "欧盟在采购公共领域发起新征程，以对抗中国",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-09/eu-makes-fresh-sovereignty-push-to-counter-china-in-public-procurement",
+      "pub_raw": "2026-09-09T13:13:26.022Z",
+      "pub_sort_dt": "2026-09-09 21:13:26"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国8月份消费者物价指数和批发物价指数回升 - CNBC",
-      "title_cn": "中国8月份消费者物价指数和批发物价指数回升 - CNBC",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxNUGtvY1BHU2cwUmFyZXM5dXl2ZGFpWGFjWF9CSFBFRUNIcEFXaXBDblhJZFpRVE5JcUJQQ0dUamRleHZwYTc2MlZNQ2pSOEFPNWlfVTBxaU5NQTc1NkNXdzB4YnFwdHd6Q1hzdExsQnlwdlVrT1RmT2VraXBiSExub3F2d1pXRTV4aDB2dnljYXlrdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T02:06:00.000Z",
-      "pub_sort_dt": "2026-09-09 10:06:00"
+      "source": "Reuters",
+      "title_en": "意大利游说团体呼吁对中国汽车及零部件征收80%的欧盟关税",
+      "title_cn": "意大利游说团体呼吁对中国汽车及零部件进口80%的欧盟关税",
+      "url": "https://reut.rs/4h1wOVT",
+      "pub_raw": "2026-09-09T12:10:19.925Z",
+      "pub_sort_dt": "2026-09-09 20:10:19"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "特朗普政府抨击福特与中国存在关联 - CNN",
-      "title_cn": "特朗普政府峰会与中国存在联系 - CNN",
-      "url": "https://news.google.com/read/CBMiggFBVV95cUxPTERLemdyM1dPQmx3RXlpOFFuS3VLNFdXRnJ0dFZJdG1CNURCc0FVN21FT1pTbnZydnp1SHdZVlBRcWlVYnJmalBMM1VqR0lBZ0VzUGpaUzRsTG5DYUxJdVl2OEJrc1NhMFgwcWZyMVJWdDJnMjlGQmY1ZXRDVU5OT0JR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T01:27:00.000Z",
-      "pub_sort_dt": "2026-09-09 09:27:00"
+      "source": "Wall Street Journal",
+      "title_en": "美国安全机构指控六家中国人工智能公司系统性地利用美国人工智能模型来训练其自身系统",
+      "title_cn": "美国安全机构指控六家中国人工智能公司系统性地利用美国人工智能模型来训练其自身系统",
+      "url": "https://on.wsj.com/4gEjDva",
+      "pub_raw": "2026-09-09T12:10:19.693Z",
+      "pub_sort_dt": "2026-09-09 20:10:19"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "香港回归后曾领导该地区的董建华去世，享年89岁 - The New York Times",
-      "title_cn": "香港回归后曾领导该地区的董建华去世，享年89岁 - 纽约时报",
-      "url": "https://news.google.com/read/CBMieEFVX3lxTE05Z3NoaUpiRlpzX3ZUUXZOZkszd0R6QVZLVUtMU0diQ1I4amJfTDFEQ1o1V0JqcHo3c0Z0X3lSQ2h3UGl3NXQ3NmEzczJUWnByN2RpQy1KWElyNmlpVXA4ZUUzdk1CZ045b2lKMlM0SElqeVlQTGRGWA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T00:25:38.000Z",
-      "pub_sort_dt": "2026-09-09 08:25:38"
+      "source": "Bloomberg",
+      "title_en": "欧盟针对中国出台“欧洲制造”公共采购规则",
+      "title_cn": "欧盟针对中国生活“欧洲制造”公共采购规则",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/eu-targets-china-with-made-in-europe-public-contract-rules",
+      "pub_raw": "2026-09-09T11:56:21.933Z",
+      "pub_sort_dt": "2026-09-09 19:56:21"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中情局副局长称，中国威胁要求开展更广泛的间谍行动 - The New York Times",
-      "title_cn": "中情局副局长称，中国威胁要求开展更广泛的间谍行动 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMigwFBVV95cUxNWkQtWXRwWU56LWgwS0Zxek1CbGo1aGJVc19oQ0RiZjluazRuVHF2MU9pV29fQVJQTzYxbzh1bUpMUUwwUTg2Z2FhNUFBdVc2X0FvSEQyU2FKbTQwRUE4M05zN3B6SkdXUGVreGxtR1BwNkVlTGRESEJBZ2JBLTViUFFPOA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T23:13:07.000Z",
-      "pub_sort_dt": "2026-09-09 07:13:07"
+      "source": "Bloomberg",
+      "title_en": "中石化研究部门称，今年中国石油需求将萎缩",
+      "title_cn": "中石化研究部门称，今年中国石油需求将萎缩",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-oil-demand-to-shrink-this-year-sinopec-research-arm-says",
+      "pub_raw": "2026-09-09T11:08:18.712Z",
+      "pub_sort_dt": "2026-09-09 19:08:18"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国、俄罗斯在致金正恩的周年贺信中强调了与朝鲜的战略关系 - Reuters",
-      "title_cn": "中国、俄罗斯在致金正恩的周年贺信中强调了与朝鲜的战略关系 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiwgFBVV95cUxOX1VlT0RPd0xIZFozZTZBSEItZzVqTzVjNnBFSGplS3Y0WXhSQ08zc3VTaTdDVWlVMEZKYmNJYU9aNjVaNTFpMlpFdk9XQ1ZFcVFXZUg5SjgwX0M0Q1RSendqR2lxTm5jOGNZZUM5c3BvNDhvX1NYdnptYy1Xa2VtWGNvNXIzR2N5OVFTX21QQWcxT3VOUWhGN0o2RTRHS2NlTUhxc1g0R0ZwVWFBYVRYTVdJWkNlSmlIVl9WRVZ4bVNlQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T22:24:36.000Z",
-      "pub_sort_dt": "2026-09-09 06:24:36"
+      "source": "Reuters",
+      "title_en": "分析公司称，朝鲜与中国的桥梁即将竣工",
+      "title_cn": "分析公司称，朝鲜与中国的大桥即将竣工",
+      "url": "https://reut.rs/4xije6H",
+      "pub_raw": "2026-09-09T10:37:20.182Z",
+      "pub_sort_dt": "2026-09-09 18:37:20"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国巨额贸易顺差正日益带有地缘政治色彩",
+      "title_cn": "中国巨额贸易顺差正引发地缘政治色彩",
+      "url": "https://www.ft.com/content/b397ced1-b9bc-4fe6-8dc7-20f0752e2591?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-09T10:37:20.084Z",
+      "pub_sort_dt": "2026-09-09 18:37:20"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国华为现身布鲁克林，面临一场影响深远的美国刑事审判",
+      "title_cn": "中国华为现身布鲁克林，有望影响美国刑事审判",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-s-huawei-comes-to-brooklyn-for-sweeping-us-criminal-trial",
+      "pub_raw": "2026-09-09T10:21:28.048Z",
+      "pub_sort_dt": "2026-09-09 18:21:28"
     },
     {
       "source": "Bloomberg",
@@ -393,7 +457,7 @@
     {
       "source": "Bloomberg",
       "title_en": "“有点羞耻心吧”：菲律宾因备忘录失误抨击中国",
-      "title_cn": "“有点羞耻心吧”：预防因失误击垮中国",
+      "title_cn": "“有点羞耻心吧”：预防因失误击中中国",
       "url": "https://www.bloomberg.com/news/articles/2026-09-08/-have-some-shame-philippine-defense-chief-slams-china-on-stage",
       "pub_raw": "2026-09-09T03:59:42.655Z",
       "pub_sort_dt": "2026-09-09 11:59:42"
@@ -429,70 +493,6 @@
       "url": "https://reut.rs/3TknHI3",
       "pub_raw": "2026-09-08T19:29:51.135Z",
       "pub_sort_dt": "2026-09-09 03:29:51"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "董建华，香港行政长官，1937-2026",
-      "title_cn": "董建华，香港行政长官，1937-2026",
-      "url": "https://www.ft.com/content/a943b766-c4f1-4417-8578-2c9f60ec6c11?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-08T19:29:51.099Z",
-      "pub_sort_dt": "2026-09-09 03:29:51"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国接管香港后的首任领导人董建华去世，享年89岁",
-      "title_cn": "中国占领香港后的首任领导人董建华去世，享年89岁",
-      "url": "https://reut.rs/4iQ1WKr",
-      "pub_raw": "2026-09-08T18:58:28.674Z",
-      "pub_sort_dt": "2026-09-09 02:58:28"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国指责中国人工智能企业“大规模”窃取人工智能技术",
-      "title_cn": "美国指责中国人工智能企业“大规模”窃取人工智能技术",
-      "url": "https://reut.rs/46K8GST",
-      "pub_raw": "2026-09-08T18:42:16.549Z",
-      "pub_sort_dt": "2026-09-09 02:42:16"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国为银行提供的540亿美元资本增资远未达到预期",
-      "title_cn": "中国为银行提供的540亿美元资本增资远未达到预期",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/08/chinas-54bn-capital-boost-for-banks-falls-far-short",
-      "pub_raw": "2026-09-08T16:33:57.266Z",
-      "pub_sort_dt": "2026-09-09 00:33:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "澳大利亚巴特拉事件引发对“中国式恶性循环”的担忧",
-      "title_cn": "澳大利亚巴特拉事件引发对“中国式恶性循环”的担忧",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-08/australia-s-bathla-collapse-raises-fears-of-a-china-style-spiral",
-      "pub_raw": "2026-09-08T16:01:49.625Z",
-      "pub_sort_dt": "2026-09-09 00:01:49"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国家主席习近平告诉英国的伯纳姆，双方的共同利益多于分歧",
-      "title_cn": "中国国家主席习近平告诉英国的伯纳姆，两国的共同利益已经结束",
-      "url": "https://reut.rs/4xbnYec",
-      "pub_raw": "2026-09-08T16:01:49.486Z",
-      "pub_sort_dt": "2026-09-09 00:01:49"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "习近平在与伯纳姆通话时敦促英国保护中国投资者",
-      "title_cn": "习近平在与伯纳姆通话时敦促英国保护中国投资者",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/xi-urges-uk-to-protect-chinese-investors-in-call-with-burnham",
-      "pub_raw": "2026-09-08T13:07:17.180Z",
-      "pub_sort_dt": "2026-09-08 21:07:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国的贸易顺差",
-      "title_cn": "中国的贸易顺差",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-08/china-s-trade-surplus",
-      "pub_raw": "2026-09-08T11:34:04.973Z",
-      "pub_sort_dt": "2026-09-08 19:34:04"
     }
   ]
 }
