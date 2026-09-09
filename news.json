@@ -1,15 +1,23 @@
 {
-  "update_cst": "2026-09-09 15:01:11 北京时间",
+  "update_cst": "2026-09-09 18:01:09 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
     "Bloomberg": 10,
-    "Financial Times": 2,
+    "Financial Times": 1,
     "Wall Street Journal": 1,
-    "Reuters": 6
+    "Reuters": 7
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "车队指责中国赛事组织方在处理那起起火事故时的行为“严重疏忽” - apnews.com",
+      "title_cn": "车队责任中国赛事组织方在处理起起火灾事故时的行为“严重疏忽” - apnews.com",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxNUHUzdFV5ZExqMnVkeUNySGQ5WnpITXRyTk84a0xscE9RcjlWX1Uwd0RQR3dkdmlDQTVLUzMtTEE3NTFCQnNoNUhUbG1Bc0Z1NTlib3NieUp6ZGJ6dFFocUNObnpvdVhBLWVldnpHNlFxX0dsVURvVWNVV0Myc2JGZ3hRZ2ZnVzdMYWI0RFg2bHNORVdieG9nR0tMZkdNQzQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T04:50:00.000Z",
+      "pub_sort_dt": "2026-09-09 12:50:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "50年过去了，毛泽东和文化大革命仍给中国投下长长的阴影 - Reuters",
@@ -77,25 +85,33 @@
     {
       "source": "China Buzzing",
       "title_en": "中国、俄罗斯在致金正恩的周年贺信中强调了与朝鲜的战略关系 - Reuters",
-      "title_cn": "中国、俄罗斯在致金正恩周年贺信中强调与朝鲜的战略关系 - 路透中文网",
+      "title_cn": "中国、俄罗斯在致金正恩的周年贺信中强调了与朝鲜的战略关系 - 路透中文网",
       "url": "https://news.google.com/read/CBMiwgFBVV95cUxOX1VlT0RPd0xIZFozZTZBSEItZzVqTzVjNnBFSGplS3Y0WXhSQ08zc3VTaTdDVWlVMEZKYmNJYU9aNjVaNTFpMlpFdk9XQ1ZFcVFXZUg5SjgwX0M0Q1RSendqR2lxTm5jOGNZZUM5c3BvNDhvX1NYdnptYy1Xa2VtWGNvNXIzR2N5OVFTX21QQWcxT3VOUWhGN0o2RTRHS2NlTUhxc1g0R0ZwVWFBYVRYTVdJWkNlSmlIVl9WRVZ4bVNlQQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-08T22:24:36.000Z",
       "pub_sort_dt": "2026-09-09 06:24:36"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国相关机构称，中国顶尖的人工智能企业系统性地抄袭了美国的人工智能模型 - NBC News",
-      "title_cn": "美国相关机构称，中国顶尖人工智能企业系统性抄袭美国人工智能模型 - NBC News",
-      "url": "https://news.google.com/read/CBMiuAFBVV95cUxPVUxsTGJWZ0pWNzFIUEtVdnVmTjVNMmU5ei1VUW52cFJ5b1plbEY5a2xidEllRFR3NXBkdlpHeTFmR1NyNVJ2Y19oSElYd3RrTXhfQVJtZ3JvbEg3TTBYUG1wSFdpY3RZaXJaSk9EdGstZWlpcXJQY0lVdnZYanhkTVNwVzN3R0wwQmVvRDZZMHNwcVhLbG44SXFsZkhBekcxdl85U0dUVXVkVnpVMlBmcXNWS19HX0sz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T22:04:00.000Z",
-      "pub_sort_dt": "2026-09-09 06:04:00"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "中国华辰能源寻求将债券期限再延长六年",
+      "title_cn": "中国华辰能源寻求将债券期限再延长六年",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-s-huachen-energy-seeks-another-six-year-extension-on-bonds",
+      "pub_raw": "2026-09-09T07:25:19.205Z",
+      "pub_sort_dt": "2026-09-09 15:25:19"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中石化研究报告称，2026年中国石油需求将下降8.9%",
+      "title_cn": "中石化研究报告称，2026年中国石油需求将下降8.9%",
+      "url": "https://reut.rs/4xaMc8B",
+      "pub_raw": "2026-09-09T07:10:04.010Z",
+      "pub_sort_dt": "2026-09-09 15:10:04"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "中国锂生产商呼吁在价格受影响后改善数据质量",
-      "title_cn": "中国锂生产商呼吁价格上涨后改善数据质量",
+      "title_cn": "中国锂生产商呼吁价格上涨后提高数据质量",
       "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-lithium-producers-call-for-better-data-after-price-impact",
       "pub_raw": "2026-09-09T06:21:53.451Z",
       "pub_sort_dt": "2026-09-09 14:21:53"
@@ -135,7 +151,7 @@
     {
       "source": "Bloomberg",
       "title_en": "“有点羞耻心吧”：菲律宾因备忘录失误抨击中国",
-      "title_cn": "“有点羞耻心吧”：预防因失误击中中国",
+      "title_cn": "“有点羞耻心吧”：预防因失误击垮中国",
       "url": "https://www.bloomberg.com/news/articles/2026-09-08/-have-some-shame-philippine-defense-chief-slams-china-on-stage",
       "pub_raw": "2026-09-09T03:59:42.655Z",
       "pub_sort_dt": "2026-09-09 11:59:42"
@@ -143,7 +159,7 @@
     {
       "source": "Bloomberg",
       "title_en": "受油价飙升和人工智能热潮推高物价影响，中国通胀再度抬头",
-      "title_cn": "受人工智能热潮推高物价影响，中国奢侈品再度崛起",
+      "title_cn": "受人工智能热潮推高物价影响，中国疯狂再度​​崛起",
       "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-consumer-producer-price-pressures-revived-by-energy-spike",
       "pub_raw": "2026-09-09T02:25:37.327Z",
       "pub_sort_dt": "2026-09-09 10:25:37"
@@ -215,7 +231,7 @@
     {
       "source": "Reuters",
       "title_en": "中国国家主席习近平告诉英国的伯纳姆，双方的共同利益多于分歧",
-      "title_cn": "中国国家主席习近平向英国的伯纳姆表示，两国的共同利益已经结束",
+      "title_cn": "中国国家主席习近平告诉英国的伯纳姆，两国的共同利益已经结束",
       "url": "https://reut.rs/4xbnYec",
       "pub_raw": "2026-09-08T16:01:49.486Z",
       "pub_sort_dt": "2026-09-09 00:01:49"
@@ -235,25 +251,17 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-08/china-s-trade-surplus",
       "pub_raw": "2026-09-08T11:34:04.973Z",
       "pub_sort_dt": "2026-09-08 19:34:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国的人工智能计算热潮正向大城市以外的地区迅速蔓延",
-      "title_cn": "中国的人工智能计算热潮正向周边地区迅速扩散",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-08/china-s-ai-computing-boom-is-moving-far-beyond-its-biggest-cities",
-      "pub_raw": "2026-09-08T11:17:46.526Z",
-      "pub_sort_dt": "2026-09-08 19:17:46"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "欧洲在太空竞赛中奋力追赶美国和中国",
-      "title_cn": "欧洲在太空竞赛中奋力追赶美国和中国",
-      "url": "https://www.ft.com/content/e8273e59-36e9-42a0-a7f0-8df556480c75?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-08T10:29:57.034Z",
-      "pub_sort_dt": "2026-09-08 18:29:57"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "车队指责中国赛事组织方在处理那起起火事故时的行为“严重疏忽” - apnews.com",
+      "title_cn": "车队责任中国赛事组织方在处理起起火灾事故时的行为“严重疏忽” - apnews.com",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxNUHUzdFV5ZExqMnVkeUNySGQ5WnpITXRyTk84a0xscE9RcjlWX1Uwd0RQR3dkdmlDQTVLUzMtTEE3NTFCQnNoNUhUbG1Bc0Z1NTlib3NieUp6ZGJ6dFFocUNObnpvdVhBLWVldnpHNlFxX0dsVURvVWNVV0Myc2JGZ3hRZ2ZnVzdMYWI0RFg2bHNORVdieG9nR0tMZkdNQzQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T04:50:00.000Z",
+      "pub_sort_dt": "2026-09-09 12:50:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "50年过去了，毛泽东和文化大革命仍给中国投下长长的阴影 - Reuters",
@@ -321,23 +329,31 @@
     {
       "source": "China Buzzing",
       "title_en": "中国、俄罗斯在致金正恩的周年贺信中强调了与朝鲜的战略关系 - Reuters",
-      "title_cn": "中国、俄罗斯在致金正恩周年贺信中强调与朝鲜的战略关系 - 路透中文网",
+      "title_cn": "中国、俄罗斯在致金正恩的周年贺信中强调了与朝鲜的战略关系 - 路透中文网",
       "url": "https://news.google.com/read/CBMiwgFBVV95cUxOX1VlT0RPd0xIZFozZTZBSEItZzVqTzVjNnBFSGplS3Y0WXhSQ08zc3VTaTdDVWlVMEZKYmNJYU9aNjVaNTFpMlpFdk9XQ1ZFcVFXZUg5SjgwX0M0Q1RSendqR2lxTm5jOGNZZUM5c3BvNDhvX1NYdnptYy1Xa2VtWGNvNXIzR2N5OVFTX21QQWcxT3VOUWhGN0o2RTRHS2NlTUhxc1g0R0ZwVWFBYVRYTVdJWkNlSmlIVl9WRVZ4bVNlQQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-08T22:24:36.000Z",
       "pub_sort_dt": "2026-09-09 06:24:36"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "美国相关机构称，中国顶尖的人工智能企业系统性地抄袭了美国的人工智能模型 - NBC News",
-      "title_cn": "美国相关机构称，中国顶尖人工智能企业系统性抄袭美国人工智能模型 - NBC News",
-      "url": "https://news.google.com/read/CBMiuAFBVV95cUxPVUxsTGJWZ0pWNzFIUEtVdnVmTjVNMmU5ei1VUW52cFJ5b1plbEY5a2xidEllRFR3NXBkdlpHeTFmR1NyNVJ2Y19oSElYd3RrTXhfQVJtZ3JvbEg3TTBYUG1wSFdpY3RZaXJaSk9EdGstZWlpcXJQY0lVdnZYanhkTVNwVzN3R0wwQmVvRDZZMHNwcVhLbG44SXFsZkhBekcxdl85U0dUVXVkVnpVMlBmcXNWS19HX0sz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-08T22:04:00.000Z",
-      "pub_sort_dt": "2026-09-09 06:04:00"
+      "source": "Bloomberg",
+      "title_en": "中国华辰能源寻求将债券期限再延长六年",
+      "title_cn": "中国华辰能源寻求将债券期限再延长六年",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-s-huachen-energy-seeks-another-six-year-extension-on-bonds",
+      "pub_raw": "2026-09-09T07:25:19.205Z",
+      "pub_sort_dt": "2026-09-09 15:25:19"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中石化研究报告称，2026年中国石油需求将下降8.9%",
+      "title_cn": "中石化研究报告称，2026年中国石油需求将下降8.9%",
+      "url": "https://reut.rs/4xaMc8B",
+      "pub_raw": "2026-09-09T07:10:04.010Z",
+      "pub_sort_dt": "2026-09-09 15:10:04"
     },
     {
       "source": "Bloomberg",
       "title_en": "中国锂生产商呼吁在价格受影响后改善数据质量",
-      "title_cn": "中国锂生产商呼吁价格上涨后改善数据质量",
+      "title_cn": "中国锂生产商呼吁价格上涨后提高数据质量",
       "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-lithium-producers-call-for-better-data-after-price-impact",
       "pub_raw": "2026-09-09T06:21:53.451Z",
       "pub_sort_dt": "2026-09-09 14:21:53"
@@ -377,7 +393,7 @@
     {
       "source": "Bloomberg",
       "title_en": "“有点羞耻心吧”：菲律宾因备忘录失误抨击中国",
-      "title_cn": "“有点羞耻心吧”：预防因失误击中中国",
+      "title_cn": "“有点羞耻心吧”：预防因失误击垮中国",
       "url": "https://www.bloomberg.com/news/articles/2026-09-08/-have-some-shame-philippine-defense-chief-slams-china-on-stage",
       "pub_raw": "2026-09-09T03:59:42.655Z",
       "pub_sort_dt": "2026-09-09 11:59:42"
@@ -385,7 +401,7 @@
     {
       "source": "Bloomberg",
       "title_en": "受油价飙升和人工智能热潮推高物价影响，中国通胀再度抬头",
-      "title_cn": "受人工智能热潮推高物价影响，中国奢侈品再度崛起",
+      "title_cn": "受人工智能热潮推高物价影响，中国疯狂再度​​崛起",
       "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-consumer-producer-price-pressures-revived-by-energy-spike",
       "pub_raw": "2026-09-09T02:25:37.327Z",
       "pub_sort_dt": "2026-09-09 10:25:37"
@@ -457,7 +473,7 @@
     {
       "source": "Reuters",
       "title_en": "中国国家主席习近平告诉英国的伯纳姆，双方的共同利益多于分歧",
-      "title_cn": "中国国家主席习近平向英国的伯纳姆表示，两国的共同利益已经结束",
+      "title_cn": "中国国家主席习近平告诉英国的伯纳姆，两国的共同利益已经结束",
       "url": "https://reut.rs/4xbnYec",
       "pub_raw": "2026-09-08T16:01:49.486Z",
       "pub_sort_dt": "2026-09-09 00:01:49"
@@ -477,22 +493,6 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-08/china-s-trade-surplus",
       "pub_raw": "2026-09-08T11:34:04.973Z",
       "pub_sort_dt": "2026-09-08 19:34:04"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国的人工智能计算热潮正向大城市以外的地区迅速蔓延",
-      "title_cn": "中国的人工智能计算热潮正向周边地区迅速扩散",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-08/china-s-ai-computing-boom-is-moving-far-beyond-its-biggest-cities",
-      "pub_raw": "2026-09-08T11:17:46.526Z",
-      "pub_sort_dt": "2026-09-08 19:17:46"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "欧洲在太空竞赛中奋力追赶美国和中国",
-      "title_cn": "欧洲在太空竞赛中奋力追赶美国和中国",
-      "url": "https://www.ft.com/content/e8273e59-36e9-42a0-a7f0-8df556480c75?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-08T10:29:57.034Z",
-      "pub_sort_dt": "2026-09-08 18:29:57"
     }
   ]
 }
