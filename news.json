@@ -1,15 +1,71 @@
 {
-  "update_cst": "2026-09-09 22:01:07 北京时间",
+  "update_cst": "2026-09-10 06:01:00 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 11,
+    "The Economist": 1,
+    "Bloomberg": 9,
     "Financial Times": 1,
     "Wall Street Journal": 2,
-    "Reuters": 6
+    "Reuters": 7
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国驳斥美国关于“工业规模”人工智能盗窃的指控 - Al Jazeera",
+      "title_cn": "中国驳斥美国有关“工业规模”人工智能指控的指控 - 半岛电视台",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxQeXdzNmNWRGQ2ZUFLcTRnZGNMbHFJVV9fU1NHUGxTVEE4cUgxT0RXVlE0WFJiM3ZYdm1qam5xUlAteUlHUzV6c3A1OU9CQVk5czJoOGFkbEVrRE0zVVZmRXdOUUZGYVBpSkc1azZ4dUtDLXZfbFFpMm5GR05jREhJaGpZR2psVi1ZZHp5RlQ4RkNsbGFr0gGaAUFVX3lxTE85bkI4eGtESWxuRGtzSzBidDJRTjhXcU1scnA3SzVLNHRKYWN0dWtLbjIxc1NOT3lfZWNjdDFVYTlDbzF6VFpSLS03MlExS1BTSmw3MkFzSDhmZnVZYjNQVXdSa1NxUWFTWmN6YUtYZXoyRGFyZkp1cEIyak4wZE9zb2ZZdE8yUEtsSEd4S2ZCTEhPd3Q5S0hWUlE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T19:29:32.000Z",
+      "pub_sort_dt": "2026-09-10 03:29:32"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "为何中美华盛顿峰会召开前，特朗普与习近平之间脆弱的休战局面可能会破裂 - Barron's",
+      "title_cn": "为何中美华盛顿峰会召开前，特朗普与习近平之间脆弱的休战局面可能会破裂 - Barron's",
+      "url": "https://news.google.com/read/CBMidkFVX3lxTE1VdEtyRmpES1BnRl9zRGNnaFhDRzVZZFc4VWpfcm1ZRzVlX2dqQVV4eU1TX0xlVmxWT2F6QlZ3cUdVdnZyYldkbklOa0lab1QwMWJyaVFlUFFIa05WMGpnVmt2WUdVNGNGOUJUNHdRd0Rqc2lkbVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T17:24:00.000Z",
+      "pub_sort_dt": "2026-09-10 01:24:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在中国出土的化石遗骸为了解丹尼索瓦人的生活方式提供了新线索 - CNN",
+      "title_cn": "中国出土的化石遗迹为了解丹尼索瓦人的生活提供了新线索 - CNN",
+      "url": "https://news.google.com/read/CBMie0FVX3lxTE42bmsxREpDXzJTbW82TlQ4X2w1czdjVEc2T284Y19mbGdUZm5YSDNXdnZNQ2Y0OEZNaHZuR05tR3hZS040YXFfUHVOckhwMDFYUXlueHlKWkJOZDM5cF9tTEotWUFlLWE1WHZ6V2hRUERqdEFEekpEZ3d3NA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T16:35:44.000Z",
+      "pub_sort_dt": "2026-09-10 00:35:44"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "研究人员在中国一处洞穴中发现了罕见的丹尼索瓦人骨骼 - National Geographic",
+      "title_cn": "研究人员在中国一洞穴中发现了罕见的丹尼索瓦人化石 - 国家地理",
+      "url": "https://news.google.com/read/CBMihwFBVV95cUxPa0NiYUQyOWpMcGVScU9OTWd5SjdLQkhDLWgtNGJkeTFCZkVPTnBUTXZRdHNNSkxWMWZaR3dmbzgxVmJ6X0hMQXBnSVpzbUJHNC1lZmZjLUJmWjl4eTJTY1RBUjhwNnRwemtyWkRFRzZ4OGRic3NBb2JaOElLTy1uZk1CNjY1bVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T16:14:40.000Z",
+      "pub_sort_dt": "2026-09-10 00:14:40"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "拜登政府前大使指责特朗普导致加拿大与中国“暗中勾结” - Fox News",
+      "title_cn": "拜登政府前大使指责特朗普导致加拿大与中国“暗中勾结” - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMimwFBVV95cUxNRHI4VnlZNFBrMS1hZG4zREh6YzdKVnlOTUMwUS1GOEdMdUhmenRpT191emRDTGRqT0dkMXVndW1HQjVyN0tJY0ttdUhFWWI3VGx5am91TVZnMmxORUR5b1RYdFZxajdnd2N5ODByU20wYWZxdmZpazFMNE5PTTd1aUR2YUxLUS1Id0gxek4yMHFrVDV1QW9ydVdNSdIBoAFBVV95cUxNLU5jTkRkMXFtTHNPWWRIQlpIeUZxVFBaUTVlY2JIcnRtbzI3bFd0WDJZMmExVjYtZldxUWNOdzc3d29XcF9iMjE3aHFsQ0E0d2M3cS1meE1lY2N5N0ZZVTNGM0pvOVJacXE0ZzJJb0NXWWZqMmZVR1dSWnZ3WGZZTWltUFE1dzdyUVdPWl85TzUxVS0wemk5U0hXUzNvcENL?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T15:10:08.000Z",
+      "pub_sort_dt": "2026-09-09 23:10:08"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国独生子女更倾向于与其他独生子女结婚 - The Economist",
+      "title_cn": "中国独生子女更倾向于与其他独生子女结婚 - The Economist",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxPY2FaRGlFc01ucWZESTNsLXdVQXUwNFROOXM1Vm81NUlkVXhkbzlwWjJUU2tuWFBRS3E1MGFoakg4TU9ybExBQnJkT0dzOFhscG1TTGJrbW14Y1VqaERwVFpocnN6WnZoa3hOQ0ZKYmI0ZzE1V1ZJaGZRa0s4VVZjaE13Mjh3TlJJVVQtYnNfRTRIWTJ6T05yUGlNRHlFLUdKNW40?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T14:40:01.000Z",
+      "pub_sort_dt": "2026-09-09 22:40:01"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "欧盟公布“采购欧洲产品”的公共采购规则，以应对中国 - The Guardian",
+      "title_cn": "欧盟公布“采购欧洲产品”的公共采购规则，以应对中国 - 卫报",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxPdDRpX25fZngwTThSaXhLeWRCQW9td1lmQ1M5ZE9QVkFXdDEzZVM3STNBQ1BXUE5rNzZja3RSUzFvWGJQZk9aeGxQbkFreDNFSk9jRl9ub1pPUm05ZVVtenlkMDZUN3VfUzRBTXh0TFRFUjFVemJVcEN3c3labEprUVQ2ZE9KM0ZPX0ozSTF4cnQ3eFRVcm5abmU4aldfenZ0cEFSNTNqQUI3ams?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T13:27:00.000Z",
+      "pub_sort_dt": "2026-09-09 21:27:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "消息人士称，“西伯利亚力量-2”管道谈判因中俄价格纠纷陷入僵局 - South China Morning Post",
@@ -33,67 +89,67 @@
       "url": "https://news.google.com/read/CBMitAFBVV95cUxNUDJkQ1JsOEZhZ3NsSWtzbFRMMFJ1QTY4RDJjZ3RLOF9HTXZrNkpxREVEQnhmbHRJVXpNSDdETnVfdWt2NEdud1F0OFRyUURFZm1kVFJLVnMxYzlSVHVKcWpyU2tkOUdXZFN6eURaeTVLWW1XMVBwbC1iUUMza1ItU25tUksxcmNrNERvWkRKMHk0RmlsOUU3QXdBY21zLXNNd2RrcGhsbFFGalVjNTYxa2o1S1Q?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-09T09:55:51.000Z",
       "pub_sort_dt": "2026-09-09 17:55:51"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "贝森特警告称，如果中国在人工智能竞赛中胜出，“一切都将失去意义” - Yahoo Finance",
-      "title_cn": "贝森特警告称，如果中国在人工智能竞赛中胜出，“一切都将失去意义” - 雅虎财经",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxNT2NOeUl5Z1lxUU9GWFdOVWtaUWM3bTZYUWFnZmNQMjdNaFJsNFFQZ0liSXQ5azVidm15LXFPRHZJQWgyT05oZjRDWGdkTzdHa1Z3dW9vbVhXRHBFVjgwcTEtQWo3OVZqaEo2ajlpb05ZMjhqdGdwQUhZSGlMS1U3V0tPNGZIbUU3Mm1zMmpmNl9ZdlVnaGEzR1FwUG1STkU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T09:11:14.000Z",
-      "pub_sort_dt": "2026-09-09 17:11:14"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国是否在窃取美国的人工智能？为何“蒸馏”技术让华盛顿群情激愤 - WSJ",
-      "title_cn": "中国是否在窃取美国的人工智能？为何“升级”技术让华盛顿群情激愤 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxNbmFMRnNQSEJ1SXZJcVJ0QTlWODFsczktc01hNW9wQnU0M3dERHIxRDJnODVsUVhWblF4cmVWYWpwTUh1OFBPVlZ1emRucnY1djdPTW00ZnFJZHktaFpMRVpDS1hGb1FCUXlEeHBpamsxRzl5NFo1eERuMFpWb1B4alNEVlJiMGIxUURwQnZNbHgxTGxZNWxHZENaMFBrR21XcW11MnZQbDRTNk44YVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T07:47:00.000Z",
-      "pub_sort_dt": "2026-09-09 15:47:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "东南亚对台湾问题的微妙转变 - foreignpolicy.com",
-      "title_cn": "对东南亚问题的微妙转变 -foreignpolicy.com",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNMkd6QkVBMnppTUtGcFRiRXB2cVVhakYwc3NDck1qZkZqeDZvcFk1U3JHZ21ZQVdZdFZvSjlwRVIyNTY0YjFDY3JOdlc3VXpIMnJoeFQ3OS1ROXVwNHRxX2xNMm9IM2pzQWllTHk3bWFWOFFhOFhnYzBsNm9XUE9kVDJicXo?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T07:12:06.000Z",
-      "pub_sort_dt": "2026-09-09 15:12:06"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "车队指责中国赛事组织方在处理那起起火事故时的行为“严重疏忽” - apnews.com",
-      "title_cn": "车队责任中国赛事组织方在处理起起火灾事故时的行为“严重疏忽” - apnews.com",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxNUHUzdFV5ZExqMnVkeUNySGQ5WnpITXRyTk84a0xscE9RcjlWX1Uwd0RQR3dkdmlDQTVLUzMtTEE3NTFCQnNoNUhUbG1Bc0Z1NTlib3NieUp6ZGJ6dFFocUNObnpvdVhBLWVldnpHNlFxX0dsVURvVWNVV0Myc2JGZ3hRZ2ZnVzdMYWI0RFg2bHNORVdieG9nR0tMZkdNQzQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T04:50:00.000Z",
-      "pub_sort_dt": "2026-09-09 12:50:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "50年过去了，毛泽东和文化大革命仍给中国投下长长的阴影 - Reuters",
-      "title_cn": "50年过去了，毛泽东和文化大革命仍给中国投下长长的阴影 - 路透社",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxQMlBTbF9DRW05WUVNSkg2MmJJclhIbEg0dFEtUDB4UDVMX3BCZFhGU0tuRXdPbHZCMXA2WTFiZUE2SGdGZzE1ZE9Wei1qblREbE85QTlNWnRJdGw2SFpNM2RMLXh6VUdCLVV6VGxocHlQTnZCZE1ENGROQTBOUWktUVVaUEwwSHZjYXdQdzl5T0hxNFRCRjk3bWN3X0hsdnBSdHhEU3haTjZrS1VU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T04:35:00.000Z",
-      "pub_sort_dt": "2026-09-09 12:35:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "全球最重要的双边关系？习近平与莫迪致力于为28亿人民重建双边关系 - Financial Times",
-      "title_cn": "全球最重要的双边关系？习近平与莫迪致力于打造28亿人民双边关系 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxOR3JtaTlZbTk3bjBRSEt4R1pCaW42ZFFqQUI4YzVuazlNSWNzbUxyYmdWWVU5eHJLQ1FfOGVYVTlkdGd3UDJDUVhUS09FUFZrSlBBXzEwTDYzZ0Uyd1RONWZZX0wwQk05eGc4Zmd1X1VZdWp1VkNyQUxfY2hGN01EYmZWZHo?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T04:02:03.000Z",
-      "pub_sort_dt": "2026-09-09 12:02:03"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "为什么中国的军官队伍如此庞大？ - Foreign Policy",
-      "title_cn": "为什么中国的军官队伍如此庞大？ - 外交政策",
-      "url": "https://news.google.com/read/CBMif0FVX3lxTE1lTU9yX0FkX1FFTGJ3RDQxMS1lakUyR2RRSXk1UzJleVU5RGoxMlJva1FhODNqa0NaOXprdjNKTHNhMUVXVmxyaWhERkxWdnktejI0MWVhNHNCOGt0RHM3OXJfMkwxREhDMmFDVG4yNFNMeWNwM1Ftc08xTVhtbzg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T03:40:57.000Z",
-      "pub_sort_dt": "2026-09-09 11:40:57"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "中国增购原油，油价上涨：《美洲晚间简报》",
+      "title_cn": "中国增购原油，同比上涨：《美洲晚间简报》",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-09/oil-climbs-as-china-buys-more-crude-evening-briefing-americas",
+      "pub_raw": "2026-09-09T21:49:28.716Z",
+      "pub_sort_dt": "2026-09-10 05:49:28"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "针对中国华为的美国庭审开庭，检方在开庭陈词中将该公司称为犯罪组织",
+      "title_cn": "针对中国华为的美国庭审开庭，检方在开庭陈词中成立了名为犯罪组织的公司",
+      "url": "https://reut.rs/46aXAWZ",
+      "pub_raw": "2026-09-09T21:49:28.584Z",
+      "pub_sort_dt": "2026-09-10 05:49:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "《不与中国达成人工智能安全协议的艺术》",
+      "title_cn": "《不与中国达成人工智能安全协议的艺术》",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-09-09/the-art-of-not-making-an-ai-safety-deal-with-china",
+      "pub_raw": "2026-09-09T20:15:16.177Z",
+      "pub_sort_dt": "2026-09-10 04:15:16"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "面对与俄罗斯和中国之间的三方军备竞赛，美国正转向一家核聚变初创公司，以大幅提升其核武器能力",
+      "title_cn": "面对俄罗斯和中国之间的三方军备竞赛，美国正转向一家核聚变公司，大幅提升其核武器能力",
+      "url": "https://on.wsj.com/3SxG5go",
+      "pub_raw": "2026-09-09T18:41:20.044Z",
+      "pub_sort_dt": "2026-09-10 02:41:20"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "共和党议员批评福特与中国的商业往来",
+      "title_cn": "共和党议员批评福特与中国的商业往来",
+      "url": "https://reut.rs/4il6lF4",
+      "pub_raw": "2026-09-09T17:23:43.780Z",
+      "pub_sort_dt": "2026-09-10 01:23:43"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "巴西将中国视为碳信用额的买家，力争在第31届联合国气候变化大会（COP31）上达成协议",
+      "title_cn": "巴西将中国视为碳信用额的买家，力争在第31届联合国气候变化大会（COP31）上达成一致",
+      "url": "https://reut.rs/4xflQlK",
+      "pub_raw": "2026-09-09T16:36:40.488Z",
+      "pub_sort_dt": "2026-09-10 00:36:40"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国独生子女更倾向于与其他独生子女结婚",
+      "title_cn": "中国独生子女更倾向于与其他独生子女结婚",
+      "url": "https://www.economist.com/china/2026/09/09/only-children-in-china-prefer-to-marry-other-only-children",
+      "pub_raw": "2026-09-09T15:33:26.978Z",
+      "pub_sort_dt": "2026-09-09 23:33:26"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "欧盟在公共采购领域发起新一轮主权举措，以对抗中国",
       "title_cn": "欧盟在采购公共领域发起新征程，以对抗中国",
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-09/eu-makes-fresh-sovereignty-push-to-counter-china-in-public-procurement",
@@ -150,14 +206,6 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "中国华为现身布鲁克林，面临一场影响深远的美国刑事审判",
-      "title_cn": "中国华为现身布鲁克林，有望影响美国刑事审判",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-s-huawei-comes-to-brooklyn-for-sweeping-us-criminal-trial",
-      "pub_raw": "2026-09-09T10:21:28.048Z",
-      "pub_sort_dt": "2026-09-09 18:21:28"
-    },
-    {
-      "source": "Bloomberg",
       "title_en": "中国华辰能源寻求将债券期限再延长六年",
       "title_cn": "中国华辰能源寻求将债券期限再延长六年",
       "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-s-huachen-energy-seeks-another-six-year-extension-on-bonds",
@@ -203,57 +251,65 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-s-teapots-may-cut-run-rates-in-blow-to-crude-import-demand",
       "pub_raw": "2026-09-09T04:15:10.114Z",
       "pub_sort_dt": "2026-09-09 12:15:10"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国事实上的驻台大使称，围绕台湾的冲突将带来灾难性后果",
-      "title_cn": "美国驻台大使称，围绕台湾的冲突将带来灾难性后果",
-      "url": "https://reut.rs/4xGm7z5",
-      "pub_raw": "2026-09-09T04:15:10.016Z",
-      "pub_sort_dt": "2026-09-09 12:15:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "“有点羞耻心吧”：菲律宾因备忘录失误抨击中国",
-      "title_cn": "“有点羞耻心吧”：预防因失误击中中国",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/-have-some-shame-philippine-defense-chief-slams-china-on-stage",
-      "pub_raw": "2026-09-09T03:59:42.655Z",
-      "pub_sort_dt": "2026-09-09 11:59:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受油价飙升和人工智能热潮推高物价影响，中国通胀再度抬头",
-      "title_cn": "受人工智能热潮推高物价影响，中国疯狂再度​​崛起",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-consumer-producer-price-pressures-revived-by-energy-spike",
-      "pub_raw": "2026-09-09T02:25:37.327Z",
-      "pub_sort_dt": "2026-09-09 10:25:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "福特因与中国汽车业的关系遭到特朗普内阁成员的批评",
-      "title_cn": "福特因与中国汽车业的关系受到了特朗普内阁成员的批评",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/duffy-lashes-out-at-ford-over-ties-to-chinese-auto-companies",
-      "pub_raw": "2026-09-08T22:55:58.684Z",
-      "pub_sort_dt": "2026-09-09 06:55:58"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "交通部长肖恩·达菲严厉批评了福特与中国汽车企业的合作",
-      "title_cn": "交通部长肖恩·达菲严厉批评福特与中国汽车企业的合作",
-      "url": "https://on.wsj.com/4yqaFHO",
-      "pub_raw": "2026-09-08T20:02:00.180Z",
-      "pub_sort_dt": "2026-09-09 04:02:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "特朗普政府猛烈抨击福特与中国企业的商业交易",
-      "title_cn": "特朗普政府猛烈抨击福特与中国企业的商业交易",
-      "url": "https://reut.rs/3TknHI3",
-      "pub_raw": "2026-09-08T19:29:51.135Z",
-      "pub_sort_dt": "2026-09-09 03:29:51"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国驳斥美国关于“工业规模”人工智能盗窃的指控 - Al Jazeera",
+      "title_cn": "中国驳斥美国有关“工业规模”人工智能指控的指控 - 半岛电视台",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxQeXdzNmNWRGQ2ZUFLcTRnZGNMbHFJVV9fU1NHUGxTVEE4cUgxT0RXVlE0WFJiM3ZYdm1qam5xUlAteUlHUzV6c3A1OU9CQVk5czJoOGFkbEVrRE0zVVZmRXdOUUZGYVBpSkc1azZ4dUtDLXZfbFFpMm5GR05jREhJaGpZR2psVi1ZZHp5RlQ4RkNsbGFr0gGaAUFVX3lxTE85bkI4eGtESWxuRGtzSzBidDJRTjhXcU1scnA3SzVLNHRKYWN0dWtLbjIxc1NOT3lfZWNjdDFVYTlDbzF6VFpSLS03MlExS1BTSmw3MkFzSDhmZnVZYjNQVXdSa1NxUWFTWmN6YUtYZXoyRGFyZkp1cEIyak4wZE9zb2ZZdE8yUEtsSEd4S2ZCTEhPd3Q5S0hWUlE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T19:29:32.000Z",
+      "pub_sort_dt": "2026-09-10 03:29:32"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "为何中美华盛顿峰会召开前，特朗普与习近平之间脆弱的休战局面可能会破裂 - Barron's",
+      "title_cn": "为何中美华盛顿峰会召开前，特朗普与习近平之间脆弱的休战局面可能会破裂 - Barron's",
+      "url": "https://news.google.com/read/CBMidkFVX3lxTE1VdEtyRmpES1BnRl9zRGNnaFhDRzVZZFc4VWpfcm1ZRzVlX2dqQVV4eU1TX0xlVmxWT2F6QlZ3cUdVdnZyYldkbklOa0lab1QwMWJyaVFlUFFIa05WMGpnVmt2WUdVNGNGOUJUNHdRd0Rqc2lkbVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T17:24:00.000Z",
+      "pub_sort_dt": "2026-09-10 01:24:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在中国出土的化石遗骸为了解丹尼索瓦人的生活方式提供了新线索 - CNN",
+      "title_cn": "中国出土的化石遗迹为了解丹尼索瓦人的生活提供了新线索 - CNN",
+      "url": "https://news.google.com/read/CBMie0FVX3lxTE42bmsxREpDXzJTbW82TlQ4X2w1czdjVEc2T284Y19mbGdUZm5YSDNXdnZNQ2Y0OEZNaHZuR05tR3hZS040YXFfUHVOckhwMDFYUXlueHlKWkJOZDM5cF9tTEotWUFlLWE1WHZ6V2hRUERqdEFEekpEZ3d3NA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T16:35:44.000Z",
+      "pub_sort_dt": "2026-09-10 00:35:44"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "研究人员在中国一处洞穴中发现了罕见的丹尼索瓦人骨骼 - National Geographic",
+      "title_cn": "研究人员在中国一洞穴中发现了罕见的丹尼索瓦人化石 - 国家地理",
+      "url": "https://news.google.com/read/CBMihwFBVV95cUxPa0NiYUQyOWpMcGVScU9OTWd5SjdLQkhDLWgtNGJkeTFCZkVPTnBUTXZRdHNNSkxWMWZaR3dmbzgxVmJ6X0hMQXBnSVpzbUJHNC1lZmZjLUJmWjl4eTJTY1RBUjhwNnRwemtyWkRFRzZ4OGRic3NBb2JaOElLTy1uZk1CNjY1bVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T16:14:40.000Z",
+      "pub_sort_dt": "2026-09-10 00:14:40"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "拜登政府前大使指责特朗普导致加拿大与中国“暗中勾结” - Fox News",
+      "title_cn": "拜登政府前大使指责特朗普导致加拿大与中国“暗中勾结” - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMimwFBVV95cUxNRHI4VnlZNFBrMS1hZG4zREh6YzdKVnlOTUMwUS1GOEdMdUhmenRpT191emRDTGRqT0dkMXVndW1HQjVyN0tJY0ttdUhFWWI3VGx5am91TVZnMmxORUR5b1RYdFZxajdnd2N5ODByU20wYWZxdmZpazFMNE5PTTd1aUR2YUxLUS1Id0gxek4yMHFrVDV1QW9ydVdNSdIBoAFBVV95cUxNLU5jTkRkMXFtTHNPWWRIQlpIeUZxVFBaUTVlY2JIcnRtbzI3bFd0WDJZMmExVjYtZldxUWNOdzc3d29XcF9iMjE3aHFsQ0E0d2M3cS1meE1lY2N5N0ZZVTNGM0pvOVJacXE0ZzJJb0NXWWZqMmZVR1dSWnZ3WGZZTWltUFE1dzdyUVdPWl85TzUxVS0wemk5U0hXUzNvcENL?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T15:10:08.000Z",
+      "pub_sort_dt": "2026-09-09 23:10:08"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国独生子女更倾向于与其他独生子女结婚 - The Economist",
+      "title_cn": "中国独生子女更倾向于与其他独生子女结婚 - The Economist",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxPY2FaRGlFc01ucWZESTNsLXdVQXUwNFROOXM1Vm81NUlkVXhkbzlwWjJUU2tuWFBRS3E1MGFoakg4TU9ybExBQnJkT0dzOFhscG1TTGJrbW14Y1VqaERwVFpocnN6WnZoa3hOQ0ZKYmI0ZzE1V1ZJaGZRa0s4VVZjaE13Mjh3TlJJVVQtYnNfRTRIWTJ6T05yUGlNRHlFLUdKNW40?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T14:40:01.000Z",
+      "pub_sort_dt": "2026-09-09 22:40:01"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "欧盟公布“采购欧洲产品”的公共采购规则，以应对中国 - The Guardian",
+      "title_cn": "欧盟公布“采购欧洲产品”的公共采购规则，以应对中国 - 卫报",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxPdDRpX25fZngwTThSaXhLeWRCQW9td1lmQ1M5ZE9QVkFXdDEzZVM3STNBQ1BXUE5rNzZja3RSUzFvWGJQZk9aeGxQbkFreDNFSk9jRl9ub1pPUm05ZVVtenlkMDZUN3VfUzRBTXh0TFRFUjFVemJVcEN3c3labEprUVQ2ZE9KM0ZPX0ozSTF4cnQ3eFRVcm5abmU4aldfenZ0cEFSNTNqQUI3ams?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-09T13:27:00.000Z",
+      "pub_sort_dt": "2026-09-09 21:27:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "消息人士称，“西伯利亚力量-2”管道谈判因中俄价格纠纷陷入僵局 - South China Morning Post",
@@ -279,60 +335,60 @@
       "pub_sort_dt": "2026-09-09 17:55:51"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "贝森特警告称，如果中国在人工智能竞赛中胜出，“一切都将失去意义” - Yahoo Finance",
-      "title_cn": "贝森特警告称，如果中国在人工智能竞赛中胜出，“一切都将失去意义” - 雅虎财经",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxNT2NOeUl5Z1lxUU9GWFdOVWtaUWM3bTZYUWFnZmNQMjdNaFJsNFFQZ0liSXQ5azVidm15LXFPRHZJQWgyT05oZjRDWGdkTzdHa1Z3dW9vbVhXRHBFVjgwcTEtQWo3OVZqaEo2ajlpb05ZMjhqdGdwQUhZSGlMS1U3V0tPNGZIbUU3Mm1zMmpmNl9ZdlVnaGEzR1FwUG1STkU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T09:11:14.000Z",
-      "pub_sort_dt": "2026-09-09 17:11:14"
+      "source": "Bloomberg",
+      "title_en": "中国增购原油，油价上涨：《美洲晚间简报》",
+      "title_cn": "中国增购原油，同比上涨：《美洲晚间简报》",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-09/oil-climbs-as-china-buys-more-crude-evening-briefing-americas",
+      "pub_raw": "2026-09-09T21:49:28.716Z",
+      "pub_sort_dt": "2026-09-10 05:49:28"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国是否在窃取美国的人工智能？为何“蒸馏”技术让华盛顿群情激愤 - WSJ",
-      "title_cn": "中国是否在窃取美国的人工智能？为何“升级”技术让华盛顿群情激愤 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxNbmFMRnNQSEJ1SXZJcVJ0QTlWODFsczktc01hNW9wQnU0M3dERHIxRDJnODVsUVhWblF4cmVWYWpwTUh1OFBPVlZ1emRucnY1djdPTW00ZnFJZHktaFpMRVpDS1hGb1FCUXlEeHBpamsxRzl5NFo1eERuMFpWb1B4alNEVlJiMGIxUURwQnZNbHgxTGxZNWxHZENaMFBrR21XcW11MnZQbDRTNk44YVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T07:47:00.000Z",
-      "pub_sort_dt": "2026-09-09 15:47:00"
+      "source": "Reuters",
+      "title_en": "针对中国华为的美国庭审开庭，检方在开庭陈词中将该公司称为犯罪组织",
+      "title_cn": "针对中国华为的美国庭审开庭，检方在开庭陈词中成立了名为犯罪组织的公司",
+      "url": "https://reut.rs/46aXAWZ",
+      "pub_raw": "2026-09-09T21:49:28.584Z",
+      "pub_sort_dt": "2026-09-10 05:49:28"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "东南亚对台湾问题的微妙转变 - foreignpolicy.com",
-      "title_cn": "对东南亚问题的微妙转变 -foreignpolicy.com",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNMkd6QkVBMnppTUtGcFRiRXB2cVVhakYwc3NDck1qZkZqeDZvcFk1U3JHZ21ZQVdZdFZvSjlwRVIyNTY0YjFDY3JOdlc3VXpIMnJoeFQ3OS1ROXVwNHRxX2xNMm9IM2pzQWllTHk3bWFWOFFhOFhnYzBsNm9XUE9kVDJicXo?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T07:12:06.000Z",
-      "pub_sort_dt": "2026-09-09 15:12:06"
+      "source": "Bloomberg",
+      "title_en": "《不与中国达成人工智能安全协议的艺术》",
+      "title_cn": "《不与中国达成人工智能安全协议的艺术》",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-09-09/the-art-of-not-making-an-ai-safety-deal-with-china",
+      "pub_raw": "2026-09-09T20:15:16.177Z",
+      "pub_sort_dt": "2026-09-10 04:15:16"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "车队指责中国赛事组织方在处理那起起火事故时的行为“严重疏忽” - apnews.com",
-      "title_cn": "车队责任中国赛事组织方在处理起起火灾事故时的行为“严重疏忽” - apnews.com",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxNUHUzdFV5ZExqMnVkeUNySGQ5WnpITXRyTk84a0xscE9RcjlWX1Uwd0RQR3dkdmlDQTVLUzMtTEE3NTFCQnNoNUhUbG1Bc0Z1NTlib3NieUp6ZGJ6dFFocUNObnpvdVhBLWVldnpHNlFxX0dsVURvVWNVV0Myc2JGZ3hRZ2ZnVzdMYWI0RFg2bHNORVdieG9nR0tMZkdNQzQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T04:50:00.000Z",
-      "pub_sort_dt": "2026-09-09 12:50:00"
+      "source": "Wall Street Journal",
+      "title_en": "面对与俄罗斯和中国之间的三方军备竞赛，美国正转向一家核聚变初创公司，以大幅提升其核武器能力",
+      "title_cn": "面对俄罗斯和中国之间的三方军备竞赛，美国正转向一家核聚变公司，大幅提升其核武器能力",
+      "url": "https://on.wsj.com/3SxG5go",
+      "pub_raw": "2026-09-09T18:41:20.044Z",
+      "pub_sort_dt": "2026-09-10 02:41:20"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "50年过去了，毛泽东和文化大革命仍给中国投下长长的阴影 - Reuters",
-      "title_cn": "50年过去了，毛泽东和文化大革命仍给中国投下长长的阴影 - 路透社",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxQMlBTbF9DRW05WUVNSkg2MmJJclhIbEg0dFEtUDB4UDVMX3BCZFhGU0tuRXdPbHZCMXA2WTFiZUE2SGdGZzE1ZE9Wei1qblREbE85QTlNWnRJdGw2SFpNM2RMLXh6VUdCLVV6VGxocHlQTnZCZE1ENGROQTBOUWktUVVaUEwwSHZjYXdQdzl5T0hxNFRCRjk3bWN3X0hsdnBSdHhEU3haTjZrS1VU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T04:35:00.000Z",
-      "pub_sort_dt": "2026-09-09 12:35:00"
+      "source": "Reuters",
+      "title_en": "共和党议员批评福特与中国的商业往来",
+      "title_cn": "共和党议员批评福特与中国的商业往来",
+      "url": "https://reut.rs/4il6lF4",
+      "pub_raw": "2026-09-09T17:23:43.780Z",
+      "pub_sort_dt": "2026-09-10 01:23:43"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "全球最重要的双边关系？习近平与莫迪致力于为28亿人民重建双边关系 - Financial Times",
-      "title_cn": "全球最重要的双边关系？习近平与莫迪致力于打造28亿人民双边关系 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxOR3JtaTlZbTk3bjBRSEt4R1pCaW42ZFFqQUI4YzVuazlNSWNzbUxyYmdWWVU5eHJLQ1FfOGVYVTlkdGd3UDJDUVhUS09FUFZrSlBBXzEwTDYzZ0Uyd1RONWZZX0wwQk05eGc4Zmd1X1VZdWp1VkNyQUxfY2hGN01EYmZWZHo?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T04:02:03.000Z",
-      "pub_sort_dt": "2026-09-09 12:02:03"
+      "source": "Reuters",
+      "title_en": "巴西将中国视为碳信用额的买家，力争在第31届联合国气候变化大会（COP31）上达成协议",
+      "title_cn": "巴西将中国视为碳信用额的买家，力争在第31届联合国气候变化大会（COP31）上达成一致",
+      "url": "https://reut.rs/4xflQlK",
+      "pub_raw": "2026-09-09T16:36:40.488Z",
+      "pub_sort_dt": "2026-09-10 00:36:40"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "为什么中国的军官队伍如此庞大？ - Foreign Policy",
-      "title_cn": "为什么中国的军官队伍如此庞大？ - 外交政策",
-      "url": "https://news.google.com/read/CBMif0FVX3lxTE1lTU9yX0FkX1FFTGJ3RDQxMS1lakUyR2RRSXk1UzJleVU5RGoxMlJva1FhODNqa0NaOXprdjNKTHNhMUVXVmxyaWhERkxWdnktejI0MWVhNHNCOGt0RHM3OXJfMkwxREhDMmFDVG4yNFNMeWNwM1Ftc08xTVhtbzg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-09T03:40:57.000Z",
-      "pub_sort_dt": "2026-09-09 11:40:57"
+      "source": "The Economist",
+      "title_en": "中国独生子女更倾向于与其他独生子女结婚",
+      "title_cn": "中国独生子女更倾向于与其他独生子女结婚",
+      "url": "https://www.economist.com/china/2026/09/09/only-children-in-china-prefer-to-marry-other-only-children",
+      "pub_raw": "2026-09-09T15:33:26.978Z",
+      "pub_sort_dt": "2026-09-09 23:33:26"
     },
     {
       "source": "Bloomberg",
@@ -392,14 +448,6 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "中国华为现身布鲁克林，面临一场影响深远的美国刑事审判",
-      "title_cn": "中国华为现身布鲁克林，有望影响美国刑事审判",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-s-huawei-comes-to-brooklyn-for-sweeping-us-criminal-trial",
-      "pub_raw": "2026-09-09T10:21:28.048Z",
-      "pub_sort_dt": "2026-09-09 18:21:28"
-    },
-    {
-      "source": "Bloomberg",
       "title_en": "中国华辰能源寻求将债券期限再延长六年",
       "title_cn": "中国华辰能源寻求将债券期限再延长六年",
       "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-s-huachen-energy-seeks-another-six-year-extension-on-bonds",
@@ -445,54 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-s-teapots-may-cut-run-rates-in-blow-to-crude-import-demand",
       "pub_raw": "2026-09-09T04:15:10.114Z",
       "pub_sort_dt": "2026-09-09 12:15:10"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国事实上的驻台大使称，围绕台湾的冲突将带来灾难性后果",
-      "title_cn": "美国驻台大使称，围绕台湾的冲突将带来灾难性后果",
-      "url": "https://reut.rs/4xGm7z5",
-      "pub_raw": "2026-09-09T04:15:10.016Z",
-      "pub_sort_dt": "2026-09-09 12:15:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "“有点羞耻心吧”：菲律宾因备忘录失误抨击中国",
-      "title_cn": "“有点羞耻心吧”：预防因失误击中中国",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/-have-some-shame-philippine-defense-chief-slams-china-on-stage",
-      "pub_raw": "2026-09-09T03:59:42.655Z",
-      "pub_sort_dt": "2026-09-09 11:59:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受油价飙升和人工智能热潮推高物价影响，中国通胀再度抬头",
-      "title_cn": "受人工智能热潮推高物价影响，中国疯狂再度​​崛起",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-09/china-consumer-producer-price-pressures-revived-by-energy-spike",
-      "pub_raw": "2026-09-09T02:25:37.327Z",
-      "pub_sort_dt": "2026-09-09 10:25:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "福特因与中国汽车业的关系遭到特朗普内阁成员的批评",
-      "title_cn": "福特因与中国汽车业的关系受到了特朗普内阁成员的批评",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/duffy-lashes-out-at-ford-over-ties-to-chinese-auto-companies",
-      "pub_raw": "2026-09-08T22:55:58.684Z",
-      "pub_sort_dt": "2026-09-09 06:55:58"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "交通部长肖恩·达菲严厉批评了福特与中国汽车企业的合作",
-      "title_cn": "交通部长肖恩·达菲严厉批评福特与中国汽车企业的合作",
-      "url": "https://on.wsj.com/4yqaFHO",
-      "pub_raw": "2026-09-08T20:02:00.180Z",
-      "pub_sort_dt": "2026-09-09 04:02:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "特朗普政府猛烈抨击福特与中国企业的商业交易",
-      "title_cn": "特朗普政府猛烈抨击福特与中国企业的商业交易",
-      "url": "https://reut.rs/3TknHI3",
-      "pub_raw": "2026-09-08T19:29:51.135Z",
-      "pub_sort_dt": "2026-09-09 03:29:51"
     }
   ]
 }
