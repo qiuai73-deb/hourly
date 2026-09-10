@@ -1,99 +1,147 @@
 {
-  "update_cst": "2026-09-10 22:01:12 北京时间",
+  "update_cst": "2026-09-11 06:01:06 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 11,
+    "The Economist": 2,
+    "Bloomberg": 10,
     "Financial Times": 2,
     "Wall Street Journal": 0,
-    "Reuters": 7
+    "Reuters": 6
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国表示，希望“尽早”与美国就减税问题达成一致 - AP News",
-      "title_cn": "中国表示，希望“尽快”与美国就减税问题达成一致 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxOaElLTzZISkhGRzh3ZFZYbGcxZ21jTHozWXpwM3U1X0N4cXlYRFBpZFczX2E2ZENwdmQ4ZF9abEJfdHc2QmNvOHdUQVJkS1hIOVZhM2Fza0NjQ053TU0xNmdSOWFMUmxBOVA4dHAxZzdZUXZjTEVUSVU4WW9UZ0N6ai1pZHlwRUFnUk5JZDdLcWtrakNaS29xM2xOY2dIeG8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T10:44:00.000Z",
-      "pub_sort_dt": "2026-09-10 18:44:00"
+      "title_en": "中国华为被指为犯罪企业，该科技公司在美国的庭审正式开始 - theguardian.com",
+      "title_cn": "中国华为被指为犯罪企业，该科技公司在美国法庭正式审讯 - theguardian.com",
+      "url": "https://news.google.com/read/CBMifEFVX3lxTFBYUmFSc3RoVDN3LWhWZVZXN2JnV1JlSG1BRGdSMHBkTlZrSGVwQXJfYlBzb0xtYWZEdU9pNGtNZnlSSnlQWGlnWU8wU1ZLVnkybzdvRWFEdzFoQ0pJMzlpNWp4bEl2OXBHQnRLYUIwbVFsRTFaTE4zbXlBZVg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T18:02:00.000Z",
+      "pub_sort_dt": "2026-09-11 02:02:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "好莱坞对人工智能的未来感到担忧。而中国早已身处其中 - latimes.com",
-      "title_cn": "霍尔对人工智能的未来感到担忧。而中国已经身处其中 - latimes.com",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxQQzlkMmhoSnQ3T2ZVOGlpTlpNMUVyUm5qUEVhT1FORWdoWm8wUDBqaGZSMUk2Vk9WcmRQZXdTdVJWRE56QnBaMURQUVFJWW9kRWxFQUdrNUJMeWd4d1RoU0g2WGoxcWV6Tm5QZ094Nm9xbm1mSGVtampNSkJtanhoZHFiMXhfSlVXYWZJWmEzQXNhV3FFTy1pREpBSWYtS2E2ZTAzNg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T10:00:00.000Z",
-      "pub_sort_dt": "2026-09-10 18:00:00"
+      "title_en": "我们正滑向一场战争——而且不是我们已经卷入的那场战争 - The Hill",
+      "title_cn": "我们正滑向一场战争——而且不是我们已经卷入的那场战争 - The Hill",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxOa2dGZjNjVWp0akRKRFR5OWZCekh2WWlBNVNLZjA5Z1lEMHlsVC1HeHRCTWp5VmNzV3BTQjdiNEUtR0hWVGNNVnExaE1uU0YxbUVqREI0MXFwQllhTTU5R2d4NUFPc3laRy15aXNxeG11eno2VEhaTWpJMi04UDFQa2RVUW81QVRyTVgxR0FjLWNQd9IBlwFBVV95cUxQYmFnWUx2OU1PeTVXQXAzWWFDN2p1M1VwWUh2OUE2MnV2RlcyUWhGMkFzOFdBMFBSZFlVeVV5c3NibFdUY0hUdGxVWk82Mm1VamV3WWxGYW5qWnJZWnR6eU1uZmYxclRsLUV4TnJNTnlpRHJ1cVcxZDBMc2ZraFJ2dlhWZFZyUXc2cU94MUpmWFdVcXVCNUpv?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T16:00:00.000Z",
+      "pub_sort_dt": "2026-09-11 00:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国东部青岛一艘货轮发生火灾，造成“大量人员伤亡” - BBC",
-      "title_cn": "中国东部青岛一批货轮发生火灾，造成“大规模人员伤亡” - BBC",
-      "url": "https://news.google.com/read/CBMiWkFVX3lxTE42VW9fc0o3TXhuVnB6Nm9TZlI1VGJkS2pQMWc2cVZ5OEZxU3RmNGVVcFdBQU5NeU96ck1vYzNXTXNsbFU4Wi1qR1BQVUxaTGRTUVRIX09wY2Ezdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T09:45:08.000Z",
-      "pub_sort_dt": "2026-09-10 17:45:08"
+      "title_en": "菲律宾国防部长当着现场观众的面宣读了中国方面的一封私人信件 - The Washington Post",
+      "title_cn": "预防私人传染病长着在场观众的面宣读了中国方面的一封信 - 华盛顿邮报",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxPSi1MWmpTVjZNYzVjN3FaYWc3RWFUOUEtUktGaVNKcHFPS2hNYVV4Q3lVdEFaZjlqQUJlTjE1eEZMSEsta2Q1UE5hLXlZakZFam9JanMwN2k0cnB1dlBvLUs2LVF6VVI3VUNLV3M1U3dxSWliN19ZUzJUU2JkeG9wYkRfQ2N1ZF94SGM5Yllmai1PVTAzV05fQWNPcG9Nd3JDVVE3ckNQc1d2MXM5WHRPaEJFMjgtRkJQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T15:30:46.000Z",
+      "pub_sort_dt": "2026-09-10 23:30:46"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国前8个月汽车出口量已超过2025年全年总量，电动汽车销量激增 - AP News",
-      "title_cn": "中国前8个月汽车出口量已超过2025年全年目标，推动汽车销量激增 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxNXzRDZFRjV2lBVXg5YjVuMTJXZmZqaHgwcXB3SGE2NHFMMDNlejh6Wlg5ZExIdjNoRmlnUWlkTDR3T2ZkUG44OEtqWXJ5X3hhNlJrU2U2TndCSnYxSHhyZy14Vk5VakRVaHlEWTN0U1hrWU41ZVFlNjF6V3lmbTAwOEhtZV9XOWs5U29lOFRFcEU2dw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T08:14:00.000Z",
-      "pub_sort_dt": "2026-09-10 16:14:00"
+      "title_en": "中国终于可以松一口气了吗？ - The Economist",
+      "title_cn": "中国终于可以松一口气了吗？ - 《经济学人》",
+      "url": "https://news.google.com/read/CBMidEFVX3lxTE9JOWM2d1pkcXZ6M3ZkREdMS0tPLTJPVnNja0RsLVJmYlBCRldSSURIYWpIUnk4MWRfS0hwdkwybzV6QXBzaDV0ZFA3Y3ozR2Q5bmFZMHR3bXNzVXlqQ1pKVjlkUXNNcTNoMHVxSGNPbUJfc2lx?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T14:20:21.000Z",
+      "pub_sort_dt": "2026-09-10 22:20:21"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着中国无计可施，俄罗斯原油要价飙升 - Bloomberg.com",
-      "title_cn": "随着中国无计可施，俄罗斯原油价格要冲 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQTzBZeXBmdXI2WDdOck5jdTFZWUg3YUs1Qkc4TVdlUFNQcVc3YWpVT2xZSDhCb1FLX1VweGRvZ0tWbWg2UFlBU1J6cVhDS2s0RzhUVWp2T25mcnRSOHFnUUxlMkhWN0tqdXdnVVpWRm5WS09TWmFRQ0R2a1JQRjhLY2JycmtEUEtzOW42T0hEdFdZb0JYVF9RdE9VNk1WVENHTnBERGdiMllWM3JMOE1BLUxRMGQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T07:11:10.000Z",
-      "pub_sort_dt": "2026-09-10 15:11:10"
+      "title_en": "中国青岛港一艘货船起火，至少25人遇难 - aljazeera.com",
+      "title_cn": "中国青岛港一艘货船起火难，至少25人遇 - aljazeera.com",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxONnBTaDE1SWFWQVlET0RvR0hyQ0huQnJtYUlkeGt6amVDNUtudHpGUW1WdWxZMHo1dFhZTS04SGY2TllEcENxd1VCNFhHRl8wVTd2SEhyOTE1MnBZbnVCZ0ZPNjh6TGUzOFcyMnhtTFBmSlZkekFzZXZmNXhLcVlzQkpwdDdPd3R2d0dVaWlZVDhoUnN1Sk1iWHVqVXPSAaIBQVVfeXFMUC1PNWF5cW1Rb3hQWTNjajgtTENld3AxcGRnbUY3OGdxa2tnaGdfMG4wRFJGUVUtdzhhX2RBZlY3RW93NmFYcVl0a0NzWlRERzlqMzNlOGRUTFd4Q19Yb0ZMb0JWQzhrVF9ka1V4MjkzcW5xalFKV0VhQVdCLW45aWFMeEFzdDJIUS1xMnpKZks0aWtwMVlUWk0wTzJDcUFxaS1B?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T13:13:19.000Z",
+      "pub_sort_dt": "2026-09-10 21:13:19"
     },
     {
       "source": "China Buzzing",
-      "title_en": "J-50设计团队揭示中国新一代隐形战斗机的跨越式技术 - South China Morning Post",
-      "title_cn": "J-50设计团队揭示中国新一代的隐形式技术 - 南华早报",
-      "url": "https://news.google.com/read/CBMiwgFBVV95cUxNUGpwQzNEa3JaSnpsT3hfb3YyLU5sQ0R3bjlYU0Ffbld5UmNyRm82UHdGRXFLWkdBVkEzU1lRc0VZUXJwUmtZcWNmYjFLVnVlMmNjaGNTNVFKZ0d5ZS1WYUtTNWpvQ3FKc2NZNjNrUkp6TGJMM0FhTW1BOXlPYTFqVWNSQTV5NEVnNjhqSGItV2o5SFVRa2Y2ZTJxekRweURKYkZVQ2xFYkgzc2J2NmtPQmpmaW9laThCMUZ6dHNOZ2Z2UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T06:58:13.000Z",
-      "pub_sort_dt": "2026-09-10 14:58:13"
+      "title_en": "美国对加拿大发动的关税战愈演愈烈，与此同时，美国正寻求“尽早”结束与中国的300亿美元贸易僵局 - Fortune",
+      "title_cn": "美国对加拿大发起的关税战愈演愈烈，与此同时，美国正寻求“尽早”结束与中国的300亿美元贸易僵局 - 《财富》",
+      "url": "https://news.google.com/read/CBMibEFVX3lxTFBhUDB3REp5MnFFSnNfR3ZlR3ZrOVRkQU5LZjVSRkMyN0FtLVdKT3ZZN005eTdlcl9jdkFkRDY1QnlZN29OTEtyQXFTTXNoY1BUbFZzLTlDM0thekNvLUpyY0xPWmhBU1dqUlMzUA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T12:53:00.000Z",
+      "pub_sort_dt": "2026-09-10 20:53:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "日本和韩国如何为应对中国威胁而加强海军力量 - Breaking Defense",
-      "title_cn": "日本和韩国如何应对中国威胁并加强海军力量 - 突破防御",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxPNkpVTm5sRjI2eXc1V2lnZXdzUzgtOEZmc2NIaE1jVFh4NXdrRENjMGx2cnZkZy1iSGQzeFNDNVlpMHhXbklSLXJUWjRSR2diQWxpR2pwLWV4b3ZDMkhXZlp3bEprc1lOQnZuTU84blpuS1o4T2VMaFhmZEJJYlR4YlhwQkVDZzhYSXVac1BUQVplRkxQMDJlRlRqMEl5VkkwYkJDT1dPbkcwRjV5YnBj?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T06:41:13.000Z",
-      "pub_sort_dt": "2026-09-10 14:41:13"
+      "title_en": "旅行提示：呼吁前往某亚洲热门国家的游客“提高警惕” - NJ.com",
+      "title_cn": "旅行提示：呼吁前往某亚洲热门国家的游客“提高早餐” - NJ.com",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxQeEVvSWtxZDE3R0YwZXgwM3I2Z0NyOTFzcHFwVkZaQTNnX2NDVWl1cGZ2cDctNnRHTVptYVUyYVdyMWtaZk4yLWd6WC1sSWNHdld4YkUxSEM0RUZYWk1CV1lDeFBmTXRWN2U0VlJJcklxR21Lc3UySGUtZ2hpbW1rUkhJZFd4ZWN1OEFiMk54dFY4TWdRQWdBQ3FqZDd6NVBTTC1XbjJzLXZfMTVsc1Z5VF92LUl3TkRzbk0tUlYtd9IB0wFBVV95cUxNSGM0WTVvWXZrandBOUJGdXB2UkdOczVZc1g0T2lmZF8yR0g2MnpzeVVwcm96dHB5bHZxbHNuN3M4WDNpaTZpeGFmbjRlVGVOZ2o3WktsYkQxNS01LVRXUnhVdHNlUlJveGhmWjR2VEV5NVNBRXV4a2JiX3BmTEdKR2I5OXJUV29oS3RFYlhSbTk3NWpBa3FOT3Q4aTk1aHZZekdvMEFkelFXdXZCSm13VUlFaFBuelQ2TUpsMTR5Y2dJaFdTbjhlbDk5WmFzYUJIUEln?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T12:00:00.000Z",
+      "pub_sort_dt": "2026-09-10 20:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着非洲对电动汽车领域的投资日益多元化，中国电动自行车进口量激增 - AP News",
-      "title_cn": "随着非洲对电动汽车领域的投资渴望，中国电动自行车进口量激增 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMikwFBVV95cUxNTnJiWUFEbHM5bWwzTlZlTTR2TWZlM2lBS0VXRXJ2UTBFdXBrWGtadlM5XzdRM0k2Qm1sZVdNRFIxTURRVmFJYy1Ucm5qZTRISUJwYlRPR0ZjVG9JbGxaVFN0clJ4VHNmalRCOGxiZHVsSnpYTjM3V3F3MUxZVk9XeE5ITDA3Ykc2VDNUT1poRGRrRGs?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T06:29:00.000Z",
-      "pub_sort_dt": "2026-09-10 14:29:00"
+      "title_en": "专栏：特朗普对中国的呼吁：“在这里销售，在这里建设”——除非“这里”指的是加拿大 - Automotive News",
+      "title_cn": "专栏：特朗普对中国的呼吁：“在这里销售，在这里建设”——除非“这里”指的是加拿大 - 汽车新闻",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxQdy1YbHJCelRlQTNKODQtNEdkQlRzenZEeVVFbFJ0V2Y2elZJbS03UW9sMGQ3bWt5VkZrSEdkQkItYmVyLTlVM05nME9GUWpPYW9BT1lsNjNKaDQwYXdGaXh5UTFmTUlzTGZWN3QwdVZ3eU9EVlhXV0ItRkZlckhxU0FZZ0EwZ1pJU2ZFbFV6Y0ZtejFM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T11:48:00.000Z",
+      "pub_sort_dt": "2026-09-10 19:48:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "“化险为夷”：伊朗战事扰乱石油供应之际，中国如何帮助遏制油价飙升 - CNBC",
-      "title_cn": "“化险为夷”：伊朗战事扰乱石油供应互联互通，中国如何助力重建重建 - CNBC",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxQRTdXWmJBYnc1VnBEUWVuazlUQkQ1SmV5aDlfY1cxUXgzeERlWXoxWEl4WElXdFFlUWZzZzN0NlRHRUVQMWU1bGpubUlBaDM3SUZvTFJ6NHRFbi0wMUhMNkNBakFjdVduS2R2NFRGaEVDYjlyVzJNWmh6TjNMemUtajRTSWhZbnFoN25pQ3FEeXBtdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T06:17:16.000Z",
-      "pub_sort_dt": "2026-09-10 14:17:16"
+      "title_en": "据官方媒体报道，一艘停靠在中国港口的货轮发生火灾，造成25人死亡 - CBS News",
+      "title_cn": "据官方媒体报道，停靠在中国港口的货轮发生火灾，造成25人死亡 - CBS News",
+      "url": "https://news.google.com/read/CBMijAFBVV95cUxOZ0wyRkdOZHRpOEFxSU85SmtIRkp4VDBLN2FkemxjRDR5aDVYNEVaY2xqRnlacmtKeXBmZDJVakxaUGZxb19TeUdVWTFsUVpHeFJOb1Uyb2dBdmRjamZlTTZfTHBaSktuc29lcUZOMjZNdmZzb2VobE1uTTVVbzNKN1N1TmRRbHlqT1lPRg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T11:33:00.000Z",
+      "pub_sort_dt": "2026-09-10 19:33:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "独家报道：一项价值10亿美元的规避制裁方案如何确保中国商品持续流入伊朗 - Reuters",
-      "title_cn": "独家报道：一项价值10亿美元的制裁方案如何确保中国商品持续流入伊朗 - 路透社",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxPQXdBWlltZS1pUU8wZnFqc21wUDExNGZub0prbEtxYTNwS2J3UU91eTQ4aXZTUGNwWjdGZGxVZUNiY2dHbXVNbl9tNE4zSlVqVDJaZFlmMkZ6Slo3RndJczlqMTlsYlVGOEEteGNreDFjR0JabWhJaTNCTHNtUUozWDFVSm56QldwaXFjbnBQZWlxdGtsVFdmcDFDTHNjMzBaN2NkNlNzUGV0MXhZR3hBdmFUMV9LLU9ZYWxBTW5n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T06:05:00.000Z",
-      "pub_sort_dt": "2026-09-10 14:05:00"
+      "title_en": "一艘停靠在中国港口的国际货轮起火，造成25人死亡 - Euronews.com",
+      "title_cn": "中国港口的国际货轮起火，造成25人死亡 - Euronews.com",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxNUUVqSUo5NXAxTXNZSnQ2dWNMeTNOdHkxa3NaQ2ZLcW1DcVJ2WHJzdWpLTW1uMjBPUUxkb1B2Q3JlUTdQMk9WYUJZWHJ5TWg2OFhBQkRJSHZfRHEyVW1DVTM5QUJlRzRTNmVFbER6bUpfSWt0QzJUOFhlXy0tTFBYVHpQeTI3WXFRT2tPaEFOQktHQUxKZjRqX2lVQlF3LUVDMHVSem1CTGsxcS1YNVRBbFFHMTBvdzU2cm5JR1VB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T11:18:23.000Z",
+      "pub_sort_dt": "2026-09-10 19:18:23"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "韩国加强间谍法以保护芯片机密免受中国威胁",
+      "title_cn": "韩国加强间谍法以保护机密芯片中国威胁",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/south-korea-ramps-up-spy-law-to-protect-chip-secrets-from-china",
+      "pub_raw": "2026-09-10T21:25:37.097Z",
+      "pub_sort_dt": "2026-09-11 05:25:37"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "大选在即，“中国威胁”削弱了日本民众对美军基地的愤怒",
+      "title_cn": "大选同时，“中国威胁”了日本民众对美军基地的愤怒",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/china-threat-erodes-japanese-anger-over-us-bases-ahead-of-vote",
+      "pub_raw": "2026-09-10T20:37:38.317Z",
+      "pub_sort_dt": "2026-09-11 04:37:38"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国能够研发新药，但筹集研发资金却更为困难",
+      "title_cn": "中国能够研发新药，但募集研发资金却更加困难",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-09-10/china-can-invent-new-drugs-paying-for-them-is-harder",
+      "pub_raw": "2026-09-10T19:18:54.663Z",
+      "pub_sort_dt": "2026-09-11 03:18:54"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国东部一船厂货轮起火，造成25人死亡",
+      "title_cn": "中国东部一船厂货轮起火，造成25人死亡",
+      "url": "https://reut.rs/4xdqxfN",
+      "pub_raw": "2026-09-10T15:51:29.793Z",
+      "pub_sort_dt": "2026-09-10 23:51:29"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国重新审视其与休闲的关系",
+      "title_cn": "中国重新利用其与休闲的关系",
+      "url": "https://www.economist.com/china/2026/09/10/china-rethinks-its-relationship-with-leisure",
+      "pub_raw": "2026-09-10T14:48:32.914Z",
+      "pub_sort_dt": "2026-09-10 22:48:32"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "香港首任行政长官董建华去世",
+      "title_cn": "香港首任行政长官董建华去世",
+      "url": "https://www.economist.com/china/2026/09/10/tung-chee-hwa-hong-kongs-first-chief-executive-has-died",
+      "pub_raw": "2026-09-10T14:48:32.900Z",
+      "pub_sort_dt": "2026-09-10 22:48:32"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "原油买家质疑中国是否会再次采取行动抑制油价",
       "title_cn": "原油买家质疑中国是否会再次采取行动抑制倍增",
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/oil-buyers-question-whether-china-will-take-action-to-restrain-prices-again",
@@ -203,136 +251,136 @@
       "url": "https://reut.rs/4gWn52X",
       "pub_raw": "2026-09-10T05:16:14.199Z",
       "pub_sort_dt": "2026-09-10 13:16:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "穆巴达拉以10亿美元投资中国瑞幸咖啡连锁品牌",
-      "title_cn": "穆巴达拉以10亿美元投资中国瑞幸咖啡连锁品牌",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/mubadala-backs-china-s-luckin-coffee-chain-in-1-billion-deal",
-      "pub_raw": "2026-09-10T03:40:16.891Z",
-      "pub_sort_dt": "2026-09-10 11:40:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "据称博裕已同意收购中国厦门飞机租赁公司",
-      "title_cn": "股东博裕已同意收购中国厦门飞机租赁公司",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/boyu-is-said-to-agree-to-buy-china-s-xiamen-aircraft-leasing",
-      "pub_raw": "2026-09-10T03:40:16.888Z",
-      "pub_sort_dt": "2026-09-10 11:40:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港凭借交易热潮在亚洲金融中心中力压新加坡，吸引外籍人士",
-      "title_cn": "香港凭借交易热潮在亚洲金融中心中力压新加坡，吸引外籍人士",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/hong-kong-lures-expats-as-deal-boom-helps-beat-singapore-among-asia-hubs",
-      "pub_raw": "2026-09-10T03:23:52.107Z",
-      "pub_sort_dt": "2026-09-10 11:23:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "一只回报率达182%的中国基金看好光学类股票的上涨前景",
-      "title_cn": "一只回报率达到182%的中国基金看好光学类股票的上涨前景",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/china-fund-with-182-return-sees-bullish-case-for-optical-stocks",
-      "pub_raw": "2026-09-10T02:51:54.479Z",
-      "pub_sort_dt": "2026-09-10 10:51:54"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "福特卷入华盛顿围绕中国交易日益激化的冲突",
-      "title_cn": "福特卷入华盛顿围绕中国交易引发激烈冲突",
-      "url": "https://reut.rs/3UJ3ThW",
-      "pub_raw": "2026-09-10T01:47:56.173Z",
-      "pub_sort_dt": "2026-09-10 09:47:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家报道：在跑赢博尔特后，中国机器人冠军正朝着现实世界的工作迈进",
-      "title_cn": "独家报道：在跑赢博尔特后，中国机器人冠军正朝着现实世界的工作迈进",
-      "url": "https://reut.rs/4gLnkiN",
-      "pub_raw": "2026-09-10T01:31:51.843Z",
-      "pub_sort_dt": "2026-09-10 09:31:51"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国表示，希望“尽早”与美国就减税问题达成一致 - AP News",
-      "title_cn": "中国表示，希望“尽快”与美国就减税问题达成一致 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxOaElLTzZISkhGRzh3ZFZYbGcxZ21jTHozWXpwM3U1X0N4cXlYRFBpZFczX2E2ZENwdmQ4ZF9abEJfdHc2QmNvOHdUQVJkS1hIOVZhM2Fza0NjQ053TU0xNmdSOWFMUmxBOVA4dHAxZzdZUXZjTEVUSVU4WW9UZ0N6ai1pZHlwRUFnUk5JZDdLcWtrakNaS29xM2xOY2dIeG8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T10:44:00.000Z",
-      "pub_sort_dt": "2026-09-10 18:44:00"
+      "title_en": "中国华为被指为犯罪企业，该科技公司在美国的庭审正式开始 - theguardian.com",
+      "title_cn": "中国华为被指为犯罪企业，该科技公司在美国法庭正式审讯 - theguardian.com",
+      "url": "https://news.google.com/read/CBMifEFVX3lxTFBYUmFSc3RoVDN3LWhWZVZXN2JnV1JlSG1BRGdSMHBkTlZrSGVwQXJfYlBzb0xtYWZEdU9pNGtNZnlSSnlQWGlnWU8wU1ZLVnkybzdvRWFEdzFoQ0pJMzlpNWp4bEl2OXBHQnRLYUIwbVFsRTFaTE4zbXlBZVg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T18:02:00.000Z",
+      "pub_sort_dt": "2026-09-11 02:02:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "好莱坞对人工智能的未来感到担忧。而中国早已身处其中 - latimes.com",
-      "title_cn": "霍尔对人工智能的未来感到担忧。而中国已经身处其中 - latimes.com",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxQQzlkMmhoSnQ3T2ZVOGlpTlpNMUVyUm5qUEVhT1FORWdoWm8wUDBqaGZSMUk2Vk9WcmRQZXdTdVJWRE56QnBaMURQUVFJWW9kRWxFQUdrNUJMeWd4d1RoU0g2WGoxcWV6Tm5QZ094Nm9xbm1mSGVtampNSkJtanhoZHFiMXhfSlVXYWZJWmEzQXNhV3FFTy1pREpBSWYtS2E2ZTAzNg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T10:00:00.000Z",
-      "pub_sort_dt": "2026-09-10 18:00:00"
+      "title_en": "我们正滑向一场战争——而且不是我们已经卷入的那场战争 - The Hill",
+      "title_cn": "我们正滑向一场战争——而且不是我们已经卷入的那场战争 - The Hill",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxOa2dGZjNjVWp0akRKRFR5OWZCekh2WWlBNVNLZjA5Z1lEMHlsVC1HeHRCTWp5VmNzV3BTQjdiNEUtR0hWVGNNVnExaE1uU0YxbUVqREI0MXFwQllhTTU5R2d4NUFPc3laRy15aXNxeG11eno2VEhaTWpJMi04UDFQa2RVUW81QVRyTVgxR0FjLWNQd9IBlwFBVV95cUxQYmFnWUx2OU1PeTVXQXAzWWFDN2p1M1VwWUh2OUE2MnV2RlcyUWhGMkFzOFdBMFBSZFlVeVV5c3NibFdUY0hUdGxVWk82Mm1VamV3WWxGYW5qWnJZWnR6eU1uZmYxclRsLUV4TnJNTnlpRHJ1cVcxZDBMc2ZraFJ2dlhWZFZyUXc2cU94MUpmWFdVcXVCNUpv?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T16:00:00.000Z",
+      "pub_sort_dt": "2026-09-11 00:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国东部青岛一艘货轮发生火灾，造成“大量人员伤亡” - BBC",
-      "title_cn": "中国东部青岛一批货轮发生火灾，造成“大规模人员伤亡” - BBC",
-      "url": "https://news.google.com/read/CBMiWkFVX3lxTE42VW9fc0o3TXhuVnB6Nm9TZlI1VGJkS2pQMWc2cVZ5OEZxU3RmNGVVcFdBQU5NeU96ck1vYzNXTXNsbFU4Wi1qR1BQVUxaTGRTUVRIX09wY2Ezdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T09:45:08.000Z",
-      "pub_sort_dt": "2026-09-10 17:45:08"
+      "title_en": "菲律宾国防部长当着现场观众的面宣读了中国方面的一封私人信件 - The Washington Post",
+      "title_cn": "预防私人传染病长着在场观众的面宣读了中国方面的一封信 - 华盛顿邮报",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxPSi1MWmpTVjZNYzVjN3FaYWc3RWFUOUEtUktGaVNKcHFPS2hNYVV4Q3lVdEFaZjlqQUJlTjE1eEZMSEsta2Q1UE5hLXlZakZFam9JanMwN2k0cnB1dlBvLUs2LVF6VVI3VUNLV3M1U3dxSWliN19ZUzJUU2JkeG9wYkRfQ2N1ZF94SGM5Yllmai1PVTAzV05fQWNPcG9Nd3JDVVE3ckNQc1d2MXM5WHRPaEJFMjgtRkJQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T15:30:46.000Z",
+      "pub_sort_dt": "2026-09-10 23:30:46"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国前8个月汽车出口量已超过2025年全年总量，电动汽车销量激增 - AP News",
-      "title_cn": "中国前8个月汽车出口量已超过2025年全年目标，推动汽车销量激增 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxNXzRDZFRjV2lBVXg5YjVuMTJXZmZqaHgwcXB3SGE2NHFMMDNlejh6Wlg5ZExIdjNoRmlnUWlkTDR3T2ZkUG44OEtqWXJ5X3hhNlJrU2U2TndCSnYxSHhyZy14Vk5VakRVaHlEWTN0U1hrWU41ZVFlNjF6V3lmbTAwOEhtZV9XOWs5U29lOFRFcEU2dw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T08:14:00.000Z",
-      "pub_sort_dt": "2026-09-10 16:14:00"
+      "title_en": "中国终于可以松一口气了吗？ - The Economist",
+      "title_cn": "中国终于可以松一口气了吗？ - 《经济学人》",
+      "url": "https://news.google.com/read/CBMidEFVX3lxTE9JOWM2d1pkcXZ6M3ZkREdMS0tPLTJPVnNja0RsLVJmYlBCRldSSURIYWpIUnk4MWRfS0hwdkwybzV6QXBzaDV0ZFA3Y3ozR2Q5bmFZMHR3bXNzVXlqQ1pKVjlkUXNNcTNoMHVxSGNPbUJfc2lx?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T14:20:21.000Z",
+      "pub_sort_dt": "2026-09-10 22:20:21"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着中国无计可施，俄罗斯原油要价飙升 - Bloomberg.com",
-      "title_cn": "随着中国无计可施，俄罗斯原油价格要冲 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQTzBZeXBmdXI2WDdOck5jdTFZWUg3YUs1Qkc4TVdlUFNQcVc3YWpVT2xZSDhCb1FLX1VweGRvZ0tWbWg2UFlBU1J6cVhDS2s0RzhUVWp2T25mcnRSOHFnUUxlMkhWN0tqdXdnVVpWRm5WS09TWmFRQ0R2a1JQRjhLY2JycmtEUEtzOW42T0hEdFdZb0JYVF9RdE9VNk1WVENHTnBERGdiMllWM3JMOE1BLUxRMGQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T07:11:10.000Z",
-      "pub_sort_dt": "2026-09-10 15:11:10"
+      "title_en": "中国青岛港一艘货船起火，至少25人遇难 - aljazeera.com",
+      "title_cn": "中国青岛港一艘货船起火难，至少25人遇 - aljazeera.com",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxONnBTaDE1SWFWQVlET0RvR0hyQ0huQnJtYUlkeGt6amVDNUtudHpGUW1WdWxZMHo1dFhZTS04SGY2TllEcENxd1VCNFhHRl8wVTd2SEhyOTE1MnBZbnVCZ0ZPNjh6TGUzOFcyMnhtTFBmSlZkekFzZXZmNXhLcVlzQkpwdDdPd3R2d0dVaWlZVDhoUnN1Sk1iWHVqVXPSAaIBQVVfeXFMUC1PNWF5cW1Rb3hQWTNjajgtTENld3AxcGRnbUY3OGdxa2tnaGdfMG4wRFJGUVUtdzhhX2RBZlY3RW93NmFYcVl0a0NzWlRERzlqMzNlOGRUTFd4Q19Yb0ZMb0JWQzhrVF9ka1V4MjkzcW5xalFKV0VhQVdCLW45aWFMeEFzdDJIUS1xMnpKZks0aWtwMVlUWk0wTzJDcUFxaS1B?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T13:13:19.000Z",
+      "pub_sort_dt": "2026-09-10 21:13:19"
     },
     {
       "source": "China Buzzing",
-      "title_en": "J-50设计团队揭示中国新一代隐形战斗机的跨越式技术 - South China Morning Post",
-      "title_cn": "J-50设计团队揭示中国新一代的隐形式技术 - 南华早报",
-      "url": "https://news.google.com/read/CBMiwgFBVV95cUxNUGpwQzNEa3JaSnpsT3hfb3YyLU5sQ0R3bjlYU0Ffbld5UmNyRm82UHdGRXFLWkdBVkEzU1lRc0VZUXJwUmtZcWNmYjFLVnVlMmNjaGNTNVFKZ0d5ZS1WYUtTNWpvQ3FKc2NZNjNrUkp6TGJMM0FhTW1BOXlPYTFqVWNSQTV5NEVnNjhqSGItV2o5SFVRa2Y2ZTJxekRweURKYkZVQ2xFYkgzc2J2NmtPQmpmaW9laThCMUZ6dHNOZ2Z2UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T06:58:13.000Z",
-      "pub_sort_dt": "2026-09-10 14:58:13"
+      "title_en": "美国对加拿大发动的关税战愈演愈烈，与此同时，美国正寻求“尽早”结束与中国的300亿美元贸易僵局 - Fortune",
+      "title_cn": "美国对加拿大发起的关税战愈演愈烈，与此同时，美国正寻求“尽早”结束与中国的300亿美元贸易僵局 - 《财富》",
+      "url": "https://news.google.com/read/CBMibEFVX3lxTFBhUDB3REp5MnFFSnNfR3ZlR3ZrOVRkQU5LZjVSRkMyN0FtLVdKT3ZZN005eTdlcl9jdkFkRDY1QnlZN29OTEtyQXFTTXNoY1BUbFZzLTlDM0thekNvLUpyY0xPWmhBU1dqUlMzUA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T12:53:00.000Z",
+      "pub_sort_dt": "2026-09-10 20:53:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "日本和韩国如何为应对中国威胁而加强海军力量 - Breaking Defense",
-      "title_cn": "日本和韩国如何应对中国威胁并加强海军力量 - 突破防御",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxPNkpVTm5sRjI2eXc1V2lnZXdzUzgtOEZmc2NIaE1jVFh4NXdrRENjMGx2cnZkZy1iSGQzeFNDNVlpMHhXbklSLXJUWjRSR2diQWxpR2pwLWV4b3ZDMkhXZlp3bEprc1lOQnZuTU84blpuS1o4T2VMaFhmZEJJYlR4YlhwQkVDZzhYSXVac1BUQVplRkxQMDJlRlRqMEl5VkkwYkJDT1dPbkcwRjV5YnBj?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T06:41:13.000Z",
-      "pub_sort_dt": "2026-09-10 14:41:13"
+      "title_en": "旅行提示：呼吁前往某亚洲热门国家的游客“提高警惕” - NJ.com",
+      "title_cn": "旅行提示：呼吁前往某亚洲热门国家的游客“提高早餐” - NJ.com",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxQeEVvSWtxZDE3R0YwZXgwM3I2Z0NyOTFzcHFwVkZaQTNnX2NDVWl1cGZ2cDctNnRHTVptYVUyYVdyMWtaZk4yLWd6WC1sSWNHdld4YkUxSEM0RUZYWk1CV1lDeFBmTXRWN2U0VlJJcklxR21Lc3UySGUtZ2hpbW1rUkhJZFd4ZWN1OEFiMk54dFY4TWdRQWdBQ3FqZDd6NVBTTC1XbjJzLXZfMTVsc1Z5VF92LUl3TkRzbk0tUlYtd9IB0wFBVV95cUxNSGM0WTVvWXZrandBOUJGdXB2UkdOczVZc1g0T2lmZF8yR0g2MnpzeVVwcm96dHB5bHZxbHNuN3M4WDNpaTZpeGFmbjRlVGVOZ2o3WktsYkQxNS01LVRXUnhVdHNlUlJveGhmWjR2VEV5NVNBRXV4a2JiX3BmTEdKR2I5OXJUV29oS3RFYlhSbTk3NWpBa3FOT3Q4aTk1aHZZekdvMEFkelFXdXZCSm13VUlFaFBuelQ2TUpsMTR5Y2dJaFdTbjhlbDk5WmFzYUJIUEln?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T12:00:00.000Z",
+      "pub_sort_dt": "2026-09-10 20:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着非洲对电动汽车领域的投资日益多元化，中国电动自行车进口量激增 - AP News",
-      "title_cn": "随着非洲对电动汽车领域的投资渴望，中国电动自行车进口量激增 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMikwFBVV95cUxNTnJiWUFEbHM5bWwzTlZlTTR2TWZlM2lBS0VXRXJ2UTBFdXBrWGtadlM5XzdRM0k2Qm1sZVdNRFIxTURRVmFJYy1Ucm5qZTRISUJwYlRPR0ZjVG9JbGxaVFN0clJ4VHNmalRCOGxiZHVsSnpYTjM3V3F3MUxZVk9XeE5ITDA3Ykc2VDNUT1poRGRrRGs?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T06:29:00.000Z",
-      "pub_sort_dt": "2026-09-10 14:29:00"
+      "title_en": "专栏：特朗普对中国的呼吁：“在这里销售，在这里建设”——除非“这里”指的是加拿大 - Automotive News",
+      "title_cn": "专栏：特朗普对中国的呼吁：“在这里销售，在这里建设”——除非“这里”指的是加拿大 - 汽车新闻",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxQdy1YbHJCelRlQTNKODQtNEdkQlRzenZEeVVFbFJ0V2Y2elZJbS03UW9sMGQ3bWt5VkZrSEdkQkItYmVyLTlVM05nME9GUWpPYW9BT1lsNjNKaDQwYXdGaXh5UTFmTUlzTGZWN3QwdVZ3eU9EVlhXV0ItRkZlckhxU0FZZ0EwZ1pJU2ZFbFV6Y0ZtejFM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T11:48:00.000Z",
+      "pub_sort_dt": "2026-09-10 19:48:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "“化险为夷”：伊朗战事扰乱石油供应之际，中国如何帮助遏制油价飙升 - CNBC",
-      "title_cn": "“化险为夷”：伊朗战事扰乱石油供应互联互通，中国如何助力重建重建 - CNBC",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxQRTdXWmJBYnc1VnBEUWVuazlUQkQ1SmV5aDlfY1cxUXgzeERlWXoxWEl4WElXdFFlUWZzZzN0NlRHRUVQMWU1bGpubUlBaDM3SUZvTFJ6NHRFbi0wMUhMNkNBakFjdVduS2R2NFRGaEVDYjlyVzJNWmh6TjNMemUtajRTSWhZbnFoN25pQ3FEeXBtdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T06:17:16.000Z",
-      "pub_sort_dt": "2026-09-10 14:17:16"
+      "title_en": "据官方媒体报道，一艘停靠在中国港口的货轮发生火灾，造成25人死亡 - CBS News",
+      "title_cn": "据官方媒体报道，停靠在中国港口的货轮发生火灾，造成25人死亡 - CBS News",
+      "url": "https://news.google.com/read/CBMijAFBVV95cUxOZ0wyRkdOZHRpOEFxSU85SmtIRkp4VDBLN2FkemxjRDR5aDVYNEVaY2xqRnlacmtKeXBmZDJVakxaUGZxb19TeUdVWTFsUVpHeFJOb1Uyb2dBdmRjamZlTTZfTHBaSktuc29lcUZOMjZNdmZzb2VobE1uTTVVbzNKN1N1TmRRbHlqT1lPRg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T11:33:00.000Z",
+      "pub_sort_dt": "2026-09-10 19:33:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "独家报道：一项价值10亿美元的规避制裁方案如何确保中国商品持续流入伊朗 - Reuters",
-      "title_cn": "独家报道：一项价值10亿美元的制裁方案如何确保中国商品持续流入伊朗 - 路透社",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxPQXdBWlltZS1pUU8wZnFqc21wUDExNGZub0prbEtxYTNwS2J3UU91eTQ4aXZTUGNwWjdGZGxVZUNiY2dHbXVNbl9tNE4zSlVqVDJaZFlmMkZ6Slo3RndJczlqMTlsYlVGOEEteGNreDFjR0JabWhJaTNCTHNtUUozWDFVSm56QldwaXFjbnBQZWlxdGtsVFdmcDFDTHNjMzBaN2NkNlNzUGV0MXhZR3hBdmFUMV9LLU9ZYWxBTW5n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T06:05:00.000Z",
-      "pub_sort_dt": "2026-09-10 14:05:00"
+      "title_en": "一艘停靠在中国港口的国际货轮起火，造成25人死亡 - Euronews.com",
+      "title_cn": "中国港口的国际货轮起火，造成25人死亡 - Euronews.com",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxNUUVqSUo5NXAxTXNZSnQ2dWNMeTNOdHkxa3NaQ2ZLcW1DcVJ2WHJzdWpLTW1uMjBPUUxkb1B2Q3JlUTdQMk9WYUJZWHJ5TWg2OFhBQkRJSHZfRHEyVW1DVTM5QUJlRzRTNmVFbER6bUpfSWt0QzJUOFhlXy0tTFBYVHpQeTI3WXFRT2tPaEFOQktHQUxKZjRqX2lVQlF3LUVDMHVSem1CTGsxcS1YNVRBbFFHMTBvdzU2cm5JR1VB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-10T11:18:23.000Z",
+      "pub_sort_dt": "2026-09-10 19:18:23"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "韩国加强间谍法以保护芯片机密免受中国威胁",
+      "title_cn": "韩国加强间谍法以保护机密芯片中国威胁",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/south-korea-ramps-up-spy-law-to-protect-chip-secrets-from-china",
+      "pub_raw": "2026-09-10T21:25:37.097Z",
+      "pub_sort_dt": "2026-09-11 05:25:37"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "大选在即，“中国威胁”削弱了日本民众对美军基地的愤怒",
+      "title_cn": "大选同时，“中国威胁”了日本民众对美军基地的愤怒",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/china-threat-erodes-japanese-anger-over-us-bases-ahead-of-vote",
+      "pub_raw": "2026-09-10T20:37:38.317Z",
+      "pub_sort_dt": "2026-09-11 04:37:38"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国能够研发新药，但筹集研发资金却更为困难",
+      "title_cn": "中国能够研发新药，但募集研发资金却更加困难",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-09-10/china-can-invent-new-drugs-paying-for-them-is-harder",
+      "pub_raw": "2026-09-10T19:18:54.663Z",
+      "pub_sort_dt": "2026-09-11 03:18:54"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国东部一船厂货轮起火，造成25人死亡",
+      "title_cn": "中国东部一船厂货轮起火，造成25人死亡",
+      "url": "https://reut.rs/4xdqxfN",
+      "pub_raw": "2026-09-10T15:51:29.793Z",
+      "pub_sort_dt": "2026-09-10 23:51:29"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国重新审视其与休闲的关系",
+      "title_cn": "中国重新利用其与休闲的关系",
+      "url": "https://www.economist.com/china/2026/09/10/china-rethinks-its-relationship-with-leisure",
+      "pub_raw": "2026-09-10T14:48:32.914Z",
+      "pub_sort_dt": "2026-09-10 22:48:32"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "香港首任行政长官董建华去世",
+      "title_cn": "香港首任行政长官董建华去世",
+      "url": "https://www.economist.com/china/2026/09/10/tung-chee-hwa-hong-kongs-first-chief-executive-has-died",
+      "pub_raw": "2026-09-10T14:48:32.900Z",
+      "pub_sort_dt": "2026-09-10 22:48:32"
     },
     {
       "source": "Bloomberg",
@@ -445,54 +493,6 @@
       "url": "https://reut.rs/4gWn52X",
       "pub_raw": "2026-09-10T05:16:14.199Z",
       "pub_sort_dt": "2026-09-10 13:16:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "穆巴达拉以10亿美元投资中国瑞幸咖啡连锁品牌",
-      "title_cn": "穆巴达拉以10亿美元投资中国瑞幸咖啡连锁品牌",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/mubadala-backs-china-s-luckin-coffee-chain-in-1-billion-deal",
-      "pub_raw": "2026-09-10T03:40:16.891Z",
-      "pub_sort_dt": "2026-09-10 11:40:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "据称博裕已同意收购中国厦门飞机租赁公司",
-      "title_cn": "股东博裕已同意收购中国厦门飞机租赁公司",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/boyu-is-said-to-agree-to-buy-china-s-xiamen-aircraft-leasing",
-      "pub_raw": "2026-09-10T03:40:16.888Z",
-      "pub_sort_dt": "2026-09-10 11:40:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港凭借交易热潮在亚洲金融中心中力压新加坡，吸引外籍人士",
-      "title_cn": "香港凭借交易热潮在亚洲金融中心中力压新加坡，吸引外籍人士",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/hong-kong-lures-expats-as-deal-boom-helps-beat-singapore-among-asia-hubs",
-      "pub_raw": "2026-09-10T03:23:52.107Z",
-      "pub_sort_dt": "2026-09-10 11:23:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "一只回报率达182%的中国基金看好光学类股票的上涨前景",
-      "title_cn": "一只回报率达到182%的中国基金看好光学类股票的上涨前景",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/china-fund-with-182-return-sees-bullish-case-for-optical-stocks",
-      "pub_raw": "2026-09-10T02:51:54.479Z",
-      "pub_sort_dt": "2026-09-10 10:51:54"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "福特卷入华盛顿围绕中国交易日益激化的冲突",
-      "title_cn": "福特卷入华盛顿围绕中国交易引发激烈冲突",
-      "url": "https://reut.rs/3UJ3ThW",
-      "pub_raw": "2026-09-10T01:47:56.173Z",
-      "pub_sort_dt": "2026-09-10 09:47:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家报道：在跑赢博尔特后，中国机器人冠军正朝着现实世界的工作迈进",
-      "title_cn": "独家报道：在跑赢博尔特后，中国机器人冠军正朝着现实世界的工作迈进",
-      "url": "https://reut.rs/4gLnkiN",
-      "pub_raw": "2026-09-10T01:31:51.843Z",
-      "pub_sort_dt": "2026-09-10 09:31:51"
     }
   ]
 }
