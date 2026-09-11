@@ -1,17 +1,73 @@
 {
-  "update_cst": "2026-09-11 15:01:01 北京时间",
+  "update_cst": "2026-09-11 18:01:07 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 2,
-    "Bloomberg": 12,
-    "Financial Times": 1,
+    "Bloomberg": 13,
+    "Financial Times": 0,
     "Wall Street Journal": 0,
     "Reuters": 5
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国“四大GPU小老虎”的真正考验尚未到来 - WSJ",
+      "title_cn": "中国“四大GPU小老虎”的真正考验尚未到来 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxPVEpQUG1Wck52OWxFTDZUaTBRUEFGSjNPdkRzU0ZRUzNxN0FKaDhEcDFoRDJaSWI0NlBmcVVJZjFMbDJkbGNBN25jVEs1bHRBemJPTjEwSXlheFNxZmZmM3puTUFoV1lQMW9BeFpTVDBiZDd0MHV0eThtTElDTVdiYklfcUhmOVhmU0U2eHFFUHhWZWhWeXhvRg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T05:34:00.000Z",
+      "pub_sort_dt": "2026-09-11 13:34:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着北京方面步步紧逼，中国富豪们正为税网不断扩大做准备 - CNBC",
+      "title_cn": "随着北京方面步步紧逼，中国富豪们正为税网扩大做准备 - CNBC",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxNelUwQW5Eekc2MnRnUGh2WjlRNUVfYkVuRWlaYVBDQUpybG1kaE1JeVBWX29aNktiZGl3ZFJsb3lnNDdLamtySGZGNXpMbVptZXBiQXFVNm54dmlWWk9sTF9ZdTFiNmNYeGdORTZUUjFwOW9ZWHpiTmktVmstZTJUTnduQVg2Vmw1VEFoTnctbU9KTzNjeXVMNTRhS0ZXMlYzOE9F?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T04:47:10.000Z",
+      "pub_sort_dt": "2026-09-11 12:47:10"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在金砖国家峰会上，中国和印度争夺影响力 - The New York Times",
+      "title_cn": "在金砖国家峰会上，中国和印度争夺影响力 - 纽约时报",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxQYlFXeTlvOTBDMVlJUGhJR1BtRnBxcXRxZzBCQzh4S01BR0FPc1BaZUI0eGNjanpOZlZLNldleDFEMDlKYXNnbjJJRTZ5MFN6Y0dUd01NNllCbW9aNExNLTRkdlZobEZfRHNLX2lmRDJhT3JfWGt5bjMxMGlQN21KUA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T04:22:12.000Z",
+      "pub_sort_dt": "2026-09-11 12:22:12"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "深度解析：俄罗斯、中国、台湾与日本围绕二战遗留问题的争端 - Reuters",
+      "title_cn": "深度解析：俄罗斯、中国、台湾与日本围绕战争传承问题的宗教 - 路透",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxNZUVhUGxYTWU0LTJ6RTVrQm00TnZGNzNtQlpkNlJqT0pEekxrRzg3NTJiQkFhSFkwVjVJQU9EcWNueVhPMHZOV2xZSzl2YVpBQ0F5UjM4MTk3R3IzR0dtWWNuZWhlOEJ2TXZLUG9QbzFmeTdqLW12LUc0a2lqNmtDQ1FhU0k3STBaajFDb3VNRjFPUHhKM0w0TGdVWGZLdjJVNG1zSDJB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T04:14:00.000Z",
+      "pub_sort_dt": "2026-09-11 12:14:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "北京就首尔冲突事件对马尼拉提出谴责后，中菲紧张局势持续发酵 - CNBC",
+      "title_cn": "北京就首尔冲突事件对局势提出严厉警告后，中菲紧张局势持续发酵 - CNBC",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxPVDZpMXU4SDJRWUMtU0JSY3VOa3Q5TnJyNGZMQUpzNDVZWGtDMzVRYUFVSno0RmxqM1VENlI1dUtUSHpON3hWR3VDeHFkT2xRT1NDMGtoLVFRa0toajNGemdqWDJJUEY5S1Zjdk5WSFdPaGlENENnNFZXR3BwTjR2Z19HOHdPU3R5UHNncDhuc29LQdIBlwFBVV95cUxNcVp5MkpqMExjQ1AyeTdmcFE5dGxXSGx6ZElMX0NNWkQtaHM2bWtQUGZpd2hvTWdyOWJnSU1ZbW9Qc2JRWkwzN2hjVENjRFFYZ01RR0twelpzX2I5OTl6eVZtQlFIWnBFV2M5YU5fZmgyWVZINTVjclRlakZUSVc1N1M0WWhEamhkWmZZZ3o4U1RHd3RUaHNR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T03:44:00.000Z",
+      "pub_sort_dt": "2026-09-11 11:44:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国如何将司法管辖权延伸至海外以对抗美国制裁 - ft.com",
+      "title_cn": "中国如何将司法管辖权延伸至海外以对抗美国制裁 - ft.com",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPZk5MTHRNZ1JySWlyMHVYa0Z2YkhQaG85ZVBJZUFOelF5X3p3MEtsZEhhMXhGeVV4bnNyYjFVSVJlSUM3MEJkWmxPWTRHcGJlWmpCY051WkdmbDBuWFVYN0xOdXRvV3VPa28xN3VhWV9YbkNodk5qX1hsbUdYcjYxMjRUamU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T03:17:24.000Z",
+      "pub_sort_dt": "2026-09-11 11:17:24"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "香港“天安门”烛光晚会组织者被判处长期监禁 - CNN",
+      "title_cn": "香港“天安门”烛光晚会组织者被长期监禁 - CNN",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxPZUd6OVNsSXRrYkhleHFyZG5HT0lLMmlGZzc0NjhzOVZTZWx1YTJtX0VIWXhmV0IydDFpTUFSREdLVXAtMGFObktRRmwtTVhJY3Z5Q3hBOWRuTXRheS1rZHBPcTZnNmJBMmdqaEJkVmxhVWZaMzk3dk9tSjlwOTZPQnNiQmQtQ21LMjdN?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T02:33:00.000Z",
+      "pub_sort_dt": "2026-09-11 10:33:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "《财新》：中国因产能担忧叫停新建电池工厂 - bloomberg.com",
       "title_cn": "《财新》：中国因产能担忧叫停新建电池工厂 - Bloomberg.com",
       "url": "https://news.google.com/read/CBMisgFBVV95cUxNdXQtSV9qVXFwV1VfWm81V3JteGVvakhIMkc2S2p5RlozcnlDdXVjaE9MbHBITDlDcFRXY09mOHFaUko3azRMeUVnaWVWMUtDY1NXeE9DVVFEemNwNFM1cjlTLTB3QUpqWlVFYXBjQ0lwRnlDSHp1R2ZGdHRUNDB1SXRMcmtEWVBma01GMWxYQ3JxeGZRX2FmaHYxeXFyUXJSMWNDWmtzUDJFcVZkMFFQWmJB?hl=en-US&gl=US&ceid=US%3Aen",
@@ -33,88 +89,104 @@
       "url": "https://news.google.com/read/CBMizAFBVV95cUxNejlqWExhTUdGeVhRbXVURjZiUkNzdkJLcG1WWTQ1OXR6VDlhTXB6UElHRko3d1lZazdEazlFYUpWLXNTOW51ZE92VHpfTkpoSHNHYXJaSzM3eGxJVlNvWkJaNEt1S3EtZXdPY3RqSERvXzFuMWZTYmNXc2oxZGphc2JrSnN5YzNtY0lPN1pDWXJ6NmpLb3loa3pzU2VfM1FxZVRjc1p4N3F0ZnA2NTE4RW44SF9NUGRfXzdqcnphQjA4Y0Y4N2FTelhpV03SAcwBQVVfeXFMT3hxMkoyZnktMjl1bTlhdWp6OWJWUmNzZHdCZmU3LVpPdVNkTjlady1yZEF3RjRMWVNUcF84OGNvd0ViZ0h5XzdSVlNSeUIxcUtHNnM4WS1tTDNXQUdocG1RSUJlOFk5a0E1X0xENjkxVHdiY3ZUVElnTWgzNkFMSnBxUHJEVkRXS2VneEpFWmVRZHo0N3QxaUxZRWtpekVsZXUxVXRMY0RnX1dkanRoam91LXFCbUZjMFVwZkhBU0Jlck4zb2dYZmJsdTNE?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-10T22:00:09.000Z",
       "pub_sort_dt": "2026-09-11 06:00:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "观点 要求中国为其贸易行为负责 - WSJ",
-      "title_cn": "观点要求中国公平贸易行为负责 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxNNU9hdjJUZWk2bmVJXzdHU3dZdEJsLTNLWnQyaEktZTR3eEU0Q3RqaWlVYzlNSDRPRnlXZXFUOS1qSExYUzBaUGllTllFeFVFRjNBQXZnVUYwRXJWTWwwRVhvaVRmcGhrMVZiQ041dWRQQ1gyV3NHMWpEN3BodHFCdXN6WFlSazB2ak9v?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T19:01:46.000Z",
-      "pub_sort_dt": "2026-09-11 03:01:46"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国华为被指为犯罪企业，该科技公司在美国的庭审正式开始 - theguardian.com",
-      "title_cn": "中国华为被指为犯罪企业，该科技公司在美国法庭正式审讯 - theguardian.com",
-      "url": "https://news.google.com/read/CBMifEFVX3lxTFBYUmFSc3RoVDN3LWhWZVZXN2JnV1JlSG1BRGdSMHBkTlZrSGVwQXJfYlBzb0xtYWZEdU9pNGtNZnlSSnlQWGlnWU8wU1ZLVnkybzdvRWFEdzFoQ0pJMzlpNWp4bEl2OXBHQnRLYUIwbVFsRTFaTE4zbXlBZVg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T18:02:00.000Z",
-      "pub_sort_dt": "2026-09-11 02:02:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "我们正滑向一场战争——而且不是我们已经卷入的那场战争 - The Hill",
-      "title_cn": "我们正滑向一场战争——而且不是我们已经卷入的那场战争 - The Hill",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxOa2dGZjNjVWp0akRKRFR5OWZCekh2WWlBNVNLZjA5Z1lEMHlsVC1HeHRCTWp5VmNzV3BTQjdiNEUtR0hWVGNNVnExaE1uU0YxbUVqREI0MXFwQllhTTU5R2d4NUFPc3laRy15aXNxeG11eno2VEhaTWpJMi04UDFQa2RVUW81QVRyTVgxR0FjLWNQd9IBlwFBVV95cUxQYmFnWUx2OU1PeTVXQXAzWWFDN2p1M1VwWUh2OUE2MnV2RlcyUWhGMkFzOFdBMFBSZFlVeVV5c3NibFdUY0hUdGxVWk82Mm1VamV3WWxGYW5qWnJZWnR6eU1uZmYxclRsLUV4TnJNTnlpRHJ1cVcxZDBMc2ZraFJ2dlhWZFZyUXc2cU94MUpmWFdVcXVCNUpv?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T16:00:00.000Z",
-      "pub_sort_dt": "2026-09-11 00:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "菲律宾国防部长当着现场观众的面宣读了中国方面的一封私人信件 - The Washington Post",
-      "title_cn": "预防私人传染病长着在场观众的面宣读了中国方面的一封信 - 华盛顿邮报",
-      "url": "https://news.google.com/read/CBMiuAFBVV95cUxPSi1MWmpTVjZNYzVjN3FaYWc3RWFUOUEtUktGaVNKcHFPS2hNYVV4Q3lVdEFaZjlqQUJlTjE1eEZMSEsta2Q1UE5hLXlZakZFam9JanMwN2k0cnB1dlBvLUs2LVF6VVI3VUNLV3M1U3dxSWliN19ZUzJUU2JkeG9wYkRfQ2N1ZF94SGM5Yllmai1PVTAzV05fQWNPcG9Nd3JDVVE3ckNQc1d2MXM5WHRPaEJFMjgtRkJQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T15:30:46.000Z",
-      "pub_sort_dt": "2026-09-10 23:30:46"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国汽车行业的威胁不仅仅在于电动汽车。特斯拉则陷入了两难境地。 - Barron's",
-      "title_cn": "中国汽车行业的威胁正在加剧电动汽车。特斯拉则陷入了两难境地。 - Barron's",
-      "url": "https://news.google.com/read/CBMifEFVX3lxTFBiTG9YbnZtY0hMRUFuY3BRMWJpMkllYXhYYlNxT0M3amtSMFkzS25DTmd5NUpiMnJLRi1ULXpETXpuMUwwRzN0a0lVX3RLdloxQWZ0eDVWS2FQSV8xUl91c1NKVWJXX0pDdmxvWThNdG9IZ19fUHh1R0xJQXo?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T14:32:00.000Z",
-      "pub_sort_dt": "2026-09-10 22:32:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国终于可以松一口气了吗？ - The Economist",
-      "title_cn": "中国终于可以松一口气了吗？ - 《经济学人》",
-      "url": "https://news.google.com/read/CBMidEFVX3lxTE9JOWM2d1pkcXZ6M3ZkREdMS0tPLTJPVnNja0RsLVJmYlBCRldSSURIYWpIUnk4MWRfS0hwdkwybzV6QXBzaDV0ZFA3Y3ozR2Q5bmFZMHR3bXNzVXlqQ1pKVjlkUXNNcTNoMHVxSGNPbUJfc2lx?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T14:20:21.000Z",
-      "pub_sort_dt": "2026-09-10 22:20:21"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国呼吁取消英语核心地位引发争议 - dw.com",
-      "title_cn": "中国呼吁取消中国核心地位引发争议 - dw.com",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxNVGRPWUR4bmNSSERxTEwxeVJzY2picHFTWmdwZnE3OEZWVjJnOEhQclF4R3ZMRWtYZk9JVnJYd1k0RXBydFVnQjhSTVRKQkwwQU5xZHZWX3FxM3ZyQ0pjU1ZBc0dsMXp2VGN0ZTluMlY3TU9UclZ1eExXZ29TWGthbnNEWURBUHg2bERqcjBQaEozQdIBkgFBVV95cUxNV0ZIT3kxRWNpSmRhbmthZ1M4SzRlUWVucVZkWTgxTEVaNEtFZ0NkWUV2cEYtUzNkY2RvUEZoNU9Xc3dkRXVjcEI2bkF0WU1PcV9neEpMWjRvSXViaHpaMHhRMWlobTJCTWZKRXdEN2RzYTkzQlhPVENGVGdhSEx3N1JNVzRXLW8wVzJTR0F2d2x3UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T13:33:47.000Z",
-      "pub_sort_dt": "2026-09-10 21:33:47"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "中国芯片制造商未盈利却跻身亿万富翁行列",
+      "title_cn": "中国芯片制造商未盈利却主要身亿万富翁行列",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/chinese-chipmakers-become-billionaires-without-turning-a-profit",
+      "pub_raw": "2026-09-11T09:34:01.926Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国在“十二五”规划中设定新车销量中电动汽车占比达70%的目标",
+      "title_cn": "中国在“十二五”规划中设定新车销量中强化汽车销量达到70%的目标",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan",
+      "pub_raw": "2026-09-11T09:34:01.884Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国借助内陆地区数据中心的浪潮，与美国竞逐人工智能领先地位",
+      "title_cn": "中国借助内陆地区数据中心的浪潮，与美国竞逐人工智能领先地位",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-11/china-races-us-for-ai-lead-riding-wave-of-data-centers-in-its-hinterland",
+      "pub_raw": "2026-09-11T09:34:01.869Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾“二号人物”不顾中国施压，罕见访问意大利",
+      "title_cn": "台湾“二号”人物不顾中国施压，意大利罕见访问",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/taiwan-s-no-2-makes-rare-europe-trip-defying-china-s-isolation",
+      "pub_raw": "2026-09-11T09:34:01.841Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美光因利润激增向台湾员工发放32,000美元奖金",
+      "title_cn": "美光因利润飙升向台湾员工发放32,000美元奖金",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/micron-rewards-engineers-in-taiwan-with-32-000-cash-bonus",
+      "pub_raw": "2026-09-11T09:34:01.828Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国支持菲律宾的能源项目，意在针对中国",
+      "title_cn": "美国支持防疫的能源项目，意在针对中国",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/us-backs-lng-nuclear-projects-in-philippines-with-eye-on-china",
+      "pub_raw": "2026-09-11T09:34:01.810Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "腾讯投资的芯片制造商Enflame在上海首日上市大涨179%",
+      "title_cn": "腾讯投资的芯片制造商Enflame在上海首日上市大涨179%",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/tencent-backed-chipmaker-enflame-to-debut-after-911-million-ipo",
+      "pub_raw": "2026-09-11T09:34:01.785Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国因产能担忧叫停新建电池工厂",
+      "title_cn": "中国因产能担忧而叫停新建电池工厂",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-halts-new-battery-factories-on-capacity-concerns-caixin",
+      "pub_raw": "2026-09-11T09:34:01.782Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国外交部称，中国和印度正在安排习近平与莫迪的会晤",
+      "title_cn": "中国称，中国和印度正在安排习近平与莫迪的会晤",
+      "url": "https://reut.rs/4gIH5HG",
+      "pub_raw": "2026-09-11T09:34:00.696Z",
+      "pub_sort_dt": "2026-09-11 17:34:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "随着IPO热潮推动金融中心复兴，香港正吸引人才回流",
+      "title_cn": "借助IPO热潮推动金融中心复兴，香港正吸引人才回流",
+      "url": "https://reut.rs/4A7MKPc",
+      "pub_raw": "2026-09-11T09:34:00.683Z",
+      "pub_sort_dt": "2026-09-11 17:34:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美光台湾员工将获得最高相当于68个月工资的奖励",
+      "title_cn": "美光台湾员工将获得最高虚拟68个月工资的奖励",
+      "url": "https://reut.rs/4A8DKsU",
+      "pub_raw": "2026-09-11T09:34:00.673Z",
+      "pub_sort_dt": "2026-09-11 17:34:00"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "中国太阳能行业快讯：硅片价格在上周下跌后趋于稳定",
       "title_cn": "中国太阳能行业快讯：硅片价格上周下跌后趋于稳定",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-solar-wrap-wafer-prices-steady-after-falling-last-week",
       "pub_raw": "2026-09-11T02:45:35.086Z",
       "pub_sort_dt": "2026-09-11 10:45:35"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "《财新》：中国因产能过剩担忧叫停新建电池工厂",
-      "title_cn": "《财新》：中国因产能过剩担忧叫停新建电池工厂",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-halts-new-battery-factories-on-capacity-concerns-caixin",
-      "pub_raw": "2026-09-11T02:45:35.072Z",
-      "pub_sort_dt": "2026-09-11 10:45:35"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "腾讯投资的芯片制造商Enflame在上海首日上市大涨188%",
-      "title_cn": "腾讯投资的芯片制造商Enflame在上海首日上市大涨188%",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-11/tencent-backed-chipmaker-enflame-to-debut-after-911-million-ipo",
-      "pub_raw": "2026-09-11T01:41:51.022Z",
-      "pub_sort_dt": "2026-09-11 09:41:51"
     },
     {
       "source": "Reuters",
@@ -179,81 +251,65 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/oil-buyers-question-whether-china-will-take-action-to-restrain-prices-again",
       "pub_raw": "2026-09-10T11:37:59.576Z",
       "pub_sort_dt": "2026-09-10 19:37:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "欧洲的“中国冲击”",
-      "title_cn": "欧洲的“中国冲击”",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/europe-s-china-shock",
-      "pub_raw": "2026-09-10T11:21:34.751Z",
-      "pub_sort_dt": "2026-09-10 19:21:34"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "现在真的该担心新一轮“中国冲击”了吗？",
-      "title_cn": "现在真的担心新一轮“中国冲击”了吗？",
-      "url": "https://www.ft.com/content/796f0045-d300-4e22-be82-fa9a111fb634",
-      "pub_raw": "2026-09-10T11:21:32.577Z",
-      "pub_sort_dt": "2026-09-10 19:21:32"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中石化研究人员表示，到2030年，中国电动汽车渗透率可能达到80%",
-      "title_cn": "中石化研究人员表示，到2030年，中国电动汽车渗透率可能达到80%",
-      "url": "https://reut.rs/4ihgHpx",
-      "pub_raw": "2026-09-10T10:03:17.583Z",
-      "pub_sort_dt": "2026-09-10 18:03:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "抨击福特与中国之间的联系，无异于自取灭亡",
-      "title_cn": "福特与中国之间的联系，无异于自取灭亡",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-10/bashing-ford-s-china-ties-is-a-recipe-for-obsolescence",
-      "pub_raw": "2026-09-10T09:15:43.759Z",
-      "pub_sort_dt": "2026-09-10 17:15:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港IPO股价暴涨177%凸显配售规则中的怪现象",
-      "title_cn": "香港IPO股价暴涨177%凸显配售规则中的怪现象",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/hong-kong-ipo-s-177-pop-highlights-quirk-in-allocation-rules",
-      "pub_raw": "2026-09-10T09:15:43.752Z",
-      "pub_sort_dt": "2026-09-10 17:15:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着市场复苏，香港顶级开发商利润上升",
-      "title_cn": "随着市场复苏，香港顶级利润上升",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/hong-kong-s-top-developer-profit-rises-on-market-recovery",
-      "pub_raw": "2026-09-10T09:15:43.749Z",
-      "pub_sort_dt": "2026-09-10 17:15:43"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "合肥的繁荣揭示了中国政府主导的制造业发展计划的局限性",
-      "title_cn": "合肥的繁荣揭示了中国政府主导的制造业发展计划的局限性",
-      "url": "https://reut.rs/4xMMymT",
-      "pub_raw": "2026-09-10T08:59:13.786Z",
-      "pub_sort_dt": "2026-09-10 16:59:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家报道：一项价值10亿美元的规避制裁方案如何让中国商品持续流入伊朗",
-      "title_cn": "独家报道：一项价值10亿美元的制裁方案如何让中国商品持续流入伊朗",
-      "url": "https://reut.rs/4gLKLIN",
-      "pub_raw": "2026-09-10T08:59:13.783Z",
-      "pub_sort_dt": "2026-09-10 16:59:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "“莫莉茶”事件引发舆论反弹，路易威登在中国销售额下滑",
-      "title_cn": "“莫莉茶”事件引发经济复苏，路易威登首次登陆中国销售额",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/louis-vuitton-loses-china-sales-after-legal-fight-with-tea-chain",
-      "pub_raw": "2026-09-10T08:11:59.216Z",
-      "pub_sort_dt": "2026-09-10 16:11:59"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国“四大GPU小老虎”的真正考验尚未到来 - WSJ",
+      "title_cn": "中国“四大GPU小老虎”的真正考验尚未到来 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxPVEpQUG1Wck52OWxFTDZUaTBRUEFGSjNPdkRzU0ZRUzNxN0FKaDhEcDFoRDJaSWI0NlBmcVVJZjFMbDJkbGNBN25jVEs1bHRBemJPTjEwSXlheFNxZmZmM3puTUFoV1lQMW9BeFpTVDBiZDd0MHV0eThtTElDTVdiYklfcUhmOVhmU0U2eHFFUHhWZWhWeXhvRg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T05:34:00.000Z",
+      "pub_sort_dt": "2026-09-11 13:34:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着北京方面步步紧逼，中国富豪们正为税网不断扩大做准备 - CNBC",
+      "title_cn": "随着北京方面步步紧逼，中国富豪们正为税网扩大做准备 - CNBC",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxNelUwQW5Eekc2MnRnUGh2WjlRNUVfYkVuRWlaYVBDQUpybG1kaE1JeVBWX29aNktiZGl3ZFJsb3lnNDdLamtySGZGNXpMbVptZXBiQXFVNm54dmlWWk9sTF9ZdTFiNmNYeGdORTZUUjFwOW9ZWHpiTmktVmstZTJUTnduQVg2Vmw1VEFoTnctbU9KTzNjeXVMNTRhS0ZXMlYzOE9F?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T04:47:10.000Z",
+      "pub_sort_dt": "2026-09-11 12:47:10"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在金砖国家峰会上，中国和印度争夺影响力 - The New York Times",
+      "title_cn": "在金砖国家峰会上，中国和印度争夺影响力 - 纽约时报",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxQYlFXeTlvOTBDMVlJUGhJR1BtRnBxcXRxZzBCQzh4S01BR0FPc1BaZUI0eGNjanpOZlZLNldleDFEMDlKYXNnbjJJRTZ5MFN6Y0dUd01NNllCbW9aNExNLTRkdlZobEZfRHNLX2lmRDJhT3JfWGt5bjMxMGlQN21KUA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T04:22:12.000Z",
+      "pub_sort_dt": "2026-09-11 12:22:12"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "深度解析：俄罗斯、中国、台湾与日本围绕二战遗留问题的争端 - Reuters",
+      "title_cn": "深度解析：俄罗斯、中国、台湾与日本围绕战争传承问题的宗教 - 路透",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxNZUVhUGxYTWU0LTJ6RTVrQm00TnZGNzNtQlpkNlJqT0pEekxrRzg3NTJiQkFhSFkwVjVJQU9EcWNueVhPMHZOV2xZSzl2YVpBQ0F5UjM4MTk3R3IzR0dtWWNuZWhlOEJ2TXZLUG9QbzFmeTdqLW12LUc0a2lqNmtDQ1FhU0k3STBaajFDb3VNRjFPUHhKM0w0TGdVWGZLdjJVNG1zSDJB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T04:14:00.000Z",
+      "pub_sort_dt": "2026-09-11 12:14:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "北京就首尔冲突事件对马尼拉提出谴责后，中菲紧张局势持续发酵 - CNBC",
+      "title_cn": "北京就首尔冲突事件对局势提出严厉警告后，中菲紧张局势持续发酵 - CNBC",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxPVDZpMXU4SDJRWUMtU0JSY3VOa3Q5TnJyNGZMQUpzNDVZWGtDMzVRYUFVSno0RmxqM1VENlI1dUtUSHpON3hWR3VDeHFkT2xRT1NDMGtoLVFRa0toajNGemdqWDJJUEY5S1Zjdk5WSFdPaGlENENnNFZXR3BwTjR2Z19HOHdPU3R5UHNncDhuc29LQdIBlwFBVV95cUxNcVp5MkpqMExjQ1AyeTdmcFE5dGxXSGx6ZElMX0NNWkQtaHM2bWtQUGZpd2hvTWdyOWJnSU1ZbW9Qc2JRWkwzN2hjVENjRFFYZ01RR0twelpzX2I5OTl6eVZtQlFIWnBFV2M5YU5fZmgyWVZINTVjclRlakZUSVc1N1M0WWhEamhkWmZZZ3o4U1RHd3RUaHNR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T03:44:00.000Z",
+      "pub_sort_dt": "2026-09-11 11:44:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国如何将司法管辖权延伸至海外以对抗美国制裁 - ft.com",
+      "title_cn": "中国如何将司法管辖权延伸至海外以对抗美国制裁 - ft.com",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPZk5MTHRNZ1JySWlyMHVYa0Z2YkhQaG85ZVBJZUFOelF5X3p3MEtsZEhhMXhGeVV4bnNyYjFVSVJlSUM3MEJkWmxPWTRHcGJlWmpCY051WkdmbDBuWFVYN0xOdXRvV3VPa28xN3VhWV9YbkNodk5qX1hsbUdYcjYxMjRUamU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T03:17:24.000Z",
+      "pub_sort_dt": "2026-09-11 11:17:24"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "香港“天安门”烛光晚会组织者被判处长期监禁 - CNN",
+      "title_cn": "香港“天安门”烛光晚会组织者被长期监禁 - CNN",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxPZUd6OVNsSXRrYkhleHFyZG5HT0lLMmlGZzc0NjhzOVZTZWx1YTJtX0VIWXhmV0IydDFpTUFSREdLVXAtMGFObktRRmwtTVhJY3Z5Q3hBOWRuTXRheS1rZHBPcTZnNmJBMmdqaEJkVmxhVWZaMzk3dk9tSjlwOTZPQnNiQmQtQ21LMjdN?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T02:33:00.000Z",
+      "pub_sort_dt": "2026-09-11 10:33:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "《财新》：中国因产能担忧叫停新建电池工厂 - bloomberg.com",
@@ -279,60 +335,92 @@
       "pub_sort_dt": "2026-09-11 06:00:09"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "观点 要求中国为其贸易行为负责 - WSJ",
-      "title_cn": "观点要求中国公平贸易行为负责 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxNNU9hdjJUZWk2bmVJXzdHU3dZdEJsLTNLWnQyaEktZTR3eEU0Q3RqaWlVYzlNSDRPRnlXZXFUOS1qSExYUzBaUGllTllFeFVFRjNBQXZnVUYwRXJWTWwwRVhvaVRmcGhrMVZiQ041dWRQQ1gyV3NHMWpEN3BodHFCdXN6WFlSazB2ak9v?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T19:01:46.000Z",
-      "pub_sort_dt": "2026-09-11 03:01:46"
+      "source": "Bloomberg",
+      "title_en": "中国芯片制造商未盈利却跻身亿万富翁行列",
+      "title_cn": "中国芯片制造商未盈利却主要身亿万富翁行列",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/chinese-chipmakers-become-billionaires-without-turning-a-profit",
+      "pub_raw": "2026-09-11T09:34:01.926Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国华为被指为犯罪企业，该科技公司在美国的庭审正式开始 - theguardian.com",
-      "title_cn": "中国华为被指为犯罪企业，该科技公司在美国法庭正式审讯 - theguardian.com",
-      "url": "https://news.google.com/read/CBMifEFVX3lxTFBYUmFSc3RoVDN3LWhWZVZXN2JnV1JlSG1BRGdSMHBkTlZrSGVwQXJfYlBzb0xtYWZEdU9pNGtNZnlSSnlQWGlnWU8wU1ZLVnkybzdvRWFEdzFoQ0pJMzlpNWp4bEl2OXBHQnRLYUIwbVFsRTFaTE4zbXlBZVg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T18:02:00.000Z",
-      "pub_sort_dt": "2026-09-11 02:02:00"
+      "source": "Bloomberg",
+      "title_en": "中国在“十二五”规划中设定新车销量中电动汽车占比达70%的目标",
+      "title_cn": "中国在“十二五”规划中设定新车销量中强化汽车销量达到70%的目标",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan",
+      "pub_raw": "2026-09-11T09:34:01.884Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "我们正滑向一场战争——而且不是我们已经卷入的那场战争 - The Hill",
-      "title_cn": "我们正滑向一场战争——而且不是我们已经卷入的那场战争 - The Hill",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxOa2dGZjNjVWp0akRKRFR5OWZCekh2WWlBNVNLZjA5Z1lEMHlsVC1HeHRCTWp5VmNzV3BTQjdiNEUtR0hWVGNNVnExaE1uU0YxbUVqREI0MXFwQllhTTU5R2d4NUFPc3laRy15aXNxeG11eno2VEhaTWpJMi04UDFQa2RVUW81QVRyTVgxR0FjLWNQd9IBlwFBVV95cUxQYmFnWUx2OU1PeTVXQXAzWWFDN2p1M1VwWUh2OUE2MnV2RlcyUWhGMkFzOFdBMFBSZFlVeVV5c3NibFdUY0hUdGxVWk82Mm1VamV3WWxGYW5qWnJZWnR6eU1uZmYxclRsLUV4TnJNTnlpRHJ1cVcxZDBMc2ZraFJ2dlhWZFZyUXc2cU94MUpmWFdVcXVCNUpv?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T16:00:00.000Z",
-      "pub_sort_dt": "2026-09-11 00:00:00"
+      "source": "Bloomberg",
+      "title_en": "中国借助内陆地区数据中心的浪潮，与美国竞逐人工智能领先地位",
+      "title_cn": "中国借助内陆地区数据中心的浪潮，与美国竞逐人工智能领先地位",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-11/china-races-us-for-ai-lead-riding-wave-of-data-centers-in-its-hinterland",
+      "pub_raw": "2026-09-11T09:34:01.869Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "菲律宾国防部长当着现场观众的面宣读了中国方面的一封私人信件 - The Washington Post",
-      "title_cn": "预防私人传染病长着在场观众的面宣读了中国方面的一封信 - 华盛顿邮报",
-      "url": "https://news.google.com/read/CBMiuAFBVV95cUxPSi1MWmpTVjZNYzVjN3FaYWc3RWFUOUEtUktGaVNKcHFPS2hNYVV4Q3lVdEFaZjlqQUJlTjE1eEZMSEsta2Q1UE5hLXlZakZFam9JanMwN2k0cnB1dlBvLUs2LVF6VVI3VUNLV3M1U3dxSWliN19ZUzJUU2JkeG9wYkRfQ2N1ZF94SGM5Yllmai1PVTAzV05fQWNPcG9Nd3JDVVE3ckNQc1d2MXM5WHRPaEJFMjgtRkJQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T15:30:46.000Z",
-      "pub_sort_dt": "2026-09-10 23:30:46"
+      "source": "Bloomberg",
+      "title_en": "台湾“二号人物”不顾中国施压，罕见访问意大利",
+      "title_cn": "台湾“二号”人物不顾中国施压，意大利罕见访问",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/taiwan-s-no-2-makes-rare-europe-trip-defying-china-s-isolation",
+      "pub_raw": "2026-09-11T09:34:01.841Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国汽车行业的威胁不仅仅在于电动汽车。特斯拉则陷入了两难境地。 - Barron's",
-      "title_cn": "中国汽车行业的威胁正在加剧电动汽车。特斯拉则陷入了两难境地。 - Barron's",
-      "url": "https://news.google.com/read/CBMifEFVX3lxTFBiTG9YbnZtY0hMRUFuY3BRMWJpMkllYXhYYlNxT0M3amtSMFkzS25DTmd5NUpiMnJLRi1ULXpETXpuMUwwRzN0a0lVX3RLdloxQWZ0eDVWS2FQSV8xUl91c1NKVWJXX0pDdmxvWThNdG9IZ19fUHh1R0xJQXo?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T14:32:00.000Z",
-      "pub_sort_dt": "2026-09-10 22:32:00"
+      "source": "Bloomberg",
+      "title_en": "美光因利润激增向台湾员工发放32,000美元奖金",
+      "title_cn": "美光因利润飙升向台湾员工发放32,000美元奖金",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/micron-rewards-engineers-in-taiwan-with-32-000-cash-bonus",
+      "pub_raw": "2026-09-11T09:34:01.828Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国终于可以松一口气了吗？ - The Economist",
-      "title_cn": "中国终于可以松一口气了吗？ - 《经济学人》",
-      "url": "https://news.google.com/read/CBMidEFVX3lxTE9JOWM2d1pkcXZ6M3ZkREdMS0tPLTJPVnNja0RsLVJmYlBCRldSSURIYWpIUnk4MWRfS0hwdkwybzV6QXBzaDV0ZFA3Y3ozR2Q5bmFZMHR3bXNzVXlqQ1pKVjlkUXNNcTNoMHVxSGNPbUJfc2lx?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T14:20:21.000Z",
-      "pub_sort_dt": "2026-09-10 22:20:21"
+      "source": "Bloomberg",
+      "title_en": "美国支持菲律宾的能源项目，意在针对中国",
+      "title_cn": "美国支持防疫的能源项目，意在针对中国",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/us-backs-lng-nuclear-projects-in-philippines-with-eye-on-china",
+      "pub_raw": "2026-09-11T09:34:01.810Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国呼吁取消英语核心地位引发争议 - dw.com",
-      "title_cn": "中国呼吁取消中国核心地位引发争议 - dw.com",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxNVGRPWUR4bmNSSERxTEwxeVJzY2picHFTWmdwZnE3OEZWVjJnOEhQclF4R3ZMRWtYZk9JVnJYd1k0RXBydFVnQjhSTVRKQkwwQU5xZHZWX3FxM3ZyQ0pjU1ZBc0dsMXp2VGN0ZTluMlY3TU9UclZ1eExXZ29TWGthbnNEWURBUHg2bERqcjBQaEozQdIBkgFBVV95cUxNV0ZIT3kxRWNpSmRhbmthZ1M4SzRlUWVucVZkWTgxTEVaNEtFZ0NkWUV2cEYtUzNkY2RvUEZoNU9Xc3dkRXVjcEI2bkF0WU1PcV9neEpMWjRvSXViaHpaMHhRMWlobTJCTWZKRXdEN2RzYTkzQlhPVENGVGdhSEx3N1JNVzRXLW8wVzJTR0F2d2x3UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T13:33:47.000Z",
-      "pub_sort_dt": "2026-09-10 21:33:47"
+      "source": "Bloomberg",
+      "title_en": "腾讯投资的芯片制造商Enflame在上海首日上市大涨179%",
+      "title_cn": "腾讯投资的芯片制造商Enflame在上海首日上市大涨179%",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/tencent-backed-chipmaker-enflame-to-debut-after-911-million-ipo",
+      "pub_raw": "2026-09-11T09:34:01.785Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国因产能担忧叫停新建电池工厂",
+      "title_cn": "中国因产能担忧而叫停新建电池工厂",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-halts-new-battery-factories-on-capacity-concerns-caixin",
+      "pub_raw": "2026-09-11T09:34:01.782Z",
+      "pub_sort_dt": "2026-09-11 17:34:01"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国外交部称，中国和印度正在安排习近平与莫迪的会晤",
+      "title_cn": "中国称，中国和印度正在安排习近平与莫迪的会晤",
+      "url": "https://reut.rs/4gIH5HG",
+      "pub_raw": "2026-09-11T09:34:00.696Z",
+      "pub_sort_dt": "2026-09-11 17:34:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "随着IPO热潮推动金融中心复兴，香港正吸引人才回流",
+      "title_cn": "借助IPO热潮推动金融中心复兴，香港正吸引人才回流",
+      "url": "https://reut.rs/4A7MKPc",
+      "pub_raw": "2026-09-11T09:34:00.683Z",
+      "pub_sort_dt": "2026-09-11 17:34:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美光台湾员工将获得最高相当于68个月工资的奖励",
+      "title_cn": "美光台湾员工将获得最高虚拟68个月工资的奖励",
+      "url": "https://reut.rs/4A8DKsU",
+      "pub_raw": "2026-09-11T09:34:00.673Z",
+      "pub_sort_dt": "2026-09-11 17:34:00"
     },
     {
       "source": "Bloomberg",
@@ -341,22 +429,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-solar-wrap-wafer-prices-steady-after-falling-last-week",
       "pub_raw": "2026-09-11T02:45:35.086Z",
       "pub_sort_dt": "2026-09-11 10:45:35"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "《财新》：中国因产能过剩担忧叫停新建电池工厂",
-      "title_cn": "《财新》：中国因产能过剩担忧叫停新建电池工厂",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-halts-new-battery-factories-on-capacity-concerns-caixin",
-      "pub_raw": "2026-09-11T02:45:35.072Z",
-      "pub_sort_dt": "2026-09-11 10:45:35"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "腾讯投资的芯片制造商Enflame在上海首日上市大涨188%",
-      "title_cn": "腾讯投资的芯片制造商Enflame在上海首日上市大涨188%",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-11/tencent-backed-chipmaker-enflame-to-debut-after-911-million-ipo",
-      "pub_raw": "2026-09-11T01:41:51.022Z",
-      "pub_sort_dt": "2026-09-11 09:41:51"
     },
     {
       "source": "Reuters",
@@ -421,78 +493,6 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/oil-buyers-question-whether-china-will-take-action-to-restrain-prices-again",
       "pub_raw": "2026-09-10T11:37:59.576Z",
       "pub_sort_dt": "2026-09-10 19:37:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "欧洲的“中国冲击”",
-      "title_cn": "欧洲的“中国冲击”",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/europe-s-china-shock",
-      "pub_raw": "2026-09-10T11:21:34.751Z",
-      "pub_sort_dt": "2026-09-10 19:21:34"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "现在真的该担心新一轮“中国冲击”了吗？",
-      "title_cn": "现在真的担心新一轮“中国冲击”了吗？",
-      "url": "https://www.ft.com/content/796f0045-d300-4e22-be82-fa9a111fb634",
-      "pub_raw": "2026-09-10T11:21:32.577Z",
-      "pub_sort_dt": "2026-09-10 19:21:32"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中石化研究人员表示，到2030年，中国电动汽车渗透率可能达到80%",
-      "title_cn": "中石化研究人员表示，到2030年，中国电动汽车渗透率可能达到80%",
-      "url": "https://reut.rs/4ihgHpx",
-      "pub_raw": "2026-09-10T10:03:17.583Z",
-      "pub_sort_dt": "2026-09-10 18:03:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "抨击福特与中国之间的联系，无异于自取灭亡",
-      "title_cn": "福特与中国之间的联系，无异于自取灭亡",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-10/bashing-ford-s-china-ties-is-a-recipe-for-obsolescence",
-      "pub_raw": "2026-09-10T09:15:43.759Z",
-      "pub_sort_dt": "2026-09-10 17:15:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港IPO股价暴涨177%凸显配售规则中的怪现象",
-      "title_cn": "香港IPO股价暴涨177%凸显配售规则中的怪现象",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/hong-kong-ipo-s-177-pop-highlights-quirk-in-allocation-rules",
-      "pub_raw": "2026-09-10T09:15:43.752Z",
-      "pub_sort_dt": "2026-09-10 17:15:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着市场复苏，香港顶级开发商利润上升",
-      "title_cn": "随着市场复苏，香港顶级利润上升",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/hong-kong-s-top-developer-profit-rises-on-market-recovery",
-      "pub_raw": "2026-09-10T09:15:43.749Z",
-      "pub_sort_dt": "2026-09-10 17:15:43"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "合肥的繁荣揭示了中国政府主导的制造业发展计划的局限性",
-      "title_cn": "合肥的繁荣揭示了中国政府主导的制造业发展计划的局限性",
-      "url": "https://reut.rs/4xMMymT",
-      "pub_raw": "2026-09-10T08:59:13.786Z",
-      "pub_sort_dt": "2026-09-10 16:59:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家报道：一项价值10亿美元的规避制裁方案如何让中国商品持续流入伊朗",
-      "title_cn": "独家报道：一项价值10亿美元的制裁方案如何让中国商品持续流入伊朗",
-      "url": "https://reut.rs/4gLKLIN",
-      "pub_raw": "2026-09-10T08:59:13.783Z",
-      "pub_sort_dt": "2026-09-10 16:59:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "“莫莉茶”事件引发舆论反弹，路易威登在中国销售额下滑",
-      "title_cn": "“莫莉茶”事件引发经济复苏，路易威登首次登陆中国销售额",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/louis-vuitton-loses-china-sales-after-legal-fight-with-tea-chain",
-      "pub_raw": "2026-09-10T08:11:59.216Z",
-      "pub_sort_dt": "2026-09-10 16:11:59"
     }
   ]
 }
