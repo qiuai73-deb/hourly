@@ -1,15 +1,47 @@
 {
-  "update_cst": "2026-09-11 18:01:07 北京时间",
+  "update_cst": "2026-09-11 22:01:14 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 2,
-    "Bloomberg": 13,
-    "Financial Times": 0,
+    "The Economist": 0,
+    "Bloomberg": 10,
+    "Financial Times": 2,
     "Wall Street Journal": 0,
-    "Reuters": 5
+    "Reuters": 8
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "对中国而言，微信遭遇的这场模拟人工智能攻击预示着一个危险的新时代的到来 - The New York Times",
+      "title_cn": "对中国而言，微信遭受的感染模拟人工智能攻击正面临着一个危险的新时代的到来 - 纽约时报",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTFBLT1V6dG0xRGNxMDBjbF9KN3VvUlcwU2Uxa21PYVY5Wm1ET3dqODJOcmlEQUlCbjloZENlY1pSUnJmdU5BWGZ4cWdUeEUzSXZGU0trbEdwWGM0eHh5NkQ3RE04UDN2am1tVzFPaDdRLTJlLW81dWUwLUt1Z0Jidw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T09:11:41.000Z",
+      "pub_sort_dt": "2026-09-11 17:11:41"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特朗普驳斥对人工智能导致人类灭绝的担忧，称击败中国才是更紧迫的问题 - forbes.com",
+      "title_cn": "特朗普驳斥对人工智能导致消除的担忧，称击败中国才是人类更紧迫的问题 - forbes.com",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxQUFNLTVhIbERxLVFKUUN2ck01RkdxMERDT2FydmFDdjNvN2ZLTWJVS29fVDVTTnZEeFdmb3J5emZMb1NBampMU1ZYa1Y5VEtDVGxGbFJyblRfdFNkNjBZeEljZmlZdmNrY3daUmlJYUxja0tIR1RRQmQ0ZDVha3NMNXd2VGFXTDJsQ05ObHl5RnpmekdOVVUxeGVPRWc5a29Rc1diYy1vWlpXUFdEVzRCbXpPcHZYWUNVdGloQ2wxLTR1Sk1UTzl6YzR3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T08:38:18.000Z",
+      "pub_sort_dt": "2026-09-11 16:38:18"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "为什么印度越来越需要中国，反之亦然 - Bloomberg.com",
+      "title_cn": "为什么印度越来越需要中国，反之亦然 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQdEhYRXB6R0JNQlNrZGd1Q0Jvc0kzemFUTVE4MHNYR3RZRmJfaGFWcTlJczJkWnhnLUEtSlI0dmE2ZHQyWEpfZ0lFcGRyX2RHbHMtaGd6cm1keUFuQnp0ejhhclBfdUQ3Ukk5VzR2Vk84STczVDRCWFVZS3FZSTI0VmhfMGlMRzQyYjRwaFRzSnhwdU9sUU5sdFFxMGpVeVJaRUduSnVqUHpVcWMwc3JOUXMxUl9ldGtIVU9CYXhuTUg1ZFU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T07:09:08.000Z",
+      "pub_sort_dt": "2026-09-11 15:09:08"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国海岸警卫队驶入动荡水域，执行在太平洋地区遏制中国的任务 - South China Morning Post",
+      "title_cn": "美国海岸警卫队驶入动荡水域，执行太平洋地区重建中国的任务 - 南华早报",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxOV1VncjJRYmxYR01KaWhlZFA1anBGRFhYb0dTUF9JY2JBdzBBOVdjV0xXbTJnR3RkVVdPaFFZNFctblkxNFpHSGZWVUpCT0p2cC1iVThpaVJMVmp6cUlsSUV4VFltQUhycDNlOGhwSmNXSFNqY0FQZDM0TThNQ3R3NV9tQUtKZjFkaGFPN0xOeW15Z1VoNjNVQmY1UFRLUmtlaFptLWxHRlNYa2JNMGxWcy0tMXZxcHJWLURoUUg0Q2fSAcABQVVfeXFMUEphT1RGMmgxMDcyU2FjR3ZvSGlJaEZzZUhkOUI3V1diNFBrSmpCd0RSWndxdGVKQ25wQ2lBV0pkd2hDeURJemRsZzFpVnBJSUVtUnNhUHNxNWc0bEdMT1hGOWIxeldaTDIzeVAtTnBScDZGc1ZyeFVmcnVzTF96cHdvbnNMZm1NNTk3NG1GbnYyUVJRVm9FNjFwNml4TTVQSUlmbnlPcFpmRWJnM1dHSE5GaTg0ZXZNXzJrZ055TVN4?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T07:00:08.000Z",
+      "pub_sort_dt": "2026-09-11 15:00:08"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国“四大GPU小老虎”的真正考验尚未到来 - WSJ",
@@ -57,41 +89,65 @@
       "url": "https://news.google.com/read/CBMihAFBVV95cUxPZk5MTHRNZ1JySWlyMHVYa0Z2YkhQaG85ZVBJZUFOelF5X3p3MEtsZEhhMXhGeVV4bnNyYjFVSVJlSUM3MEJkWmxPWTRHcGJlWmpCY051WkdmbDBuWFVYN0xOdXRvV3VPa28xN3VhWV9YbkNodk5qX1hsbUdYcjYxMjRUamU?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-11T03:17:24.000Z",
       "pub_sort_dt": "2026-09-11 11:17:24"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "香港“天安门”烛光晚会组织者被判处长期监禁 - CNN",
-      "title_cn": "香港“天安门”烛光晚会组织者被长期监禁 - CNN",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxPZUd6OVNsSXRrYkhleHFyZG5HT0lLMmlGZzc0NjhzOVZTZWx1YTJtX0VIWXhmV0IydDFpTUFSREdLVXAtMGFObktRRmwtTVhJY3Z5Q3hBOWRuTXRheS1rZHBPcTZnNmJBMmdqaEJkVmxhVWZaMzk3dk9tSjlwOTZPQnNiQmQtQ21LMjdN?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T02:33:00.000Z",
-      "pub_sort_dt": "2026-09-11 10:33:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "《财新》：中国因产能担忧叫停新建电池工厂 - bloomberg.com",
-      "title_cn": "《财新》：中国因产能担忧叫停新建电池工厂 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxNdXQtSV9qVXFwV1VfWm81V3JteGVvakhIMkc2S2p5RlozcnlDdXVjaE9MbHBITDlDcFRXY09mOHFaUko3azRMeUVnaWVWMUtDY1NXeE9DVVFEemNwNFM1cjlTLTB3QUpqWlVFYXBjQ0lwRnlDSHp1R2ZGdHRUNDB1SXRMcmtEWVBma01GMWxYQ3JxeGZRX2FmaHYxeXFyUXJSMWNDWmtzUDJFcVZkMFFQWmJB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T00:22:00.000Z",
-      "pub_sort_dt": "2026-09-11 08:22:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "iPhone Duo进军中国竞争激烈的折叠屏市场——并将面临价格考验 - CNBC",
-      "title_cn": "iPhone Duo进军中国竞争激烈的折叠屏市场——面临价格考验 - CNBC",
-      "url": "https://news.google.com/read/CBMikwFBVV95cUxQVmNMTm5sLWlLTEZkMUg3cm9Fb2lqVEYyOGhhcE5YemdTcjdMaXpGVnAzSFZKemxQSXA4Z0NsblZtQ3RCS2tHbUJMbkotQkI2YzVXZ2xBVTJaTEVuOU5kYTA2eDl2VTg5bVZSRlltUV9WTG0xWURzYzZHM1lCeUdzRmVscWVDQ252ZGdzSTdNc2pEcjTSAZgBQVVfeXFMTktYVUpGdGl4TXk0aDZBNWdfNTFMSUdsRGNkY1QwNm1Va3l1UzYyX194eHRtUmRselJ6bUxOaTF2Q2xSMDU3b1k2MjJDXzNQUHlySHRVV3NWQ1IzZTZaZlRKRGZXbm9nbU80YnhPcHJqWHFsSV9HQ2lYWFhyeU9sRUhTM2ZzTlVodWxaUWZibTZRT3NPUWRuQVM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T00:19:00.000Z",
-      "pub_sort_dt": "2026-09-11 08:19:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "独家 科技、电动汽车和航空航天领域高管或将随习近平访美，以呼应特朗普团队 - South China Morning Post",
-      "title_cn": "独家科技、电动汽车和航空航天领域高管或将随习近平访美，以呼应特朗普团队 - 南华早报",
-      "url": "https://news.google.com/read/CBMizAFBVV95cUxNejlqWExhTUdGeVhRbXVURjZiUkNzdkJLcG1WWTQ1OXR6VDlhTXB6UElHRko3d1lZazdEazlFYUpWLXNTOW51ZE92VHpfTkpoSHNHYXJaSzM3eGxJVlNvWkJaNEt1S3EtZXdPY3RqSERvXzFuMWZTYmNXc2oxZGphc2JrSnN5YzNtY0lPN1pDWXJ6NmpLb3loa3pzU2VfM1FxZVRjc1p4N3F0ZnA2NTE4RW44SF9NUGRfXzdqcnphQjA4Y0Y4N2FTelhpV03SAcwBQVVfeXFMT3hxMkoyZnktMjl1bTlhdWp6OWJWUmNzZHdCZmU3LVpPdVNkTjlady1yZEF3RjRMWVNUcF84OGNvd0ViZ0h5XzdSVlNSeUIxcUtHNnM4WS1tTDNXQUdocG1RSUJlOFk5a0E1X0xENjkxVHdiY3ZUVElnTWgzNkFMSnBxUHJEVkRXS2VneEpFWmVRZHo0N3QxaUxZRWtpekVsZXUxVXRMY0RnX1dkanRoam91LXFCbUZjMFVwZkhBU0Jlck4zb2dYZmJsdTNE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T22:00:09.000Z",
-      "pub_sort_dt": "2026-09-11 06:00:09"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "中国人工智能开发商Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
+      "title_cn": "中国人工智能曼谷Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
+      "url": "https://reut.rs/4xPowHJ",
+      "pub_raw": "2026-09-11T13:48:57.415Z",
+      "pub_sort_dt": "2026-09-11 21:48:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "基金和中国工业企业的逢低买入支撑铜价企稳",
+      "title_cn": "基金与中国工业企业的逢低买入支撑铜价企稳",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/copper-heads-for-weekly-loss-as-doubts-on-us-tariffs-intensify",
+      "pub_raw": "2026-09-11T11:58:10.956Z",
+      "pub_sort_dt": "2026-09-11 19:58:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国发布加强农业保险的计划",
+      "title_cn": "中国印发加强农业保险计划",
+      "url": "https://reut.rs/4xlpevp",
+      "pub_raw": "2026-09-11T11:26:21.408Z",
+      "pub_sort_dt": "2026-09-11 19:26:21"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国石油巨头如何协助北京为能源危机做准备",
+      "title_cn": "中国石油工会如何协助北京为能源危机做准备",
+      "url": "https://reut.rs/4rfSemT",
+      "pub_raw": "2026-09-11T10:55:20.062Z",
+      "pub_sort_dt": "2026-09-11 18:55:20"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "自伊朗战争爆发以来，中国第三次限制燃油价格涨幅",
+      "title_cn": "自伊朗战争爆发以来，中国第三次限制燃油价格上涨",
+      "url": "https://reut.rs/4ducpHW",
+      "pub_raw": "2026-09-11T10:39:26.673Z",
+      "pub_sort_dt": "2026-09-11 18:39:26"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "香港将天安门纪念活动组织者收监",
+      "title_cn": "香港将天安门纪念活动组织者收监",
+      "url": "https://www.ft.com/content/45ba5468-87fa-4afb-8c35-ff27579109d3?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-11T10:24:14.735Z",
+      "pub_sort_dt": "2026-09-11 18:24:14"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "盎格鲁镍业交易考验欧盟对中国控制资源问题的决心",
+      "title_cn": "格鲁镍业交易考验欧盟对中国控制资源问题的决心",
+      "url": "https://www.ft.com/content/1dbb63ef-359b-410e-8e86-5cd2df59fc3d?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-11T10:24:14.626Z",
+      "pub_sort_dt": "2026-09-11 18:24:14"
+    },
     {
       "source": "Bloomberg",
       "title_en": "中国芯片制造商未盈利却跻身亿万富翁行列",
@@ -103,7 +159,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国在“十二五”规划中设定新车销量中电动汽车占比达70%的目标",
-      "title_cn": "中国在“十二五”规划中设定新车销量中强化汽车销量达到70%的目标",
+      "title_cn": "中国在“十二五”规划中设定新车销量中强制汽车销量达到70%的目标",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan",
       "pub_raw": "2026-09-11T09:34:01.884Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -195,67 +251,43 @@
       "url": "https://reut.rs/4yB5e9k",
       "pub_raw": "2026-09-10T23:33:53.868Z",
       "pub_sort_dt": "2026-09-11 07:33:53"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "韩国加强间谍法以保护芯片机密免受中国威胁",
-      "title_cn": "韩国加强间谍法以保护机密芯片中国威胁",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/south-korea-ramps-up-spy-law-to-protect-chip-secrets-from-china",
-      "pub_raw": "2026-09-10T21:25:37.097Z",
-      "pub_sort_dt": "2026-09-11 05:25:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "大选在即，“中国威胁”削弱了日本民众对美军基地的愤怒",
-      "title_cn": "大选同时，“中国威胁”了日本民众对美军基地的愤怒",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/china-threat-erodes-japanese-anger-over-us-bases-ahead-of-vote",
-      "pub_raw": "2026-09-10T20:37:38.317Z",
-      "pub_sort_dt": "2026-09-11 04:37:38"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国能够研发新药，但筹集研发资金却更为困难",
-      "title_cn": "中国能够研发新药，但募集研发资金却更加困难",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-10/china-can-invent-new-drugs-paying-for-them-is-harder",
-      "pub_raw": "2026-09-10T19:18:54.663Z",
-      "pub_sort_dt": "2026-09-11 03:18:54"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国东部一船厂货轮起火，造成25人死亡",
-      "title_cn": "中国东部一船厂货轮起火，造成25人死亡",
-      "url": "https://reut.rs/4xdqxfN",
-      "pub_raw": "2026-09-10T15:51:29.793Z",
-      "pub_sort_dt": "2026-09-10 23:51:29"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国重新审视其与休闲的关系",
-      "title_cn": "中国重新利用其与休闲的关系",
-      "url": "https://www.economist.com/china/2026/09/10/china-rethinks-its-relationship-with-leisure",
-      "pub_raw": "2026-09-10T14:48:32.914Z",
-      "pub_sort_dt": "2026-09-10 22:48:32"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "香港首任行政长官董建华去世",
-      "title_cn": "香港首任行政长官董建华去世",
-      "url": "https://www.economist.com/china/2026/09/10/tung-chee-hwa-hong-kongs-first-chief-executive-has-died",
-      "pub_raw": "2026-09-10T14:48:32.900Z",
-      "pub_sort_dt": "2026-09-10 22:48:32"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "原油买家质疑中国是否会再次采取行动抑制油价",
-      "title_cn": "原油买家质疑中国是否会再次采取行动抑制倍增",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/oil-buyers-question-whether-china-will-take-action-to-restrain-prices-again",
-      "pub_raw": "2026-09-10T11:37:59.576Z",
-      "pub_sort_dt": "2026-09-10 19:37:59"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "对中国而言，微信遭遇的这场模拟人工智能攻击预示着一个危险的新时代的到来 - The New York Times",
+      "title_cn": "对中国而言，微信遭受的感染模拟人工智能攻击正面临着一个危险的新时代的到来 - 纽约时报",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTFBLT1V6dG0xRGNxMDBjbF9KN3VvUlcwU2Uxa21PYVY5Wm1ET3dqODJOcmlEQUlCbjloZENlY1pSUnJmdU5BWGZ4cWdUeEUzSXZGU0trbEdwWGM0eHh5NkQ3RE04UDN2am1tVzFPaDdRLTJlLW81dWUwLUt1Z0Jidw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T09:11:41.000Z",
+      "pub_sort_dt": "2026-09-11 17:11:41"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特朗普驳斥对人工智能导致人类灭绝的担忧，称击败中国才是更紧迫的问题 - forbes.com",
+      "title_cn": "特朗普驳斥对人工智能导致消除的担忧，称击败中国才是人类更紧迫的问题 - forbes.com",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxQUFNLTVhIbERxLVFKUUN2ck01RkdxMERDT2FydmFDdjNvN2ZLTWJVS29fVDVTTnZEeFdmb3J5emZMb1NBampMU1ZYa1Y5VEtDVGxGbFJyblRfdFNkNjBZeEljZmlZdmNrY3daUmlJYUxja0tIR1RRQmQ0ZDVha3NMNXd2VGFXTDJsQ05ObHl5RnpmekdOVVUxeGVPRWc5a29Rc1diYy1vWlpXUFdEVzRCbXpPcHZYWUNVdGloQ2wxLTR1Sk1UTzl6YzR3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T08:38:18.000Z",
+      "pub_sort_dt": "2026-09-11 16:38:18"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "为什么印度越来越需要中国，反之亦然 - Bloomberg.com",
+      "title_cn": "为什么印度越来越需要中国，反之亦然 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQdEhYRXB6R0JNQlNrZGd1Q0Jvc0kzemFUTVE4MHNYR3RZRmJfaGFWcTlJczJkWnhnLUEtSlI0dmE2ZHQyWEpfZ0lFcGRyX2RHbHMtaGd6cm1keUFuQnp0ejhhclBfdUQ3Ukk5VzR2Vk84STczVDRCWFVZS3FZSTI0VmhfMGlMRzQyYjRwaFRzSnhwdU9sUU5sdFFxMGpVeVJaRUduSnVqUHpVcWMwc3JOUXMxUl9ldGtIVU9CYXhuTUg1ZFU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T07:09:08.000Z",
+      "pub_sort_dt": "2026-09-11 15:09:08"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国海岸警卫队驶入动荡水域，执行在太平洋地区遏制中国的任务 - South China Morning Post",
+      "title_cn": "美国海岸警卫队驶入动荡水域，执行太平洋地区重建中国的任务 - 南华早报",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxOV1VncjJRYmxYR01KaWhlZFA1anBGRFhYb0dTUF9JY2JBdzBBOVdjV0xXbTJnR3RkVVdPaFFZNFctblkxNFpHSGZWVUpCT0p2cC1iVThpaVJMVmp6cUlsSUV4VFltQUhycDNlOGhwSmNXSFNqY0FQZDM0TThNQ3R3NV9tQUtKZjFkaGFPN0xOeW15Z1VoNjNVQmY1UFRLUmtlaFptLWxHRlNYa2JNMGxWcy0tMXZxcHJWLURoUUg0Q2fSAcABQVVfeXFMUEphT1RGMmgxMDcyU2FjR3ZvSGlJaEZzZUhkOUI3V1diNFBrSmpCd0RSWndxdGVKQ25wQ2lBV0pkd2hDeURJemRsZzFpVnBJSUVtUnNhUHNxNWc0bEdMT1hGOWIxeldaTDIzeVAtTnBScDZGc1ZyeFVmcnVzTF96cHdvbnNMZm1NNTk3NG1GbnYyUVJRVm9FNjFwNml4TTVQSUlmbnlPcFpmRWJnM1dHSE5GaTg0ZXZNXzJrZ055TVN4?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-11T07:00:08.000Z",
+      "pub_sort_dt": "2026-09-11 15:00:08"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国“四大GPU小老虎”的真正考验尚未到来 - WSJ",
       "title_cn": "中国“四大GPU小老虎”的真正考验尚未到来 - 华尔街日报",
       "url": "https://news.google.com/read/CBMimAFBVV95cUxPVEpQUG1Wck52OWxFTDZUaTBRUEFGSjNPdkRzU0ZRUzNxN0FKaDhEcDFoRDJaSWI0NlBmcVVJZjFMbDJkbGNBN25jVEs1bHRBemJPTjEwSXlheFNxZmZmM3puTUFoV1lQMW9BeFpTVDBiZDd0MHV0eThtTElDTVdiYklfcUhmOVhmU0U2eHFFUHhWZWhWeXhvRg?hl=en-US&gl=US&ceid=US%3Aen",
@@ -303,36 +335,60 @@
       "pub_sort_dt": "2026-09-11 11:17:24"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "香港“天安门”烛光晚会组织者被判处长期监禁 - CNN",
-      "title_cn": "香港“天安门”烛光晚会组织者被长期监禁 - CNN",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxPZUd6OVNsSXRrYkhleHFyZG5HT0lLMmlGZzc0NjhzOVZTZWx1YTJtX0VIWXhmV0IydDFpTUFSREdLVXAtMGFObktRRmwtTVhJY3Z5Q3hBOWRuTXRheS1rZHBPcTZnNmJBMmdqaEJkVmxhVWZaMzk3dk9tSjlwOTZPQnNiQmQtQ21LMjdN?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T02:33:00.000Z",
-      "pub_sort_dt": "2026-09-11 10:33:00"
+      "source": "Reuters",
+      "title_en": "中国人工智能开发商Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
+      "title_cn": "中国人工智能曼谷Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
+      "url": "https://reut.rs/4xPowHJ",
+      "pub_raw": "2026-09-11T13:48:57.415Z",
+      "pub_sort_dt": "2026-09-11 21:48:57"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "《财新》：中国因产能担忧叫停新建电池工厂 - bloomberg.com",
-      "title_cn": "《财新》：中国因产能担忧叫停新建电池工厂 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxNdXQtSV9qVXFwV1VfWm81V3JteGVvakhIMkc2S2p5RlozcnlDdXVjaE9MbHBITDlDcFRXY09mOHFaUko3azRMeUVnaWVWMUtDY1NXeE9DVVFEemNwNFM1cjlTLTB3QUpqWlVFYXBjQ0lwRnlDSHp1R2ZGdHRUNDB1SXRMcmtEWVBma01GMWxYQ3JxeGZRX2FmaHYxeXFyUXJSMWNDWmtzUDJFcVZkMFFQWmJB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T00:22:00.000Z",
-      "pub_sort_dt": "2026-09-11 08:22:00"
+      "source": "Bloomberg",
+      "title_en": "基金和中国工业企业的逢低买入支撑铜价企稳",
+      "title_cn": "基金与中国工业企业的逢低买入支撑铜价企稳",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/copper-heads-for-weekly-loss-as-doubts-on-us-tariffs-intensify",
+      "pub_raw": "2026-09-11T11:58:10.956Z",
+      "pub_sort_dt": "2026-09-11 19:58:10"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "iPhone Duo进军中国竞争激烈的折叠屏市场——并将面临价格考验 - CNBC",
-      "title_cn": "iPhone Duo进军中国竞争激烈的折叠屏市场——面临价格考验 - CNBC",
-      "url": "https://news.google.com/read/CBMikwFBVV95cUxQVmNMTm5sLWlLTEZkMUg3cm9Fb2lqVEYyOGhhcE5YemdTcjdMaXpGVnAzSFZKemxQSXA4Z0NsblZtQ3RCS2tHbUJMbkotQkI2YzVXZ2xBVTJaTEVuOU5kYTA2eDl2VTg5bVZSRlltUV9WTG0xWURzYzZHM1lCeUdzRmVscWVDQ252ZGdzSTdNc2pEcjTSAZgBQVVfeXFMTktYVUpGdGl4TXk0aDZBNWdfNTFMSUdsRGNkY1QwNm1Va3l1UzYyX194eHRtUmRselJ6bUxOaTF2Q2xSMDU3b1k2MjJDXzNQUHlySHRVV3NWQ1IzZTZaZlRKRGZXbm9nbU80YnhPcHJqWHFsSV9HQ2lYWFhyeU9sRUhTM2ZzTlVodWxaUWZibTZRT3NPUWRuQVM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T00:19:00.000Z",
-      "pub_sort_dt": "2026-09-11 08:19:00"
+      "source": "Reuters",
+      "title_en": "中国发布加强农业保险的计划",
+      "title_cn": "中国印发加强农业保险计划",
+      "url": "https://reut.rs/4xlpevp",
+      "pub_raw": "2026-09-11T11:26:21.408Z",
+      "pub_sort_dt": "2026-09-11 19:26:21"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "独家 科技、电动汽车和航空航天领域高管或将随习近平访美，以呼应特朗普团队 - South China Morning Post",
-      "title_cn": "独家科技、电动汽车和航空航天领域高管或将随习近平访美，以呼应特朗普团队 - 南华早报",
-      "url": "https://news.google.com/read/CBMizAFBVV95cUxNejlqWExhTUdGeVhRbXVURjZiUkNzdkJLcG1WWTQ1OXR6VDlhTXB6UElHRko3d1lZazdEazlFYUpWLXNTOW51ZE92VHpfTkpoSHNHYXJaSzM3eGxJVlNvWkJaNEt1S3EtZXdPY3RqSERvXzFuMWZTYmNXc2oxZGphc2JrSnN5YzNtY0lPN1pDWXJ6NmpLb3loa3pzU2VfM1FxZVRjc1p4N3F0ZnA2NTE4RW44SF9NUGRfXzdqcnphQjA4Y0Y4N2FTelhpV03SAcwBQVVfeXFMT3hxMkoyZnktMjl1bTlhdWp6OWJWUmNzZHdCZmU3LVpPdVNkTjlady1yZEF3RjRMWVNUcF84OGNvd0ViZ0h5XzdSVlNSeUIxcUtHNnM4WS1tTDNXQUdocG1RSUJlOFk5a0E1X0xENjkxVHdiY3ZUVElnTWgzNkFMSnBxUHJEVkRXS2VneEpFWmVRZHo0N3QxaUxZRWtpekVsZXUxVXRMY0RnX1dkanRoam91LXFCbUZjMFVwZkhBU0Jlck4zb2dYZmJsdTNE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-10T22:00:09.000Z",
-      "pub_sort_dt": "2026-09-11 06:00:09"
+      "source": "Reuters",
+      "title_en": "中国石油巨头如何协助北京为能源危机做准备",
+      "title_cn": "中国石油工会如何协助北京为能源危机做准备",
+      "url": "https://reut.rs/4rfSemT",
+      "pub_raw": "2026-09-11T10:55:20.062Z",
+      "pub_sort_dt": "2026-09-11 18:55:20"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "自伊朗战争爆发以来，中国第三次限制燃油价格涨幅",
+      "title_cn": "自伊朗战争爆发以来，中国第三次限制燃油价格上涨",
+      "url": "https://reut.rs/4ducpHW",
+      "pub_raw": "2026-09-11T10:39:26.673Z",
+      "pub_sort_dt": "2026-09-11 18:39:26"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "香港将天安门纪念活动组织者收监",
+      "title_cn": "香港将天安门纪念活动组织者收监",
+      "url": "https://www.ft.com/content/45ba5468-87fa-4afb-8c35-ff27579109d3?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-11T10:24:14.735Z",
+      "pub_sort_dt": "2026-09-11 18:24:14"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "盎格鲁镍业交易考验欧盟对中国控制资源问题的决心",
+      "title_cn": "格鲁镍业交易考验欧盟对中国控制资源问题的决心",
+      "url": "https://www.ft.com/content/1dbb63ef-359b-410e-8e86-5cd2df59fc3d?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-11T10:24:14.626Z",
+      "pub_sort_dt": "2026-09-11 18:24:14"
     },
     {
       "source": "Bloomberg",
@@ -345,7 +401,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国在“十二五”规划中设定新车销量中电动汽车占比达70%的目标",
-      "title_cn": "中国在“十二五”规划中设定新车销量中强化汽车销量达到70%的目标",
+      "title_cn": "中国在“十二五”规划中设定新车销量中强制汽车销量达到70%的目标",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan",
       "pub_raw": "2026-09-11T09:34:01.884Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -437,62 +493,6 @@
       "url": "https://reut.rs/4yB5e9k",
       "pub_raw": "2026-09-10T23:33:53.868Z",
       "pub_sort_dt": "2026-09-11 07:33:53"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "韩国加强间谍法以保护芯片机密免受中国威胁",
-      "title_cn": "韩国加强间谍法以保护机密芯片中国威胁",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/south-korea-ramps-up-spy-law-to-protect-chip-secrets-from-china",
-      "pub_raw": "2026-09-10T21:25:37.097Z",
-      "pub_sort_dt": "2026-09-11 05:25:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "大选在即，“中国威胁”削弱了日本民众对美军基地的愤怒",
-      "title_cn": "大选同时，“中国威胁”了日本民众对美军基地的愤怒",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/china-threat-erodes-japanese-anger-over-us-bases-ahead-of-vote",
-      "pub_raw": "2026-09-10T20:37:38.317Z",
-      "pub_sort_dt": "2026-09-11 04:37:38"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国能够研发新药，但筹集研发资金却更为困难",
-      "title_cn": "中国能够研发新药，但募集研发资金却更加困难",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-10/china-can-invent-new-drugs-paying-for-them-is-harder",
-      "pub_raw": "2026-09-10T19:18:54.663Z",
-      "pub_sort_dt": "2026-09-11 03:18:54"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国东部一船厂货轮起火，造成25人死亡",
-      "title_cn": "中国东部一船厂货轮起火，造成25人死亡",
-      "url": "https://reut.rs/4xdqxfN",
-      "pub_raw": "2026-09-10T15:51:29.793Z",
-      "pub_sort_dt": "2026-09-10 23:51:29"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国重新审视其与休闲的关系",
-      "title_cn": "中国重新利用其与休闲的关系",
-      "url": "https://www.economist.com/china/2026/09/10/china-rethinks-its-relationship-with-leisure",
-      "pub_raw": "2026-09-10T14:48:32.914Z",
-      "pub_sort_dt": "2026-09-10 22:48:32"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "香港首任行政长官董建华去世",
-      "title_cn": "香港首任行政长官董建华去世",
-      "url": "https://www.economist.com/china/2026/09/10/tung-chee-hwa-hong-kongs-first-chief-executive-has-died",
-      "pub_raw": "2026-09-10T14:48:32.900Z",
-      "pub_sort_dt": "2026-09-10 22:48:32"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "原油买家质疑中国是否会再次采取行动抑制油价",
-      "title_cn": "原油买家质疑中国是否会再次采取行动抑制倍增",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/oil-buyers-question-whether-china-will-take-action-to-restrain-prices-again",
-      "pub_raw": "2026-09-10T11:37:59.576Z",
-      "pub_sort_dt": "2026-09-10 19:37:59"
     }
   ]
 }
