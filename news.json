@@ -1,19 +1,51 @@
 {
-  "update_cst": "2026-09-12 12:01:02 北京时间",
+  "update_cst": "2026-09-12 15:01:05 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
     "Bloomberg": 11,
-    "Financial Times": 2,
+    "Financial Times": 3,
     "Wall Street Journal": 0,
-    "Reuters": 7
+    "Reuters": 6
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国国家主席习近平前往印度出席金砖国家峰会，但峰会因战争阴云笼罩而蒙上阴影 - Al Jazeera",
+      "title_cn": "中国国家主席习近平前往印度出席金砖国家峰会，但峰会因战争阴云笼罩而蒙上阴影 - 半岛电视台",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxOaW1hdmpKRHlLcUJ6dVFoRE9xMEJOWlNpdEQ4VlEwN1RkTUlSa05JOG5Sal9CV3d2WFkyaHZWTl80S2lBNzJQSkJMRzhiV2wweHFXbk9QUU40SGt4bDlrZl9OOXVab2ZfVVFncHBXV0cydnVqUmc1LVNDR1dHcjIzelNkNk9NLS1SRmJyZVd5bENIenQtbDNveUVpdjdkeWtvMF9aWEhB0gGrAUFVX3lxTE9JendtdDYzMlpwZ09rS0lycS1fMnlmT0pZbkRfQllUclhyWW1wRlBnejgtMFVtM3I1ZmhuTS13Z3lGTGdMbExacTVIeVRFS3R4bkw3QlVjdzhCSGUySGFvdC04Q19DRmVwZ0xxblRnOXNQbWg3MzZpYjVxMU5QZDY4cEtrVDNpd1Y5VHVHUmJWVGtkRzR1YTQ0UUxUdEV0dndJR2dZSzc0WjZUVQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-12T04:31:48.000Z",
+      "pub_sort_dt": "2026-09-12 12:31:48"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "印度希望减少从中国进口的商品，但需求却持续增加 - The New York Times",
+      "title_cn": "印度希望减少从中国进口的商品，但需求却持续增加 - 纽约时报中文网",
+      "url": "https://news.google.com/read/CBMidEFVX3lxTE1tVk4yX1lwOXBBZ2o1ZHE5N0JJVXdxRWllZU5peVF5dklheHhwNGw0UGxhNmZzRXpxNnBaeG9SS0xjOWFiQUNJa2pmeFpEeUVLVElQeS1DYkJ0ZjBCWGxZNEVNMnBVeGdzOTNzZXR3dHNGallZ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-12T04:01:14.000Z",
+      "pub_sort_dt": "2026-09-12 12:01:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "单人卡拉OK：中国万亿美元的“孤独经济”让人窥见世界的未来 - CNN",
+      "title_cn": "单人卡拉OK：中国万亿美元的“个体经济”让人窥见世界的未来 - CNN",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxNNWN5ZHd5MmFTSUF1T3J6ZUhYVE1kdFROUlNjTkVZTjBxWjNMblpYV1lNNlA5VFhjbUFaMjJhZ1gzVkJNTXR6VThPUUNMclNfYmpKcGo2bVN1RWN4LTUyY082bngwd2NLV0pvZUZfelM4N0NEbGZHRUxCX1JDcFQ1bXhn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-12T04:00:29.000Z",
+      "pub_sort_dt": "2026-09-12 12:00:29"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中印关系：从冲突到谨慎解冻 - Reuters",
+      "title_cn": "中印关系：从冲突到奶粉解冻 - 路透中文网",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxNV0cwRFNoWnlxeG5pdXIwcHhITjVqVTZmX0JYalhJYkQyd3FGVkQ5SUJqakhjMXlpT3RsSXBCN3A5YnNtZGdOZWMyRDl2ZzVNODlFODBfWkZJbkROYWExWHJfUzVOZXlpS1c4dTFwMVJVV1E0Mk5vNTI3YmRkaU9vTjJXQmpCVjVWNXp0aWNlS01MRTJOMGNB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-12T03:03:00.000Z",
+      "pub_sort_dt": "2026-09-12 11:03:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "特朗普表示，他可以接受中国在美国生产汽车。 - NBC News",
-      "title_cn": "特朗普表示，他可以接受中国在美国生产汽车。 - NBC News",
+      "title_cn": "特朗普表示，他可以接受中国在美国生产的汽车。 - NBC News",
       "url": "https://news.google.com/read/CBMingFBVV95cUxON09LNk1fTTU2LTFqQmxhc2c4aVZIV1FxSWFaTDhteXhnaGI4dWtldjExd0R2NnE4UlRSOGtlSVN4SWRjN1g5Wk1DNm5ZRFJnMkhMNmJrTGtoTWZlZFAxWGE5Umc5ZG5rZTVYVzlrc3hqdTVvRUdxLXdaNVlvNVVQV0VhQ0ZFT2ZScFRtQnRTV1FNUU5lVm5SRGNWODVJUQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-12T02:11:00.000Z",
       "pub_sort_dt": "2026-09-12 10:11:00"
@@ -21,7 +53,7 @@
     {
       "source": "China Buzzing",
       "title_en": "在习近平即将访美之际，特朗普表示对中企在美国建厂持开放态度 - bloomberg.com",
-      "title_cn": "在习近平即将访美之际，特朗普表示对中企在美国建厂持开放态度 - bloomberg.com",
+      "title_cn": "在习近平即将访美之际，特朗普表示对中企在美建厂持开放态度",
       "url": "https://news.google.com/read/CBMiswFBVV95cUxOczhZeEg2QnhSdFdPMTdib0FLTkxPMjhHQnV6N1FFTEFUNG0zczBraVZLOHVzak1FQ0lER1NqalJwa2tJczE5VENJTGZjb1BEbWtJSUFRODBYek43SUlEc3RHRC13MGUxZHFyaWZHcHVENEVTYXkwMzRHUDhrR01UVy0xeFMyZWJMdXEzN0VscGlrcDhKMnVZWXFfOXVWemRybzJDYlRwSktubkN2LW51TklXcw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-12T01:38:00.000Z",
       "pub_sort_dt": "2026-09-12 09:38:00"
@@ -29,7 +61,7 @@
     {
       "source": "China Buzzing",
       "title_en": "独家 美国将中国卫星图像与导致三名士兵丧生的伊朗袭击事件联系起来 - WSJ",
-      "title_cn": "独家 美国将中国卫星图像与导致三名士兵丧生的伊朗袭击事件联系起来 - WSJ",
+      "title_cn": "美国独家将中国卫星图像与导致三名士兵的伊朗袭击事件联系起来 - 华尔街日报",
       "url": "https://news.google.com/read/CBMiswFBVV95cUxNM05ZUHdkZVNUdzFKZzRrZW0wRkgzbWZNbE55Wk00TWgxNkFjVXRUdENGS0NJcm5LWHhkWVJWMVNTNU5YSGRvWGZIWnhkSzNRNzFYNHlYUmNTNHc4WVBsdlpFbFh1LXktYmozTTZOYkhPVlRlZzY4RllGamstNkJvSENmMUZobV8zQldNdlIxVjY3QnVGTk9Ba21SVmgyWF9uX3I0Ri1zR2JmV1JXQVFoanRsMA?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-12T01:00:00.000Z",
       "pub_sort_dt": "2026-09-12 09:00:00"
@@ -37,7 +69,7 @@
     {
       "source": "China Buzzing",
       "title_en": "特朗普表示，他可以接受中国在美国生产汽车 - Reuters",
-      "title_cn": "特朗普表示，他可以接受中国在美国生产汽车 - Reuters",
+      "title_cn": "特朗普表示，他可以接受中国在美国生产的汽车 - 路透中文网",
       "url": "https://news.google.com/read/CBMinwFBVV95cUxOdjhVd0d5RXllWXU0eVIyWEpPOURjZjlFTmRxVlJDRjIxZk9qY1Jzbkh2VVNJd3NOb1puR3dhdDNZMFVSVEJBa1lsWTFOQ085ZXZhZ25hRk95dkE2WTJwU3BfajlIZzd6TjV5T0lBdFFxcmVHUnBEb2lnQWhRUW5GcXVrRHNQZzBjUE1pckp0akVNbVZuMWpnaG9SQ0RlTTQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-12T00:50:00.000Z",
       "pub_sort_dt": "2026-09-12 08:50:00"
@@ -45,7 +77,7 @@
     {
       "source": "China Buzzing",
       "title_en": "特朗普盟友称，在访问中国后，美国低估了中国科技行业 - Bloomberg.com",
-      "title_cn": "特朗普盟友称，在访问中国后，美国低估了中国科技行业 - Bloomberg.com",
+      "title_cn": "特朗普总统称，在访问中国后，美国低估了中国科技行业 - Bloomberg.com",
       "url": "https://news.google.com/read/CBMitgFBVV95cUxPaFJXSS1TUk44aktnVHlhcHdWbW9hTXFPVE9kZnlHTGl3RlZsTHB5OFlXTU1ZZC1HWGxFUUk4RVRJZ09IZUp0ckJMVDFGLW9PRW1vc3luRndTQzJ2M0x6NFkzMFZUbi11VkI2bW1jNjlMTUtYMTJKNlZyOU5GTUQtQ29Vbm9tbmZXQjBGcVVxT1d1TjlNRkVHQ2NxU0l3UU9JQkdiWmFFUEE1U0VyeEhZcklVT2ZjZw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-11T19:14:58.000Z",
       "pub_sort_dt": "2026-09-12 03:14:58"
@@ -53,49 +85,25 @@
     {
       "source": "China Buzzing",
       "title_en": "香港“天安门”活动人士被判处最高七年监禁 - bbc.com",
-      "title_cn": "香港“天安门”活动人士被判处最高七年监禁 - bbc.com",
+      "title_cn": "香港“天安门”活动人士被认定最高七年监禁 - bbc.com",
       "url": "https://news.google.com/read/CBMiWkFVX3lxTE5VVVZtY1RydC1uWVVUb0ctdnZ5blFkQlVUaUhHQmZfN0FTMXFUTkZhc2k1TWVoaGctTmJtRWxYMVkzTUhjak5PR2x2ZGg3R0dRaHFYRXlXRzlOQQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-11T17:32:44.000Z",
       "pub_sort_dt": "2026-09-12 01:32:44"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国发现一处金、银含量高的深海矿床 - Global Times",
-      "title_cn": "中国发现一处金、银含量高的深海矿床 - Global Times",
-      "url": "https://news.google.com/read/CBMiYkFVX3lxTE83Ql9UdGJna3FCNDM4NFRrNk1fN1IyNWxNQllOazRuanJhVEQweTQxZTFBZmFHcWFwVko0U2N2QVJkQnB1NUlxd016WXQtSDFqY2FGVGVTUTV6RFo2Q3NENl9B?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T16:30:00.000Z",
-      "pub_sort_dt": "2026-09-12 00:30:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着习近平和普京即将访印，印度的“金砖国家”战略面临考验 - DW.com",
-      "title_cn": "随着习近平和普京即将访印，印度的“金砖国家”战略面临考验 - DW.com",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxPMWpTTXBLS0YxYWtPa0Zpc2JoUENjQWZ3YjlJQl9LR0dBMGtUU3pfcEk5NGpVSGtYN0hZZU5EclVOblVvazdpb0JLNzRwX0VneUFQUmp6ZkhXTXdSeEpORkd0bzNTUzJ2Q2JnbklwTUtXOTM4NktVT0VyUWFqUlVQR2ZKTXc1ZFRqQ0YxNXBzYkNCZ9IBkgFBVV95cUxNaXdXdm1KR0h0QWlwUDgzLUVkWERSMWhqM3VSakJzSGR3VmE0MU1TUGZVdDI0WXptU2N2UENCMlVqVUEyMmJJTmlWTnNXQ3ZuclF0RS15RGhVMDFNTnQ4NEJjYUFWSmJkWlFXY2g1ODFNQUowWHc1RzI0U0paUDlOY3RLc2RlbUtUNXZfMlVvNm5Cdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T14:24:54.000Z",
-      "pub_sort_dt": "2026-09-11 22:24:54"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "普京的“向中国靠拢”政策使莫迪的战略平衡之举变得更加复杂 - Bloomberg.com",
-      "title_cn": "普京的“向中国靠拢”政策使莫迪的战略平衡之举变得更加复杂 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxPTzdsNFpVbGprNG1Jb1dFTllhdjR2SjJTUkZJZDBjQVpjc19nczdpaFp5S1BRSXZmOUZpS1hiWDBIVzBILXNKd21ZS0JQSGtvdWtJbS1LXzFfS3FoQ1dzSG5YcU9Oc3FVcFpKdzREM21pNGxEVlppd1NBLTVPUldrc25wWjF1bGNtczM0dkJOWTVzN3M2QW1MejBuSmpxU05LdFk5NllrS0ZYQmlSSmU2ZUNWVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T13:50:09.000Z",
-      "pub_sort_dt": "2026-09-11 21:50:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "新加坡和中国大陆在全球学生评估中位居榜首，而经合组织成员国的成绩则大幅下滑 - South China Morning Post",
-      "title_cn": "新加坡和中国大陆在全球学生评估中位居榜首，而经合组织成员国的成绩则大幅下滑 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMi2AFBVV95cUxQa0ZYb3FIc1R0c3huQzFNaHpCVW10SkpQZ0o3NEdJcFg5RmU5QUhiZDlIWXRNaWxwVWxaYUNXb0EzQ1JaLXI4Q04xQUhiQTBZOVRodnJSQXNTOXlVdWx5YWptR2t2WFgyeFc4MHBLYUF2WDd0OW1tUWhuSGlDZlZSc21sdmlhTzZHemhyTUV6LS03d1pBZmZiZk5MWnR0LVZFQTRNTHhZeGd0ZjY4VVVLN2RrM3J3cHVhUVB1ZTBOT3AzX1Z0cm53M0NTR0c2WEp5czdVQUpxaTnSAdgBQVVfeXFMTXZyazlwaE15eWJ2d2M3OS1BcFZNSmt1bmZ6bVVhWTBGbEtrQTBQU291emZkeXpLcnBYWHBfaEJJYjh0YTRWaVh5azRxdGtqVFJ0QmFVNzhWQWFTTF92SC1fMkQ5OVRoT2k5dWpQV09scHhUVVloRmQ4NVBZNDNBeklESGdzUmtuRlpPX3A1YXpCaFVIelJxcnBaX0hDb1NQd2htU0hsc19vUUI0NS11YUZNMmh5dkZQZGt1eU9fcUpna0R2RkRVcjRLNTlwU3l6LUpoWGN3R0lf?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T11:00:07.000Z",
-      "pub_sort_dt": "2026-09-11 19:00:07"
     }
   ],
   "media_news": [
     {
+      "source": "Financial Times",
+      "title_en": "一名中国加密货币投资者是这栋价值1.9亿英镑的伦敦豪宅的卖家",
+      "title_cn": "中国加密货币投资者是这栋价值1.9亿英镑的伦敦豪宅卖家",
+      "url": "https://www.ft.com/content/dcfe97fe-8935-497f-abfb-c51973614458?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-12T05:21:33.571Z",
+      "pub_sort_dt": "2026-09-12 13:21:33"
+    },
+    {
       "source": "Reuters",
       "title_en": "特朗普表示，他可以接受中国在美国生产汽车",
-      "title_cn": "特朗普表示，他可以接受中国在美国生产汽车",
+      "title_cn": "特朗普表示，他可以接受中国在美国生产的汽车",
       "url": "https://reut.rs/4xV51h8",
       "pub_raw": "2026-09-12T01:26:32.429Z",
       "pub_sort_dt": "2026-09-12 09:26:32"
@@ -119,7 +127,7 @@
     {
       "source": "Reuters",
       "title_en": "中国人工智能开发商Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
-      "title_cn": "中国人工智能开发商Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
+      "title_cn": "中国人工智能曼谷Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
       "url": "https://reut.rs/4xPowHJ",
       "pub_raw": "2026-09-11T13:48:57.415Z",
       "pub_sort_dt": "2026-09-11 21:48:57"
@@ -127,7 +135,7 @@
     {
       "source": "Bloomberg",
       "title_en": "基金和中国工业企业的逢低买入支撑铜价企稳",
-      "title_cn": "基金和中国工业企业的逢低买入支撑铜价企稳",
+      "title_cn": "基金与中国工业企业的逢低买入支撑铜价企稳",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/copper-heads-for-weekly-loss-as-doubts-on-us-tariffs-intensify",
       "pub_raw": "2026-09-11T11:58:10.956Z",
       "pub_sort_dt": "2026-09-11 19:58:10"
@@ -135,7 +143,7 @@
     {
       "source": "Reuters",
       "title_en": "中国发布加强农业保险的计划",
-      "title_cn": "中国发布加强农业保险的计划",
+      "title_cn": "中国印发加强农业保险计划",
       "url": "https://reut.rs/4xlpevp",
       "pub_raw": "2026-09-11T11:26:21.408Z",
       "pub_sort_dt": "2026-09-11 19:26:21"
@@ -143,7 +151,7 @@
     {
       "source": "Reuters",
       "title_en": "中国石油巨头如何协助北京为能源危机做准备",
-      "title_cn": "中国石油巨头如何协助北京为能源危机做准备",
+      "title_cn": "中国石油工会如何协助北京为能源危机做好准备",
       "url": "https://reut.rs/4rfSemT",
       "pub_raw": "2026-09-11T10:55:20.062Z",
       "pub_sort_dt": "2026-09-11 18:55:20"
@@ -151,7 +159,7 @@
     {
       "source": "Reuters",
       "title_en": "自伊朗战争爆发以来，中国第三次限制燃油价格涨幅",
-      "title_cn": "自伊朗战争爆发以来，中国第三次限制燃油价格涨幅",
+      "title_cn": "自伊朗战争爆发以来，中国第三次限制燃油价格上涨",
       "url": "https://reut.rs/4ducpHW",
       "pub_raw": "2026-09-11T10:39:26.673Z",
       "pub_sort_dt": "2026-09-11 18:39:26"
@@ -167,7 +175,7 @@
     {
       "source": "Financial Times",
       "title_en": "盎格鲁镍业交易考验欧盟对中国控制资源问题的决心",
-      "title_cn": "盎格鲁镍业交易考验欧盟对中国控制资源问题的决心",
+      "title_cn": "格鲁镍业交易考验欧盟对中国控制资源问题的决心",
       "url": "https://www.ft.com/content/1dbb63ef-359b-410e-8e86-5cd2df59fc3d?syn-25a6b1a6=1",
       "pub_raw": "2026-09-11T10:24:14.626Z",
       "pub_sort_dt": "2026-09-11 18:24:14"
@@ -175,7 +183,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国芯片制造商未盈利却跻身亿万富翁行列",
-      "title_cn": "中国芯片制造商未盈利却跻身亿万富翁行列",
+      "title_cn": "中国芯片制造商未盈利却主要身亿万富翁行列",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/chinese-chipmakers-become-billionaires-without-turning-a-profit",
       "pub_raw": "2026-09-11T09:34:01.926Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -183,7 +191,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国在“十二五”规划中设定新车销量中电动汽车占比达70%的目标",
-      "title_cn": "中国在“十二五”规划中设定新车销量中电动汽车占比达70%的目标",
+      "title_cn": "中国在“十二五”规划中设定新车销量中强制汽车销量达到70%的目标",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan",
       "pub_raw": "2026-09-11T09:34:01.884Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -199,7 +207,7 @@
     {
       "source": "Bloomberg",
       "title_en": "台湾“二号人物”不顾中国施压，罕见访问意大利",
-      "title_cn": "台湾“二号人物”不顾中国施压，罕见访问意大利",
+      "title_cn": "台湾“二号”人物不顾中国施压，意大利罕见访问",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/taiwan-s-no-2-makes-rare-europe-trip-defying-china-s-isolation",
       "pub_raw": "2026-09-11T09:34:01.841Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -207,7 +215,7 @@
     {
       "source": "Bloomberg",
       "title_en": "美光因利润激增向台湾员工发放32,000美元奖金",
-      "title_cn": "美光因利润激增向台湾员工发放32,000美元奖金",
+      "title_cn": "美光因利润飙升向台湾员工发放32,000美元奖金",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/micron-rewards-engineers-in-taiwan-with-32-000-cash-bonus",
       "pub_raw": "2026-09-11T09:34:01.828Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -215,7 +223,7 @@
     {
       "source": "Bloomberg",
       "title_en": "美国支持菲律宾的能源项目，意在针对中国",
-      "title_cn": "美国支持菲律宾的能源项目，意在针对中国",
+      "title_cn": "美国支持防疫的能源项目，意在针对中国",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/us-backs-lng-nuclear-projects-in-philippines-with-eye-on-china",
       "pub_raw": "2026-09-11T09:34:01.810Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -231,7 +239,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国因产能担忧叫停新建电池工厂",
-      "title_cn": "中国因产能担忧叫停新建电池工厂",
+      "title_cn": "中国因产能担忧而叫停新建电池工厂",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-halts-new-battery-factories-on-capacity-concerns-caixin",
       "pub_raw": "2026-09-11T09:34:01.782Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -239,25 +247,49 @@
     {
       "source": "Reuters",
       "title_en": "中国外交部称，中国和印度正在安排习近平与莫迪的会晤",
-      "title_cn": "中国外交部称，中国和印度正在安排习近平与莫迪的会晤",
+      "title_cn": "中国称，中国和印度正在安排习近平与莫迪的会晤",
       "url": "https://reut.rs/4gIH5HG",
       "pub_raw": "2026-09-11T09:34:00.696Z",
-      "pub_sort_dt": "2026-09-11 17:34:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "随着IPO热潮推动金融中心复兴，香港正吸引人才回流",
-      "title_cn": "随着IPO热潮推动金融中心复兴，香港正吸引人才回流",
-      "url": "https://reut.rs/4A7MKPc",
-      "pub_raw": "2026-09-11T09:34:00.683Z",
       "pub_sort_dt": "2026-09-11 17:34:00"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国国家主席习近平前往印度出席金砖国家峰会，但峰会因战争阴云笼罩而蒙上阴影 - Al Jazeera",
+      "title_cn": "中国国家主席习近平前往印度出席金砖国家峰会，但峰会因战争阴云笼罩而蒙上阴影 - 半岛电视台",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxOaW1hdmpKRHlLcUJ6dVFoRE9xMEJOWlNpdEQ4VlEwN1RkTUlSa05JOG5Sal9CV3d2WFkyaHZWTl80S2lBNzJQSkJMRzhiV2wweHFXbk9QUU40SGt4bDlrZl9OOXVab2ZfVVFncHBXV0cydnVqUmc1LVNDR1dHcjIzelNkNk9NLS1SRmJyZVd5bENIenQtbDNveUVpdjdkeWtvMF9aWEhB0gGrAUFVX3lxTE9JendtdDYzMlpwZ09rS0lycS1fMnlmT0pZbkRfQllUclhyWW1wRlBnejgtMFVtM3I1ZmhuTS13Z3lGTGdMbExacTVIeVRFS3R4bkw3QlVjdzhCSGUySGFvdC04Q19DRmVwZ0xxblRnOXNQbWg3MzZpYjVxMU5QZDY4cEtrVDNpd1Y5VHVHUmJWVGtkRzR1YTQ0UUxUdEV0dndJR2dZSzc0WjZUVQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-12T04:31:48.000Z",
+      "pub_sort_dt": "2026-09-12 12:31:48"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "印度希望减少从中国进口的商品，但需求却持续增加 - The New York Times",
+      "title_cn": "印度希望减少从中国进口的商品，但需求却持续增加 - 纽约时报中文网",
+      "url": "https://news.google.com/read/CBMidEFVX3lxTE1tVk4yX1lwOXBBZ2o1ZHE5N0JJVXdxRWllZU5peVF5dklheHhwNGw0UGxhNmZzRXpxNnBaeG9SS0xjOWFiQUNJa2pmeFpEeUVLVElQeS1DYkJ0ZjBCWGxZNEVNMnBVeGdzOTNzZXR3dHNGallZ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-12T04:01:14.000Z",
+      "pub_sort_dt": "2026-09-12 12:01:14"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "单人卡拉OK：中国万亿美元的“孤独经济”让人窥见世界的未来 - CNN",
+      "title_cn": "单人卡拉OK：中国万亿美元的“个体经济”让人窥见世界的未来 - CNN",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxNNWN5ZHd5MmFTSUF1T3J6ZUhYVE1kdFROUlNjTkVZTjBxWjNMblpYV1lNNlA5VFhjbUFaMjJhZ1gzVkJNTXR6VThPUUNMclNfYmpKcGo2bVN1RWN4LTUyY082bngwd2NLV0pvZUZfelM4N0NEbGZHRUxCX1JDcFQ1bXhn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-12T04:00:29.000Z",
+      "pub_sort_dt": "2026-09-12 12:00:29"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中印关系：从冲突到谨慎解冻 - Reuters",
+      "title_cn": "中印关系：从冲突到奶粉解冻 - 路透中文网",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxNV0cwRFNoWnlxeG5pdXIwcHhITjVqVTZmX0JYalhJYkQyd3FGVkQ5SUJqakhjMXlpT3RsSXBCN3A5YnNtZGdOZWMyRDl2ZzVNODlFODBfWkZJbkROYWExWHJfUzVOZXlpS1c4dTFwMVJVV1E0Mk5vNTI3YmRkaU9vTjJXQmpCVjVWNXp0aWNlS01MRTJOMGNB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-12T03:03:00.000Z",
+      "pub_sort_dt": "2026-09-12 11:03:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "特朗普表示，他可以接受中国在美国生产汽车。 - NBC News",
-      "title_cn": "特朗普表示，他可以接受中国在美国生产汽车。 - NBC News",
+      "title_cn": "特朗普表示，他可以接受中国在美国生产的汽车。 - NBC News",
       "url": "https://news.google.com/read/CBMingFBVV95cUxON09LNk1fTTU2LTFqQmxhc2c4aVZIV1FxSWFaTDhteXhnaGI4dWtldjExd0R2NnE4UlRSOGtlSVN4SWRjN1g5Wk1DNm5ZRFJnMkhMNmJrTGtoTWZlZFAxWGE5Umc5ZG5rZTVYVzlrc3hqdTVvRUdxLXdaNVlvNVVQV0VhQ0ZFT2ZScFRtQnRTV1FNUU5lVm5SRGNWODVJUQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-12T02:11:00.000Z",
       "pub_sort_dt": "2026-09-12 10:11:00"
@@ -265,7 +297,7 @@
     {
       "source": "China Buzzing",
       "title_en": "在习近平即将访美之际，特朗普表示对中企在美国建厂持开放态度 - bloomberg.com",
-      "title_cn": "在习近平即将访美之际，特朗普表示对中企在美国建厂持开放态度 - bloomberg.com",
+      "title_cn": "在习近平即将访美之际，特朗普表示对中企在美建厂持开放态度",
       "url": "https://news.google.com/read/CBMiswFBVV95cUxOczhZeEg2QnhSdFdPMTdib0FLTkxPMjhHQnV6N1FFTEFUNG0zczBraVZLOHVzak1FQ0lER1NqalJwa2tJczE5VENJTGZjb1BEbWtJSUFRODBYek43SUlEc3RHRC13MGUxZHFyaWZHcHVENEVTYXkwMzRHUDhrR01UVy0xeFMyZWJMdXEzN0VscGlrcDhKMnVZWXFfOXVWemRybzJDYlRwSktubkN2LW51TklXcw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-12T01:38:00.000Z",
       "pub_sort_dt": "2026-09-12 09:38:00"
@@ -273,7 +305,7 @@
     {
       "source": "China Buzzing",
       "title_en": "独家 美国将中国卫星图像与导致三名士兵丧生的伊朗袭击事件联系起来 - WSJ",
-      "title_cn": "独家 美国将中国卫星图像与导致三名士兵丧生的伊朗袭击事件联系起来 - WSJ",
+      "title_cn": "美国独家将中国卫星图像与导致三名士兵的伊朗袭击事件联系起来 - 华尔街日报",
       "url": "https://news.google.com/read/CBMiswFBVV95cUxNM05ZUHdkZVNUdzFKZzRrZW0wRkgzbWZNbE55Wk00TWgxNkFjVXRUdENGS0NJcm5LWHhkWVJWMVNTNU5YSGRvWGZIWnhkSzNRNzFYNHlYUmNTNHc4WVBsdlpFbFh1LXktYmozTTZOYkhPVlRlZzY4RllGamstNkJvSENmMUZobV8zQldNdlIxVjY3QnVGTk9Ba21SVmgyWF9uX3I0Ri1zR2JmV1JXQVFoanRsMA?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-12T01:00:00.000Z",
       "pub_sort_dt": "2026-09-12 09:00:00"
@@ -281,7 +313,7 @@
     {
       "source": "China Buzzing",
       "title_en": "特朗普表示，他可以接受中国在美国生产汽车 - Reuters",
-      "title_cn": "特朗普表示，他可以接受中国在美国生产汽车 - Reuters",
+      "title_cn": "特朗普表示，他可以接受中国在美国生产的汽车 - 路透中文网",
       "url": "https://news.google.com/read/CBMinwFBVV95cUxOdjhVd0d5RXllWXU0eVIyWEpPOURjZjlFTmRxVlJDRjIxZk9qY1Jzbkh2VVNJd3NOb1puR3dhdDNZMFVSVEJBa1lsWTFOQ085ZXZhZ25hRk95dkE2WTJwU3BfajlIZzd6TjV5T0lBdFFxcmVHUnBEb2lnQWhRUW5GcXVrRHNQZzBjUE1pckp0akVNbVZuMWpnaG9SQ0RlTTQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-12T00:50:00.000Z",
       "pub_sort_dt": "2026-09-12 08:50:00"
@@ -289,7 +321,7 @@
     {
       "source": "China Buzzing",
       "title_en": "特朗普盟友称，在访问中国后，美国低估了中国科技行业 - Bloomberg.com",
-      "title_cn": "特朗普盟友称，在访问中国后，美国低估了中国科技行业 - Bloomberg.com",
+      "title_cn": "特朗普总统称，在访问中国后，美国低估了中国科技行业 - Bloomberg.com",
       "url": "https://news.google.com/read/CBMitgFBVV95cUxPaFJXSS1TUk44aktnVHlhcHdWbW9hTXFPVE9kZnlHTGl3RlZsTHB5OFlXTU1ZZC1HWGxFUUk4RVRJZ09IZUp0ckJMVDFGLW9PRW1vc3luRndTQzJ2M0x6NFkzMFZUbi11VkI2bW1jNjlMTUtYMTJKNlZyOU5GTUQtQ29Vbm9tbmZXQjBGcVVxT1d1TjlNRkVHQ2NxU0l3UU9JQkdiWmFFUEE1U0VyeEhZcklVT2ZjZw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-11T19:14:58.000Z",
       "pub_sort_dt": "2026-09-12 03:14:58"
@@ -297,47 +329,23 @@
     {
       "source": "China Buzzing",
       "title_en": "香港“天安门”活动人士被判处最高七年监禁 - bbc.com",
-      "title_cn": "香港“天安门”活动人士被判处最高七年监禁 - bbc.com",
+      "title_cn": "香港“天安门”活动人士被认定最高七年监禁 - bbc.com",
       "url": "https://news.google.com/read/CBMiWkFVX3lxTE5VVVZtY1RydC1uWVVUb0ctdnZ5blFkQlVUaUhHQmZfN0FTMXFUTkZhc2k1TWVoaGctTmJtRWxYMVkzTUhjak5PR2x2ZGg3R0dRaHFYRXlXRzlOQQ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-11T17:32:44.000Z",
       "pub_sort_dt": "2026-09-12 01:32:44"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国发现一处金、银含量高的深海矿床 - Global Times",
-      "title_cn": "中国发现一处金、银含量高的深海矿床 - Global Times",
-      "url": "https://news.google.com/read/CBMiYkFVX3lxTE83Ql9UdGJna3FCNDM4NFRrNk1fN1IyNWxNQllOazRuanJhVEQweTQxZTFBZmFHcWFwVko0U2N2QVJkQnB1NUlxd016WXQtSDFqY2FGVGVTUTV6RFo2Q3NENl9B?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T16:30:00.000Z",
-      "pub_sort_dt": "2026-09-12 00:30:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着习近平和普京即将访印，印度的“金砖国家”战略面临考验 - DW.com",
-      "title_cn": "随着习近平和普京即将访印，印度的“金砖国家”战略面临考验 - DW.com",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxPMWpTTXBLS0YxYWtPa0Zpc2JoUENjQWZ3YjlJQl9LR0dBMGtUU3pfcEk5NGpVSGtYN0hZZU5EclVOblVvazdpb0JLNzRwX0VneUFQUmp6ZkhXTXdSeEpORkd0bzNTUzJ2Q2JnbklwTUtXOTM4NktVT0VyUWFqUlVQR2ZKTXc1ZFRqQ0YxNXBzYkNCZ9IBkgFBVV95cUxNaXdXdm1KR0h0QWlwUDgzLUVkWERSMWhqM3VSakJzSGR3VmE0MU1TUGZVdDI0WXptU2N2UENCMlVqVUEyMmJJTmlWTnNXQ3ZuclF0RS15RGhVMDFNTnQ4NEJjYUFWSmJkWlFXY2g1ODFNQUowWHc1RzI0U0paUDlOY3RLc2RlbUtUNXZfMlVvNm5Cdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T14:24:54.000Z",
-      "pub_sort_dt": "2026-09-11 22:24:54"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "普京的“向中国靠拢”政策使莫迪的战略平衡之举变得更加复杂 - Bloomberg.com",
-      "title_cn": "普京的“向中国靠拢”政策使莫迪的战略平衡之举变得更加复杂 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxPTzdsNFpVbGprNG1Jb1dFTllhdjR2SjJTUkZJZDBjQVpjc19nczdpaFp5S1BRSXZmOUZpS1hiWDBIVzBILXNKd21ZS0JQSGtvdWtJbS1LXzFfS3FoQ1dzSG5YcU9Oc3FVcFpKdzREM21pNGxEVlppd1NBLTVPUldrc25wWjF1bGNtczM0dkJOWTVzN3M2QW1MejBuSmpxU05LdFk5NllrS0ZYQmlSSmU2ZUNWVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T13:50:09.000Z",
-      "pub_sort_dt": "2026-09-11 21:50:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "新加坡和中国大陆在全球学生评估中位居榜首，而经合组织成员国的成绩则大幅下滑 - South China Morning Post",
-      "title_cn": "新加坡和中国大陆在全球学生评估中位居榜首，而经合组织成员国的成绩则大幅下滑 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMi2AFBVV95cUxQa0ZYb3FIc1R0c3huQzFNaHpCVW10SkpQZ0o3NEdJcFg5RmU5QUhiZDlIWXRNaWxwVWxaYUNXb0EzQ1JaLXI4Q04xQUhiQTBZOVRodnJSQXNTOXlVdWx5YWptR2t2WFgyeFc4MHBLYUF2WDd0OW1tUWhuSGlDZlZSc21sdmlhTzZHemhyTUV6LS03d1pBZmZiZk5MWnR0LVZFQTRNTHhZeGd0ZjY4VVVLN2RrM3J3cHVhUVB1ZTBOT3AzX1Z0cm53M0NTR0c2WEp5czdVQUpxaTnSAdgBQVVfeXFMTXZyazlwaE15eWJ2d2M3OS1BcFZNSmt1bmZ6bVVhWTBGbEtrQTBQU291emZkeXpLcnBYWHBfaEJJYjh0YTRWaVh5azRxdGtqVFJ0QmFVNzhWQWFTTF92SC1fMkQ5OVRoT2k5dWpQV09scHhUVVloRmQ4NVBZNDNBeklESGdzUmtuRlpPX3A1YXpCaFVIelJxcnBaX0hDb1NQd2htU0hsc19vUUI0NS11YUZNMmh5dkZQZGt1eU9fcUpna0R2RkRVcjRLNTlwU3l6LUpoWGN3R0lf?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-11T11:00:07.000Z",
-      "pub_sort_dt": "2026-09-11 19:00:07"
+      "source": "Financial Times",
+      "title_en": "一名中国加密货币投资者是这栋价值1.9亿英镑的伦敦豪宅的卖家",
+      "title_cn": "中国加密货币投资者是这栋价值1.9亿英镑的伦敦豪宅卖家",
+      "url": "https://www.ft.com/content/dcfe97fe-8935-497f-abfb-c51973614458?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-12T05:21:33.571Z",
+      "pub_sort_dt": "2026-09-12 13:21:33"
     },
     {
       "source": "Reuters",
       "title_en": "特朗普表示，他可以接受中国在美国生产汽车",
-      "title_cn": "特朗普表示，他可以接受中国在美国生产汽车",
+      "title_cn": "特朗普表示，他可以接受中国在美国生产的汽车",
       "url": "https://reut.rs/4xV51h8",
       "pub_raw": "2026-09-12T01:26:32.429Z",
       "pub_sort_dt": "2026-09-12 09:26:32"
@@ -361,7 +369,7 @@
     {
       "source": "Reuters",
       "title_en": "中国人工智能开发商Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
-      "title_cn": "中国人工智能开发商Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
+      "title_cn": "中国人工智能曼谷Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
       "url": "https://reut.rs/4xPowHJ",
       "pub_raw": "2026-09-11T13:48:57.415Z",
       "pub_sort_dt": "2026-09-11 21:48:57"
@@ -369,7 +377,7 @@
     {
       "source": "Bloomberg",
       "title_en": "基金和中国工业企业的逢低买入支撑铜价企稳",
-      "title_cn": "基金和中国工业企业的逢低买入支撑铜价企稳",
+      "title_cn": "基金与中国工业企业的逢低买入支撑铜价企稳",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/copper-heads-for-weekly-loss-as-doubts-on-us-tariffs-intensify",
       "pub_raw": "2026-09-11T11:58:10.956Z",
       "pub_sort_dt": "2026-09-11 19:58:10"
@@ -377,7 +385,7 @@
     {
       "source": "Reuters",
       "title_en": "中国发布加强农业保险的计划",
-      "title_cn": "中国发布加强农业保险的计划",
+      "title_cn": "中国印发加强农业保险计划",
       "url": "https://reut.rs/4xlpevp",
       "pub_raw": "2026-09-11T11:26:21.408Z",
       "pub_sort_dt": "2026-09-11 19:26:21"
@@ -385,7 +393,7 @@
     {
       "source": "Reuters",
       "title_en": "中国石油巨头如何协助北京为能源危机做准备",
-      "title_cn": "中国石油巨头如何协助北京为能源危机做准备",
+      "title_cn": "中国石油工会如何协助北京为能源危机做好准备",
       "url": "https://reut.rs/4rfSemT",
       "pub_raw": "2026-09-11T10:55:20.062Z",
       "pub_sort_dt": "2026-09-11 18:55:20"
@@ -393,7 +401,7 @@
     {
       "source": "Reuters",
       "title_en": "自伊朗战争爆发以来，中国第三次限制燃油价格涨幅",
-      "title_cn": "自伊朗战争爆发以来，中国第三次限制燃油价格涨幅",
+      "title_cn": "自伊朗战争爆发以来，中国第三次限制燃油价格上涨",
       "url": "https://reut.rs/4ducpHW",
       "pub_raw": "2026-09-11T10:39:26.673Z",
       "pub_sort_dt": "2026-09-11 18:39:26"
@@ -409,7 +417,7 @@
     {
       "source": "Financial Times",
       "title_en": "盎格鲁镍业交易考验欧盟对中国控制资源问题的决心",
-      "title_cn": "盎格鲁镍业交易考验欧盟对中国控制资源问题的决心",
+      "title_cn": "格鲁镍业交易考验欧盟对中国控制资源问题的决心",
       "url": "https://www.ft.com/content/1dbb63ef-359b-410e-8e86-5cd2df59fc3d?syn-25a6b1a6=1",
       "pub_raw": "2026-09-11T10:24:14.626Z",
       "pub_sort_dt": "2026-09-11 18:24:14"
@@ -417,7 +425,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国芯片制造商未盈利却跻身亿万富翁行列",
-      "title_cn": "中国芯片制造商未盈利却跻身亿万富翁行列",
+      "title_cn": "中国芯片制造商未盈利却主要身亿万富翁行列",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/chinese-chipmakers-become-billionaires-without-turning-a-profit",
       "pub_raw": "2026-09-11T09:34:01.926Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -425,7 +433,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国在“十二五”规划中设定新车销量中电动汽车占比达70%的目标",
-      "title_cn": "中国在“十二五”规划中设定新车销量中电动汽车占比达70%的目标",
+      "title_cn": "中国在“十二五”规划中设定新车销量中强制汽车销量达到70%的目标",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan",
       "pub_raw": "2026-09-11T09:34:01.884Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -441,7 +449,7 @@
     {
       "source": "Bloomberg",
       "title_en": "台湾“二号人物”不顾中国施压，罕见访问意大利",
-      "title_cn": "台湾“二号人物”不顾中国施压，罕见访问意大利",
+      "title_cn": "台湾“二号”人物不顾中国施压，意大利罕见访问",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/taiwan-s-no-2-makes-rare-europe-trip-defying-china-s-isolation",
       "pub_raw": "2026-09-11T09:34:01.841Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -449,7 +457,7 @@
     {
       "source": "Bloomberg",
       "title_en": "美光因利润激增向台湾员工发放32,000美元奖金",
-      "title_cn": "美光因利润激增向台湾员工发放32,000美元奖金",
+      "title_cn": "美光因利润飙升向台湾员工发放32,000美元奖金",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/micron-rewards-engineers-in-taiwan-with-32-000-cash-bonus",
       "pub_raw": "2026-09-11T09:34:01.828Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -457,7 +465,7 @@
     {
       "source": "Bloomberg",
       "title_en": "美国支持菲律宾的能源项目，意在针对中国",
-      "title_cn": "美国支持菲律宾的能源项目，意在针对中国",
+      "title_cn": "美国支持防疫的能源项目，意在针对中国",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/us-backs-lng-nuclear-projects-in-philippines-with-eye-on-china",
       "pub_raw": "2026-09-11T09:34:01.810Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -473,7 +481,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国因产能担忧叫停新建电池工厂",
-      "title_cn": "中国因产能担忧叫停新建电池工厂",
+      "title_cn": "中国因产能担忧而叫停新建电池工厂",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-halts-new-battery-factories-on-capacity-concerns-caixin",
       "pub_raw": "2026-09-11T09:34:01.782Z",
       "pub_sort_dt": "2026-09-11 17:34:01"
@@ -481,17 +489,9 @@
     {
       "source": "Reuters",
       "title_en": "中国外交部称，中国和印度正在安排习近平与莫迪的会晤",
-      "title_cn": "中国外交部称，中国和印度正在安排习近平与莫迪的会晤",
+      "title_cn": "中国称，中国和印度正在安排习近平与莫迪的会晤",
       "url": "https://reut.rs/4gIH5HG",
       "pub_raw": "2026-09-11T09:34:00.696Z",
-      "pub_sort_dt": "2026-09-11 17:34:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "随着IPO热潮推动金融中心复兴，香港正吸引人才回流",
-      "title_cn": "随着IPO热潮推动金融中心复兴，香港正吸引人才回流",
-      "url": "https://reut.rs/4A7MKPc",
-      "pub_raw": "2026-09-11T09:34:00.683Z",
       "pub_sort_dt": "2026-09-11 17:34:00"
     }
   ]
