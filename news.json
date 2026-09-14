@@ -1,15 +1,55 @@
 {
-  "update_cst": "2026-09-14 12:00:57 北京时间",
+  "update_cst": "2026-09-14 15:01:15 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 11,
-    "Financial Times": 1,
+    "Bloomberg": 12,
+    "Financial Times": 2,
     "Wall Street Journal": 0,
-    "Reuters": 8
+    "Reuters": 6
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国情报机构警告人工智能对国家安全构成的风险 - Financial Times",
+      "title_cn": "中国情报机构警告人工智能对国家安全构成的风险 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOcUpTd2twTEt1dVBNcmY4eEliTmxPejdLNW9ieGw2T0gweHBtNWdxTmVxdTVPOG0wOVBQWmxzNHdBM1cxUFR2V1lRbTM1M3VXN3QxVjdSb1NwWjJCSVU3TjBIRGxRRDhxUjhDbHVCcUI5S1lLM3lfU3lJclFtWk1rdmNHZmo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T05:16:55.000Z",
+      "pub_sort_dt": "2026-09-14 13:16:55"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国实现了对算力的统筹协调与监测 - news.cgtn.com",
+      "title_cn": "中国实现了对算力的协调与监测 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNbFBGdWU2VjRuQi04S0YzSUdRbnFGWTNRd2RBbXc1MXBMcTBCZlp5dkJYWUR3T2l5NVpMcWhPbkV5LUJQcHNCTkhjQXJNYzBFM0txQ19VT2pRTWRWTjZIZ2RVV1pmSHRBaHBrX0poWFhCaXhDS0l6aU5JZ29MWFhuanQ1S3FxNU9KZV9HOW8tLTNWZm11aWxKeE05cVpyY25lU1lXRFFaSmJ6MVpkTmRYSzdIeGJvZ19DQTlWeFlxRGttMXc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T04:14:48.000Z",
+      "pub_sort_dt": "2026-09-14 12:14:48"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国加强税收监管引发对创始人抛售股份的担忧 - bloomberg.com",
+      "title_cn": "中国加强税收监管引发对创始人抛售股份的担忧 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxPd1ZKVDYzckhtT2lhMXFoR3VkaHM3TjBsWkRhWVFqeG0yZjJFd1FjbTNka1N0akJRN2NkRGdNTlJkZkxocnRhS3NGM3V6Q2QwTFZyNjlFRDJfYTNYM291My1EVzViVUgyN3Bod09RM0RnV2YzeXU2dVY1RlNrbGFoc3BnYUpEdV9JQWp2RjAxVXNCVjhKWVNIREgtN0F2YUlzR2l1alo4aUpaNXV3Mmw1SHVn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T04:13:00.000Z",
+      "pub_sort_dt": "2026-09-14 12:13:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国官方媒体抨击Anthropic呼吁放缓人工智能发展的主张是“冷战”策略 - Reuters",
+      "title_cn": "中国官方媒体殴打人类呼吁终止人工智能发展的中断是“冷战”策略 - 路透社",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxOcXBVbWdJVHFtcDF3SHNDTUx5dV8yeGJDbXRsMmFNY2RmTHZodXo2NUFtU19nNF9NY0JEVURiQ0pockxyNGgxTkdKMVlDaWZSb0tnMUVHSV9sQXIzZGEtR2RCalV4a1Y3ZkRXb1RrR1ZuTFRscHNXYk5EZUpMNjA4c2FQbDdJd1ZWMXpRd3huRkgzT1lLYUxZX0RKSDNsemJ6b3Ftb01XZEFwMUtvV00yd0NVNFVhQlFW?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T04:04:00.000Z",
+      "pub_sort_dt": "2026-09-14 12:04:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国情报部门负责人警告人工智能风险，美国科技界领袖呼吁放缓发展 - Bloomberg.com",
+      "title_cn": "中国情报部门负责人警告人工智能风险，美国科技界领袖呼吁发展 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxQZFdVeUJpY3VONHU0NEhtdWVsaF84ZjB1RXZsd2xIcV84anBHeEVyNHlLTkllQ1ZQYl9ieF9iZFJueEFjUW1yODN5eE1TR0ZYVzgwSnFuak01eDBrbkhuMjZFZXU2ZTJBTzh3LTZqV1NZelEyZHAzNTg5clJvcHh4eUlhdUpKdG5SY0NvRlRvTG8xbGNjZG5nQzlEeEEwTVhSMXVsNlRkTktmUmJZUGR4ejExQmU2UQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T03:07:00.000Z",
+      "pub_sort_dt": "2026-09-14 11:07:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "有报道称中国获取的图像与伊朗遭袭事件有关，特朗普称中国对美国进行“间谍活动” - foxnews.com",
@@ -49,51 +89,67 @@
       "url": "https://news.google.com/read/CBMitgFBVV95cUxQZm5rUXJMX2JySWRTTkFNWHk4Wk94MTFNSFgtemVLVlVVSGlpM1NhRm9WT2pYbmwtdWdRcUp5VGF2ZmVVWkVQLXAydHhPQ3pxWklSMlNFR0xNQ29TUHI2eVZqWnZGU2tHM2NYTUhZTEd4SjY1elJtZzU5bXFQRk1NQmROaG9EVm5VSUZiMEItV3ZBVWFaaFBzU2lyWlBrTWo1cHFkbHlBTllFOHpjbUlBaUZhOVZBdw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-13T23:00:00.000Z",
       "pub_sort_dt": "2026-09-14 07:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - PBS",
-      "title_cn": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿意在该领域让中国质疑优势 - PBS",
-      "url": "https://news.google.com/read/CBMizAFBVV95cUxQcHJIM0F2T0JiX0NjZVV3cURYdE1jaE1kM0RuVmpzRUhVNlRfWThMTkdTbndURkxDNEJaTVNsbmRxSHAyTVVSU0dreUJLcUZXaWxlb0hSUUs3Ukk2Y1dJZzVvbHJGWlNwX3p5eFN0cUVrNVBuTHdmd2t3bFJfRjlob0FGbU1RaGFEYTI3bTRseGdYbUxjejQ4VFJiREtDOHA4ZG9iZXhNaWxXRkxGQlZfQXJwVTBURWIySWJVeXY5R0k4TXdxUm9FcTNtNzbSAdIBQVVfeXFMTjNGa1VPeV9ya0JZd1JsZU5UMW1BSV9qQXNoOC1iN0NSajdrS2xGSjhOVGVyRVBpbmRzemJaUzJtQ25GQUplZ0k1bk9kdVkxUTQ3RlpxTThTWjNkb3kwOGREUTR4ZUROakQ2dXc3M214MUhmSG8tQldXSXB1VUoyVjlHRzhNQW44MkQ4Q2pGYi1GWmc2WUhtQ0RVVFFrSWJ4ckZoWURoV0xZTzE2RnZ0Rlo0Q21nVWhTdXhtMFhnUjhzbkh0WFlxU0ZxbFR6TFN2Vl9n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-13T22:08:25.000Z",
-      "pub_sort_dt": "2026-09-14 06:08:25"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "独家 资深投资者方凤雷谈中国“投资吸引力”为何依然毋庸置疑 - South China Morning Post",
-      "title_cn": "独家资深投资者方凤雷谈中国“投资吸引力”为何仍不足以庸置疑 - 南华早报",
-      "url": "https://news.google.com/read/CBMi0AFBVV95cUxNcjhwSHExdUJoS1l2VXJtcEg0TlBPeERpQWhTaG04M2I3Q1poYjRUYmVYMW9tMDQwaTBMTUJNc0pfMFh2VWE0REltYUZtNjNIbDNIRmdiaFNHSnItdF9WcDJpQ3p4X195eDFZNmlWWmNNY3dDckR4MHZBTzFXdkowaEtReVFPODd4UVlzWnhHU0ZtdVNZS3hIYUlTSkw3ZHF3alR4U212cHE5eWppdkxJb3NIX2xxSDg0NHRqNmlHX0RqRWgwVjV1QmZ0dV9QTHVV0gHQAUFVX3lxTE1YSkZtZEVvelF0S3ZWWkNIbmFIWjVnNHBteC04RHlXdmEzMTJRYkJCeFJpZ09mcl85ajRPanVzUGFhcHJrd3VWTDE3ckV5MmllSllla2owcTFuSVJCX3p4clBNeVJMQ1dVWmtnQ2xPSGs4cDNUQk0tdm9RMHJ6cVB3VV83SXRJSnNBSzBIYXFYbTV2WGtkS092T21PQ21QcS0xNHdUUTRSNE1KRXBWbGl4c2Z6aDlVcUFHWEZON3k1RnJBcENrei1yS0N0eW0xY0o?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-13T22:00:12.000Z",
-      "pub_sort_dt": "2026-09-14 06:00:12"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - The Washington Post",
-      "title_cn": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿意在该领域让中国质疑优势 - 华盛顿邮报",
-      "url": "https://news.google.com/read/CBMi9gFBVV95cUxORGdMXzRIZjhjQjZteUxzUS1pUk1adUd5Q0VuQ2czOXFMWnlhdDRtTkhqcDBqMHpLaGhOQ2Q4b3FQUGFaQ3h5Rzh3S1JmVVZrdGZFSV9FSUZKaG5UdzNNYjdQLW5JZXFuMU1TWUZ1WGw4QllNanUxV0xJRlNRbllHRUdqTXVTUmhNNGdsRVpBSVhDX1FZcms0Q3pyWGNSRk96NVZDMmxUaFBLV1M1VE01bVRGcDFOdGV3TFN1OEpRNTZpbXRyTThrbXBqYndUMmkwMlFCcjE5OWJmUGRCZ3oySmdQTG9lcXMtb1d0bUhOLThzSDlSSXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-13T20:31:33.000Z",
-      "pub_sort_dt": "2026-09-14 04:31:33"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不想在该领域落后于中国 - AP News",
-      "title_cn": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域落后于中国 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-13T17:44:00.000Z",
-      "pub_sort_dt": "2026-09-14 01:44:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "当地缘政治超越供应链的经济规律时 - lowyinstitute.org",
-      "title_cn": "当地政治超越供应链的经济规律时 - lowyinstitute.org",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxPeTBBZHJvSE1RMXpIT2hRT3NCVDVNYVk5RlIwUnFjUlhmZDdtYzdGUFl5MG5YaUxuTTlUS0h0Y0J1QWNObnJyLWlpT3AzVnlkZnVBLVhhRWcxaE1vYlpFOTBqQnZtU012Tm1McU9wRTdJVWZleUNDaWRnRFRLaXA0cmdxdmxNbGtra1NZSXdjam16dEZhZVk4ZVE3dkVJMEVvYVdZ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-13T17:04:47.000Z",
-      "pub_sort_dt": "2026-09-14 01:04:47"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "印度和中国如何在金砖国家峰会上采取措施重启双边关系：现场问答",
+      "title_cn": "与中国印度如何在金砖国家峰会上采取措施重启关系：现场问答",
+      "url": "https://www.bloomberg.com/sessions/2026-09-14/live-q-amp-a-how-india-and-china-are-finding-common-ground",
+      "pub_raw": "2026-09-14T06:19:19.009Z",
+      "pub_sort_dt": "2026-09-14 14:19:19"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国情报机构警告称人工智能对国家安全构成风险",
+      "title_cn": "中国情报风险机构警告称人工智能对国家安全构成",
+      "url": "https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-14T05:32:14.095Z",
+      "pub_sort_dt": "2026-09-14 13:32:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中信大厦无人机坠落事件后，北京出台广泛限制措施，禁止无人机飞行",
+      "title_cn": "中信大厦无人机坠落事件发生后，北京全面采取措施，禁止无人机飞行",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/beijing-bans-drones-in-sweeping-curbs-after-citic-tower-crash",
+      "pub_raw": "2026-09-14T05:01:42.633Z",
+      "pub_sort_dt": "2026-09-14 13:01:42"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "在地区局势动荡之际，中国国防论坛即将开幕",
+      "title_cn": "在地区局势动荡之际，中国国防论坛即将开幕",
+      "url": "https://reut.rs/4AaVBiV",
+      "pub_raw": "2026-09-14T05:01:42.518Z",
+      "pub_sort_dt": "2026-09-14 13:01:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Ligent Technologies计划在香港首次公开募股（IPO）筹集7.27亿美元",
+      "title_cn": "Ligent Technologies计划首次公开募股（IPO）香港认购7.27亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/ligent-technologies-seeks-727-million-in-hong-kong-ipo",
+      "pub_raw": "2026-09-14T04:29:18.374Z",
+      "pub_sort_dt": "2026-09-14 12:29:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国加强税务监管引发对创始人抛售股份的担忧",
+      "title_cn": "中国加强税务监管引发对创始人抛售股份的担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/china-s-tax-clampdown-raises-fears-of-founder-share-disposals",
+      "pub_raw": "2026-09-14T04:29:18.327Z",
+      "pub_sort_dt": "2026-09-14 12:29:18"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国官方媒体抨击Anthropic呼吁放缓人工智能发展的主张是“冷战”策略",
+      "title_cn": "中国官方媒体猝击人类呼吁终止人工智能发展的中断是“冷战”策略",
+      "url": "https://reut.rs/4gMT1rW",
+      "pub_raw": "2026-09-14T04:29:18.226Z",
+      "pub_sort_dt": "2026-09-14 12:29:18"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "中国情报部门负责人警告人工智能风险，而美国科技界领袖则呼吁放缓发展步伐",
       "title_cn": "中国情报部门负责人警告人工智能风险，而美国科技界领袖则呼吁立即发展行动",
       "url": "https://www.bloomberg.com/news/articles/2026-09-14/china-spy-chief-warns-of-ai-risks-as-us-tech-leaders-urge-brakes",
@@ -126,14 +182,6 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "中国加强税收监管引发对创始人减持的担忧",
-      "title_cn": "中国加强税收监管引发对创始人的担忧",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-14/china-s-tax-clampdown-raises-fears-of-founder-share-disposals",
-      "pub_raw": "2026-09-14T00:16:23.318Z",
-      "pub_sort_dt": "2026-09-14 08:16:23"
-    },
-    {
-      "source": "Bloomberg",
       "title_en": "70亿美元的天然气账单让亚洲发展中国家对液化天然气（LNG）感到不满",
       "title_cn": "70亿美元的天然气账单让亚洲发展中国家对液化天然气（LNG）感到不满",
       "url": "https://www.bloomberg.com/news/articles/2026-09-13/a-7-billion-gas-bill-sees-developing-asian-nations-sour-on-lng",
@@ -159,7 +207,7 @@
     {
       "source": "Bloomberg",
       "title_en": "特朗普不以为然地驳斥了关于人工智能的末日论调，以维护美国对中国的领先优势",
-      "title_cn": "特朗普不以为然地反驳了关于人工智能的末日论调，以维护美国对中国的领先优势",
+      "title_cn": "特朗普不以为然地反驳了关于人工智能的末日论调，以维持美国对中国的领先优势",
       "url": "https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china",
       "pub_raw": "2026-09-12T16:05:36.131Z",
       "pub_sort_dt": "2026-09-13 00:05:36"
@@ -203,57 +251,49 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-12/singapore-vs-hong-kong-which-city-is-the-best-to-move-to",
       "pub_raw": "2026-09-12T01:10:25.706Z",
       "pub_sort_dt": "2026-09-12 09:10:25"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港酒吧界的新星Fello专为挑逗感官而生",
-      "title_cn": "香港酒吧界的新星Fello专为挑逗感官而生",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-12/hk-bar-scene-s-new-star-fello-was-built-to-tantalize-the-senses",
-      "pub_raw": "2026-09-12T00:08:21.019Z",
-      "pub_sort_dt": "2026-09-12 08:08:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国人工智能开发商Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
-      "title_cn": "中国人工智能曼谷Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
-      "url": "https://reut.rs/4xPowHJ",
-      "pub_raw": "2026-09-11T13:48:57.415Z",
-      "pub_sort_dt": "2026-09-11 21:48:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "基金和中国工业企业的逢低买入支撑铜价企稳",
-      "title_cn": "基金与中国工业企业的逢低买入支撑铜价企稳",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-11/copper-heads-for-weekly-loss-as-doubts-on-us-tariffs-intensify",
-      "pub_raw": "2026-09-11T11:58:10.956Z",
-      "pub_sort_dt": "2026-09-11 19:58:10"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国发布加强农业保险的计划",
-      "title_cn": "中国印发加强农业保险计划",
-      "url": "https://reut.rs/4xlpevp",
-      "pub_raw": "2026-09-11T11:26:21.408Z",
-      "pub_sort_dt": "2026-09-11 19:26:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国石油巨头如何协助北京为能源危机做准备",
-      "title_cn": "中国石油工会如何协助北京为能源危机做好准备",
-      "url": "https://reut.rs/4rfSemT",
-      "pub_raw": "2026-09-11T10:55:20.062Z",
-      "pub_sort_dt": "2026-09-11 18:55:20"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "自伊朗战争爆发以来，中国第三次限制燃油价格涨幅",
-      "title_cn": "自伊朗战争爆发以来，中国第三次限制燃油价格上涨",
-      "url": "https://reut.rs/4ducpHW",
-      "pub_raw": "2026-09-11T10:39:26.673Z",
-      "pub_sort_dt": "2026-09-11 18:39:26"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国情报机构警告人工智能对国家安全构成的风险 - Financial Times",
+      "title_cn": "中国情报机构警告人工智能对国家安全构成的风险 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOcUpTd2twTEt1dVBNcmY4eEliTmxPejdLNW9ieGw2T0gweHBtNWdxTmVxdTVPOG0wOVBQWmxzNHdBM1cxUFR2V1lRbTM1M3VXN3QxVjdSb1NwWjJCSVU3TjBIRGxRRDhxUjhDbHVCcUI5S1lLM3lfU3lJclFtWk1rdmNHZmo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T05:16:55.000Z",
+      "pub_sort_dt": "2026-09-14 13:16:55"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国实现了对算力的统筹协调与监测 - news.cgtn.com",
+      "title_cn": "中国实现了对算力的协调与监测 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNbFBGdWU2VjRuQi04S0YzSUdRbnFGWTNRd2RBbXc1MXBMcTBCZlp5dkJYWUR3T2l5NVpMcWhPbkV5LUJQcHNCTkhjQXJNYzBFM0txQ19VT2pRTWRWTjZIZ2RVV1pmSHRBaHBrX0poWFhCaXhDS0l6aU5JZ29MWFhuanQ1S3FxNU9KZV9HOW8tLTNWZm11aWxKeE05cVpyY25lU1lXRFFaSmJ6MVpkTmRYSzdIeGJvZ19DQTlWeFlxRGttMXc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T04:14:48.000Z",
+      "pub_sort_dt": "2026-09-14 12:14:48"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国加强税收监管引发对创始人抛售股份的担忧 - bloomberg.com",
+      "title_cn": "中国加强税收监管引发对创始人抛售股份的担忧 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxPd1ZKVDYzckhtT2lhMXFoR3VkaHM3TjBsWkRhWVFqeG0yZjJFd1FjbTNka1N0akJRN2NkRGdNTlJkZkxocnRhS3NGM3V6Q2QwTFZyNjlFRDJfYTNYM291My1EVzViVUgyN3Bod09RM0RnV2YzeXU2dVY1RlNrbGFoc3BnYUpEdV9JQWp2RjAxVXNCVjhKWVNIREgtN0F2YUlzR2l1alo4aUpaNXV3Mmw1SHVn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T04:13:00.000Z",
+      "pub_sort_dt": "2026-09-14 12:13:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国官方媒体抨击Anthropic呼吁放缓人工智能发展的主张是“冷战”策略 - Reuters",
+      "title_cn": "中国官方媒体殴打人类呼吁终止人工智能发展的中断是“冷战”策略 - 路透社",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxOcXBVbWdJVHFtcDF3SHNDTUx5dV8yeGJDbXRsMmFNY2RmTHZodXo2NUFtU19nNF9NY0JEVURiQ0pockxyNGgxTkdKMVlDaWZSb0tnMUVHSV9sQXIzZGEtR2RCalV4a1Y3ZkRXb1RrR1ZuTFRscHNXYk5EZUpMNjA4c2FQbDdJd1ZWMXpRd3huRkgzT1lLYUxZX0RKSDNsemJ6b3Ftb01XZEFwMUtvV00yd0NVNFVhQlFW?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T04:04:00.000Z",
+      "pub_sort_dt": "2026-09-14 12:04:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国情报部门负责人警告人工智能风险，美国科技界领袖呼吁放缓发展 - Bloomberg.com",
+      "title_cn": "中国情报部门负责人警告人工智能风险，美国科技界领袖呼吁发展 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxQZFdVeUJpY3VONHU0NEhtdWVsaF84ZjB1RXZsd2xIcV84anBHeEVyNHlLTkllQ1ZQYl9ieF9iZFJueEFjUW1yODN5eE1TR0ZYVzgwSnFuak01eDBrbkhuMjZFZXU2ZTJBTzh3LTZqV1NZelEyZHAzNTg5clJvcHh4eUlhdUpKdG5SY0NvRlRvTG8xbGNjZG5nQzlEeEEwTVhSMXVsNlRkTktmUmJZUGR4ejExQmU2UQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T03:07:00.000Z",
+      "pub_sort_dt": "2026-09-14 11:07:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "有报道称中国获取的图像与伊朗遭袭事件有关，特朗普称中国对美国进行“间谍活动” - foxnews.com",
@@ -295,44 +335,60 @@
       "pub_sort_dt": "2026-09-14 07:00:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - PBS",
-      "title_cn": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿意在该领域让中国质疑优势 - PBS",
-      "url": "https://news.google.com/read/CBMizAFBVV95cUxQcHJIM0F2T0JiX0NjZVV3cURYdE1jaE1kM0RuVmpzRUhVNlRfWThMTkdTbndURkxDNEJaTVNsbmRxSHAyTVVSU0dreUJLcUZXaWxlb0hSUUs3Ukk2Y1dJZzVvbHJGWlNwX3p5eFN0cUVrNVBuTHdmd2t3bFJfRjlob0FGbU1RaGFEYTI3bTRseGdYbUxjejQ4VFJiREtDOHA4ZG9iZXhNaWxXRkxGQlZfQXJwVTBURWIySWJVeXY5R0k4TXdxUm9FcTNtNzbSAdIBQVVfeXFMTjNGa1VPeV9ya0JZd1JsZU5UMW1BSV9qQXNoOC1iN0NSajdrS2xGSjhOVGVyRVBpbmRzemJaUzJtQ25GQUplZ0k1bk9kdVkxUTQ3RlpxTThTWjNkb3kwOGREUTR4ZUROakQ2dXc3M214MUhmSG8tQldXSXB1VUoyVjlHRzhNQW44MkQ4Q2pGYi1GWmc2WUhtQ0RVVFFrSWJ4ckZoWURoV0xZTzE2RnZ0Rlo0Q21nVWhTdXhtMFhnUjhzbkh0WFlxU0ZxbFR6TFN2Vl9n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-13T22:08:25.000Z",
-      "pub_sort_dt": "2026-09-14 06:08:25"
+      "source": "Bloomberg",
+      "title_en": "印度和中国如何在金砖国家峰会上采取措施重启双边关系：现场问答",
+      "title_cn": "与中国印度如何在金砖国家峰会上采取措施重启关系：现场问答",
+      "url": "https://www.bloomberg.com/sessions/2026-09-14/live-q-amp-a-how-india-and-china-are-finding-common-ground",
+      "pub_raw": "2026-09-14T06:19:19.009Z",
+      "pub_sort_dt": "2026-09-14 14:19:19"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "独家 资深投资者方凤雷谈中国“投资吸引力”为何依然毋庸置疑 - South China Morning Post",
-      "title_cn": "独家资深投资者方凤雷谈中国“投资吸引力”为何仍不足以庸置疑 - 南华早报",
-      "url": "https://news.google.com/read/CBMi0AFBVV95cUxNcjhwSHExdUJoS1l2VXJtcEg0TlBPeERpQWhTaG04M2I3Q1poYjRUYmVYMW9tMDQwaTBMTUJNc0pfMFh2VWE0REltYUZtNjNIbDNIRmdiaFNHSnItdF9WcDJpQ3p4X195eDFZNmlWWmNNY3dDckR4MHZBTzFXdkowaEtReVFPODd4UVlzWnhHU0ZtdVNZS3hIYUlTSkw3ZHF3alR4U212cHE5eWppdkxJb3NIX2xxSDg0NHRqNmlHX0RqRWgwVjV1QmZ0dV9QTHVV0gHQAUFVX3lxTE1YSkZtZEVvelF0S3ZWWkNIbmFIWjVnNHBteC04RHlXdmEzMTJRYkJCeFJpZ09mcl85ajRPanVzUGFhcHJrd3VWTDE3ckV5MmllSllla2owcTFuSVJCX3p4clBNeVJMQ1dVWmtnQ2xPSGs4cDNUQk0tdm9RMHJ6cVB3VV83SXRJSnNBSzBIYXFYbTV2WGtkS092T21PQ21QcS0xNHdUUTRSNE1KRXBWbGl4c2Z6aDlVcUFHWEZON3k1RnJBcENrei1yS0N0eW0xY0o?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-13T22:00:12.000Z",
-      "pub_sort_dt": "2026-09-14 06:00:12"
+      "source": "Financial Times",
+      "title_en": "中国情报机构警告称人工智能对国家安全构成风险",
+      "title_cn": "中国情报风险机构警告称人工智能对国家安全构成",
+      "url": "https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-14T05:32:14.095Z",
+      "pub_sort_dt": "2026-09-14 13:32:14"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - The Washington Post",
-      "title_cn": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿意在该领域让中国质疑优势 - 华盛顿邮报",
-      "url": "https://news.google.com/read/CBMi9gFBVV95cUxORGdMXzRIZjhjQjZteUxzUS1pUk1adUd5Q0VuQ2czOXFMWnlhdDRtTkhqcDBqMHpLaGhOQ2Q4b3FQUGFaQ3h5Rzh3S1JmVVZrdGZFSV9FSUZKaG5UdzNNYjdQLW5JZXFuMU1TWUZ1WGw4QllNanUxV0xJRlNRbllHRUdqTXVTUmhNNGdsRVpBSVhDX1FZcms0Q3pyWGNSRk96NVZDMmxUaFBLV1M1VE01bVRGcDFOdGV3TFN1OEpRNTZpbXRyTThrbXBqYndUMmkwMlFCcjE5OWJmUGRCZ3oySmdQTG9lcXMtb1d0bUhOLThzSDlSSXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-13T20:31:33.000Z",
-      "pub_sort_dt": "2026-09-14 04:31:33"
+      "source": "Bloomberg",
+      "title_en": "中信大厦无人机坠落事件后，北京出台广泛限制措施，禁止无人机飞行",
+      "title_cn": "中信大厦无人机坠落事件发生后，北京全面采取措施，禁止无人机飞行",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/beijing-bans-drones-in-sweeping-curbs-after-citic-tower-crash",
+      "pub_raw": "2026-09-14T05:01:42.633Z",
+      "pub_sort_dt": "2026-09-14 13:01:42"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不想在该领域落后于中国 - AP News",
-      "title_cn": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域落后于中国 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-13T17:44:00.000Z",
-      "pub_sort_dt": "2026-09-14 01:44:00"
+      "source": "Reuters",
+      "title_en": "在地区局势动荡之际，中国国防论坛即将开幕",
+      "title_cn": "在地区局势动荡之际，中国国防论坛即将开幕",
+      "url": "https://reut.rs/4AaVBiV",
+      "pub_raw": "2026-09-14T05:01:42.518Z",
+      "pub_sort_dt": "2026-09-14 13:01:42"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "当地缘政治超越供应链的经济规律时 - lowyinstitute.org",
-      "title_cn": "当地政治超越供应链的经济规律时 - lowyinstitute.org",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxPeTBBZHJvSE1RMXpIT2hRT3NCVDVNYVk5RlIwUnFjUlhmZDdtYzdGUFl5MG5YaUxuTTlUS0h0Y0J1QWNObnJyLWlpT3AzVnlkZnVBLVhhRWcxaE1vYlpFOTBqQnZtU012Tm1McU9wRTdJVWZleUNDaWRnRFRLaXA0cmdxdmxNbGtra1NZSXdjam16dEZhZVk4ZVE3dkVJMEVvYVdZ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-13T17:04:47.000Z",
-      "pub_sort_dt": "2026-09-14 01:04:47"
+      "source": "Bloomberg",
+      "title_en": "Ligent Technologies计划在香港首次公开募股（IPO）筹集7.27亿美元",
+      "title_cn": "Ligent Technologies计划首次公开募股（IPO）香港认购7.27亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/ligent-technologies-seeks-727-million-in-hong-kong-ipo",
+      "pub_raw": "2026-09-14T04:29:18.374Z",
+      "pub_sort_dt": "2026-09-14 12:29:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国加强税务监管引发对创始人抛售股份的担忧",
+      "title_cn": "中国加强税务监管引发对创始人抛售股份的担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/china-s-tax-clampdown-raises-fears-of-founder-share-disposals",
+      "pub_raw": "2026-09-14T04:29:18.327Z",
+      "pub_sort_dt": "2026-09-14 12:29:18"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国官方媒体抨击Anthropic呼吁放缓人工智能发展的主张是“冷战”策略",
+      "title_cn": "中国官方媒体猝击人类呼吁终止人工智能发展的中断是“冷战”策略",
+      "url": "https://reut.rs/4gMT1rW",
+      "pub_raw": "2026-09-14T04:29:18.226Z",
+      "pub_sort_dt": "2026-09-14 12:29:18"
     },
     {
       "source": "Bloomberg",
@@ -368,14 +424,6 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "中国加强税收监管引发对创始人减持的担忧",
-      "title_cn": "中国加强税收监管引发对创始人的担忧",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-14/china-s-tax-clampdown-raises-fears-of-founder-share-disposals",
-      "pub_raw": "2026-09-14T00:16:23.318Z",
-      "pub_sort_dt": "2026-09-14 08:16:23"
-    },
-    {
-      "source": "Bloomberg",
       "title_en": "70亿美元的天然气账单让亚洲发展中国家对液化天然气（LNG）感到不满",
       "title_cn": "70亿美元的天然气账单让亚洲发展中国家对液化天然气（LNG）感到不满",
       "url": "https://www.bloomberg.com/news/articles/2026-09-13/a-7-billion-gas-bill-sees-developing-asian-nations-sour-on-lng",
@@ -401,7 +449,7 @@
     {
       "source": "Bloomberg",
       "title_en": "特朗普不以为然地驳斥了关于人工智能的末日论调，以维护美国对中国的领先优势",
-      "title_cn": "特朗普不以为然地反驳了关于人工智能的末日论调，以维护美国对中国的领先优势",
+      "title_cn": "特朗普不以为然地反驳了关于人工智能的末日论调，以维持美国对中国的领先优势",
       "url": "https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china",
       "pub_raw": "2026-09-12T16:05:36.131Z",
       "pub_sort_dt": "2026-09-13 00:05:36"
@@ -445,54 +493,6 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-12/singapore-vs-hong-kong-which-city-is-the-best-to-move-to",
       "pub_raw": "2026-09-12T01:10:25.706Z",
       "pub_sort_dt": "2026-09-12 09:10:25"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港酒吧界的新星Fello专为挑逗感官而生",
-      "title_cn": "香港酒吧界的新星Fello专为挑逗感官而生",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-12/hk-bar-scene-s-new-star-fello-was-built-to-tantalize-the-senses",
-      "pub_raw": "2026-09-12T00:08:21.019Z",
-      "pub_sort_dt": "2026-09-12 08:08:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国人工智能开发商Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
-      "title_cn": "中国人工智能曼谷Z.AI启动50亿美元香港股票及可转换债券发行，条款清单显示",
-      "url": "https://reut.rs/4xPowHJ",
-      "pub_raw": "2026-09-11T13:48:57.415Z",
-      "pub_sort_dt": "2026-09-11 21:48:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "基金和中国工业企业的逢低买入支撑铜价企稳",
-      "title_cn": "基金与中国工业企业的逢低买入支撑铜价企稳",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-11/copper-heads-for-weekly-loss-as-doubts-on-us-tariffs-intensify",
-      "pub_raw": "2026-09-11T11:58:10.956Z",
-      "pub_sort_dt": "2026-09-11 19:58:10"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国发布加强农业保险的计划",
-      "title_cn": "中国印发加强农业保险计划",
-      "url": "https://reut.rs/4xlpevp",
-      "pub_raw": "2026-09-11T11:26:21.408Z",
-      "pub_sort_dt": "2026-09-11 19:26:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国石油巨头如何协助北京为能源危机做准备",
-      "title_cn": "中国石油工会如何协助北京为能源危机做好准备",
-      "url": "https://reut.rs/4rfSemT",
-      "pub_raw": "2026-09-11T10:55:20.062Z",
-      "pub_sort_dt": "2026-09-11 18:55:20"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "自伊朗战争爆发以来，中国第三次限制燃油价格涨幅",
-      "title_cn": "自伊朗战争爆发以来，中国第三次限制燃油价格上涨",
-      "url": "https://reut.rs/4ducpHW",
-      "pub_raw": "2026-09-11T10:39:26.673Z",
-      "pub_sort_dt": "2026-09-11 18:39:26"
     }
   ]
 }
