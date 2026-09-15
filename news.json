@@ -1,15 +1,39 @@
 {
-  "update_cst": "2026-09-15 06:01:00 北京时间",
+  "update_cst": "2026-09-15 09:00:57 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
     "Bloomberg": 10,
-    "Financial Times": 2,
+    "Financial Times": 3,
     "Wall Street Journal": 1,
-    "Reuters": 6
+    "Reuters": 5
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "美国的“特洛伊木马”：国会调查与中国、伊朗和古巴有关联的影响力网络 - Fox News",
+      "title_cn": "美国的“特洛伊木马”：国会调查与中国、伊朗和古巴有关联的影响力网络 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxNcjdTSlRULTV6eWRYUlU2MW1vTjZ5TXVxclFfc0RZd002NGZyNDRnckgtdG5vZFZMU0M0Q1d6LXlXQjNhMnQ2d3cwUGNsRVc2RzVHWXB2TnI4WTl0c1VSSTY3cmN6T09iUWNUZjc5R2VLYzhhdHVGbDJoUnpSbW00OFNKVDJpN1cwOEpmUUtTbUNmR1hEVGl2Z0hpTG44WWVhZWZUVHNpeHkwOFVRRzZr0gG0AUFVX3lxTE5xZE91cUlBWExvZERLYU8zcTk3engyOGdTREhNYUE5WTZtOTJTMFpPSTY5OG9uNkJNSGgtZ1EtQjF1R0s3Z3RJM1lmdk9yVEw2RkstVHhZZmdFQ3h3SGV4TTNXbGhBUWJDVl9pSzU1YlRqM1J0bVZ2cjFBbDJMZE1HVy12RDFXNS1kd25nTV9KYmhWNThiMTJrOXhIUGMtSTVZeTdTQnR3dGY0QWxKUF84RnRLRA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-15T00:12:45.000Z",
+      "pub_sort_dt": "2026-09-15 08:12:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "CNBC《中国连线》通讯：技术管控范围扩大至员工 - CNBC",
+      "title_cn": "CNBC《中国连线》通讯：技术管控范围扩大至员工 - CNBC",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxOWHRHSWZadnJabldBa042LUZoVmI3QzRtUGxQdy1JOFZJMjR4RVhmb25IejBzVGk5Y2pyajhVdVYyQ3B4YVo0YU81UndhYUhoVkpGWU04dzN2YkczUzRoRkVhbUJ6VWR6eWRXc1Fad3ZIM25YdzVDUHpmN1R2ZmNvMVplWUpHLUxnQS1NY2xHYlJxdmRxRm9pQzNoRmMzOFHSAaQBQVVfeXFMUGdrbV80cmUyYzZackJYT2xvTlNmSW04d1UzT1JlVjJzcmFXLXYtXzZubWgwWnAzZWpiRUFEdTBGWWMyb0Fja0N3UzBnVVUxWkFMSlBrMmVwTXg3Z2RmUjFDT25HZUtBZ0haMEdfLXBHZ1RqeE5zRjU3dFFSWWMtRWRKaG1CNXdiZUROaVN2YmVVbU9XZW5RWEFsR0taX1V5WEFLSlY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T23:00:01.000Z",
+      "pub_sort_dt": "2026-09-15 07:00:01"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "父母均出生于中国的乒乓球兄妹誓言将迎来“日本时代” - Japan Today",
+      "title_cn": "父母均出生于中国的乒乓兄妹誓言将庆祝“日本时代” - 今日日本",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxPOUNoUEpTeEZQa2JJWUl5TFpvRFQxTFhVa1ZuYVYtN3RLa1hGUERscE1EVUxiXzgtb202amVCOGhhZHdzalRsVnd1eXV4bVM3eEhUVHR4WlBkUTAyOHpoNk5QblBUNnNoVzBFR0RzNWNlX2wxX2Ztalp3cEFaSDlncXhadjhmTVlsalJaOVlVNGpncXZOTFRHdmU1SFdPaUtMUS1pdDluNzg1ZFNEeXgyRXRB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T21:16:00.000Z",
+      "pub_sort_dt": "2026-09-15 05:16:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "欧洲央行行长拉加德表示，欧洲必须自主研发人工智能，否则将面临被美国或中国切断联系的风险 - The Guardian",
@@ -17,6 +41,14 @@
       "url": "https://news.google.com/read/CBMirwFBVV95cUxPTTZOZmhWY1FNU2wxZGcxZzZYTEprQXJlRm5kVWtHZnNNSGtqZXVvS2NUeW44QmIwS1M3eEtGQ0IwNXM3QkwwLU5RbGJrUWFkTlZxWmt6RmxUM2swcmt5bVE4c2sxQmlZdHVVNVhTeEZNVVh6bHY5YWVNMnRZNEEwSWpVREJEaHFZdzBHZ3gwejhJaVFuOFZQTWYwU0dXSll4YXRMWm1FV0RHMFhVM2FZ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-14T18:41:00.000Z",
       "pub_sort_dt": "2026-09-15 02:41:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "新闻——中国发现丹尼索瓦人化石及疑似工具 - Archaeology Magazine",
+      "title_cn": "新闻——中国发现丹尼索瓦人化石及疑似工具 - 考古杂志",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxOV0N5SVp1dEhlczl4eDhRSGp0SC00bnJFWDJoOEx4MXNUY3FIUThPZ01lSHEyTDRfRnNmWWJqb3Uwak1fbXMtSDduNTBVTVpiNDRQY0JwaDJBTzlFZk1PQWVtUlVwWVBBU1RudVE3SHFnTFkyckpETWJ6ZjlXOUw5Z21ZNGd5TnlhTzJSczNKTUl4bHY2bzJBZlZUNVA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T17:18:55.000Z",
+      "pub_sort_dt": "2026-09-15 01:18:55"
     },
     {
       "source": "China Buzzing",
@@ -29,7 +61,7 @@
     {
       "source": "China Buzzing",
       "title_en": "中国对补习行业的整顿催生了一个新的黑市 - The Economist",
-      "title_cn": "中国对补习行业的整顿催生了一个新的黑市 - The Economist",
+      "title_cn": "中国对补习行业的整顿催生了一个新的黑市 - 经济学人",
       "url": "https://news.google.com/read/CBMioAFBVV95cUxNcGV0ZGV0QUM5QUt1Wm1nTjB6Vm1UTGpQMTJudmpBOFFjOXNiWlIyal80bkhSNVVLRGdLZlgzWUlQb3AxQnFjMldyMlNZd04weXhwLUlVeUZna0d5VEdVY0lUWEFsTEtWME1tUnFpR2htTjZyMDZSckFiWUxrdUFLUGc4MVRGWTNCUXp3aTJxVDVEZmZad2pvTE9hUzY4YnA3?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-14T15:11:06.000Z",
       "pub_sort_dt": "2026-09-14 23:11:06"
@@ -57,41 +89,25 @@
       "url": "https://news.google.com/read/CBMiqwFBVV95cUxPaUkzRGpCV3UtWTRDSzZCN19yRFRmV3VqbjlDOGgtQWdiaWhVcVVjSDRUdWlfejllZGJXSlh3SnQzZDJzZVhHOFpGai1Ka2k2aGU1SHBJQjdBRWhRRkdhMmVZWmVTY0JEbDlfMHlyUjBxeU5NU2I1VVVIWGc2b2ZHTUJGTDRIRkxDeGF6VlhaaHducEhiRWREdTI2bXY5OFJKMFJsc0h6U2FoNWM?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-14T15:05:03.000Z",
       "pub_sort_dt": "2026-09-14 23:05:03"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "德国将就对华政策向欧盟施压，或寻求加征更多关税 - Bloomberg.com",
-      "title_cn": "德国将就对华政策向欧盟施压，或寻求加征更多关税 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxPb1duUkszRE5ZVnF4dTNyaVpQbUdVOEhrNmJxQTYxN2ZlVC1TdER1eko4M2Y4SUNpZllIMGdQamJfdDdOTURfNGtyYUQ3SkRFS1Z0OUswSlBVQ0xnZ3BOaE5BcUdzdmQxRWdmQTVyUjUtemNqVkxIalBXbGs1VmpDN1FGaHdydC1ZcXhLUW8telVIYXBmM29mTVZLRktMd2lJSGRaSmNSaUJzdGJ5MHRDM1NB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-14T14:24:11.000Z",
-      "pub_sort_dt": "2026-09-14 22:24:11"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "要去中国旅行吗？这些应用是你在当地生存的必备利器 - CNET",
-      "title_cn": "要去中国旅行吗？这些应用是你在当地生存的必备利器 - CNET",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxPMDc2MExPNzQ0ODE3M2NYdnV3Ymc0UjlfTXU1N21hTXdLNG9LZFpkZkN3UjdTM0VNWlN5N2RnalJ1VUNmcnhHWHN1MldpSmI4WDEyUXVxeXdfQW5vS2R0U192NDRUUjM2ZTRpaXJPUTVPeGJ4eE5qLUtpWkt6cVpTd21WWGVMb2E4b0lOTVp1bGpOckl0em1sSA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-14T13:27:16.000Z",
-      "pub_sort_dt": "2026-09-14 21:27:16"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国Pony.ai发布最新款机器人卡车，瞄准欧洲市场 - Reuters",
-      "title_cn": "中国小马智行发布最新款机器人卡车，瞄准欧洲市场 - 路透中文网",
-      "url": "https://news.google.com/read/CBMi0gFBVV95cUxQR2VTZTJjcl9FYW90RGw2alJpUEhuS0R6QkNyYXJIdnZnZHNWS0haWmpEel9iUi1TSUlfbkdhbU83NTBqemd3aVZiX0ZmUUFUR09faUNpRzdBQ0M5ZV9ISmpSTGZqX29kTVJwb3RDVFdvRVY3dVo5OHdqSm9YQUJFQXh0UWxwbWF6UGVZRmtRYkRCdGRxSW1MRnBqeUNaSHVjVWowcGlaYVJfLXBUSFY2WnpHWi1uWk5SRng0eUpSRmdrRUJFci16UFdGbWwxNkpkLXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-14T12:57:59.000Z",
-      "pub_sort_dt": "2026-09-14 20:57:59"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "欧盟正试图减少对北京的依赖，但欧洲企业尚未做好应对中国冲击的准备 - politico.eu",
-      "title_cn": "欧盟正试图减少对北京的依赖，但欧洲企业尚未做好应对中国冲击的准备 - politico.eu",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxOTGRha1Z1NmJXeU5LU0I2QXpaUl9NZm5ET0wwRDlLRlp1Mm5JZGF2NzREZ3VzM3lXcUM1V1QzRUxYck4tdElLYjRISmRPSHNaRXMtZWptZ1RvYU1fSkJpYjg1M2ZMWHg1TDBxRUVXM2VfWUZZdWxiUEd2R3FwOFJFTlJfTmw1RlA4QmlOM0VldlZBM2lB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-14T12:34:58.000Z",
-      "pub_sort_dt": "2026-09-14 20:34:58"
     }
   ],
   "media_news": [
+    {
+      "source": "Financial Times",
+      "title_en": "随着香港押注宠物经济，狗狗也加入了用餐者的行列",
+      "title_cn": "随着香港押注宠物经济，狗狗也加入了餐饮者的行列",
+      "url": "https://www.ft.com/content/a718a93c-5565-46ec-be3e-f9f67d5e6864?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-15T00:25:31.981Z",
+      "pub_sort_dt": "2026-09-15 08:25:31"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "提升人民币影响力或将成为香港“五年规划”的重点",
+      "title_cn": "提升人民币影响力或将成为香港“五年规划”的重点",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/yuan-popularity-boost-likely-focus-of-hong-kong-s-five-year-plan",
+      "pub_raw": "2026-09-14T23:21:21.343Z",
+      "pub_sort_dt": "2026-09-15 07:21:21"
+    },
     {
       "source": "Bloomberg",
       "title_en": "从中国视角看，AI末日景象有所不同",
@@ -143,7 +159,7 @@
     {
       "source": "Reuters",
       "title_en": "中国燃气与美国Venture Global公司签署了一项为期20年的液化天然气进口协议",
-      "title_cn": "中国燃气与美国Venture Global公司签署了为期20年的液化天然气进口协议",
+      "title_cn": "中国燃气与美国Venture Global公司签署了一项为期20年的液化天然气进口协议",
       "url": "https://reut.rs/4yHjf5j",
       "pub_raw": "2026-09-14T13:06:45.888Z",
       "pub_sort_dt": "2026-09-14 21:06:45"
@@ -207,7 +223,7 @@
     {
       "source": "Reuters",
       "title_en": "企业曾为规避关税而撤离中国。如今，部分企业正重返中国",
-      "title_cn": "企业曾针对关税而改变中国。如今，部分企业正参与中国",
+      "title_cn": "企业曾为关税而调整中国。如今，部分企业正参与中国",
       "url": "https://reut.rs/4cF6IGX",
       "pub_raw": "2026-09-14T08:09:33.426Z",
       "pub_sort_dt": "2026-09-14 16:09:33"
@@ -235,32 +251,48 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-14/beijing-bans-drones-in-sweeping-curbs-after-citic-tower-crash",
       "pub_raw": "2026-09-14T05:01:42.633Z",
       "pub_sort_dt": "2026-09-14 13:01:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在地区局势动荡之际，中国国防论坛即将开幕",
-      "title_cn": "在地区局势动荡之际，中国国防论坛即将开幕",
-      "url": "https://reut.rs/4AaVBiV",
-      "pub_raw": "2026-09-14T05:01:42.518Z",
-      "pub_sort_dt": "2026-09-14 13:01:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Ligent Technologies计划在香港首次公开募股（IPO）筹集7.27亿美元",
-      "title_cn": "Ligent Technologies计划首次公开募股（IPO）香港认购7.27亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-14/ligent-technologies-seeks-727-million-in-hong-kong-ipo",
-      "pub_raw": "2026-09-14T04:29:18.374Z",
-      "pub_sort_dt": "2026-09-14 12:29:18"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "美国的“特洛伊木马”：国会调查与中国、伊朗和古巴有关联的影响力网络 - Fox News",
+      "title_cn": "美国的“特洛伊木马”：国会调查与中国、伊朗和古巴有关联的影响力网络 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxNcjdTSlRULTV6eWRYUlU2MW1vTjZ5TXVxclFfc0RZd002NGZyNDRnckgtdG5vZFZMU0M0Q1d6LXlXQjNhMnQ2d3cwUGNsRVc2RzVHWXB2TnI4WTl0c1VSSTY3cmN6T09iUWNUZjc5R2VLYzhhdHVGbDJoUnpSbW00OFNKVDJpN1cwOEpmUUtTbUNmR1hEVGl2Z0hpTG44WWVhZWZUVHNpeHkwOFVRRzZr0gG0AUFVX3lxTE5xZE91cUlBWExvZERLYU8zcTk3engyOGdTREhNYUE5WTZtOTJTMFpPSTY5OG9uNkJNSGgtZ1EtQjF1R0s3Z3RJM1lmdk9yVEw2RkstVHhZZmdFQ3h3SGV4TTNXbGhBUWJDVl9pSzU1YlRqM1J0bVZ2cjFBbDJMZE1HVy12RDFXNS1kd25nTV9KYmhWNThiMTJrOXhIUGMtSTVZeTdTQnR3dGY0QWxKUF84RnRLRA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-15T00:12:45.000Z",
+      "pub_sort_dt": "2026-09-15 08:12:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "CNBC《中国连线》通讯：技术管控范围扩大至员工 - CNBC",
+      "title_cn": "CNBC《中国连线》通讯：技术管控范围扩大至员工 - CNBC",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxOWHRHSWZadnJabldBa042LUZoVmI3QzRtUGxQdy1JOFZJMjR4RVhmb25IejBzVGk5Y2pyajhVdVYyQ3B4YVo0YU81UndhYUhoVkpGWU04dzN2YkczUzRoRkVhbUJ6VWR6eWRXc1Fad3ZIM25YdzVDUHpmN1R2ZmNvMVplWUpHLUxnQS1NY2xHYlJxdmRxRm9pQzNoRmMzOFHSAaQBQVVfeXFMUGdrbV80cmUyYzZackJYT2xvTlNmSW04d1UzT1JlVjJzcmFXLXYtXzZubWgwWnAzZWpiRUFEdTBGWWMyb0Fja0N3UzBnVVUxWkFMSlBrMmVwTXg3Z2RmUjFDT25HZUtBZ0haMEdfLXBHZ1RqeE5zRjU3dFFSWWMtRWRKaG1CNXdiZUROaVN2YmVVbU9XZW5RWEFsR0taX1V5WEFLSlY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T23:00:01.000Z",
+      "pub_sort_dt": "2026-09-15 07:00:01"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "父母均出生于中国的乒乓球兄妹誓言将迎来“日本时代” - Japan Today",
+      "title_cn": "父母均出生于中国的乒乓兄妹誓言将庆祝“日本时代” - 今日日本",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxPOUNoUEpTeEZQa2JJWUl5TFpvRFQxTFhVa1ZuYVYtN3RLa1hGUERscE1EVUxiXzgtb202amVCOGhhZHdzalRsVnd1eXV4bVM3eEhUVHR4WlBkUTAyOHpoNk5QblBUNnNoVzBFR0RzNWNlX2wxX2Ztalp3cEFaSDlncXhadjhmTVlsalJaOVlVNGpncXZOTFRHdmU1SFdPaUtMUS1pdDluNzg1ZFNEeXgyRXRB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T21:16:00.000Z",
+      "pub_sort_dt": "2026-09-15 05:16:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "欧洲央行行长拉加德表示，欧洲必须自主研发人工智能，否则将面临被美国或中国切断联系的风险 - The Guardian",
       "title_cn": "欧洲央行行长拉加德表示，欧洲必须自主研发人工智能，否则将面临被美国或中国切断联系的风险 - 《卫报》",
       "url": "https://news.google.com/read/CBMirwFBVV95cUxPTTZOZmhWY1FNU2wxZGcxZzZYTEprQXJlRm5kVWtHZnNNSGtqZXVvS2NUeW44QmIwS1M3eEtGQ0IwNXM3QkwwLU5RbGJrUWFkTlZxWmt6RmxUM2swcmt5bVE4c2sxQmlZdHVVNVhTeEZNVVh6bHY5YWVNMnRZNEEwSWpVREJEaHFZdzBHZ3gwejhJaVFuOFZQTWYwU0dXSll4YXRMWm1FV0RHMFhVM2FZ?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-14T18:41:00.000Z",
       "pub_sort_dt": "2026-09-15 02:41:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "新闻——中国发现丹尼索瓦人化石及疑似工具 - Archaeology Magazine",
+      "title_cn": "新闻——中国发现丹尼索瓦人化石及疑似工具 - 考古杂志",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxOV0N5SVp1dEhlczl4eDhRSGp0SC00bnJFWDJoOEx4MXNUY3FIUThPZ01lSHEyTDRfRnNmWWJqb3Uwak1fbXMtSDduNTBVTVpiNDRQY0JwaDJBTzlFZk1PQWVtUlVwWVBBU1RudVE3SHFnTFkyckpETWJ6ZjlXOUw5Z21ZNGd5TnlhTzJSczNKTUl4bHY2bzJBZlZUNVA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-14T17:18:55.000Z",
+      "pub_sort_dt": "2026-09-15 01:18:55"
     },
     {
       "source": "China Buzzing",
@@ -273,7 +305,7 @@
     {
       "source": "China Buzzing",
       "title_en": "中国对补习行业的整顿催生了一个新的黑市 - The Economist",
-      "title_cn": "中国对补习行业的整顿催生了一个新的黑市 - The Economist",
+      "title_cn": "中国对补习行业的整顿催生了一个新的黑市 - 经济学人",
       "url": "https://news.google.com/read/CBMioAFBVV95cUxNcGV0ZGV0QUM5QUt1Wm1nTjB6Vm1UTGpQMTJudmpBOFFjOXNiWlIyal80bkhSNVVLRGdLZlgzWUlQb3AxQnFjMldyMlNZd04weXhwLUlVeUZna0d5VEdVY0lUWEFsTEtWME1tUnFpR2htTjZyMDZSckFiWUxrdUFLUGc4MVRGWTNCUXp3aTJxVDVEZmZad2pvTE9hUzY4YnA3?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-14T15:11:06.000Z",
       "pub_sort_dt": "2026-09-14 23:11:06"
@@ -303,36 +335,20 @@
       "pub_sort_dt": "2026-09-14 23:05:03"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "德国将就对华政策向欧盟施压，或寻求加征更多关税 - Bloomberg.com",
-      "title_cn": "德国将就对华政策向欧盟施压，或寻求加征更多关税 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxPb1duUkszRE5ZVnF4dTNyaVpQbUdVOEhrNmJxQTYxN2ZlVC1TdER1eko4M2Y4SUNpZllIMGdQamJfdDdOTURfNGtyYUQ3SkRFS1Z0OUswSlBVQ0xnZ3BOaE5BcUdzdmQxRWdmQTVyUjUtemNqVkxIalBXbGs1VmpDN1FGaHdydC1ZcXhLUW8telVIYXBmM29mTVZLRktMd2lJSGRaSmNSaUJzdGJ5MHRDM1NB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-14T14:24:11.000Z",
-      "pub_sort_dt": "2026-09-14 22:24:11"
+      "source": "Financial Times",
+      "title_en": "随着香港押注宠物经济，狗狗也加入了用餐者的行列",
+      "title_cn": "随着香港押注宠物经济，狗狗也加入了餐饮者的行列",
+      "url": "https://www.ft.com/content/a718a93c-5565-46ec-be3e-f9f67d5e6864?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-15T00:25:31.981Z",
+      "pub_sort_dt": "2026-09-15 08:25:31"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "要去中国旅行吗？这些应用是你在当地生存的必备利器 - CNET",
-      "title_cn": "要去中国旅行吗？这些应用是你在当地生存的必备利器 - CNET",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxPMDc2MExPNzQ0ODE3M2NYdnV3Ymc0UjlfTXU1N21hTXdLNG9LZFpkZkN3UjdTM0VNWlN5N2RnalJ1VUNmcnhHWHN1MldpSmI4WDEyUXVxeXdfQW5vS2R0U192NDRUUjM2ZTRpaXJPUTVPeGJ4eE5qLUtpWkt6cVpTd21WWGVMb2E4b0lOTVp1bGpOckl0em1sSA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-14T13:27:16.000Z",
-      "pub_sort_dt": "2026-09-14 21:27:16"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国Pony.ai发布最新款机器人卡车，瞄准欧洲市场 - Reuters",
-      "title_cn": "中国小马智行发布最新款机器人卡车，瞄准欧洲市场 - 路透中文网",
-      "url": "https://news.google.com/read/CBMi0gFBVV95cUxQR2VTZTJjcl9FYW90RGw2alJpUEhuS0R6QkNyYXJIdnZnZHNWS0haWmpEel9iUi1TSUlfbkdhbU83NTBqemd3aVZiX0ZmUUFUR09faUNpRzdBQ0M5ZV9ISmpSTGZqX29kTVJwb3RDVFdvRVY3dVo5OHdqSm9YQUJFQXh0UWxwbWF6UGVZRmtRYkRCdGRxSW1MRnBqeUNaSHVjVWowcGlaYVJfLXBUSFY2WnpHWi1uWk5SRng0eUpSRmdrRUJFci16UFdGbWwxNkpkLXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-14T12:57:59.000Z",
-      "pub_sort_dt": "2026-09-14 20:57:59"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "欧盟正试图减少对北京的依赖，但欧洲企业尚未做好应对中国冲击的准备 - politico.eu",
-      "title_cn": "欧盟正试图减少对北京的依赖，但欧洲企业尚未做好应对中国冲击的准备 - politico.eu",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxOTGRha1Z1NmJXeU5LU0I2QXpaUl9NZm5ET0wwRDlLRlp1Mm5JZGF2NzREZ3VzM3lXcUM1V1QzRUxYck4tdElLYjRISmRPSHNaRXMtZWptZ1RvYU1fSkJpYjg1M2ZMWHg1TDBxRUVXM2VfWUZZdWxiUEd2R3FwOFJFTlJfTmw1RlA4QmlOM0VldlZBM2lB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-14T12:34:58.000Z",
-      "pub_sort_dt": "2026-09-14 20:34:58"
+      "source": "Bloomberg",
+      "title_en": "提升人民币影响力或将成为香港“五年规划”的重点",
+      "title_cn": "提升人民币影响力或将成为香港“五年规划”的重点",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/yuan-popularity-boost-likely-focus-of-hong-kong-s-five-year-plan",
+      "pub_raw": "2026-09-14T23:21:21.343Z",
+      "pub_sort_dt": "2026-09-15 07:21:21"
     },
     {
       "source": "Bloomberg",
@@ -385,7 +401,7 @@
     {
       "source": "Reuters",
       "title_en": "中国燃气与美国Venture Global公司签署了一项为期20年的液化天然气进口协议",
-      "title_cn": "中国燃气与美国Venture Global公司签署了为期20年的液化天然气进口协议",
+      "title_cn": "中国燃气与美国Venture Global公司签署了一项为期20年的液化天然气进口协议",
       "url": "https://reut.rs/4yHjf5j",
       "pub_raw": "2026-09-14T13:06:45.888Z",
       "pub_sort_dt": "2026-09-14 21:06:45"
@@ -449,7 +465,7 @@
     {
       "source": "Reuters",
       "title_en": "企业曾为规避关税而撤离中国。如今，部分企业正重返中国",
-      "title_cn": "企业曾针对关税而改变中国。如今，部分企业正参与中国",
+      "title_cn": "企业曾为关税而调整中国。如今，部分企业正参与中国",
       "url": "https://reut.rs/4cF6IGX",
       "pub_raw": "2026-09-14T08:09:33.426Z",
       "pub_sort_dt": "2026-09-14 16:09:33"
@@ -477,22 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-14/beijing-bans-drones-in-sweeping-curbs-after-citic-tower-crash",
       "pub_raw": "2026-09-14T05:01:42.633Z",
       "pub_sort_dt": "2026-09-14 13:01:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在地区局势动荡之际，中国国防论坛即将开幕",
-      "title_cn": "在地区局势动荡之际，中国国防论坛即将开幕",
-      "url": "https://reut.rs/4AaVBiV",
-      "pub_raw": "2026-09-14T05:01:42.518Z",
-      "pub_sort_dt": "2026-09-14 13:01:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Ligent Technologies计划在香港首次公开募股（IPO）筹集7.27亿美元",
-      "title_cn": "Ligent Technologies计划首次公开募股（IPO）香港认购7.27亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-14/ligent-technologies-seeks-727-million-in-hong-kong-ipo",
-      "pub_raw": "2026-09-14T04:29:18.374Z",
-      "pub_sort_dt": "2026-09-14 12:29:18"
     }
   ]
 }
