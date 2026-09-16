@@ -1,17 +1,65 @@
 {
-  "update_cst": "2026-09-16 18:01:04 北京时间",
+  "update_cst": "2026-09-16 22:01:12 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 12,
-    "Financial Times": 2,
+    "Bloomberg": 11,
+    "Financial Times": 3,
     "Wall Street Journal": 1,
     "Reuters": 5
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "观点 中美之间并非处于冷战状态 - The Washington Post",
+      "title_cn": "观点中美之间并非处于冷战状态 - 华盛顿邮报",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxPNE1NX1dqTjRwNGtYWFI3NzBDdUJTX3ZvMGlaeGxUTm12N3FCcEpWSzdoTGwzbGdtRG1TV210RldYcUwxek1QNkhSdjRHcUwzX1pZSVZCTTgzWkRHblZiTW1NeWRVRVRRaW95TG42amI0UVdqeUVPeTZTUUQtSW5mXw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T12:17:29.000Z",
+      "pub_sort_dt": "2026-09-16 20:17:29"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特朗普与中国在人工智能领域的竞争可能会成为我们这个时代最大的错误 - Fox News",
+      "title_cn": "特朗普与中国在人工智能领域的竞争可能会成为我们这个时代最大的错误 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxPVWFYZFpBcTlGSGFqTFFEMjU0QTlCOWJpR05yRnN5TVQ3U1dRQm1seDNKZXVDMzU0OG9saUt3NzdTUUliQXA2QkcwWUktdS1BcG43QXh5d0YtU1hSTk9nc1VEdXBaWXE0ckxCLVZGQXh6ZHJ5UzBDc0hyZEZGeXNCb3I3ZTdZZk40UExmZ3pRNnFlS21j0gGaAUFVX3lxTE1hSUVDamxYb0YtdS1pRDdpRE5NV0hCMmRhUGRoM3h1NFVUa0FSU2NlSE9CWmxWaDFOMnQ3RVIxV2gtQXRiS1dvaVpzeTNvRWhSeUdkSVVSa2IwMDBaRExpbk96bE93X2V2LVhiRHZYZV9uaTRYeTJfb3Q5X0RMOXp6NUJhRXVaOU8wckttdkh1NmF1S2tNRWROOFE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T11:00:42.000Z",
+      "pub_sort_dt": "2026-09-16 19:00:42"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "四项升级可能决定美国航母能否保持对中国的优势 - Fox News",
+      "title_cn": "四项升级可能决定美国能否继续保持对中国的优势 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMilgFBVV95cUxNdUpMaDhYNlU5dlpFOFZqV0wtTGx0X1pJQlRObW8xVlZyUkY5MG02eUFkNEptb1dyblJhZjdNN1BtSWQxWkNXMmxiSU1PM1pRS2FlMTFJYklyT01FbzFuT0dnTDlOQTMyd094Tk1mUzg2MjBkNUd1akRVeWtwdDJFZmFoNUxOWEtlS2MyRzZrNzRRTEVzN3fSAZsBQVVfeXFMUFF5UlhOYWp6UjZhdkdGdjBhbVFTTG9KdTh5SU9tUVFITGR0VzdXLVV1aHgtQjAxblVYZXIxN0dpY2Fkd2JHZHZDU1NaSXctSUtsbFRlcDd5Tl9qN3ktOWhpVmxxdkVHUkNRUTVBS1JrN21VeHlFYlRKdUltQmNPTjFjVmotRDBBeUlmc2RGQnhSMHFURnZ2dlJDeU0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T09:00:05.000Z",
+      "pub_sort_dt": "2026-09-16 17:00:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在欧洲电信企业警告称新规可能使欧盟损失高达400亿欧元后，中国敦促欧盟避免采取歧视性限制措施 - Global Times",
+      "title_cn": "在欧洲电信企业警告称新规可能使欧盟损失高达400亿欧元后，中国敦促欧盟避免采取歧视性限制措施 - 环球时报",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTE1tU0RUNUVKSUhBTGZkNG85U2ZIMmJ4blZRbDVtMHR3OGNqV1NKazh2ZlBBM3NqRE51WUNQR24zaHR4Qy12Umw0Si1lSTdUR2NvbTVDQzBVd21obTk1R3Q3VFdn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T08:37:00.000Z",
+      "pub_sort_dt": "2026-09-16 16:37:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "北京是否应将海上民兵作为在南海的后备力量？ - South China Morning Post",
+      "title_cn": "北京是否应将海上民兵作为在南海的后备力量？ - 南华早报",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxNNllFV05UMVFzbUdFaDBOVWhiT2c2ZUdkQmE0WWZPVkpySkZnQ2h4Q0FKTkJYVFE4TDZLeWtqNVFaZmVwWGVWazRRWnh5VlJGdzhfV3VLaGtnMkFtdVRtMlFQbnRPcWtFLTBnQnhWRGJZS2RkSFVsTklmcER5aVotQXozSE1xd0plWlNpeGFyZHZKdWdyTmVsRE1HVzFUcXZFbU9oeXd0UDdnQV85SEFTZTNGbmxTUDU0TE56ZHU1MmXSAcABQVVfeXFMTlczVlVWbUpLcVBTV1JLMkNYNk55TzNiQlhBWVMtMG5ZTTUwZkdUYm1YLWEyNlRIQmNvWWFMdTI1OTFGN3llVm5yMFpvOWptYmlJTlhCWEE2eENZLU4xRXNwWVphQnhvSjJyYThmOU9Fcm1OZ2MzTEtUSnFKUDkxeEdoZ3gyQmdrS1NMcjZWLVlXcHRDdXhyMl9qYW1McGdKdXlKWVhZTkRmTzdrZWV4b3FuWS1fQkEwa3hUQ2hFQmdT?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T08:29:11.000Z",
+      "pub_sort_dt": "2026-09-16 16:29:11"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国首次超越德国，成为波兰最大的进口来源国 - Notes From Poland",
+      "title_cn": "中国首次超越德国，成为波兰最大的进口来源国 - 波兰手记",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxNckVjdzQ0S2l5dmcyWDVmSWxlLUhuNkc0MW94OUhld0JxN1pmTXVHS3BLcm5Jc0tWYnd5OEpWRjdIVzUycVJlejNsRklteUhMNmdSWE5EOGo5UEo1eDRXYXFLVnVKRUVoNDFyUi1LMXRmamRGVmE4U1c2YzlScXlkenlwTTVTLWxCV2lOSUtSOFYwZS1iV2VzN3BHQU0yTTJNa3FTTVpCYnJtMFVic3Q5d0x6Y1BIdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T08:04:09.000Z",
+      "pub_sort_dt": "2026-09-16 16:04:09"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "冯德莱恩警告称，欧盟对华贸易逆差已达到“临界点” - politico.eu",
       "title_cn": "冯德莱恩警告称，欧盟对华贸易逆差已达到“临界点” - politico.eu",
       "url": "https://news.google.com/read/CBMingFBVV95cUxNRzhlb1lZeVhNSWZCUHI2U0xXVGx4dldEMjJRWlFZWDBnVE9jOGNtYnhrTHdMTXVVVWVGQUtWdTdDb2dhSlZGNWw3MHRpcDZSTXhYejBPUVVISXdXdFlSNzVTTkhNcHZLRFZTS3hXOV9KYUg4NExTN050cU1FQlFRMEdnWFdqT1NEdm1LVFFla1NSTUR1dTVwM2dMNkJ5QQ?hl=en-US&gl=US&ceid=US%3Aen",
@@ -21,7 +69,7 @@
     {
       "source": "China Buzzing",
       "title_en": "冯德莱恩表示，欧盟将动用一切手段缩小对华贸易逆差 - Reuters",
-      "title_cn": "冯德莱恩表示，欧盟将动用一切手段缩小对华贸易逆差 - Reuters",
+      "title_cn": "冯德莱恩表示，欧盟将采取一切手段缩小对华贸易逆差 - 路透中文网",
       "url": "https://news.google.com/read/CBMisgFBVV95cUxQVldpSXhsdm5HUlJwTEZ5ZDc2Ykwwak9rUG1jaW9XTk9XSmlwb0p4VGlvUEw1ZDEzWVRvTm9zRENEb3BrdkF3YkU2LWQtbzFzYUhGUkR1cXhmcmJoX0FwSHpOcXpFZHRTeW9EZm5uVUhVelc0WnRJRE1Tb3plbUZaaVNnWTEwODdIZzBHWTdIZXMtd2ZHUzk2TUtxV3ZqRmpZRW9QMGszUk1NU01hVXVyVldB?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T07:35:28.000Z",
       "pub_sort_dt": "2026-09-16 15:35:28"
@@ -29,7 +77,7 @@
     {
       "source": "China Buzzing",
       "title_en": "平卢运河是什么？它是中国通往东南亚的新门户吗？ - Al Jazeera",
-      "title_cn": "平卢运河是什么？它是中国通往东南亚的新门户吗？ - Al Jazeera",
+      "title_cn": "平卢运河是什么？它是中国通往东南亚的新门户吗？ - 半岛电视台",
       "url": "https://news.google.com/read/CBMiogFBVV95cUxQY0dLSFNpbGdaUmZCWTZaakZGVFZmYmVJZ0wtMjlLSXhfMmRyOGYtazZwelg3ZTQ3VzRNSGhnMk40bDF0VjdPMkVtVGYtcHEyRTk3c2pXV21qOHBONS1QczdsaEhKYVRYZ1FCaTlVeEE2VWs3R3gyMmxFVHpuOUd6QkJKY1paT2NEV0hHVWlLTlJONUtTVkh2VUU0RlpscFV4d1HSAacBQVVfeXFMUHJXX2xmRHlaSk5kOGVDTERJaXBsTjFNdC1CZTRadXhlaGVfV1J0V0xjTFJSNHR1TkxXN2FPMGVRa0RqQjl1a3dUU05zeGJnVDZKb1M4RDE4T3ZLeXd1bWp4eU1GMjZiTlk5TFJ4RWh2T2VNZ2NhMndnenlhSGNYODFjbmR2c3Y2R1FDWngzeVNfaGJ4a2NleDRydzU5aUlvbndjaThQZXM?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T06:09:10.000Z",
       "pub_sort_dt": "2026-09-16 14:09:10"
@@ -37,65 +85,33 @@
     {
       "source": "China Buzzing",
       "title_en": "中国国防部长在安全论坛开幕式上呼吁停止“挑衅行为” - Reuters",
-      "title_cn": "中国国防部长在安全论坛开幕式上呼吁停止“挑衅行为” - Reuters",
+      "title_cn": "中国传染病长在安全论坛上呼吁停止“挑衅行为” - 路透中文网",
       "url": "https://news.google.com/read/CBMivAFBVV95cUxNN3Z4aTk4b1VkSXZjX0VtdktUeVYxcVVjT1U0OV9lRFN1WnRTV2w3TFRYalZQZnN2REg4eTZoZk1RQWI4dnBkNUVuWlhZWnQ5d2RTU0dBcDZrS0h5cjdKVW5vekdEcXJfTEJpOUYtNDNCUzNkWXBndm5jZzFPdXNfX1BXRDVWUVV2SHFzSEZzWEVQRTdWaTFXNThrZXFxcmNTS1l2ZTh5N3Z6VFNCM1ZiemxyY1ZqRUZJX1JSMg?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T05:38:00.000Z",
       "pub_sort_dt": "2026-09-16 13:38:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在人工智能时代，中国有些人开始质疑学英语是否值得 - The New York Times",
-      "title_cn": "在人工智能时代，中国有些人开始质疑学英语是否值得 - The New York Times",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxQajZIUDN3N0FQdkd6MmtsN2pkWXoxeE1BWFpMZlk2enZOQ3NjajJPVW9rS3JWbDJLeXNodk9JSjNRc0tqQ1VGdlplaHJlOHExZ3lrRzVEQUxlQjhMZHdfUEVDdlRha3ZxbjJ4bkd6aEl5bm5UNWhuOGx5RV9tMURDTWFaTXhqSkNXRVIw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T04:01:06.000Z",
-      "pub_sort_dt": "2026-09-16 12:01:06"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着北京为海外投资开辟更广阔的通道，中国投资者纷纷涌入美国股市 - Reuters",
-      "title_cn": "随着北京为海外投资开辟更广阔的通道，中国投资者纷纷涌入美国股市 - Reuters",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxNYnFfckp5VnNfN2dzRlRkQkl2cnlnZzhwTE5Qd2MySzUtTjBOb2VkQTRGcGlGZjBBbXdxR1VIWjhMRFlzQnZZMU9ESWFmQzBVVXRPRUlXZE9KaUZRUWY2Vmx5T1lsOEF0QWhVQ0s5VWJWSG1wa21nb25NUG95SW9zTktfOGVHWEFLR1pqbTlTYlZQa3dhLVh3RmwybFJwbTcyVW9Ua0x2b04yNm1hUV9MUVRIYkRfSUZBVnRv?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T03:37:00.000Z",
-      "pub_sort_dt": "2026-09-16 11:37:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "国防部长董军在香山论坛上发表措辞较为温和的讲话，未提及台湾 - scmp.com",
-      "title_cn": "国防部长董军在香山论坛上发表措辞较为温和的讲话，未提及台湾 - scmp.com",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxQWmhCcWRUa3hjYjh1aVFpT1dlS1RkaFZiSmVydzVrSDBVLVU2bWpaSllQM0s2NXNPakQydzRVUl9aazlWVWIzbzNRWHdrZ1ZLVUtzd0QtaEZ5NFI5TUh2aFBHLTFaSmw0UW1vQlJLSVRLdDd4Zm56T1BUbm9nUE81QzgtY1F2dDc3ZXBNUWdjM0tKMHA3UklYUW1ySk9YWEFJNlh2MjZLTklNaDNubWtKQjJXYlEwN2ZtTXlBTnJMdFhQM2VrSDRVZWVn0gHKAUFVX3lxTE5WblFxelYtYUJEdnN0aGVlWC1JcEw4VjVHTVhldUdYVDgxNVdmck9Ka0hfalY0c2tyUEJBNHZuUU1ZOUZMa29oTnpFQVI2QWNaRUI3T0RRZVNzSU1LLTlfU0FRcW5Pd1RjZGZoVGNYMGZHTDRNbzB1bVBrMloyelVVckozZ2lWRDlueUJfSDd3ZHMtdFlZYk93dlRiOXB0a1Z0NzctSlZER3dqSXFKc1RuUmZFUVlMQ3pkN3BQZk9JdndpVFUyU2JkdUE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T02:45:50.000Z",
-      "pub_sort_dt": "2026-09-16 10:45:50"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "发展动态 中国开通平鲁运河，大幅缩短通往东南亚的运输时间 - South China Morning Post",
-      "title_cn": "发展动态 中国开通平鲁运河，大幅缩短通往东南亚的运输时间 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMizwFBVV95cUxOa1NVSnpNTFgzUS1QUWEzc2U1ZHNyVm5FOVkzNlVIS2xOdkFMMHNyb1ZhZ1pDSmI3Zl93RFV6azQ4cTZIRXZWWE1ETlJoYnFvdXZaYlM0SE1ic1RsMWU0eF9rUVU4NjdyUm5GQ2I2VUMzdG9UZ2tHNGdHdmFDNHMwV0szbG5QcldzNjZYWXpUN2lka1F0Nll4Y2hsREdXeklJM19HRXJkRUx0MU5RYWE4MGV2c3JuQW1GbFBOYzRQY3FnbF94NnFpdVNUdGkxZTTSAc8BQVVfeXFMUDJCUFo1U1NDNjdPZVdCa0R0WWV6S1pINW1BTXczb0hieE5rOUoyMGRVRFBRbWx4dnc1VEV3WnQ1d3BDeHdkQlo0Q3hBQVlNMnp1NHFpRGZuNDJ6YVBGZFRwV2VhQTRVQlFNQ2x6d0hrSHFETjIwOWxkb2l2eFNJUWwyWGV4WWttX0pybkN2a0RkVWx1UGFDRnROWmFxMFRwcXZkQ2ppckdsVnJwbjlzWVRQNzBBSGNMZ2pXZlhCM3pFUEwzQnByOWdsMkZTMGg4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T02:28:59.000Z",
-      "pub_sort_dt": "2026-09-16 10:28:59"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国国防部长呼吁各国遏制倒退的历史趋势 - Reuters",
-      "title_cn": "中国国防部长呼吁各国遏制倒退的历史趋势 - Reuters",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxQRGxNWVYtLUhuWkdIbE9XTE42N21iVFJ0UzRPUzVrc3d2OFNBWXZJQzE2N0NLYTJfUEZNSlhWQlMxOF9tUXAyTVk0dTMtV0xTQjlpMUIwU3hjeHF5dGR1bVhyVUI0Tmdaa1lPR1p4ekdCYWRMYjkxUjh5bE1aMEtJeVdod1ZERnI0dkRfUnRTVTlfeE5xRVBWZl9KTk15clREdjFMOXdrYWJ2Nld0OXU0c1ZMTjg4Sk95QXVvTExQUGdJTkdya3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T02:14:00.000Z",
-      "pub_sort_dt": "2026-09-16 10:14:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在遏制中国崛起为人工智能超级大国方面，特朗普几乎没有好的选择 - Bloomberg.com",
-      "title_cn": "在遏制中国崛起为人工智能超级大国方面，特朗普几乎没有好的选择 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxQQnV6clFLb1AweUpIS3RQYlJUcEpvTnp2aE55RTFSTVNmeGpWUTlydjYwWVZReDZBWENXTFRzWFIwMGJjOHM1VVBtLTZmbHZOOGNjcmJGSm5vdUlvRENuMENYUjAxNlBTQjhJenNBVi1VTEpvVTlDMFV1ZXhlM1Z0TGd4UXFQcEpUY1JJTXdMOENpb01hc096SzRSekJJNGEtdUluaDJYLWdBU1VTX0dOc1NWYkYwZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T02:01:00.000Z",
-      "pub_sort_dt": "2026-09-16 10:01:00"
     }
   ],
   "media_news": [
     {
+      "source": "Financial Times",
+      "title_en": "沙特输油管道遭袭后，中国油价创下历史新高",
+      "title_cn": "沙特输油管道惨遭后，中国简化历史新高",
+      "url": "https://www.ft.com/content/3a88d016-9575-4c11-bd34-14606964a867?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-16T13:44:29.021Z",
+      "pub_sort_dt": "2026-09-16 21:44:29"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国最高外交官呼吁伊朗和美国保持克制，重启谈判",
+      "title_cn": "中国最高官员呼吁伊朗和美国保持克制，重启谈判",
+      "url": "https://reut.rs/4dfU956",
+      "pub_raw": "2026-09-16T10:37:35.322Z",
+      "pub_sort_dt": "2026-09-16 18:37:35"
+    },
+    {
       "source": "Bloomberg",
       "title_en": "美国可以放缓人工智能的发展步伐，并保持对中国的领先优势",
-      "title_cn": "美国可以放缓人工智能的发展步伐，并保持对中国的领先优势",
+      "title_cn": "美国可以终止人工智能的发展，并保持对中国的领先优势",
       "url": "https://www.bloomberg.com/opinion/articles/2026-09-16/the-us-can-slow-down-ai-and-stay-ahead-of-china",
       "pub_raw": "2026-09-16T09:49:16.838Z",
       "pub_sort_dt": "2026-09-16 17:49:16"
@@ -103,7 +119,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港交易所或将于2026年底前推出首个债券指数",
-      "title_cn": "香港交易所或将于2026年底前推出首个债券指数",
+      "title_cn": "香港交易所或将于2026年底前推出第一个债券指数",
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-to-launch-dim-sum-bond-index-in-offshore-yuan-hub-push",
       "pub_raw": "2026-09-16T08:47:25.308Z",
       "pub_sort_dt": "2026-09-16 16:47:25"
@@ -111,7 +127,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港将黄金中心定位为大宗商品和人民币发展的驱动力",
-      "title_cn": "香港将黄金中心定位为大宗商品和人民币发展的驱动力",
+      "title_cn": "香港将黄金中心定位为大宗商品和人民币发展的动力",
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-sets-out-gold-hub-as-driver-for-commodities-and-yuan",
       "pub_raw": "2026-09-16T07:28:20.033Z",
       "pub_sort_dt": "2026-09-16 15:28:20"
@@ -119,7 +135,7 @@
     {
       "source": "Financial Times",
       "title_en": "自由奔放的香港效仿中国，制定首个五年计划",
-      "title_cn": "自由奔放的香港效仿中国，制定首个五年计划",
+      "title_cn": "自由奔放的香港效仿中国，制定第一个五年计划",
       "url": "https://www.ft.com/content/f082ea1d-112a-4278-aa4a-8783a9077755?syn-25a6b1a6=1",
       "pub_raw": "2026-09-16T07:28:19.237Z",
       "pub_sort_dt": "2026-09-16 15:28:19"
@@ -127,7 +143,7 @@
     {
       "source": "Wall Street Journal",
       "title_en": "一家中国黑客公司如何利用人工智能大幅提升网络间谍活动效能",
-      "title_cn": "一家中国黑客公司如何利用人工智能大幅提升网络间谍活动效能",
+      "title_cn": "一家中国黑客公司如何利用人工智能大幅提升网络间谍活动",
       "url": "https://on.wsj.com/4he3J9V",
       "pub_raw": "2026-09-16T07:28:19.090Z",
       "pub_sort_dt": "2026-09-16 15:28:19"
@@ -135,7 +151,7 @@
     {
       "source": "Reuters",
       "title_en": "中国央行行长表示，贷款增速放缓已成为“新常态”",
-      "title_cn": "中国央行行长表示，贷款增速放缓已成为“新常态”",
+      "title_cn": "中国央行行长表示，贷款早已成为“新常态”",
       "url": "https://reut.rs/4xw28Cy",
       "pub_raw": "2026-09-16T06:40:22.290Z",
       "pub_sort_dt": "2026-09-16 14:40:22"
@@ -143,7 +159,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港制定五年科技发展目标，扩大“新生儿津贴”范围",
-      "title_cn": "香港制定五年科技发展目标，扩大“新生儿津贴”范围",
+      "title_cn": "香港制定科技五年发展目标，扩大“养老补贴”范围",
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-aims-to-almost-double-spending-on-tech-innovation",
       "pub_raw": "2026-09-16T05:53:14.563Z",
       "pub_sort_dt": "2026-09-16 13:53:14"
@@ -151,7 +167,7 @@
     {
       "source": "Reuters",
       "title_en": "中国国防部长呼吁停止“挑衅行为”，并就此开启安全论坛",
-      "title_cn": "中国国防部长呼吁停止“挑衅行为”，并就此开启安全论坛",
+      "title_cn": "中国哮喘长呼吁停止“挑衅行为”，并开启开启安全论坛",
       "url": "https://reut.rs/3TclhLo",
       "pub_raw": "2026-09-16T05:53:14.442Z",
       "pub_sort_dt": "2026-09-16 13:53:14"
@@ -159,7 +175,7 @@
     {
       "source": "Reuters",
       "title_en": "中国警告称，美国太空武器可能加剧军备竞赛",
-      "title_cn": "中国警告称，美国太空武器可能加剧军备竞赛",
+      "title_cn": "中国警告称，美国太空武器可能增强军备竞赛",
       "url": "https://reut.rs/4xtcpiC",
       "pub_raw": "2026-09-16T05:37:15.010Z",
       "pub_sort_dt": "2026-09-16 13:37:15"
@@ -167,7 +183,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港承诺进一步发挥作为首要离岸人民币中心的角色",
-      "title_cn": "香港承诺进一步发挥作为首要离岸人民币中心的角色",
+      "title_cn": "香港承诺进一步发挥作为离岸人民币中心的作用",
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-vows-to-deepen-role-as-premier-offshore-yuan-hub",
       "pub_raw": "2026-09-16T04:49:25.478Z",
       "pub_sort_dt": "2026-09-16 12:49:25"
@@ -191,7 +207,7 @@
     {
       "source": "Financial Times",
       "title_en": "奥斯特首席执行官表示，欧洲必须针对“不公平”的中国风力涡轮机制造商采取行动",
-      "title_cn": "奥斯特首席执行官表示，欧洲必须针对“不公平”的中国风力涡轮机制造商采取行动",
+      "title_cn": "奥斯特多数表示，欧洲必须针对“不公平”的中国涡轮机制造商采取行动",
       "url": "https://www.ft.com/content/786b8ce5-3a11-4e34-b811-41ec165f5916?syn-25a6b1a6=1",
       "pub_raw": "2026-09-16T04:18:21.870Z",
       "pub_sort_dt": "2026-09-16 12:18:21"
@@ -223,7 +239,7 @@
     {
       "source": "Reuters",
       "title_en": "中国国防部长呼吁各国遏制倒退的历史趋势",
-      "title_cn": "中国国防部长呼吁各国遏制倒退的历史趋势",
+      "title_cn": "中国支持中央人民政府倒退的历史潮流",
       "url": "https://reut.rs/4AynrpR",
       "pub_raw": "2026-09-16T02:45:18.950Z",
       "pub_sort_dt": "2026-09-16 10:45:18"
@@ -231,31 +247,63 @@
     {
       "source": "Bloomberg",
       "title_en": "在遏制中国成为人工智能超级大国的进程方面，特朗普几乎没有好的选择",
-      "title_cn": "在遏制中国成为人工智能超级大国的进程方面，特朗普几乎没有好的选择",
+      "title_cn": "在民主中国成为人工智能超级大国的好的进程方面，特朗普几乎没有选择",
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower",
       "pub_raw": "2026-09-16T02:13:27.927Z",
       "pub_sort_dt": "2026-09-16 10:13:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "英伟达首席执行官将出席特朗普与中国国家主席的晚宴",
-      "title_cn": "英伟达首席执行官将出席特朗普与中国国家主席的晚宴",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-15/nvidia-s-huang-set-to-attend-trump-dinner-with-chinese-president",
-      "pub_raw": "2026-09-16T00:21:21.242Z",
-      "pub_sort_dt": "2026-09-16 08:21:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国主要报纸称，人工智能并非“大国的专利”",
-      "title_cn": "中国主要报纸称，人工智能并非“大国的专利”",
-      "url": "https://reut.rs/4rk9E1W",
-      "pub_raw": "2026-09-16T00:05:40.310Z",
-      "pub_sort_dt": "2026-09-16 08:05:40"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "观点 中美之间并非处于冷战状态 - The Washington Post",
+      "title_cn": "观点中美之间并非处于冷战状态 - 华盛顿邮报",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxPNE1NX1dqTjRwNGtYWFI3NzBDdUJTX3ZvMGlaeGxUTm12N3FCcEpWSzdoTGwzbGdtRG1TV210RldYcUwxek1QNkhSdjRHcUwzX1pZSVZCTTgzWkRHblZiTW1NeWRVRVRRaW95TG42amI0UVdqeUVPeTZTUUQtSW5mXw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T12:17:29.000Z",
+      "pub_sort_dt": "2026-09-16 20:17:29"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特朗普与中国在人工智能领域的竞争可能会成为我们这个时代最大的错误 - Fox News",
+      "title_cn": "特朗普与中国在人工智能领域的竞争可能会成为我们这个时代最大的错误 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxPVWFYZFpBcTlGSGFqTFFEMjU0QTlCOWJpR05yRnN5TVQ3U1dRQm1seDNKZXVDMzU0OG9saUt3NzdTUUliQXA2QkcwWUktdS1BcG43QXh5d0YtU1hSTk9nc1VEdXBaWXE0ckxCLVZGQXh6ZHJ5UzBDc0hyZEZGeXNCb3I3ZTdZZk40UExmZ3pRNnFlS21j0gGaAUFVX3lxTE1hSUVDamxYb0YtdS1pRDdpRE5NV0hCMmRhUGRoM3h1NFVUa0FSU2NlSE9CWmxWaDFOMnQ3RVIxV2gtQXRiS1dvaVpzeTNvRWhSeUdkSVVSa2IwMDBaRExpbk96bE93X2V2LVhiRHZYZV9uaTRYeTJfb3Q5X0RMOXp6NUJhRXVaOU8wckttdkh1NmF1S2tNRWROOFE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T11:00:42.000Z",
+      "pub_sort_dt": "2026-09-16 19:00:42"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "四项升级可能决定美国航母能否保持对中国的优势 - Fox News",
+      "title_cn": "四项升级可能决定美国能否继续保持对中国的优势 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMilgFBVV95cUxNdUpMaDhYNlU5dlpFOFZqV0wtTGx0X1pJQlRObW8xVlZyUkY5MG02eUFkNEptb1dyblJhZjdNN1BtSWQxWkNXMmxiSU1PM1pRS2FlMTFJYklyT01FbzFuT0dnTDlOQTMyd094Tk1mUzg2MjBkNUd1akRVeWtwdDJFZmFoNUxOWEtlS2MyRzZrNzRRTEVzN3fSAZsBQVVfeXFMUFF5UlhOYWp6UjZhdkdGdjBhbVFTTG9KdTh5SU9tUVFITGR0VzdXLVV1aHgtQjAxblVYZXIxN0dpY2Fkd2JHZHZDU1NaSXctSUtsbFRlcDd5Tl9qN3ktOWhpVmxxdkVHUkNRUTVBS1JrN21VeHlFYlRKdUltQmNPTjFjVmotRDBBeUlmc2RGQnhSMHFURnZ2dlJDeU0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T09:00:05.000Z",
+      "pub_sort_dt": "2026-09-16 17:00:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在欧洲电信企业警告称新规可能使欧盟损失高达400亿欧元后，中国敦促欧盟避免采取歧视性限制措施 - Global Times",
+      "title_cn": "在欧洲电信企业警告称新规可能使欧盟损失高达400亿欧元后，中国敦促欧盟避免采取歧视性限制措施 - 环球时报",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTE1tU0RUNUVKSUhBTGZkNG85U2ZIMmJ4blZRbDVtMHR3OGNqV1NKazh2ZlBBM3NqRE51WUNQR24zaHR4Qy12Umw0Si1lSTdUR2NvbTVDQzBVd21obTk1R3Q3VFdn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T08:37:00.000Z",
+      "pub_sort_dt": "2026-09-16 16:37:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "北京是否应将海上民兵作为在南海的后备力量？ - South China Morning Post",
+      "title_cn": "北京是否应将海上民兵作为在南海的后备力量？ - 南华早报",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxNNllFV05UMVFzbUdFaDBOVWhiT2c2ZUdkQmE0WWZPVkpySkZnQ2h4Q0FKTkJYVFE4TDZLeWtqNVFaZmVwWGVWazRRWnh5VlJGdzhfV3VLaGtnMkFtdVRtMlFQbnRPcWtFLTBnQnhWRGJZS2RkSFVsTklmcER5aVotQXozSE1xd0plWlNpeGFyZHZKdWdyTmVsRE1HVzFUcXZFbU9oeXd0UDdnQV85SEFTZTNGbmxTUDU0TE56ZHU1MmXSAcABQVVfeXFMTlczVlVWbUpLcVBTV1JLMkNYNk55TzNiQlhBWVMtMG5ZTTUwZkdUYm1YLWEyNlRIQmNvWWFMdTI1OTFGN3llVm5yMFpvOWptYmlJTlhCWEE2eENZLU4xRXNwWVphQnhvSjJyYThmOU9Fcm1OZ2MzTEtUSnFKUDkxeEdoZ3gyQmdrS1NMcjZWLVlXcHRDdXhyMl9qYW1McGdKdXlKWVhZTkRmTzdrZWV4b3FuWS1fQkEwa3hUQ2hFQmdT?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T08:29:11.000Z",
+      "pub_sort_dt": "2026-09-16 16:29:11"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国首次超越德国，成为波兰最大的进口来源国 - Notes From Poland",
+      "title_cn": "中国首次超越德国，成为波兰最大的进口来源国 - 波兰手记",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxNckVjdzQ0S2l5dmcyWDVmSWxlLUhuNkc0MW94OUhld0JxN1pmTXVHS3BLcm5Jc0tWYnd5OEpWRjdIVzUycVJlejNsRklteUhMNmdSWE5EOGo5UEo1eDRXYXFLVnVKRUVoNDFyUi1LMXRmamRGVmE4U1c2YzlScXlkenlwTTVTLWxCV2lOSUtSOFYwZS1iV2VzN3BHQU0yTTJNa3FTTVpCYnJtMFVic3Q5d0x6Y1BIdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T08:04:09.000Z",
+      "pub_sort_dt": "2026-09-16 16:04:09"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "冯德莱恩警告称，欧盟对华贸易逆差已达到“临界点” - politico.eu",
       "title_cn": "冯德莱恩警告称，欧盟对华贸易逆差已达到“临界点” - politico.eu",
       "url": "https://news.google.com/read/CBMingFBVV95cUxNRzhlb1lZeVhNSWZCUHI2U0xXVGx4dldEMjJRWlFZWDBnVE9jOGNtYnhrTHdMTXVVVWVGQUtWdTdDb2dhSlZGNWw3MHRpcDZSTXhYejBPUVVISXdXdFlSNzVTTkhNcHZLRFZTS3hXOV9KYUg4NExTN050cU1FQlFRMEdnWFdqT1NEdm1LVFFla1NSTUR1dTVwM2dMNkJ5QQ?hl=en-US&gl=US&ceid=US%3Aen",
@@ -265,7 +313,7 @@
     {
       "source": "China Buzzing",
       "title_en": "冯德莱恩表示，欧盟将动用一切手段缩小对华贸易逆差 - Reuters",
-      "title_cn": "冯德莱恩表示，欧盟将动用一切手段缩小对华贸易逆差 - Reuters",
+      "title_cn": "冯德莱恩表示，欧盟将采取一切手段缩小对华贸易逆差 - 路透中文网",
       "url": "https://news.google.com/read/CBMisgFBVV95cUxQVldpSXhsdm5HUlJwTEZ5ZDc2Ykwwak9rUG1jaW9XTk9XSmlwb0p4VGlvUEw1ZDEzWVRvTm9zRENEb3BrdkF3YkU2LWQtbzFzYUhGUkR1cXhmcmJoX0FwSHpOcXpFZHRTeW9EZm5uVUhVelc0WnRJRE1Tb3plbUZaaVNnWTEwODdIZzBHWTdIZXMtd2ZHUzk2TUtxV3ZqRmpZRW9QMGszUk1NU01hVXVyVldB?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T07:35:28.000Z",
       "pub_sort_dt": "2026-09-16 15:35:28"
@@ -273,7 +321,7 @@
     {
       "source": "China Buzzing",
       "title_en": "平卢运河是什么？它是中国通往东南亚的新门户吗？ - Al Jazeera",
-      "title_cn": "平卢运河是什么？它是中国通往东南亚的新门户吗？ - Al Jazeera",
+      "title_cn": "平卢运河是什么？它是中国通往东南亚的新门户吗？ - 半岛电视台",
       "url": "https://news.google.com/read/CBMiogFBVV95cUxQY0dLSFNpbGdaUmZCWTZaakZGVFZmYmVJZ0wtMjlLSXhfMmRyOGYtazZwelg3ZTQ3VzRNSGhnMk40bDF0VjdPMkVtVGYtcHEyRTk3c2pXV21qOHBONS1QczdsaEhKYVRYZ1FCaTlVeEE2VWs3R3gyMmxFVHpuOUd6QkJKY1paT2NEV0hHVWlLTlJONUtTVkh2VUU0RlpscFV4d1HSAacBQVVfeXFMUHJXX2xmRHlaSk5kOGVDTERJaXBsTjFNdC1CZTRadXhlaGVfV1J0V0xjTFJSNHR1TkxXN2FPMGVRa0RqQjl1a3dUU05zeGJnVDZKb1M4RDE4T3ZLeXd1bWp4eU1GMjZiTlk5TFJ4RWh2T2VNZ2NhMndnenlhSGNYODFjbmR2c3Y2R1FDWngzeVNfaGJ4a2NleDRydzU5aUlvbndjaThQZXM?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T06:09:10.000Z",
       "pub_sort_dt": "2026-09-16 14:09:10"
@@ -281,63 +329,31 @@
     {
       "source": "China Buzzing",
       "title_en": "中国国防部长在安全论坛开幕式上呼吁停止“挑衅行为” - Reuters",
-      "title_cn": "中国国防部长在安全论坛开幕式上呼吁停止“挑衅行为” - Reuters",
+      "title_cn": "中国传染病长在安全论坛上呼吁停止“挑衅行为” - 路透中文网",
       "url": "https://news.google.com/read/CBMivAFBVV95cUxNN3Z4aTk4b1VkSXZjX0VtdktUeVYxcVVjT1U0OV9lRFN1WnRTV2w3TFRYalZQZnN2REg4eTZoZk1RQWI4dnBkNUVuWlhZWnQ5d2RTU0dBcDZrS0h5cjdKVW5vekdEcXJfTEJpOUYtNDNCUzNkWXBndm5jZzFPdXNfX1BXRDVWUVV2SHFzSEZzWEVQRTdWaTFXNThrZXFxcmNTS1l2ZTh5N3Z6VFNCM1ZiemxyY1ZqRUZJX1JSMg?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T05:38:00.000Z",
       "pub_sort_dt": "2026-09-16 13:38:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "在人工智能时代，中国有些人开始质疑学英语是否值得 - The New York Times",
-      "title_cn": "在人工智能时代，中国有些人开始质疑学英语是否值得 - The New York Times",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxQajZIUDN3N0FQdkd6MmtsN2pkWXoxeE1BWFpMZlk2enZOQ3NjajJPVW9rS3JWbDJLeXNodk9JSjNRc0tqQ1VGdlplaHJlOHExZ3lrRzVEQUxlQjhMZHdfUEVDdlRha3ZxbjJ4bkd6aEl5bm5UNWhuOGx5RV9tMURDTWFaTXhqSkNXRVIw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T04:01:06.000Z",
-      "pub_sort_dt": "2026-09-16 12:01:06"
+      "source": "Financial Times",
+      "title_en": "沙特输油管道遭袭后，中国油价创下历史新高",
+      "title_cn": "沙特输油管道惨遭后，中国简化历史新高",
+      "url": "https://www.ft.com/content/3a88d016-9575-4c11-bd34-14606964a867?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-16T13:44:29.021Z",
+      "pub_sort_dt": "2026-09-16 21:44:29"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "随着北京为海外投资开辟更广阔的通道，中国投资者纷纷涌入美国股市 - Reuters",
-      "title_cn": "随着北京为海外投资开辟更广阔的通道，中国投资者纷纷涌入美国股市 - Reuters",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxNYnFfckp5VnNfN2dzRlRkQkl2cnlnZzhwTE5Qd2MySzUtTjBOb2VkQTRGcGlGZjBBbXdxR1VIWjhMRFlzQnZZMU9ESWFmQzBVVXRPRUlXZE9KaUZRUWY2Vmx5T1lsOEF0QWhVQ0s5VWJWSG1wa21nb25NUG95SW9zTktfOGVHWEFLR1pqbTlTYlZQa3dhLVh3RmwybFJwbTcyVW9Ua0x2b04yNm1hUV9MUVRIYkRfSUZBVnRv?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T03:37:00.000Z",
-      "pub_sort_dt": "2026-09-16 11:37:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "国防部长董军在香山论坛上发表措辞较为温和的讲话，未提及台湾 - scmp.com",
-      "title_cn": "国防部长董军在香山论坛上发表措辞较为温和的讲话，未提及台湾 - scmp.com",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxQWmhCcWRUa3hjYjh1aVFpT1dlS1RkaFZiSmVydzVrSDBVLVU2bWpaSllQM0s2NXNPakQydzRVUl9aazlWVWIzbzNRWHdrZ1ZLVUtzd0QtaEZ5NFI5TUh2aFBHLTFaSmw0UW1vQlJLSVRLdDd4Zm56T1BUbm9nUE81QzgtY1F2dDc3ZXBNUWdjM0tKMHA3UklYUW1ySk9YWEFJNlh2MjZLTklNaDNubWtKQjJXYlEwN2ZtTXlBTnJMdFhQM2VrSDRVZWVn0gHKAUFVX3lxTE5WblFxelYtYUJEdnN0aGVlWC1JcEw4VjVHTVhldUdYVDgxNVdmck9Ka0hfalY0c2tyUEJBNHZuUU1ZOUZMa29oTnpFQVI2QWNaRUI3T0RRZVNzSU1LLTlfU0FRcW5Pd1RjZGZoVGNYMGZHTDRNbzB1bVBrMloyelVVckozZ2lWRDlueUJfSDd3ZHMtdFlZYk93dlRiOXB0a1Z0NzctSlZER3dqSXFKc1RuUmZFUVlMQ3pkN3BQZk9JdndpVFUyU2JkdUE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T02:45:50.000Z",
-      "pub_sort_dt": "2026-09-16 10:45:50"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "发展动态 中国开通平鲁运河，大幅缩短通往东南亚的运输时间 - South China Morning Post",
-      "title_cn": "发展动态 中国开通平鲁运河，大幅缩短通往东南亚的运输时间 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMizwFBVV95cUxOa1NVSnpNTFgzUS1QUWEzc2U1ZHNyVm5FOVkzNlVIS2xOdkFMMHNyb1ZhZ1pDSmI3Zl93RFV6azQ4cTZIRXZWWE1ETlJoYnFvdXZaYlM0SE1ic1RsMWU0eF9rUVU4NjdyUm5GQ2I2VUMzdG9UZ2tHNGdHdmFDNHMwV0szbG5QcldzNjZYWXpUN2lka1F0Nll4Y2hsREdXeklJM19HRXJkRUx0MU5RYWE4MGV2c3JuQW1GbFBOYzRQY3FnbF94NnFpdVNUdGkxZTTSAc8BQVVfeXFMUDJCUFo1U1NDNjdPZVdCa0R0WWV6S1pINW1BTXczb0hieE5rOUoyMGRVRFBRbWx4dnc1VEV3WnQ1d3BDeHdkQlo0Q3hBQVlNMnp1NHFpRGZuNDJ6YVBGZFRwV2VhQTRVQlFNQ2x6d0hrSHFETjIwOWxkb2l2eFNJUWwyWGV4WWttX0pybkN2a0RkVWx1UGFDRnROWmFxMFRwcXZkQ2ppckdsVnJwbjlzWVRQNzBBSGNMZ2pXZlhCM3pFUEwzQnByOWdsMkZTMGg4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T02:28:59.000Z",
-      "pub_sort_dt": "2026-09-16 10:28:59"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国国防部长呼吁各国遏制倒退的历史趋势 - Reuters",
-      "title_cn": "中国国防部长呼吁各国遏制倒退的历史趋势 - Reuters",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxQRGxNWVYtLUhuWkdIbE9XTE42N21iVFJ0UzRPUzVrc3d2OFNBWXZJQzE2N0NLYTJfUEZNSlhWQlMxOF9tUXAyTVk0dTMtV0xTQjlpMUIwU3hjeHF5dGR1bVhyVUI0Tmdaa1lPR1p4ekdCYWRMYjkxUjh5bE1aMEtJeVdod1ZERnI0dkRfUnRTVTlfeE5xRVBWZl9KTk15clREdjFMOXdrYWJ2Nld0OXU0c1ZMTjg4Sk95QXVvTExQUGdJTkdya3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T02:14:00.000Z",
-      "pub_sort_dt": "2026-09-16 10:14:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在遏制中国崛起为人工智能超级大国方面，特朗普几乎没有好的选择 - Bloomberg.com",
-      "title_cn": "在遏制中国崛起为人工智能超级大国方面，特朗普几乎没有好的选择 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxQQnV6clFLb1AweUpIS3RQYlJUcEpvTnp2aE55RTFSTVNmeGpWUTlydjYwWVZReDZBWENXTFRzWFIwMGJjOHM1VVBtLTZmbHZOOGNjcmJGSm5vdUlvRENuMENYUjAxNlBTQjhJenNBVi1VTEpvVTlDMFV1ZXhlM1Z0TGd4UXFQcEpUY1JJTXdMOENpb01hc096SzRSekJJNGEtdUluaDJYLWdBU1VTX0dOc1NWYkYwZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T02:01:00.000Z",
-      "pub_sort_dt": "2026-09-16 10:01:00"
+      "source": "Reuters",
+      "title_en": "中国最高外交官呼吁伊朗和美国保持克制，重启谈判",
+      "title_cn": "中国最高官员呼吁伊朗和美国保持克制，重启谈判",
+      "url": "https://reut.rs/4dfU956",
+      "pub_raw": "2026-09-16T10:37:35.322Z",
+      "pub_sort_dt": "2026-09-16 18:37:35"
     },
     {
       "source": "Bloomberg",
       "title_en": "美国可以放缓人工智能的发展步伐，并保持对中国的领先优势",
-      "title_cn": "美国可以放缓人工智能的发展步伐，并保持对中国的领先优势",
+      "title_cn": "美国可以终止人工智能的发展，并保持对中国的领先优势",
       "url": "https://www.bloomberg.com/opinion/articles/2026-09-16/the-us-can-slow-down-ai-and-stay-ahead-of-china",
       "pub_raw": "2026-09-16T09:49:16.838Z",
       "pub_sort_dt": "2026-09-16 17:49:16"
@@ -345,7 +361,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港交易所或将于2026年底前推出首个债券指数",
-      "title_cn": "香港交易所或将于2026年底前推出首个债券指数",
+      "title_cn": "香港交易所或将于2026年底前推出第一个债券指数",
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-to-launch-dim-sum-bond-index-in-offshore-yuan-hub-push",
       "pub_raw": "2026-09-16T08:47:25.308Z",
       "pub_sort_dt": "2026-09-16 16:47:25"
@@ -353,7 +369,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港将黄金中心定位为大宗商品和人民币发展的驱动力",
-      "title_cn": "香港将黄金中心定位为大宗商品和人民币发展的驱动力",
+      "title_cn": "香港将黄金中心定位为大宗商品和人民币发展的动力",
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-sets-out-gold-hub-as-driver-for-commodities-and-yuan",
       "pub_raw": "2026-09-16T07:28:20.033Z",
       "pub_sort_dt": "2026-09-16 15:28:20"
@@ -361,7 +377,7 @@
     {
       "source": "Financial Times",
       "title_en": "自由奔放的香港效仿中国，制定首个五年计划",
-      "title_cn": "自由奔放的香港效仿中国，制定首个五年计划",
+      "title_cn": "自由奔放的香港效仿中国，制定第一个五年计划",
       "url": "https://www.ft.com/content/f082ea1d-112a-4278-aa4a-8783a9077755?syn-25a6b1a6=1",
       "pub_raw": "2026-09-16T07:28:19.237Z",
       "pub_sort_dt": "2026-09-16 15:28:19"
@@ -369,7 +385,7 @@
     {
       "source": "Wall Street Journal",
       "title_en": "一家中国黑客公司如何利用人工智能大幅提升网络间谍活动效能",
-      "title_cn": "一家中国黑客公司如何利用人工智能大幅提升网络间谍活动效能",
+      "title_cn": "一家中国黑客公司如何利用人工智能大幅提升网络间谍活动",
       "url": "https://on.wsj.com/4he3J9V",
       "pub_raw": "2026-09-16T07:28:19.090Z",
       "pub_sort_dt": "2026-09-16 15:28:19"
@@ -377,7 +393,7 @@
     {
       "source": "Reuters",
       "title_en": "中国央行行长表示，贷款增速放缓已成为“新常态”",
-      "title_cn": "中国央行行长表示，贷款增速放缓已成为“新常态”",
+      "title_cn": "中国央行行长表示，贷款早已成为“新常态”",
       "url": "https://reut.rs/4xw28Cy",
       "pub_raw": "2026-09-16T06:40:22.290Z",
       "pub_sort_dt": "2026-09-16 14:40:22"
@@ -385,7 +401,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港制定五年科技发展目标，扩大“新生儿津贴”范围",
-      "title_cn": "香港制定五年科技发展目标，扩大“新生儿津贴”范围",
+      "title_cn": "香港制定科技五年发展目标，扩大“养老补贴”范围",
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-aims-to-almost-double-spending-on-tech-innovation",
       "pub_raw": "2026-09-16T05:53:14.563Z",
       "pub_sort_dt": "2026-09-16 13:53:14"
@@ -393,7 +409,7 @@
     {
       "source": "Reuters",
       "title_en": "中国国防部长呼吁停止“挑衅行为”，并就此开启安全论坛",
-      "title_cn": "中国国防部长呼吁停止“挑衅行为”，并就此开启安全论坛",
+      "title_cn": "中国哮喘长呼吁停止“挑衅行为”，并开启开启安全论坛",
       "url": "https://reut.rs/3TclhLo",
       "pub_raw": "2026-09-16T05:53:14.442Z",
       "pub_sort_dt": "2026-09-16 13:53:14"
@@ -401,7 +417,7 @@
     {
       "source": "Reuters",
       "title_en": "中国警告称，美国太空武器可能加剧军备竞赛",
-      "title_cn": "中国警告称，美国太空武器可能加剧军备竞赛",
+      "title_cn": "中国警告称，美国太空武器可能增强军备竞赛",
       "url": "https://reut.rs/4xtcpiC",
       "pub_raw": "2026-09-16T05:37:15.010Z",
       "pub_sort_dt": "2026-09-16 13:37:15"
@@ -409,7 +425,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港承诺进一步发挥作为首要离岸人民币中心的角色",
-      "title_cn": "香港承诺进一步发挥作为首要离岸人民币中心的角色",
+      "title_cn": "香港承诺进一步发挥作为离岸人民币中心的作用",
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-vows-to-deepen-role-as-premier-offshore-yuan-hub",
       "pub_raw": "2026-09-16T04:49:25.478Z",
       "pub_sort_dt": "2026-09-16 12:49:25"
@@ -433,7 +449,7 @@
     {
       "source": "Financial Times",
       "title_en": "奥斯特首席执行官表示，欧洲必须针对“不公平”的中国风力涡轮机制造商采取行动",
-      "title_cn": "奥斯特首席执行官表示，欧洲必须针对“不公平”的中国风力涡轮机制造商采取行动",
+      "title_cn": "奥斯特多数表示，欧洲必须针对“不公平”的中国涡轮机制造商采取行动",
       "url": "https://www.ft.com/content/786b8ce5-3a11-4e34-b811-41ec165f5916?syn-25a6b1a6=1",
       "pub_raw": "2026-09-16T04:18:21.870Z",
       "pub_sort_dt": "2026-09-16 12:18:21"
@@ -465,7 +481,7 @@
     {
       "source": "Reuters",
       "title_en": "中国国防部长呼吁各国遏制倒退的历史趋势",
-      "title_cn": "中国国防部长呼吁各国遏制倒退的历史趋势",
+      "title_cn": "中国支持中央人民政府倒退的历史潮流",
       "url": "https://reut.rs/4AynrpR",
       "pub_raw": "2026-09-16T02:45:18.950Z",
       "pub_sort_dt": "2026-09-16 10:45:18"
@@ -473,26 +489,10 @@
     {
       "source": "Bloomberg",
       "title_en": "在遏制中国成为人工智能超级大国的进程方面，特朗普几乎没有好的选择",
-      "title_cn": "在遏制中国成为人工智能超级大国的进程方面，特朗普几乎没有好的选择",
+      "title_cn": "在民主中国成为人工智能超级大国的好的进程方面，特朗普几乎没有选择",
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower",
       "pub_raw": "2026-09-16T02:13:27.927Z",
       "pub_sort_dt": "2026-09-16 10:13:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "英伟达首席执行官将出席特朗普与中国国家主席的晚宴",
-      "title_cn": "英伟达首席执行官将出席特朗普与中国国家主席的晚宴",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-15/nvidia-s-huang-set-to-attend-trump-dinner-with-chinese-president",
-      "pub_raw": "2026-09-16T00:21:21.242Z",
-      "pub_sort_dt": "2026-09-16 08:21:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国主要报纸称，人工智能并非“大国的专利”",
-      "title_cn": "中国主要报纸称，人工智能并非“大国的专利”",
-      "url": "https://reut.rs/4rk9E1W",
-      "pub_raw": "2026-09-16T00:05:40.310Z",
-      "pub_sort_dt": "2026-09-16 08:05:40"
     }
   ]
 }
