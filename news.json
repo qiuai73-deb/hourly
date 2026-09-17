@@ -1,15 +1,55 @@
 {
-  "update_cst": "2026-09-17 12:01:01 北京时间",
+  "update_cst": "2026-09-17 15:01:17 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 10,
-    "Financial Times": 2,
-    "Wall Street Journal": 1,
-    "Reuters": 7
+    "Bloomberg": 11,
+    "Financial Times": 3,
+    "Wall Street Journal": 0,
+    "Reuters": 6
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中美安全专家提议对人工智能风险采取类似核不扩散条约的保障措施 - Reuters",
+      "title_cn": "中美安全专家倡议对人工智能风险采取类似核不扩散条约的措施 - 路透中文网",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxNd01DQXNsMmI1M3p2T1pRSjlGNEdjZHJHVGRPSE5lS2lNXzZYWi0wTmxCNUthU0ZmX1NQUklKeHZOWkZyZDVWMjNlTlBlOGl6NVFEclVyNFdJbmppMG13VkdWOXlfUXR3WnM1d3M0Y19xYWhuTTNxMGhIbGo2ek1OVU0xbXZuWnJOT29SazNfLXF4VF9IRC1ZVThUeXBWUTUyYzluVFBUa3NzQVhSMGExeEdxb1dKdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T04:43:00.000Z",
+      "pub_sort_dt": "2026-09-17 12:43:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "欧盟要求中国自愿限制汽车出口 - Financial Times",
+      "title_cn": "欧盟要求中国主动限制汽车出口 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOeXBHVk1XNnktaWhhOWNac0M0R0k3bE0zNXdabHE0SHJiNWhxaGxGTWdraVZfdWJOa1NRcFo1dGlSZjFzTGhUMC1XV2owXzliTDlfalFROWQyUjBOWUNZcFRUY1FPZkt0WXh3UzA2cGcyaDBqMnRyYVZvb29FTDFsd21YYy0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T04:00:21.000Z",
+      "pub_sort_dt": "2026-09-17 12:00:21"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国的整风行动正按计划推进 - Foreign Affairs",
+      "title_cn": "中国的整风行动正按计划推进 - 外交事务",
+      "url": "https://news.google.com/read/CBMie0FVX3lxTE51TjQ1NEpEc3pVN0J6TVRMX1ZFVDRjLXJJemo0Nk9tR3piaFhQU0tnSlJHaWVicE1ScXZSRGwzaTZfaFI5TU5XekNPUnQyTDVTVkFFaUdaT0d4Zy10S1k3OGs1Z3R5WVlXMmpLR3FBdm85c1BYYnZRVnBoWQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T04:00:00.000Z",
+      "pub_sort_dt": "2026-09-17 12:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "华为推出最新技术，旨在提升人工智能算力，减少中国对英伟达的依赖 - South China Morning Post",
+      "title_cn": "华为最新推出技术，旨在提升人工智能计算能力，减少中国对英伟达的依赖 - 南华早报",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxNS2xqNWNSTm9BZ3RSdHZMbFVIWWlDOF9tdnI1Y0cxeGg0QXlWaGxNdHh4RWY3c1FCS2Z1NTM3Z3Bmc3BWYnpQYWF0S0VEMUNGQVRSR0hZVTNkRXhZSEEtczl0cDlwSEZQS1VydnF0VXgyWVdKSU9JNGNVMUpZN0NPR05GYWFYWW5ReEtFOTBxdHNjeTdpUWJrWkhCMDRIU2xmR1NzLXNkRnJKc2xwRFE4dUVhZndOVVVoYlpuSVVTOGItZnZt0gHEAUFVX3lxTE5Na002NS1PV2RKUk9NYVFwVDVXYUttN0YtX09SVVhjQXFQNFRUM2dOUm1UV2VmbGFkMHlWN2ktWlFIUE5SQW9VWVUzdFJCUF9IdERjT3BxM3J0NkNnNTlSTVFfaENSMEFFS1lOd001Yi1kOGQ3Z292ZG5xOGtUeUM0bFhnZUt5cWZjRllpRjRfM2J2d3dEcVM1a0RhUHkyRkVhNVZwaUp5RHFFT19tLVAxLWJ4N3ROVVRCcW9HX0dHRmQtRTc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T03:52:19.000Z",
+      "pub_sort_dt": "2026-09-17 11:52:19"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在全球抛售潮中，中国持有的美国国债规模降至18年来的最低水平 - South China Morning Post",
+      "title_cn": "在全球抛售潮中，中国持有的美国国债规模降至18年来的最低水平 - 南华早报",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxNdjd4SUFPOEVfdDdzRTdnR0VjOEdiNl81ejVObzM4LURLQWlOQkw2RTh6REZCbWZpc3YtN01ZeXhGUVFKeEg2WTN2ck9uWVVNV29uUXMtay1ULVY5VHJablUxWnhtLWFSMnZVVDFwQ29pSFFrZkdZTVM2VW9VVWZicFpNaFZzWW9NbnpvYnlnUndDNXdXN3BRaEU0Wm9TQjgxbDFaR0RsdjZ3YldMNWI5bjRnSzBWS0hrZHNucEgyLUk0MV9XSW9hTVJ30gHKAUFVX3lxTE8wQ2E3TG12RDY4Zzc5UVgzQTJ3cVRLR2MtbnZLRXpxclpzV1pSZnZuTDhndW95SmlYdklHSEptV3EzXzdZTlZYQ1BzTVM1azdjcklSZExKYlZ4eFp4Smdxb0RqZDlTSkNWYVhsaUxoa2hRWnhGbHYzeDZaVjFHTDZ6blB2SWNSRFE0eHk4N2JZSWZyUUE2cV9nUmZMNDcyTEVVVmxTMG9TVnYxUGppT1NQU3NoQzA5XzMzUEpzTmJJVkhyNmhrYjRwS3c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T03:00:14.000Z",
+      "pub_sort_dt": "2026-09-17 11:00:14"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国华为计划于2027年推出新款AI芯片，目标直指英伟达 - Reuters",
@@ -28,6 +68,14 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "美国盟友担忧特朗普在与习近平的交涉中会如何打“台湾牌” - Reuters",
+      "title_cn": "美国白宫担心特朗普在与习近平的交涉中会如何打“台湾牌” - 路透中文网",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxQY3hVM1dFSVFMbUpibXh4OWtYdWFBRnNkN0JhREtSNFZ0R2hVMnN1T0lUTHlneVdReE1kd1YzSENaY2xpWXh5SGVjY09qSXNack9RQkN2VFBYQUxCcE5sUExGNzJxRDJzRXYzX0pZU3NTX3RNOTZ0WEZWZ01oSUp2dHh3SkNZSERMc0tFempuV3RSaXF6OXlGaUhCZGNUZlRvMEhaRWRKcUVMSVN6aVJRcmZ3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T02:18:00.000Z",
+      "pub_sort_dt": "2026-09-17 10:18:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国的瓷都将拥有数百年历史的传统传承给新一代 - AP News",
       "title_cn": "中国的瓷器都将拥有数百年历史的传统传承给新一代 - 美联社新闻",
       "url": "https://news.google.com/read/CBMipAFBVV95cUxOU0steTNndDFfTVpOZG1MNFpVenNpY3hPd2t2SWt3dWdUb0lwTTh1N25BVXJaQjRHMzhoTTBzOUdQUjFFOEstOUFaSFNNS2JISnNDZGNSa0g4ZFRKbHEtRWE2REpUTFdhNjROaE9XZUNETXpXMi1UWFBxajBmWXJxUnpTdkpDQkRxRnFVM0hqbEQ5cE9Ld0MzQUk3MVBEVUI2VHJvOA?hl=en-US&gl=US&ceid=US%3Aen",
@@ -36,62 +84,86 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "《艾格》中的爱情：中国借助经典英国小说向青少年传授浪漫情怀 - CNN",
-      "title_cn": "《艾格》中的爱情：中国借助经典英国小说向青少年传授浪漫情怀 - CNN",
-      "url": "https://news.google.com/read/CBMifkFVX3lxTE4waW03cm9MN3JrZExEWE52eGxGZFgteEUyUkZpWktZa3FjLW5pZ1g4SnFQR1JqLV9uU1Z6TnRzSXBWNW5PXzNsUjl3TkRBQ05KTWpUeEtyZGEwcWZJVlRyX0xKQXJOYmE3QmNuVzNfRjBxNVlnRnN4LTZING5rdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-17T00:00:00.000Z",
-      "pub_sort_dt": "2026-09-17 08:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "希尔斯伯勒一男子在中国间谍案中认罪 - OregonLive.com",
-      "title_cn": "希尔斯伯勒一男子在中国间谍案中认罪 - OregonLive.com",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxPYUJfSXNZdS1kN0J3Uk9WdVpDZGRlMWxITVluN1BxMEE0aktkX2MtLVlZSWdLTnVJVUFrQ3E3cnAxT3hldmRxeEpnUDlHbmJMbWpIcXRCRkV3bEtOZURfOTl0YkFKQmFzN2VNZVFTdjI1bWRrSlR1ZUYzV1FyRzlQcE02QVZWOGhFNnRyam5UWXRLOTR6eWlxMng1aDFsUdIBsgFBVV95cUxNN1ozay1OaDgyRzVLUWFoal9KaWZ6SUhmdEVuMXpFN04yTmFNV3ZwQVE4WGtfNXI5Y3ZlT3NKazJmdEVwQ2RjeTgyS0FYZzhsUUJ5cDR4R1RxUFlKNFVpX2hRTUxiSFMwX29rbnB5WHRER21DU2c2ZWxsWU5ERW0wQTdULWxWQk11Q2I2SVdRa0hLd3hnNWY1WFJMM3V2dTRzRGE1Mjg3N203UXh1VWY2ZmFB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T23:34:00.000Z",
-      "pub_sort_dt": "2026-09-17 07:34:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "观点 中国更重视人工智能领域的胜利，而非安全 - The New York Times",
-      "title_cn": "观点中国更重视人工智能领域的胜利，而不是安全 - 纽约时报",
-      "url": "https://news.google.com/read/CBMifEFVX3lxTE1YaFNGM3puRnZsNHVjV19LOV91RGVTT1dXU0RNdVM3Y084alRWdUJRcGZuZXpvdWV2Qm14SzhOWEJ6T1cwSWotVE5VeWpsd0I2b0JjcFZNcUF0aVhMUVgxaHZhTDRkMDVyOVpvZGk1b1NSUjNXODVod0pvTF8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T23:00:05.000Z",
-      "pub_sort_dt": "2026-09-17 07:00:05"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国国会通过了一项针对俄罗斯主要能源买家的法案——中国和印度 - South China Morning Post",
-      "title_cn": "美国国会通过了一项针对俄罗斯主要能源买家的法案——中国和印度 - 南华早报",
-      "url": "https://news.google.com/read/CBMi4AFBVV95cUxPV0xaZ3d0ajUyQUY0OFNpTFZmV1IxVjJSZ0ZxMFItS2Q1SnhuTGNPOTFQS2s0Qmx4eGZETk9YaU5xaTBnejBTUHFMbDlBekU5S29HQ2pJQ0xtTkZ4ZEdFb1RTblUzclJjRGFURTFLdGJFNnVpTHNMOW9mUkdrZ3FZdTBudGlpWW95NGZCeGtJbC1NQlhKTThZTU90TW9uZlU2SmFHZm53V21qQnVMbWU1cm5LT29DSkNldF90WkNBYW5HWldFTE81bDVTbzhhZUVLb1FRM1FkVm9RaUtEZ3RuTtIB4AFBVV95cUxQcHZGbDJZdWNhYjdvaVVNMTc5MTNRdG1hUlJzRFBSaFlPZDVkVGNjUTd3ZUtZbkRfOGRwbExsc2s0SnREZGZqV1gxbzEwRkZrbm8teHlpVTBnbnFWYUxiNDU2ekxKTGdjOFJsU0E3SFpwUlZsYkVoanA0UUpqZ1RWUmRSWFMzNURUNjBqT0ZFZFZxMkp2VFAwal9KN19MLXhUdWJMOUVBb2hWMldxMXVXNmpLZWlZODNIMzY5c0FmVzFtN09tMy1sV212N2hfcWhVUnRvbU5uT0lyZktOMU4xWA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T22:50:16.000Z",
-      "pub_sort_dt": "2026-09-17 06:50:16"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国情报部门就向沙特出售F-35战机一事发出中国窃取机密警告 - nytimes.com",
-      "title_cn": "美国情报部门就向沙特出售F-35战机一事发布中国机密机密警告 - nytimes.com",
-      "url": "https://news.google.com/read/CBMikwFBVV95cUxPeUlGXzA1dTR3WkpSZDI0M1FEUTBfTWlWbll5eng5U3UyejVTY2lyRE1EYkRESzhsSTg2eGxzVGFpTnNjWWFlS1RWZlpDTjlZVFdGLTRRclpUb2Z5QVNMOHlCdXgxYUV5aDg4WGo3ekwyallpNlVSS0dXeUxCOGRyQlIyeElRbkNOeVJRNEV5Y0dtZ3M?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T21:20:47.000Z",
-      "pub_sort_dt": "2026-09-17 05:20:47"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "制药公司已配合议员对中国临床试验点的调查 - Endpoints News",
-      "title_cn": "制药公司已配合公众对中国临床试验点的调查 - Endpoints News",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxOM21TeU5NSGF4OURoMUJBa1YxR1Rlc0FQNmMzY2I1SjVENEU5QldoWkxhVmRwODdyQTh2VnNFajV6Sl9hUk9WTU9RU0lFa2hTb3JySkxDS0dQNDdlcjZXbFZ3YkdQSWdncDdVYV8xUm5USU9yNE1NUGZ3djNrczFOU2ZFUEU1V1dUMnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T18:30:00.000Z",
-      "pub_sort_dt": "2026-09-17 02:30:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "独家消息：贝森特称，美国愿意与中国讨论人工智能领域的“共同风险” - Axios",
-      "title_cn": "独家消息：贝森特称，美国愿意与中国人工智能领域的“共同风险” - Axios",
-      "url": "https://news.google.com/read/CBMiekFVX3lxTE1xQkVJVkt5SGpqeEhFZVBXSThYWXotdm1VaFFaVDRSU3pUdXBERENEMF9DOGl1Umc4SjNscW40SEFmTEZ1WGlsdWM1X3VORFB4SnU4TmtRdXk0Rm0tQWxRVC1PeTc0a1BLN0F5YjVRMjRJQjVCR3VreWNB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T17:42:26.000Z",
-      "pub_sort_dt": "2026-09-17 01:42:26"
+      "title_en": "广东电力结构调整使中国天然气需求前景蒙上阴影 - Bloomberg.com",
+      "title_cn": "广东电力结构调整使中国天然气需求前景蒙上阴影 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxPMGlQOWJMZldIcEZ5MHhCUUFJZVlIYm1qbVVPZGF6ZTVDV0JOc0R5TDFTLWRFMUtPc28wTFJfenZTOTRaMnlILXhyaDBkcVpScUxOWTA4dmJNLWhad2FjZms0VlZrUmZMMWNjdnFtdS1NUWVrYUNSRjJISi1pWXdZWkRLTEFqSlg2NExuYm5PbXJWQV83SjVzVzdqX2Jtc0tnRFV0YXZTN0w4N0E3amlEMTR3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T00:52:00.000Z",
+      "pub_sort_dt": "2026-09-17 08:52:00"
     }
   ],
   "media_news": [
+    {
+      "source": "Financial Times",
+      "title_en": "汇丰取消了针对香港新入职银行家的38,000美元学费补贴",
+      "title_cn": "汇丰取消了针对香港新入职银行家的38,000美元纳税欠款",
+      "url": "https://www.ft.com/content/3edfa4b0-a492-4627-b9ac-e6f11583242d?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-17T06:48:37.349Z",
+      "pub_sort_dt": "2026-09-17 14:48:37"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着中国施压加剧，台湾海警计划访问菲律宾",
+      "title_cn": "随着中国施压力度加大，台湾海警计划出访预防",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-coast-guard-plans-visit-to-philippines-as-china-pressure-grows",
+      "pub_raw": "2026-09-17T06:32:43.316Z",
+      "pub_sort_dt": "2026-09-17 14:32:43"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国MMG公司承诺向欧盟供应镍，此前其交易曾受到审查",
+      "title_cn": "中国MMG公司向欧盟供应镍承诺，其交易曾受到审查",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/eu-warns-mmg-anglo-nickel-deal-may-hurt-competition-lift-prices",
+      "pub_raw": "2026-09-17T06:17:41.370Z",
+      "pub_sort_dt": "2026-09-17 14:17:41"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "随着中国竞争对手不断抢占市场，大众旗下的西雅特濒临危机",
+      "title_cn": "随着中国竞争对手不断抢占市场，大众推出了西雅特濒危危机",
+      "url": "https://reut.rs/4h6eTxf",
+      "pub_raw": "2026-09-17T06:01:25.241Z",
+      "pub_sort_dt": "2026-09-17 14:01:25"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Breakingviews - 评论：中国残酷的AI经济给美国带来的启示",
+      "title_cn": "突发观点——评论：中国严厉的人工智能经济给美国带来启示",
+      "url": "https://reut.rs/4h5EIxu",
+      "pub_raw": "2026-09-17T05:29:25.654Z",
+      "pub_sort_dt": "2026-09-17 13:29:25"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港和澳门最佳葡式蛋挞排行榜",
+      "title_cn": "香港和澳门最佳葡式蛋挞排行榜",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-17/the-best-portuguese-egg-tarts-in-hong-kong-and-macau-ranked",
+      "pub_raw": "2026-09-17T04:41:18.140Z",
+      "pub_sort_dt": "2026-09-17 12:41:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "加息威胁经济复苏，香港房地产股下跌",
+      "title_cn": "加息威胁经济复苏，香港房地产股下跌",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/hong-kong-property-stocks-fall-as-rate-hike-threatens-recovery",
+      "pub_raw": "2026-09-17T04:41:18.136Z",
+      "pub_sort_dt": "2026-09-17 12:41:18"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "欧盟要求中国自愿限制汽车出口",
+      "title_cn": "欧盟要求中国主动限制汽车出口",
+      "url": "https://www.ft.com/content/0b45cb01-7f62-41c5-8c48-10c47f2e1ae6?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-17T04:25:18.756Z",
+      "pub_sort_dt": "2026-09-17 12:25:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国7万亿美元绿色金融市场内幕",
+      "title_cn": "中国7万亿美元绿色金融市场内幕",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/inside-china-s-7-trillion-green-finance-market",
+      "pub_raw": "2026-09-17T04:10:16.075Z",
+      "pub_sort_dt": "2026-09-17 12:10:16"
+    },
     {
       "source": "Reuters",
       "title_en": "美国盟友担忧特朗普在与习近平的交锋中会如何打“台湾牌”",
@@ -103,7 +175,7 @@
     {
       "source": "Bloomberg",
       "title_en": "台湾通胀率放缓，料将维持鹰派立场",
-      "title_cn": "台湾通胀率预期，料将维持鹰派数据",
+      "title_cn": "台湾通胀率放缓，料将维持鹰派立场",
       "url": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-poised-for-hawkish-hold-after-headline-inflation-slowed",
       "pub_raw": "2026-09-17T01:02:01.591Z",
       "pub_sort_dt": "2026-09-17 09:02:01"
@@ -179,83 +251,51 @@
       "url": "https://reut.rs/4dfU956",
       "pub_raw": "2026-09-16T10:37:35.322Z",
       "pub_sort_dt": "2026-09-16 18:37:35"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国可以放缓人工智能的发展步伐，并保持对中国的领先优势",
-      "title_cn": "美国可以终止人工智能的发展，并保持对中国的领先优势",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-16/the-us-can-slow-down-ai-and-stay-ahead-of-china",
-      "pub_raw": "2026-09-16T09:49:16.838Z",
-      "pub_sort_dt": "2026-09-16 17:49:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港交易所或将于2026年底前推出首个债券指数",
-      "title_cn": "香港交易所或将于2026年底前推出第一个债券指数",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-to-launch-dim-sum-bond-index-in-offshore-yuan-hub-push",
-      "pub_raw": "2026-09-16T08:47:25.308Z",
-      "pub_sort_dt": "2026-09-16 16:47:25"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港将黄金中心定位为大宗商品和人民币发展的驱动力",
-      "title_cn": "香港将黄金中心定位为大宗商品和人民币发展的动力",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-sets-out-gold-hub-as-driver-for-commodities-and-yuan",
-      "pub_raw": "2026-09-16T07:28:20.033Z",
-      "pub_sort_dt": "2026-09-16 15:28:20"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "自由奔放的香港效仿中国，制定首个五年计划",
-      "title_cn": "自由奔放的香港效仿中国，制定第一个五年计划",
-      "url": "https://www.ft.com/content/f082ea1d-112a-4278-aa4a-8783a9077755?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-16T07:28:19.237Z",
-      "pub_sort_dt": "2026-09-16 15:28:19"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "一家中国黑客公司如何利用人工智能大幅提升网络间谍活动效能",
-      "title_cn": "一家中国黑客公司如何利用人工智能大幅提升网络间谍活动",
-      "url": "https://on.wsj.com/4he3J9V",
-      "pub_raw": "2026-09-16T07:28:19.090Z",
-      "pub_sort_dt": "2026-09-16 15:28:19"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国央行行长表示，贷款增速放缓已成为“新常态”",
-      "title_cn": "中国央行行长表示，贷款早已成为“新常态”",
-      "url": "https://reut.rs/4xw28Cy",
-      "pub_raw": "2026-09-16T06:40:22.290Z",
-      "pub_sort_dt": "2026-09-16 14:40:22"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港制定五年科技发展目标，扩大“新生儿津贴”范围",
-      "title_cn": "香港制定科技五年发展目标，扩大“养老补贴”范围",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-aims-to-almost-double-spending-on-tech-innovation",
-      "pub_raw": "2026-09-16T05:53:14.563Z",
-      "pub_sort_dt": "2026-09-16 13:53:14"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国防部长呼吁停止“挑衅行为”，并就此开启安全论坛",
-      "title_cn": "中国哮喘长呼吁停止“挑衅行为”，并开启开启安全论坛",
-      "url": "https://reut.rs/3TclhLo",
-      "pub_raw": "2026-09-16T05:53:14.442Z",
-      "pub_sort_dt": "2026-09-16 13:53:14"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国警告称，美国太空武器可能加剧军备竞赛",
-      "title_cn": "中国警告称，美国太空武器可能增强军备竞赛",
-      "url": "https://reut.rs/4xtcpiC",
-      "pub_raw": "2026-09-16T05:37:15.010Z",
-      "pub_sort_dt": "2026-09-16 13:37:15"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "中美安全专家提议对人工智能风险采取类似核不扩散条约的保障措施 - Reuters",
+      "title_cn": "中美安全专家倡议对人工智能风险采取类似核不扩散条约的措施 - 路透中文网",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxNd01DQXNsMmI1M3p2T1pRSjlGNEdjZHJHVGRPSE5lS2lNXzZYWi0wTmxCNUthU0ZmX1NQUklKeHZOWkZyZDVWMjNlTlBlOGl6NVFEclVyNFdJbmppMG13VkdWOXlfUXR3WnM1d3M0Y19xYWhuTTNxMGhIbGo2ek1OVU0xbXZuWnJOT29SazNfLXF4VF9IRC1ZVThUeXBWUTUyYzluVFBUa3NzQVhSMGExeEdxb1dKdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T04:43:00.000Z",
+      "pub_sort_dt": "2026-09-17 12:43:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "欧盟要求中国自愿限制汽车出口 - Financial Times",
+      "title_cn": "欧盟要求中国主动限制汽车出口 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOeXBHVk1XNnktaWhhOWNac0M0R0k3bE0zNXdabHE0SHJiNWhxaGxGTWdraVZfdWJOa1NRcFo1dGlSZjFzTGhUMC1XV2owXzliTDlfalFROWQyUjBOWUNZcFRUY1FPZkt0WXh3UzA2cGcyaDBqMnRyYVZvb29FTDFsd21YYy0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T04:00:21.000Z",
+      "pub_sort_dt": "2026-09-17 12:00:21"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国的整风行动正按计划推进 - Foreign Affairs",
+      "title_cn": "中国的整风行动正按计划推进 - 外交事务",
+      "url": "https://news.google.com/read/CBMie0FVX3lxTE51TjQ1NEpEc3pVN0J6TVRMX1ZFVDRjLXJJemo0Nk9tR3piaFhQU0tnSlJHaWVicE1ScXZSRGwzaTZfaFI5TU5XekNPUnQyTDVTVkFFaUdaT0d4Zy10S1k3OGs1Z3R5WVlXMmpLR3FBdm85c1BYYnZRVnBoWQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T04:00:00.000Z",
+      "pub_sort_dt": "2026-09-17 12:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "华为推出最新技术，旨在提升人工智能算力，减少中国对英伟达的依赖 - South China Morning Post",
+      "title_cn": "华为最新推出技术，旨在提升人工智能计算能力，减少中国对英伟达的依赖 - 南华早报",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxNS2xqNWNSTm9BZ3RSdHZMbFVIWWlDOF9tdnI1Y0cxeGg0QXlWaGxNdHh4RWY3c1FCS2Z1NTM3Z3Bmc3BWYnpQYWF0S0VEMUNGQVRSR0hZVTNkRXhZSEEtczl0cDlwSEZQS1VydnF0VXgyWVdKSU9JNGNVMUpZN0NPR05GYWFYWW5ReEtFOTBxdHNjeTdpUWJrWkhCMDRIU2xmR1NzLXNkRnJKc2xwRFE4dUVhZndOVVVoYlpuSVVTOGItZnZt0gHEAUFVX3lxTE5Na002NS1PV2RKUk9NYVFwVDVXYUttN0YtX09SVVhjQXFQNFRUM2dOUm1UV2VmbGFkMHlWN2ktWlFIUE5SQW9VWVUzdFJCUF9IdERjT3BxM3J0NkNnNTlSTVFfaENSMEFFS1lOd001Yi1kOGQ3Z292ZG5xOGtUeUM0bFhnZUt5cWZjRllpRjRfM2J2d3dEcVM1a0RhUHkyRkVhNVZwaUp5RHFFT19tLVAxLWJ4N3ROVVRCcW9HX0dHRmQtRTc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T03:52:19.000Z",
+      "pub_sort_dt": "2026-09-17 11:52:19"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在全球抛售潮中，中国持有的美国国债规模降至18年来的最低水平 - South China Morning Post",
+      "title_cn": "在全球抛售潮中，中国持有的美国国债规模降至18年来的最低水平 - 南华早报",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxNdjd4SUFPOEVfdDdzRTdnR0VjOEdiNl81ejVObzM4LURLQWlOQkw2RTh6REZCbWZpc3YtN01ZeXhGUVFKeEg2WTN2ck9uWVVNV29uUXMtay1ULVY5VHJablUxWnhtLWFSMnZVVDFwQ29pSFFrZkdZTVM2VW9VVWZicFpNaFZzWW9NbnpvYnlnUndDNXdXN3BRaEU0Wm9TQjgxbDFaR0RsdjZ3YldMNWI5bjRnSzBWS0hrZHNucEgyLUk0MV9XSW9hTVJ30gHKAUFVX3lxTE8wQ2E3TG12RDY4Zzc5UVgzQTJ3cVRLR2MtbnZLRXpxclpzV1pSZnZuTDhndW95SmlYdklHSEptV3EzXzdZTlZYQ1BzTVM1azdjcklSZExKYlZ4eFp4Smdxb0RqZDlTSkNWYVhsaUxoa2hRWnhGbHYzeDZaVjFHTDZ6blB2SWNSRFE0eHk4N2JZSWZyUUE2cV9nUmZMNDcyTEVVVmxTMG9TVnYxUGppT1NQU3NoQzA5XzMzUEpzTmJJVkhyNmhrYjRwS3c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T03:00:14.000Z",
+      "pub_sort_dt": "2026-09-17 11:00:14"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国华为计划于2027年推出新款AI芯片，目标直指英伟达 - Reuters",
       "title_cn": "中国华为计划于2027年推出新款AI芯片，目标直指英伟达 - 路透社",
       "url": "https://news.google.com/read/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?hl=en-US&gl=US&ceid=US%3Aen",
@@ -272,6 +312,14 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "美国盟友担忧特朗普在与习近平的交涉中会如何打“台湾牌” - Reuters",
+      "title_cn": "美国白宫担心特朗普在与习近平的交涉中会如何打“台湾牌” - 路透中文网",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxQY3hVM1dFSVFMbUpibXh4OWtYdWFBRnNkN0JhREtSNFZ0R2hVMnN1T0lUTHlneVdReE1kd1YzSENaY2xpWXh5SGVjY09qSXNack9RQkN2VFBYQUxCcE5sUExGNzJxRDJzRXYzX0pZU3NTX3RNOTZ0WEZWZ01oSUp2dHh3SkNZSERMc0tFempuV3RSaXF6OXlGaUhCZGNUZlRvMEhaRWRKcUVMSVN6aVJRcmZ3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T02:18:00.000Z",
+      "pub_sort_dt": "2026-09-17 10:18:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国的瓷都将拥有数百年历史的传统传承给新一代 - AP News",
       "title_cn": "中国的瓷器都将拥有数百年历史的传统传承给新一代 - 美联社新闻",
       "url": "https://news.google.com/read/CBMipAFBVV95cUxOU0steTNndDFfTVpOZG1MNFpVenNpY3hPd2t2SWt3dWdUb0lwTTh1N25BVXJaQjRHMzhoTTBzOUdQUjFFOEstOUFaSFNNS2JISnNDZGNSa0g4ZFRKbHEtRWE2REpUTFdhNjROaE9XZUNETXpXMi1UWFBxajBmWXJxUnpTdkpDQkRxRnFVM0hqbEQ5cE9Ld0MzQUk3MVBEVUI2VHJvOA?hl=en-US&gl=US&ceid=US%3Aen",
@@ -280,59 +328,83 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "《艾格》中的爱情：中国借助经典英国小说向青少年传授浪漫情怀 - CNN",
-      "title_cn": "《艾格》中的爱情：中国借助经典英国小说向青少年传授浪漫情怀 - CNN",
-      "url": "https://news.google.com/read/CBMifkFVX3lxTE4waW03cm9MN3JrZExEWE52eGxGZFgteEUyUkZpWktZa3FjLW5pZ1g4SnFQR1JqLV9uU1Z6TnRzSXBWNW5PXzNsUjl3TkRBQ05KTWpUeEtyZGEwcWZJVlRyX0xKQXJOYmE3QmNuVzNfRjBxNVlnRnN4LTZING5rdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-17T00:00:00.000Z",
-      "pub_sort_dt": "2026-09-17 08:00:00"
+      "title_en": "广东电力结构调整使中国天然气需求前景蒙上阴影 - Bloomberg.com",
+      "title_cn": "广东电力结构调整使中国天然气需求前景蒙上阴影 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxPMGlQOWJMZldIcEZ5MHhCUUFJZVlIYm1qbVVPZGF6ZTVDV0JOc0R5TDFTLWRFMUtPc28wTFJfenZTOTRaMnlILXhyaDBkcVpScUxOWTA4dmJNLWhad2FjZms0VlZrUmZMMWNjdnFtdS1NUWVrYUNSRjJISi1pWXdZWkRLTEFqSlg2NExuYm5PbXJWQV83SjVzVzdqX2Jtc0tnRFV0YXZTN0w4N0E3amlEMTR3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T00:52:00.000Z",
+      "pub_sort_dt": "2026-09-17 08:52:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "希尔斯伯勒一男子在中国间谍案中认罪 - OregonLive.com",
-      "title_cn": "希尔斯伯勒一男子在中国间谍案中认罪 - OregonLive.com",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxPYUJfSXNZdS1kN0J3Uk9WdVpDZGRlMWxITVluN1BxMEE0aktkX2MtLVlZSWdLTnVJVUFrQ3E3cnAxT3hldmRxeEpnUDlHbmJMbWpIcXRCRkV3bEtOZURfOTl0YkFKQmFzN2VNZVFTdjI1bWRrSlR1ZUYzV1FyRzlQcE02QVZWOGhFNnRyam5UWXRLOTR6eWlxMng1aDFsUdIBsgFBVV95cUxNN1ozay1OaDgyRzVLUWFoal9KaWZ6SUhmdEVuMXpFN04yTmFNV3ZwQVE4WGtfNXI5Y3ZlT3NKazJmdEVwQ2RjeTgyS0FYZzhsUUJ5cDR4R1RxUFlKNFVpX2hRTUxiSFMwX29rbnB5WHRER21DU2c2ZWxsWU5ERW0wQTdULWxWQk11Q2I2SVdRa0hLd3hnNWY1WFJMM3V2dTRzRGE1Mjg3N203UXh1VWY2ZmFB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T23:34:00.000Z",
-      "pub_sort_dt": "2026-09-17 07:34:00"
+      "source": "Financial Times",
+      "title_en": "汇丰取消了针对香港新入职银行家的38,000美元学费补贴",
+      "title_cn": "汇丰取消了针对香港新入职银行家的38,000美元纳税欠款",
+      "url": "https://www.ft.com/content/3edfa4b0-a492-4627-b9ac-e6f11583242d?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-17T06:48:37.349Z",
+      "pub_sort_dt": "2026-09-17 14:48:37"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "观点 中国更重视人工智能领域的胜利，而非安全 - The New York Times",
-      "title_cn": "观点中国更重视人工智能领域的胜利，而不是安全 - 纽约时报",
-      "url": "https://news.google.com/read/CBMifEFVX3lxTE1YaFNGM3puRnZsNHVjV19LOV91RGVTT1dXU0RNdVM3Y084alRWdUJRcGZuZXpvdWV2Qm14SzhOWEJ6T1cwSWotVE5VeWpsd0I2b0JjcFZNcUF0aVhMUVgxaHZhTDRkMDVyOVpvZGk1b1NSUjNXODVod0pvTF8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T23:00:05.000Z",
-      "pub_sort_dt": "2026-09-17 07:00:05"
+      "source": "Bloomberg",
+      "title_en": "随着中国施压加剧，台湾海警计划访问菲律宾",
+      "title_cn": "随着中国施压力度加大，台湾海警计划出访预防",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-coast-guard-plans-visit-to-philippines-as-china-pressure-grows",
+      "pub_raw": "2026-09-17T06:32:43.316Z",
+      "pub_sort_dt": "2026-09-17 14:32:43"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "美国国会通过了一项针对俄罗斯主要能源买家的法案——中国和印度 - South China Morning Post",
-      "title_cn": "美国国会通过了一项针对俄罗斯主要能源买家的法案——中国和印度 - 南华早报",
-      "url": "https://news.google.com/read/CBMi4AFBVV95cUxPV0xaZ3d0ajUyQUY0OFNpTFZmV1IxVjJSZ0ZxMFItS2Q1SnhuTGNPOTFQS2s0Qmx4eGZETk9YaU5xaTBnejBTUHFMbDlBekU5S29HQ2pJQ0xtTkZ4ZEdFb1RTblUzclJjRGFURTFLdGJFNnVpTHNMOW9mUkdrZ3FZdTBudGlpWW95NGZCeGtJbC1NQlhKTThZTU90TW9uZlU2SmFHZm53V21qQnVMbWU1cm5LT29DSkNldF90WkNBYW5HWldFTE81bDVTbzhhZUVLb1FRM1FkVm9RaUtEZ3RuTtIB4AFBVV95cUxQcHZGbDJZdWNhYjdvaVVNMTc5MTNRdG1hUlJzRFBSaFlPZDVkVGNjUTd3ZUtZbkRfOGRwbExsc2s0SnREZGZqV1gxbzEwRkZrbm8teHlpVTBnbnFWYUxiNDU2ekxKTGdjOFJsU0E3SFpwUlZsYkVoanA0UUpqZ1RWUmRSWFMzNURUNjBqT0ZFZFZxMkp2VFAwal9KN19MLXhUdWJMOUVBb2hWMldxMXVXNmpLZWlZODNIMzY5c0FmVzFtN09tMy1sV212N2hfcWhVUnRvbU5uT0lyZktOMU4xWA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T22:50:16.000Z",
-      "pub_sort_dt": "2026-09-17 06:50:16"
+      "source": "Bloomberg",
+      "title_en": "中国MMG公司承诺向欧盟供应镍，此前其交易曾受到审查",
+      "title_cn": "中国MMG公司向欧盟供应镍承诺，其交易曾受到审查",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/eu-warns-mmg-anglo-nickel-deal-may-hurt-competition-lift-prices",
+      "pub_raw": "2026-09-17T06:17:41.370Z",
+      "pub_sort_dt": "2026-09-17 14:17:41"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "美国情报部门就向沙特出售F-35战机一事发出中国窃取机密警告 - nytimes.com",
-      "title_cn": "美国情报部门就向沙特出售F-35战机一事发布中国机密机密警告 - nytimes.com",
-      "url": "https://news.google.com/read/CBMikwFBVV95cUxPeUlGXzA1dTR3WkpSZDI0M1FEUTBfTWlWbll5eng5U3UyejVTY2lyRE1EYkRESzhsSTg2eGxzVGFpTnNjWWFlS1RWZlpDTjlZVFdGLTRRclpUb2Z5QVNMOHlCdXgxYUV5aDg4WGo3ekwyallpNlVSS0dXeUxCOGRyQlIyeElRbkNOeVJRNEV5Y0dtZ3M?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T21:20:47.000Z",
-      "pub_sort_dt": "2026-09-17 05:20:47"
+      "source": "Reuters",
+      "title_en": "随着中国竞争对手不断抢占市场，大众旗下的西雅特濒临危机",
+      "title_cn": "随着中国竞争对手不断抢占市场，大众推出了西雅特濒危危机",
+      "url": "https://reut.rs/4h6eTxf",
+      "pub_raw": "2026-09-17T06:01:25.241Z",
+      "pub_sort_dt": "2026-09-17 14:01:25"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "制药公司已配合议员对中国临床试验点的调查 - Endpoints News",
-      "title_cn": "制药公司已配合公众对中国临床试验点的调查 - Endpoints News",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxOM21TeU5NSGF4OURoMUJBa1YxR1Rlc0FQNmMzY2I1SjVENEU5QldoWkxhVmRwODdyQTh2VnNFajV6Sl9hUk9WTU9RU0lFa2hTb3JySkxDS0dQNDdlcjZXbFZ3YkdQSWdncDdVYV8xUm5USU9yNE1NUGZ3djNrczFOU2ZFUEU1V1dUMnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T18:30:00.000Z",
-      "pub_sort_dt": "2026-09-17 02:30:00"
+      "source": "Reuters",
+      "title_en": "Breakingviews - 评论：中国残酷的AI经济给美国带来的启示",
+      "title_cn": "突发观点——评论：中国严厉的人工智能经济给美国带来启示",
+      "url": "https://reut.rs/4h5EIxu",
+      "pub_raw": "2026-09-17T05:29:25.654Z",
+      "pub_sort_dt": "2026-09-17 13:29:25"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "独家消息：贝森特称，美国愿意与中国讨论人工智能领域的“共同风险” - Axios",
-      "title_cn": "独家消息：贝森特称，美国愿意与中国人工智能领域的“共同风险” - Axios",
-      "url": "https://news.google.com/read/CBMiekFVX3lxTE1xQkVJVkt5SGpqeEhFZVBXSThYWXotdm1VaFFaVDRSU3pUdXBERENEMF9DOGl1Umc4SjNscW40SEFmTEZ1WGlsdWM1X3VORFB4SnU4TmtRdXk0Rm0tQWxRVC1PeTc0a1BLN0F5YjVRMjRJQjVCR3VreWNB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T17:42:26.000Z",
-      "pub_sort_dt": "2026-09-17 01:42:26"
+      "source": "Bloomberg",
+      "title_en": "香港和澳门最佳葡式蛋挞排行榜",
+      "title_cn": "香港和澳门最佳葡式蛋挞排行榜",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-17/the-best-portuguese-egg-tarts-in-hong-kong-and-macau-ranked",
+      "pub_raw": "2026-09-17T04:41:18.140Z",
+      "pub_sort_dt": "2026-09-17 12:41:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "加息威胁经济复苏，香港房地产股下跌",
+      "title_cn": "加息威胁经济复苏，香港房地产股下跌",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/hong-kong-property-stocks-fall-as-rate-hike-threatens-recovery",
+      "pub_raw": "2026-09-17T04:41:18.136Z",
+      "pub_sort_dt": "2026-09-17 12:41:18"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "欧盟要求中国自愿限制汽车出口",
+      "title_cn": "欧盟要求中国主动限制汽车出口",
+      "url": "https://www.ft.com/content/0b45cb01-7f62-41c5-8c48-10c47f2e1ae6?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-17T04:25:18.756Z",
+      "pub_sort_dt": "2026-09-17 12:25:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国7万亿美元绿色金融市场内幕",
+      "title_cn": "中国7万亿美元绿色金融市场内幕",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/inside-china-s-7-trillion-green-finance-market",
+      "pub_raw": "2026-09-17T04:10:16.075Z",
+      "pub_sort_dt": "2026-09-17 12:10:16"
     },
     {
       "source": "Reuters",
@@ -345,7 +417,7 @@
     {
       "source": "Bloomberg",
       "title_en": "台湾通胀率放缓，料将维持鹰派立场",
-      "title_cn": "台湾通胀率预期，料将维持鹰派数据",
+      "title_cn": "台湾通胀率放缓，料将维持鹰派立场",
       "url": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-poised-for-hawkish-hold-after-headline-inflation-slowed",
       "pub_raw": "2026-09-17T01:02:01.591Z",
       "pub_sort_dt": "2026-09-17 09:02:01"
@@ -421,78 +493,6 @@
       "url": "https://reut.rs/4dfU956",
       "pub_raw": "2026-09-16T10:37:35.322Z",
       "pub_sort_dt": "2026-09-16 18:37:35"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国可以放缓人工智能的发展步伐，并保持对中国的领先优势",
-      "title_cn": "美国可以终止人工智能的发展，并保持对中国的领先优势",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-16/the-us-can-slow-down-ai-and-stay-ahead-of-china",
-      "pub_raw": "2026-09-16T09:49:16.838Z",
-      "pub_sort_dt": "2026-09-16 17:49:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港交易所或将于2026年底前推出首个债券指数",
-      "title_cn": "香港交易所或将于2026年底前推出第一个债券指数",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-to-launch-dim-sum-bond-index-in-offshore-yuan-hub-push",
-      "pub_raw": "2026-09-16T08:47:25.308Z",
-      "pub_sort_dt": "2026-09-16 16:47:25"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港将黄金中心定位为大宗商品和人民币发展的驱动力",
-      "title_cn": "香港将黄金中心定位为大宗商品和人民币发展的动力",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-sets-out-gold-hub-as-driver-for-commodities-and-yuan",
-      "pub_raw": "2026-09-16T07:28:20.033Z",
-      "pub_sort_dt": "2026-09-16 15:28:20"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "自由奔放的香港效仿中国，制定首个五年计划",
-      "title_cn": "自由奔放的香港效仿中国，制定第一个五年计划",
-      "url": "https://www.ft.com/content/f082ea1d-112a-4278-aa4a-8783a9077755?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-16T07:28:19.237Z",
-      "pub_sort_dt": "2026-09-16 15:28:19"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "一家中国黑客公司如何利用人工智能大幅提升网络间谍活动效能",
-      "title_cn": "一家中国黑客公司如何利用人工智能大幅提升网络间谍活动",
-      "url": "https://on.wsj.com/4he3J9V",
-      "pub_raw": "2026-09-16T07:28:19.090Z",
-      "pub_sort_dt": "2026-09-16 15:28:19"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国央行行长表示，贷款增速放缓已成为“新常态”",
-      "title_cn": "中国央行行长表示，贷款早已成为“新常态”",
-      "url": "https://reut.rs/4xw28Cy",
-      "pub_raw": "2026-09-16T06:40:22.290Z",
-      "pub_sort_dt": "2026-09-16 14:40:22"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港制定五年科技发展目标，扩大“新生儿津贴”范围",
-      "title_cn": "香港制定科技五年发展目标，扩大“养老补贴”范围",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-aims-to-almost-double-spending-on-tech-innovation",
-      "pub_raw": "2026-09-16T05:53:14.563Z",
-      "pub_sort_dt": "2026-09-16 13:53:14"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国防部长呼吁停止“挑衅行为”，并就此开启安全论坛",
-      "title_cn": "中国哮喘长呼吁停止“挑衅行为”，并开启开启安全论坛",
-      "url": "https://reut.rs/3TclhLo",
-      "pub_raw": "2026-09-16T05:53:14.442Z",
-      "pub_sort_dt": "2026-09-16 13:53:14"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国警告称，美国太空武器可能加剧军备竞赛",
-      "title_cn": "中国警告称，美国太空武器可能增强军备竞赛",
-      "url": "https://reut.rs/4xtcpiC",
-      "pub_raw": "2026-09-16T05:37:15.010Z",
-      "pub_sort_dt": "2026-09-16 13:37:15"
     }
   ]
 }
