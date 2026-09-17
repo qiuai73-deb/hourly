@@ -1,22 +1,54 @@
 {
-  "update_cst": "2026-09-17 06:01:11 北京时间",
+  "update_cst": "2026-09-17 09:01:06 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 10,
-    "Financial Times": 3,
+    "Bloomberg": 11,
+    "Financial Times": 2,
     "Wall Street Journal": 1,
     "Reuters": 6
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "观点 中国更重视人工智能领域的胜利，而非安全 - The New York Times",
+      "title_cn": "观点中国更重视人工智能领域的胜利，而不是安全 - 纽约时报",
+      "url": "https://news.google.com/read/CBMifEFVX3lxTE1YaFNGM3puRnZsNHVjV19LOV91RGVTT1dXU0RNdVM3Y084alRWdUJRcGZuZXpvdWV2Qm14SzhOWEJ6T1cwSWotVE5VeWpsd0I2b0JjcFZNcUF0aVhMUVgxaHZhTDRkMDVyOVpvZGk1b1NSUjNXODVod0pvTF8?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T23:00:05.000Z",
+      "pub_sort_dt": "2026-09-17 07:00:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国情报部门就向沙特出售F-35战机一事发出中国窃取机密警告 - nytimes.com",
+      "title_cn": "美国情报部门就向沙特出售F-35战机一事发布中国机密机密警告 - nytimes.com",
+      "url": "https://news.google.com/read/CBMikwFBVV95cUxPeUlGXzA1dTR3WkpSZDI0M1FEUTBfTWlWbll5eng5U3UyejVTY2lyRE1EYkRESzhsSTg2eGxzVGFpTnNjWWFlS1RWZlpDTjlZVFdGLTRRclpUb2Z5QVNMOHlCdXgxYUV5aDg4WGo3ekwyallpNlVSS0dXeUxCOGRyQlIyeElRbkNOeVJRNEV5Y0dtZ3M?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T21:20:47.000Z",
+      "pub_sort_dt": "2026-09-17 05:20:47"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "独家消息：贝森特称，美国愿意与中国讨论人工智能领域的“共同风险” - Axios",
       "title_cn": "独家消息：贝森特称，美国愿意与中国讨论人工智能领域的“共同风险” - Axios",
       "url": "https://news.google.com/read/CBMiekFVX3lxTE1xQkVJVkt5SGpqeEhFZVBXSThYWXotdm1VaFFaVDRSU3pUdXBERENEMF9DOGl1Umc4SjNscW40SEFmTEZ1WGlsdWM1X3VORFB4SnU4TmtRdXk0Rm0tQWxRVC1PeTc0a1BLN0F5YjVRMjRJQjVCR3VreWNB?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T17:42:26.000Z",
       "pub_sort_dt": "2026-09-17 01:42:26"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "日本与印度联合举行军事演习，以应对中国 - The Hill",
+      "title_cn": "日本与印度联合举行军事演习，以应对中国 - The Hill",
+      "url": "https://news.google.com/read/CBMiiAFBVV95cUxPQXBkMG9ROVVBdWlNSTlDNzRZQ19sVnZfZFFYQUJCLUlFQkJhVFdqQWR4M3pfUzgxNEZTck04cTU4WkdCQVlfZ1Z6V0luOGtLLVJCZFpGbUFHSWRFQ2RXR2kxRHBmTTd1cGpuNWRGdm0zMUF0bFN0TUxmUWtpYWQ3aWlHbEN4T3dp0gGOAUFVX3lxTE1acE5TNk9qaWo4UmZKLW5jeWZ6NUJ6NmJYdjROQTFXdk5DWkUxMVZPclhGRTdvbGdWYTNoY213dDBKNGJJNmdKd2pHVl9aYi0yMHk1U1l6b0Q5ZEpsQUtad0V3NVUxZWt4UHBjRjdLUlVzSmFOQUNncUNvQnQzakdnRl9BWm5haHRnbndPcnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T15:00:00.000Z",
+      "pub_sort_dt": "2026-09-16 23:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国正考虑让比亚迪CEO加入习近平与特朗普峰会期间的商务代表团（BYDDF:OTCMKTS） - Seeking Alpha",
+      "title_cn": "中国正考虑让比亚迪CEO加入习近平与特朗普峰会期间的商务聚会（BYDDF:OTCMKTS） - 美股指南",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxQbHVsWUstVzdSWi1oemd0bXc5RXhVc3NmNFgwZFRRUGxzN1plOE84SS0xUFRpODB5VGM1M1YwZjJVcVpFdjNzdkN1QV82VGxIQVA0YXh2d29MVzlkZWRPSTJMajhxQllsZFpveHU3WU56NlZZalhFZUJGSXNQdVk1R29saHZQM3FqcjZlOThXZ0N3V2kwWE9PZC1KdF9qcnZNdU5F?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T14:55:04.000Z",
+      "pub_sort_dt": "2026-09-16 22:55:04"
     },
     {
       "source": "China Buzzing",
@@ -45,7 +77,7 @@
     {
       "source": "China Buzzing",
       "title_en": "沙特输油管道遭袭后，中国油价创下历史新高 - Financial Times",
-      "title_cn": "沙特输油管道遭袭后，中国零件历史新高 - 金融时报",
+      "title_cn": "沙特输油管道遭袭后，中国简化历史新高 - 金融时报",
       "url": "https://news.google.com/read/CBMihAFBVV95cUxNenN5ekEzNkpYSjhXa2lGdU5YaFhDWlZaSGNIMjUyRXNqT29IZ25HR2RzZWoxaVhCVFNUbzYtZTNmY25FSkpoZktXSEVjeUg1Unk5UWFGVU5YSzdMRWZvWXNybXZsYmp0OHFfX0ZUVDJ4X0lsWmJ5c0luTGVETzhVOWJlRG4?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T13:24:01.000Z",
       "pub_sort_dt": "2026-09-16 21:24:01"
@@ -53,45 +85,45 @@
     {
       "source": "China Buzzing",
       "title_en": "中国官员表示，中方愿“维护伊朗的合法权益” - Al Jazeera",
-      "title_cn": "中国官员表示，中方愿“维护伊朗的合法权益” - Al Jazeera",
+      "title_cn": "中国官员表示，中方愿“维护伊朗的合法权益” - 半岛电视台",
       "url": "https://news.google.com/read/CBMiqAFBVV95cUxNMXBrclZWNWhwMXVJUWgxT3kwVjY3ZUctRzlXZlR0aElhbHA0RUtEOWVCM1RVWURDTVg5MUtmTGVxc29yYzBmVGk0cTRubjlPbEZxRGdLNEJiUG12cVlRekU1T1BjTUdfS0w5aHp1OWZud3ozaFZBblhreHhTVXpjelJWZ19hVndjV3packRtME55cUhkekdYVWgwTUVIMHBCckNmYk5WVzPSAa4BQVVfeXFMT3dOb3NRWHk1NUJSSkVyOGpGQjNsb0R3LVVxU3FXdjFkNUZ0aGtqenFOajlHV1lrejhoVVkzeTI5bU5jY082QjhqWEtkOERYeGtJVDdxYmpCalprMUt2cS14aW5YX0dsZ3FFd1NrMTJxTTFWRGdVX0pqZk9zUnlULVR5alVuRDZkdEcwYjZzcFAwSV94dUR2WUVaWlNyYi02WDliUWJxUEllaEZ5bU5n?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T13:18:45.000Z",
       "pub_sort_dt": "2026-09-16 21:18:45"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "观点 中美之间并非处于冷战状态 - The Washington Post",
-      "title_cn": "观点 中美之间并非处于冷战状态 - The Washington Post",
-      "url": "https://news.google.com/read/CBMigAFBVV95cUxPNE1NX1dqTjRwNGtYWFI3NzBDdUJTX3ZvMGlaeGxUTm12N3FCcEpWSzdoTGwzbGdtRG1TV210RldYcUwxek1QNkhSdjRHcUwzX1pZSVZCTTgzWkRHblZiTW1NeWRVRVRRaW95TG42amI0UVdqeUVPeTZTUUQtSW5mXw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T12:17:29.000Z",
-      "pub_sort_dt": "2026-09-16 20:17:29"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在中美峰会前夕，北京接待伊朗外交官，此举被视为向特朗普发出的信号 - The New York Times",
-      "title_cn": "在中美峰会前夕，北京接待伊朗外交官，此举被视为向特朗普发出的信号 - The New York Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPX0hjbjZaVHB6MXdkNU5ZcVFLbzNWankyVk9COVdBSVc0Ym9iRWNKSDE4Y3VSQUt2X1c4bWpXc2NaVEoyR29WVThfWDVUUGdNWG4wdmlJa1JZXzlYVmRZUTRXME1OMGZ1ZWlfOVBBMzVST2dZNldFVXlFTnZWQm0zZi0xNHU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T12:10:11.000Z",
-      "pub_sort_dt": "2026-09-16 20:10:11"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "特朗普与中国在人工智能领域的竞争可能会成为我们这个时代最大的错误 - Fox News",
-      "title_cn": "特朗普与中国在人工智能领域的竞争可能会成为我们这个时代最大的错误 - 福克斯新闻",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxPVWFYZFpBcTlGSGFqTFFEMjU0QTlCOWJpR05yRnN5TVQ3U1dRQm1seDNKZXVDMzU0OG9saUt3NzdTUUliQXA2QkcwWUktdS1BcG43QXh5d0YtU1hSTk9nc1VEdXBaWXE0ckxCLVZGQXh6ZHJ5UzBDc0hyZEZGeXNCb3I3ZTdZZk40UExmZ3pRNnFlS21j0gGaAUFVX3lxTE1hSUVDamxYb0YtdS1pRDdpRE5NV0hCMmRhUGRoM3h1NFVUa0FSU2NlSE9CWmxWaDFOMnQ3RVIxV2gtQXRiS1dvaVpzeTNvRWhSeUdkSVVSa2IwMDBaRExpbk96bE93X2V2LVhiRHZYZV9uaTRYeTJfb3Q5X0RMOXp6NUJhRXVaOU8wckttdkh1NmF1S2tNRWROOFE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T11:00:42.000Z",
-      "pub_sort_dt": "2026-09-16 19:00:42"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "地质学家在中国最大的沙漠地下发现了出人意料的大量水源 - South China Morning Post",
-      "title_cn": "地质学家在中国最大的沙漠地下发现了出人意料的大量水源 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMi2wFBVV95cUxPa3lqaktuNGNZTnZxaGlOX0poU2xRYlRhMms5X0VRM1RVNmpEZnhJdlNRVnBTOEwwUjRZYXBRODNwX2FGWnptWG1MamFPSnBpOG9zVXlEZWE3UDFTalRFSHUzUU42ckV3aVhjd3FvSllXeGV1NVJmUGpqRDFQdjZsdEluQzdNWWFTRTR4akJYSHNxajBEWk1iNGkweHpmZ2E3a0Y5cVVBa2hOX1k3M3lkZ0M3UWVpS215bmx2U1czZjZSZTV5Yk92eUxZeEZvd2hmQ3ZMLUZuTG1NbzDSAdsBQVVfeXFMTVQ3VnRvd0JsQklPb0otU056aVZ3Yzd0WmFFTF9aS3lQLTVadTNnWnJzdHp6S19PQ1dDZ3VIUzA0TWwxc3JHa1JUSTNLUUs5SHpPdUNBa2Q0cnE2LU1JY0daUHRveXJzS0h4Sk9ud19ScVVGd2g0cjdqUzFYajFGNDNnTXdQUmVEdEFTLTRna0Z5M1ZDcENIcGpfV2NDMlRMR3hlWF9XUEN6M3UtUEJwRFpzOWpFczF6LXZwUWpCd0NINWdoNWp3OVNQOGpRR0FKNEFRQU00VG16VGVj?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T10:00:08.000Z",
-      "pub_sort_dt": "2026-09-16 18:00:08"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "中国考虑让比亚迪加入习近平在特朗普峰会期间的首席执行官随行团",
+      "title_cn": "中国让比亚迪加入习近平在特朗普峰会期间考虑的领导人随行团",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/china-considers-byd-to-join-xi-s-ceo-entourage-for-trump-summit",
+      "pub_raw": "2026-09-17T00:46:23.997Z",
+      "pub_sort_dt": "2026-09-17 08:46:23"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "“放任主义”的香港与“五年计划”的交汇",
+      "title_cn": "“放任主义”的香港与“五年计划”的交汇",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-09-16/laissez-faire-hong-kong-meets-the-five-year-plan",
+      "pub_raw": "2026-09-16T23:43:23.979Z",
+      "pub_sort_dt": "2026-09-17 07:43:23"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港效仿美联储，时隔三年多首次加息",
+      "title_cn": "香港效果仿美联储，隔三年多首次加息",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-follows-fed-with-first-rate-hike-in-over-three-years",
+      "pub_raw": "2026-09-16T23:29:10.004Z",
+      "pub_sort_dt": "2026-09-17 07:29:10"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "华为即将推出中国应对英伟达AI芯片霸主地位的最佳方案",
+      "title_cn": "华为即将在中国推出针对英伟达AI芯片霸主地位的最佳方案",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign",
+      "pub_raw": "2026-09-16T23:29:09.997Z",
+      "pub_sort_dt": "2026-09-17 07:29:09"
+    },
     {
       "source": "Reuters",
       "title_en": "据Axios报道，贝森特表示美国愿意与中国就人工智能领域的共同风险进行讨论",
@@ -111,18 +143,10 @@
     {
       "source": "Reuters",
       "title_en": "中国华为预测，到2035年，数十亿个智能代理将主导人工智能流量",
-      "title_cn": "中国华为预测，到2035年，数十亿个智能代理将主导人工智能流量",
+      "title_cn": "中国华为，预测到2035年，存储亿个智能代理将主导人工智能流量",
       "url": "https://reut.rs/4dEJwc6",
       "pub_raw": "2026-09-16T14:48:20.568Z",
       "pub_sort_dt": "2026-09-16 22:48:20"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国考虑让比亚迪加入习近平的CEO代表团，参加与特朗普的峰会",
-      "title_cn": "中国考虑让比亚迪加入习近平的CEO代表团，参加与特朗普的峰会",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/china-considers-byd-to-join-xi-s-ceo-entourage-for-trump-summit",
-      "pub_raw": "2026-09-16T14:01:00.870Z",
-      "pub_sort_dt": "2026-09-16 22:01:00"
     },
     {
       "source": "Financial Times",
@@ -135,7 +159,7 @@
     {
       "source": "Reuters",
       "title_en": "中国最高外交官呼吁伊朗和美国保持克制，重启谈判",
-      "title_cn": "中国最高外交官呼吁伊朗和美国保持克制，重启谈判",
+      "title_cn": "中国最高官员呼吁伊朗和美国保持克制，重启谈判",
       "url": "https://reut.rs/4dfU956",
       "pub_raw": "2026-09-16T10:37:35.322Z",
       "pub_sort_dt": "2026-09-16 18:37:35"
@@ -207,7 +231,7 @@
     {
       "source": "Reuters",
       "title_en": "中国警告称，美国太空武器可能加剧军备竞赛",
-      "title_cn": "中国警告称，美国太空武器可能加剧军备竞赛",
+      "title_cn": "中国警告称，美国太空武器可能增强军备竞赛",
       "url": "https://reut.rs/4xtcpiC",
       "pub_raw": "2026-09-16T05:37:15.010Z",
       "pub_sort_dt": "2026-09-16 13:37:15"
@@ -215,7 +239,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港承诺进一步发挥作为首要离岸人民币中心的角色",
-      "title_cn": "香港承诺进一步发挥作为首要离岸人民币中心的角色",
+      "title_cn": "香港承诺进一步发挥作为离岸人民币中心的作用",
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-vows-to-deepen-role-as-premier-offshore-yuan-hub",
       "pub_raw": "2026-09-16T04:49:25.478Z",
       "pub_sort_dt": "2026-09-16 12:49:25"
@@ -227,40 +251,48 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-plans-faster-tech-hub-development-to-boost-home-supply",
       "pub_raw": "2026-09-16T04:49:25.474Z",
       "pub_sort_dt": "2026-09-16 12:49:25"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着贷款激增时代的结束，中国人民银行行长对信贷萎缩泰然自若",
-      "title_cn": "随着贷款激增时代的结束，中国人民银行行长对信贷萎缩泰然自若",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/pboc-chief-unfazed-by-credit-slump-as-era-of-surging-loans-ends",
-      "pub_raw": "2026-09-16T04:49:25.468Z",
-      "pub_sort_dt": "2026-09-16 12:49:25"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "奥斯特首席执行官表示，欧洲必须针对“不公平”的中国风力涡轮机制造商采取行动",
-      "title_cn": "奥斯特领导表示，欧洲必须针对“不公平”的中国涡轮机制造商采取行动",
-      "url": "https://www.ft.com/content/786b8ce5-3a11-4e34-b811-41ec165f5916?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-16T04:18:21.870Z",
-      "pub_sort_dt": "2026-09-16 12:18:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "实时博客：香港特首李家超将公布香港首个五年规划",
-      "title_cn": "实时博客：香港特首李家超将公布香港首个五年规划",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-09-16/hong-kong-s-five-year-plan-policy-address",
-      "pub_raw": "2026-09-16T03:47:24.728Z",
-      "pub_sort_dt": "2026-09-16 11:47:24"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "观点 中国更重视人工智能领域的胜利，而非安全 - The New York Times",
+      "title_cn": "观点中国更重视人工智能领域的胜利，而不是安全 - 纽约时报",
+      "url": "https://news.google.com/read/CBMifEFVX3lxTE1YaFNGM3puRnZsNHVjV19LOV91RGVTT1dXU0RNdVM3Y084alRWdUJRcGZuZXpvdWV2Qm14SzhOWEJ6T1cwSWotVE5VeWpsd0I2b0JjcFZNcUF0aVhMUVgxaHZhTDRkMDVyOVpvZGk1b1NSUjNXODVod0pvTF8?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T23:00:05.000Z",
+      "pub_sort_dt": "2026-09-17 07:00:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国情报部门就向沙特出售F-35战机一事发出中国窃取机密警告 - nytimes.com",
+      "title_cn": "美国情报部门就向沙特出售F-35战机一事发布中国机密机密警告 - nytimes.com",
+      "url": "https://news.google.com/read/CBMikwFBVV95cUxPeUlGXzA1dTR3WkpSZDI0M1FEUTBfTWlWbll5eng5U3UyejVTY2lyRE1EYkRESzhsSTg2eGxzVGFpTnNjWWFlS1RWZlpDTjlZVFdGLTRRclpUb2Z5QVNMOHlCdXgxYUV5aDg4WGo3ekwyallpNlVSS0dXeUxCOGRyQlIyeElRbkNOeVJRNEV5Y0dtZ3M?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T21:20:47.000Z",
+      "pub_sort_dt": "2026-09-17 05:20:47"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "独家消息：贝森特称，美国愿意与中国讨论人工智能领域的“共同风险” - Axios",
       "title_cn": "独家消息：贝森特称，美国愿意与中国讨论人工智能领域的“共同风险” - Axios",
       "url": "https://news.google.com/read/CBMiekFVX3lxTE1xQkVJVkt5SGpqeEhFZVBXSThYWXotdm1VaFFaVDRSU3pUdXBERENEMF9DOGl1Umc4SjNscW40SEFmTEZ1WGlsdWM1X3VORFB4SnU4TmtRdXk0Rm0tQWxRVC1PeTc0a1BLN0F5YjVRMjRJQjVCR3VreWNB?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T17:42:26.000Z",
       "pub_sort_dt": "2026-09-17 01:42:26"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "日本与印度联合举行军事演习，以应对中国 - The Hill",
+      "title_cn": "日本与印度联合举行军事演习，以应对中国 - The Hill",
+      "url": "https://news.google.com/read/CBMiiAFBVV95cUxPQXBkMG9ROVVBdWlNSTlDNzRZQ19sVnZfZFFYQUJCLUlFQkJhVFdqQWR4M3pfUzgxNEZTck04cTU4WkdCQVlfZ1Z6V0luOGtLLVJCZFpGbUFHSWRFQ2RXR2kxRHBmTTd1cGpuNWRGdm0zMUF0bFN0TUxmUWtpYWQ3aWlHbEN4T3dp0gGOAUFVX3lxTE1acE5TNk9qaWo4UmZKLW5jeWZ6NUJ6NmJYdjROQTFXdk5DWkUxMVZPclhGRTdvbGdWYTNoY213dDBKNGJJNmdKd2pHVl9aYi0yMHk1U1l6b0Q5ZEpsQUtad0V3NVUxZWt4UHBjRjdLUlVzSmFOQUNncUNvQnQzakdnRl9BWm5haHRnbndPcnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T15:00:00.000Z",
+      "pub_sort_dt": "2026-09-16 23:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国正考虑让比亚迪CEO加入习近平与特朗普峰会期间的商务代表团（BYDDF:OTCMKTS） - Seeking Alpha",
+      "title_cn": "中国正考虑让比亚迪CEO加入习近平与特朗普峰会期间的商务聚会（BYDDF:OTCMKTS） - 美股指南",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxQbHVsWUstVzdSWi1oemd0bXc5RXhVc3NmNFgwZFRRUGxzN1plOE84SS0xUFRpODB5VGM1M1YwZjJVcVpFdjNzdkN1QV82VGxIQVA0YXh2d29MVzlkZWRPSTJMajhxQllsZFpveHU3WU56NlZZalhFZUJGSXNQdVk1R29saHZQM3FqcjZlOThXZ0N3V2kwWE9PZC1KdF9qcnZNdU5F?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T14:55:04.000Z",
+      "pub_sort_dt": "2026-09-16 22:55:04"
     },
     {
       "source": "China Buzzing",
@@ -289,7 +321,7 @@
     {
       "source": "China Buzzing",
       "title_en": "沙特输油管道遭袭后，中国油价创下历史新高 - Financial Times",
-      "title_cn": "沙特输油管道遭袭后，中国零件历史新高 - 金融时报",
+      "title_cn": "沙特输油管道遭袭后，中国简化历史新高 - 金融时报",
       "url": "https://news.google.com/read/CBMihAFBVV95cUxNenN5ekEzNkpYSjhXa2lGdU5YaFhDWlZaSGNIMjUyRXNqT29IZ25HR2RzZWoxaVhCVFNUbzYtZTNmY25FSkpoZktXSEVjeUg1Unk5UWFGVU5YSzdMRWZvWXNybXZsYmp0OHFfX0ZUVDJ4X0lsWmJ5c0luTGVETzhVOWJlRG4?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T13:24:01.000Z",
       "pub_sort_dt": "2026-09-16 21:24:01"
@@ -297,42 +329,42 @@
     {
       "source": "China Buzzing",
       "title_en": "中国官员表示，中方愿“维护伊朗的合法权益” - Al Jazeera",
-      "title_cn": "中国官员表示，中方愿“维护伊朗的合法权益” - Al Jazeera",
+      "title_cn": "中国官员表示，中方愿“维护伊朗的合法权益” - 半岛电视台",
       "url": "https://news.google.com/read/CBMiqAFBVV95cUxNMXBrclZWNWhwMXVJUWgxT3kwVjY3ZUctRzlXZlR0aElhbHA0RUtEOWVCM1RVWURDTVg5MUtmTGVxc29yYzBmVGk0cTRubjlPbEZxRGdLNEJiUG12cVlRekU1T1BjTUdfS0w5aHp1OWZud3ozaFZBblhreHhTVXpjelJWZ19hVndjV3packRtME55cUhkekdYVWgwTUVIMHBCckNmYk5WVzPSAa4BQVVfeXFMT3dOb3NRWHk1NUJSSkVyOGpGQjNsb0R3LVVxU3FXdjFkNUZ0aGtqenFOajlHV1lrejhoVVkzeTI5bU5jY082QjhqWEtkOERYeGtJVDdxYmpCalprMUt2cS14aW5YX0dsZ3FFd1NrMTJxTTFWRGdVX0pqZk9zUnlULVR5alVuRDZkdEcwYjZzcFAwSV94dUR2WUVaWlNyYi02WDliUWJxUEllaEZ5bU5n?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T13:18:45.000Z",
       "pub_sort_dt": "2026-09-16 21:18:45"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "观点 中美之间并非处于冷战状态 - The Washington Post",
-      "title_cn": "观点 中美之间并非处于冷战状态 - The Washington Post",
-      "url": "https://news.google.com/read/CBMigAFBVV95cUxPNE1NX1dqTjRwNGtYWFI3NzBDdUJTX3ZvMGlaeGxUTm12N3FCcEpWSzdoTGwzbGdtRG1TV210RldYcUwxek1QNkhSdjRHcUwzX1pZSVZCTTgzWkRHblZiTW1NeWRVRVRRaW95TG42amI0UVdqeUVPeTZTUUQtSW5mXw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T12:17:29.000Z",
-      "pub_sort_dt": "2026-09-16 20:17:29"
+      "source": "Bloomberg",
+      "title_en": "中国考虑让比亚迪加入习近平在特朗普峰会期间的首席执行官随行团",
+      "title_cn": "中国让比亚迪加入习近平在特朗普峰会期间考虑的领导人随行团",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/china-considers-byd-to-join-xi-s-ceo-entourage-for-trump-summit",
+      "pub_raw": "2026-09-17T00:46:23.997Z",
+      "pub_sort_dt": "2026-09-17 08:46:23"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "在中美峰会前夕，北京接待伊朗外交官，此举被视为向特朗普发出的信号 - The New York Times",
-      "title_cn": "在中美峰会前夕，北京接待伊朗外交官，此举被视为向特朗普发出的信号 - The New York Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPX0hjbjZaVHB6MXdkNU5ZcVFLbzNWankyVk9COVdBSVc0Ym9iRWNKSDE4Y3VSQUt2X1c4bWpXc2NaVEoyR29WVThfWDVUUGdNWG4wdmlJa1JZXzlYVmRZUTRXME1OMGZ1ZWlfOVBBMzVST2dZNldFVXlFTnZWQm0zZi0xNHU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T12:10:11.000Z",
-      "pub_sort_dt": "2026-09-16 20:10:11"
+      "source": "Bloomberg",
+      "title_en": "“放任主义”的香港与“五年计划”的交汇",
+      "title_cn": "“放任主义”的香港与“五年计划”的交汇",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-09-16/laissez-faire-hong-kong-meets-the-five-year-plan",
+      "pub_raw": "2026-09-16T23:43:23.979Z",
+      "pub_sort_dt": "2026-09-17 07:43:23"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "特朗普与中国在人工智能领域的竞争可能会成为我们这个时代最大的错误 - Fox News",
-      "title_cn": "特朗普与中国在人工智能领域的竞争可能会成为我们这个时代最大的错误 - 福克斯新闻",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxPVWFYZFpBcTlGSGFqTFFEMjU0QTlCOWJpR05yRnN5TVQ3U1dRQm1seDNKZXVDMzU0OG9saUt3NzdTUUliQXA2QkcwWUktdS1BcG43QXh5d0YtU1hSTk9nc1VEdXBaWXE0ckxCLVZGQXh6ZHJ5UzBDc0hyZEZGeXNCb3I3ZTdZZk40UExmZ3pRNnFlS21j0gGaAUFVX3lxTE1hSUVDamxYb0YtdS1pRDdpRE5NV0hCMmRhUGRoM3h1NFVUa0FSU2NlSE9CWmxWaDFOMnQ3RVIxV2gtQXRiS1dvaVpzeTNvRWhSeUdkSVVSa2IwMDBaRExpbk96bE93X2V2LVhiRHZYZV9uaTRYeTJfb3Q5X0RMOXp6NUJhRXVaOU8wckttdkh1NmF1S2tNRWROOFE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T11:00:42.000Z",
-      "pub_sort_dt": "2026-09-16 19:00:42"
+      "source": "Bloomberg",
+      "title_en": "香港效仿美联储，时隔三年多首次加息",
+      "title_cn": "香港效果仿美联储，隔三年多首次加息",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-follows-fed-with-first-rate-hike-in-over-three-years",
+      "pub_raw": "2026-09-16T23:29:10.004Z",
+      "pub_sort_dt": "2026-09-17 07:29:10"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "地质学家在中国最大的沙漠地下发现了出人意料的大量水源 - South China Morning Post",
-      "title_cn": "地质学家在中国最大的沙漠地下发现了出人意料的大量水源 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMi2wFBVV95cUxPa3lqaktuNGNZTnZxaGlOX0poU2xRYlRhMms5X0VRM1RVNmpEZnhJdlNRVnBTOEwwUjRZYXBRODNwX2FGWnptWG1MamFPSnBpOG9zVXlEZWE3UDFTalRFSHUzUU42ckV3aVhjd3FvSllXeGV1NVJmUGpqRDFQdjZsdEluQzdNWWFTRTR4akJYSHNxajBEWk1iNGkweHpmZ2E3a0Y5cVVBa2hOX1k3M3lkZ0M3UWVpS215bmx2U1czZjZSZTV5Yk92eUxZeEZvd2hmQ3ZMLUZuTG1NbzDSAdsBQVVfeXFMTVQ3VnRvd0JsQklPb0otU056aVZ3Yzd0WmFFTF9aS3lQLTVadTNnWnJzdHp6S19PQ1dDZ3VIUzA0TWwxc3JHa1JUSTNLUUs5SHpPdUNBa2Q0cnE2LU1JY0daUHRveXJzS0h4Sk9ud19ScVVGd2g0cjdqUzFYajFGNDNnTXdQUmVEdEFTLTRna0Z5M1ZDcENIcGpfV2NDMlRMR3hlWF9XUEN6M3UtUEJwRFpzOWpFczF6LXZwUWpCd0NINWdoNWp3OVNQOGpRR0FKNEFRQU00VG16VGVj?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T10:00:08.000Z",
-      "pub_sort_dt": "2026-09-16 18:00:08"
+      "source": "Bloomberg",
+      "title_en": "华为即将推出中国应对英伟达AI芯片霸主地位的最佳方案",
+      "title_cn": "华为即将在中国推出针对英伟达AI芯片霸主地位的最佳方案",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign",
+      "pub_raw": "2026-09-16T23:29:09.997Z",
+      "pub_sort_dt": "2026-09-17 07:29:09"
     },
     {
       "source": "Reuters",
@@ -353,18 +385,10 @@
     {
       "source": "Reuters",
       "title_en": "中国华为预测，到2035年，数十亿个智能代理将主导人工智能流量",
-      "title_cn": "中国华为预测，到2035年，数十亿个智能代理将主导人工智能流量",
+      "title_cn": "中国华为，预测到2035年，存储亿个智能代理将主导人工智能流量",
       "url": "https://reut.rs/4dEJwc6",
       "pub_raw": "2026-09-16T14:48:20.568Z",
       "pub_sort_dt": "2026-09-16 22:48:20"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国考虑让比亚迪加入习近平的CEO代表团，参加与特朗普的峰会",
-      "title_cn": "中国考虑让比亚迪加入习近平的CEO代表团，参加与特朗普的峰会",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/china-considers-byd-to-join-xi-s-ceo-entourage-for-trump-summit",
-      "pub_raw": "2026-09-16T14:01:00.870Z",
-      "pub_sort_dt": "2026-09-16 22:01:00"
     },
     {
       "source": "Financial Times",
@@ -377,7 +401,7 @@
     {
       "source": "Reuters",
       "title_en": "中国最高外交官呼吁伊朗和美国保持克制，重启谈判",
-      "title_cn": "中国最高外交官呼吁伊朗和美国保持克制，重启谈判",
+      "title_cn": "中国最高官员呼吁伊朗和美国保持克制，重启谈判",
       "url": "https://reut.rs/4dfU956",
       "pub_raw": "2026-09-16T10:37:35.322Z",
       "pub_sort_dt": "2026-09-16 18:37:35"
@@ -449,7 +473,7 @@
     {
       "source": "Reuters",
       "title_en": "中国警告称，美国太空武器可能加剧军备竞赛",
-      "title_cn": "中国警告称，美国太空武器可能加剧军备竞赛",
+      "title_cn": "中国警告称，美国太空武器可能增强军备竞赛",
       "url": "https://reut.rs/4xtcpiC",
       "pub_raw": "2026-09-16T05:37:15.010Z",
       "pub_sort_dt": "2026-09-16 13:37:15"
@@ -457,7 +481,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港承诺进一步发挥作为首要离岸人民币中心的角色",
-      "title_cn": "香港承诺进一步发挥作为首要离岸人民币中心的角色",
+      "title_cn": "香港承诺进一步发挥作为离岸人民币中心的作用",
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-vows-to-deepen-role-as-premier-offshore-yuan-hub",
       "pub_raw": "2026-09-16T04:49:25.478Z",
       "pub_sort_dt": "2026-09-16 12:49:25"
@@ -469,30 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-plans-faster-tech-hub-development-to-boost-home-supply",
       "pub_raw": "2026-09-16T04:49:25.474Z",
       "pub_sort_dt": "2026-09-16 12:49:25"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着贷款激增时代的结束，中国人民银行行长对信贷萎缩泰然自若",
-      "title_cn": "随着贷款激增时代的结束，中国人民银行行长对信贷萎缩泰然自若",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/pboc-chief-unfazed-by-credit-slump-as-era-of-surging-loans-ends",
-      "pub_raw": "2026-09-16T04:49:25.468Z",
-      "pub_sort_dt": "2026-09-16 12:49:25"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "奥斯特首席执行官表示，欧洲必须针对“不公平”的中国风力涡轮机制造商采取行动",
-      "title_cn": "奥斯特领导表示，欧洲必须针对“不公平”的中国涡轮机制造商采取行动",
-      "url": "https://www.ft.com/content/786b8ce5-3a11-4e34-b811-41ec165f5916?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-16T04:18:21.870Z",
-      "pub_sort_dt": "2026-09-16 12:18:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "实时博客：香港特首李家超将公布香港首个五年规划",
-      "title_cn": "实时博客：香港特首李家超将公布香港首个五年规划",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-09-16/hong-kong-s-five-year-plan-policy-address",
-      "pub_raw": "2026-09-16T03:47:24.728Z",
-      "pub_sort_dt": "2026-09-16 11:47:24"
     }
   ]
 }
