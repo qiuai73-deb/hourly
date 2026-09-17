@@ -1,15 +1,55 @@
 {
-  "update_cst": "2026-09-17 09:01:06 北京时间",
+  "update_cst": "2026-09-17 12:01:01 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 11,
+    "Bloomberg": 10,
     "Financial Times": 2,
     "Wall Street Journal": 1,
-    "Reuters": 6
+    "Reuters": 7
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国华为计划于2027年推出新款AI芯片，目标直指英伟达 - Reuters",
+      "title_cn": "中国华为计划于2027年推出新款AI芯片，目标直指英伟达 - 路透社",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T02:40:00.000Z",
+      "pub_sort_dt": "2026-09-17 10:40:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "突发 华为发布最新技术，旨在提升AI算力，减少中国对英伟达的依赖 - South China Morning Post",
+      "title_cn": "突发华为发布最新技术，旨在提升AI算力，减少中国对英伟达的依赖 - 南华早报",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxNS2xqNWNSTm9BZ3RSdHZMbFVIWWlDOF9tdnI1Y0cxeGg0QXlWaGxNdHh4RWY3c1FCS2Z1NTM3Z3Bmc3BWYnpQYWF0S0VEMUNGQVRSR0hZVTNkRXhZSEEtczl0cDlwSEZQS1VydnF0VXgyWVdKSU9JNGNVMUpZN0NPR05GYWFYWW5ReEtFOTBxdHNjeTdpUWJrWkhCMDRIU2xmR1NzLXNkRnJKc2xwRFE4dUVhZndOVVVoYlpuSVVTOGItZnZt?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T02:26:07.000Z",
+      "pub_sort_dt": "2026-09-17 10:26:07"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国的瓷都将拥有数百年历史的传统传承给新一代 - AP News",
+      "title_cn": "中国的瓷器都将拥有数百年历史的传统传承给新一代 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxOU0steTNndDFfTVpOZG1MNFpVenNpY3hPd2t2SWt3dWdUb0lwTTh1N25BVXJaQjRHMzhoTTBzOUdQUjFFOEstOUFaSFNNS2JISnNDZGNSa0g4ZFRKbHEtRWE2REpUTFdhNjROaE9XZUNETXpXMi1UWFBxajBmWXJxUnpTdkpDQkRxRnFVM0hqbEQ5cE9Ld0MzQUk3MVBEVUI2VHJvOA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T01:11:00.000Z",
+      "pub_sort_dt": "2026-09-17 09:11:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "《艾格》中的爱情：中国借助经典英国小说向青少年传授浪漫情怀 - CNN",
+      "title_cn": "《艾格》中的爱情：中国借助经典英国小说向青少年传授浪漫情怀 - CNN",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTE4waW03cm9MN3JrZExEWE52eGxGZFgteEUyUkZpWktZa3FjLW5pZ1g4SnFQR1JqLV9uU1Z6TnRzSXBWNW5PXzNsUjl3TkRBQ05KTWpUeEtyZGEwcWZJVlRyX0xKQXJOYmE3QmNuVzNfRjBxNVlnRnN4LTZING5rdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T00:00:00.000Z",
+      "pub_sort_dt": "2026-09-17 08:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "希尔斯伯勒一男子在中国间谍案中认罪 - OregonLive.com",
+      "title_cn": "希尔斯伯勒一男子在中国间谍案中认罪 - OregonLive.com",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxPYUJfSXNZdS1kN0J3Uk9WdVpDZGRlMWxITVluN1BxMEE0aktkX2MtLVlZSWdLTnVJVUFrQ3E3cnAxT3hldmRxeEpnUDlHbmJMbWpIcXRCRkV3bEtOZURfOTl0YkFKQmFzN2VNZVFTdjI1bWRrSlR1ZUYzV1FyRzlQcE02QVZWOGhFNnRyam5UWXRLOTR6eWlxMng1aDFsUdIBsgFBVV95cUxNN1ozay1OaDgyRzVLUWFoal9KaWZ6SUhmdEVuMXpFN04yTmFNV3ZwQVE4WGtfNXI5Y3ZlT3NKazJmdEVwQ2RjeTgyS0FYZzhsUUJ5cDR4R1RxUFlKNFVpX2hRTUxiSFMwX29rbnB5WHRER21DU2c2ZWxsWU5ERW0wQTdULWxWQk11Q2I2SVdRa0hLd3hnNWY1WFJMM3V2dTRzRGE1Mjg3N203UXh1VWY2ZmFB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T23:34:00.000Z",
+      "pub_sort_dt": "2026-09-17 07:34:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "观点 中国更重视人工智能领域的胜利，而非安全 - The New York Times",
@@ -17,6 +57,14 @@
       "url": "https://news.google.com/read/CBMifEFVX3lxTE1YaFNGM3puRnZsNHVjV19LOV91RGVTT1dXU0RNdVM3Y084alRWdUJRcGZuZXpvdWV2Qm14SzhOWEJ6T1cwSWotVE5VeWpsd0I2b0JjcFZNcUF0aVhMUVgxaHZhTDRkMDVyOVpvZGk1b1NSUjNXODVod0pvTF8?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T23:00:05.000Z",
       "pub_sort_dt": "2026-09-17 07:00:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国国会通过了一项针对俄罗斯主要能源买家的法案——中国和印度 - South China Morning Post",
+      "title_cn": "美国国会通过了一项针对俄罗斯主要能源买家的法案——中国和印度 - 南华早报",
+      "url": "https://news.google.com/read/CBMi4AFBVV95cUxPV0xaZ3d0ajUyQUY0OFNpTFZmV1IxVjJSZ0ZxMFItS2Q1SnhuTGNPOTFQS2s0Qmx4eGZETk9YaU5xaTBnejBTUHFMbDlBekU5S29HQ2pJQ0xtTkZ4ZEdFb1RTblUzclJjRGFURTFLdGJFNnVpTHNMOW9mUkdrZ3FZdTBudGlpWW95NGZCeGtJbC1NQlhKTThZTU90TW9uZlU2SmFHZm53V21qQnVMbWU1cm5LT29DSkNldF90WkNBYW5HWldFTE81bDVTbzhhZUVLb1FRM1FkVm9RaUtEZ3RuTtIB4AFBVV95cUxQcHZGbDJZdWNhYjdvaVVNMTc5MTNRdG1hUlJzRFBSaFlPZDVkVGNjUTd3ZUtZbkRfOGRwbExsc2s0SnREZGZqV1gxbzEwRkZrbm8teHlpVTBnbnFWYUxiNDU2ekxKTGdjOFJsU0E3SFpwUlZsYkVoanA0UUpqZ1RWUmRSWFMzNURUNjBqT0ZFZFZxMkp2VFAwal9KN19MLXhUdWJMOUVBb2hWMldxMXVXNmpLZWlZODNIMzY5c0FmVzFtN09tMy1sV212N2hfcWhVUnRvbU5uT0lyZktOMU4xWA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T22:50:16.000Z",
+      "pub_sort_dt": "2026-09-17 06:50:16"
     },
     {
       "source": "China Buzzing",
@@ -28,70 +76,38 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "制药公司已配合议员对中国临床试验点的调查 - Endpoints News",
+      "title_cn": "制药公司已配合公众对中国临床试验点的调查 - Endpoints News",
+      "url": "https://news.google.com/read/CBMiigFBVV95cUxOM21TeU5NSGF4OURoMUJBa1YxR1Rlc0FQNmMzY2I1SjVENEU5QldoWkxhVmRwODdyQTh2VnNFajV6Sl9hUk9WTU9RU0lFa2hTb3JySkxDS0dQNDdlcjZXbFZ3YkdQSWdncDdVYV8xUm5USU9yNE1NUGZ3djNrczFOU2ZFUEU1V1dUMnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T18:30:00.000Z",
+      "pub_sort_dt": "2026-09-17 02:30:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "独家消息：贝森特称，美国愿意与中国讨论人工智能领域的“共同风险” - Axios",
-      "title_cn": "独家消息：贝森特称，美国愿意与中国讨论人工智能领域的“共同风险” - Axios",
+      "title_cn": "独家消息：贝森特称，美国愿意与中国人工智能领域的“共同风险” - Axios",
       "url": "https://news.google.com/read/CBMiekFVX3lxTE1xQkVJVkt5SGpqeEhFZVBXSThYWXotdm1VaFFaVDRSU3pUdXBERENEMF9DOGl1Umc4SjNscW40SEFmTEZ1WGlsdWM1X3VORFB4SnU4TmtRdXk0Rm0tQWxRVC1PeTc0a1BLN0F5YjVRMjRJQjVCR3VreWNB?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T17:42:26.000Z",
       "pub_sort_dt": "2026-09-17 01:42:26"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "日本与印度联合举行军事演习，以应对中国 - The Hill",
-      "title_cn": "日本与印度联合举行军事演习，以应对中国 - The Hill",
-      "url": "https://news.google.com/read/CBMiiAFBVV95cUxPQXBkMG9ROVVBdWlNSTlDNzRZQ19sVnZfZFFYQUJCLUlFQkJhVFdqQWR4M3pfUzgxNEZTck04cTU4WkdCQVlfZ1Z6V0luOGtLLVJCZFpGbUFHSWRFQ2RXR2kxRHBmTTd1cGpuNWRGdm0zMUF0bFN0TUxmUWtpYWQ3aWlHbEN4T3dp0gGOAUFVX3lxTE1acE5TNk9qaWo4UmZKLW5jeWZ6NUJ6NmJYdjROQTFXdk5DWkUxMVZPclhGRTdvbGdWYTNoY213dDBKNGJJNmdKd2pHVl9aYi0yMHk1U1l6b0Q5ZEpsQUtad0V3NVUxZWt4UHBjRjdLUlVzSmFOQUNncUNvQnQzakdnRl9BWm5haHRnbndPcnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T15:00:00.000Z",
-      "pub_sort_dt": "2026-09-16 23:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国正考虑让比亚迪CEO加入习近平与特朗普峰会期间的商务代表团（BYDDF:OTCMKTS） - Seeking Alpha",
-      "title_cn": "中国正考虑让比亚迪CEO加入习近平与特朗普峰会期间的商务聚会（BYDDF:OTCMKTS） - 美股指南",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxQbHVsWUstVzdSWi1oemd0bXc5RXhVc3NmNFgwZFRRUGxzN1plOE84SS0xUFRpODB5VGM1M1YwZjJVcVpFdjNzdkN1QV82VGxIQVA0YXh2d29MVzlkZWRPSTJMajhxQllsZFpveHU3WU56NlZZalhFZUJGSXNQdVk1R29saHZQM3FqcjZlOThXZ0N3V2kwWE9PZC1KdF9qcnZNdU5F?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T14:55:04.000Z",
-      "pub_sort_dt": "2026-09-16 22:55:04"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国考虑让比亚迪加入习近平的CEO代表团，参加与特朗普的峰会 - Bloomberg.com",
-      "title_cn": "中国让比亚迪加入习近平首席执行官两周，参加与特朗普的峰会 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxOUTNXX0hncFY1c3NtaHItUGhXVkZ1RUlsSzZoN2JLTU1zTWE3WlVZUFR4ZDZjdl9yRDBRaUQ0eVJMZkx5bXg5Q1UzRzVfYjlLMkJFaEd4YzVVQVJucUFvT0lyamxhRm56Q3RqamtYWDJrd0RyNG1LUGZEcHBKNlNLeE1Pd3dOZWZOaXlwM3NKUjQ1WlhQdTBqMUlNOUhGcHFjY29lRnZPaUE4ZUwyRVBLNFhmc1Q?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T13:37:49.000Z",
-      "pub_sort_dt": "2026-09-16 21:37:49"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国最高外交官呼吁伊朗和美国保持克制，重启谈判 - reuters.com",
-      "title_cn": "中国最高官员呼吁伊朗和美国保持克制，重启谈判 - reuters.com",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxPeURxZkdzcC1ZX3IxSWM5TTBLc3dZYXZrYlZhcXc4LXVDU3BKeEx5Y0xRWi04dUk3TE9LN0VGbjNLRlN6UXExckR0b1BZZGh6cEFiOEE0VlExSHh6Q29lcFlYX01ZaWlOT1E4Wl9aYnhORHRZcHFKZkJSWDZSd0NtOVhtMnU5dUpROW1aTkdYMVFWQmFIWUlZQ0dPVlhIZzU0dkktSXVzelAzU1BfR3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T13:34:05.000Z",
-      "pub_sort_dt": "2026-09-16 21:34:05"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国正考虑争取建立亚太经合组织自由贸易区，以此挑衅美国、吸引亚洲各国 - South China Morning Post",
-      "title_cn": "中国正考虑争取建立亚太经合组织自由贸易区，以此挑衅美国、吸引亚洲各地 - 南华早报",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPdkFRYUlrdXdmY1gwRlBpNVpyRW1MbjY2b1V0WHN0NE9ibDNEeHcyZGlqNDA4d085TzZXNjY2OFdrOUUyLUNJMWpLVVcwWFVCZlpaZVR0Z2JTYVhNV19mQnFZNXJHNEc4bWN4dXhPYlZOSGJIM1poS0VNcjJTMkctb0RMOFBuZ01DTFI1cFZwS0ZRaGNQZDVpQnZGZ3o4eVZhUER5VHJDVXc5S0VhVUUzN2h4NlljS1VIMFpTRdIBvAFBVV95cUxPVmFOdDZKYWFkMTFfQjZ6M29sYl9vTzlvT2VhUXZRSVdvSlNQcDZLMXdpQXhMeGYyQ2RPMWNVUFZEbFBkYTVqWmREakY1UThDQkc1WWJ4X3VmcV9xeUIyQWN1NXRGU3EtZHh2ZDd6dVpzcHhVNGlUUDNHS1ZjdGM4b19xeTBCYXhodXlIcUdmR2wtSXoyRGxjRFFrSFE4SlY4amJtVzFrWWFVWkJjbVM2ZzRubmc2U0dLVjVXcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T13:30:05.000Z",
-      "pub_sort_dt": "2026-09-16 21:30:05"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "沙特输油管道遭袭后，中国油价创下历史新高 - Financial Times",
-      "title_cn": "沙特输油管道遭袭后，中国简化历史新高 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNenN5ekEzNkpYSjhXa2lGdU5YaFhDWlZaSGNIMjUyRXNqT29IZ25HR2RzZWoxaVhCVFNUbzYtZTNmY25FSkpoZktXSEVjeUg1Unk5UWFGVU5YSzdMRWZvWXNybXZsYmp0OHFfX0ZUVDJ4X0lsWmJ5c0luTGVETzhVOWJlRG4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T13:24:01.000Z",
-      "pub_sort_dt": "2026-09-16 21:24:01"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国官员表示，中方愿“维护伊朗的合法权益” - Al Jazeera",
-      "title_cn": "中国官员表示，中方愿“维护伊朗的合法权益” - 半岛电视台",
-      "url": "https://news.google.com/read/CBMiqAFBVV95cUxNMXBrclZWNWhwMXVJUWgxT3kwVjY3ZUctRzlXZlR0aElhbHA0RUtEOWVCM1RVWURDTVg5MUtmTGVxc29yYzBmVGk0cTRubjlPbEZxRGdLNEJiUG12cVlRekU1T1BjTUdfS0w5aHp1OWZud3ozaFZBblhreHhTVXpjelJWZ19hVndjV3packRtME55cUhkekdYVWgwTUVIMHBCckNmYk5WVzPSAa4BQVVfeXFMT3dOb3NRWHk1NUJSSkVyOGpGQjNsb0R3LVVxU3FXdjFkNUZ0aGtqenFOajlHV1lrejhoVVkzeTI5bU5jY082QjhqWEtkOERYeGtJVDdxYmpCalprMUt2cS14aW5YX0dsZ3FFd1NrMTJxTTFWRGdVX0pqZk9zUnlULVR5alVuRDZkdEcwYjZzcFAwSV94dUR2WUVaWlNyYi02WDliUWJxUEllaEZ5bU5n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T13:18:45.000Z",
-      "pub_sort_dt": "2026-09-16 21:18:45"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "美国盟友担忧特朗普在与习近平的交锋中会如何打“台湾牌”",
+      "title_cn": "美国白宫担心特朗普在与习近平的交锋中会如何打“台湾牌”",
+      "url": "https://reut.rs/4gVUtIB",
+      "pub_raw": "2026-09-17T02:51:25.940Z",
+      "pub_sort_dt": "2026-09-17 10:51:25"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾通胀率放缓，料将维持鹰派立场",
+      "title_cn": "台湾通胀率预期，料将维持鹰派数据",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-poised-for-hawkish-hold-after-headline-inflation-slowed",
+      "pub_raw": "2026-09-17T01:02:01.591Z",
+      "pub_sort_dt": "2026-09-17 09:02:01"
+    },
     {
       "source": "Bloomberg",
       "title_en": "中国考虑让比亚迪加入习近平在特朗普峰会期间的首席执行官随行团",
@@ -235,32 +251,64 @@
       "url": "https://reut.rs/4xtcpiC",
       "pub_raw": "2026-09-16T05:37:15.010Z",
       "pub_sort_dt": "2026-09-16 13:37:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港承诺进一步发挥作为首要离岸人民币中心的角色",
-      "title_cn": "香港承诺进一步发挥作为离岸人民币中心的作用",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-vows-to-deepen-role-as-premier-offshore-yuan-hub",
-      "pub_raw": "2026-09-16T04:49:25.478Z",
-      "pub_sort_dt": "2026-09-16 12:49:25"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港计划加快科技枢纽建设，以增加住房供应",
-      "title_cn": "香港计划加快科技枢纽建设，以增加住房供应",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-plans-faster-tech-hub-development-to-boost-home-supply",
-      "pub_raw": "2026-09-16T04:49:25.474Z",
-      "pub_sort_dt": "2026-09-16 12:49:25"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "中国华为计划于2027年推出新款AI芯片，目标直指英伟达 - Reuters",
+      "title_cn": "中国华为计划于2027年推出新款AI芯片，目标直指英伟达 - 路透社",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T02:40:00.000Z",
+      "pub_sort_dt": "2026-09-17 10:40:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "突发 华为发布最新技术，旨在提升AI算力，减少中国对英伟达的依赖 - South China Morning Post",
+      "title_cn": "突发华为发布最新技术，旨在提升AI算力，减少中国对英伟达的依赖 - 南华早报",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxNS2xqNWNSTm9BZ3RSdHZMbFVIWWlDOF9tdnI1Y0cxeGg0QXlWaGxNdHh4RWY3c1FCS2Z1NTM3Z3Bmc3BWYnpQYWF0S0VEMUNGQVRSR0hZVTNkRXhZSEEtczl0cDlwSEZQS1VydnF0VXgyWVdKSU9JNGNVMUpZN0NPR05GYWFYWW5ReEtFOTBxdHNjeTdpUWJrWkhCMDRIU2xmR1NzLXNkRnJKc2xwRFE4dUVhZndOVVVoYlpuSVVTOGItZnZt?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T02:26:07.000Z",
+      "pub_sort_dt": "2026-09-17 10:26:07"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国的瓷都将拥有数百年历史的传统传承给新一代 - AP News",
+      "title_cn": "中国的瓷器都将拥有数百年历史的传统传承给新一代 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxOU0steTNndDFfTVpOZG1MNFpVenNpY3hPd2t2SWt3dWdUb0lwTTh1N25BVXJaQjRHMzhoTTBzOUdQUjFFOEstOUFaSFNNS2JISnNDZGNSa0g4ZFRKbHEtRWE2REpUTFdhNjROaE9XZUNETXpXMi1UWFBxajBmWXJxUnpTdkpDQkRxRnFVM0hqbEQ5cE9Ld0MzQUk3MVBEVUI2VHJvOA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T01:11:00.000Z",
+      "pub_sort_dt": "2026-09-17 09:11:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "《艾格》中的爱情：中国借助经典英国小说向青少年传授浪漫情怀 - CNN",
+      "title_cn": "《艾格》中的爱情：中国借助经典英国小说向青少年传授浪漫情怀 - CNN",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTE4waW03cm9MN3JrZExEWE52eGxGZFgteEUyUkZpWktZa3FjLW5pZ1g4SnFQR1JqLV9uU1Z6TnRzSXBWNW5PXzNsUjl3TkRBQ05KTWpUeEtyZGEwcWZJVlRyX0xKQXJOYmE3QmNuVzNfRjBxNVlnRnN4LTZING5rdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-17T00:00:00.000Z",
+      "pub_sort_dt": "2026-09-17 08:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "希尔斯伯勒一男子在中国间谍案中认罪 - OregonLive.com",
+      "title_cn": "希尔斯伯勒一男子在中国间谍案中认罪 - OregonLive.com",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxPYUJfSXNZdS1kN0J3Uk9WdVpDZGRlMWxITVluN1BxMEE0aktkX2MtLVlZSWdLTnVJVUFrQ3E3cnAxT3hldmRxeEpnUDlHbmJMbWpIcXRCRkV3bEtOZURfOTl0YkFKQmFzN2VNZVFTdjI1bWRrSlR1ZUYzV1FyRzlQcE02QVZWOGhFNnRyam5UWXRLOTR6eWlxMng1aDFsUdIBsgFBVV95cUxNN1ozay1OaDgyRzVLUWFoal9KaWZ6SUhmdEVuMXpFN04yTmFNV3ZwQVE4WGtfNXI5Y3ZlT3NKazJmdEVwQ2RjeTgyS0FYZzhsUUJ5cDR4R1RxUFlKNFVpX2hRTUxiSFMwX29rbnB5WHRER21DU2c2ZWxsWU5ERW0wQTdULWxWQk11Q2I2SVdRa0hLd3hnNWY1WFJMM3V2dTRzRGE1Mjg3N203UXh1VWY2ZmFB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T23:34:00.000Z",
+      "pub_sort_dt": "2026-09-17 07:34:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "观点 中国更重视人工智能领域的胜利，而非安全 - The New York Times",
       "title_cn": "观点中国更重视人工智能领域的胜利，而不是安全 - 纽约时报",
       "url": "https://news.google.com/read/CBMifEFVX3lxTE1YaFNGM3puRnZsNHVjV19LOV91RGVTT1dXU0RNdVM3Y084alRWdUJRcGZuZXpvdWV2Qm14SzhOWEJ6T1cwSWotVE5VeWpsd0I2b0JjcFZNcUF0aVhMUVgxaHZhTDRkMDVyOVpvZGk1b1NSUjNXODVod0pvTF8?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T23:00:05.000Z",
       "pub_sort_dt": "2026-09-17 07:00:05"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国国会通过了一项针对俄罗斯主要能源买家的法案——中国和印度 - South China Morning Post",
+      "title_cn": "美国国会通过了一项针对俄罗斯主要能源买家的法案——中国和印度 - 南华早报",
+      "url": "https://news.google.com/read/CBMi4AFBVV95cUxPV0xaZ3d0ajUyQUY0OFNpTFZmV1IxVjJSZ0ZxMFItS2Q1SnhuTGNPOTFQS2s0Qmx4eGZETk9YaU5xaTBnejBTUHFMbDlBekU5S29HQ2pJQ0xtTkZ4ZEdFb1RTblUzclJjRGFURTFLdGJFNnVpTHNMOW9mUkdrZ3FZdTBudGlpWW95NGZCeGtJbC1NQlhKTThZTU90TW9uZlU2SmFHZm53V21qQnVMbWU1cm5LT29DSkNldF90WkNBYW5HWldFTE81bDVTbzhhZUVLb1FRM1FkVm9RaUtEZ3RuTtIB4AFBVV95cUxQcHZGbDJZdWNhYjdvaVVNMTc5MTNRdG1hUlJzRFBSaFlPZDVkVGNjUTd3ZUtZbkRfOGRwbExsc2s0SnREZGZqV1gxbzEwRkZrbm8teHlpVTBnbnFWYUxiNDU2ekxKTGdjOFJsU0E3SFpwUlZsYkVoanA0UUpqZ1RWUmRSWFMzNURUNjBqT0ZFZFZxMkp2VFAwal9KN19MLXhUdWJMOUVBb2hWMldxMXVXNmpLZWlZODNIMzY5c0FmVzFtN09tMy1sV212N2hfcWhVUnRvbU5uT0lyZktOMU4xWA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T22:50:16.000Z",
+      "pub_sort_dt": "2026-09-17 06:50:16"
     },
     {
       "source": "China Buzzing",
@@ -272,67 +320,35 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "制药公司已配合议员对中国临床试验点的调查 - Endpoints News",
+      "title_cn": "制药公司已配合公众对中国临床试验点的调查 - Endpoints News",
+      "url": "https://news.google.com/read/CBMiigFBVV95cUxOM21TeU5NSGF4OURoMUJBa1YxR1Rlc0FQNmMzY2I1SjVENEU5QldoWkxhVmRwODdyQTh2VnNFajV6Sl9hUk9WTU9RU0lFa2hTb3JySkxDS0dQNDdlcjZXbFZ3YkdQSWdncDdVYV8xUm5USU9yNE1NUGZ3djNrczFOU2ZFUEU1V1dUMnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-16T18:30:00.000Z",
+      "pub_sort_dt": "2026-09-17 02:30:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "独家消息：贝森特称，美国愿意与中国讨论人工智能领域的“共同风险” - Axios",
-      "title_cn": "独家消息：贝森特称，美国愿意与中国讨论人工智能领域的“共同风险” - Axios",
+      "title_cn": "独家消息：贝森特称，美国愿意与中国人工智能领域的“共同风险” - Axios",
       "url": "https://news.google.com/read/CBMiekFVX3lxTE1xQkVJVkt5SGpqeEhFZVBXSThYWXotdm1VaFFaVDRSU3pUdXBERENEMF9DOGl1Umc4SjNscW40SEFmTEZ1WGlsdWM1X3VORFB4SnU4TmtRdXk0Rm0tQWxRVC1PeTc0a1BLN0F5YjVRMjRJQjVCR3VreWNB?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-16T17:42:26.000Z",
       "pub_sort_dt": "2026-09-17 01:42:26"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "日本与印度联合举行军事演习，以应对中国 - The Hill",
-      "title_cn": "日本与印度联合举行军事演习，以应对中国 - The Hill",
-      "url": "https://news.google.com/read/CBMiiAFBVV95cUxPQXBkMG9ROVVBdWlNSTlDNzRZQ19sVnZfZFFYQUJCLUlFQkJhVFdqQWR4M3pfUzgxNEZTck04cTU4WkdCQVlfZ1Z6V0luOGtLLVJCZFpGbUFHSWRFQ2RXR2kxRHBmTTd1cGpuNWRGdm0zMUF0bFN0TUxmUWtpYWQ3aWlHbEN4T3dp0gGOAUFVX3lxTE1acE5TNk9qaWo4UmZKLW5jeWZ6NUJ6NmJYdjROQTFXdk5DWkUxMVZPclhGRTdvbGdWYTNoY213dDBKNGJJNmdKd2pHVl9aYi0yMHk1U1l6b0Q5ZEpsQUtad0V3NVUxZWt4UHBjRjdLUlVzSmFOQUNncUNvQnQzakdnRl9BWm5haHRnbndPcnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T15:00:00.000Z",
-      "pub_sort_dt": "2026-09-16 23:00:00"
+      "source": "Reuters",
+      "title_en": "美国盟友担忧特朗普在与习近平的交锋中会如何打“台湾牌”",
+      "title_cn": "美国白宫担心特朗普在与习近平的交锋中会如何打“台湾牌”",
+      "url": "https://reut.rs/4gVUtIB",
+      "pub_raw": "2026-09-17T02:51:25.940Z",
+      "pub_sort_dt": "2026-09-17 10:51:25"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国正考虑让比亚迪CEO加入习近平与特朗普峰会期间的商务代表团（BYDDF:OTCMKTS） - Seeking Alpha",
-      "title_cn": "中国正考虑让比亚迪CEO加入习近平与特朗普峰会期间的商务聚会（BYDDF:OTCMKTS） - 美股指南",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxQbHVsWUstVzdSWi1oemd0bXc5RXhVc3NmNFgwZFRRUGxzN1plOE84SS0xUFRpODB5VGM1M1YwZjJVcVpFdjNzdkN1QV82VGxIQVA0YXh2d29MVzlkZWRPSTJMajhxQllsZFpveHU3WU56NlZZalhFZUJGSXNQdVk1R29saHZQM3FqcjZlOThXZ0N3V2kwWE9PZC1KdF9qcnZNdU5F?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T14:55:04.000Z",
-      "pub_sort_dt": "2026-09-16 22:55:04"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国考虑让比亚迪加入习近平的CEO代表团，参加与特朗普的峰会 - Bloomberg.com",
-      "title_cn": "中国让比亚迪加入习近平首席执行官两周，参加与特朗普的峰会 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxOUTNXX0hncFY1c3NtaHItUGhXVkZ1RUlsSzZoN2JLTU1zTWE3WlVZUFR4ZDZjdl9yRDBRaUQ0eVJMZkx5bXg5Q1UzRzVfYjlLMkJFaEd4YzVVQVJucUFvT0lyamxhRm56Q3RqamtYWDJrd0RyNG1LUGZEcHBKNlNLeE1Pd3dOZWZOaXlwM3NKUjQ1WlhQdTBqMUlNOUhGcHFjY29lRnZPaUE4ZUwyRVBLNFhmc1Q?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T13:37:49.000Z",
-      "pub_sort_dt": "2026-09-16 21:37:49"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国最高外交官呼吁伊朗和美国保持克制，重启谈判 - reuters.com",
-      "title_cn": "中国最高官员呼吁伊朗和美国保持克制，重启谈判 - reuters.com",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxPeURxZkdzcC1ZX3IxSWM5TTBLc3dZYXZrYlZhcXc4LXVDU3BKeEx5Y0xRWi04dUk3TE9LN0VGbjNLRlN6UXExckR0b1BZZGh6cEFiOEE0VlExSHh6Q29lcFlYX01ZaWlOT1E4Wl9aYnhORHRZcHFKZkJSWDZSd0NtOVhtMnU5dUpROW1aTkdYMVFWQmFIWUlZQ0dPVlhIZzU0dkktSXVzelAzU1BfR3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T13:34:05.000Z",
-      "pub_sort_dt": "2026-09-16 21:34:05"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国正考虑争取建立亚太经合组织自由贸易区，以此挑衅美国、吸引亚洲各国 - South China Morning Post",
-      "title_cn": "中国正考虑争取建立亚太经合组织自由贸易区，以此挑衅美国、吸引亚洲各地 - 南华早报",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPdkFRYUlrdXdmY1gwRlBpNVpyRW1MbjY2b1V0WHN0NE9ibDNEeHcyZGlqNDA4d085TzZXNjY2OFdrOUUyLUNJMWpLVVcwWFVCZlpaZVR0Z2JTYVhNV19mQnFZNXJHNEc4bWN4dXhPYlZOSGJIM1poS0VNcjJTMkctb0RMOFBuZ01DTFI1cFZwS0ZRaGNQZDVpQnZGZ3o4eVZhUER5VHJDVXc5S0VhVUUzN2h4NlljS1VIMFpTRdIBvAFBVV95cUxPVmFOdDZKYWFkMTFfQjZ6M29sYl9vTzlvT2VhUXZRSVdvSlNQcDZLMXdpQXhMeGYyQ2RPMWNVUFZEbFBkYTVqWmREakY1UThDQkc1WWJ4X3VmcV9xeUIyQWN1NXRGU3EtZHh2ZDd6dVpzcHhVNGlUUDNHS1ZjdGM4b19xeTBCYXhodXlIcUdmR2wtSXoyRGxjRFFrSFE4SlY4amJtVzFrWWFVWkJjbVM2ZzRubmc2U0dLVjVXcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T13:30:05.000Z",
-      "pub_sort_dt": "2026-09-16 21:30:05"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "沙特输油管道遭袭后，中国油价创下历史新高 - Financial Times",
-      "title_cn": "沙特输油管道遭袭后，中国简化历史新高 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNenN5ekEzNkpYSjhXa2lGdU5YaFhDWlZaSGNIMjUyRXNqT29IZ25HR2RzZWoxaVhCVFNUbzYtZTNmY25FSkpoZktXSEVjeUg1Unk5UWFGVU5YSzdMRWZvWXNybXZsYmp0OHFfX0ZUVDJ4X0lsWmJ5c0luTGVETzhVOWJlRG4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T13:24:01.000Z",
-      "pub_sort_dt": "2026-09-16 21:24:01"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国官员表示，中方愿“维护伊朗的合法权益” - Al Jazeera",
-      "title_cn": "中国官员表示，中方愿“维护伊朗的合法权益” - 半岛电视台",
-      "url": "https://news.google.com/read/CBMiqAFBVV95cUxNMXBrclZWNWhwMXVJUWgxT3kwVjY3ZUctRzlXZlR0aElhbHA0RUtEOWVCM1RVWURDTVg5MUtmTGVxc29yYzBmVGk0cTRubjlPbEZxRGdLNEJiUG12cVlRekU1T1BjTUdfS0w5aHp1OWZud3ozaFZBblhreHhTVXpjelJWZ19hVndjV3packRtME55cUhkekdYVWgwTUVIMHBCckNmYk5WVzPSAa4BQVVfeXFMT3dOb3NRWHk1NUJSSkVyOGpGQjNsb0R3LVVxU3FXdjFkNUZ0aGtqenFOajlHV1lrejhoVVkzeTI5bU5jY082QjhqWEtkOERYeGtJVDdxYmpCalprMUt2cS14aW5YX0dsZ3FFd1NrMTJxTTFWRGdVX0pqZk9zUnlULVR5alVuRDZkdEcwYjZzcFAwSV94dUR2WUVaWlNyYi02WDliUWJxUEllaEZ5bU5n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-16T13:18:45.000Z",
-      "pub_sort_dt": "2026-09-16 21:18:45"
+      "source": "Bloomberg",
+      "title_en": "台湾通胀率放缓，料将维持鹰派立场",
+      "title_cn": "台湾通胀率预期，料将维持鹰派数据",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-poised-for-hawkish-hold-after-headline-inflation-slowed",
+      "pub_raw": "2026-09-17T01:02:01.591Z",
+      "pub_sort_dt": "2026-09-17 09:02:01"
     },
     {
       "source": "Bloomberg",
@@ -477,22 +493,6 @@
       "url": "https://reut.rs/4xtcpiC",
       "pub_raw": "2026-09-16T05:37:15.010Z",
       "pub_sort_dt": "2026-09-16 13:37:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港承诺进一步发挥作为首要离岸人民币中心的角色",
-      "title_cn": "香港承诺进一步发挥作为离岸人民币中心的作用",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-vows-to-deepen-role-as-premier-offshore-yuan-hub",
-      "pub_raw": "2026-09-16T04:49:25.478Z",
-      "pub_sort_dt": "2026-09-16 12:49:25"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港计划加快科技枢纽建设，以增加住房供应",
-      "title_cn": "香港计划加快科技枢纽建设，以增加住房供应",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-plans-faster-tech-hub-development-to-boost-home-supply",
-      "pub_raw": "2026-09-16T04:49:25.474Z",
-      "pub_sort_dt": "2026-09-16 12:49:25"
     }
   ]
 }
