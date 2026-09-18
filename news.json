@@ -1,19 +1,27 @@
 {
-  "update_cst": "2026-09-18 09:01:12 北京时间",
+  "update_cst": "2026-09-18 12:00:55 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 3,
-    "Bloomberg": 8,
-    "Financial Times": 3,
+    "Bloomberg": 10,
+    "Financial Times": 2,
     "Wall Street Journal": 0,
-    "Reuters": 6
+    "Reuters": 5
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "一名中国女子为参加一场音乐会而越境，这可能会导致她的家人失去福利 - CNN",
+      "title_cn": "一名中国女子因参加一场音乐会而越境，这可能会导致她的家人失去健康 - CNN",
+      "url": "https://news.google.com/read/CBMiigFBVV95cUxPa3RnVzloTE8zRFFINkRQYmxKanlDV1JqOU1jb0h6ZEFQT2p2UjNaLVZSOVRBRzZSZl8yNlgwaTFZb2Y4ai05cDJQV0tTdFhOQ1lxM0Nydkp5VmpXMjJ3NUJEM0YxTmxaYXM5OUE2elNOSDlLTVhXcUZyYWxmVDZCSXRDa0Q5Y3FTdkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-18T00:15:00.000Z",
+      "pub_sort_dt": "2026-09-18 08:15:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "俄罗斯和中国否决了联合国关于监督伊朗制裁的决议 - Al Jazeera",
-      "title_cn": "俄罗斯和中国否决了联合国关于监督伊朗制裁的决议 - Al Jazeera",
+      "title_cn": "俄罗斯和中国否决了联合国关于伊朗监督制裁的决议 - 半岛电视台",
       "url": "https://news.google.com/read/CBMimwFBVV95cUxNTUVYdGNPTUNlYXdHcU9UQnU2OXN6Q3pFb1k4LUdtbmFiSzFYOFNJd29pZW45TFJuVGJ4dlZWbE44OUN2aDhTVm9aVzJQYTFJUVlZQ1pMb2NLSllmSjNvQnVwbFJQdGNrWlltOWNoWHpFdE55VkFvTml3bDVQcXF0YjdVWmNEVWo5UmEwMDNPOVVhVW5jc3N3b1NUSdIBoAFBVV95cUxPbU1nODBpWldrV1c4WXIwV3QyYUZybS14Y0FfYXFnLXhZQTdTaTNxeGthN0N0aTlIVFJTMXppa0JWWWp1ZHFmSl9yTElrM19vZzNla1dWY0h3cG83WUx1dy04dkFpS2xubWFTYVFlTV9Mak5oR0ZlQTBncUhId2M1RU9uQ05TYTlReFNwOVhiVTBPZ0NrTzV5LWVqVE1ha1lf?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-17T21:06:15.000Z",
       "pub_sort_dt": "2026-09-18 05:06:15"
@@ -81,19 +89,35 @@
       "url": "https://news.google.com/read/CBMingFBVV95cUxOZ1lSYnFEcFExcXZvaGRISjJsZGhzNS1xNURCLWlhLUxxTjgydENXQ2YyRDVHd1ZDOTl6T0lsWFg5aVA1MFB4R201cXRNbkVkeEc1UjhDNEpwOTZJSGV2VU9KVkN1VzA3YnlkMFRZZDQ5S2EtellodHl3Uy1xQTVLTHZxNTVHcFRiYldUQUdvV01WQVpWNTZkVDc2SGFidw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-17T15:51:46.000Z",
       "pub_sort_dt": "2026-09-17 23:51:46"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "图片：中国防治荒漠化 - The Atlantic",
-      "title_cn": "图片：中国防治荒漠化-大西洋月刊",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxPRGJBZ1lTRkZQa3M3VmMzWXVCTXZTUmtHT2ZCRFZQb0dzRjBfbkI4azkwd0MtWUhQQ2pjTExkWDdKblVNNlYySmVDaUttUHBYUXRMTzhtcms4VGIweDBSYkJOdlAtZGcxNzhiYkctQndITTBWZnhaY2pzcUtMRWZrSnFDeFNsNFk3cXdXak1MVjhjM1doc0owZkl4M0xuUVBZZTB3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-17T15:30:00.000Z",
-      "pub_sort_dt": "2026-09-17 23:30:00"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "随着中国买家重回市场，铜价有望实现周涨幅",
+      "title_cn": "随着中国买家重回市场，铜价实现周涨幅",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/copper-set-for-weekly-gain-as-chinese-buyers-return-to-the-fore",
+      "pub_raw": "2026-09-18T03:25:21.256Z",
+      "pub_sort_dt": "2026-09-18 11:25:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国330亿美元的融资实验因需求疲软而举步维艰",
+      "title_cn": "中国330亿美元融资实验因需求疲软而举步维艰",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/china-s-push-for-niche-property-funding-sputters-with-oversupply",
+      "pub_raw": "2026-09-18T02:54:36.677Z",
+      "pub_sort_dt": "2026-09-18 10:54:36"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在特朗普与习近平会晤前夕，中国人民银行释放支持信号，人民币汇率升至四年高点",
+      "title_cn": "在特朗普与习近平会晤前夕，中国人民银行释放支持信号，人民币汇率四年高点",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-yuan-hits-strongest-level-since-2022-after-pboc-fixing",
+      "pub_raw": "2026-09-18T02:38:32.294Z",
+      "pub_sort_dt": "2026-09-18 10:38:32"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "中国家电界的“铁娘子”将目光投向欧洲冬季市场以寻求增长",
       "title_cn": "中国家电界的“铁娘子”将目光投向欧洲冬季市场以寻求增长",
       "url": "https://www.bloomberg.com/news/articles/2026-09-17/china-s-iron-lady-of-appliances-eyes-europe-winters-for-growth",
@@ -151,7 +175,7 @@
     {
       "source": "The Economist",
       "title_en": "为什么欧洲的民粹主义者忘了抨击中国",
-      "title_cn": "为什么欧洲的民粹主义者忘了抨击中国",
+      "title_cn": "为什么欧洲的民粹主义者想到了冲击中国",
       "url": "https://www.economist.com/europe/2026/09/17/why-europes-populists-forget-to-bash-china",
       "pub_raw": "2026-09-17T14:40:00.966Z",
       "pub_sort_dt": "2026-09-17 22:40:00"
@@ -175,7 +199,7 @@
     {
       "source": "Bloomberg",
       "title_en": "铜价上涨，因加息后中国买盘迹象提供支撑",
-      "title_cn": "铜价上涨，因加息后中国买盘迹象提供支撑",
+      "title_cn": "铜价上涨，因加息后中国买盘仍提供支撑",
       "url": "https://www.bloomberg.com/news/articles/2026-09-17/copper-steadies-as-traders-shrug-off-fed-s-hawkish-rate-signals",
       "pub_raw": "2026-09-17T14:39:59.604Z",
       "pub_sort_dt": "2026-09-17 22:39:59"
@@ -183,7 +207,7 @@
     {
       "source": "Bloomberg",
       "title_en": "随着通胀放缓，台湾连续第10个季度维持利率不变",
-      "title_cn": "随着通胀放缓，台湾连续第10个季度维持利率不变",
+      "title_cn": "随着通胀预期，台湾连续第10个季度维持利率不变",
       "url": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-poised-for-hawkish-hold-after-headline-inflation-slowed",
       "pub_raw": "2026-09-17T14:39:59.589Z",
       "pub_sort_dt": "2026-09-17 22:39:59"
@@ -227,37 +251,21 @@
       "url": "https://www.bloomberg.com/sessions/2026-09-17/live-q-amp-a-does-ai-safety-anxiety-in-the-us-benefit-china",
       "pub_raw": "2026-09-17T07:19:20.678Z",
       "pub_sort_dt": "2026-09-17 15:19:20"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "《金融时报》报道称，欧盟希望中国限制混合动力汽车出口，以避免贸易争端",
-      "title_cn": "《金融时报》报道称，欧盟希望中国限制混合动力汽车出口，星巴克贸易认知",
-      "url": "https://reut.rs/4rkl0Tt",
-      "pub_raw": "2026-09-17T07:03:22.273Z",
-      "pub_sort_dt": "2026-09-17 15:03:22"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "汇丰取消了针对香港新入职银行家的38,000美元学费补贴",
-      "title_cn": "汇丰取消了针对香港新入职银行家的38,000美元纳税欠款",
-      "url": "https://www.ft.com/content/3edfa4b0-a492-4627-b9ac-e6f11583242d?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-17T06:48:37.349Z",
-      "pub_sort_dt": "2026-09-17 14:48:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着中国施压加剧，台湾海警计划访问菲律宾",
-      "title_cn": "随着中国施压力度加大，台湾海警计划出访预防",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-coast-guard-plans-visit-to-philippines-as-china-pressure-grows",
-      "pub_raw": "2026-09-17T06:32:43.316Z",
-      "pub_sort_dt": "2026-09-17 14:32:43"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "一名中国女子为参加一场音乐会而越境，这可能会导致她的家人失去福利 - CNN",
+      "title_cn": "一名中国女子因参加一场音乐会而越境，这可能会导致她的家人失去健康 - CNN",
+      "url": "https://news.google.com/read/CBMiigFBVV95cUxPa3RnVzloTE8zRFFINkRQYmxKanlDV1JqOU1jb0h6ZEFQT2p2UjNaLVZSOVRBRzZSZl8yNlgwaTFZb2Y4ai05cDJQV0tTdFhOQ1lxM0Nydkp5VmpXMjJ3NUJEM0YxTmxaYXM5OUE2elNOSDlLTVhXcUZyYWxmVDZCSXRDa0Q5Y3FTdkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-18T00:15:00.000Z",
+      "pub_sort_dt": "2026-09-18 08:15:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "俄罗斯和中国否决了联合国关于监督伊朗制裁的决议 - Al Jazeera",
-      "title_cn": "俄罗斯和中国否决了联合国关于监督伊朗制裁的决议 - Al Jazeera",
+      "title_cn": "俄罗斯和中国否决了联合国关于伊朗监督制裁的决议 - 半岛电视台",
       "url": "https://news.google.com/read/CBMimwFBVV95cUxNTUVYdGNPTUNlYXdHcU9UQnU2OXN6Q3pFb1k4LUdtbmFiSzFYOFNJd29pZW45TFJuVGJ4dlZWbE44OUN2aDhTVm9aVzJQYTFJUVlZQ1pMb2NLSllmSjNvQnVwbFJQdGNrWlltOWNoWHpFdE55VkFvTml3bDVQcXF0YjdVWmNEVWo5UmEwMDNPOVVhVW5jc3N3b1NUSdIBoAFBVV95cUxPbU1nODBpWldrV1c4WXIwV3QyYUZybS14Y0FfYXFnLXhZQTdTaTNxeGthN0N0aTlIVFJTMXppa0JWWWp1ZHFmSl9yTElrM19vZzNla1dWY0h3cG83WUx1dy04dkFpS2xubWFTYVFlTV9Mak5oR0ZlQTBncUhId2M1RU9uQ05TYTlReFNwOVhiVTBPZ0NrTzV5LWVqVE1ha1lf?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-17T21:06:15.000Z",
       "pub_sort_dt": "2026-09-18 05:06:15"
@@ -327,12 +335,28 @@
       "pub_sort_dt": "2026-09-17 23:51:46"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "图片：中国防治荒漠化 - The Atlantic",
-      "title_cn": "图片：中国防治荒漠化-大西洋月刊",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxPRGJBZ1lTRkZQa3M3VmMzWXVCTXZTUmtHT2ZCRFZQb0dzRjBfbkI4azkwd0MtWUhQQ2pjTExkWDdKblVNNlYySmVDaUttUHBYUXRMTzhtcms4VGIweDBSYkJOdlAtZGcxNzhiYkctQndITTBWZnhaY2pzcUtMRWZrSnFDeFNsNFk3cXdXak1MVjhjM1doc0owZkl4M0xuUVBZZTB3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-17T15:30:00.000Z",
-      "pub_sort_dt": "2026-09-17 23:30:00"
+      "source": "Bloomberg",
+      "title_en": "随着中国买家重回市场，铜价有望实现周涨幅",
+      "title_cn": "随着中国买家重回市场，铜价实现周涨幅",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/copper-set-for-weekly-gain-as-chinese-buyers-return-to-the-fore",
+      "pub_raw": "2026-09-18T03:25:21.256Z",
+      "pub_sort_dt": "2026-09-18 11:25:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国330亿美元的融资实验因需求疲软而举步维艰",
+      "title_cn": "中国330亿美元融资实验因需求疲软而举步维艰",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/china-s-push-for-niche-property-funding-sputters-with-oversupply",
+      "pub_raw": "2026-09-18T02:54:36.677Z",
+      "pub_sort_dt": "2026-09-18 10:54:36"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在特朗普与习近平会晤前夕，中国人民银行释放支持信号，人民币汇率升至四年高点",
+      "title_cn": "在特朗普与习近平会晤前夕，中国人民银行释放支持信号，人民币汇率四年高点",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-yuan-hits-strongest-level-since-2022-after-pboc-fixing",
+      "pub_raw": "2026-09-18T02:38:32.294Z",
+      "pub_sort_dt": "2026-09-18 10:38:32"
     },
     {
       "source": "Bloomberg",
@@ -393,7 +417,7 @@
     {
       "source": "The Economist",
       "title_en": "为什么欧洲的民粹主义者忘了抨击中国",
-      "title_cn": "为什么欧洲的民粹主义者忘了抨击中国",
+      "title_cn": "为什么欧洲的民粹主义者想到了冲击中国",
       "url": "https://www.economist.com/europe/2026/09/17/why-europes-populists-forget-to-bash-china",
       "pub_raw": "2026-09-17T14:40:00.966Z",
       "pub_sort_dt": "2026-09-17 22:40:00"
@@ -417,7 +441,7 @@
     {
       "source": "Bloomberg",
       "title_en": "铜价上涨，因加息后中国买盘迹象提供支撑",
-      "title_cn": "铜价上涨，因加息后中国买盘迹象提供支撑",
+      "title_cn": "铜价上涨，因加息后中国买盘仍提供支撑",
       "url": "https://www.bloomberg.com/news/articles/2026-09-17/copper-steadies-as-traders-shrug-off-fed-s-hawkish-rate-signals",
       "pub_raw": "2026-09-17T14:39:59.604Z",
       "pub_sort_dt": "2026-09-17 22:39:59"
@@ -425,7 +449,7 @@
     {
       "source": "Bloomberg",
       "title_en": "随着通胀放缓，台湾连续第10个季度维持利率不变",
-      "title_cn": "随着通胀放缓，台湾连续第10个季度维持利率不变",
+      "title_cn": "随着通胀预期，台湾连续第10个季度维持利率不变",
       "url": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-poised-for-hawkish-hold-after-headline-inflation-slowed",
       "pub_raw": "2026-09-17T14:39:59.589Z",
       "pub_sort_dt": "2026-09-17 22:39:59"
@@ -469,30 +493,6 @@
       "url": "https://www.bloomberg.com/sessions/2026-09-17/live-q-amp-a-does-ai-safety-anxiety-in-the-us-benefit-china",
       "pub_raw": "2026-09-17T07:19:20.678Z",
       "pub_sort_dt": "2026-09-17 15:19:20"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "《金融时报》报道称，欧盟希望中国限制混合动力汽车出口，以避免贸易争端",
-      "title_cn": "《金融时报》报道称，欧盟希望中国限制混合动力汽车出口，星巴克贸易认知",
-      "url": "https://reut.rs/4rkl0Tt",
-      "pub_raw": "2026-09-17T07:03:22.273Z",
-      "pub_sort_dt": "2026-09-17 15:03:22"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "汇丰取消了针对香港新入职银行家的38,000美元学费补贴",
-      "title_cn": "汇丰取消了针对香港新入职银行家的38,000美元纳税欠款",
-      "url": "https://www.ft.com/content/3edfa4b0-a492-4627-b9ac-e6f11583242d?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-17T06:48:37.349Z",
-      "pub_sort_dt": "2026-09-17 14:48:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着中国施压加剧，台湾海警计划访问菲律宾",
-      "title_cn": "随着中国施压力度加大，台湾海警计划出访预防",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-coast-guard-plans-visit-to-philippines-as-china-pressure-grows",
-      "pub_raw": "2026-09-17T06:32:43.316Z",
-      "pub_sort_dt": "2026-09-17 14:32:43"
     }
   ]
 }
