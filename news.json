@@ -1,15 +1,31 @@
 {
-  "update_cst": "2026-09-19 15:01:00 北京时间",
+  "update_cst": "2026-09-19 18:01:05 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 11,
+    "Bloomberg": 12,
     "Financial Times": 0,
     "Wall Street Journal": 0,
-    "Reuters": 9
+    "Reuters": 8
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "油价虽高，但情况本可能更糟。特朗普要感谢中国国家主席习近平。 - AP News",
+      "title_cn": "虽然情况很高，但情况可能更糟糕。特朗普要感谢中国国家主席习近平。 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxNZS1uVExKbkFEcHpfQ19mc3hFQVZVaEtDdWdZS2RzSWltbFNoMXVUTzhweDBURFBsQXJGYmE5a1MwWkctWG03SG5ZYTd0dDhKLWUxdElNRGgwTmVyTmhoMl9YOW1XVnU5TlJtV3lwU2lqUWcyeFlSNWFjUVhOY3VLVVZ0dk53MDJ6ejFF?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-19T04:08:00.000Z",
+      "pub_sort_dt": "2026-09-19 12:08:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "今年在亚太经合组织（APEC）系列活动中，北京将如何接待台湾最高级别的官员？ - South China Morning Post",
+      "title_cn": "今年在亚太经合组织（APEC）系列活动中，北京将如何接待台湾最高级别官员？",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxQU2FEbHBKTUdQanQyQkxyWnVaM1V4Z2VVWDZ0eW5VZnQ4dFUzRUtZakc2YnVaMWkxWmw5Q2loRlNBcDJUb0t6NkNoLVZCTEFya1U4ZGhLdEc0THgxRTNCdFNfVHFuSk1YNVhfak5PMFppelA1Q2VnUFBBZDFPRjlGNk1nb2lhOUNjVDdOdVBjNTdZSmxOSDJ2RHlNLXVKdHV0dVR0V1lFbXpwR1RGTEtSZ0dPZEdwWDNGV3hIaDNPc05OUXBKN3V1a0RQOU1YQdIBzgFBVV95cUxOZ1hFS2FUUUZTVjNSTXFJSFRUcWFyMURua2VTMDFxY0c4WVZOV1huNGNqLUNjLVBQZUxQRHM2TTVudWFDNHRzOTY5ZHg1N0R3UkoxbFBHb2p2M1pVSmxJRE5FenNITjBfaHNHNW11eGpLLTc3cTBRcVpqMUstX21qZGxTQm16T3pVaTlsWG4xQmZjRTgxVkt6OGk0dl9yTjVxQTIwQXNEdWdlR0lSSWwyNF9rVGNBZ3NxbGdUX0xaN3hXZDBYVmhDY2RDeW93dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-19T04:00:09.000Z",
+      "pub_sort_dt": "2026-09-19 12:00:09"
+    },
     {
       "source": "China Buzzing",
       "title_en": "当中国国家主席抵达美国进行国事访问时，特朗普将在机场迎接习近平。 - AP News",
@@ -28,8 +44,16 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "棘手难题：泰国农民全力以赴满足中国对榴莲的狂热需求 - Nikkei Asia",
+      "title_cn": "解决难题：泰国农民全力以赴满足中国对榴莲的狂热需求 - 日经亚洲",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxPblRJQTFDMHpNVkRtRElDVHJnNVF4aXZFYzN5b0pRTUtzbFM1aFdJOFJOTXB1bTY0RWVxYWMyd3Y4NkN4UG1GMU5jdmhSdkE3V2wwbjNXeUNSbFgxV2VDTXNXZ2dKaHJyUzJ5Qmo5dWtPZVJEVndBN3RnS1pQemI0SkhVWlo3SXE4RjZraFBYS25xb1JIbzY4d1dpNDhxSzV4Y2dtRmlydkw1SXVhaDRpQnRn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-18T21:00:00.000Z",
+      "pub_sort_dt": "2026-09-19 05:00:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "报道称，军方虚假的AI“差点引发与中国的战争” - Rolling Stone",
-      "title_cn": "报道称，预见性的人工智能“差点引发与中国的战争” - 滚石杂志",
+      "title_cn": "报道称，预见性人工智能“差点引发与中国的战争” - 滚石杂志",
       "url": "https://news.google.com/read/CBMijgFBVV95cUxQcmZPTnQ1VWh1eHprWkV0bjJmVy13Y2Q5RXo2YkxsT05yRFdQb19pdVJHSG96MVZONGVLSW9VS29VS1Z4djI3N0s0WlVjcElZb3NVNXBuYWFVZ3FaVVdUZFZiRVpUUklpenkxdkRGblYzY3NYVGE5VllCc0ozWTB5QXI1N0E3Vzc1bmwzS1F3?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-18T20:18:15.000Z",
       "pub_sort_dt": "2026-09-19 04:18:15"
@@ -65,35 +89,19 @@
       "url": "https://news.google.com/read/CBMiqAFBVV95cUxOQlQxalJKX1U1TTF5UWlDdzdKZE5ROG94UDdpU1VJQ2g0U3hZTDJnQ3g5TE1CSFFvTl9LNG1sbDJPMzZVMjdHQXlBNGU0TXlmX3Y2dUw5VUpBeXh0YkxldzRyMEZrXzVpSUZjaXNma3p3bERpU0VRYWp2LTZSTmtJOFdSM21tVHkyR3Fvalp4Nm9FVG56Qk1fNUlFOG1lX0p3eVZwSHpPSU0?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-18T19:05:42.000Z",
       "pub_sort_dt": "2026-09-19 03:05:42"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国主要航空公司反对中国国际航空申请增开赴美航班的提议 - Reuters",
-      "title_cn": "美国主要边境反对中国国际航空申请增开赴美航班的建议 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiwgFBVV95cUxQSmUtajNxbzBGUUVwOG40OHh5NlY2aXVWamw5eWVuYkprTWNqMFdpbDh6QjE5V1ljUHdzaVdRcFJmMjloUzd4WEpyZVVfcXM2UmZNOUI2WDVqZlRNcnVjbEpCTlprenlfZVVrUV9MSlpGdXFka2JPc1VJanp2ODdqNndRdU9POGdQSlNXd3FaWVZNVW5PVEV4UXNFZG9xOWpaZnFadjVWXzU0a3k4bUo4VUZ6UnFGRFBGcVZlUmtjeG1hZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-18T18:42:46.000Z",
-      "pub_sort_dt": "2026-09-19 02:42:46"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "据报道，F-35零部件在改道香港后丢失，这增加了中国可能掌握关键技术的可能性 - The Times of Israel",
-      "title_cn": "据报道，F-35零部件在改道香港后丢失，这增加了中国可能掌握关键技术的可能性 - 以色列时报",
-      "url": "https://news.google.com/read/CBMi2AFBVV95cUxOSEhfSlVIT1RCamtqNUtlT1pJbzZFbjR0SmpIenF0c3NiVElDUDB6VGJPNmdwMkdhYi1IZVN3Nl8zNWhMckpEWGFvb2Q3RV95ZzBGM242eU4yd2I1LU9WMHVaaFNmcUlnMWZPY2JkVnNpYjU2WXM1V1FFeGdOdUlxcGZiQkdRczk2Q2h1VVdRXzQzZjhzUjZEVVJ3NWRRQ2hmelNoaEhEYkZCUHU1UE1jRHlYV2xCcUlDZ0E0bGdYRmJPbHE1QkdRQWdlSGlRdmJwQ3VWc1JESGU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-18T18:08:48.000Z",
-      "pub_sort_dt": "2026-09-19 02:08:48"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国企业曾为伊朗提供“救命稻草”，使其得以在霍尔木兹海峡收取过境费，但在美国发出警告后终止了这一安排 - Fox News",
-      "title_cn": "中国企业曾为伊朗提供“救命稻草”，有权在霍尔木兹海峡征收过境费，但在美国发布警告后终止了这一安排 - 福克斯新闻",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxQN2JqQS14X0ZlZ0dOUHpXdXMxdUp1ZFZfOElLVE5FNExIX3hiYW1HVkNoLXAxT2tpQ0U2LVpuODBWRnJ0LURlbzJrS3dEWkVyV1pkdXVQd1dURVlVLVM2SVhsTHJGRkh1MTMyeUdIcXcxWmdRSnkzczZvdmQtLWZZdXZZeHYzZTBaZ0VpYWlyU2pLc0JSdTIxOF96ZXRLMXFaVzRZbjhOejd4bzEtMEhwTGxTNXdnSDTSAbwBQVVfeXFMTTV0U3BBVVpkWmZHQk9NYjZTazludldpNzdVVnI4Tnc2aE0wZ1dCRlBfWGQtbDY2TXdBclhWcFVHU2Y5SVUzWTBpLVFERDh5RUJzS1c5dDlqWm81ZG5QTXVDR21lRHp6WHdhTGhMbjRza3p1Yk9vaHlSenY5OEc2a3pTWTZoeE9BSUtyWE40bVdzazk5SmxVUEhVS0ZZbjJiNG9DWVRHSmN6YkJSTEc5NlluTUJJTkJNTVg0U24?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-18T16:17:45.000Z",
-      "pub_sort_dt": "2026-09-19 00:17:45"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "中国国家电视台下属媒体指出Anthropic存在数据和隐私风险",
+      "title_cn": "中国国家电视台下属媒体指出人类存在数据和隐私风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-19/china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks",
+      "pub_raw": "2026-09-19T06:57:33.393Z",
+      "pub_sort_dt": "2026-09-19 14:57:33"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "随着支出下滑，中国财政紧缩态势延续至8月",
       "title_cn": "随着支出增加，中国财政紧缩前期至8月",
       "url": "https://www.bloomberg.com/news/articles/2026-09-18/china-s-fiscal-pullback-stretches-into-august-as-spending-slumps",
@@ -243,17 +251,25 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-17/china-s-push-for-niche-property-funding-sputters-with-oversupply",
       "pub_raw": "2026-09-18T07:37:36.870Z",
       "pub_sort_dt": "2026-09-18 15:37:36"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国9月份贷款利率将连续第16个月保持不变",
-      "title_cn": "中国9月份贷款利率将连续第16个月保持不变",
-      "url": "https://reut.rs/4xxuBrC",
-      "pub_raw": "2026-09-18T07:21:31.239Z",
-      "pub_sort_dt": "2026-09-18 15:21:31"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "油价虽高，但情况本可能更糟。特朗普要感谢中国国家主席习近平。 - AP News",
+      "title_cn": "虽然情况很高，但情况可能更糟糕。特朗普要感谢中国国家主席习近平。 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxNZS1uVExKbkFEcHpfQ19mc3hFQVZVaEtDdWdZS2RzSWltbFNoMXVUTzhweDBURFBsQXJGYmE5a1MwWkctWG03SG5ZYTd0dDhKLWUxdElNRGgwTmVyTmhoMl9YOW1XVnU5TlJtV3lwU2lqUWcyeFlSNWFjUVhOY3VLVVZ0dk53MDJ6ejFF?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-19T04:08:00.000Z",
+      "pub_sort_dt": "2026-09-19 12:08:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "今年在亚太经合组织（APEC）系列活动中，北京将如何接待台湾最高级别的官员？ - South China Morning Post",
+      "title_cn": "今年在亚太经合组织（APEC）系列活动中，北京将如何接待台湾最高级别官员？",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxQU2FEbHBKTUdQanQyQkxyWnVaM1V4Z2VVWDZ0eW5VZnQ4dFUzRUtZakc2YnVaMWkxWmw5Q2loRlNBcDJUb0t6NkNoLVZCTEFya1U4ZGhLdEc0THgxRTNCdFNfVHFuSk1YNVhfak5PMFppelA1Q2VnUFBBZDFPRjlGNk1nb2lhOUNjVDdOdVBjNTdZSmxOSDJ2RHlNLXVKdHV0dVR0V1lFbXpwR1RGTEtSZ0dPZEdwWDNGV3hIaDNPc05OUXBKN3V1a0RQOU1YQdIBzgFBVV95cUxOZ1hFS2FUUUZTVjNSTXFJSFRUcWFyMURua2VTMDFxY0c4WVZOV1huNGNqLUNjLVBQZUxQRHM2TTVudWFDNHRzOTY5ZHg1N0R3UkoxbFBHb2p2M1pVSmxJRE5FenNITjBfaHNHNW11eGpLLTc3cTBRcVpqMUstX21qZGxTQm16T3pVaTlsWG4xQmZjRTgxVkt6OGk0dl9yTjVxQTIwQXNEdWdlR0lSSWwyNF9rVGNBZ3NxbGdUX0xaN3hXZDBYVmhDY2RDeW93dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-19T04:00:09.000Z",
+      "pub_sort_dt": "2026-09-19 12:00:09"
+    },
     {
       "source": "China Buzzing",
       "title_en": "当中国国家主席抵达美国进行国事访问时，特朗普将在机场迎接习近平。 - AP News",
@@ -272,8 +288,16 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "棘手难题：泰国农民全力以赴满足中国对榴莲的狂热需求 - Nikkei Asia",
+      "title_cn": "解决难题：泰国农民全力以赴满足中国对榴莲的狂热需求 - 日经亚洲",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxPblRJQTFDMHpNVkRtRElDVHJnNVF4aXZFYzN5b0pRTUtzbFM1aFdJOFJOTXB1bTY0RWVxYWMyd3Y4NkN4UG1GMU5jdmhSdkE3V2wwbjNXeUNSbFgxV2VDTXNXZ2dKaHJyUzJ5Qmo5dWtPZVJEVndBN3RnS1pQemI0SkhVWlo3SXE4RjZraFBYS25xb1JIbzY4d1dpNDhxSzV4Y2dtRmlydkw1SXVhaDRpQnRn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-18T21:00:00.000Z",
+      "pub_sort_dt": "2026-09-19 05:00:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "报道称，军方虚假的AI“差点引发与中国的战争” - Rolling Stone",
-      "title_cn": "报道称，预见性的人工智能“差点引发与中国的战争” - 滚石杂志",
+      "title_cn": "报道称，预见性人工智能“差点引发与中国的战争” - 滚石杂志",
       "url": "https://news.google.com/read/CBMijgFBVV95cUxQcmZPTnQ1VWh1eHprWkV0bjJmVy13Y2Q5RXo2YkxsT05yRFdQb19pdVJHSG96MVZONGVLSW9VS29VS1Z4djI3N0s0WlVjcElZb3NVNXBuYWFVZ3FaVVdUZFZiRVpUUklpenkxdkRGblYzY3NYVGE5VllCc0ozWTB5QXI1N0E3Vzc1bmwzS1F3?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-18T20:18:15.000Z",
       "pub_sort_dt": "2026-09-19 04:18:15"
@@ -311,28 +335,12 @@
       "pub_sort_dt": "2026-09-19 03:05:42"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "美国主要航空公司反对中国国际航空申请增开赴美航班的提议 - Reuters",
-      "title_cn": "美国主要边境反对中国国际航空申请增开赴美航班的建议 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiwgFBVV95cUxQSmUtajNxbzBGUUVwOG40OHh5NlY2aXVWamw5eWVuYkprTWNqMFdpbDh6QjE5V1ljUHdzaVdRcFJmMjloUzd4WEpyZVVfcXM2UmZNOUI2WDVqZlRNcnVjbEpCTlprenlfZVVrUV9MSlpGdXFka2JPc1VJanp2ODdqNndRdU9POGdQSlNXd3FaWVZNVW5PVEV4UXNFZG9xOWpaZnFadjVWXzU0a3k4bUo4VUZ6UnFGRFBGcVZlUmtjeG1hZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-18T18:42:46.000Z",
-      "pub_sort_dt": "2026-09-19 02:42:46"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "据报道，F-35零部件在改道香港后丢失，这增加了中国可能掌握关键技术的可能性 - The Times of Israel",
-      "title_cn": "据报道，F-35零部件在改道香港后丢失，这增加了中国可能掌握关键技术的可能性 - 以色列时报",
-      "url": "https://news.google.com/read/CBMi2AFBVV95cUxOSEhfSlVIT1RCamtqNUtlT1pJbzZFbjR0SmpIenF0c3NiVElDUDB6VGJPNmdwMkdhYi1IZVN3Nl8zNWhMckpEWGFvb2Q3RV95ZzBGM242eU4yd2I1LU9WMHVaaFNmcUlnMWZPY2JkVnNpYjU2WXM1V1FFeGdOdUlxcGZiQkdRczk2Q2h1VVdRXzQzZjhzUjZEVVJ3NWRRQ2hmelNoaEhEYkZCUHU1UE1jRHlYV2xCcUlDZ0E0bGdYRmJPbHE1QkdRQWdlSGlRdmJwQ3VWc1JESGU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-18T18:08:48.000Z",
-      "pub_sort_dt": "2026-09-19 02:08:48"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国企业曾为伊朗提供“救命稻草”，使其得以在霍尔木兹海峡收取过境费，但在美国发出警告后终止了这一安排 - Fox News",
-      "title_cn": "中国企业曾为伊朗提供“救命稻草”，有权在霍尔木兹海峡征收过境费，但在美国发布警告后终止了这一安排 - 福克斯新闻",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxQN2JqQS14X0ZlZ0dOUHpXdXMxdUp1ZFZfOElLVE5FNExIX3hiYW1HVkNoLXAxT2tpQ0U2LVpuODBWRnJ0LURlbzJrS3dEWkVyV1pkdXVQd1dURVlVLVM2SVhsTHJGRkh1MTMyeUdIcXcxWmdRSnkzczZvdmQtLWZZdXZZeHYzZTBaZ0VpYWlyU2pLc0JSdTIxOF96ZXRLMXFaVzRZbjhOejd4bzEtMEhwTGxTNXdnSDTSAbwBQVVfeXFMTTV0U3BBVVpkWmZHQk9NYjZTazludldpNzdVVnI4Tnc2aE0wZ1dCRlBfWGQtbDY2TXdBclhWcFVHU2Y5SVUzWTBpLVFERDh5RUJzS1c5dDlqWm81ZG5QTXVDR21lRHp6WHdhTGhMbjRza3p1Yk9vaHlSenY5OEc2a3pTWTZoeE9BSUtyWE40bVdzazk5SmxVUEhVS0ZZbjJiNG9DWVRHSmN6YkJSTEc5NlluTUJJTkJNTVg0U24?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-18T16:17:45.000Z",
-      "pub_sort_dt": "2026-09-19 00:17:45"
+      "source": "Bloomberg",
+      "title_en": "中国国家电视台下属媒体指出Anthropic存在数据和隐私风险",
+      "title_cn": "中国国家电视台下属媒体指出人类存在数据和隐私风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-19/china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks",
+      "pub_raw": "2026-09-19T06:57:33.393Z",
+      "pub_sort_dt": "2026-09-19 14:57:33"
     },
     {
       "source": "Bloomberg",
@@ -485,14 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-17/china-s-push-for-niche-property-funding-sputters-with-oversupply",
       "pub_raw": "2026-09-18T07:37:36.870Z",
       "pub_sort_dt": "2026-09-18 15:37:36"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国9月份贷款利率将连续第16个月保持不变",
-      "title_cn": "中国9月份贷款利率将连续第16个月保持不变",
-      "url": "https://reut.rs/4xxuBrC",
-      "pub_raw": "2026-09-18T07:21:31.239Z",
-      "pub_sort_dt": "2026-09-18 15:21:31"
     }
   ]
 }
