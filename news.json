@@ -1,15 +1,31 @@
 {
-  "update_cst": "2026-09-20 06:01:01 北京时间",
+  "update_cst": "2026-09-20 12:01:01 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 11,
+    "Bloomberg": 12,
     "Financial Times": 0,
     "Wall Street Journal": 0,
-    "Reuters": 9
+    "Reuters": 8
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "9月，中国基准贷款利率连续第16个月保持不变 - Reuters",
+      "title_cn": "9月，中国基准贷款利率连续第16个月保持不变 - 路透社",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxOVDU1MlBxV3pIckRnemgzc1dvTlVHRUJOWkh4M2JQTElsR19PUW9FYVV4ME5ScDlyREdSOTI5QlRDSkNiMlRDTHBTaVJBOFRjblBzRnZfSHVYMFljYTRVQzJSMXFFWTEtU2xUNDVIV1NHclBwd0tWWjd0Vlk1RFdRZDVUVUFNS2pSRW55LTY2b0R0b1pBTkpEVm0yMllGYUlKVkQ0bmJZcVJYcUg0RGotdVJWTlB0NWJYTTdj?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-20T01:34:00.000Z",
+      "pub_sort_dt": "2026-09-20 09:34:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在华盛顿即将举行的习近平与特朗普峰会前夕，分析师们认为中国将占据更有利的地位 - South China Morning Post",
+      "title_cn": "在华盛顿即将举行的习近平与特朗普峰会前夕，分析人士认为中国将获得更有利的地位 - 南华早报",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxQdWd4ZVE0WHJ2YmVKMVd5TkRvT0FXYXA2X0xrSFF4b3luTG1ia0tlR2JwODVOSjAzcFZhazZTTXpzTzc4VS1GRVY0ZnBaVnVOZjBDQXU2R19DV25zUDBTeHBHLUZxTUNEd3FWRk15bGhLVDBJYmx2U3ZNYi1RQkhEVGNVWnVVOTBZS0NleHBaQXU4TlNaaHNhZDZMZm03RktMNjRzWUJPcVJ1OGFQeGlGalYxUHNIRHNqVTBFdWxHZFTSAcABQVVfeXFMTjVEaFNCc3VkSkYyQnIxb1NqWHhoNXVBbHYzYmhldXpDYzVBdXFyYmRIVHFCckNsX1Z3WHljU3Y1S0ZaWWpVSXR2Y3RKbGpyc0ktZk92a1YzenZXWjlIVDNkcXZsSzQzZUtwUmhITGhqbDV0ZHpWYVVjVTJQc2p6eWUwa0NpTW1JR3A5ZmVZQjNsbVY3WFhRVFdkWTRrN2JVdjY4RXp0VHY1U0N0aURmRHQxNDBOdVR1em9ndHBvWEJ0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-19T22:00:08.000Z",
+      "pub_sort_dt": "2026-09-20 06:00:08"
+    },
     {
       "source": "China Buzzing",
       "title_en": "美国财政部贝森特与中国方面何某将于周日在摩根大通总部会面 - Reuters",
@@ -17,6 +33,14 @@
       "url": "https://news.google.com/read/CBMiuAFBVV95cUxQQVRma05lOURVMXowWlB5cGxUakN3b09nZEgtbExsVUgxSml2dUE2Um9TVnZQa3JHSFU3WDZJMl85R183c2NyS0FFT1FZcXlFYUg2S0F3M2hTNk4yNnhwNlJhWGdYOV9fM3ludkZodlB0VVR6Z1VpQnBvb0pxME56TUU4VUlTMlFVS2tLWnhnMEg5VEZ4MFFzbnNsQ1lrSUt1clpCY3pXSF9uODJ5WXRaeU5heGQyR3Ns?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-19T18:35:43.000Z",
       "pub_sort_dt": "2026-09-20 02:35:43"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国“具身智能”正从实验室走向生产车间 - Global Times",
+      "title_cn": "中国“装备身智能”正从实验室走向生产车间 - 环球时报",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTE5oWmlpN2xRLTduQzduTVdfUVpjZFVwekwxTmhiaUZQek4yT25VdTAtdUFJSnkzZHpOcm9kclhHbFNpNGp2R3FDZU9TRXRHV0FCRVNaUWE4LWYwZVZIQlFtVUdR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-19T16:08:00.000Z",
+      "pub_sort_dt": "2026-09-20 00:08:00"
     },
     {
       "source": "China Buzzing",
@@ -65,37 +89,21 @@
       "url": "https://news.google.com/read/CBMiYkFVX3lxTE5tdHA5YnFZaWt6UWFITS13UGozV3ZjQXVDOEVfM2RBN3dJWU1CNzgyN0lGcVBKVEZYNlpMZkpfRVFhX1U2N3U3WUVHSG5aZU1hdkRyX0hTdFp4cWlCejNFN09B?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-19T13:32:00.000Z",
       "pub_sort_dt": "2026-09-19 21:32:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国谴责美国收紧对俄罗斯和伊朗制裁的法案 - Bloomberg.com",
-      "title_cn": "中国严厉谴责美国收紧对俄罗斯和伊朗制裁的债务 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxPUzBLUDV6NHM2Q3NkaUpNWno0ZXZlZjA5WEFOX0ZpYU9qbVZfdVEySm9scjZwSzN2RnlBZURRcHRvWGhQNXpJS1NFcEVsV1ZtWjZpczZNN2lkMHZCa1ItbWtydklKRnRKNTRHT1hnWkpRUUxkSkllYWFqVHIwbWppMU93NHZVNDdMV3F4SVZGTWtRZ2szNkU0WFVLOVltT1dOamQwdzhBZDBrR0FtWVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-19T12:46:49.000Z",
-      "pub_sort_dt": "2026-09-19 20:46:49"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中美贸易代表团将于纽约就人工智能和伊朗问题举行磋商 - Bloomberg.com",
-      "title_cn": "中美贸易周二将于纽约就人工智能和伊朗问题作出裁决 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxNVTUxdmFkX1BreWRBbXV5MlhmbkMtYVJxZmNhbHBFUUpHWG1ndFo3QWZrb0h6RzJFRHJoVl9TZUNMUkMwTE5rZnl0MzJaeVhrakNndFZHaGpLOTlick5GS2tBdEFYSGZLMlB6aUNuNXBUbjA5T2VIdVhpUDF2UFFrZmpFZnp6UGhSdnpwOVl5aVlQemJ3cGdfSTJkeVRfa2ZjemVUdWQ2a2Y0Tzh5?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-19T11:00:00.000Z",
-      "pub_sort_dt": "2026-09-19 19:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在习近平访美之前，特朗普的格陵兰岛交易为何实际上是针对中国的 - South China Morning Post",
-      "title_cn": "在习近平访美之前，特朗普的格陵兰岛交易为何实际上是针对中国的 - 南华早报",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxQYkZMQWdiazF4OXlobjBTSC1Gb0JOQjh6WlVscE5LS21YbmlHQTJsX2pMb1lGZDczRGt6WU5INW9RVk0yTnVxN3F6NWs0NDRGenJBeTRxMjg0M2dxNDhyd2h2U0hGLVJOenUxVmtTOUt2c3BVS0lRMXVaeFFFQWxJcmlSY25zemhoNVJlUFJMRDFCYUdIZk5sbndSSkg3YWViWS1PdndjZ3dkSkhsdWZrZURsSmhfRkJYTFRydmZOSWVMU0xwbFHSAcYBQVVfeXFMTk41em1Ia3hxbUtWaXBoMTB0OTJMZmIxRlk0NFExOTlwc1JNcDdvQmcwZXVNN1lRQjJDTDlnOUlBdm9CdjE5UkZyUG9LNTc4LUUwMldBdUxBdkxCdVVXZVFyYzkxbGZxb2pLQW1XVXJuRnEwZjY0aUN2dm56eEN3dDRCOGRtR1RhWFcwVHJ2SzUxNUk3dUcxVlczSjNlUnM3a21WcXZxczhlZHo3Qkg0UVhfX2pMNU56N0FsandkVU5yc3BabG5n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-19T10:52:57.000Z",
-      "pub_sort_dt": "2026-09-19 18:52:57"
     }
   ],
   "media_news": [
     {
+      "source": "Bloomberg",
+      "title_en": "中国8月用电量突破1万亿千瓦时，用电负荷创历史新高",
+      "title_cn": "中国8月用电量突破1万亿千瓦时，用电负荷创历史新高",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/china-august-power-use-tops-1-trillion-kwh-load-hits-record",
+      "pub_raw": "2026-09-20T03:55:12.745Z",
+      "pub_sort_dt": "2026-09-20 11:55:12"
+    },
+    {
       "source": "Reuters",
       "title_en": "美国财政部贝森特与中国方面何某将于周日在摩根大通总部会晤",
-      "title_cn": "美国财政部长贝森特与中国方面何某将于周日在摩根大通总部会议上举行峰会",
+      "title_cn": "美国援助者贝森特与中国方面何某将于周日在摩根大通总部会议上举行会议",
       "url": "https://reut.rs/4hegelB",
       "pub_raw": "2026-09-19T19:32:41.600Z",
       "pub_sort_dt": "2026-09-20 03:32:41"
@@ -111,7 +119,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国启动打击环境监测造假专项行动",
-      "title_cn": "中国启动打击环境监测造假专项行动",
+      "title_cn": "中国启动打击环境监测专项行动",
       "url": "https://www.bloomberg.com/news/articles/2026-09-19/china-starts-campaign-to-combat-environmental-monitoring-fraud",
       "pub_raw": "2026-09-19T12:28:33.982Z",
       "pub_sort_dt": "2026-09-19 20:28:33"
@@ -242,25 +250,41 @@
       "title_cn": "受特斯拉到访报道提振，中国机器人供应商股价上涨",
       "url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report",
       "pub_raw": "2026-09-18T09:11:44.734Z",
-      "pub_sort_dt": "2026-09-18 17:11:44"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国1-8月财政收入同比增长5.7%",
-      "title_cn": "中国1-8月财政收入同比增长5.7%",
-      "url": "https://reut.rs/4yKaes6",
-      "pub_raw": "2026-09-18T09:11:44.651Z",
       "pub_sort_dt": "2026-09-18 17:11:44"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "9月，中国基准贷款利率连续第16个月保持不变 - Reuters",
+      "title_cn": "9月，中国基准贷款利率连续第16个月保持不变 - 路透社",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxOVDU1MlBxV3pIckRnemgzc1dvTlVHRUJOWkh4M2JQTElsR19PUW9FYVV4ME5ScDlyREdSOTI5QlRDSkNiMlRDTHBTaVJBOFRjblBzRnZfSHVYMFljYTRVQzJSMXFFWTEtU2xUNDVIV1NHclBwd0tWWjd0Vlk1RFdRZDVUVUFNS2pSRW55LTY2b0R0b1pBTkpEVm0yMllGYUlKVkQ0bmJZcVJYcUg0RGotdVJWTlB0NWJYTTdj?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-20T01:34:00.000Z",
+      "pub_sort_dt": "2026-09-20 09:34:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在华盛顿即将举行的习近平与特朗普峰会前夕，分析师们认为中国将占据更有利的地位 - South China Morning Post",
+      "title_cn": "在华盛顿即将举行的习近平与特朗普峰会前夕，分析人士认为中国将获得更有利的地位 - 南华早报",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxQdWd4ZVE0WHJ2YmVKMVd5TkRvT0FXYXA2X0xrSFF4b3luTG1ia0tlR2JwODVOSjAzcFZhazZTTXpzTzc4VS1GRVY0ZnBaVnVOZjBDQXU2R19DV25zUDBTeHBHLUZxTUNEd3FWRk15bGhLVDBJYmx2U3ZNYi1RQkhEVGNVWnVVOTBZS0NleHBaQXU4TlNaaHNhZDZMZm03RktMNjRzWUJPcVJ1OGFQeGlGalYxUHNIRHNqVTBFdWxHZFTSAcABQVVfeXFMTjVEaFNCc3VkSkYyQnIxb1NqWHhoNXVBbHYzYmhldXpDYzVBdXFyYmRIVHFCckNsX1Z3WHljU3Y1S0ZaWWpVSXR2Y3RKbGpyc0ktZk92a1YzenZXWjlIVDNkcXZsSzQzZUtwUmhITGhqbDV0ZHpWYVVjVTJQc2p6eWUwa0NpTW1JR3A5ZmVZQjNsbVY3WFhRVFdkWTRrN2JVdjY4RXp0VHY1U0N0aURmRHQxNDBOdVR1em9ndHBvWEJ0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-19T22:00:08.000Z",
+      "pub_sort_dt": "2026-09-20 06:00:08"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "美国财政部贝森特与中国方面何某将于周日在摩根大通总部会面 - Reuters",
       "title_cn": "美国援助者贝森特与中国方面何某将于周日在摩根大通总部会面 - 路透社",
       "url": "https://news.google.com/read/CBMiuAFBVV95cUxQQVRma05lOURVMXowWlB5cGxUakN3b09nZEgtbExsVUgxSml2dUE2Um9TVnZQa3JHSFU3WDZJMl85R183c2NyS0FFT1FZcXlFYUg2S0F3M2hTNk4yNnhwNlJhWGdYOV9fM3ludkZodlB0VVR6Z1VpQnBvb0pxME56TUU4VUlTMlFVS2tLWnhnMEg5VEZ4MFFzbnNsQ1lrSUt1clpCY3pXSF9uODJ5WXRaeU5heGQyR3Ns?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-19T18:35:43.000Z",
       "pub_sort_dt": "2026-09-20 02:35:43"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国“具身智能”正从实验室走向生产车间 - Global Times",
+      "title_cn": "中国“装备身智能”正从实验室走向生产车间 - 环球时报",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTE5oWmlpN2xRLTduQzduTVdfUVpjZFVwekwxTmhiaUZQek4yT25VdTAtdUFJSnkzZHpOcm9kclhHbFNpNGp2R3FDZU9TRXRHV0FCRVNaUWE4LWYwZVZIQlFtVUdR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-19T16:08:00.000Z",
+      "pub_sort_dt": "2026-09-20 00:08:00"
     },
     {
       "source": "China Buzzing",
@@ -311,33 +335,17 @@
       "pub_sort_dt": "2026-09-19 21:32:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国谴责美国收紧对俄罗斯和伊朗制裁的法案 - Bloomberg.com",
-      "title_cn": "中国严厉谴责美国收紧对俄罗斯和伊朗制裁的债务 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxPUzBLUDV6NHM2Q3NkaUpNWno0ZXZlZjA5WEFOX0ZpYU9qbVZfdVEySm9scjZwSzN2RnlBZURRcHRvWGhQNXpJS1NFcEVsV1ZtWjZpczZNN2lkMHZCa1ItbWtydklKRnRKNTRHT1hnWkpRUUxkSkllYWFqVHIwbWppMU93NHZVNDdMV3F4SVZGTWtRZ2szNkU0WFVLOVltT1dOamQwdzhBZDBrR0FtWVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-19T12:46:49.000Z",
-      "pub_sort_dt": "2026-09-19 20:46:49"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中美贸易代表团将于纽约就人工智能和伊朗问题举行磋商 - Bloomberg.com",
-      "title_cn": "中美贸易周二将于纽约就人工智能和伊朗问题作出裁决 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxNVTUxdmFkX1BreWRBbXV5MlhmbkMtYVJxZmNhbHBFUUpHWG1ndFo3QWZrb0h6RzJFRHJoVl9TZUNMUkMwTE5rZnl0MzJaeVhrakNndFZHaGpLOTlick5GS2tBdEFYSGZLMlB6aUNuNXBUbjA5T2VIdVhpUDF2UFFrZmpFZnp6UGhSdnpwOVl5aVlQemJ3cGdfSTJkeVRfa2ZjemVUdWQ2a2Y0Tzh5?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-19T11:00:00.000Z",
-      "pub_sort_dt": "2026-09-19 19:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在习近平访美之前，特朗普的格陵兰岛交易为何实际上是针对中国的 - South China Morning Post",
-      "title_cn": "在习近平访美之前，特朗普的格陵兰岛交易为何实际上是针对中国的 - 南华早报",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxQYkZMQWdiazF4OXlobjBTSC1Gb0JOQjh6WlVscE5LS21YbmlHQTJsX2pMb1lGZDczRGt6WU5INW9RVk0yTnVxN3F6NWs0NDRGenJBeTRxMjg0M2dxNDhyd2h2U0hGLVJOenUxVmtTOUt2c3BVS0lRMXVaeFFFQWxJcmlSY25zemhoNVJlUFJMRDFCYUdIZk5sbndSSkg3YWViWS1PdndjZ3dkSkhsdWZrZURsSmhfRkJYTFRydmZOSWVMU0xwbFHSAcYBQVVfeXFMTk41em1Ia3hxbUtWaXBoMTB0OTJMZmIxRlk0NFExOTlwc1JNcDdvQmcwZXVNN1lRQjJDTDlnOUlBdm9CdjE5UkZyUG9LNTc4LUUwMldBdUxBdkxCdVVXZVFyYzkxbGZxb2pLQW1XVXJuRnEwZjY0aUN2dm56eEN3dDRCOGRtR1RhWFcwVHJ2SzUxNUk3dUcxVlczSjNlUnM3a21WcXZxczhlZHo3Qkg0UVhfX2pMNU56N0FsandkVU5yc3BabG5n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-19T10:52:57.000Z",
-      "pub_sort_dt": "2026-09-19 18:52:57"
+      "source": "Bloomberg",
+      "title_en": "中国8月用电量突破1万亿千瓦时，用电负荷创历史新高",
+      "title_cn": "中国8月用电量突破1万亿千瓦时，用电负荷创历史新高",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/china-august-power-use-tops-1-trillion-kwh-load-hits-record",
+      "pub_raw": "2026-09-20T03:55:12.745Z",
+      "pub_sort_dt": "2026-09-20 11:55:12"
     },
     {
       "source": "Reuters",
       "title_en": "美国财政部贝森特与中国方面何某将于周日在摩根大通总部会晤",
-      "title_cn": "美国财政部长贝森特与中国方面何某将于周日在摩根大通总部会议上举行峰会",
+      "title_cn": "美国援助者贝森特与中国方面何某将于周日在摩根大通总部会议上举行会议",
       "url": "https://reut.rs/4hegelB",
       "pub_raw": "2026-09-19T19:32:41.600Z",
       "pub_sort_dt": "2026-09-20 03:32:41"
@@ -353,7 +361,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国启动打击环境监测造假专项行动",
-      "title_cn": "中国启动打击环境监测造假专项行动",
+      "title_cn": "中国启动打击环境监测专项行动",
       "url": "https://www.bloomberg.com/news/articles/2026-09-19/china-starts-campaign-to-combat-environmental-monitoring-fraud",
       "pub_raw": "2026-09-19T12:28:33.982Z",
       "pub_sort_dt": "2026-09-19 20:28:33"
@@ -484,14 +492,6 @@
       "title_cn": "受特斯拉到访报道提振，中国机器人供应商股价上涨",
       "url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report",
       "pub_raw": "2026-09-18T09:11:44.734Z",
-      "pub_sort_dt": "2026-09-18 17:11:44"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国1-8月财政收入同比增长5.7%",
-      "title_cn": "中国1-8月财政收入同比增长5.7%",
-      "url": "https://reut.rs/4yKaes6",
-      "pub_raw": "2026-09-18T09:11:44.651Z",
       "pub_sort_dt": "2026-09-18 17:11:44"
     }
   ]
