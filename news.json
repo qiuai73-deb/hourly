@@ -1,99 +1,203 @@
 {
-  "update_cst": "2026-09-22 18:01:33 北京时间",
+  "update_cst": "2026-09-23 06:01:05 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 2,
-    "Bloomberg": 7,
-    "Financial Times": 4,
-    "Wall Street Journal": 0,
-    "Reuters": 7
+    "The Economist": 1,
+    "Bloomberg": 5,
+    "Financial Times": 1,
+    "Wall Street Journal": 2,
+    "Reuters": 11
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "今年中国进口黄金超过1,000吨，进口额创下历史新高 - Financial Times",
-      "title_cn": "今年中国进口黄金超过1000吨，进口额历史新高 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQQmU5Y0tyY0xOSEc0UDcta21lb2toUldvdXQ5MlFHZzlqTF9DUUg0a2RWSmdKUEdrblhHb1k1aVIyTmk3NjFkNW5uMWpJYjRPT2VUMEJkZzhZeG1JZ0VDZTJUMEdUS1UtVXF3ZGVUWnlaSDVBMlRob3dwVEx3UFVPNmZ2S0M?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T07:45:05.000Z",
-      "pub_sort_dt": "2026-09-22 15:45:05"
+      "title_en": "随着战争动摇全球市场，中国国家主席携新的能源筹码抵达美国 - Politico",
+      "title_cn": "随着全球市场的动摇，中国国家主席携新的能源筹码陌生美国 - 政治战争",
+      "url": "https://news.google.com/read/CBMi2AFBVV95cUxONzI3VXBjTVEzcUE5QnViVHVPRjV1UHdSNVZJSUU2dUppNUdhejFCWURocGpnaGZvd1hQZHVsMXhBM0loTUZhcTd6d0JpWkYyN1cwZmNtakJfVjhkNTlJZXRJN1dnY0RLbkNEZzdCSTJzRVlrZzExX2M3eS13RnJWWl9ScHpqNHhQZjRnUjRQWlZEeWdRVHlsTHZOZVZHMURGSVhhOVh5ZE1HR2pzNDgtajNEbHZXTHB0QmJ5RDhOUnM3UmVfYmlUNW9vbmtSbmJnRUFid0hoYnU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T21:00:00.000Z",
+      "pub_sort_dt": "2026-09-23 05:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在特朗普准备会见习近平之际，民主党议员敦促他维持对中国汽车制造商的禁令 - Fox Business",
-      "title_cn": "在特朗普准备会见习近平之际，普京敦促他维持对中国汽车制造商的支持 - 福克斯商业频道",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPWWVQNGhkWVlPVjM2U3JXLWZUNGRYOEt4Xy03b3JFeHYtM3ppMkhWUUNveURlTXhEUzNQak1temlwbFp3UmNRd3BYOHZvb0prQUpmOFgwRGhFeWlGcXh0WUFqQXZJQVdsMmxkRm9rdmFFOEh0ejdUVUcwVmpxZGF5V0EydDdlSUxOeHN4em0zTWUwM3V4Vk9TMVpVZHpjZzZfQkFBLWx0dFJFcENNUzVvUjhGdDJnc2t4UVFnbdIBwgFBVV95cUxNWlBsRldWYkFVdVY2bkdlTjZjcVdEM2QtRlRRclpxUnhpMFhtQ1pmQS1mRUl3dkpyY2h3NDU5ZlJ2YXBvSmxvc1k5eHAzakUyZDFtSDFtNnVTTWxCOGphZzhiU29iWVBKcFpOME5KVWo5QkljOFpkV3lPc05OeWt6bEV5cDBrWk0xZ1N6U1JXWE9mZjByb1U0XzNZcFdEamFSa2o3N2c4TFVnS3MyeHVKUzQzRm9mS25qN0NVVThVX3J1Zw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T06:54:00.000Z",
-      "pub_sort_dt": "2026-09-22 14:54:00"
+      "title_en": "参议院民主党高层称，特朗普未能阻止中国获取美国人工智能技术 - The Hill",
+      "title_cn": "参议院高层称，特朗普未能阻止中国获取美国人工智能技术 - The Hill",
+      "url": "https://news.google.com/read/CBMiekFVX3lxTE5SOFUzQzlsOFVDUlRWN0VCMGx0Z3NEODlYQjliN29VbHZfWElQUXdueFhjYUxJaWhVcEZUdkpFX2pIcGQzLTFSMWswRjZ1b3AtX3MtNWZ3MzcxdmJXV0oyLUVnUHBOQmdHelBxM0lza3FiaXA5MFVxMkJR0gF_QVVfeXFMTWFpVU1NNDNWSHFBNnFSbGJHMG95U2VzUWVjX2FzZzZPa2w2TGJ0Q1dtMWk1OUNaSExxMGtyaFU1d0RZSzc2blNqUGc5Y1U3dDNEUTdlY2MxVG1mQ0Vnb0NYbTQyT1VsdzZtN2V4SDZBZ3UtV1ppMmNtSlYyQ3kyQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T17:20:00.000Z",
+      "pub_sort_dt": "2026-09-23 01:20:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "一家放弃肯塔基州转而进军中国市场的美国电池初创企业，在特朗普与习近平会晤之际投产建厂 - Reuters",
-      "title_cn": "一家放弃肯塔基州转而进军中国市场的美国电池企业，在特朗普与习近平会议之间投产建厂 - 路透社",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxNMTdtVnF3djJ1TExiZFZPRkx6V2hwWUcwNl9sRU9pblg3TnJveTNEajVHSlRDMXdfbmtXRUlhelpqOEZ2eUFrZWpkUWNNblZOWk1sTERLdjZYM2U5aUhqLTRwUFIyUXZXal8xSmk4czJDb18za1lqcTJabU9ORHN2cm1TanFxTnlHSjkzNjhfYU5CaUtpMURnd2J1dEtwM3E5OUlJZGJKcjZ6bTNBZS1VRXJWUXloTzBoVm5IOTFOOA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T06:32:00.000Z",
-      "pub_sort_dt": "2026-09-22 14:32:00"
+      "title_en": "中国共产党面临代际更替 - The Economist",
+      "title_cn": "中国共产党面临代际更替 - 经济学人",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxPenhjTUdrNl85RDZfZ1hYMm4tTTNEdjNWS2hMZTgwTlVacmdWdFl0SEUwbG9RcUtRc2FSZGJpOFVacDQ0Y3d5bWFPT0pERHF0MkxaMTVKc3BoZGRMSkdPUmhzY0ZUR1VJSE93eUxxNV94Sk1mcWo3eTJCZld4MXFqSTZ4c2lHbUJSU25mVmg5dWo4d2FKek5Z?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T15:49:51.000Z",
+      "pub_sort_dt": "2026-09-22 23:49:51"
     },
     {
       "source": "China Buzzing",
-      "title_en": "独家：消息人士称，中国国家主席习近平预计将敦促特朗普根据1982年协议停止对台军售 - Reuters",
-      "title_cn": "独家：消息人士称，中国国家主席习近平预计将敦促特朗普根据1982年协议停止对台军售 - 路透社",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxPdXROSDh1OUkxaUdBMjBrV21MM0JKLVVGZTNENlQzVjZIQmFXQk9nUkY1b0hVM3IwcEN4cnVMTmhKQ2pHaWgtZHY0RnhvNnNPaVllSk8tWV9NZm9vR3diS0djb2J5azJxa3F6WWhWMEMxbWpzVjBTWUoyMmZYZ2d3OWNVR3BodklUeUJCYVZ2MUNFTVI1REE2X2lLbUxuVFUxdHNQN3dYMHhMNFhZZkZUVi1JenVURXpqWmlGUzRucw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T06:11:27.000Z",
-      "pub_sort_dt": "2026-09-22 14:11:27"
+      "title_en": "2026年中国黄金进口量将接近1,200吨，这得益于国内溢价和人民币走强推动的投资需求 - Kitco",
+      "title_cn": "2026年中国黄金进口量将接近1200吨，这得益于国内溢价和人民币走强推动的投资需求 - Kitco",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxOd0QybzRCR1lUUXhSRlRReFF6R0wwcVg4MjcyaWZIdDVUSjdOeElHdjlZQUItNER1VWRvWm9NdUR4eFVkT0xzcUNJVzNSLThwZHpIRF9GeHh2Z1FJRG9LWlNIbmlEZVpfTmd1ejR0N1o3dWJxX2lxZDkycXJCRG4ybVB2TnFaZTlJd08ybWVaYnR5aVdCSG13YmQ1b1JGNm1KX0JQdWtqaXVrYzI5UkgtMVNpYWJqaURy?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T14:49:22.000Z",
+      "pub_sort_dt": "2026-09-22 22:49:22"
     },
     {
       "source": "China Buzzing",
-      "title_en": "为什么台湾问题对中国如此重要？ - Reuters",
-      "title_cn": "为什么台湾问题对中国如此重要？ - 路透社",
-      "url": "https://news.google.com/read/CBMilgFBVV95cUxOT09MRkhtMm9UTjgyUVRWUmFSeVNuLS1ONmtUX2RTU2N3c1A1OTM4R1RiRXhVUGI4VWNCSlNVaG0yVzBuYU5sellDMV9MODRPV3phd0x3blhPYlZwMEdlaXVLb0hQNXZLVzVHdWdhQURiZFR3ZFpDVEUtOWltZEdBZnJrN1dudTVpeHR5dTRUeFprQjNnTGc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T06:02:00.000Z",
-      "pub_sort_dt": "2026-09-22 14:02:00"
+      "title_en": "观点 中国的北极举措是一个战略警钟 - The Washington Post",
+      "title_cn": "观点中国的北极步伐是战略警钟 - 华盛顿邮报",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxQVEdPRmk1MF9yUno2QWs0TjF4b3E1V1dKbkxwc0UtVUZfM2FldHdIUXhqaHlsYWZ3WVZmYXNIcXJNQUgxWDBkRExYS1pudkNZbUhENHJWTEdSZWk2LWhBRU9VSF9tNVRPQkdqZm9iTXVaY0l0X0pBNmpBal93ZEJsSlJoRTZhTlFCSzlETlNyMUpiMENCZUx1ZUhaVkcwV2Z4MU5v?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T13:52:47.000Z",
+      "pub_sort_dt": "2026-09-22 21:52:47"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国在全球集装箱出口中的份额飙升至40% - Financial Times",
-      "title_cn": "中国在全球集装箱出口中的占比增至40% - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPY0lwSWFMUzVDSHNkVEdBZXY3Q0pOd29JWDc4ME1xNlVkeF9jZ1FqdHQ2VGNTcWRwZjNWVXV1QU9Ldk1nUjdYWVZYRWo2N2dUSklwdWFYbmhUU05iTUNTd0loRC1mUzloRmlCdkpIZ0xwVlc5dTJrWDVNM0wtWlhqYmcwUFQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T04:58:12.000Z",
-      "pub_sort_dt": "2026-09-22 12:58:12"
+      "title_en": "中国海警在南海撞击菲律宾船只，引发外交争端 - Fox News",
+      "title_cn": "中国海警在南海威胁船只，引发北极 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxPYzRfZTNfa1FqSmxRWVJ5TUxfaFQ1RkJZUUZRNVlDYTdPQ3RnWndhbFYxTk8xWDJWRWpHUmFqT3dTVW1WNmExLWJNeVZnWTlMWnRlWThEUWRpVlVEbWtpalpSTVZZWFJZYnltQ1NUQ3VzSllDQloyaHA2WFpQSXhoQlIyWlJrdzZPQXZ1TjFScE5Mb1ZxZzgtWXpQeUhSVEJrU0NDMXVVTTQyUmY3MW02RmNn0gG3AUFVX3lxTE93NEMyZWwxU21rV3MzcFl1bXl0MVVUUU9oYTBrNXJvT0lSTl9OMEZjUVJrMzNWWlBhemRfYXlxMmN1Y2tpbGdHa25yQUd1bE84Zlh3bkVvVU1TOG5mcGp2WFZXazNuYjRHSGJ0R2VHOFY0TXJVa2xZQU5EZFhtSWxDRE5ndEJwcHRJeWJMYUxIQmluOThkWURndnZDeGQ3UVVZLTdJYmZiVDJVU21TLTdaTGNoeXUzcw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T12:47:35.000Z",
+      "pub_sort_dt": "2026-09-22 20:47:35"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国的052D型驱逐舰如何改变西太平洋的力量平衡？ - South China Morning Post",
-      "title_cn": "中国052D型驱逐舰如何改变西太平洋的力量平衡？ - 南华早报",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxPeTZEYW1HN0VUaXVGUjBaZ0ZKSzhFV2EwWDdudzgzZXFfV1h4dlFiSXJLQnI3aVFsS3lOV1NrcDdVMHhFZVpNR0Z2Q1NtQkd6cUx5OUN2RUVmS280XzkzRnpZSzIyQnRVcEp4N2dUUWhKX3UxT3RvODRkdXR6NFc3R1RNT3RqMFhKc0NwNXRBNkdsV1pBZXdVbC1hUzZaU005aHJxVTNYMUV4TzF4cy1DaGRMRjIxQ003TU5WZTdybVJxNjTSAcMBQVVfeXFMUFc3dFpQSEpRTDVqd3pjcXNXclR1ZVJCUXR2Z3JLVkpRV3dPVThJUjV6LXY1eFhSZ0UweWhzdEw3dDU3NjFlbDk5U2R5V0h3T3BhWm0zS0RqcVZPZi0xRDQxejkxQ3QtOGtocHgtVEpmMm96elpYcG9VN0hSU1NwQWw0cU84MG8xM0pMeXA5RllBSkduS1ZFenFrZGkxWHNoM2l0U2xIY3prYll5SVVJb0JGYk5jTklsRTg5dUhfUlgxcEtr?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T04:00:08.000Z",
-      "pub_sort_dt": "2026-09-22 12:00:08"
+      "title_en": "独家 特朗普与习近平的峰会预计不会有中国企业高管出席 - WSJ",
+      "title_cn": "特朗普与习近平独家峰会预计不会有中国企业高管出席 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMimgFBVV95cUxQbTRlY1hUYk5kY19fRnhlR0NYOTFBNkhudWgzMF90d3lDSC1NaWxkQmhJZjlkNThESjd3bHkxZkw3bDgyYS1vQmd1LUtYMGxELWF1Ul9kWHBmX1NMeFB6Qi0taFdjRzNCYWtsNV9VQWJ2Q2pLU3RudzRveXk5NDZhYkh1eGRFY3g1T041QW1NTUVWMk9CM0d1S0Vn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T12:09:00.000Z",
+      "pub_sort_dt": "2026-09-22 20:09:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "受强劲投资需求推动，中国黄金进口量突破1,000吨 - Bloomberg.com",
-      "title_cn": "受强劲投资需求推动，中国黄金进口量突破千吨 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxPWEZjN0p6YmRHTXFFMGVkc1pTTFlqMHZqSzh2WXBJaFk4Zm9JQ1Z2aUxyRjczamRfdXlUaHlRQU01Y2FJYWNiMk9aWVFuY1FvaGVjZVp4MlVrNVN0bVAtT3ZHeFU4QTNKd1dNWnpEM05FUlZFRVMxVmtUUEJZV29td2lpbFotYVk2UjRXbUV5LXBSdkFOSl9kaHZNd25NVmtFc0NmRktJMThnRW9Wajl6ZXU3TXU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T03:52:00.000Z",
-      "pub_sort_dt": "2026-09-22 11:52:00"
+      "title_en": "罗·卡纳：在中美峰会前夕，特朗普已无计可施 - thehill.com",
+      "title_cn": "罗·卡纳：在中美峰会前夕，特朗普已无计可施 - thehill.com",
+      "url": "https://news.google.com/read/CBMib0FVX3lxTE1ucGdzRmx0NUdwaGxoMWxjZlphVVJjSE02SWtjWTVqVElDVXFNV25aSjFGMU1NUEcyT3d4YU51MFBwYmtaMktHT080WUtJQjRqUmZ6VUR2ZUVxQTI0S29Udm9ZNE1kcGJJYzhmRGY1c9IBdEFVX3lxTE9nQXBrdnZWdUl6ODFTQlZCVUtHaDgwMjNHSDlEWEdGMVRDYkkwSVExRWZld2phTVRZWE96eS1oTlItYk03UjhQTExfVmpOV0JpcEM1MW1VNlJtWWZiWE1vWEhja2lnRnhZLTZnZXJIUG1YMkhN?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T12:00:00.000Z",
+      "pub_sort_dt": "2026-09-22 20:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "日本因招致习近平的不满，希望特朗普能帮助制衡中国 - The New York Times",
-      "title_cn": "日本因招致习近平不满，希望特朗普能帮助制衡中国 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxOTTZYZmxEWjBrSTJiLVBiZ3o5bzFHRTdFUUNUZkNhaENvNFhMMU9NdkVSVjhkR0daOEdDUW54eV9GQ1QwQmcydzlBMHJyd25FaUVCY0VrcWRRcWtacGZ2cTFlUmpQTTlreEdueGFGQmx1TmprVGE4UEFrVXdBOGpZSG5LRE5DXzJRQTA2YmZn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T02:01:04.000Z",
-      "pub_sort_dt": "2026-09-22 10:01:04"
+      "title_en": "欧盟从中国进口的商品金额是其对华出口额的三倍 - The Guardian",
+      "title_cn": "欧盟从中国进口的商品金额是其对华出口额的三倍 - 英国卫报",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxOa1d3SkZ5d29YelY1NXo0TktpQUR4YmtINHFnLXNhZ1VETDJZWmhjRDVPTG9SN3BBMGFwdXFSZHFxQXphUjJpbEtPNUFtRlhRR1F1RWFaWlQwZDNFOWRTaV8zM1M0UXA3NzVDRzFkeS1YaWlYTDN3NnRxSmVkRVRkZzJKRjViVzZ6dmkxN1Bkckh0N0REOTl2aUF5ZkFVeG1IWEdTelhGeWVKeDR4SnJuUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T11:55:00.000Z",
+      "pub_sort_dt": "2026-09-22 19:55:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国领导人习近平希望在美中峰会期间延长与特朗普的“休战” - The New York Times",
-      "title_cn": "中国领导人习近平希望在美中峰会期间延长与特朗普的“休战” - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMihwFBVV95cUxOcy1fdWNraV9LM0J4WlBkOV9pdFozS3VIOGVYVl9PVkV2Vm9pVkxFUFBCeHJGT203aEhIQlRoQXZwVW5JN0xOeGw4dE5zcGRsa3RYVTNCSVhsbnZRY2VDeUxaWURILXNPY0RHYVRtSVpXdUZiQjBLVDk1WjBSa25PY0xwWnptV1E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T02:00:10.000Z",
-      "pub_sort_dt": "2026-09-22 10:00:10"
+      "title_en": "特朗普在联合国的演讲及中美会谈将关税、人工智能和能源问题推至聚光灯下 - WSJ",
+      "title_cn": "特朗普在联合国演讲及中美关税、人工智能和能源问题推至聚光灯下 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMiqgFBVV95cUxNbzFtdVRUektSQ0t5ZlltWF9lLU41dVRxMVl2WHNUZnpmaHJFZXBaX2ZOUEJFTEhZelhtYVhuSXlod1dSbWluMFF5SWp5RTFXV0tycFEzb3dSY0t5cGMzVUdRM2dHVzZzZWZFSkZBR09BTk1lTkd4SE53ZFpKZjgwNmh3dXF4VTRiU01xR0ZsS0t3LWpqazdTUi1WY0xGUmE3UEVjbkFyeEJMUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T09:59:00.000Z",
+      "pub_sort_dt": "2026-09-22 17:59:00"
     }
   ],
   "media_news": [
     {
       "source": "Reuters",
+      "title_en": "评论：对AI“终结者”的担忧可能掩盖了中国真正的威胁",
+      "title_cn": "评论：对AI“终结者”的担忧可能掩盖了中国真正的威胁",
+      "url": "https://reut.rs/4h6rd1V",
+      "pub_raw": "2026-09-22T21:18:46.302Z",
+      "pub_sort_dt": "2026-09-23 05:18:46"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在习近平访美前，特朗普与高市早苗举行会晤，讨论了中国问题",
+      "title_cn": "在习近平访美前，特朗普与高市早苗举行了会晤，讨论了中国问题",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/trump-takaichi-discuss-china-in-meeting-ahead-of-xi-s-us-visit",
+      "pub_raw": "2026-09-22T21:02:54.353Z",
+      "pub_sort_dt": "2026-09-23 05:02:54"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "特朗普与习近平的峰会不太可能有中国企业高管出席",
+      "title_cn": "特朗普与习近平的峰会大概有中国企业高管出席",
+      "url": "https://on.wsj.com/4xAeglJ",
+      "pub_raw": "2026-09-22T18:25:26.391Z",
+      "pub_sort_dt": "2026-09-23 02:25:26"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "纽森称，多亏了特朗普，中国在绿色科技领域“把我们甩得远远的”",
+      "title_cn": "纽森称，多亏了特朗普，中国在绿色科技领域“把我们甩得如此”",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/newsom-says-china-is-cleaning-our-clock-in-green-tech-thanks-to-trump",
+      "pub_raw": "2026-09-22T18:09:33.581Z",
+      "pub_sort_dt": "2026-09-23 02:09:33"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国共产党正面临一代人的更替",
+      "title_cn": "中国共产党正面临一代人的更替",
+      "url": "https://www.economist.com/china/2026/09/22/chinas-communist-party-faces-a-generational-shift",
+      "pub_raw": "2026-09-22T16:51:27.124Z",
+      "pub_sort_dt": "2026-09-23 00:51:27"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "习近平-特朗普峰会议程：人工智能、关税、关键矿产、伊朗战争、台湾",
+      "title_cn": "习近平-特朗普峰会议程：人工智能、关税、关键矿产、伊朗战争、台湾",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/xi-trump-summit-agenda-ai-tariffs-critical-minerals-iran-war-taiwan",
+      "pub_raw": "2026-09-22T16:20:02.464Z",
+      "pub_sort_dt": "2026-09-23 00:20:02"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "欧洲制药企业呼吁加快临床试验进度、增加投入，以与美国和中国竞争",
+      "title_cn": "欧洲制药企业呼吁加快临床试验进度、增加投入，以与美国和中国竞争",
+      "url": "https://reut.rs/4rrPsv0",
+      "pub_raw": "2026-09-22T14:45:27.344Z",
+      "pub_sort_dt": "2026-09-22 22:45:27"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "宝马首席执行官认为廉价中国汽车在欧洲市场存在风险，但反对征收关税",
+      "title_cn": "宝马集团认为廉价中国汽车在欧洲市场存在风险，但反对关税关税",
+      "url": "https://reut.rs/3TlhhIB",
+      "pub_raw": "2026-09-22T13:43:10.495Z",
+      "pub_sort_dt": "2026-09-22 21:43:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国商务部长表示，中国支持本国汽车制造商在欧洲投资",
+      "title_cn": "中国商务部长表示，中国支持本国汽车制造商在欧洲投资",
+      "url": "https://reut.rs/4yLWnRX",
+      "pub_raw": "2026-09-22T13:11:30.019Z",
+      "pub_sort_dt": "2026-09-22 21:11:30"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "欧洲央行发现，中国工业的崛起给德国制造商带来了沉重打击",
+      "title_cn": "欧洲央行发现，中国工业的崛起给德国制造业带来了沉重打击",
+      "url": "https://reut.rs/4h833E7",
+      "pub_raw": "2026-09-22T12:24:32.649Z",
+      "pub_sort_dt": "2026-09-22 20:24:32"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "台湾部长称，在此次罕见的访华之行中并未受到“轻视”",
+      "title_cn": "台湾部长表示，在这次罕见的访华之行中感受到“轻视”",
+      "url": "https://reut.rs/3ThpT2U",
+      "pub_raw": "2026-09-22T11:52:54.496Z",
+      "pub_sort_dt": "2026-09-22 19:52:54"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "习近平认为，特朗普为说服台湾方面认识到抵抗是徒劳的提供了“难得的契机”",
+      "title_cn": "习近平认为，特朗普为说服台湾方面认识到抵抗是徒劳的提供了“难得的契机”",
+      "url": "https://on.wsj.com/4xHRs3v",
+      "pub_raw": "2026-09-22T11:37:48.634Z",
+      "pub_sort_dt": "2026-09-22 19:37:48"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Ligent Technologies在香港IPO募资7.27亿美元后，上市首日股价上涨",
+      "title_cn": "Ligent Technologies在香港IPO募资7.27亿美元后，上市首日股价上涨",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/ligent-technologies-to-debut-after-727-million-in-hong-kong-ipo",
+      "pub_raw": "2026-09-22T10:05:04.253Z",
+      "pub_sort_dt": "2026-09-22 18:05:04"
+    },
+    {
+      "source": "Reuters",
       "title_en": "中国任命胡长生为西藏新任党书记",
       "title_cn": "中国智力胡长生为西藏新任党指南",
       "url": "https://reut.rs/4rvgkuc",
@@ -147,192 +251,192 @@
       "url": "https://reut.rs/4AwF618",
       "pub_raw": "2026-09-22T06:41:21.654Z",
       "pub_sort_dt": "2026-09-22 14:41:21"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国在全球集装箱出口中的份额飙升至40%",
-      "title_cn": "中国在全球集装箱出口中的占比达到40%",
-      "url": "https://www.ft.com/content/51c49052-0799-4920-9189-8399f15c1f51?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-22T05:37:39.228Z",
-      "pub_sort_dt": "2026-09-22 13:37:39"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "越南称与美方协议即将达成，否认对中国货物改道",
-      "title_cn": "越南称与美方协议即将达成，否认对中国货物改道",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/vietnam-leader-says-us-deal-close-denies-re-routing-china-goods",
-      "pub_raw": "2026-09-22T04:50:24.684Z",
-      "pub_sort_dt": "2026-09-22 12:50:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受强劲投资需求推动，中国黄金进口量突破1,000吨",
-      "title_cn": "受投资需求强劲推动，中国黄金进口量突破千吨",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/china-s-gold-imports-top-1-000-tons-on-strong-investment-demand",
-      "pub_raw": "2026-09-22T04:18:20.282Z",
-      "pub_sort_dt": "2026-09-22 12:18:20"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "人工智能对能源的需求推动中国加快核聚变研究步伐",
-      "title_cn": "人工智能对能源的需求推动中国加快核聚变研究行动",
-      "url": "https://www.ft.com/content/e6f2c05a-ea91-458c-8842-25913d3e4cac?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-22T03:15:42.002Z",
-      "pub_sort_dt": "2026-09-22 11:15:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Ligent Technologies在香港IPO募资7.27亿美元后，上市首日股价大涨",
-      "title_cn": "Ligent Technologies在香港IPO募资7.27亿美元后，上市首日股价大涨",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/ligent-technologies-to-debut-after-727-million-in-hong-kong-ipo",
-      "pub_raw": "2026-09-22T01:56:24.994Z",
-      "pub_sort_dt": "2026-09-22 09:56:24"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国外长表示，中国和欧洲不应打贸易战",
-      "title_cn": "中国外长表示，中国和欧洲不应打贸易战",
-      "url": "https://reut.rs/4Ap3YaX",
-      "pub_raw": "2026-09-22T00:36:31.086Z",
-      "pub_sort_dt": "2026-09-22 08:36:31"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "唐纳德·特朗普称中国正在开放。美国企业主对此持不同意见",
-      "title_cn": "唐纳德·特朗普称中国正在开放。美国企业主对此持不同看法",
-      "url": "https://www.economist.com/business/2026/09/21/donald-trump-says-china-is-opening-up-american-bosses-disagree",
-      "pub_raw": "2026-09-21T19:50:24.882Z",
-      "pub_sort_dt": "2026-09-22 03:50:24"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "毛泽东能给中国带来哪些关于应对美国的启示",
-      "title_cn": "毛泽东给中国带来了哪些关于应对美国的启示",
-      "url": "https://www.economist.com/china/2026/09/21/what-mao-can-teach-china-about-managing-america",
-      "pub_raw": "2026-09-21T19:50:24.821Z",
-      "pub_sort_dt": "2026-09-22 03:50:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "向沙特阿拉伯出售F-35战机？为何以色列和中国的因素使美国的这笔军售变得复杂",
-      "title_cn": "向东南出售F-35战机？以色列和中国的重要因素使美国的军售为何变得复杂",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/f-35s-for-saudi-arabia-why-israel-and-china-angles-complicate-a-us-sale",
-      "pub_raw": "2026-09-21T19:50:24.592Z",
-      "pub_sort_dt": "2026-09-22 03:50:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国有选择性地采购农产品，在峰会前考验美中贸易停火协议",
-      "title_cn": "中国有选择性地采购农产品，在峰会前考验美中贸易停火协议",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/china-s-selective-crop-buying-tests-us-trade-truce-before-summit",
-      "pub_raw": "2026-09-21T19:50:24.399Z",
-      "pub_sort_dt": "2026-09-22 03:50:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "习近平与特朗普会晤前，中国对美稀土出口量下降",
-      "title_cn": "习近平与特朗普会晤前，中国对美稀土出口量下降",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/china-rare-earth-magnet-exports-to-us-drop-before-xi-trump-meet",
-      "pub_raw": "2026-09-21T19:50:24.385Z",
-      "pub_sort_dt": "2026-09-22 03:50:24"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国指责被免职的高级将领“不忠”",
-      "title_cn": "中国指责被免职的高级将领“不忠”",
-      "url": "https://www.ft.com/content/378926f5-0494-4f5e-8bd1-e1775980ab82?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-21T19:50:19.881Z",
-      "pub_sort_dt": "2026-09-22 03:50:19"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国以“不忠、腐败”为由，将两名高级将领开除出党并开除军职",
-      "title_cn": "中国以“不忠、腐败”为由，将二高级将领开除出党并开除军职",
-      "url": "https://reut.rs/4rkp0mQ",
-      "pub_raw": "2026-09-21T12:35:14.658Z",
-      "pub_sort_dt": "2026-09-21 20:35:14"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "今年中国进口黄金超过1,000吨，进口额创下历史新高 - Financial Times",
-      "title_cn": "今年中国进口黄金超过1000吨，进口额历史新高 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQQmU5Y0tyY0xOSEc0UDcta21lb2toUldvdXQ5MlFHZzlqTF9DUUg0a2RWSmdKUEdrblhHb1k1aVIyTmk3NjFkNW5uMWpJYjRPT2VUMEJkZzhZeG1JZ0VDZTJUMEdUS1UtVXF3ZGVUWnlaSDVBMlRob3dwVEx3UFVPNmZ2S0M?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T07:45:05.000Z",
-      "pub_sort_dt": "2026-09-22 15:45:05"
+      "title_en": "随着战争动摇全球市场，中国国家主席携新的能源筹码抵达美国 - Politico",
+      "title_cn": "随着全球市场的动摇，中国国家主席携新的能源筹码陌生美国 - 政治战争",
+      "url": "https://news.google.com/read/CBMi2AFBVV95cUxONzI3VXBjTVEzcUE5QnViVHVPRjV1UHdSNVZJSUU2dUppNUdhejFCWURocGpnaGZvd1hQZHVsMXhBM0loTUZhcTd6d0JpWkYyN1cwZmNtakJfVjhkNTlJZXRJN1dnY0RLbkNEZzdCSTJzRVlrZzExX2M3eS13RnJWWl9ScHpqNHhQZjRnUjRQWlZEeWdRVHlsTHZOZVZHMURGSVhhOVh5ZE1HR2pzNDgtajNEbHZXTHB0QmJ5RDhOUnM3UmVfYmlUNW9vbmtSbmJnRUFid0hoYnU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T21:00:00.000Z",
+      "pub_sort_dt": "2026-09-23 05:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在特朗普准备会见习近平之际，民主党议员敦促他维持对中国汽车制造商的禁令 - Fox Business",
-      "title_cn": "在特朗普准备会见习近平之际，普京敦促他维持对中国汽车制造商的支持 - 福克斯商业频道",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPWWVQNGhkWVlPVjM2U3JXLWZUNGRYOEt4Xy03b3JFeHYtM3ppMkhWUUNveURlTXhEUzNQak1temlwbFp3UmNRd3BYOHZvb0prQUpmOFgwRGhFeWlGcXh0WUFqQXZJQVdsMmxkRm9rdmFFOEh0ejdUVUcwVmpxZGF5V0EydDdlSUxOeHN4em0zTWUwM3V4Vk9TMVpVZHpjZzZfQkFBLWx0dFJFcENNUzVvUjhGdDJnc2t4UVFnbdIBwgFBVV95cUxNWlBsRldWYkFVdVY2bkdlTjZjcVdEM2QtRlRRclpxUnhpMFhtQ1pmQS1mRUl3dkpyY2h3NDU5ZlJ2YXBvSmxvc1k5eHAzakUyZDFtSDFtNnVTTWxCOGphZzhiU29iWVBKcFpOME5KVWo5QkljOFpkV3lPc05OeWt6bEV5cDBrWk0xZ1N6U1JXWE9mZjByb1U0XzNZcFdEamFSa2o3N2c4TFVnS3MyeHVKUzQzRm9mS25qN0NVVThVX3J1Zw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T06:54:00.000Z",
-      "pub_sort_dt": "2026-09-22 14:54:00"
+      "title_en": "参议院民主党高层称，特朗普未能阻止中国获取美国人工智能技术 - The Hill",
+      "title_cn": "参议院高层称，特朗普未能阻止中国获取美国人工智能技术 - The Hill",
+      "url": "https://news.google.com/read/CBMiekFVX3lxTE5SOFUzQzlsOFVDUlRWN0VCMGx0Z3NEODlYQjliN29VbHZfWElQUXdueFhjYUxJaWhVcEZUdkpFX2pIcGQzLTFSMWswRjZ1b3AtX3MtNWZ3MzcxdmJXV0oyLUVnUHBOQmdHelBxM0lza3FiaXA5MFVxMkJR0gF_QVVfeXFMTWFpVU1NNDNWSHFBNnFSbGJHMG95U2VzUWVjX2FzZzZPa2w2TGJ0Q1dtMWk1OUNaSExxMGtyaFU1d0RZSzc2blNqUGc5Y1U3dDNEUTdlY2MxVG1mQ0Vnb0NYbTQyT1VsdzZtN2V4SDZBZ3UtV1ppMmNtSlYyQ3kyQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T17:20:00.000Z",
+      "pub_sort_dt": "2026-09-23 01:20:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "一家放弃肯塔基州转而进军中国市场的美国电池初创企业，在特朗普与习近平会晤之际投产建厂 - Reuters",
-      "title_cn": "一家放弃肯塔基州转而进军中国市场的美国电池企业，在特朗普与习近平会议之间投产建厂 - 路透社",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxNMTdtVnF3djJ1TExiZFZPRkx6V2hwWUcwNl9sRU9pblg3TnJveTNEajVHSlRDMXdfbmtXRUlhelpqOEZ2eUFrZWpkUWNNblZOWk1sTERLdjZYM2U5aUhqLTRwUFIyUXZXal8xSmk4czJDb18za1lqcTJabU9ORHN2cm1TanFxTnlHSjkzNjhfYU5CaUtpMURnd2J1dEtwM3E5OUlJZGJKcjZ6bTNBZS1VRXJWUXloTzBoVm5IOTFOOA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T06:32:00.000Z",
-      "pub_sort_dt": "2026-09-22 14:32:00"
+      "title_en": "中国共产党面临代际更替 - The Economist",
+      "title_cn": "中国共产党面临代际更替 - 经济学人",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxPenhjTUdrNl85RDZfZ1hYMm4tTTNEdjNWS2hMZTgwTlVacmdWdFl0SEUwbG9RcUtRc2FSZGJpOFVacDQ0Y3d5bWFPT0pERHF0MkxaMTVKc3BoZGRMSkdPUmhzY0ZUR1VJSE93eUxxNV94Sk1mcWo3eTJCZld4MXFqSTZ4c2lHbUJSU25mVmg5dWo4d2FKek5Z?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T15:49:51.000Z",
+      "pub_sort_dt": "2026-09-22 23:49:51"
     },
     {
       "source": "China Buzzing",
-      "title_en": "独家：消息人士称，中国国家主席习近平预计将敦促特朗普根据1982年协议停止对台军售 - Reuters",
-      "title_cn": "独家：消息人士称，中国国家主席习近平预计将敦促特朗普根据1982年协议停止对台军售 - 路透社",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxPdXROSDh1OUkxaUdBMjBrV21MM0JKLVVGZTNENlQzVjZIQmFXQk9nUkY1b0hVM3IwcEN4cnVMTmhKQ2pHaWgtZHY0RnhvNnNPaVllSk8tWV9NZm9vR3diS0djb2J5azJxa3F6WWhWMEMxbWpzVjBTWUoyMmZYZ2d3OWNVR3BodklUeUJCYVZ2MUNFTVI1REE2X2lLbUxuVFUxdHNQN3dYMHhMNFhZZkZUVi1JenVURXpqWmlGUzRucw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T06:11:27.000Z",
-      "pub_sort_dt": "2026-09-22 14:11:27"
+      "title_en": "2026年中国黄金进口量将接近1,200吨，这得益于国内溢价和人民币走强推动的投资需求 - Kitco",
+      "title_cn": "2026年中国黄金进口量将接近1200吨，这得益于国内溢价和人民币走强推动的投资需求 - Kitco",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxOd0QybzRCR1lUUXhSRlRReFF6R0wwcVg4MjcyaWZIdDVUSjdOeElHdjlZQUItNER1VWRvWm9NdUR4eFVkT0xzcUNJVzNSLThwZHpIRF9GeHh2Z1FJRG9LWlNIbmlEZVpfTmd1ejR0N1o3dWJxX2lxZDkycXJCRG4ybVB2TnFaZTlJd08ybWVaYnR5aVdCSG13YmQ1b1JGNm1KX0JQdWtqaXVrYzI5UkgtMVNpYWJqaURy?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T14:49:22.000Z",
+      "pub_sort_dt": "2026-09-22 22:49:22"
     },
     {
       "source": "China Buzzing",
-      "title_en": "为什么台湾问题对中国如此重要？ - Reuters",
-      "title_cn": "为什么台湾问题对中国如此重要？ - 路透社",
-      "url": "https://news.google.com/read/CBMilgFBVV95cUxOT09MRkhtMm9UTjgyUVRWUmFSeVNuLS1ONmtUX2RTU2N3c1A1OTM4R1RiRXhVUGI4VWNCSlNVaG0yVzBuYU5sellDMV9MODRPV3phd0x3blhPYlZwMEdlaXVLb0hQNXZLVzVHdWdhQURiZFR3ZFpDVEUtOWltZEdBZnJrN1dudTVpeHR5dTRUeFprQjNnTGc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T06:02:00.000Z",
-      "pub_sort_dt": "2026-09-22 14:02:00"
+      "title_en": "观点 中国的北极举措是一个战略警钟 - The Washington Post",
+      "title_cn": "观点中国的北极步伐是战略警钟 - 华盛顿邮报",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxQVEdPRmk1MF9yUno2QWs0TjF4b3E1V1dKbkxwc0UtVUZfM2FldHdIUXhqaHlsYWZ3WVZmYXNIcXJNQUgxWDBkRExYS1pudkNZbUhENHJWTEdSZWk2LWhBRU9VSF9tNVRPQkdqZm9iTXVaY0l0X0pBNmpBal93ZEJsSlJoRTZhTlFCSzlETlNyMUpiMENCZUx1ZUhaVkcwV2Z4MU5v?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T13:52:47.000Z",
+      "pub_sort_dt": "2026-09-22 21:52:47"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国在全球集装箱出口中的份额飙升至40% - Financial Times",
-      "title_cn": "中国在全球集装箱出口中的占比增至40% - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPY0lwSWFMUzVDSHNkVEdBZXY3Q0pOd29JWDc4ME1xNlVkeF9jZ1FqdHQ2VGNTcWRwZjNWVXV1QU9Ldk1nUjdYWVZYRWo2N2dUSklwdWFYbmhUU05iTUNTd0loRC1mUzloRmlCdkpIZ0xwVlc5dTJrWDVNM0wtWlhqYmcwUFQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T04:58:12.000Z",
-      "pub_sort_dt": "2026-09-22 12:58:12"
+      "title_en": "中国海警在南海撞击菲律宾船只，引发外交争端 - Fox News",
+      "title_cn": "中国海警在南海威胁船只，引发北极 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxPYzRfZTNfa1FqSmxRWVJ5TUxfaFQ1RkJZUUZRNVlDYTdPQ3RnWndhbFYxTk8xWDJWRWpHUmFqT3dTVW1WNmExLWJNeVZnWTlMWnRlWThEUWRpVlVEbWtpalpSTVZZWFJZYnltQ1NUQ3VzSllDQloyaHA2WFpQSXhoQlIyWlJrdzZPQXZ1TjFScE5Mb1ZxZzgtWXpQeUhSVEJrU0NDMXVVTTQyUmY3MW02RmNn0gG3AUFVX3lxTE93NEMyZWwxU21rV3MzcFl1bXl0MVVUUU9oYTBrNXJvT0lSTl9OMEZjUVJrMzNWWlBhemRfYXlxMmN1Y2tpbGdHa25yQUd1bE84Zlh3bkVvVU1TOG5mcGp2WFZXazNuYjRHSGJ0R2VHOFY0TXJVa2xZQU5EZFhtSWxDRE5ndEJwcHRJeWJMYUxIQmluOThkWURndnZDeGQ3UVVZLTdJYmZiVDJVU21TLTdaTGNoeXUzcw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T12:47:35.000Z",
+      "pub_sort_dt": "2026-09-22 20:47:35"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国的052D型驱逐舰如何改变西太平洋的力量平衡？ - South China Morning Post",
-      "title_cn": "中国052D型驱逐舰如何改变西太平洋的力量平衡？ - 南华早报",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxPeTZEYW1HN0VUaXVGUjBaZ0ZKSzhFV2EwWDdudzgzZXFfV1h4dlFiSXJLQnI3aVFsS3lOV1NrcDdVMHhFZVpNR0Z2Q1NtQkd6cUx5OUN2RUVmS280XzkzRnpZSzIyQnRVcEp4N2dUUWhKX3UxT3RvODRkdXR6NFc3R1RNT3RqMFhKc0NwNXRBNkdsV1pBZXdVbC1hUzZaU005aHJxVTNYMUV4TzF4cy1DaGRMRjIxQ003TU5WZTdybVJxNjTSAcMBQVVfeXFMUFc3dFpQSEpRTDVqd3pjcXNXclR1ZVJCUXR2Z3JLVkpRV3dPVThJUjV6LXY1eFhSZ0UweWhzdEw3dDU3NjFlbDk5U2R5V0h3T3BhWm0zS0RqcVZPZi0xRDQxejkxQ3QtOGtocHgtVEpmMm96elpYcG9VN0hSU1NwQWw0cU84MG8xM0pMeXA5RllBSkduS1ZFenFrZGkxWHNoM2l0U2xIY3prYll5SVVJb0JGYk5jTklsRTg5dUhfUlgxcEtr?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T04:00:08.000Z",
-      "pub_sort_dt": "2026-09-22 12:00:08"
+      "title_en": "独家 特朗普与习近平的峰会预计不会有中国企业高管出席 - WSJ",
+      "title_cn": "特朗普与习近平独家峰会预计不会有中国企业高管出席 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMimgFBVV95cUxQbTRlY1hUYk5kY19fRnhlR0NYOTFBNkhudWgzMF90d3lDSC1NaWxkQmhJZjlkNThESjd3bHkxZkw3bDgyYS1vQmd1LUtYMGxELWF1Ul9kWHBmX1NMeFB6Qi0taFdjRzNCYWtsNV9VQWJ2Q2pLU3RudzRveXk5NDZhYkh1eGRFY3g1T041QW1NTUVWMk9CM0d1S0Vn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T12:09:00.000Z",
+      "pub_sort_dt": "2026-09-22 20:09:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "受强劲投资需求推动，中国黄金进口量突破1,000吨 - Bloomberg.com",
-      "title_cn": "受强劲投资需求推动，中国黄金进口量突破千吨 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxPWEZjN0p6YmRHTXFFMGVkc1pTTFlqMHZqSzh2WXBJaFk4Zm9JQ1Z2aUxyRjczamRfdXlUaHlRQU01Y2FJYWNiMk9aWVFuY1FvaGVjZVp4MlVrNVN0bVAtT3ZHeFU4QTNKd1dNWnpEM05FUlZFRVMxVmtUUEJZV29td2lpbFotYVk2UjRXbUV5LXBSdkFOSl9kaHZNd25NVmtFc0NmRktJMThnRW9Wajl6ZXU3TXU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T03:52:00.000Z",
-      "pub_sort_dt": "2026-09-22 11:52:00"
+      "title_en": "罗·卡纳：在中美峰会前夕，特朗普已无计可施 - thehill.com",
+      "title_cn": "罗·卡纳：在中美峰会前夕，特朗普已无计可施 - thehill.com",
+      "url": "https://news.google.com/read/CBMib0FVX3lxTE1ucGdzRmx0NUdwaGxoMWxjZlphVVJjSE02SWtjWTVqVElDVXFNV25aSjFGMU1NUEcyT3d4YU51MFBwYmtaMktHT080WUtJQjRqUmZ6VUR2ZUVxQTI0S29Udm9ZNE1kcGJJYzhmRGY1c9IBdEFVX3lxTE9nQXBrdnZWdUl6ODFTQlZCVUtHaDgwMjNHSDlEWEdGMVRDYkkwSVExRWZld2phTVRZWE96eS1oTlItYk03UjhQTExfVmpOV0JpcEM1MW1VNlJtWWZiWE1vWEhja2lnRnhZLTZnZXJIUG1YMkhN?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T12:00:00.000Z",
+      "pub_sort_dt": "2026-09-22 20:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "日本因招致习近平的不满，希望特朗普能帮助制衡中国 - The New York Times",
-      "title_cn": "日本因招致习近平不满，希望特朗普能帮助制衡中国 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxOTTZYZmxEWjBrSTJiLVBiZ3o5bzFHRTdFUUNUZkNhaENvNFhMMU9NdkVSVjhkR0daOEdDUW54eV9GQ1QwQmcydzlBMHJyd25FaUVCY0VrcWRRcWtacGZ2cTFlUmpQTTlreEdueGFGQmx1TmprVGE4UEFrVXdBOGpZSG5LRE5DXzJRQTA2YmZn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T02:01:04.000Z",
-      "pub_sort_dt": "2026-09-22 10:01:04"
+      "title_en": "欧盟从中国进口的商品金额是其对华出口额的三倍 - The Guardian",
+      "title_cn": "欧盟从中国进口的商品金额是其对华出口额的三倍 - 英国卫报",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxOa1d3SkZ5d29YelY1NXo0TktpQUR4YmtINHFnLXNhZ1VETDJZWmhjRDVPTG9SN3BBMGFwdXFSZHFxQXphUjJpbEtPNUFtRlhRR1F1RWFaWlQwZDNFOWRTaV8zM1M0UXA3NzVDRzFkeS1YaWlYTDN3NnRxSmVkRVRkZzJKRjViVzZ6dmkxN1Bkckh0N0REOTl2aUF5ZkFVeG1IWEdTelhGeWVKeDR4SnJuUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T11:55:00.000Z",
+      "pub_sort_dt": "2026-09-22 19:55:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国领导人习近平希望在美中峰会期间延长与特朗普的“休战” - The New York Times",
-      "title_cn": "中国领导人习近平希望在美中峰会期间延长与特朗普的“休战” - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMihwFBVV95cUxOcy1fdWNraV9LM0J4WlBkOV9pdFozS3VIOGVYVl9PVkV2Vm9pVkxFUFBCeHJGT203aEhIQlRoQXZwVW5JN0xOeGw4dE5zcGRsa3RYVTNCSVhsbnZRY2VDeUxaWURILXNPY0RHYVRtSVpXdUZiQjBLVDk1WjBSa25PY0xwWnptV1E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T02:00:10.000Z",
-      "pub_sort_dt": "2026-09-22 10:00:10"
+      "title_en": "特朗普在联合国的演讲及中美会谈将关税、人工智能和能源问题推至聚光灯下 - WSJ",
+      "title_cn": "特朗普在联合国演讲及中美关税、人工智能和能源问题推至聚光灯下 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMiqgFBVV95cUxNbzFtdVRUektSQ0t5ZlltWF9lLU41dVRxMVl2WHNUZnpmaHJFZXBaX2ZOUEJFTEhZelhtYVhuSXlod1dSbWluMFF5SWp5RTFXV0tycFEzb3dSY0t5cGMzVUdRM2dHVzZzZWZFSkZBR09BTk1lTkd4SE53ZFpKZjgwNmh3dXF4VTRiU01xR0ZsS0t3LWpqazdTUi1WY0xGUmE3UEVjbkFyeEJMUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T09:59:00.000Z",
+      "pub_sort_dt": "2026-09-22 17:59:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "评论：对AI“终结者”的担忧可能掩盖了中国真正的威胁",
+      "title_cn": "评论：对AI“终结者”的担忧可能掩盖了中国真正的威胁",
+      "url": "https://reut.rs/4h6rd1V",
+      "pub_raw": "2026-09-22T21:18:46.302Z",
+      "pub_sort_dt": "2026-09-23 05:18:46"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在习近平访美前，特朗普与高市早苗举行会晤，讨论了中国问题",
+      "title_cn": "在习近平访美前，特朗普与高市早苗举行了会晤，讨论了中国问题",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/trump-takaichi-discuss-china-in-meeting-ahead-of-xi-s-us-visit",
+      "pub_raw": "2026-09-22T21:02:54.353Z",
+      "pub_sort_dt": "2026-09-23 05:02:54"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "特朗普与习近平的峰会不太可能有中国企业高管出席",
+      "title_cn": "特朗普与习近平的峰会大概有中国企业高管出席",
+      "url": "https://on.wsj.com/4xAeglJ",
+      "pub_raw": "2026-09-22T18:25:26.391Z",
+      "pub_sort_dt": "2026-09-23 02:25:26"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "纽森称，多亏了特朗普，中国在绿色科技领域“把我们甩得远远的”",
+      "title_cn": "纽森称，多亏了特朗普，中国在绿色科技领域“把我们甩得如此”",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/newsom-says-china-is-cleaning-our-clock-in-green-tech-thanks-to-trump",
+      "pub_raw": "2026-09-22T18:09:33.581Z",
+      "pub_sort_dt": "2026-09-23 02:09:33"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国共产党正面临一代人的更替",
+      "title_cn": "中国共产党正面临一代人的更替",
+      "url": "https://www.economist.com/china/2026/09/22/chinas-communist-party-faces-a-generational-shift",
+      "pub_raw": "2026-09-22T16:51:27.124Z",
+      "pub_sort_dt": "2026-09-23 00:51:27"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "习近平-特朗普峰会议程：人工智能、关税、关键矿产、伊朗战争、台湾",
+      "title_cn": "习近平-特朗普峰会议程：人工智能、关税、关键矿产、伊朗战争、台湾",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/xi-trump-summit-agenda-ai-tariffs-critical-minerals-iran-war-taiwan",
+      "pub_raw": "2026-09-22T16:20:02.464Z",
+      "pub_sort_dt": "2026-09-23 00:20:02"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "欧洲制药企业呼吁加快临床试验进度、增加投入，以与美国和中国竞争",
+      "title_cn": "欧洲制药企业呼吁加快临床试验进度、增加投入，以与美国和中国竞争",
+      "url": "https://reut.rs/4rrPsv0",
+      "pub_raw": "2026-09-22T14:45:27.344Z",
+      "pub_sort_dt": "2026-09-22 22:45:27"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "宝马首席执行官认为廉价中国汽车在欧洲市场存在风险，但反对征收关税",
+      "title_cn": "宝马集团认为廉价中国汽车在欧洲市场存在风险，但反对关税关税",
+      "url": "https://reut.rs/3TlhhIB",
+      "pub_raw": "2026-09-22T13:43:10.495Z",
+      "pub_sort_dt": "2026-09-22 21:43:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国商务部长表示，中国支持本国汽车制造商在欧洲投资",
+      "title_cn": "中国商务部长表示，中国支持本国汽车制造商在欧洲投资",
+      "url": "https://reut.rs/4yLWnRX",
+      "pub_raw": "2026-09-22T13:11:30.019Z",
+      "pub_sort_dt": "2026-09-22 21:11:30"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "欧洲央行发现，中国工业的崛起给德国制造商带来了沉重打击",
+      "title_cn": "欧洲央行发现，中国工业的崛起给德国制造业带来了沉重打击",
+      "url": "https://reut.rs/4h833E7",
+      "pub_raw": "2026-09-22T12:24:32.649Z",
+      "pub_sort_dt": "2026-09-22 20:24:32"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "台湾部长称，在此次罕见的访华之行中并未受到“轻视”",
+      "title_cn": "台湾部长表示，在这次罕见的访华之行中感受到“轻视”",
+      "url": "https://reut.rs/3ThpT2U",
+      "pub_raw": "2026-09-22T11:52:54.496Z",
+      "pub_sort_dt": "2026-09-22 19:52:54"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "习近平认为，特朗普为说服台湾方面认识到抵抗是徒劳的提供了“难得的契机”",
+      "title_cn": "习近平认为，特朗普为说服台湾方面认识到抵抗是徒劳的提供了“难得的契机”",
+      "url": "https://on.wsj.com/4xHRs3v",
+      "pub_raw": "2026-09-22T11:37:48.634Z",
+      "pub_sort_dt": "2026-09-22 19:37:48"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Ligent Technologies在香港IPO募资7.27亿美元后，上市首日股价上涨",
+      "title_cn": "Ligent Technologies在香港IPO募资7.27亿美元后，上市首日股价上涨",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/ligent-technologies-to-debut-after-727-million-in-hong-kong-ipo",
+      "pub_raw": "2026-09-22T10:05:04.253Z",
+      "pub_sort_dt": "2026-09-22 18:05:04"
     },
     {
       "source": "Reuters",
@@ -389,110 +493,6 @@
       "url": "https://reut.rs/4AwF618",
       "pub_raw": "2026-09-22T06:41:21.654Z",
       "pub_sort_dt": "2026-09-22 14:41:21"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国在全球集装箱出口中的份额飙升至40%",
-      "title_cn": "中国在全球集装箱出口中的占比达到40%",
-      "url": "https://www.ft.com/content/51c49052-0799-4920-9189-8399f15c1f51?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-22T05:37:39.228Z",
-      "pub_sort_dt": "2026-09-22 13:37:39"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "越南称与美方协议即将达成，否认对中国货物改道",
-      "title_cn": "越南称与美方协议即将达成，否认对中国货物改道",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/vietnam-leader-says-us-deal-close-denies-re-routing-china-goods",
-      "pub_raw": "2026-09-22T04:50:24.684Z",
-      "pub_sort_dt": "2026-09-22 12:50:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受强劲投资需求推动，中国黄金进口量突破1,000吨",
-      "title_cn": "受投资需求强劲推动，中国黄金进口量突破千吨",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/china-s-gold-imports-top-1-000-tons-on-strong-investment-demand",
-      "pub_raw": "2026-09-22T04:18:20.282Z",
-      "pub_sort_dt": "2026-09-22 12:18:20"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "人工智能对能源的需求推动中国加快核聚变研究步伐",
-      "title_cn": "人工智能对能源的需求推动中国加快核聚变研究行动",
-      "url": "https://www.ft.com/content/e6f2c05a-ea91-458c-8842-25913d3e4cac?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-22T03:15:42.002Z",
-      "pub_sort_dt": "2026-09-22 11:15:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Ligent Technologies在香港IPO募资7.27亿美元后，上市首日股价大涨",
-      "title_cn": "Ligent Technologies在香港IPO募资7.27亿美元后，上市首日股价大涨",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/ligent-technologies-to-debut-after-727-million-in-hong-kong-ipo",
-      "pub_raw": "2026-09-22T01:56:24.994Z",
-      "pub_sort_dt": "2026-09-22 09:56:24"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国外长表示，中国和欧洲不应打贸易战",
-      "title_cn": "中国外长表示，中国和欧洲不应打贸易战",
-      "url": "https://reut.rs/4Ap3YaX",
-      "pub_raw": "2026-09-22T00:36:31.086Z",
-      "pub_sort_dt": "2026-09-22 08:36:31"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "唐纳德·特朗普称中国正在开放。美国企业主对此持不同意见",
-      "title_cn": "唐纳德·特朗普称中国正在开放。美国企业主对此持不同看法",
-      "url": "https://www.economist.com/business/2026/09/21/donald-trump-says-china-is-opening-up-american-bosses-disagree",
-      "pub_raw": "2026-09-21T19:50:24.882Z",
-      "pub_sort_dt": "2026-09-22 03:50:24"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "毛泽东能给中国带来哪些关于应对美国的启示",
-      "title_cn": "毛泽东给中国带来了哪些关于应对美国的启示",
-      "url": "https://www.economist.com/china/2026/09/21/what-mao-can-teach-china-about-managing-america",
-      "pub_raw": "2026-09-21T19:50:24.821Z",
-      "pub_sort_dt": "2026-09-22 03:50:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "向沙特阿拉伯出售F-35战机？为何以色列和中国的因素使美国的这笔军售变得复杂",
-      "title_cn": "向东南出售F-35战机？以色列和中国的重要因素使美国的军售为何变得复杂",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/f-35s-for-saudi-arabia-why-israel-and-china-angles-complicate-a-us-sale",
-      "pub_raw": "2026-09-21T19:50:24.592Z",
-      "pub_sort_dt": "2026-09-22 03:50:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国有选择性地采购农产品，在峰会前考验美中贸易停火协议",
-      "title_cn": "中国有选择性地采购农产品，在峰会前考验美中贸易停火协议",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/china-s-selective-crop-buying-tests-us-trade-truce-before-summit",
-      "pub_raw": "2026-09-21T19:50:24.399Z",
-      "pub_sort_dt": "2026-09-22 03:50:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "习近平与特朗普会晤前，中国对美稀土出口量下降",
-      "title_cn": "习近平与特朗普会晤前，中国对美稀土出口量下降",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/china-rare-earth-magnet-exports-to-us-drop-before-xi-trump-meet",
-      "pub_raw": "2026-09-21T19:50:24.385Z",
-      "pub_sort_dt": "2026-09-22 03:50:24"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国指责被免职的高级将领“不忠”",
-      "title_cn": "中国指责被免职的高级将领“不忠”",
-      "url": "https://www.ft.com/content/378926f5-0494-4f5e-8bd1-e1775980ab82?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-21T19:50:19.881Z",
-      "pub_sort_dt": "2026-09-22 03:50:19"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国以“不忠、腐败”为由，将两名高级将领开除出党并开除军职",
-      "title_cn": "中国以“不忠、腐败”为由，将二高级将领开除出党并开除军职",
-      "url": "https://reut.rs/4rkp0mQ",
-      "pub_raw": "2026-09-21T12:35:14.658Z",
-      "pub_sort_dt": "2026-09-21 20:35:14"
     }
   ]
 }
