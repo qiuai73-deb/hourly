@@ -1,15 +1,47 @@
 {
-  "update_cst": "2026-09-22 06:01:16 北京时间",
+  "update_cst": "2026-09-22 12:01:02 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 2,
-    "Bloomberg": 11,
-    "Financial Times": 2,
+    "Bloomberg": 9,
+    "Financial Times": 3,
     "Wall Street Journal": 0,
-    "Reuters": 5
+    "Reuters": 6
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "CNBC《每日开盘》：金光闪闪之下，又是美中关系缓和 - CNBC",
+      "title_cn": "CNBC《每日开盘》：金光闪闪，又是美中关系缓和 - CNBC",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxNYkpVTTVIZ2xMLU1pQlZ0RHVkMHViNk81SGRtSlZIMnZwLTJuSlR2S0xlVXEyeW8wT0pOR3JCNHRlYll2UmJXS1d2R21Db3JCcGNZMXVKSnB3anNtbWVWVmN6dnB0U2RGRmFJdGVLWE1DbkJxT0xlaW1LSmlNN1poUklMemZYUmZvS0g2U1NodGZCLUl2eHNEcm53MGZVVDgw0gGmAUFVX3lxTE5SYndId0hZUkZRdWx1eFdfMFZWeFN2VF9taVcxcDVlN2NCWDRfSER5QWFfNllYZ3l1XzZKRlhVaFBkd3Z1VlJFQVBtU2IwQjZSZVRleUNFSmRqbHV4S2hISEg5Z1FUVzVVcDBheGJKRFVuNVZJai1xQlBQNENWUFJjNmdKVjJLdW9rSG5KeVBVRnRCcVJKT045cnNXc29aWmRkMTVjSXc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T01:44:00.000Z",
+      "pub_sort_dt": "2026-09-22 09:44:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国外长表示，中国和欧洲不应打贸易战 - Reuters",
+      "title_cn": "中国外长表示，中国和欧洲不应打贸易战 - 路透社",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxONWlPYzR3TnE0Y3pMaHdObVprdjJZb3dVZGZ4X2VsaFhPbUhJSmdQclM4X0pDMGg1NzdzN1BIalN4VEVJMEhpQ0RHWTFNUVR1YV9xLUl4dkYyRjhGNjVCUGJEZFg2R05CZ200Z09LMkhySzlVcU1wcEZ0S1FrbTNUV1Z0VDdtcS1wRlotR1BIQmowQmpzRldzMTJBSFNLci05MXp0UTRwOGtVTFNlem9JVUxxSTFWY25lQ0E?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-21T23:48:53.000Z",
+      "pub_sort_dt": "2026-09-22 07:48:53"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "制药公司敦促特朗普政府保护与中国达成的交易 - WSJ",
+      "title_cn": "制药公司敦促政府保护与中国完成的交易 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxOVjladnVzNHNFb01uMWJaQkVpVVdJdEhIbEJPYnhHbnA3SEdaclpMQk5xSmRELXUxaDVfVWNLOFd2MFdkRThRazQwYWVxZlRUTDZDMV92REZablRCQk9PV2lmSkpjU0FEc0lXY3NjRGM3NllOVUxwQXNONG1FdXdHWEs5cU5taUtleWtZMVludUphWkprSmJlcGtKb0MwbEp1NmRRRUxMcWwyaWJLS19HTkhfbXJLemM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-21T21:41:00.000Z",
+      "pub_sort_dt": "2026-09-22 05:41:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国将两名被指控腐败的军方高层领导开除出执政的共产党 - apnews.com",
+      "title_cn": "中国将两项被指控腐败的高层领导开除出执政的共产党 - apnews.com",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxNVk44VVpfa3JBaGhKajNUaW9mcEdadkFUQzkxYlZnV1hpYUtidG1HVTFoaUhSendzSUNQNUg1dXBOUTJITEF1SUVidU5HYzR5aEFmTHVGbVdUOW9qTVhfQnY4MGFvaG0yX0NFVlNDZExaS05IZmQ3dl9TbGJlQ09KTXRsMG5XR0daWlA2ZzZJM1hPMFNYOGJVYVhMeTY5RDA3dXU5U25ISQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-21T20:49:00.000Z",
+      "pub_sort_dt": "2026-09-22 04:49:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "与涉嫌为中国间谍的克里斯汀·方有关联的一个家庭向纽森及其他加州政界人士捐赠了440万美元 - CBS News",
@@ -57,41 +89,41 @@
       "url": "https://news.google.com/read/CBMioAFBVV95cUxPWnYwQWVnNS1PejZ6VXFCRjRzcVZrcnh6S3hzZldtUGR3TWdSTmRsbVVvdWFUaHdwSHZqX2lpaV9pWlNRYmVjUk45czNacGlJR29BcGdjUnB5MzRfOXhkcDlfNE00ZEx5SjRZNlpEOXliSzZVRDZYeUlFdGlZUG1BbzNkWnVvV1dWNmJJUmEtM3ZPNTdmNTE5N1o1NVlUS3A1?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-21T16:55:39.000Z",
       "pub_sort_dt": "2026-09-22 00:55:39"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "唐纳德·特朗普称中国正在开放。美国企业主对此持不同意见。 - The Economist",
-      "title_cn": "唐纳德·特朗普称中国正在开放。美国企业主对此持不同意见。——《经济学人》",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxNNnBxbjJ6OVU0QWloclVMS3Y4MDU2RjAxT0FMWm5oYS1HZElid09qS2s5b1JHdGcyTGNnREdhUWwxWE14aG4yYk5aMC02VU5IQnI4ZzBocVNiOWxRNmhoMGp6R0xaMi1wUEhUYW5HQXJ2RW1IVEZNY1Nab0o1bUVfNGJrRVNpZnF5X1BWcmROaTB1Wl9La2pBYXh5NVR0aXBWOGJxX3FSUW5XVm5D?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-21T16:46:14.000Z",
-      "pub_sort_dt": "2026-09-22 00:46:14"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "沙特阿拉伯退出北京的支付体系，中国推动全球金融“去美元化”的努力遭遇挫折 - Fortune",
-      "title_cn": "推动退出北京支付体系，中国推动全球金融“去美元化”努力遭遇困境 - 财富中文网",
-      "url": "https://news.google.com/read/CBMiuAFBVV95cUxPVE04QkVvYkk2ajh1STdrQXlKOWNPTk1LY1NLM3h0ajlocUNMYTZ1NjVSWHdRaWxWeGFQeXhOZUF2bFZXcE1rekdVZGNTaFNvUWRXM0pCQ0l0Rlg3OUNoOVdBSVZ3MnI3SDk5UVc3TlFKNTZpN00tQjd1NnQ1Zk9GNzZOOXQ1STJKZThvbHlDUm9sbTQyOVRRU2tIVzRncHJNdVlVSnhERjBSNDhwT3dOZmdzRlVpSVk0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-21T15:50:00.000Z",
-      "pub_sort_dt": "2026-09-21 23:50:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国指责被罢免的高级将领“不忠” - Financial Times",
-      "title_cn": "中国指责被罢免的高级将领“不忠” - 英国《金融时报》",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxOYkJQYmNDeWpVeTB1ekdTTHFzNk1Md1NUSVpHU0FjTWhtdzZueExmZTVKSWZ5ZkNyNTdIUGZLd0k3aHdqM0RwTE9VSTk5YUxNczJNWFZod1BJWGlxR3NLZm1vT1RuOGoyRXd0Nml6eHJPdFVLbmV1dW44bi1IVWViR0NBX2g?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-21T14:54:23.000Z",
-      "pub_sort_dt": "2026-09-21 22:54:23"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "南非以铂金为诱饵，争取美国和中国的支持 - Semafor",
-      "title_cn": "南非以铂金为诱饵，争取美国和中国的支持 - Semafor",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxPU3RidFVObG1SXzBqbExlcVBBblZlZUVfS3Z2UVVlVWVmRkJWNjVjN3dYQzJhX3RSUU9pcVpvUzdGNnlYWFlZMEM0QVoyRllSYTlxV2dGYVdEdzJyMHViQVRrT0RaX1h4RU9WR0JfZHVVQ1JscUJseUFxckNWc1RiX0pmRzZ4OW9PV283ZVNYbHE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-21T14:19:00.000Z",
-      "pub_sort_dt": "2026-09-21 22:19:00"
     }
   ],
   "media_news": [
+    {
+      "source": "Financial Times",
+      "title_en": "人工智能对能源的需求推动中国加快核聚变研究步伐",
+      "title_cn": "人工智能对能源需求推动中国加快核聚变研究行动",
+      "url": "https://www.ft.com/content/e6f2c05a-ea91-458c-8842-25913d3e4cac?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-22T03:15:42.002Z",
+      "pub_sort_dt": "2026-09-22 11:15:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Ligent Technologies在香港IPO募资7.27亿美元后，上市首日股价大涨",
+      "title_cn": "Ligent Technologies在香港IPO募资7.27亿美元后，上市首日股价大涨",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/ligent-technologies-to-debut-after-727-million-in-hong-kong-ipo",
+      "pub_raw": "2026-09-22T01:56:24.994Z",
+      "pub_sort_dt": "2026-09-22 09:56:24"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国外长表示，中国和欧洲不应打贸易战",
+      "title_cn": "中国外长表示，中国和欧洲不应打贸易战",
+      "url": "https://reut.rs/4Ap3YaX",
+      "pub_raw": "2026-09-22T00:36:31.086Z",
+      "pub_sort_dt": "2026-09-22 08:36:31"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "越南领导人称与美方协议即将达成，否认将中国货物改道运输",
+      "title_cn": "越南领导人称与美方协议即将达成，否认将中国货物改道运输",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/vietnam-leader-says-us-deal-close-denies-re-routing-china-goods",
+      "pub_raw": "2026-09-21T23:17:19.933Z",
+      "pub_sort_dt": "2026-09-22 07:17:19"
+    },
     {
       "source": "The Economist",
       "title_en": "唐纳德·特朗普称中国正在开放。美国企业主对此持不同意见",
@@ -103,7 +135,7 @@
     {
       "source": "The Economist",
       "title_en": "毛泽东能给中国带来哪些关于应对美国的启示",
-      "title_cn": "毛泽东能给中国带来哪些关于应对美国的启示",
+      "title_cn": "毛泽东给中国带来了哪些关于应对美国的启示",
       "url": "https://www.economist.com/china/2026/09/21/what-mao-can-teach-china-about-managing-america",
       "pub_raw": "2026-09-21T19:50:24.821Z",
       "pub_sort_dt": "2026-09-22 03:50:24"
@@ -111,7 +143,7 @@
     {
       "source": "Bloomberg",
       "title_en": "向沙特阿拉伯出售F-35战机？为何以色列和中国的因素使美国的这笔军售变得复杂",
-      "title_cn": "向东南出售F-35战机？以色列和中国的重要因素使美国的军售为何变得复杂",
+      "title_cn": "向以色列出售F-35战机？以色列和中国的重要因素使美国的军售为何变得复杂",
       "url": "https://www.bloomberg.com/news/articles/2026-09-21/f-35s-for-saudi-arabia-why-israel-and-china-angles-complicate-a-us-sale",
       "pub_raw": "2026-09-21T19:50:24.592Z",
       "pub_sort_dt": "2026-09-22 03:50:24"
@@ -219,43 +251,43 @@
       "url": "https://reut.rs/4rkYytg",
       "pub_raw": "2026-09-21T08:17:31.540Z",
       "pub_sort_dt": "2026-09-21 16:17:31"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国确认习近平将进行近三年来首次访美",
-      "title_cn": "中国确认习近平将进行近三年来首次访美",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/china-confirms-xi-s-first-trip-to-the-us-in-nearly-three-years",
-      "pub_raw": "2026-09-21T07:46:17.787Z",
-      "pub_sort_dt": "2026-09-21 15:46:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港正考虑要求银行披露更多气候融资信息",
-      "title_cn": "香港正考虑要求银行披露更多气候融资信息",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/hong-kong-weighs-tougher-climate-finance-disclosures-for-banks",
-      "pub_raw": "2026-09-21T07:30:16.269Z",
-      "pub_sort_dt": "2026-09-21 15:30:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "在特朗普与习近平峰会召开前几天，中国增购了美国大豆",
-      "title_cn": "在特朗普与习近平峰会前几天召开，中国增购了美国大豆",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/china-buys-more-us-soybeans-just-days-before-trump-xi-summit",
-      "pub_raw": "2026-09-21T06:11:34.404Z",
-      "pub_sort_dt": "2026-09-21 14:11:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "新西兰称其海军舰艇在台湾海峡进行了“例行”过境",
-      "title_cn": "新西兰称其海军舰艇在台湾海峡进行了“例行”过境",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/nz-naval-ships-transit-of-taiwan-strait-was-routine-pm-says",
-      "pub_raw": "2026-09-21T05:55:29.141Z",
-      "pub_sort_dt": "2026-09-21 13:55:29"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "CNBC《每日开盘》：金光闪闪之下，又是美中关系缓和 - CNBC",
+      "title_cn": "CNBC《每日开盘》：金光闪闪，又是美中关系缓和 - CNBC",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxNYkpVTTVIZ2xMLU1pQlZ0RHVkMHViNk81SGRtSlZIMnZwLTJuSlR2S0xlVXEyeW8wT0pOR3JCNHRlYll2UmJXS1d2R21Db3JCcGNZMXVKSnB3anNtbWVWVmN6dnB0U2RGRmFJdGVLWE1DbkJxT0xlaW1LSmlNN1poUklMemZYUmZvS0g2U1NodGZCLUl2eHNEcm53MGZVVDgw0gGmAUFVX3lxTE5SYndId0hZUkZRdWx1eFdfMFZWeFN2VF9taVcxcDVlN2NCWDRfSER5QWFfNllYZ3l1XzZKRlhVaFBkd3Z1VlJFQVBtU2IwQjZSZVRleUNFSmRqbHV4S2hISEg5Z1FUVzVVcDBheGJKRFVuNVZJai1xQlBQNENWUFJjNmdKVjJLdW9rSG5KeVBVRnRCcVJKT045cnNXc29aWmRkMTVjSXc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T01:44:00.000Z",
+      "pub_sort_dt": "2026-09-22 09:44:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国外长表示，中国和欧洲不应打贸易战 - Reuters",
+      "title_cn": "中国外长表示，中国和欧洲不应打贸易战 - 路透社",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxONWlPYzR3TnE0Y3pMaHdObVprdjJZb3dVZGZ4X2VsaFhPbUhJSmdQclM4X0pDMGg1NzdzN1BIalN4VEVJMEhpQ0RHWTFNUVR1YV9xLUl4dkYyRjhGNjVCUGJEZFg2R05CZ200Z09LMkhySzlVcU1wcEZ0S1FrbTNUV1Z0VDdtcS1wRlotR1BIQmowQmpzRldzMTJBSFNLci05MXp0UTRwOGtVTFNlem9JVUxxSTFWY25lQ0E?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-21T23:48:53.000Z",
+      "pub_sort_dt": "2026-09-22 07:48:53"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "制药公司敦促特朗普政府保护与中国达成的交易 - WSJ",
+      "title_cn": "制药公司敦促政府保护与中国完成的交易 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxOVjladnVzNHNFb01uMWJaQkVpVVdJdEhIbEJPYnhHbnA3SEdaclpMQk5xSmRELXUxaDVfVWNLOFd2MFdkRThRazQwYWVxZlRUTDZDMV92REZablRCQk9PV2lmSkpjU0FEc0lXY3NjRGM3NllOVUxwQXNONG1FdXdHWEs5cU5taUtleWtZMVludUphWkprSmJlcGtKb0MwbEp1NmRRRUxMcWwyaWJLS19HTkhfbXJLemM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-21T21:41:00.000Z",
+      "pub_sort_dt": "2026-09-22 05:41:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国将两名被指控腐败的军方高层领导开除出执政的共产党 - apnews.com",
+      "title_cn": "中国将两项被指控腐败的高层领导开除出执政的共产党 - apnews.com",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxNVk44VVpfa3JBaGhKajNUaW9mcEdadkFUQzkxYlZnV1hpYUtidG1HVTFoaUhSendzSUNQNUg1dXBOUTJITEF1SUVidU5HYzR5aEFmTHVGbVdUOW9qTVhfQnY4MGFvaG0yX0NFVlNDZExaS05IZmQ3dl9TbGJlQ09KTXRsMG5XR0daWlA2ZzZJM1hPMFNYOGJVYVhMeTY5RDA3dXU5U25ISQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-21T20:49:00.000Z",
+      "pub_sort_dt": "2026-09-22 04:49:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "与涉嫌为中国间谍的克里斯汀·方有关联的一个家庭向纽森及其他加州政界人士捐赠了440万美元 - CBS News",
       "title_cn": "与涉嫌为中国间谍的克里斯汀·方有关联的一个家庭向纽森及其他加州政界人士捐赠了440万美元 - 哥伦比亚广播公司新闻",
       "url": "https://news.google.com/read/CBMilgFBVV95cUxNZnh0LWZNRjhPdjVYZTk3R0p0a0xQNVN0U0puYk50WHdhSmEtN3lRcWM4VVZ4Y3BJYWZlT2YxOEhNUTNfdWdIX0tGWXVyS1FYT0ZTZk1UUFFyMGJkTEFiTV9Md00zY25xRXkySGJZUmw0T1B5VlkxU0tnd0hMMGZ5TjdBV0xuTHlscnY5QldRTlFuZ3h1Wnc?hl=en-US&gl=US&ceid=US%3Aen",
@@ -303,36 +335,36 @@
       "pub_sort_dt": "2026-09-22 00:55:39"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "唐纳德·特朗普称中国正在开放。美国企业主对此持不同意见。 - The Economist",
-      "title_cn": "唐纳德·特朗普称中国正在开放。美国企业主对此持不同意见。——《经济学人》",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxNNnBxbjJ6OVU0QWloclVMS3Y4MDU2RjAxT0FMWm5oYS1HZElid09qS2s5b1JHdGcyTGNnREdhUWwxWE14aG4yYk5aMC02VU5IQnI4ZzBocVNiOWxRNmhoMGp6R0xaMi1wUEhUYW5HQXJ2RW1IVEZNY1Nab0o1bUVfNGJrRVNpZnF5X1BWcmROaTB1Wl9La2pBYXh5NVR0aXBWOGJxX3FSUW5XVm5D?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-21T16:46:14.000Z",
-      "pub_sort_dt": "2026-09-22 00:46:14"
+      "source": "Financial Times",
+      "title_en": "人工智能对能源的需求推动中国加快核聚变研究步伐",
+      "title_cn": "人工智能对能源需求推动中国加快核聚变研究行动",
+      "url": "https://www.ft.com/content/e6f2c05a-ea91-458c-8842-25913d3e4cac?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-22T03:15:42.002Z",
+      "pub_sort_dt": "2026-09-22 11:15:42"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "沙特阿拉伯退出北京的支付体系，中国推动全球金融“去美元化”的努力遭遇挫折 - Fortune",
-      "title_cn": "推动退出北京支付体系，中国推动全球金融“去美元化”努力遭遇困境 - 财富中文网",
-      "url": "https://news.google.com/read/CBMiuAFBVV95cUxPVE04QkVvYkk2ajh1STdrQXlKOWNPTk1LY1NLM3h0ajlocUNMYTZ1NjVSWHdRaWxWeGFQeXhOZUF2bFZXcE1rekdVZGNTaFNvUWRXM0pCQ0l0Rlg3OUNoOVdBSVZ3MnI3SDk5UVc3TlFKNTZpN00tQjd1NnQ1Zk9GNzZOOXQ1STJKZThvbHlDUm9sbTQyOVRRU2tIVzRncHJNdVlVSnhERjBSNDhwT3dOZmdzRlVpSVk0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-21T15:50:00.000Z",
-      "pub_sort_dt": "2026-09-21 23:50:00"
+      "source": "Bloomberg",
+      "title_en": "Ligent Technologies在香港IPO募资7.27亿美元后，上市首日股价大涨",
+      "title_cn": "Ligent Technologies在香港IPO募资7.27亿美元后，上市首日股价大涨",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/ligent-technologies-to-debut-after-727-million-in-hong-kong-ipo",
+      "pub_raw": "2026-09-22T01:56:24.994Z",
+      "pub_sort_dt": "2026-09-22 09:56:24"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国指责被罢免的高级将领“不忠” - Financial Times",
-      "title_cn": "中国指责被罢免的高级将领“不忠” - 英国《金融时报》",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxOYkJQYmNDeWpVeTB1ekdTTHFzNk1Md1NUSVpHU0FjTWhtdzZueExmZTVKSWZ5ZkNyNTdIUGZLd0k3aHdqM0RwTE9VSTk5YUxNczJNWFZod1BJWGlxR3NLZm1vT1RuOGoyRXd0Nml6eHJPdFVLbmV1dW44bi1IVWViR0NBX2g?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-21T14:54:23.000Z",
-      "pub_sort_dt": "2026-09-21 22:54:23"
+      "source": "Reuters",
+      "title_en": "中国外长表示，中国和欧洲不应打贸易战",
+      "title_cn": "中国外长表示，中国和欧洲不应打贸易战",
+      "url": "https://reut.rs/4Ap3YaX",
+      "pub_raw": "2026-09-22T00:36:31.086Z",
+      "pub_sort_dt": "2026-09-22 08:36:31"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "南非以铂金为诱饵，争取美国和中国的支持 - Semafor",
-      "title_cn": "南非以铂金为诱饵，争取美国和中国的支持 - Semafor",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxPU3RidFVObG1SXzBqbExlcVBBblZlZUVfS3Z2UVVlVWVmRkJWNjVjN3dYQzJhX3RSUU9pcVpvUzdGNnlYWFlZMEM0QVoyRllSYTlxV2dGYVdEdzJyMHViQVRrT0RaX1h4RU9WR0JfZHVVQ1JscUJseUFxckNWc1RiX0pmRzZ4OW9PV283ZVNYbHE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-21T14:19:00.000Z",
-      "pub_sort_dt": "2026-09-21 22:19:00"
+      "source": "Bloomberg",
+      "title_en": "越南领导人称与美方协议即将达成，否认将中国货物改道运输",
+      "title_cn": "越南领导人称与美方协议即将达成，否认将中国货物改道运输",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/vietnam-leader-says-us-deal-close-denies-re-routing-china-goods",
+      "pub_raw": "2026-09-21T23:17:19.933Z",
+      "pub_sort_dt": "2026-09-22 07:17:19"
     },
     {
       "source": "The Economist",
@@ -345,7 +377,7 @@
     {
       "source": "The Economist",
       "title_en": "毛泽东能给中国带来哪些关于应对美国的启示",
-      "title_cn": "毛泽东能给中国带来哪些关于应对美国的启示",
+      "title_cn": "毛泽东给中国带来了哪些关于应对美国的启示",
       "url": "https://www.economist.com/china/2026/09/21/what-mao-can-teach-china-about-managing-america",
       "pub_raw": "2026-09-21T19:50:24.821Z",
       "pub_sort_dt": "2026-09-22 03:50:24"
@@ -353,7 +385,7 @@
     {
       "source": "Bloomberg",
       "title_en": "向沙特阿拉伯出售F-35战机？为何以色列和中国的因素使美国的这笔军售变得复杂",
-      "title_cn": "向东南出售F-35战机？以色列和中国的重要因素使美国的军售为何变得复杂",
+      "title_cn": "向以色列出售F-35战机？以色列和中国的重要因素使美国的军售为何变得复杂",
       "url": "https://www.bloomberg.com/news/articles/2026-09-21/f-35s-for-saudi-arabia-why-israel-and-china-angles-complicate-a-us-sale",
       "pub_raw": "2026-09-21T19:50:24.592Z",
       "pub_sort_dt": "2026-09-22 03:50:24"
@@ -461,38 +493,6 @@
       "url": "https://reut.rs/4rkYytg",
       "pub_raw": "2026-09-21T08:17:31.540Z",
       "pub_sort_dt": "2026-09-21 16:17:31"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国确认习近平将进行近三年来首次访美",
-      "title_cn": "中国确认习近平将进行近三年来首次访美",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/china-confirms-xi-s-first-trip-to-the-us-in-nearly-three-years",
-      "pub_raw": "2026-09-21T07:46:17.787Z",
-      "pub_sort_dt": "2026-09-21 15:46:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港正考虑要求银行披露更多气候融资信息",
-      "title_cn": "香港正考虑要求银行披露更多气候融资信息",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/hong-kong-weighs-tougher-climate-finance-disclosures-for-banks",
-      "pub_raw": "2026-09-21T07:30:16.269Z",
-      "pub_sort_dt": "2026-09-21 15:30:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "在特朗普与习近平峰会召开前几天，中国增购了美国大豆",
-      "title_cn": "在特朗普与习近平峰会前几天召开，中国增购了美国大豆",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/china-buys-more-us-soybeans-just-days-before-trump-xi-summit",
-      "pub_raw": "2026-09-21T06:11:34.404Z",
-      "pub_sort_dt": "2026-09-21 14:11:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "新西兰称其海军舰艇在台湾海峡进行了“例行”过境",
-      "title_cn": "新西兰称其海军舰艇在台湾海峡进行了“例行”过境",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/nz-naval-ships-transit-of-taiwan-strait-was-routine-pm-says",
-      "pub_raw": "2026-09-21T05:55:29.141Z",
-      "pub_sort_dt": "2026-09-21 13:55:29"
     }
   ]
 }
