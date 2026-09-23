@@ -1,15 +1,39 @@
 {
-  "update_cst": "2026-09-23 06:01:05 北京时间",
+  "update_cst": "2026-09-23 12:00:55 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
-    "Bloomberg": 5,
-    "Financial Times": 1,
+    "Bloomberg": 6,
+    "Financial Times": 2,
     "Wall Street Journal": 2,
-    "Reuters": 11
+    "Reuters": 9
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "专家警告：除了杀人机器人之外，中国对美国构成的真正人工智能威胁已经到来 - Fox News",
+      "title_cn": "专家警告：除了杀人机器人之外，中国对美国构成的真正人工智能威胁已经到来 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMirgFBVV95cUxNc2c3azAxV2JfSUxDWVlLUUh0QjRodHBOVjl2V2k4aHNkeDRpVFFuU29pNWV3ZmhWVDZZTkhPTUdoYXJUV1c3RVpiMEhueTVQbG9McFlnZ3FReXpoOUJySWplbnoxZ29uNEtDcVMxVWpSczhwS0pDZmdCTXh6bnd5Wi1TWi1WYTFuLTZuSlNZVGJYWk11Nk5YekVRRzJiOWEyMDFWaXZJNnZHN3ZjNUHSAbMBQVVfeXFMTjZvVzNlUEQwekFaZjZTU2tDdGdXX3U0MFliSU11bEVRNllHU01DamJVY0pkTXJidlY3bGZBQ2c1R3pDdHJWNUFrZnJmbnVfOVc2c1ZIUmVqRUlHR2VVY2V3cGxlUThZTEhBeFNub252VENhN1BteEV2TVphTG14Y2VKYXNURnBXWENtaXpCRVBTMm9LRlNHdnNQZ1hzT2lEOFE1Y2pXTDY5RTVfVjlIUXViT2c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T22:30:36.000Z",
+      "pub_sort_dt": "2026-09-23 06:30:36"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国人工智能：数据中心在内蒙古连绵的平原上拔地而起 - BBC",
+      "title_cn": "中国人工智能：数据中心位于蒙古连绵的平原上拔地而起 - BBC",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTFBxQUlYZVhzbk03VkRPS0VhNDJjOFJEUk1EWllOdW5fV2MwdUdqcTNoQ2p1eUZCWDdsdG1kQnlhODZZVllPODVneTdkNXBuYTZwYlRkRFV4OU9HcjA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T22:04:31.000Z",
+      "pub_sort_dt": "2026-09-23 06:04:31"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国的“隐形实力”优势是否即将引发美国人工智能股票暴跌89%？ - oilprice.com",
+      "title_cn": "中国的“隐形实力”优势即将引发美国人工智能股票暴跌89%？ - oilprice.com",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxNbzJDTVhzZE1DZmdBNURxclRtMTdiSmtVNWJHRFZHekxwMkRaZ2pabnRjZTBOUnJFTjN5MkdDbFVhUnpydlRXd1NTQXNPcjhGWTloRG55VWRCNk90QkpDVGRNVUFEWU56dEJjMkVSOWpzX1A3YllNcmhmT25ldFU3RXhuQ3djR1JCMFVoWGlEU1NrbnFtSk1kd0pMN3ZTdUJ6blgzVnJ4bVFWSTdwamNxYmR5T0p4V0dqTHpKRkZmbTZyQdIBxwFBVV95cUxPc0hYX1EwNWNOcG9rT213b2V4a0hDVWFublJFSnZXM05tdWFKOG5aQlVwYmRPLXdLNURJOVREb2ttMDBtVGk0bVFJcVJSRHhTX0FPVV9DRTNwMElLRWFWeXY5OE9hUzVla2JsOURBUUdPYmJObFNVS3N0Ynd6YVk5Rk8tMGxHSFpSanpyekl3QjZUYnJVU2lSdFh3T1NwQ2twYWRYQjI1V01hTlpDYVBFZ3lVMWVmWEhHLXFkcVQtSVRPcWExU0Zv?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T22:00:00.000Z",
+      "pub_sort_dt": "2026-09-23 06:00:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "随着战争动摇全球市场，中国国家主席携新的能源筹码抵达美国 - Politico",
@@ -36,6 +60,14 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "“科学术语就是‘BS’”：揭秘全新的贝森特-中国人工智能热线 - Politico",
+      "title_cn": "“科学术语就是‘BS’”：揭秘全新的贝森特 - 中国人工智能热线 - Politico",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxQWGh6dzJhMm9ta0lFRE1wQWtsQTJJWEo4RVNwV1hPTXJDWnZOWGpmaDg5cWZxSkdPUDJYN3V1SkNldmxGUlBPc09GeUIyYVpsdjRuRkpZMWttNUs0NEh2dnNQUzg3T0RzRGg0eVlUNHY2Z0JPQmZDQTRNUVdpcGtkdjhmNmo1VjNaZWlCT1RWOEctd25MZWNJTUc4VjEyWC02ZWZ0Mjl2ZUQ3RldzRmlxbUxUdlB0cGZ4OFpmY1ROTnFpcS0xZXRIRzRn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T15:23:00.000Z",
+      "pub_sort_dt": "2026-09-22 23:23:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "2026年中国黄金进口量将接近1,200吨，这得益于国内溢价和人民币走强推动的投资需求 - Kitco",
       "title_cn": "2026年中国黄金进口量将接近1200吨，这得益于国内溢价和人民币走强推动的投资需求 - Kitco",
       "url": "https://news.google.com/read/CBMiuAFBVV95cUxOd0QybzRCR1lUUXhSRlRReFF6R0wwcVg4MjcyaWZIdDVUSjdOeElHdjlZQUItNER1VWRvWm9NdUR4eFVkT0xzcUNJVzNSLThwZHpIRF9GeHh2Z1FJRG9LWlNIbmlEZVpfTmd1ejR0N1o3dWJxX2lxZDkycXJCRG4ybVB2TnFaZTlJd08ybWVaYnR5aVdCSG13YmQ1b1JGNm1KX0JQdWtqaXVrYzI5UkgtMVNpYWJqaURy?hl=en-US&gl=US&ceid=US%3Aen",
@@ -57,41 +89,25 @@
       "url": "https://news.google.com/read/CBMisgFBVV95cUxPYzRfZTNfa1FqSmxRWVJ5TUxfaFQ1RkJZUUZRNVlDYTdPQ3RnWndhbFYxTk8xWDJWRWpHUmFqT3dTVW1WNmExLWJNeVZnWTlMWnRlWThEUWRpVlVEbWtpalpSTVZZWFJZYnltQ1NUQ3VzSllDQloyaHA2WFpQSXhoQlIyWlJrdzZPQXZ1TjFScE5Mb1ZxZzgtWXpQeUhSVEJrU0NDMXVVTTQyUmY3MW02RmNn0gG3AUFVX3lxTE93NEMyZWwxU21rV3MzcFl1bXl0MVVUUU9oYTBrNXJvT0lSTl9OMEZjUVJrMzNWWlBhemRfYXlxMmN1Y2tpbGdHa25yQUd1bE84Zlh3bkVvVU1TOG5mcGp2WFZXazNuYjRHSGJ0R2VHOFY0TXJVa2xZQU5EZFhtSWxDRE5ndEJwcHRJeWJMYUxIQmluOThkWURndnZDeGQ3UVVZLTdJYmZiVDJVU21TLTdaTGNoeXUzcw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-22T12:47:35.000Z",
       "pub_sort_dt": "2026-09-22 20:47:35"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "独家 特朗普与习近平的峰会预计不会有中国企业高管出席 - WSJ",
-      "title_cn": "特朗普与习近平独家峰会预计不会有中国企业高管出席 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMimgFBVV95cUxQbTRlY1hUYk5kY19fRnhlR0NYOTFBNkhudWgzMF90d3lDSC1NaWxkQmhJZjlkNThESjd3bHkxZkw3bDgyYS1vQmd1LUtYMGxELWF1Ul9kWHBmX1NMeFB6Qi0taFdjRzNCYWtsNV9VQWJ2Q2pLU3RudzRveXk5NDZhYkh1eGRFY3g1T041QW1NTUVWMk9CM0d1S0Vn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T12:09:00.000Z",
-      "pub_sort_dt": "2026-09-22 20:09:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "罗·卡纳：在中美峰会前夕，特朗普已无计可施 - thehill.com",
-      "title_cn": "罗·卡纳：在中美峰会前夕，特朗普已无计可施 - thehill.com",
-      "url": "https://news.google.com/read/CBMib0FVX3lxTE1ucGdzRmx0NUdwaGxoMWxjZlphVVJjSE02SWtjWTVqVElDVXFNV25aSjFGMU1NUEcyT3d4YU51MFBwYmtaMktHT080WUtJQjRqUmZ6VUR2ZUVxQTI0S29Udm9ZNE1kcGJJYzhmRGY1c9IBdEFVX3lxTE9nQXBrdnZWdUl6ODFTQlZCVUtHaDgwMjNHSDlEWEdGMVRDYkkwSVExRWZld2phTVRZWE96eS1oTlItYk03UjhQTExfVmpOV0JpcEM1MW1VNlJtWWZiWE1vWEhja2lnRnhZLTZnZXJIUG1YMkhN?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T12:00:00.000Z",
-      "pub_sort_dt": "2026-09-22 20:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "欧盟从中国进口的商品金额是其对华出口额的三倍 - The Guardian",
-      "title_cn": "欧盟从中国进口的商品金额是其对华出口额的三倍 - 英国卫报",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxOa1d3SkZ5d29YelY1NXo0TktpQUR4YmtINHFnLXNhZ1VETDJZWmhjRDVPTG9SN3BBMGFwdXFSZHFxQXphUjJpbEtPNUFtRlhRR1F1RWFaWlQwZDNFOWRTaV8zM1M0UXA3NzVDRzFkeS1YaWlYTDN3NnRxSmVkRVRkZzJKRjViVzZ6dmkxN1Bkckh0N0REOTl2aUF5ZkFVeG1IWEdTelhGeWVKeDR4SnJuUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T11:55:00.000Z",
-      "pub_sort_dt": "2026-09-22 19:55:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "特朗普在联合国的演讲及中美会谈将关税、人工智能和能源问题推至聚光灯下 - WSJ",
-      "title_cn": "特朗普在联合国演讲及中美关税、人工智能和能源问题推至聚光灯下 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMiqgFBVV95cUxNbzFtdVRUektSQ0t5ZlltWF9lLU41dVRxMVl2WHNUZnpmaHJFZXBaX2ZOUEJFTEhZelhtYVhuSXlod1dSbWluMFF5SWp5RTFXV0tycFEzb3dSY0t5cGMzVUdRM2dHVzZzZWZFSkZBR09BTk1lTkd4SE53ZFpKZjgwNmh3dXF4VTRiU01xR0ZsS0t3LWpqazdTUi1WY0xGUmE3UEVjbkFyeEJMUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T09:59:00.000Z",
-      "pub_sort_dt": "2026-09-22 17:59:00"
     }
   ],
   "media_news": [
+    {
+      "source": "Financial Times",
+      "title_en": "为什么欧盟企业现在正帮助中国企业进军欧洲市场",
+      "title_cn": "为什么欧盟企业现在正帮助中国企业进军欧洲市场",
+      "url": "https://www.ft.com/content/44ef48c9-13a4-4823-aa8f-cc9e2dfb5d17?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-22T23:53:22.743Z",
+      "pub_sort_dt": "2026-09-23 07:53:22"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普、伯纳姆讨论了向中国国家主席习近平提及黎智英一事",
+      "title_cn": "特朗普、伯纳姆讨论了向中国国家主席习近平提及黎智英一事",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/trump-burnham-discussed-bringing-up-jimmy-lai-with-china-s-xi",
+      "pub_raw": "2026-09-22T22:20:33.205Z",
+      "pub_sort_dt": "2026-09-23 06:20:33"
+    },
     {
       "source": "Reuters",
       "title_en": "评论：对AI“终结者”的担忧可能掩盖了中国真正的威胁",
@@ -235,27 +251,35 @@
       "url": "https://reut.rs/3V6d7VD",
       "pub_raw": "2026-09-22T06:57:14.568Z",
       "pub_sort_dt": "2026-09-22 14:57:14"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "解读：为什么台湾问题对中国如此重要？",
-      "title_cn": "解读：为什么台湾问题对中国如此重要？",
-      "url": "https://reut.rs/4ArXkR2",
-      "pub_raw": "2026-09-22T06:41:21.658Z",
-      "pub_sort_dt": "2026-09-22 14:41:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美银表示，中国对离岸信托的税务整顿可能影响个股",
-      "title_cn": "美银表示，中国对离岸信托的税务整顿可能影响个股",
-      "url": "https://reut.rs/4AwF618",
-      "pub_raw": "2026-09-22T06:41:21.654Z",
-      "pub_sort_dt": "2026-09-22 14:41:21"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "专家警告：除了杀人机器人之外，中国对美国构成的真正人工智能威胁已经到来 - Fox News",
+      "title_cn": "专家警告：除了杀人机器人之外，中国对美国构成的真正人工智能威胁已经到来 - 福克斯新闻",
+      "url": "https://news.google.com/read/CBMirgFBVV95cUxNc2c3azAxV2JfSUxDWVlLUUh0QjRodHBOVjl2V2k4aHNkeDRpVFFuU29pNWV3ZmhWVDZZTkhPTUdoYXJUV1c3RVpiMEhueTVQbG9McFlnZ3FReXpoOUJySWplbnoxZ29uNEtDcVMxVWpSczhwS0pDZmdCTXh6bnd5Wi1TWi1WYTFuLTZuSlNZVGJYWk11Nk5YekVRRzJiOWEyMDFWaXZJNnZHN3ZjNUHSAbMBQVVfeXFMTjZvVzNlUEQwekFaZjZTU2tDdGdXX3U0MFliSU11bEVRNllHU01DamJVY0pkTXJidlY3bGZBQ2c1R3pDdHJWNUFrZnJmbnVfOVc2c1ZIUmVqRUlHR2VVY2V3cGxlUThZTEhBeFNub252VENhN1BteEV2TVphTG14Y2VKYXNURnBXWENtaXpCRVBTMm9LRlNHdnNQZ1hzT2lEOFE1Y2pXTDY5RTVfVjlIUXViT2c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T22:30:36.000Z",
+      "pub_sort_dt": "2026-09-23 06:30:36"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国人工智能：数据中心在内蒙古连绵的平原上拔地而起 - BBC",
+      "title_cn": "中国人工智能：数据中心位于蒙古连绵的平原上拔地而起 - BBC",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTFBxQUlYZVhzbk03VkRPS0VhNDJjOFJEUk1EWllOdW5fV2MwdUdqcTNoQ2p1eUZCWDdsdG1kQnlhODZZVllPODVneTdkNXBuYTZwYlRkRFV4OU9HcjA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T22:04:31.000Z",
+      "pub_sort_dt": "2026-09-23 06:04:31"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国的“隐形实力”优势是否即将引发美国人工智能股票暴跌89%？ - oilprice.com",
+      "title_cn": "中国的“隐形实力”优势即将引发美国人工智能股票暴跌89%？ - oilprice.com",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxNbzJDTVhzZE1DZmdBNURxclRtMTdiSmtVNWJHRFZHekxwMkRaZ2pabnRjZTBOUnJFTjN5MkdDbFVhUnpydlRXd1NTQXNPcjhGWTloRG55VWRCNk90QkpDVGRNVUFEWU56dEJjMkVSOWpzX1A3YllNcmhmT25ldFU3RXhuQ3djR1JCMFVoWGlEU1NrbnFtSk1kd0pMN3ZTdUJ6blgzVnJ4bVFWSTdwamNxYmR5T0p4V0dqTHpKRkZmbTZyQdIBxwFBVV95cUxPc0hYX1EwNWNOcG9rT213b2V4a0hDVWFublJFSnZXM05tdWFKOG5aQlVwYmRPLXdLNURJOVREb2ttMDBtVGk0bVFJcVJSRHhTX0FPVV9DRTNwMElLRWFWeXY5OE9hUzVla2JsOURBUUdPYmJObFNVS3N0Ynd6YVk5Rk8tMGxHSFpSanpyekl3QjZUYnJVU2lSdFh3T1NwQ2twYWRYQjI1V01hTlpDYVBFZ3lVMWVmWEhHLXFkcVQtSVRPcWExU0Zv?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T22:00:00.000Z",
+      "pub_sort_dt": "2026-09-23 06:00:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "随着战争动摇全球市场，中国国家主席携新的能源筹码抵达美国 - Politico",
       "title_cn": "随着全球市场的动摇，中国国家主席携新的能源筹码陌生美国 - 政治战争",
       "url": "https://news.google.com/read/CBMi2AFBVV95cUxONzI3VXBjTVEzcUE5QnViVHVPRjV1UHdSNVZJSUU2dUppNUdhejFCWURocGpnaGZvd1hQZHVsMXhBM0loTUZhcTd6d0JpWkYyN1cwZmNtakJfVjhkNTlJZXRJN1dnY0RLbkNEZzdCSTJzRVlrZzExX2M3eS13RnJWWl9ScHpqNHhQZjRnUjRQWlZEeWdRVHlsTHZOZVZHMURGSVhhOVh5ZE1HR2pzNDgtajNEbHZXTHB0QmJ5RDhOUnM3UmVfYmlUNW9vbmtSbmJnRUFid0hoYnU?hl=en-US&gl=US&ceid=US%3Aen",
@@ -277,6 +301,14 @@
       "url": "https://news.google.com/read/CBMilwFBVV95cUxPenhjTUdrNl85RDZfZ1hYMm4tTTNEdjNWS2hMZTgwTlVacmdWdFl0SEUwbG9RcUtRc2FSZGJpOFVacDQ0Y3d5bWFPT0pERHF0MkxaMTVKc3BoZGRMSkdPUmhzY0ZUR1VJSE93eUxxNV94Sk1mcWo3eTJCZld4MXFqSTZ4c2lHbUJSU25mVmg5dWo4d2FKek5Z?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-22T15:49:51.000Z",
       "pub_sort_dt": "2026-09-22 23:49:51"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "“科学术语就是‘BS’”：揭秘全新的贝森特-中国人工智能热线 - Politico",
+      "title_cn": "“科学术语就是‘BS’”：揭秘全新的贝森特 - 中国人工智能热线 - Politico",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxQWGh6dzJhMm9ta0lFRE1wQWtsQTJJWEo4RVNwV1hPTXJDWnZOWGpmaDg5cWZxSkdPUDJYN3V1SkNldmxGUlBPc09GeUIyYVpsdjRuRkpZMWttNUs0NEh2dnNQUzg3T0RzRGg0eVlUNHY2Z0JPQmZDQTRNUVdpcGtkdjhmNmo1VjNaZWlCT1RWOEctd25MZWNJTUc4VjEyWC02ZWZ0Mjl2ZUQ3RldzRmlxbUxUdlB0cGZ4OFpmY1ROTnFpcS0xZXRIRzRn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-22T15:23:00.000Z",
+      "pub_sort_dt": "2026-09-22 23:23:00"
     },
     {
       "source": "China Buzzing",
@@ -303,36 +335,20 @@
       "pub_sort_dt": "2026-09-22 20:47:35"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "独家 特朗普与习近平的峰会预计不会有中国企业高管出席 - WSJ",
-      "title_cn": "特朗普与习近平独家峰会预计不会有中国企业高管出席 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMimgFBVV95cUxQbTRlY1hUYk5kY19fRnhlR0NYOTFBNkhudWgzMF90d3lDSC1NaWxkQmhJZjlkNThESjd3bHkxZkw3bDgyYS1vQmd1LUtYMGxELWF1Ul9kWHBmX1NMeFB6Qi0taFdjRzNCYWtsNV9VQWJ2Q2pLU3RudzRveXk5NDZhYkh1eGRFY3g1T041QW1NTUVWMk9CM0d1S0Vn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T12:09:00.000Z",
-      "pub_sort_dt": "2026-09-22 20:09:00"
+      "source": "Financial Times",
+      "title_en": "为什么欧盟企业现在正帮助中国企业进军欧洲市场",
+      "title_cn": "为什么欧盟企业现在正帮助中国企业进军欧洲市场",
+      "url": "https://www.ft.com/content/44ef48c9-13a4-4823-aa8f-cc9e2dfb5d17?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-22T23:53:22.743Z",
+      "pub_sort_dt": "2026-09-23 07:53:22"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "罗·卡纳：在中美峰会前夕，特朗普已无计可施 - thehill.com",
-      "title_cn": "罗·卡纳：在中美峰会前夕，特朗普已无计可施 - thehill.com",
-      "url": "https://news.google.com/read/CBMib0FVX3lxTE1ucGdzRmx0NUdwaGxoMWxjZlphVVJjSE02SWtjWTVqVElDVXFNV25aSjFGMU1NUEcyT3d4YU51MFBwYmtaMktHT080WUtJQjRqUmZ6VUR2ZUVxQTI0S29Udm9ZNE1kcGJJYzhmRGY1c9IBdEFVX3lxTE9nQXBrdnZWdUl6ODFTQlZCVUtHaDgwMjNHSDlEWEdGMVRDYkkwSVExRWZld2phTVRZWE96eS1oTlItYk03UjhQTExfVmpOV0JpcEM1MW1VNlJtWWZiWE1vWEhja2lnRnhZLTZnZXJIUG1YMkhN?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T12:00:00.000Z",
-      "pub_sort_dt": "2026-09-22 20:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "欧盟从中国进口的商品金额是其对华出口额的三倍 - The Guardian",
-      "title_cn": "欧盟从中国进口的商品金额是其对华出口额的三倍 - 英国卫报",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxOa1d3SkZ5d29YelY1NXo0TktpQUR4YmtINHFnLXNhZ1VETDJZWmhjRDVPTG9SN3BBMGFwdXFSZHFxQXphUjJpbEtPNUFtRlhRR1F1RWFaWlQwZDNFOWRTaV8zM1M0UXA3NzVDRzFkeS1YaWlYTDN3NnRxSmVkRVRkZzJKRjViVzZ6dmkxN1Bkckh0N0REOTl2aUF5ZkFVeG1IWEdTelhGeWVKeDR4SnJuUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T11:55:00.000Z",
-      "pub_sort_dt": "2026-09-22 19:55:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "特朗普在联合国的演讲及中美会谈将关税、人工智能和能源问题推至聚光灯下 - WSJ",
-      "title_cn": "特朗普在联合国演讲及中美关税、人工智能和能源问题推至聚光灯下 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMiqgFBVV95cUxNbzFtdVRUektSQ0t5ZlltWF9lLU41dVRxMVl2WHNUZnpmaHJFZXBaX2ZOUEJFTEhZelhtYVhuSXlod1dSbWluMFF5SWp5RTFXV0tycFEzb3dSY0t5cGMzVUdRM2dHVzZzZWZFSkZBR09BTk1lTkd4SE53ZFpKZjgwNmh3dXF4VTRiU01xR0ZsS0t3LWpqazdTUi1WY0xGUmE3UEVjbkFyeEJMUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-22T09:59:00.000Z",
-      "pub_sort_dt": "2026-09-22 17:59:00"
+      "source": "Bloomberg",
+      "title_en": "特朗普、伯纳姆讨论了向中国国家主席习近平提及黎智英一事",
+      "title_cn": "特朗普、伯纳姆讨论了向中国国家主席习近平提及黎智英一事",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/trump-burnham-discussed-bringing-up-jimmy-lai-with-china-s-xi",
+      "pub_raw": "2026-09-22T22:20:33.205Z",
+      "pub_sort_dt": "2026-09-23 06:20:33"
     },
     {
       "source": "Reuters",
@@ -477,22 +493,6 @@
       "url": "https://reut.rs/3V6d7VD",
       "pub_raw": "2026-09-22T06:57:14.568Z",
       "pub_sort_dt": "2026-09-22 14:57:14"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "解读：为什么台湾问题对中国如此重要？",
-      "title_cn": "解读：为什么台湾问题对中国如此重要？",
-      "url": "https://reut.rs/4ArXkR2",
-      "pub_raw": "2026-09-22T06:41:21.658Z",
-      "pub_sort_dt": "2026-09-22 14:41:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美银表示，中国对离岸信托的税务整顿可能影响个股",
-      "title_cn": "美银表示，中国对离岸信托的税务整顿可能影响个股",
-      "url": "https://reut.rs/4AwF618",
-      "pub_raw": "2026-09-22T06:41:21.654Z",
-      "pub_sort_dt": "2026-09-22 14:41:21"
     }
   ]
 }
