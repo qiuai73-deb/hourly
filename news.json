@@ -1,97 +1,209 @@
 {
-  "update_cst": "2026-09-24 12:01:07 北京时间",
+  "update_cst": "2026-09-24 18:01:13 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 9,
-    "Financial Times": 1,
+    "Bloomberg": 8,
+    "Financial Times": 3,
     "Wall Street Journal": 2,
-    "Reuters": 8
+    "Reuters": 7
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "报道称，中国今年向伊朗运送了1300批无人机和导弹零部件 - The Times of Israel",
+      "title_cn": "报道称，中国今年向伊朗运送了1300批无人机和导弹零部件 - 以色列时报",
+      "url": "https://news.google.com/read/CBMiqgFBVV95cUxNaURRUWtOa0dxcEwzMHNfZE04TllXa0NhOGMtNng4d0NXNUFLd25PYUxPbFJMaDZOOFVjUnV5WjJOVGxjNmtrRjhvbUVCd1h1T3F4NERPS0NKR3AwRDhPVUMzTHhRU3V3S0JIZVRtOVhQS3BTNlp5SkpLbzJaajNwbml1X2o4bS1FeVFtaS1DU1ltT1k5TnJLUDB6c2VkcUFwQjBXUGx1Y04xd9IBrwFBVV95cUxOQ3dyb091akU1UjNZWVVxYlpBMHJ6SWVmMW51VXZWbVQ5Rk9EaDJGQ1FuYWcxTGp3OHlrRFU0Y3V5QTVVdklKSERmbEE2ZmRxMDlQbkRSWklrUVQ2ZkVRQnNjNzY0SmlKZEFCRkVFSFJGVEk1alF5QTBDY245ZGF4SDVaVkhpbGJ5Skdwb0QxVTdLMG1xOW1DNXBoVVJ0TlZTM2dpNkJFdnZOdFJOSWJN?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T08:12:47.000Z",
+      "pub_sort_dt": "2026-09-24 16:12:47"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国已成为全球游客的主要目的地 - news.cgtn.com",
+      "title_cn": "中国已成为全球游客主要目的地 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMirgFBVV95cUxQLXA4endtYnRsWTdPdVJMWGY5LXZiWWFUQ2ltY0FuM2lmZGtrWktfVzJUSkEzSm15bjNXSzItYTZ1WGp1MXdELXRjSjltY2FXZ2NILXpHOTVzbFFYYVBlTUYwemFDVVNHMmdsenhfVncwN0Y0U3MxOEQ1WjJEdDZkTl9PVHhKUTdCWVlzdEpfVEJ2aXQzdHFPQ1RuZjVheW5BbkFoUnJYeUdiX0RkQ0E?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T05:00:06.000Z",
+      "pub_sort_dt": "2026-09-24 13:00:06"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "报道：今年截至6月底，中国已向伊朗运送了约1300批无人机和导弹零部件 - The Times of Israel",
+      "title_cn": "报道：今年截至6月底，中国已向伊朗运送了约1300批无人机和导弹零部件 - 以色列时报",
+      "url": "https://news.google.com/read/CBMi2wFBVV95cUxQV1FqOWtyb09jcHRkZFpqbGVzMXlyS1UxM245QlZtbTNVMnVIWFRkNmIyeFgwaUxLRGFuR0NmczhHdll2eGI5WW5JcVRfMHE2NFRxbUtMWGRUYXJOaTQtallYaHFtUXZKQkU0TnM3ejZsd0VYMm05b0VfSGhuTmRWZ1pRZUpGVl9SU2VkUG0zQ1NQejFsVmx4bkVrOGNnRnBJdksyc3JBZ2dIRC1SMUQ1TlpCc2cyZmZPUDhRb0pXSHNNRG5vMFpSLWphY3BlVlR5ZzZ1dXduUi1Rbkk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T04:36:10.000Z",
+      "pub_sort_dt": "2026-09-24 12:36:10"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国商品转口问题笼罩特朗普与习近平会晤：九个拉美国家被点名 - Euronews.com",
+      "title_cn": "中国商品转口问题笼罩特朗普与习近平会晤：九个拉美国家被点名 - Euronews.com",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNMEZtRExGMVhLaHJrSGpjcEQ3Y19TanF1ZngwYTFSazhtOTdKaXozZDRndjZwYmpMVUpJRGpoMVRhbkd2UmU1eFI1WWRqcVkxc2NDVl9rWXM2aEp3SXNSOXdMeUhXcy1uNXBKSmpDdUlRQ1hkWnNpMXJMREFXSXFaNUQyMWlsS2daSWdHbjEwYk9BOE1WQkxkeFE0eVd2VllFeTdvS2xMTVRKUk5BN2QwajVUSkw3VnY4X2NKdUJPaGVtZWc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T03:56:44.000Z",
+      "pub_sort_dt": "2026-09-24 11:56:44"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国国家主席习近平抵达美国进行访问，特朗普予以热情欢迎 - bbc.com",
+      "title_cn": "中国国家主席习近平莅临美国，特朗普怀着热情欢迎 - bbc.com",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTFBuWlNBYWUxd3dpZ003LTZNWU5iQ09UVFR6Z3lhTnd3OHBWNkJ0SkhoUFduLUxPd1lDd0ExaFlMbkRCbDFlUThXTFR6R2J0UjhpVks3SlhUQ3V2clU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T03:52:21.000Z",
+      "pub_sort_dt": "2026-09-24 11:52:21"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国在人工智能芯片领域的强势推进，让习近平得以向特朗普传递一个信息：“你们无法扼杀我们” - CNBC",
+      "title_cn": "中国在人工智能芯片领域的强势推进，让习近平能够向特朗普传递一条信息：“你们无法扼杀我们” - CNBC",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxPM1poekxTT01INi1FY0h2MGNpNmtWMHg2S3JLTDRXRnBLVFFaa3B1cHZ4djMwM2VzN0dPc2hfQ1BlckZIZGFqM1hQUW0wazd3OFFKWm1nVGc5LU05b2dXTUxkdWtkWDR0MnM0VThfZlZINlZvd09qWkNvWW5iVEl4V3NoUUpRZ2NYcHk5eHR2czJVXzUxTEFjVHJrNUF5b1Vi0gGmAUFVX3lxTE96M21MTWJjLVpqZ0RwdFprNFM2N1JnVXFoZWswSGpHVmZoY0J4ZXVPdDJEbXVMc1V4eURUMG80LXNWWEd0djRiZl9hRU94T1c2OEplWFhPNkJBaHpWMnpwVXlHRmxoU3ZpaUVRUGpjSmZ6dXRuRDN6d0NsaUVRSlpOT1NFTXYyU0ZJeXZjTmU3NWNZM05XOUFyZkowejFJTXY5RWg2bXc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T03:38:00.000Z",
+      "pub_sort_dt": "2026-09-24 11:38:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "消息人士称，中美峰会期间达成波音新协议的希望渺茫 - reuters.com",
+      "title_cn": "消息人士称，中美峰会期间达成美联储新协议的希望渺茫 - reuters.com",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxQbjNsVlBmUHA5c2wzcnZVNnJ1b2x5bEF5cGhuUzR0RGtKQkpWeDgtcE5YLXpJbFRVZTg3RHN3WllHb0xWWTQxOENKbHJnWGs2TWEzWWtUV3NFOEJ6S29VM2xPSGh4Ny1oUUFvSXNmdXpJd1B3d2ozdEtRQXl1QVB5c0syY1dCY3BkOVpYYWJmaTNiaEZFd1JWN2diNFF2NGRoV1hMRFA2SlYwek0xT1FDVFhIVWRsaVlFb3pZck1ONGpKcnZRTDNB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T02:52:34.000Z",
+      "pub_sort_dt": "2026-09-24 10:52:34"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在特朗普与习近平峰会前一周，中国贸易额创下历史新高 - Bloomberg.com",
+      "title_cn": "在特朗普与习近平峰会前一周，中国贸易额创下历史新高 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxNUk1DazBIcGNWQ1FELU9kZzVhenczQzJ4dFRPLVM4MDNqVnUybW1vRWlLOEVIOE40aWNaYVFEXzBIWk9ORHdRLUxxVjJaT21MSjhFSVh1N1diNjlCdGdhMWdZbkdjdXpzRWxIOTNiazhrckZiV3BnUTFmWkpCMEJvTmtTc2tITWVrRkF4R0l1d2J2OGlmX0dWb0F1ZDNUU0pyU3c4a2NIRXQtNWMxYnBtYzFKOWs?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T01:07:00.000Z",
+      "pub_sort_dt": "2026-09-24 09:07:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "普京入侵乌克兰，使俄罗斯沦为中国的次要合作伙伴 - Atlantic Council",
+      "title_cn": "干预乌克兰，使俄罗斯成为中国的次要合作伙伴 - 大西洋理事会",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxPTkxiNURib2ZrMVN1WFJHb1UwcHAzZXR3TGlPa18xUmYwcXZ1VkxYc3l0WWNNZXRwd0tZNFA1Rjdobi1ZWTIwcERKZDNKaGpSYzZjMjYwYWFmLWcwYTU2c2lGaGNSQW9uSm0tbUhueENZOTRSUnlDV2RZOW1MVEdzaXpYQzF4T0ZKdTQ2X1ZVS1drY0h4YjB6cjEtMjJIOGVoR0c3dVd2aEtIS2RrSzg0TDR0aw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T01:00:24.000Z",
+      "pub_sort_dt": "2026-09-24 09:00:24"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "贝森特表示，中美贸易停火期延长了2个月 - Politico",
-      "title_cn": "贝森特表示，中美贸易停火期限延长了2个月 - Politico",
+      "title_cn": "贝森特表示，中美贸易停火期延长了2个月 - Politico",
       "url": "https://news.google.com/read/CBMilgFBVV95cUxNUEdyRlBoYWVMUzQ2cU5LYXQxd2pUUU1iN25yUC02SExSRGRNLVBOOG1GNE1JazBRSEVOblBsNXRWUlAyT21ISV9vNzlNMWpTTlhSSFVRYm5RekotSzVrTHZTd3RTZzczMTJQbGx0YUVQdDV3cEVLQUR3R3pRczRRM1dKeFNMYTVlRE5BQ2lGWmZhNUw4SkE?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-24T00:04:00.000Z",
       "pub_sort_dt": "2026-09-24 08:04:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "贝森特表示，中美贸易停火期延长两个月，与此同时，习近平开始对美进行国事访问 - CNBC",
-      "title_cn": "贝森特表示，中美贸易停火期延长两个月，与此同时，习近平开始对美进行国事访问 - CNBC",
-      "url": "https://news.google.com/read/CBMif0FVX3lxTE9PZGhfcDBPTTJqMS1NSDFmN1dMT09Gd2ppTXRHS1Z1dldFdEVyUXFlZnhvX0hkNnI0RmNSNjNaYUlHZWxWQzNELTlQMXdsUkk1MlhJaWRpckdMTG1xRXZLUmstOWVtRXg2OGl2cDJrSVZpUnByejB2czY2Uk9CU2PSAYQBQVVfeXFMTmhvR2NEZHkxWjA2M2V1dGQtdUVZRjF6OGU1Zk1qazhELVRHaFlrTE1mQ25Pb0FBeWJWek9NNGhmQTZJbkR0dEtIeGE1ZVBwTzIyUFpQUG10MnNydkwtb01zM05yV01RNGVIcjZneWJCMEZEc0twRW1jVmJEUU5OcVgySlNt?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T23:59:39.000Z",
-      "pub_sort_dt": "2026-09-24 07:59:39"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "尽管中美关系紧张，特朗普仍为中国国家主席习近平铺设了红地毯 - CBS News",
-      "title_cn": "尽管中美关系紧张，特朗普仍为中国国家主席习近平保持了红线 - CBS News",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxQVnVaQ216aHlTUE5KQVJzc3BnTE80U1JOdzlGeXZDc2hEOFpVajlOU0VmTVI5QUlXdjNrUnJ1UVBSWjhFWE10aEtlZnZkZV9ob25GQnEyNlZVWGJqenl4RzU2ZmxXbE9ZTk9lTXprd1pJR3B5Z1VHd01EckVrT3QydF9XbE9DWjZuYlEyM0FVSUY5OHBpbW0zUg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T23:44:47.000Z",
-      "pub_sort_dt": "2026-09-24 07:44:47"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在特朗普与习近平峰会之际审视中伊关系 - CBS News",
-      "title_cn": "特朗普与习近平峰会期间的双边贸易中伊关系 - CBS News",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxNSnBOcGE4OGM5VjRfRmlCd0lwNEhXa3Fkd0RCVXhMeC13VkkwaVF5T2pXeUZBYW9hLWZoVF81T1kybXZHVEQ0c2czM2NPcEZoVzBxUWluUFpzOUd3MUV0TEdKR252d1VyTmI3RVU4dlN4aUtlUjhLVmVCZGlZMDczVXZRU2JLRE5pT0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T23:41:00.000Z",
-      "pub_sort_dt": "2026-09-24 07:41:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国扣留了被转运至香港的敏感F-35零部件 - bloomberg.com",
-      "title_cn": "中国扣留被转运至香港的敏感F-35零部件 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxQcXhjbzBjOF9aZ0liUU5PMkJLWU53OW1nTi1KcXVpcWFQOWJxTWplT3Y0S1lnVlYzamJQQlBKTW00STJMNzVhdXBrWjlDeWJKbjZpOGQ4Ykhtdk9xWlMwZkZCMjAwLWh0MzhwamtBbnpBZTBzanRRVmZCeUN3SzY0ekhtYzYwTDlPQTFDQ3VuSHZhSUNCZEp4cmhYbG9QTzNqZnBBcHZrdDZ0MGdmTk1r?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T22:20:53.000Z",
-      "pub_sort_dt": "2026-09-24 06:20:53"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "贝森特称，中美双方同意将贸易休战期延长至1月10日 - NBC News",
-      "title_cn": "贝森特称，中美双方同意将贸易休战期延长至1月10日 - NBC News",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxQS051cC1BN2VtYm9pT0wtQkhoaWNIa3lpU2dzbzJfNjhjaXpKZFQ1MkZUVk9kdGRDbkwyVW9rUWY1NHFKVFlTbl85X0haTjFnQjhEOU1sQ3k4cGJiUG9JRkFSYWM2QXZmWG1OOHJ0VlkyTlRKUERjR284RVA0YXNGcU5HQ0JCWHpqYkNKZ05R?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T22:20:00.000Z",
-      "pub_sort_dt": "2026-09-24 06:20:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国国家主席习近平抵达中国进行国事访问，特朗普在飞机旁迎接他 - The Guardian",
-      "title_cn": "中国国家主席习近平对中国进行国事访问，特朗普在飞机旁迎接他 - 英国《卫报》",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxPNXJiRGRJVWpENUxMLW52eTlhdm5WMTREUnhMcFY1aG5nTElLM3lxZTV4cGRpa1FaS2x1MFNuUVdDVmFIQk5uTkpIU1F5Q1hnTDVRQTRpOEV5UlkteE5NYzhLcnh1MzVjeUZjQWUtaTdHQzBXclc3c1R6Y3pCd1hIelVneHZJbmRxM0RuUnd3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T22:14:00.000Z",
-      "pub_sort_dt": "2026-09-24 06:14:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "受中国市场表现不及预期及黑海局势相关消息影响，谷物价格下跌 - AgWeb",
-      "title_cn": "受中国市场表现不及预期及黑海局势相关消息影响，谷物价格下跌 - AgWeb",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxPX0t4b1c3LTlBQy10dDJKQ256NWQ4b2I3dmItVzZhcVdEbXRPLWNfWUlDTENXOXZiMEhMTDczeHlESnViNXI5UnoxVy1rZGljNlh0c0VIcVZyU3hxY2kybDlmUC1kNDQ4bmZueFE5ZlpCOXphN1NjbkZkcVgyemVwMUxIdWxYeTNiN0tyVDJBS0lxbEQ0YmFISWxBOXMtc3M?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T22:13:00.000Z",
-      "pub_sort_dt": "2026-09-24 06:13:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "贝森特称，中美双方已同意将贸易休战期延长至1月10日 - Bloomberg",
-      "title_cn": "贝森特表示，中美双方已同意将贸易休战期延长至1月10日 - Bloomberg",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxQWkxNMHpuN3RlOHhaWEl4R0Q4ZzZWZUY3TWwydWpFNVVwYVJGby01Q2E3ZzVXODJjMWFMdVBMMTR2QmZrczJad3JERU5DZUVKRWkyb1IxWkVqVWxBSXQ5STBsLW5LRnJaQkYyTlJrMi1PbG12R1FJRGFkMnhVelRLT0xvWGlwWmVNOWF1cHNIZFY2NUJTbTIxcW5iUkNIRUR0Snlxc3d4RmlSS0xCdDRCbA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T22:12:03.000Z",
-      "pub_sort_dt": "2026-09-24 06:12:03"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在人工智能竞争重塑全球力量格局之际，特朗普与习近平举行会晤 - BBC",
-      "title_cn": "在人工智能竞争中全球力量格局之际，特朗普与习近平举行了会晤 - BBC",
-      "url": "https://news.google.com/read/CBMiW0FVX3lxTE9OVDQ3U3dMZm85UnhSdExTVzZDc21HZGtTc0dIZHVJUHNIcThYVEVmQXpuR1ZqUjIwQV9wWjJETzlKc1M3WjJmSXlzQ2ZoRmlJMGFtOUt2aGdEY0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T22:01:17.000Z",
-      "pub_sort_dt": "2026-09-24 06:01:17"
     }
   ],
   "media_news": [
+    {
+      "source": "Financial Times",
+      "title_en": "腾讯推出面向“深度游中国”外国游客的支付应用",
+      "title_cn": "腾讯面向推出“深度游中国”外国游客的支付应用",
+      "url": "https://www.ft.com/content/d600fbb4-11e4-4541-9e98-ca37c8475eb3?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-24T09:42:58.231Z",
+      "pub_sort_dt": "2026-09-24 17:42:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "大众汽车在中国开启与小鹏汽车第二款联名车型的预售",
+      "title_cn": "大众汽车在中国开启与小鹏汽车第二款联名车型的预售",
+      "url": "https://reut.rs/3T640DT",
+      "pub_raw": "2026-09-24T09:27:39.431Z",
+      "pub_sort_dt": "2026-09-24 17:27:39"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "BI：特朗普-习近平峰会缩小了中国信贷的地缘政治折价：BI",
+      "title_cn": "BI：特朗普-习近平峰会缩小了中国信贷的地缘政治折价：BI",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/trump-xi-summit-narrows-china-credit-s-geopolitical-discount-bi",
+      "pub_raw": "2026-09-24T08:09:03.874Z",
+      "pub_sort_dt": "2026-09-24 16:09:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国港口创下有史以来最繁忙的一周，折射出关税问题引发的隐忧",
+      "title_cn": "中国重点采购一周，造成关税问题引发的隐忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/china-s-trade-volumes-hit-record-in-week-before-trump-xi-summit",
+      "pub_raw": "2026-09-24T07:52:28.712Z",
+      "pub_sort_dt": "2026-09-24 15:52:28"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国在稀土领域的霸主地位将盖过特朗普与习近平的会谈",
+      "title_cn": "中国在稀土领域的霸主地位将盖过特朗普与习近平的葬礼",
+      "url": "https://reut.rs/4iGJHar",
+      "pub_raw": "2026-09-24T07:21:33.033Z",
+      "pub_sort_dt": "2026-09-24 15:21:33"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国InnoCare与礼来公司签署合作协议，协议价值最高达33.5亿美元",
+      "title_cn": "中国InnoCare与礼来公司签署合作协议，协议价值高达33.5亿美元",
+      "url": "https://reut.rs/4dS5DvO",
+      "pub_raw": "2026-09-24T07:05:32.674Z",
+      "pub_sort_dt": "2026-09-24 15:05:32"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国计划将新产品纳入“互换连接”扩容范围",
+      "title_cn": "中国计划将新产品纳入“对接连接”扩容范围",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/china-plans-inclusion-of-new-products-for-swap-connect-expansion",
+      "pub_raw": "2026-09-24T06:34:15.698Z",
+      "pub_sort_dt": "2026-09-24 14:34:15"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国“口红之王”面临直播电商增长放缓和人工智能带来的冲击",
+      "title_cn": "中国“口红之王”面临直播电商增长终止和人工智能带来的冲击",
+      "url": "https://reut.rs/3TjqMZ0",
+      "pub_raw": "2026-09-24T05:15:32.401Z",
+      "pub_sort_dt": "2026-09-24 13:15:32"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "在特朗普与习近平峰会前夕，台湾方面对美国表示感谢",
+      "title_cn": "在特朗普与习近平峰会前夕，台湾方面对美国表示感谢",
+      "url": "https://reut.rs/4d0v9ij",
+      "pub_raw": "2026-09-24T04:59:18.688Z",
+      "pub_sort_dt": "2026-09-24 12:59:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "昂德尔等顶尖国际学校争相进军香港，需求激增",
+      "title_cn": "昂德尔等顶尖国际学校争相进军香港，需求激增",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-24/oundle-elite-international-schools-rush-to-hong-kong-as-demand-surges",
+      "pub_raw": "2026-09-24T04:43:37.857Z",
+      "pub_sort_dt": "2026-09-24 12:43:37"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "英国和德国是受中国影响最大的经济体之一",
+      "title_cn": "英国和德国是受中国影响最大的经济体之一",
+      "url": "https://www.ft.com/content/35fff896-9727-4372-bfcd-a805d8021517?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-24T04:43:36.807Z",
+      "pub_sort_dt": "2026-09-24 12:43:36"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国试水智能眼镜热潮——及其带来的隐私风险",
+      "title_cn": "中国试水智能眼镜热潮——及其带来的隐私风险",
+      "url": "https://www.ft.com/content/a2947a3c-173a-4ec3-bac6-7467f852acce?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-24T04:43:36.728Z",
+      "pub_sort_dt": "2026-09-24 12:43:36"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普与中国的关系：欧盟的危险依赖使其成为中美博弈的筹码",
+      "title_cn": "特朗普与中国的关系：欧盟的危险援助成为中美博弈的筹码",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-09-24/trump-china-eu-s-dangerous-dependence-puts-it-on-the-us-and-china-menu",
+      "pub_raw": "2026-09-24T04:11:27.191Z",
+      "pub_sort_dt": "2026-09-24 12:11:27"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "为何习近平与特朗普的峰会取决于中国的稀土优势",
+      "title_cn": "习近平与特朗普的峰会为何取决于中国的稀土优势",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-24/why-the-xi-trump-summit-hinges-on-china-s-rare-earths-advantage",
+      "pub_raw": "2026-09-24T04:11:27.170Z",
+      "pub_sort_dt": "2026-09-24 12:11:27"
+    },
     {
       "source": "Reuters",
       "title_en": "台湾提升南海前沿据点的海上巡逻能力",
@@ -139,200 +251,200 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-23/chinese-carmakers-may-take-more-than-10-of-us-market-if-let-in",
       "pub_raw": "2026-09-23T23:10:51.511Z",
       "pub_sort_dt": "2026-09-24 07:10:51"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：特朗普总统在美国欢迎中国国家主席习近平",
-      "title_cn": "直播：特朗普总统在美国欢迎中国国家主席习近平",
-      "url": "https://youtube.com/live/DxSKRSDgC9E",
-      "pub_raw": "2026-09-23T22:06:46.124Z",
-      "pub_sort_dt": "2026-09-24 06:06:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "西班牙总理桑切斯表示，与中国开展对话有助于欧盟缩小贸易逆差",
-      "title_cn": "西班牙总理桑切斯表示，与中国开展对话有助于欧盟缩小贸易逆差",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/spain-s-sanchez-says-china-talks-can-help-eu-cut-trade-deficit",
-      "pub_raw": "2026-09-23T20:31:57.388Z",
-      "pub_sort_dt": "2026-09-24 04:31:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国扣押了被转运至香港的敏感F-35零部件",
-      "title_cn": "中国扣押了被转运至香港的敏感F-35零部件",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/china-is-holding-sensitive-f-35-parts-diverted-to-hong-kong",
-      "pub_raw": "2026-09-23T20:31:57.381Z",
-      "pub_sort_dt": "2026-09-24 04:31:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国寻求在气候外交中发挥更大作用之际，土耳其公布了COP31议程",
-      "title_cn": "中国寻求在气候外交中发挥更大作用之际，土耳其公布了COP31",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/turkey-s-environment-minister-lays-out-agenda-for-cop31-summit",
-      "pub_raw": "2026-09-23T20:16:19.704Z",
-      "pub_sort_dt": "2026-09-24 04:16:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "贝森特会见中国方面代表何某，以在峰会前处理“未完成”的工作",
-      "title_cn": "贝森特会见中国方面代表何某，以在峰会前处理“未完成”的工作",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/bessent-meets-china-s-he-for-further-talks-on-unfinished-work",
-      "pub_raw": "2026-09-23T19:59:26.533Z",
-      "pub_sort_dt": "2026-09-24 03:59:26"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国议员提议改革用于禁止中国科技产品的相关机制",
-      "title_cn": "美国提议改革禁止中国科技产品的相关机制",
-      "url": "https://reut.rs/4hp1pNt",
-      "pub_raw": "2026-09-23T19:12:34.556Z",
-      "pub_sort_dt": "2026-09-24 03:12:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "克里称美国在与中国的清洁技术竞争中处于下风",
-      "title_cn": "克里称美国在与中国的清洁技术竞争中处于下风",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/kerry-says-us-is-ceding-in-clean-tech-race-with-china",
-      "pub_raw": "2026-09-23T18:42:21.423Z",
-      "pub_sort_dt": "2026-09-24 02:42:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "新西兰称，中国是其面临的最持久的、由国家支持的网络威胁",
-      "title_cn": "新西兰称，中国是其面临的最持久的、由国家支持的网络威胁",
-      "url": "https://reut.rs/4xRSri0",
-      "pub_raw": "2026-09-23T18:42:21.282Z",
-      "pub_sort_dt": "2026-09-24 02:42:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "四名美国共和党人呼吁特朗普拨付台湾安全资金",
-      "title_cn": "四名美国呼吁人呼吁特朗普拨付台湾安全资金",
-      "url": "https://reut.rs/4d1FGK4",
-      "pub_raw": "2026-09-23T16:50:26.471Z",
-      "pub_sort_dt": "2026-09-24 00:50:26"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在习近平访美之际，美国参议员计划本周加快推进对中国汽车的禁令",
-      "title_cn": "在习近平访美之际，美国艺术家计划本周加快推进对中国汽车的游行",
-      "url": "https://reut.rs/4xCiTMb",
-      "pub_raw": "2026-09-23T16:35:40.272Z",
-      "pub_sort_dt": "2026-09-24 00:35:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "胡塞武装的战争行动及伊朗的支持，得益于中国的进口",
-      "title_cn": "胡塞武装的战争行动及伊朗的支持，得益于中国的进口",
-      "url": "https://www.bloomberg.com/news/features/2026-09-23/houthi-s-war-efforts-iran-support-sustained-with-chinese-imports",
-      "pub_raw": "2026-09-23T16:04:10.605Z",
-      "pub_sort_dt": "2026-09-24 00:04:10"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "特朗普的柴油禁令将损害美国利益，却会使中国受益",
-      "title_cn": "特朗普的摩洛哥合金将损害美国利益，但却使中国受益",
-      "url": "https://www.ft.com/content/3e480031-4ee7-4ded-9893-75c060aeef1a?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-23T15:48:29.564Z",
-      "pub_sort_dt": "2026-09-23 23:48:29"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "消息人士称，中国国家主席习近平将率团访问华盛顿，但不会有企业高管随行",
-      "title_cn": "有消息人士称，中国国家主席习近平将率团访问华盛顿，但不会有企业高管随行",
-      "url": "https://reut.rs/4ygmoco",
-      "pub_raw": "2026-09-23T15:02:03.695Z",
-      "pub_sort_dt": "2026-09-23 23:02:03"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "尽管需求下滑，香奈儿仍计划继续在中国投资",
-      "title_cn": "尽管需求增加，香奈儿仍计划继续在中国投资",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/chanel-plans-to-keep-investing-in-china-despite-demand-downturn",
-      "pub_raw": "2026-09-23T14:45:49.656Z",
-      "pub_sort_dt": "2026-09-23 22:45:49"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "报道称，中国今年向伊朗运送了1300批无人机和导弹零部件 - The Times of Israel",
+      "title_cn": "报道称，中国今年向伊朗运送了1300批无人机和导弹零部件 - 以色列时报",
+      "url": "https://news.google.com/read/CBMiqgFBVV95cUxNaURRUWtOa0dxcEwzMHNfZE04TllXa0NhOGMtNng4d0NXNUFLd25PYUxPbFJMaDZOOFVjUnV5WjJOVGxjNmtrRjhvbUVCd1h1T3F4NERPS0NKR3AwRDhPVUMzTHhRU3V3S0JIZVRtOVhQS3BTNlp5SkpLbzJaajNwbml1X2o4bS1FeVFtaS1DU1ltT1k5TnJLUDB6c2VkcUFwQjBXUGx1Y04xd9IBrwFBVV95cUxOQ3dyb091akU1UjNZWVVxYlpBMHJ6SWVmMW51VXZWbVQ5Rk9EaDJGQ1FuYWcxTGp3OHlrRFU0Y3V5QTVVdklKSERmbEE2ZmRxMDlQbkRSWklrUVQ2ZkVRQnNjNzY0SmlKZEFCRkVFSFJGVEk1alF5QTBDY245ZGF4SDVaVkhpbGJ5Skdwb0QxVTdLMG1xOW1DNXBoVVJ0TlZTM2dpNkJFdnZOdFJOSWJN?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T08:12:47.000Z",
+      "pub_sort_dt": "2026-09-24 16:12:47"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国已成为全球游客的主要目的地 - news.cgtn.com",
+      "title_cn": "中国已成为全球游客主要目的地 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMirgFBVV95cUxQLXA4endtYnRsWTdPdVJMWGY5LXZiWWFUQ2ltY0FuM2lmZGtrWktfVzJUSkEzSm15bjNXSzItYTZ1WGp1MXdELXRjSjltY2FXZ2NILXpHOTVzbFFYYVBlTUYwemFDVVNHMmdsenhfVncwN0Y0U3MxOEQ1WjJEdDZkTl9PVHhKUTdCWVlzdEpfVEJ2aXQzdHFPQ1RuZjVheW5BbkFoUnJYeUdiX0RkQ0E?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T05:00:06.000Z",
+      "pub_sort_dt": "2026-09-24 13:00:06"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "报道：今年截至6月底，中国已向伊朗运送了约1300批无人机和导弹零部件 - The Times of Israel",
+      "title_cn": "报道：今年截至6月底，中国已向伊朗运送了约1300批无人机和导弹零部件 - 以色列时报",
+      "url": "https://news.google.com/read/CBMi2wFBVV95cUxQV1FqOWtyb09jcHRkZFpqbGVzMXlyS1UxM245QlZtbTNVMnVIWFRkNmIyeFgwaUxLRGFuR0NmczhHdll2eGI5WW5JcVRfMHE2NFRxbUtMWGRUYXJOaTQtallYaHFtUXZKQkU0TnM3ejZsd0VYMm05b0VfSGhuTmRWZ1pRZUpGVl9SU2VkUG0zQ1NQejFsVmx4bkVrOGNnRnBJdksyc3JBZ2dIRC1SMUQ1TlpCc2cyZmZPUDhRb0pXSHNNRG5vMFpSLWphY3BlVlR5ZzZ1dXduUi1Rbkk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T04:36:10.000Z",
+      "pub_sort_dt": "2026-09-24 12:36:10"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国商品转口问题笼罩特朗普与习近平会晤：九个拉美国家被点名 - Euronews.com",
+      "title_cn": "中国商品转口问题笼罩特朗普与习近平会晤：九个拉美国家被点名 - Euronews.com",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNMEZtRExGMVhLaHJrSGpjcEQ3Y19TanF1ZngwYTFSazhtOTdKaXozZDRndjZwYmpMVUpJRGpoMVRhbkd2UmU1eFI1WWRqcVkxc2NDVl9rWXM2aEp3SXNSOXdMeUhXcy1uNXBKSmpDdUlRQ1hkWnNpMXJMREFXSXFaNUQyMWlsS2daSWdHbjEwYk9BOE1WQkxkeFE0eVd2VllFeTdvS2xMTVRKUk5BN2QwajVUSkw3VnY4X2NKdUJPaGVtZWc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T03:56:44.000Z",
+      "pub_sort_dt": "2026-09-24 11:56:44"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国国家主席习近平抵达美国进行访问，特朗普予以热情欢迎 - bbc.com",
+      "title_cn": "中国国家主席习近平莅临美国，特朗普怀着热情欢迎 - bbc.com",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTFBuWlNBYWUxd3dpZ003LTZNWU5iQ09UVFR6Z3lhTnd3OHBWNkJ0SkhoUFduLUxPd1lDd0ExaFlMbkRCbDFlUThXTFR6R2J0UjhpVks3SlhUQ3V2clU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T03:52:21.000Z",
+      "pub_sort_dt": "2026-09-24 11:52:21"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国在人工智能芯片领域的强势推进，让习近平得以向特朗普传递一个信息：“你们无法扼杀我们” - CNBC",
+      "title_cn": "中国在人工智能芯片领域的强势推进，让习近平能够向特朗普传递一条信息：“你们无法扼杀我们” - CNBC",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxPM1poekxTT01INi1FY0h2MGNpNmtWMHg2S3JLTDRXRnBLVFFaa3B1cHZ4djMwM2VzN0dPc2hfQ1BlckZIZGFqM1hQUW0wazd3OFFKWm1nVGc5LU05b2dXTUxkdWtkWDR0MnM0VThfZlZINlZvd09qWkNvWW5iVEl4V3NoUUpRZ2NYcHk5eHR2czJVXzUxTEFjVHJrNUF5b1Vi0gGmAUFVX3lxTE96M21MTWJjLVpqZ0RwdFprNFM2N1JnVXFoZWswSGpHVmZoY0J4ZXVPdDJEbXVMc1V4eURUMG80LXNWWEd0djRiZl9hRU94T1c2OEplWFhPNkJBaHpWMnpwVXlHRmxoU3ZpaUVRUGpjSmZ6dXRuRDN6d0NsaUVRSlpOT1NFTXYyU0ZJeXZjTmU3NWNZM05XOUFyZkowejFJTXY5RWg2bXc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T03:38:00.000Z",
+      "pub_sort_dt": "2026-09-24 11:38:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "消息人士称，中美峰会期间达成波音新协议的希望渺茫 - reuters.com",
+      "title_cn": "消息人士称，中美峰会期间达成美联储新协议的希望渺茫 - reuters.com",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxQbjNsVlBmUHA5c2wzcnZVNnJ1b2x5bEF5cGhuUzR0RGtKQkpWeDgtcE5YLXpJbFRVZTg3RHN3WllHb0xWWTQxOENKbHJnWGs2TWEzWWtUV3NFOEJ6S29VM2xPSGh4Ny1oUUFvSXNmdXpJd1B3d2ozdEtRQXl1QVB5c0syY1dCY3BkOVpYYWJmaTNiaEZFd1JWN2diNFF2NGRoV1hMRFA2SlYwek0xT1FDVFhIVWRsaVlFb3pZck1ONGpKcnZRTDNB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T02:52:34.000Z",
+      "pub_sort_dt": "2026-09-24 10:52:34"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在特朗普与习近平峰会前一周，中国贸易额创下历史新高 - Bloomberg.com",
+      "title_cn": "在特朗普与习近平峰会前一周，中国贸易额创下历史新高 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxNUk1DazBIcGNWQ1FELU9kZzVhenczQzJ4dFRPLVM4MDNqVnUybW1vRWlLOEVIOE40aWNaYVFEXzBIWk9ORHdRLUxxVjJaT21MSjhFSVh1N1diNjlCdGdhMWdZbkdjdXpzRWxIOTNiazhrckZiV3BnUTFmWkpCMEJvTmtTc2tITWVrRkF4R0l1d2J2OGlmX0dWb0F1ZDNUU0pyU3c4a2NIRXQtNWMxYnBtYzFKOWs?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T01:07:00.000Z",
+      "pub_sort_dt": "2026-09-24 09:07:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "普京入侵乌克兰，使俄罗斯沦为中国的次要合作伙伴 - Atlantic Council",
+      "title_cn": "干预乌克兰，使俄罗斯成为中国的次要合作伙伴 - 大西洋理事会",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxPTkxiNURib2ZrMVN1WFJHb1UwcHAzZXR3TGlPa18xUmYwcXZ1VkxYc3l0WWNNZXRwd0tZNFA1Rjdobi1ZWTIwcERKZDNKaGpSYzZjMjYwYWFmLWcwYTU2c2lGaGNSQW9uSm0tbUhueENZOTRSUnlDV2RZOW1MVEdzaXpYQzF4T0ZKdTQ2X1ZVS1drY0h4YjB6cjEtMjJIOGVoR0c3dVd2aEtIS2RrSzg0TDR0aw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T01:00:24.000Z",
+      "pub_sort_dt": "2026-09-24 09:00:24"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "贝森特表示，中美贸易停火期延长了2个月 - Politico",
-      "title_cn": "贝森特表示，中美贸易停火期限延长了2个月 - Politico",
+      "title_cn": "贝森特表示，中美贸易停火期延长了2个月 - Politico",
       "url": "https://news.google.com/read/CBMilgFBVV95cUxNUEdyRlBoYWVMUzQ2cU5LYXQxd2pUUU1iN25yUC02SExSRGRNLVBOOG1GNE1JazBRSEVOblBsNXRWUlAyT21ISV9vNzlNMWpTTlhSSFVRYm5RekotSzVrTHZTd3RTZzczMTJQbGx0YUVQdDV3cEVLQUR3R3pRczRRM1dKeFNMYTVlRE5BQ2lGWmZhNUw4SkE?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-24T00:04:00.000Z",
       "pub_sort_dt": "2026-09-24 08:04:00"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "贝森特表示，中美贸易停火期延长两个月，与此同时，习近平开始对美进行国事访问 - CNBC",
-      "title_cn": "贝森特表示，中美贸易停火期延长两个月，与此同时，习近平开始对美进行国事访问 - CNBC",
-      "url": "https://news.google.com/read/CBMif0FVX3lxTE9PZGhfcDBPTTJqMS1NSDFmN1dMT09Gd2ppTXRHS1Z1dldFdEVyUXFlZnhvX0hkNnI0RmNSNjNaYUlHZWxWQzNELTlQMXdsUkk1MlhJaWRpckdMTG1xRXZLUmstOWVtRXg2OGl2cDJrSVZpUnByejB2czY2Uk9CU2PSAYQBQVVfeXFMTmhvR2NEZHkxWjA2M2V1dGQtdUVZRjF6OGU1Zk1qazhELVRHaFlrTE1mQ25Pb0FBeWJWek9NNGhmQTZJbkR0dEtIeGE1ZVBwTzIyUFpQUG10MnNydkwtb01zM05yV01RNGVIcjZneWJCMEZEc0twRW1jVmJEUU5OcVgySlNt?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T23:59:39.000Z",
-      "pub_sort_dt": "2026-09-24 07:59:39"
+      "source": "Financial Times",
+      "title_en": "腾讯推出面向“深度游中国”外国游客的支付应用",
+      "title_cn": "腾讯面向推出“深度游中国”外国游客的支付应用",
+      "url": "https://www.ft.com/content/d600fbb4-11e4-4541-9e98-ca37c8475eb3?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-24T09:42:58.231Z",
+      "pub_sort_dt": "2026-09-24 17:42:58"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "尽管中美关系紧张，特朗普仍为中国国家主席习近平铺设了红地毯 - CBS News",
-      "title_cn": "尽管中美关系紧张，特朗普仍为中国国家主席习近平保持了红线 - CBS News",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxQVnVaQ216aHlTUE5KQVJzc3BnTE80U1JOdzlGeXZDc2hEOFpVajlOU0VmTVI5QUlXdjNrUnJ1UVBSWjhFWE10aEtlZnZkZV9ob25GQnEyNlZVWGJqenl4RzU2ZmxXbE9ZTk9lTXprd1pJR3B5Z1VHd01EckVrT3QydF9XbE9DWjZuYlEyM0FVSUY5OHBpbW0zUg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T23:44:47.000Z",
-      "pub_sort_dt": "2026-09-24 07:44:47"
+      "source": "Reuters",
+      "title_en": "大众汽车在中国开启与小鹏汽车第二款联名车型的预售",
+      "title_cn": "大众汽车在中国开启与小鹏汽车第二款联名车型的预售",
+      "url": "https://reut.rs/3T640DT",
+      "pub_raw": "2026-09-24T09:27:39.431Z",
+      "pub_sort_dt": "2026-09-24 17:27:39"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "在特朗普与习近平峰会之际审视中伊关系 - CBS News",
-      "title_cn": "特朗普与习近平峰会期间的双边贸易中伊关系 - CBS News",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxNSnBOcGE4OGM5VjRfRmlCd0lwNEhXa3Fkd0RCVXhMeC13VkkwaVF5T2pXeUZBYW9hLWZoVF81T1kybXZHVEQ0c2czM2NPcEZoVzBxUWluUFpzOUd3MUV0TEdKR252d1VyTmI3RVU4dlN4aUtlUjhLVmVCZGlZMDczVXZRU2JLRE5pT0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T23:41:00.000Z",
-      "pub_sort_dt": "2026-09-24 07:41:00"
+      "source": "Bloomberg",
+      "title_en": "BI：特朗普-习近平峰会缩小了中国信贷的地缘政治折价：BI",
+      "title_cn": "BI：特朗普-习近平峰会缩小了中国信贷的地缘政治折价：BI",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/trump-xi-summit-narrows-china-credit-s-geopolitical-discount-bi",
+      "pub_raw": "2026-09-24T08:09:03.874Z",
+      "pub_sort_dt": "2026-09-24 16:09:03"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国扣留了被转运至香港的敏感F-35零部件 - bloomberg.com",
-      "title_cn": "中国扣留被转运至香港的敏感F-35零部件 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxQcXhjbzBjOF9aZ0liUU5PMkJLWU53OW1nTi1KcXVpcWFQOWJxTWplT3Y0S1lnVlYzamJQQlBKTW00STJMNzVhdXBrWjlDeWJKbjZpOGQ4Ykhtdk9xWlMwZkZCMjAwLWh0MzhwamtBbnpBZTBzanRRVmZCeUN3SzY0ekhtYzYwTDlPQTFDQ3VuSHZhSUNCZEp4cmhYbG9QTzNqZnBBcHZrdDZ0MGdmTk1r?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T22:20:53.000Z",
-      "pub_sort_dt": "2026-09-24 06:20:53"
+      "source": "Bloomberg",
+      "title_en": "中国港口创下有史以来最繁忙的一周，折射出关税问题引发的隐忧",
+      "title_cn": "中国重点采购一周，造成关税问题引发的隐忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/china-s-trade-volumes-hit-record-in-week-before-trump-xi-summit",
+      "pub_raw": "2026-09-24T07:52:28.712Z",
+      "pub_sort_dt": "2026-09-24 15:52:28"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "贝森特称，中美双方同意将贸易休战期延长至1月10日 - NBC News",
-      "title_cn": "贝森特称，中美双方同意将贸易休战期延长至1月10日 - NBC News",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxQS051cC1BN2VtYm9pT0wtQkhoaWNIa3lpU2dzbzJfNjhjaXpKZFQ1MkZUVk9kdGRDbkwyVW9rUWY1NHFKVFlTbl85X0haTjFnQjhEOU1sQ3k4cGJiUG9JRkFSYWM2QXZmWG1OOHJ0VlkyTlRKUERjR284RVA0YXNGcU5HQ0JCWHpqYkNKZ05R?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T22:20:00.000Z",
-      "pub_sort_dt": "2026-09-24 06:20:00"
+      "source": "Reuters",
+      "title_en": "中国在稀土领域的霸主地位将盖过特朗普与习近平的会谈",
+      "title_cn": "中国在稀土领域的霸主地位将盖过特朗普与习近平的葬礼",
+      "url": "https://reut.rs/4iGJHar",
+      "pub_raw": "2026-09-24T07:21:33.033Z",
+      "pub_sort_dt": "2026-09-24 15:21:33"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国国家主席习近平抵达中国进行国事访问，特朗普在飞机旁迎接他 - The Guardian",
-      "title_cn": "中国国家主席习近平对中国进行国事访问，特朗普在飞机旁迎接他 - 英国《卫报》",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxPNXJiRGRJVWpENUxMLW52eTlhdm5WMTREUnhMcFY1aG5nTElLM3lxZTV4cGRpa1FaS2x1MFNuUVdDVmFIQk5uTkpIU1F5Q1hnTDVRQTRpOEV5UlkteE5NYzhLcnh1MzVjeUZjQWUtaTdHQzBXclc3c1R6Y3pCd1hIelVneHZJbmRxM0RuUnd3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T22:14:00.000Z",
-      "pub_sort_dt": "2026-09-24 06:14:00"
+      "source": "Reuters",
+      "title_en": "中国InnoCare与礼来公司签署合作协议，协议价值最高达33.5亿美元",
+      "title_cn": "中国InnoCare与礼来公司签署合作协议，协议价值高达33.5亿美元",
+      "url": "https://reut.rs/4dS5DvO",
+      "pub_raw": "2026-09-24T07:05:32.674Z",
+      "pub_sort_dt": "2026-09-24 15:05:32"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "受中国市场表现不及预期及黑海局势相关消息影响，谷物价格下跌 - AgWeb",
-      "title_cn": "受中国市场表现不及预期及黑海局势相关消息影响，谷物价格下跌 - AgWeb",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxPX0t4b1c3LTlBQy10dDJKQ256NWQ4b2I3dmItVzZhcVdEbXRPLWNfWUlDTENXOXZiMEhMTDczeHlESnViNXI5UnoxVy1rZGljNlh0c0VIcVZyU3hxY2kybDlmUC1kNDQ4bmZueFE5ZlpCOXphN1NjbkZkcVgyemVwMUxIdWxYeTNiN0tyVDJBS0lxbEQ0YmFISWxBOXMtc3M?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T22:13:00.000Z",
-      "pub_sort_dt": "2026-09-24 06:13:00"
+      "source": "Bloomberg",
+      "title_en": "中国计划将新产品纳入“互换连接”扩容范围",
+      "title_cn": "中国计划将新产品纳入“对接连接”扩容范围",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/china-plans-inclusion-of-new-products-for-swap-connect-expansion",
+      "pub_raw": "2026-09-24T06:34:15.698Z",
+      "pub_sort_dt": "2026-09-24 14:34:15"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "贝森特称，中美双方已同意将贸易休战期延长至1月10日 - Bloomberg",
-      "title_cn": "贝森特表示，中美双方已同意将贸易休战期延长至1月10日 - Bloomberg",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxQWkxNMHpuN3RlOHhaWEl4R0Q4ZzZWZUY3TWwydWpFNVVwYVJGby01Q2E3ZzVXODJjMWFMdVBMMTR2QmZrczJad3JERU5DZUVKRWkyb1IxWkVqVWxBSXQ5STBsLW5LRnJaQkYyTlJrMi1PbG12R1FJRGFkMnhVelRLT0xvWGlwWmVNOWF1cHNIZFY2NUJTbTIxcW5iUkNIRUR0Snlxc3d4RmlSS0xCdDRCbA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T22:12:03.000Z",
-      "pub_sort_dt": "2026-09-24 06:12:03"
+      "source": "Reuters",
+      "title_en": "中国“口红之王”面临直播电商增长放缓和人工智能带来的冲击",
+      "title_cn": "中国“口红之王”面临直播电商增长终止和人工智能带来的冲击",
+      "url": "https://reut.rs/3TjqMZ0",
+      "pub_raw": "2026-09-24T05:15:32.401Z",
+      "pub_sort_dt": "2026-09-24 13:15:32"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "在人工智能竞争重塑全球力量格局之际，特朗普与习近平举行会晤 - BBC",
-      "title_cn": "在人工智能竞争中全球力量格局之际，特朗普与习近平举行了会晤 - BBC",
-      "url": "https://news.google.com/read/CBMiW0FVX3lxTE9OVDQ3U3dMZm85UnhSdExTVzZDc21HZGtTc0dIZHVJUHNIcThYVEVmQXpuR1ZqUjIwQV9wWjJETzlKc1M3WjJmSXlzQ2ZoRmlJMGFtOUt2aGdEY0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T22:01:17.000Z",
-      "pub_sort_dt": "2026-09-24 06:01:17"
+      "source": "Reuters",
+      "title_en": "在特朗普与习近平峰会前夕，台湾方面对美国表示感谢",
+      "title_cn": "在特朗普与习近平峰会前夕，台湾方面对美国表示感谢",
+      "url": "https://reut.rs/4d0v9ij",
+      "pub_raw": "2026-09-24T04:59:18.688Z",
+      "pub_sort_dt": "2026-09-24 12:59:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "昂德尔等顶尖国际学校争相进军香港，需求激增",
+      "title_cn": "昂德尔等顶尖国际学校争相进军香港，需求激增",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-24/oundle-elite-international-schools-rush-to-hong-kong-as-demand-surges",
+      "pub_raw": "2026-09-24T04:43:37.857Z",
+      "pub_sort_dt": "2026-09-24 12:43:37"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "英国和德国是受中国影响最大的经济体之一",
+      "title_cn": "英国和德国是受中国影响最大的经济体之一",
+      "url": "https://www.ft.com/content/35fff896-9727-4372-bfcd-a805d8021517?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-24T04:43:36.807Z",
+      "pub_sort_dt": "2026-09-24 12:43:36"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国试水智能眼镜热潮——及其带来的隐私风险",
+      "title_cn": "中国试水智能眼镜热潮——及其带来的隐私风险",
+      "url": "https://www.ft.com/content/a2947a3c-173a-4ec3-bac6-7467f852acce?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-24T04:43:36.728Z",
+      "pub_sort_dt": "2026-09-24 12:43:36"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普与中国的关系：欧盟的危险依赖使其成为中美博弈的筹码",
+      "title_cn": "特朗普与中国的关系：欧盟的危险援助成为中美博弈的筹码",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-09-24/trump-china-eu-s-dangerous-dependence-puts-it-on-the-us-and-china-menu",
+      "pub_raw": "2026-09-24T04:11:27.191Z",
+      "pub_sort_dt": "2026-09-24 12:11:27"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "为何习近平与特朗普的峰会取决于中国的稀土优势",
+      "title_cn": "习近平与特朗普的峰会为何取决于中国的稀土优势",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-24/why-the-xi-trump-summit-hinges-on-china-s-rare-earths-advantage",
+      "pub_raw": "2026-09-24T04:11:27.170Z",
+      "pub_sort_dt": "2026-09-24 12:11:27"
     },
     {
       "source": "Reuters",
@@ -381,118 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-23/chinese-carmakers-may-take-more-than-10-of-us-market-if-let-in",
       "pub_raw": "2026-09-23T23:10:51.511Z",
       "pub_sort_dt": "2026-09-24 07:10:51"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：特朗普总统在美国欢迎中国国家主席习近平",
-      "title_cn": "直播：特朗普总统在美国欢迎中国国家主席习近平",
-      "url": "https://youtube.com/live/DxSKRSDgC9E",
-      "pub_raw": "2026-09-23T22:06:46.124Z",
-      "pub_sort_dt": "2026-09-24 06:06:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "西班牙总理桑切斯表示，与中国开展对话有助于欧盟缩小贸易逆差",
-      "title_cn": "西班牙总理桑切斯表示，与中国开展对话有助于欧盟缩小贸易逆差",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/spain-s-sanchez-says-china-talks-can-help-eu-cut-trade-deficit",
-      "pub_raw": "2026-09-23T20:31:57.388Z",
-      "pub_sort_dt": "2026-09-24 04:31:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国扣押了被转运至香港的敏感F-35零部件",
-      "title_cn": "中国扣押了被转运至香港的敏感F-35零部件",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/china-is-holding-sensitive-f-35-parts-diverted-to-hong-kong",
-      "pub_raw": "2026-09-23T20:31:57.381Z",
-      "pub_sort_dt": "2026-09-24 04:31:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国寻求在气候外交中发挥更大作用之际，土耳其公布了COP31议程",
-      "title_cn": "中国寻求在气候外交中发挥更大作用之际，土耳其公布了COP31",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/turkey-s-environment-minister-lays-out-agenda-for-cop31-summit",
-      "pub_raw": "2026-09-23T20:16:19.704Z",
-      "pub_sort_dt": "2026-09-24 04:16:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "贝森特会见中国方面代表何某，以在峰会前处理“未完成”的工作",
-      "title_cn": "贝森特会见中国方面代表何某，以在峰会前处理“未完成”的工作",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/bessent-meets-china-s-he-for-further-talks-on-unfinished-work",
-      "pub_raw": "2026-09-23T19:59:26.533Z",
-      "pub_sort_dt": "2026-09-24 03:59:26"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国议员提议改革用于禁止中国科技产品的相关机制",
-      "title_cn": "美国提议改革禁止中国科技产品的相关机制",
-      "url": "https://reut.rs/4hp1pNt",
-      "pub_raw": "2026-09-23T19:12:34.556Z",
-      "pub_sort_dt": "2026-09-24 03:12:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "克里称美国在与中国的清洁技术竞争中处于下风",
-      "title_cn": "克里称美国在与中国的清洁技术竞争中处于下风",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/kerry-says-us-is-ceding-in-clean-tech-race-with-china",
-      "pub_raw": "2026-09-23T18:42:21.423Z",
-      "pub_sort_dt": "2026-09-24 02:42:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "新西兰称，中国是其面临的最持久的、由国家支持的网络威胁",
-      "title_cn": "新西兰称，中国是其面临的最持久的、由国家支持的网络威胁",
-      "url": "https://reut.rs/4xRSri0",
-      "pub_raw": "2026-09-23T18:42:21.282Z",
-      "pub_sort_dt": "2026-09-24 02:42:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "四名美国共和党人呼吁特朗普拨付台湾安全资金",
-      "title_cn": "四名美国呼吁人呼吁特朗普拨付台湾安全资金",
-      "url": "https://reut.rs/4d1FGK4",
-      "pub_raw": "2026-09-23T16:50:26.471Z",
-      "pub_sort_dt": "2026-09-24 00:50:26"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在习近平访美之际，美国参议员计划本周加快推进对中国汽车的禁令",
-      "title_cn": "在习近平访美之际，美国艺术家计划本周加快推进对中国汽车的游行",
-      "url": "https://reut.rs/4xCiTMb",
-      "pub_raw": "2026-09-23T16:35:40.272Z",
-      "pub_sort_dt": "2026-09-24 00:35:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "胡塞武装的战争行动及伊朗的支持，得益于中国的进口",
-      "title_cn": "胡塞武装的战争行动及伊朗的支持，得益于中国的进口",
-      "url": "https://www.bloomberg.com/news/features/2026-09-23/houthi-s-war-efforts-iran-support-sustained-with-chinese-imports",
-      "pub_raw": "2026-09-23T16:04:10.605Z",
-      "pub_sort_dt": "2026-09-24 00:04:10"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "特朗普的柴油禁令将损害美国利益，却会使中国受益",
-      "title_cn": "特朗普的摩洛哥合金将损害美国利益，但却使中国受益",
-      "url": "https://www.ft.com/content/3e480031-4ee7-4ded-9893-75c060aeef1a?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-23T15:48:29.564Z",
-      "pub_sort_dt": "2026-09-23 23:48:29"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "消息人士称，中国国家主席习近平将率团访问华盛顿，但不会有企业高管随行",
-      "title_cn": "有消息人士称，中国国家主席习近平将率团访问华盛顿，但不会有企业高管随行",
-      "url": "https://reut.rs/4ygmoco",
-      "pub_raw": "2026-09-23T15:02:03.695Z",
-      "pub_sort_dt": "2026-09-23 23:02:03"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "尽管需求下滑，香奈儿仍计划继续在中国投资",
-      "title_cn": "尽管需求增加，香奈儿仍计划继续在中国投资",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/chanel-plans-to-keep-investing-in-china-despite-demand-downturn",
-      "pub_raw": "2026-09-23T14:45:49.656Z",
-      "pub_sort_dt": "2026-09-23 22:45:49"
     }
   ]
 }
