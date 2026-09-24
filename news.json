@@ -1,97 +1,153 @@
 {
-  "update_cst": "2026-09-24 06:01:25 北京时间",
+  "update_cst": "2026-09-24 12:01:07 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 1,
-    "Bloomberg": 12,
+    "The Economist": 0,
+    "Bloomberg": 9,
     "Financial Times": 1,
-    "Wall Street Journal": 0,
-    "Reuters": 6
+    "Wall Street Journal": 2,
+    "Reuters": 8
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国扣留了被转运至香港的敏感F-35零部件 - Bloomberg",
-      "title_cn": "中国扣留被转运至香港的敏感F-35零部件 - Bloomberg",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxON2JXM1dwMmpBenBYTzZOREwwMWhtQW01RnJkeDNGM0o2dy1KcW1BQVZQUmd6Xzl3QTMzWkpJSl9XYXZIYjlTMjdQcW1PdUhqMzNqS09JRHJUZG9XdkE5dkJjOUZQOW1GQXJfX0NqWGRYZWVjNlNPSnFlV296Z2VSa2M4aGRzSV93YUQ5ZU9CeWNVUXlzY1JUSGFVdHVOeW1pcWJwcUVSRE5lWTRTdlA0SGF6THRPNzh2Z3dZ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T20:10:29.000Z",
-      "pub_sort_dt": "2026-09-24 04:10:29"
+      "title_en": "贝森特表示，中美贸易停火期延长了2个月 - Politico",
+      "title_cn": "贝森特表示，中美贸易停火期限延长了2个月 - Politico",
+      "url": "https://news.google.com/read/CBMilgFBVV95cUxNUEdyRlBoYWVMUzQ2cU5LYXQxd2pUUU1iN25yUC02SExSRGRNLVBOOG1GNE1JazBRSEVOblBsNXRWUlAyT21ISV9vNzlNMWpTTlhSSFVRYm5RekotSzVrTHZTd3RTZzczMTJQbGx0YUVQdDV3cEVLQUR3R3pRczRRM1dKeFNMYTVlRE5BQ2lGWmZhNUw4SkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T00:04:00.000Z",
+      "pub_sort_dt": "2026-09-24 08:04:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在习近平访问华盛顿之际，特朗普淡化了中国损害美国利益的行为 - The New York Times",
-      "title_cn": "在习近平访问华盛顿国际间，特朗普淡化了中国损害美国利益的行为 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMifEFVX3lxTE93Q1N6ZzA4S0tURE9OMGNlWWVYd2U3UzItbjhaR240Q3N0a25YcGZIUTZOYW5JY2ptVk9RZjFCcVpvWjNEZlBFdnBHQlNwZHM3UzV3amQ5NW10WlhDajQ0ZnpocGRJblZfVjJiTWRqQlZWRnlwdUc5bjRLWU0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T19:45:35.000Z",
-      "pub_sort_dt": "2026-09-24 03:45:35"
+      "title_en": "贝森特表示，中美贸易停火期延长两个月，与此同时，习近平开始对美进行国事访问 - CNBC",
+      "title_cn": "贝森特表示，中美贸易停火期延长两个月，与此同时，习近平开始对美进行国事访问 - CNBC",
+      "url": "https://news.google.com/read/CBMif0FVX3lxTE9PZGhfcDBPTTJqMS1NSDFmN1dMT09Gd2ppTXRHS1Z1dldFdEVyUXFlZnhvX0hkNnI0RmNSNjNaYUlHZWxWQzNELTlQMXdsUkk1MlhJaWRpckdMTG1xRXZLUmstOWVtRXg2OGl2cDJrSVZpUnByejB2czY2Uk9CU2PSAYQBQVVfeXFMTmhvR2NEZHkxWjA2M2V1dGQtdUVZRjF6OGU1Zk1qazhELVRHaFlrTE1mQ25Pb0FBeWJWek9NNGhmQTZJbkR0dEtIeGE1ZVBwTzIyUFpQUG10MnNydkwtb01zM05yV01RNGVIcjZneWJCMEZEc0twRW1jVmJEUU5OcVgySlNt?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T23:59:39.000Z",
+      "pub_sort_dt": "2026-09-24 07:59:39"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在特朗普欢迎习近平之际，越来越多的美国人对中国的看法趋于积极 - The New York Times",
-      "title_cn": "在特朗普的欢迎下，越来越多的美国人对中国的看法变得积极 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMigAFBVV95cUxOZmZIZ0M4ZTh0a3NuekF3b3lKa29oRHMtdGlBUy00a1JLdHZCSU5TZkt2VFh4ajZ3MFg3NE5FTGpUT29LTXh4RWlkR0FxN013LTVDMUhQaE43c0p5WlhnYnk0VWo1Q2UwSnQ4UkU1NTZMb180Q2dsTWptWkxST2hQcg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T19:35:25.000Z",
-      "pub_sort_dt": "2026-09-24 03:35:25"
+      "title_en": "尽管中美关系紧张，特朗普仍为中国国家主席习近平铺设了红地毯 - CBS News",
+      "title_cn": "尽管中美关系紧张，特朗普仍为中国国家主席习近平保持了红线 - CBS News",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxQVnVaQ216aHlTUE5KQVJzc3BnTE80U1JOdzlGeXZDc2hEOFpVajlOU0VmTVI5QUlXdjNrUnJ1UVBSWjhFWE10aEtlZnZkZV9ob25GQnEyNlZVWGJqenl4RzU2ZmxXbE9ZTk9lTXprd1pJR3B5Z1VHd01EckVrT3QydF9XbE9DWjZuYlEyM0FVSUY5OHBpbW0zUg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T23:44:47.000Z",
+      "pub_sort_dt": "2026-09-24 07:44:47"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在习近平访问华盛顿之际，特朗普淡化了中国损害美国利益的行为 - The New York Times",
-      "title_cn": "在习近平访问华盛顿国际间，特朗普淡化了中国损害美国利益的行为 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxOTHUtUGhEZ1prMXlJUTBBRVBrck9Qa3VmSVBVNTRyRUZ2N1VyZlhSdFBCYzJOaDNSOTRGaDREeG1HUmxTQ3Z0VkZlWE55MnVadjIwYTVxVEFiVjhzNm1BdEpiejBlLXA5bzh5aWpoWG1oei1sTVJsa0tHSS1qUGZOOFIxUHJ0UDlZRkFvaGhkcS1QSlQ1SV9qX3lNa2ZySlVzYXBPcS10NUhIY1Q3Q2xaM1JZUWZjdlR0N2VGaFRDakx0emZDQmln?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T19:13:22.000Z",
-      "pub_sort_dt": "2026-09-24 03:13:22"
+      "title_en": "在特朗普与习近平峰会之际审视中伊关系 - CBS News",
+      "title_cn": "特朗普与习近平峰会期间的双边贸易中伊关系 - CBS News",
+      "url": "https://news.google.com/read/CBMiigFBVV95cUxNSnBOcGE4OGM5VjRfRmlCd0lwNEhXa3Fkd0RCVXhMeC13VkkwaVF5T2pXeUZBYW9hLWZoVF81T1kybXZHVEQ0c2czM2NPcEZoVzBxUWluUFpzOUd3MUV0TEdKR252d1VyTmI3RVU4dlN4aUtlUjhLVmVCZGlZMDczVXZRU2JLRE5pT0E?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T23:41:00.000Z",
+      "pub_sort_dt": "2026-09-24 07:41:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在人工智能竞赛中，美国模型占据优势，但中国拥有其他优势 - The New York Times",
-      "title_cn": "在人工智能竞赛中，美国模型质疑优势，但中国拥有其他优势 - 纽约时报",
-      "url": "https://news.google.com/read/CBMihwFBVV95cUxNem8xbkdnZmlJMGlOaG42RHkxRDZaT2Uzd0IyVGZ1MWcyM01YOVpEbDg4WkVIam9MSThGSm12SjlsaE1WUnp0a2VOTHdCd1kxSUZPXzliLXRmQ2g0Wl9jV2w5M21BNGdIVi1xb01ZMDBhbVRuTHMwWXBiWjF0T2FHWjVhSVFWR28?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T19:00:08.000Z",
-      "pub_sort_dt": "2026-09-24 03:00:08"
+      "title_en": "中国扣留了被转运至香港的敏感F-35零部件 - bloomberg.com",
+      "title_cn": "中国扣留被转运至香港的敏感F-35零部件 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxQcXhjbzBjOF9aZ0liUU5PMkJLWU53OW1nTi1KcXVpcWFQOWJxTWplT3Y0S1lnVlYzamJQQlBKTW00STJMNzVhdXBrWjlDeWJKbjZpOGQ4Ykhtdk9xWlMwZkZCMjAwLWh0MzhwamtBbnpBZTBzanRRVmZCeUN3SzY0ekhtYzYwTDlPQTFDQ3VuSHZhSUNCZEp4cmhYbG9QTzNqZnBBcHZrdDZ0MGdmTk1r?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T22:20:53.000Z",
+      "pub_sort_dt": "2026-09-24 06:20:53"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国这座“情绪编码之都”能为我们揭示什么关于人工智能热潮的启示 - The New Yorker",
-      "title_cn": "中国的“情绪编码之都”震惊了我们关于人工智能热潮的启示 - 纽约客",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxOVlA5NWItTjhPVXRsUlo1Mld5T0lld2NPLUR4NmVadlNwbkhuTThnaFI0OE85WnRneHpWMUg2MXFxa3VLS3FtQm5tOGotRF8xcGswbExWQ1FFaVJkcnRtanhMVVhFMGIzLVJfUUZMRVNUUUI2SWprVWQzYWV5SWVyVGx4TWFoU2V5OUt0V1QxZmlFTG5ZWGR6UTVMQ1lxbWtyUXlz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T18:25:32.000Z",
-      "pub_sort_dt": "2026-09-24 02:25:32"
+      "title_en": "贝森特称，中美双方同意将贸易休战期延长至1月10日 - NBC News",
+      "title_cn": "贝森特称，中美双方同意将贸易休战期延长至1月10日 - NBC News",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxQS051cC1BN2VtYm9pT0wtQkhoaWNIa3lpU2dzbzJfNjhjaXpKZFQ1MkZUVk9kdGRDbkwyVW9rUWY1NHFKVFlTbl85X0haTjFnQjhEOU1sQ3k4cGJiUG9JRkFSYWM2QXZmWG1OOHJ0VlkyTlRKUERjR284RVA0YXNGcU5HQ0JCWHpqYkNKZ05R?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T22:20:00.000Z",
+      "pub_sort_dt": "2026-09-24 06:20:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "英伟达连战连捷：特朗普与习近平会晤、中国市场销售前景成焦点 - Investor's Business Daily",
-      "title_cn": "英伟达连战连捷：特朗普与习近平会晤、中国市场销售前景成焦点 - 投资者商报",
-      "url": "https://news.google.com/read/CBMifkFVX3lxTE5OaEllOUdaN01GNGFudFRQLWV3Wk9RNDd3SHJ2R1RRby13S0tMeS1NZ2Vic21oZjJkVGtEUG9DcTBwRHVIeUF5V2F1RHc0RE04SER2Z0dTNkZIRktLNVEzaTZMRjFCN0dmbGQ2YVJMVlNSVkUzYm5GSVN1bWtNQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T17:00:00.000Z",
-      "pub_sort_dt": "2026-09-24 01:00:00"
+      "title_en": "中国国家主席习近平抵达中国进行国事访问，特朗普在飞机旁迎接他 - The Guardian",
+      "title_cn": "中国国家主席习近平对中国进行国事访问，特朗普在飞机旁迎接他 - 英国《卫报》",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxPNXJiRGRJVWpENUxMLW52eTlhdm5WMTREUnhMcFY1aG5nTElLM3lxZTV4cGRpa1FaS2x1MFNuUVdDVmFIQk5uTkpIU1F5Q1hnTDVRQTRpOEV5UlkteE5NYzhLcnh1MzVjeUZjQWUtaTdHQzBXclc3c1R6Y3pCd1hIelVneHZJbmRxM0RuUnd3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T22:14:00.000Z",
+      "pub_sort_dt": "2026-09-24 06:14:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "习近平此次出访华盛顿，似乎没有带中国企业高管同行 - Yahoo Finance",
-      "title_cn": "习近平此次出访华盛顿，似乎没有给中国企业带来同样的待遇 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxPQzBvR3ZfRGh5ZTVxVkxhTW9sVTRwMzdiX0JvVHdBUWRKNlkxRFVTVUkxSlhNTV9Ubjd6VlBxRUZFSWs4d24ya2t0V29ZNEpQVUVvV0d1blpZaGhCRVUtVmYtNzE1RkdNX1c4Z0lJWFpWNzVwWm04by1TN2F6TkVZTjU0eFgzUlI4R01qZTlnWDRIYWd1RnRjMjVGQXlEUDBmTmpxQlFQYjE3bUlSQlZzd3ZMZVhjYi1Pc0F1TlNybXdsSzZSMlJFRGU5eGYyZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T15:55:40.000Z",
-      "pub_sort_dt": "2026-09-23 23:55:40"
+      "title_en": "受中国市场表现不及预期及黑海局势相关消息影响，谷物价格下跌 - AgWeb",
+      "title_cn": "受中国市场表现不及预期及黑海局势相关消息影响，谷物价格下跌 - AgWeb",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxPX0t4b1c3LTlBQy10dDJKQ256NWQ4b2I3dmItVzZhcVdEbXRPLWNfWUlDTENXOXZiMEhMTDczeHlESnViNXI5UnoxVy1rZGljNlh0c0VIcVZyU3hxY2kybDlmUC1kNDQ4bmZueFE5ZlpCOXphN1NjbkZkcVgyemVwMUxIdWxYeTNiN0tyVDJBS0lxbEQ0YmFISWxBOXMtc3M?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T22:13:00.000Z",
+      "pub_sort_dt": "2026-09-24 06:13:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普的柴油禁令将损害美国利益，却会助长中国势力 - Financial Times",
-      "title_cn": "特朗普的项链将损害美国利益，却会助长中国势力 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQMWl6Um1OSVFaTHlqc0JZckZ4cXBHTnFpS0RQTWxHdnNrXzRzNzU5cGRsakhab3VWUW9KNC0tV0syaGdyR282V09vSkltNzd1SDltV0x0aTFSOUZBdU52UnNLYlRaNjZhdU5EOWJyWlNXV1U0WTlFbHRIc2lnbVRnZVlOaDU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T15:37:23.000Z",
-      "pub_sort_dt": "2026-09-23 23:37:23"
+      "title_en": "贝森特称，中美双方已同意将贸易休战期延长至1月10日 - Bloomberg",
+      "title_cn": "贝森特表示，中美双方已同意将贸易休战期延长至1月10日 - Bloomberg",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxQWkxNMHpuN3RlOHhaWEl4R0Q4ZzZWZUY3TWwydWpFNVVwYVJGby01Q2E3ZzVXODJjMWFMdVBMMTR2QmZrczJad3JERU5DZUVKRWkyb1IxWkVqVWxBSXQ5STBsLW5LRnJaQkYyTlJrMi1PbG12R1FJRGFkMnhVelRLT0xvWGlwWmVNOWF1cHNIZFY2NUJTbTIxcW5iUkNIRUR0Snlxc3d4RmlSS0xCdDRCbA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T22:12:03.000Z",
+      "pub_sort_dt": "2026-09-24 06:12:03"
     },
     {
       "source": "China Buzzing",
-      "title_en": "议员称，中国在人工智能数据中心竞赛中“火上浇油” - Fox News",
-      "title_cn": "高分子称，中国在人工智能数据中心竞赛中“火上浇油” - 福克斯新闻",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxNZTVweGR6RVpUYTlHTDFDYkFGQ0lFZlBCeUEtQk5NLXJoUXlibnNJcFNiV0RlNWRHeERhOWJmQWlhME1DdGZJU1Jscmp1WmdvelBlV21rQzhpa0tPQjFOQnlPSmcyUy16eDJidGVWandZQVUtZEV5cVI4Q3dYelJRTjNjTktLXzYwQ3g2bU0wNXU2aDcxMHliSXlTWHXSAaIBQVVfeXFMTUVMaklYbmFhY1dJMXNPaXZxTnVmRXN1cTJmS0wwMmlReWpMSVZ5VktmRzBuaWlNM3E5aDFJNWVNYnlkYTRpUUhXN3puRUg4MGpaRU8wNVdRUVNHWWI1Rm5pUGNwUWhUdmo0U3lzQnNGTlV6RmI4MVFtMXZtdHpWdWZkdkRvd1dOaVdSUW5MVjlaVGV2RkVfRnV1emdxNzRETEln?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T15:28:57.000Z",
-      "pub_sort_dt": "2026-09-23 23:28:57"
+      "title_en": "在人工智能竞争重塑全球力量格局之际，特朗普与习近平举行会晤 - BBC",
+      "title_cn": "在人工智能竞争中全球力量格局之际，特朗普与习近平举行了会晤 - BBC",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTE9OVDQ3U3dMZm85UnhSdExTVzZDc21HZGtTc0dIZHVJUHNIcThYVEVmQXpuR1ZqUjIwQV9wWjJETzlKc1M3WjJmSXlzQ2ZoRmlJMGFtOUt2aGdEY0E?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T22:01:17.000Z",
+      "pub_sort_dt": "2026-09-24 06:01:17"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "台湾提升南海前沿据点的海上巡逻能力",
+      "title_cn": "台湾提升南海前沿据点的海上巡逻能力",
+      "url": "https://reut.rs/3VrGFx1",
+      "pub_raw": "2026-09-24T03:23:16.660Z",
+      "pub_sort_dt": "2026-09-24 11:23:16"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "伊朗在与美国的战争中拥有一件秘密武器：中国的援助",
+      "title_cn": "伊朗在与美国的战争中拥有一件秘密武器：中国的援助",
+      "url": "https://on.wsj.com/46FAF6s",
+      "pub_raw": "2026-09-24T03:07:45.223Z",
+      "pub_sort_dt": "2026-09-24 11:07:45"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港计划发行创纪录的数字债券，募资规模最高达26亿美元",
+      "title_cn": "香港计划发行创纪录的数字债券，募集资金规模高达26亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/hong-kong-seeks-up-to-2-6-billion-in-record-digital-bond-sale",
+      "pub_raw": "2026-09-24T02:20:20.732Z",
+      "pub_sort_dt": "2026-09-24 10:20:20"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "通讯：融资狂潮、芯片大战与机器人梦想：中国人工智能热潮内幕",
+      "title_cn": "通讯：融资狂潮、芯片大战与机器人梦想：中国人工智能热潮内幕",
+      "url": "https://reut.rs/3V8LJGA",
+      "pub_raw": "2026-09-24T02:04:19.116Z",
+      "pub_sort_dt": "2026-09-24 10:04:19"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "特朗普希望维持与习近平的关系，但伊朗海关数据显示，中国企业已向伊朗出口了数千批用于无人机和导弹的零部件。",
+      "title_cn": "特朗普希望维持与习近平的关系，但伊朗海关数据显示，中国企业已向伊朗出口了数百批用于无人机和导弹的零部件。",
+      "url": "https://on.wsj.com/4xEMe8E",
+      "pub_raw": "2026-09-24T01:17:26.597Z",
+      "pub_sort_dt": "2026-09-24 09:17:26"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "如果允许中国汽车制造商进入美国市场，其市场份额可能超过10%",
+      "title_cn": "如果允许中国汽车制造商进入美国市场，其市场贡献可能超过10%",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/chinese-carmakers-may-take-more-than-10-of-us-market-if-let-in",
+      "pub_raw": "2026-09-23T23:10:51.511Z",
+      "pub_sort_dt": "2026-09-24 07:10:51"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "直播：特朗普总统在美国欢迎中国国家主席习近平",
+      "title_cn": "直播：特朗普总统在美国欢迎中国国家主席习近平",
+      "url": "https://youtube.com/live/DxSKRSDgC9E",
+      "pub_raw": "2026-09-23T22:06:46.124Z",
+      "pub_sort_dt": "2026-09-24 06:06:46"
+    },
     {
       "source": "Bloomberg",
       "title_en": "西班牙总理桑切斯表示，与中国开展对话有助于欧盟缩小贸易逆差",
@@ -127,7 +183,7 @@
     {
       "source": "Reuters",
       "title_en": "美国议员提议改革用于禁止中国科技产品的相关机制",
-      "title_cn": "美国议员提议改革用于禁止中国科技产品的相关机制",
+      "title_cn": "美国提议改革禁止中国科技产品的相关机制",
       "url": "https://reut.rs/4hp1pNt",
       "pub_raw": "2026-09-23T19:12:34.556Z",
       "pub_sort_dt": "2026-09-24 03:12:34"
@@ -151,7 +207,7 @@
     {
       "source": "Reuters",
       "title_en": "四名美国共和党人呼吁特朗普拨付台湾安全资金",
-      "title_cn": "四名美国共和党人呼吁特朗普拨付台湾安全资金",
+      "title_cn": "四名美国呼吁人呼吁特朗普拨付台湾安全资金",
       "url": "https://reut.rs/4d1FGK4",
       "pub_raw": "2026-09-23T16:50:26.471Z",
       "pub_sort_dt": "2026-09-24 00:50:26"
@@ -159,7 +215,7 @@
     {
       "source": "Reuters",
       "title_en": "在习近平访美之际，美国参议员计划本周加快推进对中国汽车的禁令",
-      "title_cn": "在习近平访美之际，美国参议员计划本周加快推进对中国汽车的禁令",
+      "title_cn": "在习近平访美之际，美国艺术家计划本周加快推进对中国汽车的游行",
       "url": "https://reut.rs/4xCiTMb",
       "pub_raw": "2026-09-23T16:35:40.272Z",
       "pub_sort_dt": "2026-09-24 00:35:40"
@@ -183,7 +239,7 @@
     {
       "source": "Reuters",
       "title_en": "消息人士称，中国国家主席习近平将率团访问华盛顿，但不会有企业高管随行",
-      "title_cn": "消息人士称，中国国家主席习近平将率团访问华盛顿，但不会有企业高管随行",
+      "title_cn": "有消息人士称，中国国家主席习近平将率团访问华盛顿，但不会有企业高管随行",
       "url": "https://reut.rs/4ygmoco",
       "pub_raw": "2026-09-23T15:02:03.695Z",
       "pub_sort_dt": "2026-09-23 23:02:03"
@@ -195,144 +251,144 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-23/chanel-plans-to-keep-investing-in-china-despite-demand-downturn",
       "pub_raw": "2026-09-23T14:45:49.656Z",
       "pub_sort_dt": "2026-09-23 22:45:49"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国风力涡轮机制造商正物色合作伙伴以打入欧洲市场",
-      "title_cn": "中国风力涡轮机制造商正物色合作伙伴以打入欧洲市场",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/chinese-wind-turbine-makers-mull-partners-to-break-into-europe",
-      "pub_raw": "2026-09-23T12:41:21.900Z",
-      "pub_sort_dt": "2026-09-23 20:41:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国在与日本队的体操对决中雪复奥运失利，夺得男子团体金牌",
-      "title_cn": "中国在与日本队的体操对决中雪复奥运失利，夺取男子团体金牌",
-      "url": "https://reut.rs/3V9yaGS",
-      "pub_raw": "2026-09-23T12:26:26.214Z",
-      "pub_sort_dt": "2026-09-23 20:26:26"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国是否正在放松部分网络审查？",
-      "title_cn": "中国是否正在放松部分网络审查？",
-      "url": "https://www.economist.com/china/2026/09/23/is-china-easing-some-online-censorship",
-      "pub_raw": "2026-09-23T11:55:22.217Z",
-      "pub_sort_dt": "2026-09-23 19:55:22"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国、中国与自行车制造业",
-      "title_cn": "美国、中国与自行车制造业",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-23/us-and-china-and-bike-manufacturing",
-      "pub_raw": "2026-09-23T11:07:40.729Z",
-      "pub_sort_dt": "2026-09-23 19:07:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港交易所将讨论延长股票交易时间",
-      "title_cn": "香港交易所将讨论延长股票交易时间",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/hong-kong-exchange-to-discuss-extended-stock-trading-hours",
-      "pub_raw": "2026-09-23T10:51:32.308Z",
-      "pub_sort_dt": "2026-09-23 18:51:32"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国交易所或将于今年推出氢氧化锂期货",
-      "title_cn": "中国交易所或将于今年推出土耳其锂期货",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/chinese-exchange-may-list-lithium-hydroxide-futures-this-year",
-      "pub_raw": "2026-09-23T10:36:20.749Z",
-      "pub_sort_dt": "2026-09-23 18:36:20"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "福特和通用汽车如何避免重蹈大众在中国遭遇的覆辙",
-      "title_cn": "福特和通用汽车如何避免在中国大众遭遇的重蹈覆辙",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-23/how-ford-and-gm-can-avoid-volkswagen-s-china-pains",
-      "pub_raw": "2026-09-23T10:20:44.640Z",
-      "pub_sort_dt": "2026-09-23 18:20:44"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国扣留了被转运至香港的敏感F-35零部件 - Bloomberg",
-      "title_cn": "中国扣留被转运至香港的敏感F-35零部件 - Bloomberg",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxON2JXM1dwMmpBenBYTzZOREwwMWhtQW01RnJkeDNGM0o2dy1KcW1BQVZQUmd6Xzl3QTMzWkpJSl9XYXZIYjlTMjdQcW1PdUhqMzNqS09JRHJUZG9XdkE5dkJjOUZQOW1GQXJfX0NqWGRYZWVjNlNPSnFlV296Z2VSa2M4aGRzSV93YUQ5ZU9CeWNVUXlzY1JUSGFVdHVOeW1pcWJwcUVSRE5lWTRTdlA0SGF6THRPNzh2Z3dZ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T20:10:29.000Z",
-      "pub_sort_dt": "2026-09-24 04:10:29"
+      "title_en": "贝森特表示，中美贸易停火期延长了2个月 - Politico",
+      "title_cn": "贝森特表示，中美贸易停火期限延长了2个月 - Politico",
+      "url": "https://news.google.com/read/CBMilgFBVV95cUxNUEdyRlBoYWVMUzQ2cU5LYXQxd2pUUU1iN25yUC02SExSRGRNLVBOOG1GNE1JazBRSEVOblBsNXRWUlAyT21ISV9vNzlNMWpTTlhSSFVRYm5RekotSzVrTHZTd3RTZzczMTJQbGx0YUVQdDV3cEVLQUR3R3pRczRRM1dKeFNMYTVlRE5BQ2lGWmZhNUw4SkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T00:04:00.000Z",
+      "pub_sort_dt": "2026-09-24 08:04:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在习近平访问华盛顿之际，特朗普淡化了中国损害美国利益的行为 - The New York Times",
-      "title_cn": "在习近平访问华盛顿国际间，特朗普淡化了中国损害美国利益的行为 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMifEFVX3lxTE93Q1N6ZzA4S0tURE9OMGNlWWVYd2U3UzItbjhaR240Q3N0a25YcGZIUTZOYW5JY2ptVk9RZjFCcVpvWjNEZlBFdnBHQlNwZHM3UzV3amQ5NW10WlhDajQ0ZnpocGRJblZfVjJiTWRqQlZWRnlwdUc5bjRLWU0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T19:45:35.000Z",
-      "pub_sort_dt": "2026-09-24 03:45:35"
+      "title_en": "贝森特表示，中美贸易停火期延长两个月，与此同时，习近平开始对美进行国事访问 - CNBC",
+      "title_cn": "贝森特表示，中美贸易停火期延长两个月，与此同时，习近平开始对美进行国事访问 - CNBC",
+      "url": "https://news.google.com/read/CBMif0FVX3lxTE9PZGhfcDBPTTJqMS1NSDFmN1dMT09Gd2ppTXRHS1Z1dldFdEVyUXFlZnhvX0hkNnI0RmNSNjNaYUlHZWxWQzNELTlQMXdsUkk1MlhJaWRpckdMTG1xRXZLUmstOWVtRXg2OGl2cDJrSVZpUnByejB2czY2Uk9CU2PSAYQBQVVfeXFMTmhvR2NEZHkxWjA2M2V1dGQtdUVZRjF6OGU1Zk1qazhELVRHaFlrTE1mQ25Pb0FBeWJWek9NNGhmQTZJbkR0dEtIeGE1ZVBwTzIyUFpQUG10MnNydkwtb01zM05yV01RNGVIcjZneWJCMEZEc0twRW1jVmJEUU5OcVgySlNt?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T23:59:39.000Z",
+      "pub_sort_dt": "2026-09-24 07:59:39"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在特朗普欢迎习近平之际，越来越多的美国人对中国的看法趋于积极 - The New York Times",
-      "title_cn": "在特朗普的欢迎下，越来越多的美国人对中国的看法变得积极 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMigAFBVV95cUxOZmZIZ0M4ZTh0a3NuekF3b3lKa29oRHMtdGlBUy00a1JLdHZCSU5TZkt2VFh4ajZ3MFg3NE5FTGpUT29LTXh4RWlkR0FxN013LTVDMUhQaE43c0p5WlhnYnk0VWo1Q2UwSnQ4UkU1NTZMb180Q2dsTWptWkxST2hQcg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T19:35:25.000Z",
-      "pub_sort_dt": "2026-09-24 03:35:25"
+      "title_en": "尽管中美关系紧张，特朗普仍为中国国家主席习近平铺设了红地毯 - CBS News",
+      "title_cn": "尽管中美关系紧张，特朗普仍为中国国家主席习近平保持了红线 - CBS News",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxQVnVaQ216aHlTUE5KQVJzc3BnTE80U1JOdzlGeXZDc2hEOFpVajlOU0VmTVI5QUlXdjNrUnJ1UVBSWjhFWE10aEtlZnZkZV9ob25GQnEyNlZVWGJqenl4RzU2ZmxXbE9ZTk9lTXprd1pJR3B5Z1VHd01EckVrT3QydF9XbE9DWjZuYlEyM0FVSUY5OHBpbW0zUg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T23:44:47.000Z",
+      "pub_sort_dt": "2026-09-24 07:44:47"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在习近平访问华盛顿之际，特朗普淡化了中国损害美国利益的行为 - The New York Times",
-      "title_cn": "在习近平访问华盛顿国际间，特朗普淡化了中国损害美国利益的行为 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxOTHUtUGhEZ1prMXlJUTBBRVBrck9Qa3VmSVBVNTRyRUZ2N1VyZlhSdFBCYzJOaDNSOTRGaDREeG1HUmxTQ3Z0VkZlWE55MnVadjIwYTVxVEFiVjhzNm1BdEpiejBlLXA5bzh5aWpoWG1oei1sTVJsa0tHSS1qUGZOOFIxUHJ0UDlZRkFvaGhkcS1QSlQ1SV9qX3lNa2ZySlVzYXBPcS10NUhIY1Q3Q2xaM1JZUWZjdlR0N2VGaFRDakx0emZDQmln?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T19:13:22.000Z",
-      "pub_sort_dt": "2026-09-24 03:13:22"
+      "title_en": "在特朗普与习近平峰会之际审视中伊关系 - CBS News",
+      "title_cn": "特朗普与习近平峰会期间的双边贸易中伊关系 - CBS News",
+      "url": "https://news.google.com/read/CBMiigFBVV95cUxNSnBOcGE4OGM5VjRfRmlCd0lwNEhXa3Fkd0RCVXhMeC13VkkwaVF5T2pXeUZBYW9hLWZoVF81T1kybXZHVEQ0c2czM2NPcEZoVzBxUWluUFpzOUd3MUV0TEdKR252d1VyTmI3RVU4dlN4aUtlUjhLVmVCZGlZMDczVXZRU2JLRE5pT0E?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T23:41:00.000Z",
+      "pub_sort_dt": "2026-09-24 07:41:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在人工智能竞赛中，美国模型占据优势，但中国拥有其他优势 - The New York Times",
-      "title_cn": "在人工智能竞赛中，美国模型质疑优势，但中国拥有其他优势 - 纽约时报",
-      "url": "https://news.google.com/read/CBMihwFBVV95cUxNem8xbkdnZmlJMGlOaG42RHkxRDZaT2Uzd0IyVGZ1MWcyM01YOVpEbDg4WkVIam9MSThGSm12SjlsaE1WUnp0a2VOTHdCd1kxSUZPXzliLXRmQ2g0Wl9jV2w5M21BNGdIVi1xb01ZMDBhbVRuTHMwWXBiWjF0T2FHWjVhSVFWR28?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T19:00:08.000Z",
-      "pub_sort_dt": "2026-09-24 03:00:08"
+      "title_en": "中国扣留了被转运至香港的敏感F-35零部件 - bloomberg.com",
+      "title_cn": "中国扣留被转运至香港的敏感F-35零部件 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxQcXhjbzBjOF9aZ0liUU5PMkJLWU53OW1nTi1KcXVpcWFQOWJxTWplT3Y0S1lnVlYzamJQQlBKTW00STJMNzVhdXBrWjlDeWJKbjZpOGQ4Ykhtdk9xWlMwZkZCMjAwLWh0MzhwamtBbnpBZTBzanRRVmZCeUN3SzY0ekhtYzYwTDlPQTFDQ3VuSHZhSUNCZEp4cmhYbG9QTzNqZnBBcHZrdDZ0MGdmTk1r?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T22:20:53.000Z",
+      "pub_sort_dt": "2026-09-24 06:20:53"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国这座“情绪编码之都”能为我们揭示什么关于人工智能热潮的启示 - The New Yorker",
-      "title_cn": "中国的“情绪编码之都”震惊了我们关于人工智能热潮的启示 - 纽约客",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxOVlA5NWItTjhPVXRsUlo1Mld5T0lld2NPLUR4NmVadlNwbkhuTThnaFI0OE85WnRneHpWMUg2MXFxa3VLS3FtQm5tOGotRF8xcGswbExWQ1FFaVJkcnRtanhMVVhFMGIzLVJfUUZMRVNUUUI2SWprVWQzYWV5SWVyVGx4TWFoU2V5OUt0V1QxZmlFTG5ZWGR6UTVMQ1lxbWtyUXlz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T18:25:32.000Z",
-      "pub_sort_dt": "2026-09-24 02:25:32"
+      "title_en": "贝森特称，中美双方同意将贸易休战期延长至1月10日 - NBC News",
+      "title_cn": "贝森特称，中美双方同意将贸易休战期延长至1月10日 - NBC News",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxQS051cC1BN2VtYm9pT0wtQkhoaWNIa3lpU2dzbzJfNjhjaXpKZFQ1MkZUVk9kdGRDbkwyVW9rUWY1NHFKVFlTbl85X0haTjFnQjhEOU1sQ3k4cGJiUG9JRkFSYWM2QXZmWG1OOHJ0VlkyTlRKUERjR284RVA0YXNGcU5HQ0JCWHpqYkNKZ05R?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T22:20:00.000Z",
+      "pub_sort_dt": "2026-09-24 06:20:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "英伟达连战连捷：特朗普与习近平会晤、中国市场销售前景成焦点 - Investor's Business Daily",
-      "title_cn": "英伟达连战连捷：特朗普与习近平会晤、中国市场销售前景成焦点 - 投资者商报",
-      "url": "https://news.google.com/read/CBMifkFVX3lxTE5OaEllOUdaN01GNGFudFRQLWV3Wk9RNDd3SHJ2R1RRby13S0tMeS1NZ2Vic21oZjJkVGtEUG9DcTBwRHVIeUF5V2F1RHc0RE04SER2Z0dTNkZIRktLNVEzaTZMRjFCN0dmbGQ2YVJMVlNSVkUzYm5GSVN1bWtNQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T17:00:00.000Z",
-      "pub_sort_dt": "2026-09-24 01:00:00"
+      "title_en": "中国国家主席习近平抵达中国进行国事访问，特朗普在飞机旁迎接他 - The Guardian",
+      "title_cn": "中国国家主席习近平对中国进行国事访问，特朗普在飞机旁迎接他 - 英国《卫报》",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxPNXJiRGRJVWpENUxMLW52eTlhdm5WMTREUnhMcFY1aG5nTElLM3lxZTV4cGRpa1FaS2x1MFNuUVdDVmFIQk5uTkpIU1F5Q1hnTDVRQTRpOEV5UlkteE5NYzhLcnh1MzVjeUZjQWUtaTdHQzBXclc3c1R6Y3pCd1hIelVneHZJbmRxM0RuUnd3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T22:14:00.000Z",
+      "pub_sort_dt": "2026-09-24 06:14:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "习近平此次出访华盛顿，似乎没有带中国企业高管同行 - Yahoo Finance",
-      "title_cn": "习近平此次出访华盛顿，似乎没有给中国企业带来同样的待遇 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxPQzBvR3ZfRGh5ZTVxVkxhTW9sVTRwMzdiX0JvVHdBUWRKNlkxRFVTVUkxSlhNTV9Ubjd6VlBxRUZFSWs4d24ya2t0V29ZNEpQVUVvV0d1blpZaGhCRVUtVmYtNzE1RkdNX1c4Z0lJWFpWNzVwWm04by1TN2F6TkVZTjU0eFgzUlI4R01qZTlnWDRIYWd1RnRjMjVGQXlEUDBmTmpxQlFQYjE3bUlSQlZzd3ZMZVhjYi1Pc0F1TlNybXdsSzZSMlJFRGU5eGYyZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T15:55:40.000Z",
-      "pub_sort_dt": "2026-09-23 23:55:40"
+      "title_en": "受中国市场表现不及预期及黑海局势相关消息影响，谷物价格下跌 - AgWeb",
+      "title_cn": "受中国市场表现不及预期及黑海局势相关消息影响，谷物价格下跌 - AgWeb",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxPX0t4b1c3LTlBQy10dDJKQ256NWQ4b2I3dmItVzZhcVdEbXRPLWNfWUlDTENXOXZiMEhMTDczeHlESnViNXI5UnoxVy1rZGljNlh0c0VIcVZyU3hxY2kybDlmUC1kNDQ4bmZueFE5ZlpCOXphN1NjbkZkcVgyemVwMUxIdWxYeTNiN0tyVDJBS0lxbEQ0YmFISWxBOXMtc3M?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T22:13:00.000Z",
+      "pub_sort_dt": "2026-09-24 06:13:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普的柴油禁令将损害美国利益，却会助长中国势力 - Financial Times",
-      "title_cn": "特朗普的项链将损害美国利益，却会助长中国势力 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQMWl6Um1OSVFaTHlqc0JZckZ4cXBHTnFpS0RQTWxHdnNrXzRzNzU5cGRsakhab3VWUW9KNC0tV0syaGdyR282V09vSkltNzd1SDltV0x0aTFSOUZBdU52UnNLYlRaNjZhdU5EOWJyWlNXV1U0WTlFbHRIc2lnbVRnZVlOaDU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T15:37:23.000Z",
-      "pub_sort_dt": "2026-09-23 23:37:23"
+      "title_en": "贝森特称，中美双方已同意将贸易休战期延长至1月10日 - Bloomberg",
+      "title_cn": "贝森特表示，中美双方已同意将贸易休战期延长至1月10日 - Bloomberg",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxQWkxNMHpuN3RlOHhaWEl4R0Q4ZzZWZUY3TWwydWpFNVVwYVJGby01Q2E3ZzVXODJjMWFMdVBMMTR2QmZrczJad3JERU5DZUVKRWkyb1IxWkVqVWxBSXQ5STBsLW5LRnJaQkYyTlJrMi1PbG12R1FJRGFkMnhVelRLT0xvWGlwWmVNOWF1cHNIZFY2NUJTbTIxcW5iUkNIRUR0Snlxc3d4RmlSS0xCdDRCbA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T22:12:03.000Z",
+      "pub_sort_dt": "2026-09-24 06:12:03"
     },
     {
       "source": "China Buzzing",
-      "title_en": "议员称，中国在人工智能数据中心竞赛中“火上浇油” - Fox News",
-      "title_cn": "高分子称，中国在人工智能数据中心竞赛中“火上浇油” - 福克斯新闻",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxNZTVweGR6RVpUYTlHTDFDYkFGQ0lFZlBCeUEtQk5NLXJoUXlibnNJcFNiV0RlNWRHeERhOWJmQWlhME1DdGZJU1Jscmp1WmdvelBlV21rQzhpa0tPQjFOQnlPSmcyUy16eDJidGVWandZQVUtZEV5cVI4Q3dYelJRTjNjTktLXzYwQ3g2bU0wNXU2aDcxMHliSXlTWHXSAaIBQVVfeXFMTUVMaklYbmFhY1dJMXNPaXZxTnVmRXN1cTJmS0wwMmlReWpMSVZ5VktmRzBuaWlNM3E5aDFJNWVNYnlkYTRpUUhXN3puRUg4MGpaRU8wNVdRUVNHWWI1Rm5pUGNwUWhUdmo0U3lzQnNGTlV6RmI4MVFtMXZtdHpWdWZkdkRvd1dOaVdSUW5MVjlaVGV2RkVfRnV1emdxNzRETEln?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-23T15:28:57.000Z",
-      "pub_sort_dt": "2026-09-23 23:28:57"
+      "title_en": "在人工智能竞争重塑全球力量格局之际，特朗普与习近平举行会晤 - BBC",
+      "title_cn": "在人工智能竞争中全球力量格局之际，特朗普与习近平举行了会晤 - BBC",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTE9OVDQ3U3dMZm85UnhSdExTVzZDc21HZGtTc0dIZHVJUHNIcThYVEVmQXpuR1ZqUjIwQV9wWjJETzlKc1M3WjJmSXlzQ2ZoRmlJMGFtOUt2aGdEY0E?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-23T22:01:17.000Z",
+      "pub_sort_dt": "2026-09-24 06:01:17"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "台湾提升南海前沿据点的海上巡逻能力",
+      "title_cn": "台湾提升南海前沿据点的海上巡逻能力",
+      "url": "https://reut.rs/3VrGFx1",
+      "pub_raw": "2026-09-24T03:23:16.660Z",
+      "pub_sort_dt": "2026-09-24 11:23:16"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "伊朗在与美国的战争中拥有一件秘密武器：中国的援助",
+      "title_cn": "伊朗在与美国的战争中拥有一件秘密武器：中国的援助",
+      "url": "https://on.wsj.com/46FAF6s",
+      "pub_raw": "2026-09-24T03:07:45.223Z",
+      "pub_sort_dt": "2026-09-24 11:07:45"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港计划发行创纪录的数字债券，募资规模最高达26亿美元",
+      "title_cn": "香港计划发行创纪录的数字债券，募集资金规模高达26亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/hong-kong-seeks-up-to-2-6-billion-in-record-digital-bond-sale",
+      "pub_raw": "2026-09-24T02:20:20.732Z",
+      "pub_sort_dt": "2026-09-24 10:20:20"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "通讯：融资狂潮、芯片大战与机器人梦想：中国人工智能热潮内幕",
+      "title_cn": "通讯：融资狂潮、芯片大战与机器人梦想：中国人工智能热潮内幕",
+      "url": "https://reut.rs/3V8LJGA",
+      "pub_raw": "2026-09-24T02:04:19.116Z",
+      "pub_sort_dt": "2026-09-24 10:04:19"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "特朗普希望维持与习近平的关系，但伊朗海关数据显示，中国企业已向伊朗出口了数千批用于无人机和导弹的零部件。",
+      "title_cn": "特朗普希望维持与习近平的关系，但伊朗海关数据显示，中国企业已向伊朗出口了数百批用于无人机和导弹的零部件。",
+      "url": "https://on.wsj.com/4xEMe8E",
+      "pub_raw": "2026-09-24T01:17:26.597Z",
+      "pub_sort_dt": "2026-09-24 09:17:26"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "如果允许中国汽车制造商进入美国市场，其市场份额可能超过10%",
+      "title_cn": "如果允许中国汽车制造商进入美国市场，其市场贡献可能超过10%",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/chinese-carmakers-may-take-more-than-10-of-us-market-if-let-in",
+      "pub_raw": "2026-09-23T23:10:51.511Z",
+      "pub_sort_dt": "2026-09-24 07:10:51"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "直播：特朗普总统在美国欢迎中国国家主席习近平",
+      "title_cn": "直播：特朗普总统在美国欢迎中国国家主席习近平",
+      "url": "https://youtube.com/live/DxSKRSDgC9E",
+      "pub_raw": "2026-09-23T22:06:46.124Z",
+      "pub_sort_dt": "2026-09-24 06:06:46"
     },
     {
       "source": "Bloomberg",
@@ -369,7 +425,7 @@
     {
       "source": "Reuters",
       "title_en": "美国议员提议改革用于禁止中国科技产品的相关机制",
-      "title_cn": "美国议员提议改革用于禁止中国科技产品的相关机制",
+      "title_cn": "美国提议改革禁止中国科技产品的相关机制",
       "url": "https://reut.rs/4hp1pNt",
       "pub_raw": "2026-09-23T19:12:34.556Z",
       "pub_sort_dt": "2026-09-24 03:12:34"
@@ -393,7 +449,7 @@
     {
       "source": "Reuters",
       "title_en": "四名美国共和党人呼吁特朗普拨付台湾安全资金",
-      "title_cn": "四名美国共和党人呼吁特朗普拨付台湾安全资金",
+      "title_cn": "四名美国呼吁人呼吁特朗普拨付台湾安全资金",
       "url": "https://reut.rs/4d1FGK4",
       "pub_raw": "2026-09-23T16:50:26.471Z",
       "pub_sort_dt": "2026-09-24 00:50:26"
@@ -401,7 +457,7 @@
     {
       "source": "Reuters",
       "title_en": "在习近平访美之际，美国参议员计划本周加快推进对中国汽车的禁令",
-      "title_cn": "在习近平访美之际，美国参议员计划本周加快推进对中国汽车的禁令",
+      "title_cn": "在习近平访美之际，美国艺术家计划本周加快推进对中国汽车的游行",
       "url": "https://reut.rs/4xCiTMb",
       "pub_raw": "2026-09-23T16:35:40.272Z",
       "pub_sort_dt": "2026-09-24 00:35:40"
@@ -425,7 +481,7 @@
     {
       "source": "Reuters",
       "title_en": "消息人士称，中国国家主席习近平将率团访问华盛顿，但不会有企业高管随行",
-      "title_cn": "消息人士称，中国国家主席习近平将率团访问华盛顿，但不会有企业高管随行",
+      "title_cn": "有消息人士称，中国国家主席习近平将率团访问华盛顿，但不会有企业高管随行",
       "url": "https://reut.rs/4ygmoco",
       "pub_raw": "2026-09-23T15:02:03.695Z",
       "pub_sort_dt": "2026-09-23 23:02:03"
@@ -437,62 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-23/chanel-plans-to-keep-investing-in-china-despite-demand-downturn",
       "pub_raw": "2026-09-23T14:45:49.656Z",
       "pub_sort_dt": "2026-09-23 22:45:49"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国风力涡轮机制造商正物色合作伙伴以打入欧洲市场",
-      "title_cn": "中国风力涡轮机制造商正物色合作伙伴以打入欧洲市场",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/chinese-wind-turbine-makers-mull-partners-to-break-into-europe",
-      "pub_raw": "2026-09-23T12:41:21.900Z",
-      "pub_sort_dt": "2026-09-23 20:41:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国在与日本队的体操对决中雪复奥运失利，夺得男子团体金牌",
-      "title_cn": "中国在与日本队的体操对决中雪复奥运失利，夺取男子团体金牌",
-      "url": "https://reut.rs/3V9yaGS",
-      "pub_raw": "2026-09-23T12:26:26.214Z",
-      "pub_sort_dt": "2026-09-23 20:26:26"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国是否正在放松部分网络审查？",
-      "title_cn": "中国是否正在放松部分网络审查？",
-      "url": "https://www.economist.com/china/2026/09/23/is-china-easing-some-online-censorship",
-      "pub_raw": "2026-09-23T11:55:22.217Z",
-      "pub_sort_dt": "2026-09-23 19:55:22"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国、中国与自行车制造业",
-      "title_cn": "美国、中国与自行车制造业",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-23/us-and-china-and-bike-manufacturing",
-      "pub_raw": "2026-09-23T11:07:40.729Z",
-      "pub_sort_dt": "2026-09-23 19:07:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港交易所将讨论延长股票交易时间",
-      "title_cn": "香港交易所将讨论延长股票交易时间",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/hong-kong-exchange-to-discuss-extended-stock-trading-hours",
-      "pub_raw": "2026-09-23T10:51:32.308Z",
-      "pub_sort_dt": "2026-09-23 18:51:32"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国交易所或将于今年推出氢氧化锂期货",
-      "title_cn": "中国交易所或将于今年推出土耳其锂期货",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/chinese-exchange-may-list-lithium-hydroxide-futures-this-year",
-      "pub_raw": "2026-09-23T10:36:20.749Z",
-      "pub_sort_dt": "2026-09-23 18:36:20"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "福特和通用汽车如何避免重蹈大众在中国遭遇的覆辙",
-      "title_cn": "福特和通用汽车如何避免在中国大众遭遇的重蹈覆辙",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-23/how-ford-and-gm-can-avoid-volkswagen-s-china-pains",
-      "pub_raw": "2026-09-23T10:20:44.640Z",
-      "pub_sort_dt": "2026-09-23 18:20:44"
     }
   ]
 }
