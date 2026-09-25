@@ -1,15 +1,55 @@
 {
-  "update_cst": "2026-09-25 12:01:14 北京时间",
+  "update_cst": "2026-09-25 18:01:04 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 11,
+    "Bloomberg": 9,
     "Financial Times": 1,
-    "Wall Street Journal": 4,
-    "Reuters": 4
+    "Wall Street Journal": 3,
+    "Reuters": 7
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国第一夫人彭丽媛向美国受众展现“软实力” - Reuters",
+      "title_cn": "中国第一夫人彭丽媛向美国群众示威“软实力” - 路透中文网",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxPOWR5YUI1enNxN01RbG4wZ0lRMFJkNWh1ZGxWa0ZLVDg4SjVzRmdzNU9yeU9nV3FEeDcwSEpQbTEzdWhnc1prcnZZNEE4dGt4Mnp5SGJaMGdOUzhienl0UXF4U0U5VjdhVjZuYWp3LXNtWVpEbzl5clVQUTVhcUVxaW9YM21sTE1OdWFJcVd0S0xaaUJyN21YeFl2dW1uTkRtZmtVa2NGRUxCbzAxaU5EZ1ktd0ZwaTlh?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T06:33:00.000Z",
+      "pub_sort_dt": "2026-09-25 14:33:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "伊朗称结束战争取决于美国，而中国则敦促缓和局势 - CNBC",
+      "title_cn": "伊朗称美国战争结束，而中国则敦促缓和局势 - CNBC",
+      "url": "https://news.google.com/read/CBMiakFVX3lxTE5aZ0hqeDJKZlFWZTE2eWwxei1Cd21MaFNkZFZPRWxzNllJdmUzUXVGMFZ6THlXempxQmo1NzhRV1FuNG1sd3hTSW9NT1hvSVdEMVhfVDI5bFBlYWk0T3pvTGd3ZXpjcDJIbEHSAW9BVV95cUxQbGRDUzktQ3JVU3VVcnpXSk5LN20tZEVPbEZ1d3NjSDJKa0xleWt4V054NFNtYU54WElPeWE5ZXk4VnlDVUg4TUIxaExtbGZBS2xkZEdXeVpPd0Z4VFk1cWo1QnRQSFBOUXNUUE5nbW8?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T05:37:21.000Z",
+      "pub_sort_dt": "2026-09-25 13:37:21"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特朗普将通过参观美国档案馆为与习近平的峰会画上句号 - Reuters",
+      "title_cn": "特朗普将参观美国档案馆为习近平峰会画上句号 - 路透社",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxOS2g5SEdmb21zU080SVhXaVRfd2FrV3NUMk1aN2NfU2lLM2dyUHVObV85c1Q1MkF3YUZFaWZPeTNlSlBhdDFTa21MRFhncUdkUGVpVENrUGt1UHhTWk80dkIyMk9Vd1d3TlVYZUdIazMycnhialg5VGVUdVY4QXJVbzFiWXpnTGhuUHF0ZU1VSjIwQnhsajFuSw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T05:07:00.000Z",
+      "pub_sort_dt": "2026-09-25 13:07:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在盛况空前的庆典日中，特朗普为习近平举行国宴 - The New York Times",
+      "title_cn": "在盛况空前的庆典中，特朗普为习近平举行国宴 - 纽约时报中文网",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxOd2VkRU5jVDhybFQyR1U5VldYcjJXbnRkWVgwMHM5LWEzaFFQU3oyWUlhaDg3MGNZa0llMW5PQ1N0WlUtZDZKci1OTHRwbHN5a1FobElIOVFKVXM5dXBTX01sWG1kQW5oc1REY19OR1l4YTRtemhRMk44cmk5TnhwUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T04:56:00.000Z",
+      "pub_sort_dt": "2026-09-25 12:56:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "消息人士称，来自中国团体的情报正协助伊朗对美国目标实施日益精准的打击 - cnn.com",
+      "title_cn": "消息人士称，来自中国团体的情报正协助伊朗对美国目标实施迫切精准的打击 - cnn.com",
+      "url": "https://news.google.com/read/CBMihwFBVV95cUxOdDBVd0dmY2IwMUpJVDFiNkxYbXc0VTFKNFpzNzZabXlDUVFobTZ4a1RKTHVPN3pfcHlrRG02emp2MkJMUDd3NHRKVmtIZGlueGFPQ3IyeUZnYzFRLU9QWlR2VF9OYmluME8xUGIxTzB2NnVZLWZ5Y2x0X09Id1dic1ppd1NIZms?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T04:01:29.000Z",
+      "pub_sort_dt": "2026-09-25 12:01:29"
+    },
     {
       "source": "China Buzzing",
       "title_en": "谁将出席为中国国家主席习近平举行的白宫晚宴？ - The Washington Post",
@@ -20,80 +60,120 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "以下是最新消息。 - The New York Times",
+      "title_cn": "以下是最新消息。 - 纽约时报",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTFBDYld4Mm5QZ1JBaFZPQlU1ZGczNl8zX0ZxUnA0amdXM1ZhWGFoeFRZSnN3dFZpRnc1S1RBRzNPX0dWTDZPaFctc3J1UVFPLWdYNVpRVlNGLTNEZWw5MThJdzNibkJxeWNHbFBqRkhJOFdwWjcydjA4X3BFRm1xQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T03:10:18.000Z",
+      "pub_sort_dt": "2026-09-25 11:10:18"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "什么是“台湾独立”，台湾是否已经独立了？ - Reuters",
+      "title_cn": "什么是“台湾独立”，台湾是否已经独立了？ - 路透社",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxQbnJ5Z0xxdjNSS0pSTWVDakMwOVA3a0hjNTBEOU8yY3hDVTRNUS1scklvUkxQRm44Rmw2WFFVTHlVWHdKU0ZJdWVvWVlpNUVCazJvcWhUYW00emhkV3N4NlVDS2JWWS1mUDJEdFBNeVphN1VNMXY5d0xuUnEyR08wS3pvUzV0TDlfNGJTRzA0Q3M1TkRZMVBxamMzcHptcWd0QmtJZGpRaTc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T02:56:00.000Z",
+      "pub_sort_dt": "2026-09-25 10:56:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国国宴与习近平：埃隆·马斯克、一只白头海雕以及“脱稿”的特朗普 - USA Today",
+      "title_cn": "中国国宴与习近平：埃隆·马斯克、一位白头海雕以及特朗普的“脱稿” - 今日美国",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxPS1B5cVFycjlxS3ozaG04N2M0c2xVOUJ5TWxtbWF6WmVaekxXVFNoaEE4TUdnSXlJQllOWW43cFpNQzdDYUJDQzBiMWdSMkVscWFVdHRJTXV3TkdaSGNaNjR1V1RycEJobW5YNWY5dlNGY01temRFaXE3TVU3SGp6cGhIOXRLN0VhLXc2bFZKeGZ4TzFpM2gyTHdVQ1EwUExWQUM3Vjln?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T02:31:00.000Z",
+      "pub_sort_dt": "2026-09-25 10:31:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "出席中国国家主席习近平国宴的嘉宾包括埃隆·马斯克、萨姆·奥尔特曼 - The Washington Post",
       "title_cn": "出席中国国家主席习近平国宴的嘉宾包括埃隆·马斯克、萨姆·奥尔特曼 - 《华盛顿邮报》",
       "url": "https://news.google.com/read/CBMi2AFBVV95cUxOSUJBSjM1MHJNQ1B1eTdUSFhldmxEOFJpNVRrSkJYSk9HWG5Cb3VZd3dWSVFsbmR6WWhBS3c3Z29mWVRBRjBtUG1lOTllRUxhbks2R25FMVQxakg2cGFBRHB6VmZ0RjJRa3ZBTGZkeXYycUZCdHdqczY0Q3ZuczhPa2V6R0ZoZWtYZVZxVzY1bXlhQkR1UV93ZDZreVl6aXhrUEN3Y2wtUmY4eWVmaG01WHozY1RaSWh1cV9KamZMSjhhZ3FpREQzMDNfazZBbTVyclpNZUY0Qko?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-25T01:39:41.000Z",
       "pub_sort_dt": "2026-09-25 09:39:41"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国国家主席习近平呼吁美国在人工智能领域开展合作 - CNBC",
-      "title_cn": "中国国家主席习近平呼吁美国在人工智能领域开展合作 - CNBC",
-      "url": "https://news.google.com/read/CBMif0FVX3lxTE5faXlDUXkxSHV5eDVsT3dYOW9sWGY2TTBKR3RmR1Y5dzd4Z0pNVldWWkZfTTFlOUlSZVlnRnBpelRRWG4wTjNUTURkYUlwWk1MSEs5Ry1CNUFqZkdPckYxSW14c3JJbjU4bmNoVjRhYnVVLUJjQVlvRUVDbEU5THfSAYQBQVVfeXFMTWlZWEt3cFEwSGNQZGExUWY2VERkUTdhQ0dZLXY0Q2N0aDFIMzF2VnBFeFBfSC16RFp6RHVVdVRJYmRzZjlKUDhKRmJ4VzZCWVNGNkJqeGVwN1RNX0h6WVRWXy1FTTRxOU9aREJIVmNLVWl2UDR4ZS1MTDFPTDZIVEhVY3dU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-25T01:22:00.000Z",
-      "pub_sort_dt": "2026-09-25 09:22:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "尽管特朗普曾将中国描绘成全球威胁，但他仍为习近平铺设了红地毯 - NBC News",
-      "title_cn": "尽管特朗普曾将中国绘画造成全球威胁，但他仍为习近平公式进行了红色互动 - NBC News",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxNMnJRSm9OWTUyMXlBeW0xWVZRYnRnaEEyTlhVUGdKU29TTmVXMkRCY3dsNDJ3NFFab0tXTHBTTzFMSWhpajVnMkFaTGFxTkJrdTh1TWNVcTVPMTZLQndrSUxONmoxVExqMG9qLWdnWkxrcnJ4VjFxTllaNVE1OERzU1duY196NjU3Q21jckxGNThXbUlQY1ZRTlhncUQ3RmFlci03alBSQWRWOWhmdlU1UmVQTzF6YnNNZF9wZzVLWWF5WWsxUFE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-25T01:03:00.000Z",
-      "pub_sort_dt": "2026-09-25 09:03:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "习近平呼吁美国“反对”台湾独立，特朗普则称赞中国是二战盟友 - The Japan Times",
-      "title_cn": "习近平呼吁美国“反对”台湾独立，特朗普则称赞中国是战争陆军 - 日本时报",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxNYlJQQmQzYkgxYjlpd21QUEc4UWtzSU9WU2RtdFFUWUVNS2ttZWYwRUNSQmliRE9zS0JZZ1liNHhvN1R2SEhBb050UVZLQjIxR1h4SkgxYkkwNzdHaXdVbGs4S1daUEhOM2RsYVRYV0RWMWJpRWF5TTlsUXl4UFk1QXBNRlV1QUFfZkZ1WFYwb1M4UXFFYzJsWkwyQjQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-25T00:30:00.000Z",
-      "pub_sort_dt": "2026-09-25 08:30:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "白宫特朗普与习近平国宴幕后直击 - USA Today",
-      "title_cn": "亚特兰大特朗普与习近平国宴幕后直击 - 今日美国",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNRWo0bWRQRldMT2dZaDV6MmhEMnF0QnhGSHBQLTNMRnl5WDRBNE9tOEN6dUpjVk9wY2xvOVBLdTJvQkVrZ3hHS25WaWNDcEhoSnhhQXM5c016SnhmVWhBa2RHVktfVU55VHdYdkQ0b1ZIYUxMU2NaVlIxTDZoMUxjc0RObEJ2bUpKR3RyeG5Sem1UUUU5RkZDVzlxYmZqdUJyVm1RdzVLdWRCLVlYMmlseXZ1M3NjZzJtTFZqdWdvazl0RHM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-25T00:11:00.000Z",
-      "pub_sort_dt": "2026-09-25 08:11:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国航空公司反对中国增加航班的提议 - Reuters",
-      "title_cn": "美国海关反对中国增加航班的建议 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxNbDBkaWlLM3pETlpjaW1nRHZKb0YydUR6UDUxVmsyblJmSzR5NFRlb183ZlpHNDQ3SXhNX2xMRXA1X1pFN3hsejhmdEJYbXdNNnF5V1J0NWtWbDJkTlhtVFhwZzhuUFJKWEpxSzdaRWZ5S0RiRFR3WnMydnozS29uSVlWM0E3djJXbGZZWDRJX0xLNDFBWDlSODNoSk1kQVg4cmRB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T22:18:09.000Z",
-      "pub_sort_dt": "2026-09-25 06:18:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在峰会上，特朗普和习近平尽管存在潜在紧张局势，仍展现出友好的姿态 - NPR",
-      "title_cn": "在峰会上，特朗普和习近平尽管存在紧张局势，仍采取了友好的姿态 - NPR",
-      "url": "https://news.google.com/read/CBMiakFVX3lxTE9lRFpjQkk2bFFoZDg5SUV4a2h4VDZhbG1ZNnREc0ZvTE1UUjMweGNGWktrd19yYS1pQUtOdkNZdWR3Q2xiTllIOVhJd0pmWnU3STVQSW91MVJWUm1CV3B6UXI5c2ZnaXhMOVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T22:05:18.000Z",
-      "pub_sort_dt": "2026-09-25 06:05:18"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "特朗普和习近平在椭圆形办公室举行中美会谈 - dw.com",
-      "title_cn": "特朗普和习近平在椭圆形办公室达成中美协议 - dw.com",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxPc3NYc2Y3U0lONkV6enR1dndKOVV4T1hfUEp4UEc5M3B2S0J1QnB2YndKQ3VkTWhwTUtfZnFROUlDZkFHZEtVVHd1NVpkWUt2RURSejN5cmZDZXU2TE9JVTZLaU1pRG1GQkVmX2Y2ZzN3WHhNXzhTWWRBWUc3UDItLVhKUTdkQjAwM21j?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T20:38:26.000Z",
-      "pub_sort_dt": "2026-09-25 04:38:26"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国参议员推迟了永久性禁止中国汽车进口的努力 - Reuters",
-      "title_cn": "美国疫情推迟永久性禁止中国汽车进口 - 路透中文网",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxOaENSMVJIRkFMV2ZDN01WR3R6SjZwY1BnQzhndHp6NlhLMEtORUliZUVBYmI0SWJiMlY5ckg3Z1c4a1lmYlhLUm13dy05Q2RfaDZPeHFhUElUeUNIYkZpTGExLWhaMHRlTWtIZFBOSnI4bXNESmZmN3cxR1ZqUHpPUFFRZ1diNkJyR1YtYWFGaUdvRWtWZ28tQ2dYNnpwTVY2NUNHRQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T18:22:00.000Z",
-      "pub_sort_dt": "2026-09-25 02:22:00"
     }
   ],
   "media_news": [
     {
       "source": "Reuters",
+      "title_en": "台湾谴责习近平对特朗普的言论是“歪曲事实”",
+      "title_cn": "台湾谴责习近平对特朗普的蔑视是“歪曲事实”",
+      "url": "https://reut.rs/4xFWVIp",
+      "pub_raw": "2026-09-25T07:03:52.953Z",
+      "pub_sort_dt": "2026-09-25 15:03:52"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国第一夫人彭丽媛向美国观众展示“软实力”",
+      "title_cn": "中国第一夫人彭丽媛向美国观众展示“软力量”",
+      "url": "https://reut.rs/4xOV5Fd",
+      "pub_raw": "2026-09-25T07:03:52.949Z",
+      "pub_sort_dt": "2026-09-25 15:03:52"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "菲律宾指责中国阻挠其在南海的补给行动",
+      "title_cn": "预防中国阻挠其在南海的补给行动",
+      "url": "https://reut.rs/46JLapb",
+      "pub_raw": "2026-09-25T06:48:24.144Z",
+      "pub_sort_dt": "2026-09-25 14:48:24"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "尼泊尔总理在致命洪灾后呼吁与印度、中国达成气候协议",
+      "title_cn": "尼泊尔总理在洪灾后呼吁印度、中国达成气候协议",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/nepal-pm-urges-climate-pact-with-india-china-after-deadly-flood",
+      "pub_raw": "2026-09-25T06:01:34.394Z",
+      "pub_sort_dt": "2026-09-25 14:01:34"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "《金融时报》称，欧盟敦促英国提高对中国汽车的关税",
+      "title_cn": "《金融时报》称，欧盟敦促英国提高对中国汽车的关税",
+      "url": "https://reut.rs/4yaGrJf",
+      "pub_raw": "2026-09-25T06:01:34.275Z",
+      "pub_sort_dt": "2026-09-25 14:01:34"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "铃木计划将汽车生产速度提高一倍，以跟上中国市场的步伐",
+      "title_cn": "铃木计划将汽车产量提高一倍，以跟上中国市场的信号",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/suzuki-eyes-making-cars-twice-as-fast-to-keep-up-with-china",
+      "pub_raw": "2026-09-25T04:57:43.223Z",
+      "pub_sort_dt": "2026-09-25 12:57:43"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "独家报道：与受制裁的中国棉花巨头有关联的企业如何向美国销售服装",
+      "title_cn": "独家报道：与受制裁的中国棉花工会有关联企业如何向美国销售服装",
+      "url": "https://reut.rs/4d6CCMN",
+      "pub_raw": "2026-09-25T04:57:43.092Z",
+      "pub_sort_dt": "2026-09-25 12:57:43"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受禽流感及中国需求推动，泰国出口创四年来最大增幅",
+      "title_cn": "受禽流感及中国需求推动，泰国出口创四年来最大增幅",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/thai-exports-surge-most-in-four-years-on-ai-china-demand",
+      "pub_raw": "2026-09-25T04:09:17.761Z",
+      "pub_sort_dt": "2026-09-25 12:09:17"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "8月份中国电动汽车全球出口量同比增长33%，达到284,622辆",
+      "title_cn": "8月份中国电动汽车全球出口量同比增长33%，达到284,622辆",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/china-s-global-ev-exports-rise-33-y-y-to-284-622-in-august",
+      "pub_raw": "2026-09-25T04:09:17.758Z",
+      "pub_sort_dt": "2026-09-25 12:09:17"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "欧盟敦促英国提高对中国汽车的关税，以避免“欧洲制造”产品面临贸易壁垒",
+      "title_cn": "欧盟敦促英国提高对中国汽车的关税，欧盟“欧洲制造”产品面临贸易壁垒",
+      "url": "https://www.ft.com/content/5453be91-7bd9-4097-9e83-870354d3a248?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-25T04:09:17.276Z",
+      "pub_sort_dt": "2026-09-25 12:09:17"
+    },
+    {
+      "source": "Reuters",
       "title_en": "解读：什么是“台湾独立”？台湾是否已经独立？",
       "title_cn": "解读：什么是“台湾独立”？台湾是否已经独立？",
       "url": "https://reut.rs/4hdBCsJ",
@@ -143,7 +223,7 @@
     {
       "source": "Bloomberg",
       "title_en": "科技巨头与特朗普在盛大的国宴上款待中国国家主席习近平",
-      "title_cn": "科技工会与特朗普在盛大的国宴上款待中国国家主席习近平",
+      "title_cn": "科技党与特朗普在盛大的国宴上款待中国国家主席习近平",
       "url": "https://www.bloomberg.com/news/articles/2026-09-25/tech-titans-join-trump-to-fete-china-s-xi-at-lavish-state-dinner",
       "pub_raw": "2026-09-25T01:14:19.511Z",
       "pub_sort_dt": "2026-09-25 09:14:19"
@@ -171,89 +251,49 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-24/xi-presses-trump-to-oppose-taiwan-independence-during-summit",
       "pub_raw": "2026-09-24T22:04:16.607Z",
       "pub_sort_dt": "2026-09-25 06:04:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普、习近平在国事访问期间就人工智能和台湾问题发表讲话",
-      "title_cn": "特朗普、习近平在国事访问期间就人工智能和台湾问题发表讲话",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-24/trump-xi-address-ai-taiwan-during-state-visit",
-      "pub_raw": "2026-09-24T21:48:27.461Z",
-      "pub_sort_dt": "2026-09-25 05:48:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "参议员表示希望进一步了解被转售至中国的F-35零部件情况",
-      "title_cn": "动力表示希望进一步了解被转售至中国的F-35零部件情况",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/top-intelligence-panel-democrat-seeks-briefing-on-f-35-parts",
-      "pub_raw": "2026-09-24T20:45:40.700Z",
-      "pub_sort_dt": "2026-09-25 04:45:40"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "美国官员表示，在人们对北京方面是否遵守这项为期30年的核试验禁令存有疑虑之际，特朗普政府一直在与中国就其迅速扩大的核武库问题进行低调磋商。",
-      "title_cn": "美国官员表示，在人们对北京方面是否遵守此次暂停30年的核试验存有疑虑的情况下，特朗普政府一直在与中国就其迅速扩大的核武库问题进行低调的探讨。",
-      "url": "https://on.wsj.com/3Vax0Lk",
-      "pub_raw": "2026-09-24T20:13:28.453Z",
-      "pub_sort_dt": "2026-09-25 04:13:28"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "哈维尔·米莱想要一辆Cybertruck，并为阿根廷人购买中国车辩护",
-      "title_cn": "哈维尔·米莱想要一辆赛博卡车，并为阿根廷人购买中国汽车辩护",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/javier-milei-wants-a-cybertruck-defends-argentines-buying-chinese-cars",
-      "pub_raw": "2026-09-24T19:26:34.754Z",
-      "pub_sort_dt": "2026-09-25 03:26:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "越南在“熄灯”状态下无法战胜中国",
-      "title_cn": "越南处于“熄灯”状态下无法战胜中国",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-24/vietnam-can-t-beat-china-with-the-lights-out",
-      "pub_raw": "2026-09-24T19:10:26.740Z",
-      "pub_sort_dt": "2026-09-25 03:10:26"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "“稳中求进”是解决中国汽车产能过剩问题的正确路径",
-      "title_cn": "“稳中求进”是解决中国汽车产能过剩问题的正确路径",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-24/go-slow-is-the-right-route-for-china-s-auto-glut",
-      "pub_raw": "2026-09-24T18:07:27.397Z",
-      "pub_sort_dt": "2026-09-25 02:07:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国重启“熊猫外交”，以此作为与美国改善关系的信号。",
-      "title_cn": "中国重启“熊猫研究”，以此作为与美国改善关系的信号。",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/china-retoma-su-diplomacia-del-panda-como-senal-de-acercamiento-con-ee-uu",
-      "pub_raw": "2026-09-24T17:51:27.860Z",
-      "pub_sort_dt": "2026-09-25 01:51:27"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国家主席习近平表示，大熊猫即将抵达亚特兰大",
-      "title_cn": "中国国家主席习近平表示，大熊猫即将亮相亚特兰大",
-      "url": "https://reut.rs/3VtS4fO",
-      "pub_raw": "2026-09-24T17:19:34.924Z",
-      "pub_sort_dt": "2026-09-25 01:19:34"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "议员们将寻求参议院批准美国永久禁止中国汽车进口的法案",
-      "title_cn": "议员们将寻求参议院批准美国永久禁止中国汽车进口的法案",
-      "url": "https://reut.rs/3Tiv9Ub",
-      "pub_raw": "2026-09-24T17:03:42.728Z",
-      "pub_sort_dt": "2026-09-25 01:03:42"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "汇丰取消了香港银行家加入会员俱乐部的26,000美元福利",
-      "title_cn": "汇丰取消了香港银行家加入会员俱乐部的26,000美元福利",
-      "url": "https://www.ft.com/content/37e6c9d9-2237-468d-b0c5-18b5d09c2ccc?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-24T15:28:26.294Z",
-      "pub_sort_dt": "2026-09-24 23:28:26"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "中国第一夫人彭丽媛向美国受众展现“软实力” - Reuters",
+      "title_cn": "中国第一夫人彭丽媛向美国群众示威“软实力” - 路透中文网",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxPOWR5YUI1enNxN01RbG4wZ0lRMFJkNWh1ZGxWa0ZLVDg4SjVzRmdzNU9yeU9nV3FEeDcwSEpQbTEzdWhnc1prcnZZNEE4dGt4Mnp5SGJaMGdOUzhienl0UXF4U0U5VjdhVjZuYWp3LXNtWVpEbzl5clVQUTVhcUVxaW9YM21sTE1OdWFJcVd0S0xaaUJyN21YeFl2dW1uTkRtZmtVa2NGRUxCbzAxaU5EZ1ktd0ZwaTlh?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T06:33:00.000Z",
+      "pub_sort_dt": "2026-09-25 14:33:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "伊朗称结束战争取决于美国，而中国则敦促缓和局势 - CNBC",
+      "title_cn": "伊朗称美国战争结束，而中国则敦促缓和局势 - CNBC",
+      "url": "https://news.google.com/read/CBMiakFVX3lxTE5aZ0hqeDJKZlFWZTE2eWwxei1Cd21MaFNkZFZPRWxzNllJdmUzUXVGMFZ6THlXempxQmo1NzhRV1FuNG1sd3hTSW9NT1hvSVdEMVhfVDI5bFBlYWk0T3pvTGd3ZXpjcDJIbEHSAW9BVV95cUxQbGRDUzktQ3JVU3VVcnpXSk5LN20tZEVPbEZ1d3NjSDJKa0xleWt4V054NFNtYU54WElPeWE5ZXk4VnlDVUg4TUIxaExtbGZBS2xkZEdXeVpPd0Z4VFk1cWo1QnRQSFBOUXNUUE5nbW8?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T05:37:21.000Z",
+      "pub_sort_dt": "2026-09-25 13:37:21"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "特朗普将通过参观美国档案馆为与习近平的峰会画上句号 - Reuters",
+      "title_cn": "特朗普将参观美国档案馆为习近平峰会画上句号 - 路透社",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxOS2g5SEdmb21zU080SVhXaVRfd2FrV3NUMk1aN2NfU2lLM2dyUHVObV85c1Q1MkF3YUZFaWZPeTNlSlBhdDFTa21MRFhncUdkUGVpVENrUGt1UHhTWk80dkIyMk9Vd1d3TlVYZUdIazMycnhialg5VGVUdVY4QXJVbzFiWXpnTGhuUHF0ZU1VSjIwQnhsajFuSw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T05:07:00.000Z",
+      "pub_sort_dt": "2026-09-25 13:07:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在盛况空前的庆典日中，特朗普为习近平举行国宴 - The New York Times",
+      "title_cn": "在盛况空前的庆典中，特朗普为习近平举行国宴 - 纽约时报中文网",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxOd2VkRU5jVDhybFQyR1U5VldYcjJXbnRkWVgwMHM5LWEzaFFQU3oyWUlhaDg3MGNZa0llMW5PQ1N0WlUtZDZKci1OTHRwbHN5a1FobElIOVFKVXM5dXBTX01sWG1kQW5oc1REY19OR1l4YTRtemhRMk44cmk5TnhwUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T04:56:00.000Z",
+      "pub_sort_dt": "2026-09-25 12:56:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "消息人士称，来自中国团体的情报正协助伊朗对美国目标实施日益精准的打击 - cnn.com",
+      "title_cn": "消息人士称，来自中国团体的情报正协助伊朗对美国目标实施迫切精准的打击 - cnn.com",
+      "url": "https://news.google.com/read/CBMihwFBVV95cUxOdDBVd0dmY2IwMUpJVDFiNkxYbXc0VTFKNFpzNzZabXlDUVFobTZ4a1RKTHVPN3pfcHlrRG02emp2MkJMUDd3NHRKVmtIZGlueGFPQ3IyeUZnYzFRLU9QWlR2VF9OYmluME8xUGIxTzB2NnVZLWZ5Y2x0X09Id1dic1ppd1NIZms?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T04:01:29.000Z",
+      "pub_sort_dt": "2026-09-25 12:01:29"
+    },
     {
       "source": "China Buzzing",
       "title_en": "谁将出席为中国国家主席习近平举行的白宫晚宴？ - The Washington Post",
@@ -264,6 +304,30 @@
     },
     {
       "source": "China Buzzing",
+      "title_en": "以下是最新消息。 - The New York Times",
+      "title_cn": "以下是最新消息。 - 纽约时报",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTFBDYld4Mm5QZ1JBaFZPQlU1ZGczNl8zX0ZxUnA0amdXM1ZhWGFoeFRZSnN3dFZpRnc1S1RBRzNPX0dWTDZPaFctc3J1UVFPLWdYNVpRVlNGLTNEZWw5MThJdzNibkJxeWNHbFBqRkhJOFdwWjcydjA4X3BFRm1xQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T03:10:18.000Z",
+      "pub_sort_dt": "2026-09-25 11:10:18"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "什么是“台湾独立”，台湾是否已经独立了？ - Reuters",
+      "title_cn": "什么是“台湾独立”，台湾是否已经独立了？ - 路透社",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxQbnJ5Z0xxdjNSS0pSTWVDakMwOVA3a0hjNTBEOU8yY3hDVTRNUS1scklvUkxQRm44Rmw2WFFVTHlVWHdKU0ZJdWVvWVlpNUVCazJvcWhUYW00emhkV3N4NlVDS2JWWS1mUDJEdFBNeVphN1VNMXY5d0xuUnEyR08wS3pvUzV0TDlfNGJTRzA0Q3M1TkRZMVBxamMzcHptcWd0QmtJZGpRaTc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T02:56:00.000Z",
+      "pub_sort_dt": "2026-09-25 10:56:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国国宴与习近平：埃隆·马斯克、一只白头海雕以及“脱稿”的特朗普 - USA Today",
+      "title_cn": "中国国宴与习近平：埃隆·马斯克、一位白头海雕以及特朗普的“脱稿” - 今日美国",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxPS1B5cVFycjlxS3ozaG04N2M0c2xVOUJ5TWxtbWF6WmVaekxXVFNoaEE4TUdnSXlJQllOWW43cFpNQzdDYUJDQzBiMWdSMkVscWFVdHRJTXV3TkdaSGNaNjR1V1RycEJobW5YNWY5dlNGY01temRFaXE3TVU3SGp6cGhIOXRLN0VhLXc2bFZKeGZ4TzFpM2gyTHdVQ1EwUExWQUM3Vjln?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T02:31:00.000Z",
+      "pub_sort_dt": "2026-09-25 10:31:00"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "出席中国国家主席习近平国宴的嘉宾包括埃隆·马斯克、萨姆·奥尔特曼 - The Washington Post",
       "title_cn": "出席中国国家主席习近平国宴的嘉宾包括埃隆·马斯克、萨姆·奥尔特曼 - 《华盛顿邮报》",
       "url": "https://news.google.com/read/CBMi2AFBVV95cUxOSUJBSjM1MHJNQ1B1eTdUSFhldmxEOFJpNVRrSkJYSk9HWG5Cb3VZd3dWSVFsbmR6WWhBS3c3Z29mWVRBRjBtUG1lOTllRUxhbks2R25FMVQxakg2cGFBRHB6VmZ0RjJRa3ZBTGZkeXYycUZCdHdqczY0Q3ZuczhPa2V6R0ZoZWtYZVZxVzY1bXlhQkR1UV93ZDZreVl6aXhrUEN3Y2wtUmY4eWVmaG01WHozY1RaSWh1cV9KamZMSjhhZ3FpREQzMDNfazZBbTVyclpNZUY0Qko?hl=en-US&gl=US&ceid=US%3Aen",
@@ -271,68 +335,84 @@
       "pub_sort_dt": "2026-09-25 09:39:41"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国国家主席习近平呼吁美国在人工智能领域开展合作 - CNBC",
-      "title_cn": "中国国家主席习近平呼吁美国在人工智能领域开展合作 - CNBC",
-      "url": "https://news.google.com/read/CBMif0FVX3lxTE5faXlDUXkxSHV5eDVsT3dYOW9sWGY2TTBKR3RmR1Y5dzd4Z0pNVldWWkZfTTFlOUlSZVlnRnBpelRRWG4wTjNUTURkYUlwWk1MSEs5Ry1CNUFqZkdPckYxSW14c3JJbjU4bmNoVjRhYnVVLUJjQVlvRUVDbEU5THfSAYQBQVVfeXFMTWlZWEt3cFEwSGNQZGExUWY2VERkUTdhQ0dZLXY0Q2N0aDFIMzF2VnBFeFBfSC16RFp6RHVVdVRJYmRzZjlKUDhKRmJ4VzZCWVNGNkJqeGVwN1RNX0h6WVRWXy1FTTRxOU9aREJIVmNLVWl2UDR4ZS1MTDFPTDZIVEhVY3dU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-25T01:22:00.000Z",
-      "pub_sort_dt": "2026-09-25 09:22:00"
+      "source": "Reuters",
+      "title_en": "台湾谴责习近平对特朗普的言论是“歪曲事实”",
+      "title_cn": "台湾谴责习近平对特朗普的蔑视是“歪曲事实”",
+      "url": "https://reut.rs/4xFWVIp",
+      "pub_raw": "2026-09-25T07:03:52.953Z",
+      "pub_sort_dt": "2026-09-25 15:03:52"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "尽管特朗普曾将中国描绘成全球威胁，但他仍为习近平铺设了红地毯 - NBC News",
-      "title_cn": "尽管特朗普曾将中国绘画造成全球威胁，但他仍为习近平公式进行了红色互动 - NBC News",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxNMnJRSm9OWTUyMXlBeW0xWVZRYnRnaEEyTlhVUGdKU29TTmVXMkRCY3dsNDJ3NFFab0tXTHBTTzFMSWhpajVnMkFaTGFxTkJrdTh1TWNVcTVPMTZLQndrSUxONmoxVExqMG9qLWdnWkxrcnJ4VjFxTllaNVE1OERzU1duY196NjU3Q21jckxGNThXbUlQY1ZRTlhncUQ3RmFlci03alBSQWRWOWhmdlU1UmVQTzF6YnNNZF9wZzVLWWF5WWsxUFE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-25T01:03:00.000Z",
-      "pub_sort_dt": "2026-09-25 09:03:00"
+      "source": "Reuters",
+      "title_en": "中国第一夫人彭丽媛向美国观众展示“软实力”",
+      "title_cn": "中国第一夫人彭丽媛向美国观众展示“软力量”",
+      "url": "https://reut.rs/4xOV5Fd",
+      "pub_raw": "2026-09-25T07:03:52.949Z",
+      "pub_sort_dt": "2026-09-25 15:03:52"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "习近平呼吁美国“反对”台湾独立，特朗普则称赞中国是二战盟友 - The Japan Times",
-      "title_cn": "习近平呼吁美国“反对”台湾独立，特朗普则称赞中国是战争陆军 - 日本时报",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxNYlJQQmQzYkgxYjlpd21QUEc4UWtzSU9WU2RtdFFUWUVNS2ttZWYwRUNSQmliRE9zS0JZZ1liNHhvN1R2SEhBb050UVZLQjIxR1h4SkgxYkkwNzdHaXdVbGs4S1daUEhOM2RsYVRYV0RWMWJpRWF5TTlsUXl4UFk1QXBNRlV1QUFfZkZ1WFYwb1M4UXFFYzJsWkwyQjQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-25T00:30:00.000Z",
-      "pub_sort_dt": "2026-09-25 08:30:00"
+      "source": "Reuters",
+      "title_en": "菲律宾指责中国阻挠其在南海的补给行动",
+      "title_cn": "预防中国阻挠其在南海的补给行动",
+      "url": "https://reut.rs/46JLapb",
+      "pub_raw": "2026-09-25T06:48:24.144Z",
+      "pub_sort_dt": "2026-09-25 14:48:24"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "白宫特朗普与习近平国宴幕后直击 - USA Today",
-      "title_cn": "亚特兰大特朗普与习近平国宴幕后直击 - 今日美国",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNRWo0bWRQRldMT2dZaDV6MmhEMnF0QnhGSHBQLTNMRnl5WDRBNE9tOEN6dUpjVk9wY2xvOVBLdTJvQkVrZ3hHS25WaWNDcEhoSnhhQXM5c016SnhmVWhBa2RHVktfVU55VHdYdkQ0b1ZIYUxMU2NaVlIxTDZoMUxjc0RObEJ2bUpKR3RyeG5Sem1UUUU5RkZDVzlxYmZqdUJyVm1RdzVLdWRCLVlYMmlseXZ1M3NjZzJtTFZqdWdvazl0RHM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-25T00:11:00.000Z",
-      "pub_sort_dt": "2026-09-25 08:11:00"
+      "source": "Bloomberg",
+      "title_en": "尼泊尔总理在致命洪灾后呼吁与印度、中国达成气候协议",
+      "title_cn": "尼泊尔总理在洪灾后呼吁印度、中国达成气候协议",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/nepal-pm-urges-climate-pact-with-india-china-after-deadly-flood",
+      "pub_raw": "2026-09-25T06:01:34.394Z",
+      "pub_sort_dt": "2026-09-25 14:01:34"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "美国航空公司反对中国增加航班的提议 - Reuters",
-      "title_cn": "美国海关反对中国增加航班的建议 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxNbDBkaWlLM3pETlpjaW1nRHZKb0YydUR6UDUxVmsyblJmSzR5NFRlb183ZlpHNDQ3SXhNX2xMRXA1X1pFN3hsejhmdEJYbXdNNnF5V1J0NWtWbDJkTlhtVFhwZzhuUFJKWEpxSzdaRWZ5S0RiRFR3WnMydnozS29uSVlWM0E3djJXbGZZWDRJX0xLNDFBWDlSODNoSk1kQVg4cmRB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T22:18:09.000Z",
-      "pub_sort_dt": "2026-09-25 06:18:09"
+      "source": "Reuters",
+      "title_en": "《金融时报》称，欧盟敦促英国提高对中国汽车的关税",
+      "title_cn": "《金融时报》称，欧盟敦促英国提高对中国汽车的关税",
+      "url": "https://reut.rs/4yaGrJf",
+      "pub_raw": "2026-09-25T06:01:34.275Z",
+      "pub_sort_dt": "2026-09-25 14:01:34"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "在峰会上，特朗普和习近平尽管存在潜在紧张局势，仍展现出友好的姿态 - NPR",
-      "title_cn": "在峰会上，特朗普和习近平尽管存在紧张局势，仍采取了友好的姿态 - NPR",
-      "url": "https://news.google.com/read/CBMiakFVX3lxTE9lRFpjQkk2bFFoZDg5SUV4a2h4VDZhbG1ZNnREc0ZvTE1UUjMweGNGWktrd19yYS1pQUtOdkNZdWR3Q2xiTllIOVhJd0pmWnU3STVQSW91MVJWUm1CV3B6UXI5c2ZnaXhMOVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T22:05:18.000Z",
-      "pub_sort_dt": "2026-09-25 06:05:18"
+      "source": "Bloomberg",
+      "title_en": "铃木计划将汽车生产速度提高一倍，以跟上中国市场的步伐",
+      "title_cn": "铃木计划将汽车产量提高一倍，以跟上中国市场的信号",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/suzuki-eyes-making-cars-twice-as-fast-to-keep-up-with-china",
+      "pub_raw": "2026-09-25T04:57:43.223Z",
+      "pub_sort_dt": "2026-09-25 12:57:43"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "特朗普和习近平在椭圆形办公室举行中美会谈 - dw.com",
-      "title_cn": "特朗普和习近平在椭圆形办公室达成中美协议 - dw.com",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxPc3NYc2Y3U0lONkV6enR1dndKOVV4T1hfUEp4UEc5M3B2S0J1QnB2YndKQ3VkTWhwTUtfZnFROUlDZkFHZEtVVHd1NVpkWUt2RURSejN5cmZDZXU2TE9JVTZLaU1pRG1GQkVmX2Y2ZzN3WHhNXzhTWWRBWUc3UDItLVhKUTdkQjAwM21j?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T20:38:26.000Z",
-      "pub_sort_dt": "2026-09-25 04:38:26"
+      "source": "Reuters",
+      "title_en": "独家报道：与受制裁的中国棉花巨头有关联的企业如何向美国销售服装",
+      "title_cn": "独家报道：与受制裁的中国棉花工会有关联企业如何向美国销售服装",
+      "url": "https://reut.rs/4d6CCMN",
+      "pub_raw": "2026-09-25T04:57:43.092Z",
+      "pub_sort_dt": "2026-09-25 12:57:43"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "美国参议员推迟了永久性禁止中国汽车进口的努力 - Reuters",
-      "title_cn": "美国疫情推迟永久性禁止中国汽车进口 - 路透中文网",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxOaENSMVJIRkFMV2ZDN01WR3R6SjZwY1BnQzhndHp6NlhLMEtORUliZUVBYmI0SWJiMlY5ckg3Z1c4a1lmYlhLUm13dy05Q2RfaDZPeHFhUElUeUNIYkZpTGExLWhaMHRlTWtIZFBOSnI4bXNESmZmN3cxR1ZqUHpPUFFRZ1diNkJyR1YtYWFGaUdvRWtWZ28tQ2dYNnpwTVY2NUNHRQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T18:22:00.000Z",
-      "pub_sort_dt": "2026-09-25 02:22:00"
+      "source": "Bloomberg",
+      "title_en": "受禽流感及中国需求推动，泰国出口创四年来最大增幅",
+      "title_cn": "受禽流感及中国需求推动，泰国出口创四年来最大增幅",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/thai-exports-surge-most-in-four-years-on-ai-china-demand",
+      "pub_raw": "2026-09-25T04:09:17.761Z",
+      "pub_sort_dt": "2026-09-25 12:09:17"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "8月份中国电动汽车全球出口量同比增长33%，达到284,622辆",
+      "title_cn": "8月份中国电动汽车全球出口量同比增长33%，达到284,622辆",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/china-s-global-ev-exports-rise-33-y-y-to-284-622-in-august",
+      "pub_raw": "2026-09-25T04:09:17.758Z",
+      "pub_sort_dt": "2026-09-25 12:09:17"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "欧盟敦促英国提高对中国汽车的关税，以避免“欧洲制造”产品面临贸易壁垒",
+      "title_cn": "欧盟敦促英国提高对中国汽车的关税，欧盟“欧洲制造”产品面临贸易壁垒",
+      "url": "https://www.ft.com/content/5453be91-7bd9-4097-9e83-870354d3a248?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-25T04:09:17.276Z",
+      "pub_sort_dt": "2026-09-25 12:09:17"
     },
     {
       "source": "Reuters",
@@ -385,7 +465,7 @@
     {
       "source": "Bloomberg",
       "title_en": "科技巨头与特朗普在盛大的国宴上款待中国国家主席习近平",
-      "title_cn": "科技工会与特朗普在盛大的国宴上款待中国国家主席习近平",
+      "title_cn": "科技党与特朗普在盛大的国宴上款待中国国家主席习近平",
       "url": "https://www.bloomberg.com/news/articles/2026-09-25/tech-titans-join-trump-to-fete-china-s-xi-at-lavish-state-dinner",
       "pub_raw": "2026-09-25T01:14:19.511Z",
       "pub_sort_dt": "2026-09-25 09:14:19"
@@ -413,86 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-24/xi-presses-trump-to-oppose-taiwan-independence-during-summit",
       "pub_raw": "2026-09-24T22:04:16.607Z",
       "pub_sort_dt": "2026-09-25 06:04:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普、习近平在国事访问期间就人工智能和台湾问题发表讲话",
-      "title_cn": "特朗普、习近平在国事访问期间就人工智能和台湾问题发表讲话",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-24/trump-xi-address-ai-taiwan-during-state-visit",
-      "pub_raw": "2026-09-24T21:48:27.461Z",
-      "pub_sort_dt": "2026-09-25 05:48:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "参议员表示希望进一步了解被转售至中国的F-35零部件情况",
-      "title_cn": "动力表示希望进一步了解被转售至中国的F-35零部件情况",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/top-intelligence-panel-democrat-seeks-briefing-on-f-35-parts",
-      "pub_raw": "2026-09-24T20:45:40.700Z",
-      "pub_sort_dt": "2026-09-25 04:45:40"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "美国官员表示，在人们对北京方面是否遵守这项为期30年的核试验禁令存有疑虑之际，特朗普政府一直在与中国就其迅速扩大的核武库问题进行低调磋商。",
-      "title_cn": "美国官员表示，在人们对北京方面是否遵守此次暂停30年的核试验存有疑虑的情况下，特朗普政府一直在与中国就其迅速扩大的核武库问题进行低调的探讨。",
-      "url": "https://on.wsj.com/3Vax0Lk",
-      "pub_raw": "2026-09-24T20:13:28.453Z",
-      "pub_sort_dt": "2026-09-25 04:13:28"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "哈维尔·米莱想要一辆Cybertruck，并为阿根廷人购买中国车辩护",
-      "title_cn": "哈维尔·米莱想要一辆赛博卡车，并为阿根廷人购买中国汽车辩护",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/javier-milei-wants-a-cybertruck-defends-argentines-buying-chinese-cars",
-      "pub_raw": "2026-09-24T19:26:34.754Z",
-      "pub_sort_dt": "2026-09-25 03:26:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "越南在“熄灯”状态下无法战胜中国",
-      "title_cn": "越南处于“熄灯”状态下无法战胜中国",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-24/vietnam-can-t-beat-china-with-the-lights-out",
-      "pub_raw": "2026-09-24T19:10:26.740Z",
-      "pub_sort_dt": "2026-09-25 03:10:26"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "“稳中求进”是解决中国汽车产能过剩问题的正确路径",
-      "title_cn": "“稳中求进”是解决中国汽车产能过剩问题的正确路径",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-24/go-slow-is-the-right-route-for-china-s-auto-glut",
-      "pub_raw": "2026-09-24T18:07:27.397Z",
-      "pub_sort_dt": "2026-09-25 02:07:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国重启“熊猫外交”，以此作为与美国改善关系的信号。",
-      "title_cn": "中国重启“熊猫研究”，以此作为与美国改善关系的信号。",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/china-retoma-su-diplomacia-del-panda-como-senal-de-acercamiento-con-ee-uu",
-      "pub_raw": "2026-09-24T17:51:27.860Z",
-      "pub_sort_dt": "2026-09-25 01:51:27"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国家主席习近平表示，大熊猫即将抵达亚特兰大",
-      "title_cn": "中国国家主席习近平表示，大熊猫即将亮相亚特兰大",
-      "url": "https://reut.rs/3VtS4fO",
-      "pub_raw": "2026-09-24T17:19:34.924Z",
-      "pub_sort_dt": "2026-09-25 01:19:34"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "议员们将寻求参议院批准美国永久禁止中国汽车进口的法案",
-      "title_cn": "议员们将寻求参议院批准美国永久禁止中国汽车进口的法案",
-      "url": "https://reut.rs/3Tiv9Ub",
-      "pub_raw": "2026-09-24T17:03:42.728Z",
-      "pub_sort_dt": "2026-09-25 01:03:42"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "汇丰取消了香港银行家加入会员俱乐部的26,000美元福利",
-      "title_cn": "汇丰取消了香港银行家加入会员俱乐部的26,000美元福利",
-      "url": "https://www.ft.com/content/37e6c9d9-2237-468d-b0c5-18b5d09c2ccc?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-24T15:28:26.294Z",
-      "pub_sort_dt": "2026-09-24 23:28:26"
     }
   ]
 }
