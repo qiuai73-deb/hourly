@@ -1,97 +1,177 @@
 {
-  "update_cst": "2026-09-25 06:01:13 北京时间",
+  "update_cst": "2026-09-25 12:01:14 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 1,
-    "Bloomberg": 10,
+    "The Economist": 0,
+    "Bloomberg": 11,
     "Financial Times": 1,
-    "Wall Street Journal": 1,
-    "Reuters": 7
+    "Wall Street Journal": 4,
+    "Reuters": 4
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "习近平在历史性的白宫之行中表示，中美必须“和平共处” - Financial Times",
-      "title_cn": "习近平在历史性的白宫之行中表示，中美必须“和平共处” - 英国金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxObUpPemhEU0lDVXEwMkhxZUVaYUlsdDFGNFN6d2tTNU1SeEM5VDViRm5rSXZDVnkzc29rOUItSXc1RDN2aDdsNnBKekpxTVkzcmVnR2VFdC1Kd0NzR2NnSXJZMlJUUnZyU1lGYUg1LWpLcUJnTW45cC1Bb3d2MkxoQmtSVkk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T17:53:11.000Z",
-      "pub_sort_dt": "2026-09-25 01:53:11"
+      "title_en": "谁将出席为中国国家主席习近平举行的白宫晚宴？ - The Washington Post",
+      "title_cn": "谁将出席为中国国家主席习近平举行的白宫晚宴？ - 《华盛顿邮报》",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxNSE5KTWZjTDg3Z3Z5czFpSTJXSkx6dVRlSEtLcUYtT1JOclQwYkxsblN2MFZRcFNDSE1CRG5zalpOUHRfRUxqdjZUa2lWaE9LZVJZUE9YSkMtVU52NUttNVhQSmJEdzR5cE96VlB3ZVFQQlhQVUNGSzV3Q1NpalhhTTRZeUplUnJqallaRmtnd01Ga1RQbjBVX1FYY05xdHM0T0oya2xGUm1XNm9uY0dxLV8wdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T03:24:25.000Z",
+      "pub_sort_dt": "2026-09-25 11:24:25"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在美国与中国的一场关键角逐中，美国或许会胜出。但这可能意味着一些你并不乐见的结果。 - Slate Magazine",
-      "title_cn": "在美国与中国的一场关键角逐中，美国或许会胜出。但这可能意味着一些你并不乐见的结果。 - Slate Magazine",
-      "url": "https://news.google.com/read/CBMif0FVX3lxTE8tUGRnd19ubzJWdFdBUjdoekJsM3c4bGRMV3d6QnFvM0hfbjd6TGJ0eV9hemZEVlAzdExtRGNMTFEycnJXelJHRUZYZ0xnVzVxZzVualExMURPbWY1LTh6Ul9QM2ExTXJWTnFXNS1sZEdPamZYdFdKMVN5MDI0akk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T17:52:00.000Z",
-      "pub_sort_dt": "2026-09-25 01:52:00"
+      "title_en": "出席中国国家主席习近平国宴的嘉宾包括埃隆·马斯克、萨姆·奥尔特曼 - The Washington Post",
+      "title_cn": "出席中国国家主席习近平国宴的嘉宾包括埃隆·马斯克、萨姆·奥尔特曼 - 《华盛顿邮报》",
+      "url": "https://news.google.com/read/CBMi2AFBVV95cUxOSUJBSjM1MHJNQ1B1eTdUSFhldmxEOFJpNVRrSkJYSk9HWG5Cb3VZd3dWSVFsbmR6WWhBS3c3Z29mWVRBRjBtUG1lOTllRUxhbks2R25FMVQxakg2cGFBRHB6VmZ0RjJRa3ZBTGZkeXYycUZCdHdqczY0Q3ZuczhPa2V6R0ZoZWtYZVZxVzY1bXlhQkR1UV93ZDZreVl6aXhrUEN3Y2wtUmY4eWVmaG01WHozY1RaSWh1cV9KamZMSjhhZ3FpREQzMDNfazZBbTVyclpNZUY0Qko?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T01:39:41.000Z",
+      "pub_sort_dt": "2026-09-25 09:39:41"
     },
     {
       "source": "China Buzzing",
-      "title_en": "独家 特朗普政府在秘密会谈中就疑似核试验一事向中国施压 - WSJ",
-      "title_cn": "独家特朗普政府在秘密条约中疑似向中国施压的核试验一事 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMi1gFBVV95cUxNOHp1cHpGMHY1M2dCcFlVVUtCcXl1a3l0dUd0MnBJcEIxWlIxZXlGWThyeTdPVFZhdUlCVmRnaTBuR1VRRFV5WHpoXzZXVkRiZVhJRFJ6Rmk3WFY5MndFZ1RtX08tUTl0N0tqN0VTT2l6UGdlSURpdFBRNWh3TERGYkgxbG54TFhhckFzVWJTblRIanA3Vjhhd3o1QzhvMm43TWYyTEhUOVMxNEhEcTJ0SjBzOEVpRVh5TkxqcWJKSmkyT3NuZHhDY2VfNnpwTm1oYVFfUWFn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T17:00:00.000Z",
-      "pub_sort_dt": "2026-09-25 01:00:00"
+      "title_en": "中国国家主席习近平呼吁美国在人工智能领域开展合作 - CNBC",
+      "title_cn": "中国国家主席习近平呼吁美国在人工智能领域开展合作 - CNBC",
+      "url": "https://news.google.com/read/CBMif0FVX3lxTE5faXlDUXkxSHV5eDVsT3dYOW9sWGY2TTBKR3RmR1Y5dzd4Z0pNVldWWkZfTTFlOUlSZVlnRnBpelRRWG4wTjNUTURkYUlwWk1MSEs5Ry1CNUFqZkdPckYxSW14c3JJbjU4bmNoVjRhYnVVLUJjQVlvRUVDbEU5THfSAYQBQVVfeXFMTWlZWEt3cFEwSGNQZGExUWY2VERkUTdhQ0dZLXY0Q2N0aDFIMzF2VnBFeFBfSC16RFp6RHVVdVRJYmRzZjlKUDhKRmJ4VzZCWVNGNkJqeGVwN1RNX0h6WVRWXy1FTTRxOU9aREJIVmNLVWl2UDR4ZS1MTDFPTDZIVEhVY3dU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T01:22:00.000Z",
+      "pub_sort_dt": "2026-09-25 09:22:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "习近平携“礼物”而来：2只大熊猫和10万份学生签证 - thehill.com",
-      "title_cn": "习近平携“礼物”来袭：2只大熊猫和10万份学生签证 - thehill.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQU1lxd2FxX18zYTBoQUpZclViX0NIWGZvYWFoMTNfTUlwRGR2UXZmaFpFdEFtSVhoYTZGMDVkQWlmcG5fOF9OMXdRbjJ5TWlMWkdrSjU1cl84VE5XVlVrRmFRX2lDRWthSWJjN0g1c3ZRd2IzRE9PQU9nZERBbEU1VmFjV1BPZHFlZDJwa0xKeGcyYS1wTVotTmN6bWtuOGJhcVRFZ0Q1SFJLbTVPNkxJRXdR0gG3AUFVX3lxTE9wSUNoMjlRWWJCMlpxYTFONlh3MEsxbnhFVGlkQVJpSy01OFdjckJaeVVKSDVJOEsyYTZyTWhUaW9NeFluZ2t5WTlYYl9DZDhHR0ExMXppcUpQY0Frbm9vWUI1Yi1IZGFuWWtJZU02aEZJdzRPQ01JR2dyNjNZOU0yeWRtdlZxWFZPemxpeHJFcHl5RFZIS3h4RzhnTXNKLWV3N1pZRUs2aTBlajh6bXhWcy0yYXdrMA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T16:49:00.000Z",
-      "pub_sort_dt": "2026-09-25 00:49:00"
+      "title_en": "尽管特朗普曾将中国描绘成全球威胁，但他仍为习近平铺设了红地毯 - NBC News",
+      "title_cn": "尽管特朗普曾将中国绘画造成全球威胁，但他仍为习近平公式进行了红色互动 - NBC News",
+      "url": "https://news.google.com/read/CBMixgFBVV95cUxNMnJRSm9OWTUyMXlBeW0xWVZRYnRnaEEyTlhVUGdKU29TTmVXMkRCY3dsNDJ3NFFab0tXTHBTTzFMSWhpajVnMkFaTGFxTkJrdTh1TWNVcTVPMTZLQndrSUxONmoxVExqMG9qLWdnWkxrcnJ4VjFxTllaNVE1OERzU1duY196NjU3Q21jckxGNThXbUlQY1ZRTlhncUQ3RmFlci03alBSQWRWOWhmdlU1UmVQTzF6YnNNZF9wZzVLWWF5WWsxUFE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T01:03:00.000Z",
+      "pub_sort_dt": "2026-09-25 09:03:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普苦于找不到在对中国出口问题上对习近平施压的筹码 - The New York Times",
-      "title_cn": "特朗普苦苦找不到对习近平施压的中国出口问题 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMie0FVX3lxTE9pdTdvT1d3VDU3UUlCc29RTGplMkFEN3FoTmRiMHJfYXRjaFNVTU5hYnVyTVN4amQwWkdXeXIzbzM1cnpQTXNJMGVoNkRscXVJcF9tMUFabldoLVoySGdxTm50bWEyWTNQWWVzTlMySng2dC1KMDFSYUpGQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T16:35:25.000Z",
-      "pub_sort_dt": "2026-09-25 00:35:25"
+      "title_en": "习近平呼吁美国“反对”台湾独立，特朗普则称赞中国是二战盟友 - The Japan Times",
+      "title_cn": "习近平呼吁美国“反对”台湾独立，特朗普则称赞中国是战争陆军 - 日本时报",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxNYlJQQmQzYkgxYjlpd21QUEc4UWtzSU9WU2RtdFFUWUVNS2ttZWYwRUNSQmliRE9zS0JZZ1liNHhvN1R2SEhBb050UVZLQjIxR1h4SkgxYkkwNzdHaXdVbGs4S1daUEhOM2RsYVRYV0RWMWJpRWF5TTlsUXl4UFk1QXBNRlV1QUFfZkZ1WFYwb1M4UXFFYzJsWkwyQjQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T00:30:00.000Z",
+      "pub_sort_dt": "2026-09-25 08:30:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中美峰会拉开帷幕，种种迹象表明，贸易停火将维持下去——至少目前如此 - Yahoo Finance",
-      "title_cn": "中美峰会拉开帷幕，众多表明，贸易停火将维持下去——至少目前如此 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMi1gFBVV95cUxOZW4ySFVnS0t5eXR4RmtuWlpLM0pReXpTRjZ1T3FfUExyVWU1a0ZuT1pqbjRqQTZVdHRneHozLWlFdWhad0tHWnVPM1NtUUZrYTF0YWhTWUg3SUZqekduU0ZpYnJLQXY1MmxBc0p4bTgwZUZBeVVXaEIwc0ZENHNCcG5IXzBOQkpTYm93ZHNaSDI5T1djUVYweDVONUkwZ0xMU2gxcHh2a1owazd1WWdDai1yU29CbUo4VnZIY29EN25hSXh0cHhROWRBYWZ4cjRKUEZCWXRn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T16:33:10.000Z",
-      "pub_sort_dt": "2026-09-25 00:33:10"
+      "title_en": "白宫特朗普与习近平国宴幕后直击 - USA Today",
+      "title_cn": "亚特兰大特朗普与习近平国宴幕后直击 - 今日美国",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNRWo0bWRQRldMT2dZaDV6MmhEMnF0QnhGSHBQLTNMRnl5WDRBNE9tOEN6dUpjVk9wY2xvOVBLdTJvQkVrZ3hHS25WaWNDcEhoSnhhQXM5c016SnhmVWhBa2RHVktfVU55VHdYdkQ0b1ZIYUxMU2NaVlIxTDZoMUxjc0RObEJ2bUpKR3RyeG5Sem1UUUU5RkZDVzlxYmZqdUJyVm1RdzVLdWRCLVlYMmlseXZ1M3NjZzJtTFZqdWdvazl0RHM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T00:11:00.000Z",
+      "pub_sort_dt": "2026-09-25 08:11:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在与特朗普的会晤中，习近平提出了避免中美军事冲突的条件 - The Guardian",
-      "title_cn": "在与特朗普的会晤中，习近平提出了中美军事冲突的条件 - 英国卫报",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxObWZQTjhjMFdDMERwWVlvODFMMXo0dHAwd3QxOHRkYVhSd1d6aktSemFqZWZFQTFDaV9LVzFUekVWVnllRURsYXczUkJrTC1tWkpEcVhXX1htT29MZjk2ZGpCZXlGeUJGVmxCaVZwMldpZnNkNEE4dFg0NDZwZUdPZzktM0tNN1ZzQWp2WWpsYlVJdl8tNURJNE1KbS1nWFE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T15:55:42.000Z",
-      "pub_sort_dt": "2026-09-24 23:55:42"
+      "title_en": "美国航空公司反对中国增加航班的提议 - Reuters",
+      "title_cn": "美国海关反对中国增加航班的建议 - 路透中文网",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxNbDBkaWlLM3pETlpjaW1nRHZKb0YydUR6UDUxVmsyblJmSzR5NFRlb183ZlpHNDQ3SXhNX2xMRXA1X1pFN3hsejhmdEJYbXdNNnF5V1J0NWtWbDJkTlhtVFhwZzhuUFJKWEpxSzdaRWZ5S0RiRFR3WnMydnozS29uSVlWM0E3djJXbGZZWDRJX0xLNDFBWDlSODNoSk1kQVg4cmRB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T22:18:09.000Z",
+      "pub_sort_dt": "2026-09-25 06:18:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普的中国国宴将宾客们家乡的特色菜肴列入了菜单 - The Washington Post",
-      "title_cn": "特朗普的中国国宴将家乡的特色菜肴列入菜单 - 华盛顿邮报",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxNcUlfNFJLQXFYOWxjbWFFRDdST3N2N2tXN2dWaVJQakNKVzRLYURQQXN1Q2d0Q01nUkxaTVNnejBOemU2RmJTbWl1a1lyZUd6a1FpSzMtc2VnWkFvY0FOY1ptYWxjbmk2T0c3NzFNN2Vydjk0bEpQemJkQjlkMV9tRm04VXN0cU5yZHE2NWhicl90SWVYSjNDb2ZxcEpUcERDeTVCRURCbGxnV1l0WVhV?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T15:43:32.000Z",
-      "pub_sort_dt": "2026-09-24 23:43:32"
+      "title_en": "在峰会上，特朗普和习近平尽管存在潜在紧张局势，仍展现出友好的姿态 - NPR",
+      "title_cn": "在峰会上，特朗普和习近平尽管存在紧张局势，仍采取了友好的姿态 - NPR",
+      "url": "https://news.google.com/read/CBMiakFVX3lxTE9lRFpjQkk2bFFoZDg5SUV4a2h4VDZhbG1ZNnREc0ZvTE1UUjMweGNGWktrd19yYS1pQUtOdkNZdWR3Q2xiTllIOVhJd0pmWnU3STVQSW91MVJWUm1CV3B6UXI5c2ZnaXhMOVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T22:05:18.000Z",
+      "pub_sort_dt": "2026-09-25 06:05:18"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在特朗普考虑在美国生产中国电动汽车之际，汽车制造商们将德国视为一个警示案例 - NBC News",
-      "title_cn": "特朗普考虑到美国生产中国电动汽车国际，汽车制造商将德国视为一个警戒案例 - NBC新闻",
-      "url": "https://news.google.com/read/CBMimgFBVV95cUxQX19veWFwR0NRR2M3ZW1INnE1aDU3Rm9scmJQdGRIQmU1WXpqQWZZc3Z2c3k4MlkwTzJHanRkS2ZfeGRnbElGUFNjazVwRXpBMUFOUm1VY1FLZ3EyYVVMWnc0U3A3VlhkRzVCWmNkMHZIcTgwR0I0cTcyb3h1S2lsQk1ERjNEek1DTTlsVjdPTS1pTUI0dkZaTklR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T14:44:03.000Z",
-      "pub_sort_dt": "2026-09-24 22:44:03"
+      "title_en": "特朗普和习近平在椭圆形办公室举行中美会谈 - dw.com",
+      "title_cn": "特朗普和习近平在椭圆形办公室达成中美协议 - dw.com",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxPc3NYc2Y3U0lONkV6enR1dndKOVV4T1hfUEp4UEc5M3B2S0J1QnB2YndKQ3VkTWhwTUtfZnFROUlDZkFHZEtVVHd1NVpkWUt2RURSejN5cmZDZXU2TE9JVTZLaU1pRG1GQkVmX2Y2ZzN3WHhNXzhTWWRBWUc3UDItLVhKUTdkQjAwM21j?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T20:38:26.000Z",
+      "pub_sort_dt": "2026-09-25 04:38:26"
     },
     {
       "source": "China Buzzing",
-      "title_en": "参议院共和党人：伊朗领导人“属于一个爬行动物群落”，该群落还包括中国、俄罗斯和朝鲜 - The Hill",
-      "title_cn": "祈祷者：伊朗领导人“属于一个攀爬行动物群”，该群落还包括中国、俄罗斯和朝鲜 - The Hill",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxQSF9reG4telRFNWtCTW1hQnZNRzVBSVE0UzVmbG1kS2Yyd3pBZkJsSGtHYWdkUWxtSllqdUpZOGVuWFFyUlh6MkhCYlBBVmFIT0lBWDQ1dk5RRDhtZGR2ZnM4NVFMaTR6UnRkb1NIX2xuRWpEaG1lai1rTnBKWGRiZTRva0NJTC1ZQ3d4WTdtUFJSM0xNVkdjUVZwSzR0Z9IBowFBVV95cUxOeVVyMWFSZi1RWGRQODh2bU5QQ2lpTlk1VmFyMktZdlppSXNNcHJLa3hCLXJtbmc5SndwSXB4SGZCT1BRQXNfZERxVW9BaTNqR1paSW54cnJpM2RocGkwUDVTX2NfenhSaFFqbExQak45RU05M0JYZzllNExlTGJzMW1PdlR5U3hES3FiWTVLaGFxSXpWanZsUU12NkhpWk1GNGtZ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T13:59:00.000Z",
-      "pub_sort_dt": "2026-09-24 21:59:00"
+      "title_en": "美国参议员推迟了永久性禁止中国汽车进口的努力 - Reuters",
+      "title_cn": "美国疫情推迟永久性禁止中国汽车进口 - 路透中文网",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxOaENSMVJIRkFMV2ZDN01WR3R6SjZwY1BnQzhndHp6NlhLMEtORUliZUVBYmI0SWJiMlY5ckg3Z1c4a1lmYlhLUm13dy05Q2RfaDZPeHFhUElUeUNIYkZpTGExLWhaMHRlTWtIZFBOSnI4bXNESmZmN3cxR1ZqUHpPUFFRZ1diNkJyR1YtYWFGaUdvRWtWZ28tQ2dYNnpwTVY2NUNHRQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T18:22:00.000Z",
+      "pub_sort_dt": "2026-09-25 02:22:00"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "解读：什么是“台湾独立”？台湾是否已经独立？",
+      "title_cn": "解读：什么是“台湾独立”？台湾是否已经独立？",
+      "url": "https://reut.rs/4hdBCsJ",
+      "pub_raw": "2026-09-25T03:37:22.240Z",
+      "pub_sort_dt": "2026-09-25 11:37:22"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港“Buy&Ship”瞄准东京上市，加速拓展日本市场",
+      "title_cn": "香港“Buy&Ship”瞄准东京上市，加速拓展日本市场",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/hong-kong-s-buy-ship-eyes-tokyo-listing-in-japan-expansion-push",
+      "pub_raw": "2026-09-25T03:21:33.451Z",
+      "pub_sort_dt": "2026-09-25 11:21:33"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "为何台湾问题是中美关系中最敏感的议题",
+      "title_cn": "为何台湾问题是中美关系中最敏感的问题",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/why-taiwan-is-the-most-volatile-issue-for-us-china-relations",
+      "pub_raw": "2026-09-25T03:05:26.452Z",
+      "pub_sort_dt": "2026-09-25 11:05:26"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "以下是特朗普与中国国家主席习近平举行的国宴的宾客名单",
+      "title_cn": "以下是特朗普与中国国家主席习近平举行的国宴宾客名单",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/here-s-the-invite-list-for-trump-s-state-dinner-with-china-s-xi",
+      "pub_raw": "2026-09-25T02:49:19.755Z",
+      "pub_sort_dt": "2026-09-25 10:49:19"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "特朗普总统与中国领导人习近平举行了峰会，这场峰会仪式感浓厚但成果寥寥，掩盖了双方在贸易、技术以及北京方面对伊朗的支持等问题上的重大分歧。",
+      "title_cn": "特朗普总统与中国领导人习近平举行了峰会，庆祝峰会气氛浓厚，但成果却寥寥无几，掩盖了两国在贸易、以及北京方面对伊朗的支持等问题上的重大技术损失。",
+      "url": "https://on.wsj.com/4rEX0un",
+      "pub_raw": "2026-09-25T02:49:19.634Z",
+      "pub_sort_dt": "2026-09-25 10:49:19"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "特朗普总统周四在白宫东厅举办了一场盛大的国宴，以表彰中国领导人习近平。",
+      "title_cn": "特朗普总统周四在白宫东厅举行了一场盛大的国宴，以表彰中国领导人习近平。",
+      "url": "https://on.wsj.com/4ho0zAf",
+      "pub_raw": "2026-09-25T01:46:38.617Z",
+      "pub_sort_dt": "2026-09-25 09:46:38"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "科技巨头与特朗普在盛大的国宴上款待中国国家主席习近平",
+      "title_cn": "科技工会与特朗普在盛大的国宴上款待中国国家主席习近平",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/tech-titans-join-trump-to-fete-china-s-xi-at-lavish-state-dinner",
+      "pub_raw": "2026-09-25T01:14:19.511Z",
+      "pub_sort_dt": "2026-09-25 09:14:19"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国航空公司反对中国增加航班的提议",
+      "title_cn": "美国海关反对中国增加航班的建议",
+      "url": "https://reut.rs/4iHA8bf",
+      "pub_raw": "2026-09-24T23:23:19.181Z",
+      "pub_sort_dt": "2026-09-25 07:23:19"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "白宫正在通过秘密会谈就疑似核试验一事向中国施压，而共和党议员们则否决了旨在结束伊朗战争的最新议案。更多详情请参阅今天的《新闻速递》通讯：",
+      "title_cn": "白宫正在通过秘密决议就疑似向中国施压的核试验一事进行，而庆祝总理们则否决了旨在结束伊朗战争的最新议案。更多详情请参阅今天的《新闻速递》通讯：",
+      "url": "https://on.wsj.com/4herCPO",
+      "pub_raw": "2026-09-24T23:23:19.139Z",
+      "pub_sort_dt": "2026-09-25 07:23:19"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "习近平在一次罕见的通话中敦促特朗普“反对”台湾独立",
+      "title_cn": "习近平在一次罕见的通话中敦促特朗普“反对”台湾独立",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/xi-presses-trump-to-oppose-taiwan-independence-during-summit",
+      "pub_raw": "2026-09-24T22:04:16.607Z",
+      "pub_sort_dt": "2026-09-25 06:04:16"
+    },
     {
       "source": "Bloomberg",
       "title_en": "特朗普、习近平在国事访问期间就人工智能和台湾问题发表讲话",
@@ -103,7 +183,7 @@
     {
       "source": "Bloomberg",
       "title_en": "参议员表示希望进一步了解被转售至中国的F-35零部件情况",
-      "title_cn": "参议员表示希望进一步了解被转售至中国的F-35零部件情况",
+      "title_cn": "动力表示希望进一步了解被转售至中国的F-35零部件情况",
       "url": "https://www.bloomberg.com/news/articles/2026-09-24/top-intelligence-panel-democrat-seeks-briefing-on-f-35-parts",
       "pub_raw": "2026-09-24T20:45:40.700Z",
       "pub_sort_dt": "2026-09-25 04:45:40"
@@ -119,7 +199,7 @@
     {
       "source": "Bloomberg",
       "title_en": "哈维尔·米莱想要一辆Cybertruck，并为阿根廷人购买中国车辩护",
-      "title_cn": "哈维尔·米莱想要一辆Cybertruck，并为阿根廷人购买中国车辩护",
+      "title_cn": "哈维尔·米莱想要一辆赛博卡车，并为阿根廷人购买中国汽车辩护",
       "url": "https://www.bloomberg.com/news/articles/2026-09-24/javier-milei-wants-a-cybertruck-defends-argentines-buying-chinese-cars",
       "pub_raw": "2026-09-24T19:26:34.754Z",
       "pub_sort_dt": "2026-09-25 03:26:34"
@@ -131,14 +211,6 @@
       "url": "https://www.bloomberg.com/opinion/articles/2026-09-24/vietnam-can-t-beat-china-with-the-lights-out",
       "pub_raw": "2026-09-24T19:10:26.740Z",
       "pub_sort_dt": "2026-09-25 03:10:26"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "习近平在直率通话中敦促特朗普“反对”台湾独立",
-      "title_cn": "习近平在直率通话中敦促特朗普“反对”台湾独立",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/xi-presses-trump-to-oppose-taiwan-independence-during-summit",
-      "pub_raw": "2026-09-24T18:54:43.879Z",
-      "pub_sort_dt": "2026-09-25 02:54:43"
     },
     {
       "source": "Bloomberg",
@@ -179,160 +251,168 @@
       "url": "https://www.ft.com/content/37e6c9d9-2237-468d-b0c5-18b5d09c2ccc?syn-25a6b1a6=1",
       "pub_raw": "2026-09-24T15:28:26.294Z",
       "pub_sort_dt": "2026-09-24 23:28:26"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：抗议中国国家主席习近平访美",
-      "title_cn": "直播：抗议中国国家主席习近平访美",
-      "url": "https://youtube.com/live/QKc7rxJfWwU",
-      "pub_raw": "2026-09-24T14:41:43.498Z",
-      "pub_sort_dt": "2026-09-24 22:41:43"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：特朗普在华盛顿欢迎中国国家主席习近平",
-      "title_cn": "直播：特朗普在华盛顿欢迎中国国家主席习近平",
-      "url": "https://youtube.com/live/AF_OCj66deU",
-      "pub_raw": "2026-09-24T14:41:43.494Z",
-      "pub_sort_dt": "2026-09-24 22:41:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "在特朗普与习近平峰会前夕，中国避开价格高昂的巴西大豆",
-      "title_cn": "在特朗普与习近平峰会前夕，中国关注的巴西大豆价格昂贵",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/china-shuns-costly-brazil-soybeans-ahead-of-trump-xi-summit",
-      "pub_raw": "2026-09-24T14:25:46.391Z",
-      "pub_sort_dt": "2026-09-24 22:25:46"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "古驰新款“中国制造”运动鞋打破了意大利的传统",
-      "title_cn": "古驰新款“中国制造”运动鞋打破了意大利传统",
-      "url": "https://reut.rs/3TQnFYC",
-      "pub_raw": "2026-09-24T14:25:46.330Z",
-      "pub_sort_dt": "2026-09-24 22:25:46"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国学生在全球学校考试中的成绩位居前列",
-      "title_cn": "中国学生在全球学校考试中的成绩排名居前列",
-      "url": "https://www.economist.com/china/2026/09/24/chinas-kids-rank-near-the-top-in-global-school-tests",
-      "pub_raw": "2026-09-24T13:38:41.960Z",
-      "pub_sort_dt": "2026-09-24 21:38:41"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "德国汽车行业游说团体警告中国贸易失衡问题，支持依据世贸组织规则采取应对措施",
-      "title_cn": "德国汽车行业游说团体警告中国贸易失衡问题，支持世贸组织规则采取应对措施",
-      "url": "https://reut.rs/4ycEnQP",
-      "pub_raw": "2026-09-24T12:51:40.393Z",
-      "pub_sort_dt": "2026-09-24 20:51:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "库恩纳格尔首席执行官认为，中国市场和人工智能设备正推动货运需求稳健增长",
-      "title_cn": "库恩纳格尔预计，中国市场和人工智能设备正推动货运需求货运增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/kuehne-nagel-ceo-sees-china-ai-gear-driving-solid-cargo-demand",
-      "pub_raw": "2026-09-24T11:17:42.243Z",
-      "pub_sort_dt": "2026-09-24 19:17:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "文件显示，在特朗普与习近平会晤前，美日官员就中国限制钇出口一事进行了讨论",
-      "title_cn": "文件显示，在特朗普与习近平会晤前，美国官员就中国限制钇出口一事进行了讨论",
-      "url": "https://reut.rs/4iFJxA6",
-      "pub_raw": "2026-09-24T11:01:58.525Z",
-      "pub_sort_dt": "2026-09-24 19:01:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "台湾大幅削减短期债券发行规模以提振流动性",
-      "title_cn": "台湾大幅削减短期债券发行规模以提振流动性",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/taiwan-cuts-short-term-debt-sales-by-record-to-boost-liquidity",
-      "pub_raw": "2026-09-24T10:14:23.263Z",
-      "pub_sort_dt": "2026-09-24 18:14:23"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "习近平在历史性的白宫之行中表示，中美必须“和平共处” - Financial Times",
-      "title_cn": "习近平在历史性的白宫之行中表示，中美必须“和平共处” - 英国金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxObUpPemhEU0lDVXEwMkhxZUVaYUlsdDFGNFN6d2tTNU1SeEM5VDViRm5rSXZDVnkzc29rOUItSXc1RDN2aDdsNnBKekpxTVkzcmVnR2VFdC1Kd0NzR2NnSXJZMlJUUnZyU1lGYUg1LWpLcUJnTW45cC1Bb3d2MkxoQmtSVkk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T17:53:11.000Z",
-      "pub_sort_dt": "2026-09-25 01:53:11"
+      "title_en": "谁将出席为中国国家主席习近平举行的白宫晚宴？ - The Washington Post",
+      "title_cn": "谁将出席为中国国家主席习近平举行的白宫晚宴？ - 《华盛顿邮报》",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxNSE5KTWZjTDg3Z3Z5czFpSTJXSkx6dVRlSEtLcUYtT1JOclQwYkxsblN2MFZRcFNDSE1CRG5zalpOUHRfRUxqdjZUa2lWaE9LZVJZUE9YSkMtVU52NUttNVhQSmJEdzR5cE96VlB3ZVFQQlhQVUNGSzV3Q1NpalhhTTRZeUplUnJqallaRmtnd01Ga1RQbjBVX1FYY05xdHM0T0oya2xGUm1XNm9uY0dxLV8wdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T03:24:25.000Z",
+      "pub_sort_dt": "2026-09-25 11:24:25"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在美国与中国的一场关键角逐中，美国或许会胜出。但这可能意味着一些你并不乐见的结果。 - Slate Magazine",
-      "title_cn": "在美国与中国的一场关键角逐中，美国或许会胜出。但这可能意味着一些你并不乐见的结果。 - Slate Magazine",
-      "url": "https://news.google.com/read/CBMif0FVX3lxTE8tUGRnd19ubzJWdFdBUjdoekJsM3c4bGRMV3d6QnFvM0hfbjd6TGJ0eV9hemZEVlAzdExtRGNMTFEycnJXelJHRUZYZ0xnVzVxZzVualExMURPbWY1LTh6Ul9QM2ExTXJWTnFXNS1sZEdPamZYdFdKMVN5MDI0akk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T17:52:00.000Z",
-      "pub_sort_dt": "2026-09-25 01:52:00"
+      "title_en": "出席中国国家主席习近平国宴的嘉宾包括埃隆·马斯克、萨姆·奥尔特曼 - The Washington Post",
+      "title_cn": "出席中国国家主席习近平国宴的嘉宾包括埃隆·马斯克、萨姆·奥尔特曼 - 《华盛顿邮报》",
+      "url": "https://news.google.com/read/CBMi2AFBVV95cUxOSUJBSjM1MHJNQ1B1eTdUSFhldmxEOFJpNVRrSkJYSk9HWG5Cb3VZd3dWSVFsbmR6WWhBS3c3Z29mWVRBRjBtUG1lOTllRUxhbks2R25FMVQxakg2cGFBRHB6VmZ0RjJRa3ZBTGZkeXYycUZCdHdqczY0Q3ZuczhPa2V6R0ZoZWtYZVZxVzY1bXlhQkR1UV93ZDZreVl6aXhrUEN3Y2wtUmY4eWVmaG01WHozY1RaSWh1cV9KamZMSjhhZ3FpREQzMDNfazZBbTVyclpNZUY0Qko?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T01:39:41.000Z",
+      "pub_sort_dt": "2026-09-25 09:39:41"
     },
     {
       "source": "China Buzzing",
-      "title_en": "独家 特朗普政府在秘密会谈中就疑似核试验一事向中国施压 - WSJ",
-      "title_cn": "独家特朗普政府在秘密条约中疑似向中国施压的核试验一事 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMi1gFBVV95cUxNOHp1cHpGMHY1M2dCcFlVVUtCcXl1a3l0dUd0MnBJcEIxWlIxZXlGWThyeTdPVFZhdUlCVmRnaTBuR1VRRFV5WHpoXzZXVkRiZVhJRFJ6Rmk3WFY5MndFZ1RtX08tUTl0N0tqN0VTT2l6UGdlSURpdFBRNWh3TERGYkgxbG54TFhhckFzVWJTblRIanA3Vjhhd3o1QzhvMm43TWYyTEhUOVMxNEhEcTJ0SjBzOEVpRVh5TkxqcWJKSmkyT3NuZHhDY2VfNnpwTm1oYVFfUWFn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T17:00:00.000Z",
-      "pub_sort_dt": "2026-09-25 01:00:00"
+      "title_en": "中国国家主席习近平呼吁美国在人工智能领域开展合作 - CNBC",
+      "title_cn": "中国国家主席习近平呼吁美国在人工智能领域开展合作 - CNBC",
+      "url": "https://news.google.com/read/CBMif0FVX3lxTE5faXlDUXkxSHV5eDVsT3dYOW9sWGY2TTBKR3RmR1Y5dzd4Z0pNVldWWkZfTTFlOUlSZVlnRnBpelRRWG4wTjNUTURkYUlwWk1MSEs5Ry1CNUFqZkdPckYxSW14c3JJbjU4bmNoVjRhYnVVLUJjQVlvRUVDbEU5THfSAYQBQVVfeXFMTWlZWEt3cFEwSGNQZGExUWY2VERkUTdhQ0dZLXY0Q2N0aDFIMzF2VnBFeFBfSC16RFp6RHVVdVRJYmRzZjlKUDhKRmJ4VzZCWVNGNkJqeGVwN1RNX0h6WVRWXy1FTTRxOU9aREJIVmNLVWl2UDR4ZS1MTDFPTDZIVEhVY3dU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T01:22:00.000Z",
+      "pub_sort_dt": "2026-09-25 09:22:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "习近平携“礼物”而来：2只大熊猫和10万份学生签证 - thehill.com",
-      "title_cn": "习近平携“礼物”来袭：2只大熊猫和10万份学生签证 - thehill.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQU1lxd2FxX18zYTBoQUpZclViX0NIWGZvYWFoMTNfTUlwRGR2UXZmaFpFdEFtSVhoYTZGMDVkQWlmcG5fOF9OMXdRbjJ5TWlMWkdrSjU1cl84VE5XVlVrRmFRX2lDRWthSWJjN0g1c3ZRd2IzRE9PQU9nZERBbEU1VmFjV1BPZHFlZDJwa0xKeGcyYS1wTVotTmN6bWtuOGJhcVRFZ0Q1SFJLbTVPNkxJRXdR0gG3AUFVX3lxTE9wSUNoMjlRWWJCMlpxYTFONlh3MEsxbnhFVGlkQVJpSy01OFdjckJaeVVKSDVJOEsyYTZyTWhUaW9NeFluZ2t5WTlYYl9DZDhHR0ExMXppcUpQY0Frbm9vWUI1Yi1IZGFuWWtJZU02aEZJdzRPQ01JR2dyNjNZOU0yeWRtdlZxWFZPemxpeHJFcHl5RFZIS3h4RzhnTXNKLWV3N1pZRUs2aTBlajh6bXhWcy0yYXdrMA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T16:49:00.000Z",
-      "pub_sort_dt": "2026-09-25 00:49:00"
+      "title_en": "尽管特朗普曾将中国描绘成全球威胁，但他仍为习近平铺设了红地毯 - NBC News",
+      "title_cn": "尽管特朗普曾将中国绘画造成全球威胁，但他仍为习近平公式进行了红色互动 - NBC News",
+      "url": "https://news.google.com/read/CBMixgFBVV95cUxNMnJRSm9OWTUyMXlBeW0xWVZRYnRnaEEyTlhVUGdKU29TTmVXMkRCY3dsNDJ3NFFab0tXTHBTTzFMSWhpajVnMkFaTGFxTkJrdTh1TWNVcTVPMTZLQndrSUxONmoxVExqMG9qLWdnWkxrcnJ4VjFxTllaNVE1OERzU1duY196NjU3Q21jckxGNThXbUlQY1ZRTlhncUQ3RmFlci03alBSQWRWOWhmdlU1UmVQTzF6YnNNZF9wZzVLWWF5WWsxUFE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T01:03:00.000Z",
+      "pub_sort_dt": "2026-09-25 09:03:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普苦于找不到在对中国出口问题上对习近平施压的筹码 - The New York Times",
-      "title_cn": "特朗普苦苦找不到对习近平施压的中国出口问题 - 纽约时报中文网",
-      "url": "https://news.google.com/read/CBMie0FVX3lxTE9pdTdvT1d3VDU3UUlCc29RTGplMkFEN3FoTmRiMHJfYXRjaFNVTU5hYnVyTVN4amQwWkdXeXIzbzM1cnpQTXNJMGVoNkRscXVJcF9tMUFabldoLVoySGdxTm50bWEyWTNQWWVzTlMySng2dC1KMDFSYUpGQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T16:35:25.000Z",
-      "pub_sort_dt": "2026-09-25 00:35:25"
+      "title_en": "习近平呼吁美国“反对”台湾独立，特朗普则称赞中国是二战盟友 - The Japan Times",
+      "title_cn": "习近平呼吁美国“反对”台湾独立，特朗普则称赞中国是战争陆军 - 日本时报",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxNYlJQQmQzYkgxYjlpd21QUEc4UWtzSU9WU2RtdFFUWUVNS2ttZWYwRUNSQmliRE9zS0JZZ1liNHhvN1R2SEhBb050UVZLQjIxR1h4SkgxYkkwNzdHaXdVbGs4S1daUEhOM2RsYVRYV0RWMWJpRWF5TTlsUXl4UFk1QXBNRlV1QUFfZkZ1WFYwb1M4UXFFYzJsWkwyQjQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T00:30:00.000Z",
+      "pub_sort_dt": "2026-09-25 08:30:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中美峰会拉开帷幕，种种迹象表明，贸易停火将维持下去——至少目前如此 - Yahoo Finance",
-      "title_cn": "中美峰会拉开帷幕，众多表明，贸易停火将维持下去——至少目前如此 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMi1gFBVV95cUxOZW4ySFVnS0t5eXR4RmtuWlpLM0pReXpTRjZ1T3FfUExyVWU1a0ZuT1pqbjRqQTZVdHRneHozLWlFdWhad0tHWnVPM1NtUUZrYTF0YWhTWUg3SUZqekduU0ZpYnJLQXY1MmxBc0p4bTgwZUZBeVVXaEIwc0ZENHNCcG5IXzBOQkpTYm93ZHNaSDI5T1djUVYweDVONUkwZ0xMU2gxcHh2a1owazd1WWdDai1yU29CbUo4VnZIY29EN25hSXh0cHhROWRBYWZ4cjRKUEZCWXRn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T16:33:10.000Z",
-      "pub_sort_dt": "2026-09-25 00:33:10"
+      "title_en": "白宫特朗普与习近平国宴幕后直击 - USA Today",
+      "title_cn": "亚特兰大特朗普与习近平国宴幕后直击 - 今日美国",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNRWo0bWRQRldMT2dZaDV6MmhEMnF0QnhGSHBQLTNMRnl5WDRBNE9tOEN6dUpjVk9wY2xvOVBLdTJvQkVrZ3hHS25WaWNDcEhoSnhhQXM5c016SnhmVWhBa2RHVktfVU55VHdYdkQ0b1ZIYUxMU2NaVlIxTDZoMUxjc0RObEJ2bUpKR3RyeG5Sem1UUUU5RkZDVzlxYmZqdUJyVm1RdzVLdWRCLVlYMmlseXZ1M3NjZzJtTFZqdWdvazl0RHM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-25T00:11:00.000Z",
+      "pub_sort_dt": "2026-09-25 08:11:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在与特朗普的会晤中，习近平提出了避免中美军事冲突的条件 - The Guardian",
-      "title_cn": "在与特朗普的会晤中，习近平提出了中美军事冲突的条件 - 英国卫报",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxObWZQTjhjMFdDMERwWVlvODFMMXo0dHAwd3QxOHRkYVhSd1d6aktSemFqZWZFQTFDaV9LVzFUekVWVnllRURsYXczUkJrTC1tWkpEcVhXX1htT29MZjk2ZGpCZXlGeUJGVmxCaVZwMldpZnNkNEE4dFg0NDZwZUdPZzktM0tNN1ZzQWp2WWpsYlVJdl8tNURJNE1KbS1nWFE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T15:55:42.000Z",
-      "pub_sort_dt": "2026-09-24 23:55:42"
+      "title_en": "美国航空公司反对中国增加航班的提议 - Reuters",
+      "title_cn": "美国海关反对中国增加航班的建议 - 路透中文网",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxNbDBkaWlLM3pETlpjaW1nRHZKb0YydUR6UDUxVmsyblJmSzR5NFRlb183ZlpHNDQ3SXhNX2xMRXA1X1pFN3hsejhmdEJYbXdNNnF5V1J0NWtWbDJkTlhtVFhwZzhuUFJKWEpxSzdaRWZ5S0RiRFR3WnMydnozS29uSVlWM0E3djJXbGZZWDRJX0xLNDFBWDlSODNoSk1kQVg4cmRB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T22:18:09.000Z",
+      "pub_sort_dt": "2026-09-25 06:18:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普的中国国宴将宾客们家乡的特色菜肴列入了菜单 - The Washington Post",
-      "title_cn": "特朗普的中国国宴将家乡的特色菜肴列入菜单 - 华盛顿邮报",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxNcUlfNFJLQXFYOWxjbWFFRDdST3N2N2tXN2dWaVJQakNKVzRLYURQQXN1Q2d0Q01nUkxaTVNnejBOemU2RmJTbWl1a1lyZUd6a1FpSzMtc2VnWkFvY0FOY1ptYWxjbmk2T0c3NzFNN2Vydjk0bEpQemJkQjlkMV9tRm04VXN0cU5yZHE2NWhicl90SWVYSjNDb2ZxcEpUcERDeTVCRURCbGxnV1l0WVhV?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T15:43:32.000Z",
-      "pub_sort_dt": "2026-09-24 23:43:32"
+      "title_en": "在峰会上，特朗普和习近平尽管存在潜在紧张局势，仍展现出友好的姿态 - NPR",
+      "title_cn": "在峰会上，特朗普和习近平尽管存在紧张局势，仍采取了友好的姿态 - NPR",
+      "url": "https://news.google.com/read/CBMiakFVX3lxTE9lRFpjQkk2bFFoZDg5SUV4a2h4VDZhbG1ZNnREc0ZvTE1UUjMweGNGWktrd19yYS1pQUtOdkNZdWR3Q2xiTllIOVhJd0pmWnU3STVQSW91MVJWUm1CV3B6UXI5c2ZnaXhMOVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T22:05:18.000Z",
+      "pub_sort_dt": "2026-09-25 06:05:18"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在特朗普考虑在美国生产中国电动汽车之际，汽车制造商们将德国视为一个警示案例 - NBC News",
-      "title_cn": "特朗普考虑到美国生产中国电动汽车国际，汽车制造商将德国视为一个警戒案例 - NBC新闻",
-      "url": "https://news.google.com/read/CBMimgFBVV95cUxQX19veWFwR0NRR2M3ZW1INnE1aDU3Rm9scmJQdGRIQmU1WXpqQWZZc3Z2c3k4MlkwTzJHanRkS2ZfeGRnbElGUFNjazVwRXpBMUFOUm1VY1FLZ3EyYVVMWnc0U3A3VlhkRzVCWmNkMHZIcTgwR0I0cTcyb3h1S2lsQk1ERjNEek1DTTlsVjdPTS1pTUI0dkZaTklR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T14:44:03.000Z",
-      "pub_sort_dt": "2026-09-24 22:44:03"
+      "title_en": "特朗普和习近平在椭圆形办公室举行中美会谈 - dw.com",
+      "title_cn": "特朗普和习近平在椭圆形办公室达成中美协议 - dw.com",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxPc3NYc2Y3U0lONkV6enR1dndKOVV4T1hfUEp4UEc5M3B2S0J1QnB2YndKQ3VkTWhwTUtfZnFROUlDZkFHZEtVVHd1NVpkWUt2RURSejN5cmZDZXU2TE9JVTZLaU1pRG1GQkVmX2Y2ZzN3WHhNXzhTWWRBWUc3UDItLVhKUTdkQjAwM21j?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T20:38:26.000Z",
+      "pub_sort_dt": "2026-09-25 04:38:26"
     },
     {
       "source": "China Buzzing",
-      "title_en": "参议院共和党人：伊朗领导人“属于一个爬行动物群落”，该群落还包括中国、俄罗斯和朝鲜 - The Hill",
-      "title_cn": "祈祷者：伊朗领导人“属于一个攀爬行动物群”，该群落还包括中国、俄罗斯和朝鲜 - The Hill",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxQSF9reG4telRFNWtCTW1hQnZNRzVBSVE0UzVmbG1kS2Yyd3pBZkJsSGtHYWdkUWxtSllqdUpZOGVuWFFyUlh6MkhCYlBBVmFIT0lBWDQ1dk5RRDhtZGR2ZnM4NVFMaTR6UnRkb1NIX2xuRWpEaG1lai1rTnBKWGRiZTRva0NJTC1ZQ3d4WTdtUFJSM0xNVkdjUVZwSzR0Z9IBowFBVV95cUxOeVVyMWFSZi1RWGRQODh2bU5QQ2lpTlk1VmFyMktZdlppSXNNcHJLa3hCLXJtbmc5SndwSXB4SGZCT1BRQXNfZERxVW9BaTNqR1paSW54cnJpM2RocGkwUDVTX2NfenhSaFFqbExQak45RU05M0JYZzllNExlTGJzMW1PdlR5U3hES3FiWTVLaGFxSXpWanZsUU12NkhpWk1GNGtZ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-24T13:59:00.000Z",
-      "pub_sort_dt": "2026-09-24 21:59:00"
+      "title_en": "美国参议员推迟了永久性禁止中国汽车进口的努力 - Reuters",
+      "title_cn": "美国疫情推迟永久性禁止中国汽车进口 - 路透中文网",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxOaENSMVJIRkFMV2ZDN01WR3R6SjZwY1BnQzhndHp6NlhLMEtORUliZUVBYmI0SWJiMlY5ckg3Z1c4a1lmYlhLUm13dy05Q2RfaDZPeHFhUElUeUNIYkZpTGExLWhaMHRlTWtIZFBOSnI4bXNESmZmN3cxR1ZqUHpPUFFRZ1diNkJyR1YtYWFGaUdvRWtWZ28tQ2dYNnpwTVY2NUNHRQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-24T18:22:00.000Z",
+      "pub_sort_dt": "2026-09-25 02:22:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "解读：什么是“台湾独立”？台湾是否已经独立？",
+      "title_cn": "解读：什么是“台湾独立”？台湾是否已经独立？",
+      "url": "https://reut.rs/4hdBCsJ",
+      "pub_raw": "2026-09-25T03:37:22.240Z",
+      "pub_sort_dt": "2026-09-25 11:37:22"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港“Buy&Ship”瞄准东京上市，加速拓展日本市场",
+      "title_cn": "香港“Buy&Ship”瞄准东京上市，加速拓展日本市场",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/hong-kong-s-buy-ship-eyes-tokyo-listing-in-japan-expansion-push",
+      "pub_raw": "2026-09-25T03:21:33.451Z",
+      "pub_sort_dt": "2026-09-25 11:21:33"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "为何台湾问题是中美关系中最敏感的议题",
+      "title_cn": "为何台湾问题是中美关系中最敏感的问题",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/why-taiwan-is-the-most-volatile-issue-for-us-china-relations",
+      "pub_raw": "2026-09-25T03:05:26.452Z",
+      "pub_sort_dt": "2026-09-25 11:05:26"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "以下是特朗普与中国国家主席习近平举行的国宴的宾客名单",
+      "title_cn": "以下是特朗普与中国国家主席习近平举行的国宴宾客名单",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/here-s-the-invite-list-for-trump-s-state-dinner-with-china-s-xi",
+      "pub_raw": "2026-09-25T02:49:19.755Z",
+      "pub_sort_dt": "2026-09-25 10:49:19"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "特朗普总统与中国领导人习近平举行了峰会，这场峰会仪式感浓厚但成果寥寥，掩盖了双方在贸易、技术以及北京方面对伊朗的支持等问题上的重大分歧。",
+      "title_cn": "特朗普总统与中国领导人习近平举行了峰会，庆祝峰会气氛浓厚，但成果却寥寥无几，掩盖了两国在贸易、以及北京方面对伊朗的支持等问题上的重大技术损失。",
+      "url": "https://on.wsj.com/4rEX0un",
+      "pub_raw": "2026-09-25T02:49:19.634Z",
+      "pub_sort_dt": "2026-09-25 10:49:19"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "特朗普总统周四在白宫东厅举办了一场盛大的国宴，以表彰中国领导人习近平。",
+      "title_cn": "特朗普总统周四在白宫东厅举行了一场盛大的国宴，以表彰中国领导人习近平。",
+      "url": "https://on.wsj.com/4ho0zAf",
+      "pub_raw": "2026-09-25T01:46:38.617Z",
+      "pub_sort_dt": "2026-09-25 09:46:38"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "科技巨头与特朗普在盛大的国宴上款待中国国家主席习近平",
+      "title_cn": "科技工会与特朗普在盛大的国宴上款待中国国家主席习近平",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/tech-titans-join-trump-to-fete-china-s-xi-at-lavish-state-dinner",
+      "pub_raw": "2026-09-25T01:14:19.511Z",
+      "pub_sort_dt": "2026-09-25 09:14:19"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国航空公司反对中国增加航班的提议",
+      "title_cn": "美国海关反对中国增加航班的建议",
+      "url": "https://reut.rs/4iHA8bf",
+      "pub_raw": "2026-09-24T23:23:19.181Z",
+      "pub_sort_dt": "2026-09-25 07:23:19"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "白宫正在通过秘密会谈就疑似核试验一事向中国施压，而共和党议员们则否决了旨在结束伊朗战争的最新议案。更多详情请参阅今天的《新闻速递》通讯：",
+      "title_cn": "白宫正在通过秘密决议就疑似向中国施压的核试验一事进行，而庆祝总理们则否决了旨在结束伊朗战争的最新议案。更多详情请参阅今天的《新闻速递》通讯：",
+      "url": "https://on.wsj.com/4herCPO",
+      "pub_raw": "2026-09-24T23:23:19.139Z",
+      "pub_sort_dt": "2026-09-25 07:23:19"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "习近平在一次罕见的通话中敦促特朗普“反对”台湾独立",
+      "title_cn": "习近平在一次罕见的通话中敦促特朗普“反对”台湾独立",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/xi-presses-trump-to-oppose-taiwan-independence-during-summit",
+      "pub_raw": "2026-09-24T22:04:16.607Z",
+      "pub_sort_dt": "2026-09-25 06:04:16"
     },
     {
       "source": "Bloomberg",
@@ -345,7 +425,7 @@
     {
       "source": "Bloomberg",
       "title_en": "参议员表示希望进一步了解被转售至中国的F-35零部件情况",
-      "title_cn": "参议员表示希望进一步了解被转售至中国的F-35零部件情况",
+      "title_cn": "动力表示希望进一步了解被转售至中国的F-35零部件情况",
       "url": "https://www.bloomberg.com/news/articles/2026-09-24/top-intelligence-panel-democrat-seeks-briefing-on-f-35-parts",
       "pub_raw": "2026-09-24T20:45:40.700Z",
       "pub_sort_dt": "2026-09-25 04:45:40"
@@ -361,7 +441,7 @@
     {
       "source": "Bloomberg",
       "title_en": "哈维尔·米莱想要一辆Cybertruck，并为阿根廷人购买中国车辩护",
-      "title_cn": "哈维尔·米莱想要一辆Cybertruck，并为阿根廷人购买中国车辩护",
+      "title_cn": "哈维尔·米莱想要一辆赛博卡车，并为阿根廷人购买中国汽车辩护",
       "url": "https://www.bloomberg.com/news/articles/2026-09-24/javier-milei-wants-a-cybertruck-defends-argentines-buying-chinese-cars",
       "pub_raw": "2026-09-24T19:26:34.754Z",
       "pub_sort_dt": "2026-09-25 03:26:34"
@@ -373,14 +453,6 @@
       "url": "https://www.bloomberg.com/opinion/articles/2026-09-24/vietnam-can-t-beat-china-with-the-lights-out",
       "pub_raw": "2026-09-24T19:10:26.740Z",
       "pub_sort_dt": "2026-09-25 03:10:26"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "习近平在直率通话中敦促特朗普“反对”台湾独立",
-      "title_cn": "习近平在直率通话中敦促特朗普“反对”台湾独立",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/xi-presses-trump-to-oppose-taiwan-independence-during-summit",
-      "pub_raw": "2026-09-24T18:54:43.879Z",
-      "pub_sort_dt": "2026-09-25 02:54:43"
     },
     {
       "source": "Bloomberg",
@@ -421,78 +493,6 @@
       "url": "https://www.ft.com/content/37e6c9d9-2237-468d-b0c5-18b5d09c2ccc?syn-25a6b1a6=1",
       "pub_raw": "2026-09-24T15:28:26.294Z",
       "pub_sort_dt": "2026-09-24 23:28:26"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：抗议中国国家主席习近平访美",
-      "title_cn": "直播：抗议中国国家主席习近平访美",
-      "url": "https://youtube.com/live/QKc7rxJfWwU",
-      "pub_raw": "2026-09-24T14:41:43.498Z",
-      "pub_sort_dt": "2026-09-24 22:41:43"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：特朗普在华盛顿欢迎中国国家主席习近平",
-      "title_cn": "直播：特朗普在华盛顿欢迎中国国家主席习近平",
-      "url": "https://youtube.com/live/AF_OCj66deU",
-      "pub_raw": "2026-09-24T14:41:43.494Z",
-      "pub_sort_dt": "2026-09-24 22:41:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "在特朗普与习近平峰会前夕，中国避开价格高昂的巴西大豆",
-      "title_cn": "在特朗普与习近平峰会前夕，中国关注的巴西大豆价格昂贵",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/china-shuns-costly-brazil-soybeans-ahead-of-trump-xi-summit",
-      "pub_raw": "2026-09-24T14:25:46.391Z",
-      "pub_sort_dt": "2026-09-24 22:25:46"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "古驰新款“中国制造”运动鞋打破了意大利的传统",
-      "title_cn": "古驰新款“中国制造”运动鞋打破了意大利传统",
-      "url": "https://reut.rs/3TQnFYC",
-      "pub_raw": "2026-09-24T14:25:46.330Z",
-      "pub_sort_dt": "2026-09-24 22:25:46"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国学生在全球学校考试中的成绩位居前列",
-      "title_cn": "中国学生在全球学校考试中的成绩排名居前列",
-      "url": "https://www.economist.com/china/2026/09/24/chinas-kids-rank-near-the-top-in-global-school-tests",
-      "pub_raw": "2026-09-24T13:38:41.960Z",
-      "pub_sort_dt": "2026-09-24 21:38:41"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "德国汽车行业游说团体警告中国贸易失衡问题，支持依据世贸组织规则采取应对措施",
-      "title_cn": "德国汽车行业游说团体警告中国贸易失衡问题，支持世贸组织规则采取应对措施",
-      "url": "https://reut.rs/4ycEnQP",
-      "pub_raw": "2026-09-24T12:51:40.393Z",
-      "pub_sort_dt": "2026-09-24 20:51:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "库恩纳格尔首席执行官认为，中国市场和人工智能设备正推动货运需求稳健增长",
-      "title_cn": "库恩纳格尔预计，中国市场和人工智能设备正推动货运需求货运增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/kuehne-nagel-ceo-sees-china-ai-gear-driving-solid-cargo-demand",
-      "pub_raw": "2026-09-24T11:17:42.243Z",
-      "pub_sort_dt": "2026-09-24 19:17:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "文件显示，在特朗普与习近平会晤前，美日官员就中国限制钇出口一事进行了讨论",
-      "title_cn": "文件显示，在特朗普与习近平会晤前，美国官员就中国限制钇出口一事进行了讨论",
-      "url": "https://reut.rs/4iFJxA6",
-      "pub_raw": "2026-09-24T11:01:58.525Z",
-      "pub_sort_dt": "2026-09-24 19:01:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "台湾大幅削减短期债券发行规模以提振流动性",
-      "title_cn": "台湾大幅削减短期债券发行规模以提振流动性",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/taiwan-cuts-short-term-debt-sales-by-record-to-boost-liquidity",
-      "pub_raw": "2026-09-24T10:14:23.263Z",
-      "pub_sort_dt": "2026-09-24 18:14:23"
     }
   ]
 }
