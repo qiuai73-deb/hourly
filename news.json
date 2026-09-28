@@ -1,99 +1,187 @@
 {
-  "update_cst": "2026-09-28 12:01:09 北京时间",
+  "update_cst": "2026-09-28 18:01:05 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 11,
+    "Bloomberg": 8,
     "Financial Times": 3,
-    "Wall Street Journal": 1,
-    "Reuters": 5
+    "Wall Street Journal": 2,
+    "Reuters": 7
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国选手钟在波特兰勇夺奖牌 - Asia-Pacific Golf Confederation",
-      "title_cn": "中国选手钟在波特兰勇夺奖牌 - Asia-Pacific Golf Confederation",
-      "url": "https://news.google.com/read/CBMigwFBVV95cUxQNjU3bkdFdTJPVXRRWFBETTN2N3FZOTYtS3VIV1hFdmJia1lzNG9HVHNvZVNPNlNQTVBndDg0OWNEcXluY0hnZURmMElXZV9hVUR2MkhvYXBrUUN1bHFqN3JyVkhNWF9aUDhBRV94MnFlR01NenRDcl9sVEtlOVFMSmV3TQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T03:14:45.000Z",
-      "pub_sort_dt": "2026-09-28 11:14:45"
+      "title_en": "字节跳动占据中国数据中心容量的五分之一：SemiAnalysis - South China Morning Post",
+      "title_cn": "字节跳动占据中国数据中心容量的五分之一：SemiAnalysis - South China Morning Post",
+      "url": "https://news.google.com/read/CBMizwFBVV95cUxNQ1AxSGFLRnViWDlIX1MzU25OME5DRG9VWTRYdC1hOGxRSEhYUTlxZ3AtU1JTUHl0Qkt4eFM1X0x0V2pLODBtb20xdS1mb3lybnZkTjI1UmRfR1pzVG9XRnNraEFKQVZmLWVKdk81dG1yNWFVQUlYYUx3RmlFTnhBT1hoNko1T1hIOURyZDktQ0x6MzNURUhWTTRjaDNGNkEyZ2ZKVGM0cm9Fc2k2T2k2Qy1URXlraERrdEJZOS1mQVNKaXFrRG9iMUlPUkczYVHSAc8BQVVfeXFMTWE5X21qVFZuWFJpX1RaUmVvc3NoNWlIazdPWFhqU1BhNEhvWEVMOUg0SmZBa3l5ZTBfQi15cUFVZ2RhV1p1SS1Eam1ZREw1Q1phRE9TYlFsM2F5WmlFVzFIV012SmotdWt5V1NlU0c1Z2w4MHZZX3FtTENMMUtwM2FJZFE1NklId1g4SWFUUEZrNXFhR0lCOUtGVTlSZGpid3U2U0VyU0hoS25iVThFbXc3Z0swNDhhdUR3c2tOMnRvWUE2eExkZkoybFgtU0l3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T09:00:41.000Z",
+      "pub_sort_dt": "2026-09-28 17:00:41"
     },
     {
       "source": "China Buzzing",
-      "title_en": "前八个月，中国主要工业企业利润增长15.7% - chinadailyasia.com",
-      "title_cn": "前八个月，中国主要工业企业利润增长15.7% - chinadailyasia.com",
-      "url": "https://news.google.com/read/CBMiWEFVX3lxTFBabEtOM3FDWnp2NGNkNGdjeDhidjVHQl8wRzJJVThEaU1YLWVsaUJsd1VvX2g3VXprdy1tR0dQdFM2d2ZxUmI2TzBlSGI3cnU1R0c4VjFHSjQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T03:11:54.000Z",
-      "pub_sort_dt": "2026-09-28 11:11:54"
+      "title_en": "英伟达股价或将受益于中国市场——这与特朗普和习近平的会谈毫无关系 - Barron's",
+      "title_cn": "英伟达股价或将受益于中国市场——这与特朗普和习近平的会谈毫无关系 - Barron's",
+      "url": "https://news.google.com/read/CBMiiAFBVV95cUxQTEJqbVNWR2d6aWZIOHVnQ0h4a0pXUkw2UXdfcTZFSndNai1Bd3FpRFplYVVoaE10XzJHSlJOUWhBUWwzMXZhNmxRaUJud1JYNHZiYlp2M0NzUTg3SlYyazRpQ2hRaDhSWUJ2S2duaGNvM0M5cmg1NHg3WHNzQUwyd1ZvMzh6YVhT?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T09:00:00.000Z",
+      "pub_sort_dt": "2026-09-28 17:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "三菱电机将支援尼泊尔与中国边境附近因洪水和泥石流引发的救灾工作 - marketscreener.com",
-      "title_cn": "三菱电机将支援尼泊尔与中国边境附近因洪水和泥石流引发的救灾工作 - marketscreener.com",
-      "url": "https://news.google.com/read/CBMi5wFBVV95cUxNaDRvUGg1d2dhTE9PZU44aG1MU1l3b2pxZ1kxcFRtc0FUY1J2Q3ptOC15aW1YQU9PaTJrSXQ0OWtfd2hmd2ZCblItM252bU5FdGpSNTFSbkxxVkFYWTB4bEExeHFKVkw3dnZoUkdlSW01XzlKNVc3eHRvNFdZdTRTR1ZkNlpYNFVaV00yNGxKMWFjRFNmanMwXzN1OGx6THMtcFh5TzVOM0ViUGhubVFOaV9rRl9hN1VhZ01fbFQwZEVDd2FvU0JhNDVNY09fWlhFSWRyR3NwUl9UR002cGxJOXFNN3ZzSnM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T03:00:08.000Z",
-      "pub_sort_dt": "2026-09-28 11:00:08"
+      "title_en": "中国中秋节票房突破4000万美元 - news.cgtn.com",
+      "title_cn": "中国中秋节票房突破4000万美元 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxOUFpXeG1RVUdmVUhLT2FKYk9hTzdaTWRaVGI0NlRKLUowSlVDUmR5b3dLSWlJeW1fN1RpUmxVZmFQbEp0dnY1ZGhHdEFreDRBZGRTRzl2dTNxZTFudElPSjlDVWQxSUlJT2d1TVZGdzBvMTJhZEJkdHQ3ZFJxOXh1bFFTbjYzb2p2cGNGVm1hQ0QxNG90N3htNXlkcGFnOFUwZXB0N04wY21hWEtwN1I3TW54eXkwRE0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:53:07.000Z",
+      "pub_sort_dt": "2026-09-28 16:53:07"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国上美集团在全球收购热潮中收购了死海护肤品牌Ahava - Dealroom.co",
-      "title_cn": "中国上美集团在全球收购热潮中收购了死海护肤品牌Ahava - Dealroom.co",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxPcTJmRjB4bjlnOHhsMVlNRThkZEdaN29La0twV0ZwaFAxQkVGU3pJeTNfWDN2alZrZUVWZGhoaGhBYlNkN3F1eXNHYXViRjJMdHVfcHBrMlNTMmVxMTE0c0NMQnNPZVZDT2h5VFhiNGZtU25ReG1jWERsdE9BUVJQZnNsNjU4ak9QaVlfS3RuREdHbWt1cDhCdTEwcnB2TlVsSEg0WWx6ZmxsM25xaHhJ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:53:08.000Z",
-      "pub_sort_dt": "2026-09-28 10:53:08"
+      "title_en": "中国扩大出行限制范围，将顶尖人工智能人才的家人也纳入其中 - Bloomberg.com",
+      "title_cn": "中国扩大出行限制范围，将顶尖人工智能人才的家人也纳入其中 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxQalFiWXh0M2NldFo4X2p5d2dhZmtRbVhVOW4xT1hoek5ZRWdGbkpFTTdQSThwSUlBM2Z5dEtYXy1MM3I0UVVVT093M0pGUkNkT0hUaTZEZ2xrdEpjQlBVUUpGdjVVSHBNYkxBMlY0Ql9ORjJtQVRJMm0tYVhXRGp0bGNFTUE0SFNCaGhYVjhzZ3dnNkw4WGI4RmpzMXQ5Nzc1b2ROMU85a2dnRUx0ajdySm42UnpPQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:43:31.000Z",
+      "pub_sort_dt": "2026-09-28 16:43:31"
     },
     {
       "source": "China Buzzing",
-      "title_en": "全球基金结束对中国股市长达四年的低配 - Bloomberg",
-      "title_cn": "全球基金结束对中国股市长达四年的低配 - Bloomberg",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQQWo0cFZPYWcza3Zqc1RwQlZXZ0lwSXFPaFlSRkRmdmpoRHRzOUp1SXF4VkdFZjdndUhmX3J1aXBMaE55Qjl5VmdXdzcyUnVHcXVCNGp6dmQxYzZuOFFwQ1Bfd3MzZy1HckRCckkxcnp1ZFREOEY4SnVMUEJES0ppMWg1SHR2VWFDNnh3YWVndmQxVEJmQnZ2QjFGRlNaalNNWEgwMnBWWlJpSG9RNUUyVzNPTVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:41:00.000Z",
-      "pub_sort_dt": "2026-09-28 10:41:00"
+      "title_en": "大使称，特朗普询问中国国家主席是否有意购买美国武器 - WANE 15",
+      "title_cn": "大使称，特朗普询问中国国家主席是否有意购买美国武器 - WANE 15",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxOMkFrcGh1QTBwa1Y1cjJYUVlIek9zNWJ1ZS11Qndvc0RacXlPWE93RW1pUTlfNWlRT3ZQcWsyVDc0Q3ZOZDYtaHhfNV9VV08yT2dheHFYU2hPR1BJOXpfRkpGdlJRano0Zm1DN2V4YXJGdWNRdnlucnBiSDc5VFJDSXppZk43TWxPakk3VjE4YlNLbXhwMkFlQ3NaYjd2eVFHeVlpNldGcEJGT3RTWnQ3MUlfUENiaGVBLWJMamt4QdIBxAFBVV95cUxPTENwQjFHaU1wSW1iVEtFa3NmQXRsN18ybm9yX0Vhb0NmaWNvVWlremRoVXZoUm4ydlFBZ2g2dnhFTE5iSUNLS1EyUmhlSmg4Yk16UWp5aGN0S1poM2NJSEFKaFdfTjdkQktEeVhCSG9jbnB0eUxtM01SUTFGT3ZwZjZMbmNrTTJhcmxFMXdWWDNWNmdkTVpWbFYwbEdHdXhmZkJ1bE9MZFhxYmg1WmI5Qm9pN3JEMHZhQ2QxWTRJTnZXVXR6?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:41:57.000Z",
+      "pub_sort_dt": "2026-09-28 16:41:57"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国纪念孔子诞辰2577周年 - news.cgtn.com",
-      "title_cn": "中国纪念孔子诞辰2577周年 - news.cgtn.com",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxNRXpkRWhkcTNEd3ZSdlc5VUNpZDNmYlZ5WmVJYmVzY0VaOUVGUDB4dU12Smd2X1VXZ0Q4WWpKcXpHbmVXZk9MamR4WlJ6Rmk1RmtxN1lMLWpGdGdCY2I1anZ3UEQ0THVNZVh2NkpfVm9zQXd2Qll0a19zT1J2TUk0Q0tpUmpYVEs1RkRTV0NGdFJ6aXlheFV3ODhGTFNQZWZYZzhBTElrbGNUWW1yMnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:40:10.000Z",
-      "pub_sort_dt": "2026-09-28 10:40:10"
+      "title_en": "特朗普与习近平会晤后，中美双方公布了各自价值300亿美元的互减关税商品清单 - ClickOnDetroit | WDIV Local 4",
+      "title_cn": "特朗普与习近平会晤后，中美双方公布了各自价值300亿美元的互减关税商品清单 - ClickOnDetroit | WDIV Local 4",
+      "url": "https://news.google.com/read/CBMi4AFBVV95cUxQenN3cHp4RkJPdGJwa2w3TUhGUkNISUlsQnBrbzdTYXZTSXNNR0k5cWhObmt1Y3dVUTFheUd6aU1VLVRiT2ZxZWU2QU1DbTl4bGdOd1hmM2FLM19XajYxd2xSY0stRDNaX3NXaE81eW1TbmVKd3hJazA0NVVaSnJITUdDRmFVYVBBcGRTMmtZaUJPdU40cGpwZXBFUUZMbGNFZU4xZnl4Q1ZpVi05MWFMOHZDVVNwelRjU3hMcnQ5M0lubDhPS1FSTHV4M0lWbGp5Z09OdjNWaVRxTzItSVU2dQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:41:04.000Z",
+      "pub_sort_dt": "2026-09-28 16:41:04"
     },
     {
       "source": "China Buzzing",
-      "title_en": "大范围的中美交流对于加深两国人民之间的互信至关重要 - asianews.network",
-      "title_cn": "大范围的中美交流对于加深两国人民之间的互信至关重要 - asianews.network",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxNVERQOUR1VWpwMnN4bWdVa3ZxbUw2U0NSbll0a3FrZU9Fc1J1WUNqRXhYVU1YMnY3QWFRQTZCOWR3R0NvV1pvNU5nSWE2VFN1TmpvMEZETVV1b2pRQWpna1ltU1kxWkVwNEZnaEFEaDJZc3R3OFJGNW8wbnZ2Tm9ETVVJVklfLWJkc0RvNjJEZ3lWYU5PNXlUZUhPQms?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:24:44.000Z",
-      "pub_sort_dt": "2026-09-28 10:24:44"
+      "title_en": "中国在全球绿色转型进程中的道路 - United Nations Development Programme",
+      "title_cn": "中国在全球绿色转型进程中的道路 - United Nations Development Programme",
+      "url": "https://news.google.com/read/CBMijwFBVV95cUxNaUdPWTM0XzZmeXhZVGJXTmFGdEpEMF9PRkxTeGdnZ1lPQVFhVm9kLUhIRUVieVN3ZUFFQlA0X1RBZ2U1Z1Z2QjRZU0dMdzBvVDhqQlhpdFNRWVlMRXlrMmtic0JMVFNtM0tTMFBmRmUtM3EyRDBYQTlieWhLMkNOQ0c2U3FTOTBhZ1ZFWXZndw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:37:50.000Z",
+      "pub_sort_dt": "2026-09-28 16:37:50"
     },
     {
       "source": "China Buzzing",
-      "title_en": "香港推出八只ETF，以满足中国投资者对海外资产的需求 - Reuters",
-      "title_cn": "香港推出八只ETF，以满足中国投资者对海外资产的需求 - Reuters",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxNYTZJZzg2WmRHcjhsY0hVOFV6elgzVHNYVHhwS3Q2c0RlYWVfbTZXTVNHT0tSQ3hrVHVoeVVQWURPeGxOSWdpQ085OFpEVUFEQ1p6RmNMa1pqcEV0OUxCOFgxSDQtSkxlY2NYZjdtdW5oRi1oOXRoNjFLQUEtLWlmYWFUZ0tZTjlORUlMeUFvanVzbGF1SngxSE9XT2VjMDlfTVZtbTQ3Q0RueW5pZTd2RTkwcE16UjA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:18:00.000Z",
-      "pub_sort_dt": "2026-09-28 10:18:00"
+      "title_en": "中美将下调600亿美元商品的关税。以下是符合条件的产品清单 - CNBC",
+      "title_cn": "中美将下调600亿美元商品的关税。以下是符合条件的产品清单 - CNBC",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxNMHlEeXQ0RWlrT0FLaXY3REJBRUppVGI4M1pLcnNGc1VqUXYtejVsLU1aUHNQOVFOUmJqZkZEd3NGaDZST3VnYUd1TUNqTTNkb2p5THpYTUpRRFFBRm5SYlc5ekRVaC1UcWhFaWpvNVFRQ05wMThBcVY0dFFkclR5VmJB0gGHAUFVX3lxTE9zMmozc0QxT0xqa1NpamFXRjdkNVZYRUZmbi0wc3V4TUhaWUJOY3VBVVVnbnpoRG16YTR5UTdIWXp2N2UzQUtzQ191R2s0Y1haZ0pPREdRcHhJLUJiTmd0c2kyYWZOTnhqb0JfOVdWaG85OHhvaGZWcTZLbXpsQ25Od0NzRkt6dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:31:33.000Z",
+      "pub_sort_dt": "2026-09-28 16:31:33"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着经济失衡加剧，中国工业利润增速进一步放缓 - WTVB",
-      "title_cn": "随着经济失衡加剧，中国工业利润增速进一步放缓 - WTVB",
-      "url": "https://news.google.com/read/CBMiqgFBVV95cUxPakp3dmp6MzJBTFh3Nm1BN2tRaXpzamZ2d20xYXZrcVJ5T2o3R2NMZHI1T3VnNWZCcTBXeHdEbDlab1RVSlNIRWRKZlEtWXZVbEctZVV6R3VyRTNyVmp4RDR4amotODhNSE94Z1NZRlJaMkU5bzhQd1Jsem5tME9IWXJYOGg0dy1Jbnd5aUphZndBN0lNenk3andWcEhYSDdzNkN0QnhyZ2dKZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:05:59.000Z",
-      "pub_sort_dt": "2026-09-28 10:05:59"
+      "title_en": "《观点》 为何香港和中国内地绝不能忽视房地产市场的透明度 - South China Morning Post",
+      "title_cn": "《观点》 为何香港和中国内地绝不能忽视房地产市场的透明度 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxPVW8tLUpwQ1lwakxaZm93ZEFuRFNzU0phSTdVM1A0VWgtQ3pSOUdUaFFBOWkwWkNNWE1Sbi1JWko0NnJsQ2VtV0JQTks4MkZHdFp3ZG1qN2ZaUVVzVmtlbTJNNS1ObnlyMl9QS3Z2eWhMOHZ4YWgxWE9YVkVlX0FaQ3MtTmNMYnFpb201YmVreVdCSnpqOUwtN3RCVFJmSWlZQ2RQVFRMbGFXLUYwUGFUQXhwVFNQaTl2cFhibkotcE1nUU1yT0xZay0tS2twX09H0gHQAUFVX3lxTE9vV0JUMS15enNnTG9melNzMXYxb2hyX01VRXAxZ0lWc0p2cnhScDZ1WnMzRFdzZTd5dGFaTFlndHhwSFJablF5N0d1Z1M1cWItVnN5YmVDRGhURTZaZUl5R01wbmZfUW1lMWJfelR3YXVTRUd5WGNyUWE0bG1xOWU4VUlnZzNLTHN2MzNsY1I3WjNzVk5zc1FhQnVodHB1enlsamtqWTN2SEJlSVlPM25fUHZJWURiYjNDZUV5ZDRMc2UzckdmdWkyZVZfQkdjcXE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:30:14.000Z",
+      "pub_sort_dt": "2026-09-28 16:30:14"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国公布300亿美元对中国加征关税协议涉及的产品清单 - Bloomberg",
-      "title_cn": "美国公布300亿美元对中国加征关税协议涉及的产品清单 - Bloomberg",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxPejAwODBlZm1pdk5leVFwbHA2cnRWRkZXT2R2ejVDNjhtV01qb3ZFQ0hoMW9pWTVHN3dqOXBramZyY0RDdDJkMEQyUGRaVHh5QUFnak1SQ0c4dkp6aE5QYjdEd25ZMXFheXhRcmVXLXZJV1ZLNmk1MndtZ3FaNmNPcDNXSkxkV1Rvb2x6MmZBWVBvOV9rTmZMS0ljRENGWGY3d0ZFbFpTajZGVW1PZGdz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:04:00.000Z",
-      "pub_sort_dt": "2026-09-28 10:04:00"
+      "title_en": "中国西格酒庄在市场低迷时期筹集1500万美元，并承诺不会仓促进行IPO - Dealroom.co",
+      "title_cn": "中国西格酒庄在市场低迷时期筹集1500万美元，并承诺不会仓促进行IPO - Dealroom.co",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxOazhya3dGVWl3czEtTTJKWjZpUTNmTThuVDNna3pFRHk1M0RPakVDQ1pmSDBxYUpGb3VzeHoweUwtX1dqNXowWGxkbnd1Q3RaOE1ZczhWbjcxeTRnQTNRQldoQTBpNGtTUnNzdXlCVzdlTnRNZ1RXNjNIR1g2ODhodzd0X3lHQTBldVY0ZkZCSDhfUEtmTVpJQjQzR0xUck1iQ3lGbHNhSno?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:27:06.000Z",
+      "pub_sort_dt": "2026-09-28 16:27:06"
     }
   ],
   "media_news": [
     {
       "source": "Reuters",
+      "title_en": "特朗普与习近平的“僵局”峰会是中国收到的一个华丽的礼物",
+      "title_cn": "特朗普与习近平的“僵局”峰会是中国收到的一个华丽的礼物",
+      "url": "https://reut.rs/3Vi2GOS",
+      "pub_raw": "2026-09-28T09:50:20.235Z",
+      "pub_sort_dt": "2026-09-28 17:50:20"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "美国称，在珀杜发表言论后，暂无向中国出售武器的计划",
+      "title_cn": "美国称，在珀杜发表言论后，暂无向中国出售武器的计划",
+      "url": "https://on.wsj.com/4Aws0Rv",
+      "pub_raw": "2026-09-28T09:17:55.003Z",
+      "pub_sort_dt": "2026-09-28 17:17:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国扩大出行限制范围，将顶尖人工智能人才的家人也纳入其中",
+      "title_cn": "中国扩大出行限制范围，将顶尖人工智能人才的家人也纳入其中",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
+      "pub_raw": "2026-09-28T09:02:10.879Z",
+      "pub_sort_dt": "2026-09-28 17:02:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国表示，美中贸易停火期延长为推进谈判创造了空间",
+      "title_cn": "中国表示，美中贸易停火期延长为推进谈判创造了空间",
+      "url": "https://reut.rs/4hwd7Wy",
+      "pub_raw": "2026-09-28T06:55:58.548Z",
+      "pub_sort_dt": "2026-09-28 14:55:58"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "“习近平保住了面子”：中国对特朗普给予的平等待遇感到欣喜",
+      "title_cn": "“习近平保住了面子”：中国对特朗普给予的平等待遇感到欣喜",
+      "url": "https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-28T06:23:57.048Z",
+      "pub_sort_dt": "2026-09-28 14:23:57"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国表示将降低对美国农产品的关税，但大豆除外",
+      "title_cn": "中国表示将降低对美国农产品的关税，但大豆除外",
+      "url": "https://reut.rs/4iN9LRh",
+      "pub_raw": "2026-09-28T05:19:58.682Z",
+      "pub_sort_dt": "2026-09-28 13:19:58"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "关税下调后，交易员寻求中国买盘信号，谷物价格下跌",
+      "title_cn": "关税下调后，交易员寻求中国买盘信号，谷物价格下跌",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/grains-fall-as-traders-seek-china-buying-signs-after-tariff-cuts",
+      "pub_raw": "2026-09-28T04:49:04.379Z",
+      "pub_sort_dt": "2026-09-28 12:49:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受芯片和光通信类股下跌拖累，中国股市跌至一年低点",
+      "title_cn": "受芯片和光通信类股下跌拖累，中国股市跌至一年低点",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/chinese-stocks-hit-one-year-low-as-chip-optical-firms-slide",
+      "pub_raw": "2026-09-28T04:49:04.372Z",
+      "pub_sort_dt": "2026-09-28 12:49:04"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "总统表示，台湾必须深化与民主伙伴在无人机领域的合作",
+      "title_cn": "总统表示，台湾必须深化与民主伙伴在无人机领域的合作",
+      "url": "https://reut.rs/3Tq8Fka",
+      "pub_raw": "2026-09-28T04:18:13.094Z",
+      "pub_sort_dt": "2026-09-28 12:18:13"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "通用汽车对美国市场发出警告，汽车制造商正寻求避开中国竞争对手的“避风港”",
+      "title_cn": "通用汽车对美国市场发出警告，汽车制造商正寻求避开中国竞争对手的“避风港”",
+      "url": "https://www.ft.com/content/b4dde6f6-f91f-4d3e-8ce1-ab8be69dab47?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-28T04:18:10.989Z",
+      "pub_sort_dt": "2026-09-28 12:18:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "随着经济失衡加剧，中国工业利润增速进一步放缓",
+      "title_cn": "随着经济失衡加剧，中国工业利润增速进一步放缓",
+      "url": "https://reut.rs/3TlTDff",
+      "pub_raw": "2026-09-28T04:02:21.619Z",
+      "pub_sort_dt": "2026-09-28 12:02:21"
+    },
+    {
+      "source": "Reuters",
       "title_en": "习近平试图在二战叙事问题上争取特朗普支持，台湾方面予以回击",
       "title_cn": "习近平试图在二战叙事问题上争取特朗普支持，台湾方面予以回击",
       "url": "https://reut.rs/4ynf4f8",
@@ -163,176 +251,176 @@
       "url": "https://www.bloomberg.com/news/features/2026-09-27/china-s-tax-crackdown-squeezes-billionaires-harder-than-ever",
       "pub_raw": "2026-09-27T21:14:12.055Z",
       "pub_sort_dt": "2026-09-28 05:14:12"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "美国特使称，特朗普询问习近平中国是否愿意购买美国武器",
-      "title_cn": "美国特使称，特朗普询问习近平中国是否愿意购买美国武器",
-      "url": "https://www.ft.com/content/8b4690d4-7c02-48af-b117-56faf21c389d?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-27T20:42:03.503Z",
-      "pub_sort_dt": "2026-09-28 04:42:03"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据《The Information》报道，中国正考虑允许字节跳动和阿里巴巴购买英伟达的新芯片",
-      "title_cn": "据《The Information》报道，中国正考虑允许字节跳动和阿里巴巴购买英伟达的新芯片",
-      "url": "https://reut.rs/4huisxs",
-      "pub_raw": "2026-09-27T17:51:03.319Z",
-      "pub_sort_dt": "2026-09-28 01:51:03"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国周日在斯卡伯勒浅滩附近举行海空联合演习",
-      "title_cn": "中国周日在斯卡伯勒浅滩附近举行海空联合演习",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-conducts-air-sea-exercise-near-scarborough-shoal-on-sunday",
-      "pub_raw": "2026-09-27T11:01:01.093Z",
-      "pub_sort_dt": "2026-09-27 19:01:01"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台北官员称，美国“非常”理解台湾的防卫需求",
-      "title_cn": "台北官员称，美国“非常”理解台湾的防卫需求",
-      "url": "https://reut.rs/4yXuB50",
-      "pub_raw": "2026-09-27T09:58:07.876Z",
-      "pub_sort_dt": "2026-09-27 17:58:07"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国媒体称美国在管理人工智能方面负有责任",
-      "title_cn": "中国媒体称美国在管理人工智能方面负有责任",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-state-media-says-us-shares-responsibility-for-managing-ai",
-      "pub_raw": "2026-09-27T08:40:59.509Z",
-      "pub_sort_dt": "2026-09-27 16:40:59"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "黄金资源丰富的尼加拉瓜将该国十分之一的土地开采权授予了中国矿企",
-      "title_cn": "黄金资源丰富的尼加拉瓜将该国十分之一的土地开采权授予了中国矿企",
-      "url": "https://www.ft.com/content/452648fd-90d6-450f-9739-073f5b6a0d18?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-27T04:44:08.573Z",
-      "pub_sort_dt": "2026-09-27 12:44:08"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国向亚特兰大动物园派遣一对大熊猫：据中央电视台报道",
-      "title_cn": "中国向亚特兰大动物园派遣一对大熊猫：据中央电视台报道",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-dispatches-pair-of-pandas-to-atlanta-zoo-cctv-reports",
-      "pub_raw": "2026-09-27T04:27:56.481Z",
-      "pub_sort_dt": "2026-09-27 12:27:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普称，峰会后习近平“知道我对台湾问题的看法”",
-      "title_cn": "特朗普称，峰会后习近平“知道我对台湾问题的看法”",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-26/trump-says-xi-knows-how-i-feel-on-taiwan-after-us-china-summit",
-      "pub_raw": "2026-09-26T15:23:02.272Z",
-      "pub_sort_dt": "2026-09-26 23:23:02"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国在联合国发言中就伊朗和古巴问题对美国予以回击",
-      "title_cn": "中国在联合国发言中就伊朗和古巴问题对美国予以回击",
-      "url": "https://reut.rs/3VRuxpb",
-      "pub_raw": "2026-09-26T14:51:17.161Z",
-      "pub_sort_dt": "2026-09-26 22:51:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "习近平抓住特朗普停火的契机，力求在贸易和台湾问题上取得持久成果",
-      "title_cn": "习近平抓住特朗普停火的契机，力求在贸易和台湾问题上取得持久成果",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/xi-seizes-trump-detente-to-seek-lasting-gains-on-trade-taiwan",
-      "pub_raw": "2026-09-26T13:01:21.605Z",
-      "pub_sort_dt": "2026-09-26 21:01:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国经济的“体制转变”可能埋下全球风险：新经济",
-      "title_cn": "中国经济的“体制转变”可能埋下全球风险：新经济",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-26/china-s-economic-regime-shift-may-sow-global-risk-new-economy",
-      "pub_raw": "2026-09-26T10:57:53.390Z",
-      "pub_sort_dt": "2026-09-26 18:57:53"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国选手钟在波特兰勇夺奖牌 - Asia-Pacific Golf Confederation",
-      "title_cn": "中国选手钟在波特兰勇夺奖牌 - Asia-Pacific Golf Confederation",
-      "url": "https://news.google.com/read/CBMigwFBVV95cUxQNjU3bkdFdTJPVXRRWFBETTN2N3FZOTYtS3VIV1hFdmJia1lzNG9HVHNvZVNPNlNQTVBndDg0OWNEcXluY0hnZURmMElXZV9hVUR2MkhvYXBrUUN1bHFqN3JyVkhNWF9aUDhBRV94MnFlR01NenRDcl9sVEtlOVFMSmV3TQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T03:14:45.000Z",
-      "pub_sort_dt": "2026-09-28 11:14:45"
+      "title_en": "字节跳动占据中国数据中心容量的五分之一：SemiAnalysis - South China Morning Post",
+      "title_cn": "字节跳动占据中国数据中心容量的五分之一：SemiAnalysis - South China Morning Post",
+      "url": "https://news.google.com/read/CBMizwFBVV95cUxNQ1AxSGFLRnViWDlIX1MzU25OME5DRG9VWTRYdC1hOGxRSEhYUTlxZ3AtU1JTUHl0Qkt4eFM1X0x0V2pLODBtb20xdS1mb3lybnZkTjI1UmRfR1pzVG9XRnNraEFKQVZmLWVKdk81dG1yNWFVQUlYYUx3RmlFTnhBT1hoNko1T1hIOURyZDktQ0x6MzNURUhWTTRjaDNGNkEyZ2ZKVGM0cm9Fc2k2T2k2Qy1URXlraERrdEJZOS1mQVNKaXFrRG9iMUlPUkczYVHSAc8BQVVfeXFMTWE5X21qVFZuWFJpX1RaUmVvc3NoNWlIazdPWFhqU1BhNEhvWEVMOUg0SmZBa3l5ZTBfQi15cUFVZ2RhV1p1SS1Eam1ZREw1Q1phRE9TYlFsM2F5WmlFVzFIV012SmotdWt5V1NlU0c1Z2w4MHZZX3FtTENMMUtwM2FJZFE1NklId1g4SWFUUEZrNXFhR0lCOUtGVTlSZGpid3U2U0VyU0hoS25iVThFbXc3Z0swNDhhdUR3c2tOMnRvWUE2eExkZkoybFgtU0l3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T09:00:41.000Z",
+      "pub_sort_dt": "2026-09-28 17:00:41"
     },
     {
       "source": "China Buzzing",
-      "title_en": "前八个月，中国主要工业企业利润增长15.7% - chinadailyasia.com",
-      "title_cn": "前八个月，中国主要工业企业利润增长15.7% - chinadailyasia.com",
-      "url": "https://news.google.com/read/CBMiWEFVX3lxTFBabEtOM3FDWnp2NGNkNGdjeDhidjVHQl8wRzJJVThEaU1YLWVsaUJsd1VvX2g3VXprdy1tR0dQdFM2d2ZxUmI2TzBlSGI3cnU1R0c4VjFHSjQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T03:11:54.000Z",
-      "pub_sort_dt": "2026-09-28 11:11:54"
+      "title_en": "英伟达股价或将受益于中国市场——这与特朗普和习近平的会谈毫无关系 - Barron's",
+      "title_cn": "英伟达股价或将受益于中国市场——这与特朗普和习近平的会谈毫无关系 - Barron's",
+      "url": "https://news.google.com/read/CBMiiAFBVV95cUxQTEJqbVNWR2d6aWZIOHVnQ0h4a0pXUkw2UXdfcTZFSndNai1Bd3FpRFplYVVoaE10XzJHSlJOUWhBUWwzMXZhNmxRaUJud1JYNHZiYlp2M0NzUTg3SlYyazRpQ2hRaDhSWUJ2S2duaGNvM0M5cmg1NHg3WHNzQUwyd1ZvMzh6YVhT?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T09:00:00.000Z",
+      "pub_sort_dt": "2026-09-28 17:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "三菱电机将支援尼泊尔与中国边境附近因洪水和泥石流引发的救灾工作 - marketscreener.com",
-      "title_cn": "三菱电机将支援尼泊尔与中国边境附近因洪水和泥石流引发的救灾工作 - marketscreener.com",
-      "url": "https://news.google.com/read/CBMi5wFBVV95cUxNaDRvUGg1d2dhTE9PZU44aG1MU1l3b2pxZ1kxcFRtc0FUY1J2Q3ptOC15aW1YQU9PaTJrSXQ0OWtfd2hmd2ZCblItM252bU5FdGpSNTFSbkxxVkFYWTB4bEExeHFKVkw3dnZoUkdlSW01XzlKNVc3eHRvNFdZdTRTR1ZkNlpYNFVaV00yNGxKMWFjRFNmanMwXzN1OGx6THMtcFh5TzVOM0ViUGhubVFOaV9rRl9hN1VhZ01fbFQwZEVDd2FvU0JhNDVNY09fWlhFSWRyR3NwUl9UR002cGxJOXFNN3ZzSnM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T03:00:08.000Z",
-      "pub_sort_dt": "2026-09-28 11:00:08"
+      "title_en": "中国中秋节票房突破4000万美元 - news.cgtn.com",
+      "title_cn": "中国中秋节票房突破4000万美元 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxOUFpXeG1RVUdmVUhLT2FKYk9hTzdaTWRaVGI0NlRKLUowSlVDUmR5b3dLSWlJeW1fN1RpUmxVZmFQbEp0dnY1ZGhHdEFreDRBZGRTRzl2dTNxZTFudElPSjlDVWQxSUlJT2d1TVZGdzBvMTJhZEJkdHQ3ZFJxOXh1bFFTbjYzb2p2cGNGVm1hQ0QxNG90N3htNXlkcGFnOFUwZXB0N04wY21hWEtwN1I3TW54eXkwRE0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:53:07.000Z",
+      "pub_sort_dt": "2026-09-28 16:53:07"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国上美集团在全球收购热潮中收购了死海护肤品牌Ahava - Dealroom.co",
-      "title_cn": "中国上美集团在全球收购热潮中收购了死海护肤品牌Ahava - Dealroom.co",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxPcTJmRjB4bjlnOHhsMVlNRThkZEdaN29La0twV0ZwaFAxQkVGU3pJeTNfWDN2alZrZUVWZGhoaGhBYlNkN3F1eXNHYXViRjJMdHVfcHBrMlNTMmVxMTE0c0NMQnNPZVZDT2h5VFhiNGZtU25ReG1jWERsdE9BUVJQZnNsNjU4ak9QaVlfS3RuREdHbWt1cDhCdTEwcnB2TlVsSEg0WWx6ZmxsM25xaHhJ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:53:08.000Z",
-      "pub_sort_dt": "2026-09-28 10:53:08"
+      "title_en": "中国扩大出行限制范围，将顶尖人工智能人才的家人也纳入其中 - Bloomberg.com",
+      "title_cn": "中国扩大出行限制范围，将顶尖人工智能人才的家人也纳入其中 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxQalFiWXh0M2NldFo4X2p5d2dhZmtRbVhVOW4xT1hoek5ZRWdGbkpFTTdQSThwSUlBM2Z5dEtYXy1MM3I0UVVVT093M0pGUkNkT0hUaTZEZ2xrdEpjQlBVUUpGdjVVSHBNYkxBMlY0Ql9ORjJtQVRJMm0tYVhXRGp0bGNFTUE0SFNCaGhYVjhzZ3dnNkw4WGI4RmpzMXQ5Nzc1b2ROMU85a2dnRUx0ajdySm42UnpPQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:43:31.000Z",
+      "pub_sort_dt": "2026-09-28 16:43:31"
     },
     {
       "source": "China Buzzing",
-      "title_en": "全球基金结束对中国股市长达四年的低配 - Bloomberg",
-      "title_cn": "全球基金结束对中国股市长达四年的低配 - Bloomberg",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQQWo0cFZPYWcza3Zqc1RwQlZXZ0lwSXFPaFlSRkRmdmpoRHRzOUp1SXF4VkdFZjdndUhmX3J1aXBMaE55Qjl5VmdXdzcyUnVHcXVCNGp6dmQxYzZuOFFwQ1Bfd3MzZy1HckRCckkxcnp1ZFREOEY4SnVMUEJES0ppMWg1SHR2VWFDNnh3YWVndmQxVEJmQnZ2QjFGRlNaalNNWEgwMnBWWlJpSG9RNUUyVzNPTVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:41:00.000Z",
-      "pub_sort_dt": "2026-09-28 10:41:00"
+      "title_en": "大使称，特朗普询问中国国家主席是否有意购买美国武器 - WANE 15",
+      "title_cn": "大使称，特朗普询问中国国家主席是否有意购买美国武器 - WANE 15",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxOMkFrcGh1QTBwa1Y1cjJYUVlIek9zNWJ1ZS11Qndvc0RacXlPWE93RW1pUTlfNWlRT3ZQcWsyVDc0Q3ZOZDYtaHhfNV9VV08yT2dheHFYU2hPR1BJOXpfRkpGdlJRano0Zm1DN2V4YXJGdWNRdnlucnBiSDc5VFJDSXppZk43TWxPakk3VjE4YlNLbXhwMkFlQ3NaYjd2eVFHeVlpNldGcEJGT3RTWnQ3MUlfUENiaGVBLWJMamt4QdIBxAFBVV95cUxPTENwQjFHaU1wSW1iVEtFa3NmQXRsN18ybm9yX0Vhb0NmaWNvVWlremRoVXZoUm4ydlFBZ2g2dnhFTE5iSUNLS1EyUmhlSmg4Yk16UWp5aGN0S1poM2NJSEFKaFdfTjdkQktEeVhCSG9jbnB0eUxtM01SUTFGT3ZwZjZMbmNrTTJhcmxFMXdWWDNWNmdkTVpWbFYwbEdHdXhmZkJ1bE9MZFhxYmg1WmI5Qm9pN3JEMHZhQ2QxWTRJTnZXVXR6?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:41:57.000Z",
+      "pub_sort_dt": "2026-09-28 16:41:57"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国纪念孔子诞辰2577周年 - news.cgtn.com",
-      "title_cn": "中国纪念孔子诞辰2577周年 - news.cgtn.com",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxNRXpkRWhkcTNEd3ZSdlc5VUNpZDNmYlZ5WmVJYmVzY0VaOUVGUDB4dU12Smd2X1VXZ0Q4WWpKcXpHbmVXZk9MamR4WlJ6Rmk1RmtxN1lMLWpGdGdCY2I1anZ3UEQ0THVNZVh2NkpfVm9zQXd2Qll0a19zT1J2TUk0Q0tpUmpYVEs1RkRTV0NGdFJ6aXlheFV3ODhGTFNQZWZYZzhBTElrbGNUWW1yMnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:40:10.000Z",
-      "pub_sort_dt": "2026-09-28 10:40:10"
+      "title_en": "特朗普与习近平会晤后，中美双方公布了各自价值300亿美元的互减关税商品清单 - ClickOnDetroit | WDIV Local 4",
+      "title_cn": "特朗普与习近平会晤后，中美双方公布了各自价值300亿美元的互减关税商品清单 - ClickOnDetroit | WDIV Local 4",
+      "url": "https://news.google.com/read/CBMi4AFBVV95cUxQenN3cHp4RkJPdGJwa2w3TUhGUkNISUlsQnBrbzdTYXZTSXNNR0k5cWhObmt1Y3dVUTFheUd6aU1VLVRiT2ZxZWU2QU1DbTl4bGdOd1hmM2FLM19XajYxd2xSY0stRDNaX3NXaE81eW1TbmVKd3hJazA0NVVaSnJITUdDRmFVYVBBcGRTMmtZaUJPdU40cGpwZXBFUUZMbGNFZU4xZnl4Q1ZpVi05MWFMOHZDVVNwelRjU3hMcnQ5M0lubDhPS1FSTHV4M0lWbGp5Z09OdjNWaVRxTzItSVU2dQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:41:04.000Z",
+      "pub_sort_dt": "2026-09-28 16:41:04"
     },
     {
       "source": "China Buzzing",
-      "title_en": "大范围的中美交流对于加深两国人民之间的互信至关重要 - asianews.network",
-      "title_cn": "大范围的中美交流对于加深两国人民之间的互信至关重要 - asianews.network",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxNVERQOUR1VWpwMnN4bWdVa3ZxbUw2U0NSbll0a3FrZU9Fc1J1WUNqRXhYVU1YMnY3QWFRQTZCOWR3R0NvV1pvNU5nSWE2VFN1TmpvMEZETVV1b2pRQWpna1ltU1kxWkVwNEZnaEFEaDJZc3R3OFJGNW8wbnZ2Tm9ETVVJVklfLWJkc0RvNjJEZ3lWYU5PNXlUZUhPQms?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:24:44.000Z",
-      "pub_sort_dt": "2026-09-28 10:24:44"
+      "title_en": "中国在全球绿色转型进程中的道路 - United Nations Development Programme",
+      "title_cn": "中国在全球绿色转型进程中的道路 - United Nations Development Programme",
+      "url": "https://news.google.com/read/CBMijwFBVV95cUxNaUdPWTM0XzZmeXhZVGJXTmFGdEpEMF9PRkxTeGdnZ1lPQVFhVm9kLUhIRUVieVN3ZUFFQlA0X1RBZ2U1Z1Z2QjRZU0dMdzBvVDhqQlhpdFNRWVlMRXlrMmtic0JMVFNtM0tTMFBmRmUtM3EyRDBYQTlieWhLMkNOQ0c2U3FTOTBhZ1ZFWXZndw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:37:50.000Z",
+      "pub_sort_dt": "2026-09-28 16:37:50"
     },
     {
       "source": "China Buzzing",
-      "title_en": "香港推出八只ETF，以满足中国投资者对海外资产的需求 - Reuters",
-      "title_cn": "香港推出八只ETF，以满足中国投资者对海外资产的需求 - Reuters",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxNYTZJZzg2WmRHcjhsY0hVOFV6elgzVHNYVHhwS3Q2c0RlYWVfbTZXTVNHT0tSQ3hrVHVoeVVQWURPeGxOSWdpQ085OFpEVUFEQ1p6RmNMa1pqcEV0OUxCOFgxSDQtSkxlY2NYZjdtdW5oRi1oOXRoNjFLQUEtLWlmYWFUZ0tZTjlORUlMeUFvanVzbGF1SngxSE9XT2VjMDlfTVZtbTQ3Q0RueW5pZTd2RTkwcE16UjA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:18:00.000Z",
-      "pub_sort_dt": "2026-09-28 10:18:00"
+      "title_en": "中美将下调600亿美元商品的关税。以下是符合条件的产品清单 - CNBC",
+      "title_cn": "中美将下调600亿美元商品的关税。以下是符合条件的产品清单 - CNBC",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxNMHlEeXQ0RWlrT0FLaXY3REJBRUppVGI4M1pLcnNGc1VqUXYtejVsLU1aUHNQOVFOUmJqZkZEd3NGaDZST3VnYUd1TUNqTTNkb2p5THpYTUpRRFFBRm5SYlc5ekRVaC1UcWhFaWpvNVFRQ05wMThBcVY0dFFkclR5VmJB0gGHAUFVX3lxTE9zMmozc0QxT0xqa1NpamFXRjdkNVZYRUZmbi0wc3V4TUhaWUJOY3VBVVVnbnpoRG16YTR5UTdIWXp2N2UzQUtzQ191R2s0Y1haZ0pPREdRcHhJLUJiTmd0c2kyYWZOTnhqb0JfOVdWaG85OHhvaGZWcTZLbXpsQ25Od0NzRkt6dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:31:33.000Z",
+      "pub_sort_dt": "2026-09-28 16:31:33"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着经济失衡加剧，中国工业利润增速进一步放缓 - WTVB",
-      "title_cn": "随着经济失衡加剧，中国工业利润增速进一步放缓 - WTVB",
-      "url": "https://news.google.com/read/CBMiqgFBVV95cUxPakp3dmp6MzJBTFh3Nm1BN2tRaXpzamZ2d20xYXZrcVJ5T2o3R2NMZHI1T3VnNWZCcTBXeHdEbDlab1RVSlNIRWRKZlEtWXZVbEctZVV6R3VyRTNyVmp4RDR4amotODhNSE94Z1NZRlJaMkU5bzhQd1Jsem5tME9IWXJYOGg0dy1Jbnd5aUphZndBN0lNenk3andWcEhYSDdzNkN0QnhyZ2dKZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:05:59.000Z",
-      "pub_sort_dt": "2026-09-28 10:05:59"
+      "title_en": "《观点》 为何香港和中国内地绝不能忽视房地产市场的透明度 - South China Morning Post",
+      "title_cn": "《观点》 为何香港和中国内地绝不能忽视房地产市场的透明度 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxPVW8tLUpwQ1lwakxaZm93ZEFuRFNzU0phSTdVM1A0VWgtQ3pSOUdUaFFBOWkwWkNNWE1Sbi1JWko0NnJsQ2VtV0JQTks4MkZHdFp3ZG1qN2ZaUVVzVmtlbTJNNS1ObnlyMl9QS3Z2eWhMOHZ4YWgxWE9YVkVlX0FaQ3MtTmNMYnFpb201YmVreVdCSnpqOUwtN3RCVFJmSWlZQ2RQVFRMbGFXLUYwUGFUQXhwVFNQaTl2cFhibkotcE1nUU1yT0xZay0tS2twX09H0gHQAUFVX3lxTE9vV0JUMS15enNnTG9melNzMXYxb2hyX01VRXAxZ0lWc0p2cnhScDZ1WnMzRFdzZTd5dGFaTFlndHhwSFJablF5N0d1Z1M1cWItVnN5YmVDRGhURTZaZUl5R01wbmZfUW1lMWJfelR3YXVTRUd5WGNyUWE0bG1xOWU4VUlnZzNLTHN2MzNsY1I3WjNzVk5zc1FhQnVodHB1enlsamtqWTN2SEJlSVlPM25fUHZJWURiYjNDZUV5ZDRMc2UzckdmdWkyZVZfQkdjcXE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:30:14.000Z",
+      "pub_sort_dt": "2026-09-28 16:30:14"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国公布300亿美元对中国加征关税协议涉及的产品清单 - Bloomberg",
-      "title_cn": "美国公布300亿美元对中国加征关税协议涉及的产品清单 - Bloomberg",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxPejAwODBlZm1pdk5leVFwbHA2cnRWRkZXT2R2ejVDNjhtV01qb3ZFQ0hoMW9pWTVHN3dqOXBramZyY0RDdDJkMEQyUGRaVHh5QUFnak1SQ0c4dkp6aE5QYjdEd25ZMXFheXhRcmVXLXZJV1ZLNmk1MndtZ3FaNmNPcDNXSkxkV1Rvb2x6MmZBWVBvOV9rTmZMS0ljRENGWGY3d0ZFbFpTajZGVW1PZGdz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-28T02:04:00.000Z",
-      "pub_sort_dt": "2026-09-28 10:04:00"
+      "title_en": "中国西格酒庄在市场低迷时期筹集1500万美元，并承诺不会仓促进行IPO - Dealroom.co",
+      "title_cn": "中国西格酒庄在市场低迷时期筹集1500万美元，并承诺不会仓促进行IPO - Dealroom.co",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxOazhya3dGVWl3czEtTTJKWjZpUTNmTThuVDNna3pFRHk1M0RPakVDQ1pmSDBxYUpGb3VzeHoweUwtX1dqNXowWGxkbnd1Q3RaOE1ZczhWbjcxeTRnQTNRQldoQTBpNGtTUnNzdXlCVzdlTnRNZ1RXNjNIR1g2ODhodzd0X3lHQTBldVY0ZkZCSDhfUEtmTVpJQjQzR0xUck1iQ3lGbHNhSno?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-28T08:27:06.000Z",
+      "pub_sort_dt": "2026-09-28 16:27:06"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "特朗普与习近平的“僵局”峰会是中国收到的一个华丽的礼物",
+      "title_cn": "特朗普与习近平的“僵局”峰会是中国收到的一个华丽的礼物",
+      "url": "https://reut.rs/3Vi2GOS",
+      "pub_raw": "2026-09-28T09:50:20.235Z",
+      "pub_sort_dt": "2026-09-28 17:50:20"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "美国称，在珀杜发表言论后，暂无向中国出售武器的计划",
+      "title_cn": "美国称，在珀杜发表言论后，暂无向中国出售武器的计划",
+      "url": "https://on.wsj.com/4Aws0Rv",
+      "pub_raw": "2026-09-28T09:17:55.003Z",
+      "pub_sort_dt": "2026-09-28 17:17:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国扩大出行限制范围，将顶尖人工智能人才的家人也纳入其中",
+      "title_cn": "中国扩大出行限制范围，将顶尖人工智能人才的家人也纳入其中",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
+      "pub_raw": "2026-09-28T09:02:10.879Z",
+      "pub_sort_dt": "2026-09-28 17:02:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国表示，美中贸易停火期延长为推进谈判创造了空间",
+      "title_cn": "中国表示，美中贸易停火期延长为推进谈判创造了空间",
+      "url": "https://reut.rs/4hwd7Wy",
+      "pub_raw": "2026-09-28T06:55:58.548Z",
+      "pub_sort_dt": "2026-09-28 14:55:58"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "“习近平保住了面子”：中国对特朗普给予的平等待遇感到欣喜",
+      "title_cn": "“习近平保住了面子”：中国对特朗普给予的平等待遇感到欣喜",
+      "url": "https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-28T06:23:57.048Z",
+      "pub_sort_dt": "2026-09-28 14:23:57"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国表示将降低对美国农产品的关税，但大豆除外",
+      "title_cn": "中国表示将降低对美国农产品的关税，但大豆除外",
+      "url": "https://reut.rs/4iN9LRh",
+      "pub_raw": "2026-09-28T05:19:58.682Z",
+      "pub_sort_dt": "2026-09-28 13:19:58"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "关税下调后，交易员寻求中国买盘信号，谷物价格下跌",
+      "title_cn": "关税下调后，交易员寻求中国买盘信号，谷物价格下跌",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/grains-fall-as-traders-seek-china-buying-signs-after-tariff-cuts",
+      "pub_raw": "2026-09-28T04:49:04.379Z",
+      "pub_sort_dt": "2026-09-28 12:49:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受芯片和光通信类股下跌拖累，中国股市跌至一年低点",
+      "title_cn": "受芯片和光通信类股下跌拖累，中国股市跌至一年低点",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/chinese-stocks-hit-one-year-low-as-chip-optical-firms-slide",
+      "pub_raw": "2026-09-28T04:49:04.372Z",
+      "pub_sort_dt": "2026-09-28 12:49:04"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "总统表示，台湾必须深化与民主伙伴在无人机领域的合作",
+      "title_cn": "总统表示，台湾必须深化与民主伙伴在无人机领域的合作",
+      "url": "https://reut.rs/3Tq8Fka",
+      "pub_raw": "2026-09-28T04:18:13.094Z",
+      "pub_sort_dt": "2026-09-28 12:18:13"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "通用汽车对美国市场发出警告，汽车制造商正寻求避开中国竞争对手的“避风港”",
+      "title_cn": "通用汽车对美国市场发出警告，汽车制造商正寻求避开中国竞争对手的“避风港”",
+      "url": "https://www.ft.com/content/b4dde6f6-f91f-4d3e-8ce1-ab8be69dab47?syn-25a6b1a6=1",
+      "pub_raw": "2026-09-28T04:18:10.989Z",
+      "pub_sort_dt": "2026-09-28 12:18:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "随着经济失衡加剧，中国工业利润增速进一步放缓",
+      "title_cn": "随着经济失衡加剧，中国工业利润增速进一步放缓",
+      "url": "https://reut.rs/3TlTDff",
+      "pub_raw": "2026-09-28T04:02:21.619Z",
+      "pub_sort_dt": "2026-09-28 12:02:21"
     },
     {
       "source": "Reuters",
@@ -405,94 +493,6 @@
       "url": "https://www.bloomberg.com/news/features/2026-09-27/china-s-tax-crackdown-squeezes-billionaires-harder-than-ever",
       "pub_raw": "2026-09-27T21:14:12.055Z",
       "pub_sort_dt": "2026-09-28 05:14:12"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "美国特使称，特朗普询问习近平中国是否愿意购买美国武器",
-      "title_cn": "美国特使称，特朗普询问习近平中国是否愿意购买美国武器",
-      "url": "https://www.ft.com/content/8b4690d4-7c02-48af-b117-56faf21c389d?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-27T20:42:03.503Z",
-      "pub_sort_dt": "2026-09-28 04:42:03"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据《The Information》报道，中国正考虑允许字节跳动和阿里巴巴购买英伟达的新芯片",
-      "title_cn": "据《The Information》报道，中国正考虑允许字节跳动和阿里巴巴购买英伟达的新芯片",
-      "url": "https://reut.rs/4huisxs",
-      "pub_raw": "2026-09-27T17:51:03.319Z",
-      "pub_sort_dt": "2026-09-28 01:51:03"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国周日在斯卡伯勒浅滩附近举行海空联合演习",
-      "title_cn": "中国周日在斯卡伯勒浅滩附近举行海空联合演习",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-conducts-air-sea-exercise-near-scarborough-shoal-on-sunday",
-      "pub_raw": "2026-09-27T11:01:01.093Z",
-      "pub_sort_dt": "2026-09-27 19:01:01"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台北官员称，美国“非常”理解台湾的防卫需求",
-      "title_cn": "台北官员称，美国“非常”理解台湾的防卫需求",
-      "url": "https://reut.rs/4yXuB50",
-      "pub_raw": "2026-09-27T09:58:07.876Z",
-      "pub_sort_dt": "2026-09-27 17:58:07"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国媒体称美国在管理人工智能方面负有责任",
-      "title_cn": "中国媒体称美国在管理人工智能方面负有责任",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-state-media-says-us-shares-responsibility-for-managing-ai",
-      "pub_raw": "2026-09-27T08:40:59.509Z",
-      "pub_sort_dt": "2026-09-27 16:40:59"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "黄金资源丰富的尼加拉瓜将该国十分之一的土地开采权授予了中国矿企",
-      "title_cn": "黄金资源丰富的尼加拉瓜将该国十分之一的土地开采权授予了中国矿企",
-      "url": "https://www.ft.com/content/452648fd-90d6-450f-9739-073f5b6a0d18?syn-25a6b1a6=1",
-      "pub_raw": "2026-09-27T04:44:08.573Z",
-      "pub_sort_dt": "2026-09-27 12:44:08"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国向亚特兰大动物园派遣一对大熊猫：据中央电视台报道",
-      "title_cn": "中国向亚特兰大动物园派遣一对大熊猫：据中央电视台报道",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-dispatches-pair-of-pandas-to-atlanta-zoo-cctv-reports",
-      "pub_raw": "2026-09-27T04:27:56.481Z",
-      "pub_sort_dt": "2026-09-27 12:27:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普称，峰会后习近平“知道我对台湾问题的看法”",
-      "title_cn": "特朗普称，峰会后习近平“知道我对台湾问题的看法”",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-26/trump-says-xi-knows-how-i-feel-on-taiwan-after-us-china-summit",
-      "pub_raw": "2026-09-26T15:23:02.272Z",
-      "pub_sort_dt": "2026-09-26 23:23:02"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国在联合国发言中就伊朗和古巴问题对美国予以回击",
-      "title_cn": "中国在联合国发言中就伊朗和古巴问题对美国予以回击",
-      "url": "https://reut.rs/3VRuxpb",
-      "pub_raw": "2026-09-26T14:51:17.161Z",
-      "pub_sort_dt": "2026-09-26 22:51:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "习近平抓住特朗普停火的契机，力求在贸易和台湾问题上取得持久成果",
-      "title_cn": "习近平抓住特朗普停火的契机，力求在贸易和台湾问题上取得持久成果",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/xi-seizes-trump-detente-to-seek-lasting-gains-on-trade-taiwan",
-      "pub_raw": "2026-09-26T13:01:21.605Z",
-      "pub_sort_dt": "2026-09-26 21:01:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国经济的“体制转变”可能埋下全球风险：新经济",
-      "title_cn": "中国经济的“体制转变”可能埋下全球风险：新经济",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-26/china-s-economic-regime-shift-may-sow-global-risk-new-economy",
-      "pub_raw": "2026-09-26T10:57:53.390Z",
-      "pub_sort_dt": "2026-09-26 18:57:53"
     }
   ]
 }
