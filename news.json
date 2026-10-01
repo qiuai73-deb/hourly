@@ -1,15 +1,63 @@
 {
-  "update_cst": "2026-10-01 06:01:12 北京时间",
+  "update_cst": "2026-10-01 12:01:00 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 2,
-    "Bloomberg": 9,
+    "Bloomberg": 10,
     "Financial Times": 2,
     "Wall Street Journal": 0,
-    "Reuters": 7
+    "Reuters": 6
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "在中国道家武术门派中，搏击只是课程的一部分 - AP News",
+      "title_cn": "在中国道家武术门派中，搏击只是课程的一部分 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxPVmRxencybXlrN2RFaGFqczVKNW5SczNSMXhNeFhvXzg0d3RhcHEzekhyc0x3bFUxVXdfVm13ajlQUEhQWEExQWFQMW8xejh6NThwVzlYam53Y2NrM25LYkdXZ00zLWpCMldwTXRoV2JwOEoteDBJRUYxalFZVFcxZ0w1cXhENWhXSE0ySnByaks1Qm9qa3daTU9UWTdvb1d5ME1n?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-01T01:03:00.000Z",
+      "pub_sort_dt": "2026-10-01 09:03:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国已对人工智能恋爱关系采取了打击措施。这是否走在了前列？ - BBC",
+      "title_cn": "中国已对人工智能恋爱关系采取了措施打击。这是否走在了前列？ - BBC",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTE9sdk41N0VqNHNwaWpqMzluNkEyem1uZmlrYmk4SE5BRUpRQ1Y1SVVsZ0w2dDVCZWVRYVBXTHc3dGd5SThSSGh2MXRRRUNlWXlfQWYyVnhVY29sS2c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-30T23:25:23.000Z",
+      "pub_sort_dt": "2026-10-01 07:25:23"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "参议院将一项永久禁止中国汽车进口的法案搁置，待中期选举结束后再议 - AP News",
+      "title_cn": "参议院将作出禁止永久中国汽车进口的协议搁置，待审议结束后再议 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxNS3lRTGtGSm9xYlpVTjg2c2NCbzE0Qmd1MlpYOEhndEJsOEJzczJBTEVaZm1VeE9wc2ZQMjg3cEIyS3BuajNvdlVJZFU1UWU3emd1T2RRNjRpaDRYdS1Xa3NIMTNJVlFIUVRpa2p0WVJfNmNGX0RyME0yZ1BBVXhOVk1ER2FNZW5NekJQNEhZZjlLcWdJVFU0UU1IdE41dUYyUFdPVG5OOA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-30T22:15:00.000Z",
+      "pub_sort_dt": "2026-10-01 06:15:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "英国军情五处警告：中国资助英国科研项目，并将研究成果提供给北京的间谍 - BBC",
+      "title_cn": "英国军情五处警告：中国资助英国科研项目，将研究成果提供给北京的间谍 - BBC",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTE5VOElKVjgwNGxLejhYSExkVlBiWDVsM0stNkQtRHpPeTRtOU5FM0habkdZcUpJQWFMbURBR19hNUV1ZEM0aHNka3hMaWdFUkg2SkdtY2ZEYWVPTzg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-30T18:15:15.000Z",
+      "pub_sort_dt": "2026-10-01 02:15:15"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着55%的关税开始实施，巴西牛肉出口商在中国市场遭遇重挫 - scmp.com",
+      "title_cn": "随着55%的关税开始实施，巴西牛肉出口商在中国市场遭遇重挫 - scmp.com",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxPdUJNcWdqaS1sTUh2Y0g3WHdxYnV1WXdBcVVqd1NfRkdNTmdKaE5yNmw0MkdCSFNXRHZaU2dUVGtsRXJ6M2kwVlNWS0t2WlVnSGdzMDhxNnVyRkRwVjhXOV9ETkl4WlJnSEtkR3ZiLUdmNXBhckpTaTdzRW1JeWUwVzFhanhrNjhVNDJPbU5tekFjdnhKRGVYcDNrcnNjNnNuWHphTVkxMDRIOUNaZi1kRDJ2TzhQaU5kakRNaWpmOHcxYzROcjBoZlo5LVp5Z9IBzgFBVV95cUxNTGpIYUo0WEZOR1dxLURNaTJLSE1CcG8yMkNLQW9lTFhvXzlyWF93N0I3TkxIaGN6ZmZ3cERUaHBqQmMwSTRYWHZaTHhMYV94ZS1YTG9YVGx0VDVlVV9ZMHhGWG1VWmd2bTlUQzU1VEhldS14blNqYWVEaHJXVHhmUEllaGNBaERDSy1sTzJEWFRTVzhaWjJlZmpJTTVMMVlmQWg3d1JPdFBUZEVMX0hCU2xrd005cGhjWmRMMnFJeWlOaTBsaG0xYlNmUFZBZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-30T18:07:56.000Z",
+      "pub_sort_dt": "2026-10-01 02:07:56"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国与老挝共同开设培训中心，标志着其第三个海外军事基地的建立 - Breaking Defense",
+      "title_cn": "中国与老挝共同培训中心，建立第三个海外军事基地 - Breaking Defense",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxPRklYU0s2bVlzajh2N2JWaTlSOUhmS2dfWEFWWlF5M3VFZzZMbVZBXzV3bGdoTTNCVFZVbGl2SlA4elV5cThoakVfdmJIajhKa0t2bjhrWWpwMDRyS1ZoVGVRYUZRZ1lQZjc0SEhRV1hyenBIX3c4WDd0YlV5clVhb0RXcF9xTF94M2JRUVJzMW5ZMmxja2JhNlg4NHRYMmtqYXlCQnBkXzR1cHYwenRXeg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-30T16:35:12.000Z",
+      "pub_sort_dt": "2026-10-01 00:35:12"
+    },
     {
       "source": "China Buzzing",
       "title_en": "一旦发生人工智能危机，中国会接听电话吗？ - economist.com",
@@ -41,59 +89,27 @@
       "url": "https://news.google.com/read/CBMiowFBVV95cUxOZkowd2JORndGcFd5cS1GZENIWERUSF9oVjdMcGJva0cxYTlhendRa21FeDJ5dHFSQnJBR0h3cTVWMzlXSEVZUGctMm1SOFo4RVo0cUt1XzZtNXllb1hIYzUwY2k1U2JKb203anRfTFVTb3V3bHFtUXo0R1NnSzlPdHBRbTZpLVFuTFJBalE1MkZJc3g4ajRnby0zMU1TSWdOcURz?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-09-30T14:30:46.000Z",
       "pub_sort_dt": "2026-09-30 22:30:46"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国的2,250千瓦充电桩已投入使用，而美国则计划明年推出750千瓦的充电桩 - Electrek",
-      "title_cn": "中国的2,250千瓦充电桩已投入使用，而美国则计划明年推出750千瓦充电桩 - Electrek",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxNWGFQWDNQSDlNaVJUYk15QkpncGFQUUdaTGNDN3BkUGI1djgta3FDT1pjd1QxMlNnMnE5MldjelBOMUFSX1YyZzdIRTRIcEJIb3F5aXhtbnZ6ZFZMVzIzNkU1SW5VRFh3TFo2cXpHVnVpOXo1eUJxT1dFMFNwak9pTXdZZXNhLWlKYTNFbEY1eTVtVHQyN2o0LVBrZ2dmcTAyZUJVSXBSUXpYRXNmRlZVQUU0b0tSQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-30T14:00:00.000Z",
-      "pub_sort_dt": "2026-09-30 22:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "英国军情五处（MI5）关于中国的预警将令资金紧张的英国各大学如临大敌 - The Guardian",
-      "title_cn": "英国军情五处（军情五处）关于中国的预警将令英国各大学资金紧张如临大敌 - 《卫报》",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxQN05nWmttTE9TZkhKem9Na1V1eVhOcTRlRDc4Q01ZWGM1YTZqeUtrRGlXTjlVRUZRV295S1hkbmR5N2pYN2FRWk1YSkVwZ0xHSjBpcWFIVEZHVlpQV2lVTGhQRkZDVFN4d0NqS0JzY3pXZXpfYTh0dDRJVHRpdHBadkRqS0c4ZERNQkYycDJNc0xOMUtyd1V2ZUJPVlB2eVpz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-30T13:19:00.000Z",
-      "pub_sort_dt": "2026-09-30 21:19:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国将两项针对美国的贸易壁垒调查期限延长至12月27日 - Reuters",
-      "title_cn": "中国将针对美国的贸易壁垒调查期限延长至12月27日 - 路透社",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxNUFJiMkE4aFZLenQwa2pqOEpocW4tdXFSYml6Z1lzUnN6S0pVRk14Mjd1SVdlMjQ3a0JXRjBKSlBvUjRSRV9hNHptcEt6aWNRN1JEcXBxdTJtLUc1aFA1dkdXTTVjbnFienVGTU1QSXJkSnJzbEE3ajh4RUs0TE1BYUhRUF93dHU1cTFWQXlWZ3ROd3FydkVheHo0NTdqZlBfTThoM19pM0ZkR2wxd3IxLQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-30T13:11:30.000Z",
-      "pub_sort_dt": "2026-09-30 21:11:30"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "拉丁美洲人首次更青睐中国而非美国 - The Economist",
-      "title_cn": "拉丁美洲人首次更青睐中国而非美国 - 《经济学人》",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxNZFA4alJxUm9zcmxQMmVGcXhLZHRyb2ZXNS1OdXhLcGNoX0VNdlI1NGpPSUlIWENxdDRwcUdpMC05LXh4UGJzeXZwaWtScGpMX0FBVjJ0bkpLaDR2RC1ZZFFZTVBod0szM01MbFIwc0hTcHFjZ2JVdmUtRlZvSEdlMzFaWHN3aDZuN01wcnVtdHZDRk1QaXFTeXZpUUt4U3lUQjF1UGozcnF1YlBi?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-30T12:32:48.000Z",
-      "pub_sort_dt": "2026-09-30 20:32:48"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "Alo在上海打造都市绿洲，举办首场中国快闪活动 - WWD",
-      "title_cn": "Alo在上海打造都市绿洲，举办首场中国快闪活动 - WWD",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxQTlFicHVMR285VEF3QmFOTzh1WWNSalBKM3ZjMjVxTEwxc1dXX1RvLTJ1aEtROXdnb3Y4TTNIeVBfX0JHWENLaTZJeXU1OE9oZmR5Uk8zWklaQ1YwaEdjZm9TdTNTQmRKOEZKWGRudk5KWHlqZ25oX0U2Ymkxa1FHb1RpM3NJUi0xWk5qLQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-30T12:27:10.000Z",
-      "pub_sort_dt": "2026-09-30 20:27:10"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "习近平称中国经济韧性十足，敦促各方努力实现目标 - Bloomberg.com",
-      "title_cn": "习近平称中国经济紧张，敦促各方努力实现目标 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxOcHl4NmJfY2Z6d1dMZ1FsbWVReXRaTkJOcUM4bnplRk5HeEVjSDJ1VG1HcWtjbzV3bDdiVmlYYWlQa21UZkVuNy01Q2dXY1pXbU1aWTJyZDdJVER6UXRVX2JhbjR5X1RXSkZnYWU2SW8tQnhIR01CXzNuV2V3QmdmeV8yZGl4RWxNcE93ellhbGs4THQwN2ZzWUdYWnR2aGdWWHFyT1BQNnljUFJDZG1YVGUtd3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-30T11:34:14.000Z",
-      "pub_sort_dt": "2026-09-30 19:34:14"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "中国房地产危机：从恒大倒闭到北京的最新举措",
+      "title_cn": "中国房地产危机：从恒大倒闭到北京的最新举措",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/china-s-property-crisis-from-evergrande-collapse-to-beijing-s-latest-measures",
+      "pub_raw": "2026-10-01T00:33:16.164Z",
+      "pub_sort_dt": "2026-10-01 08:33:16"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "巴基斯坦太阳能热潮使中国的清洁能源出口与煤炭投资形成对立",
+      "title_cn": "巴基斯坦太阳能热潮使中国的清洁能源出口与煤炭投资形成对立",
+      "url": "https://www.bloomberg.com/news/features/2026-09-30/pakistan-s-solar-boom-pits-china-s-clean-energy-exports-against-coal-investments",
+      "pub_raw": "2026-09-30T23:14:15.198Z",
+      "pub_sort_dt": "2026-10-01 07:14:15"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "特朗普称已向习近平提及香港的黎智英一事",
       "title_cn": "特朗普称已向习近平提及香港的黎智英一事",
       "url": "https://www.bloomberg.com/news/articles/2026-09-30/trump-says-he-discussed-case-of-hong-kong-s-jimmy-lai-with-xi",
@@ -235,25 +251,57 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-30/china-delivers-latest-drip-feed-of-stimulus-to-keep-gdp-target-floor-in-reach",
       "pub_raw": "2026-09-30T11:24:17.960Z",
       "pub_sort_dt": "2026-09-30 19:24:17"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国在东南亚邻国建立新的军事存在",
-      "title_cn": "中国在东南亚国家建立新的军事存在",
-      "url": "https://reut.rs/4hUYihy",
-      "pub_raw": "2026-09-30T10:36:13.088Z",
-      "pub_sort_dt": "2026-09-30 18:36:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国刺激措施效果欠佳，表明“双速经济”态势将持续",
-      "title_cn": "中国刺激措施效果欠佳，表明“双速经济”即将持续",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-30/china-stimulus-underwhelms-in-sign-two-speed-economy-to-persist",
-      "pub_raw": "2026-09-30T09:17:32.352Z",
-      "pub_sort_dt": "2026-09-30 17:17:32"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "在中国道家武术门派中，搏击只是课程的一部分 - AP News",
+      "title_cn": "在中国道家武术门派中，搏击只是课程的一部分 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxPVmRxencybXlrN2RFaGFqczVKNW5SczNSMXhNeFhvXzg0d3RhcHEzekhyc0x3bFUxVXdfVm13ajlQUEhQWEExQWFQMW8xejh6NThwVzlYam53Y2NrM25LYkdXZ00zLWpCMldwTXRoV2JwOEoteDBJRUYxalFZVFcxZ0w1cXhENWhXSE0ySnByaks1Qm9qa3daTU9UWTdvb1d5ME1n?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-01T01:03:00.000Z",
+      "pub_sort_dt": "2026-10-01 09:03:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国已对人工智能恋爱关系采取了打击措施。这是否走在了前列？ - BBC",
+      "title_cn": "中国已对人工智能恋爱关系采取了措施打击。这是否走在了前列？ - BBC",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTE9sdk41N0VqNHNwaWpqMzluNkEyem1uZmlrYmk4SE5BRUpRQ1Y1SVVsZ0w2dDVCZWVRYVBXTHc3dGd5SThSSGh2MXRRRUNlWXlfQWYyVnhVY29sS2c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-30T23:25:23.000Z",
+      "pub_sort_dt": "2026-10-01 07:25:23"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "参议院将一项永久禁止中国汽车进口的法案搁置，待中期选举结束后再议 - AP News",
+      "title_cn": "参议院将作出禁止永久中国汽车进口的协议搁置，待审议结束后再议 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxNS3lRTGtGSm9xYlpVTjg2c2NCbzE0Qmd1MlpYOEhndEJsOEJzczJBTEVaZm1VeE9wc2ZQMjg3cEIyS3BuajNvdlVJZFU1UWU3emd1T2RRNjRpaDRYdS1Xa3NIMTNJVlFIUVRpa2p0WVJfNmNGX0RyME0yZ1BBVXhOVk1ER2FNZW5NekJQNEhZZjlLcWdJVFU0UU1IdE41dUYyUFdPVG5OOA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-30T22:15:00.000Z",
+      "pub_sort_dt": "2026-10-01 06:15:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "英国军情五处警告：中国资助英国科研项目，并将研究成果提供给北京的间谍 - BBC",
+      "title_cn": "英国军情五处警告：中国资助英国科研项目，将研究成果提供给北京的间谍 - BBC",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTE5VOElKVjgwNGxLejhYSExkVlBiWDVsM0stNkQtRHpPeTRtOU5FM0habkdZcUpJQWFMbURBR19hNUV1ZEM0aHNka3hMaWdFUkg2SkdtY2ZEYWVPTzg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-30T18:15:15.000Z",
+      "pub_sort_dt": "2026-10-01 02:15:15"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着55%的关税开始实施，巴西牛肉出口商在中国市场遭遇重挫 - scmp.com",
+      "title_cn": "随着55%的关税开始实施，巴西牛肉出口商在中国市场遭遇重挫 - scmp.com",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxPdUJNcWdqaS1sTUh2Y0g3WHdxYnV1WXdBcVVqd1NfRkdNTmdKaE5yNmw0MkdCSFNXRHZaU2dUVGtsRXJ6M2kwVlNWS0t2WlVnSGdzMDhxNnVyRkRwVjhXOV9ETkl4WlJnSEtkR3ZiLUdmNXBhckpTaTdzRW1JeWUwVzFhanhrNjhVNDJPbU5tekFjdnhKRGVYcDNrcnNjNnNuWHphTVkxMDRIOUNaZi1kRDJ2TzhQaU5kakRNaWpmOHcxYzROcjBoZlo5LVp5Z9IBzgFBVV95cUxNTGpIYUo0WEZOR1dxLURNaTJLSE1CcG8yMkNLQW9lTFhvXzlyWF93N0I3TkxIaGN6ZmZ3cERUaHBqQmMwSTRYWHZaTHhMYV94ZS1YTG9YVGx0VDVlVV9ZMHhGWG1VWmd2bTlUQzU1VEhldS14blNqYWVEaHJXVHhmUEllaGNBaERDSy1sTzJEWFRTVzhaWjJlZmpJTTVMMVlmQWg3d1JPdFBUZEVMX0hCU2xrd005cGhjWmRMMnFJeWlOaTBsaG0xYlNmUFZBZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-30T18:07:56.000Z",
+      "pub_sort_dt": "2026-10-01 02:07:56"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国与老挝共同开设培训中心，标志着其第三个海外军事基地的建立 - Breaking Defense",
+      "title_cn": "中国与老挝共同培训中心，建立第三个海外军事基地 - Breaking Defense",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxPRklYU0s2bVlzajh2N2JWaTlSOUhmS2dfWEFWWlF5M3VFZzZMbVZBXzV3bGdoTTNCVFZVbGl2SlA4elV5cThoakVfdmJIajhKa0t2bjhrWWpwMDRyS1ZoVGVRYUZRZ1lQZjc0SEhRV1hyenBIX3c4WDd0YlV5clVhb0RXcF9xTF94M2JRUVJzMW5ZMmxja2JhNlg4NHRYMmtqYXlCQnBkXzR1cHYwenRXeg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-09-30T16:35:12.000Z",
+      "pub_sort_dt": "2026-10-01 00:35:12"
+    },
     {
       "source": "China Buzzing",
       "title_en": "一旦发生人工智能危机，中国会接听电话吗？ - economist.com",
@@ -287,52 +335,20 @@
       "pub_sort_dt": "2026-09-30 22:30:46"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国的2,250千瓦充电桩已投入使用，而美国则计划明年推出750千瓦的充电桩 - Electrek",
-      "title_cn": "中国的2,250千瓦充电桩已投入使用，而美国则计划明年推出750千瓦充电桩 - Electrek",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxNWGFQWDNQSDlNaVJUYk15QkpncGFQUUdaTGNDN3BkUGI1djgta3FDT1pjd1QxMlNnMnE5MldjelBOMUFSX1YyZzdIRTRIcEJIb3F5aXhtbnZ6ZFZMVzIzNkU1SW5VRFh3TFo2cXpHVnVpOXo1eUJxT1dFMFNwak9pTXdZZXNhLWlKYTNFbEY1eTVtVHQyN2o0LVBrZ2dmcTAyZUJVSXBSUXpYRXNmRlZVQUU0b0tSQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-30T14:00:00.000Z",
-      "pub_sort_dt": "2026-09-30 22:00:00"
+      "source": "Bloomberg",
+      "title_en": "中国房地产危机：从恒大倒闭到北京的最新举措",
+      "title_cn": "中国房地产危机：从恒大倒闭到北京的最新举措",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/china-s-property-crisis-from-evergrande-collapse-to-beijing-s-latest-measures",
+      "pub_raw": "2026-10-01T00:33:16.164Z",
+      "pub_sort_dt": "2026-10-01 08:33:16"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "英国军情五处（MI5）关于中国的预警将令资金紧张的英国各大学如临大敌 - The Guardian",
-      "title_cn": "英国军情五处（军情五处）关于中国的预警将令英国各大学资金紧张如临大敌 - 《卫报》",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxQN05nWmttTE9TZkhKem9Na1V1eVhOcTRlRDc4Q01ZWGM1YTZqeUtrRGlXTjlVRUZRV295S1hkbmR5N2pYN2FRWk1YSkVwZ0xHSjBpcWFIVEZHVlpQV2lVTGhQRkZDVFN4d0NqS0JzY3pXZXpfYTh0dDRJVHRpdHBadkRqS0c4ZERNQkYycDJNc0xOMUtyd1V2ZUJPVlB2eVpz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-30T13:19:00.000Z",
-      "pub_sort_dt": "2026-09-30 21:19:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国将两项针对美国的贸易壁垒调查期限延长至12月27日 - Reuters",
-      "title_cn": "中国将针对美国的贸易壁垒调查期限延长至12月27日 - 路透社",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxNUFJiMkE4aFZLenQwa2pqOEpocW4tdXFSYml6Z1lzUnN6S0pVRk14Mjd1SVdlMjQ3a0JXRjBKSlBvUjRSRV9hNHptcEt6aWNRN1JEcXBxdTJtLUc1aFA1dkdXTTVjbnFienVGTU1QSXJkSnJzbEE3ajh4RUs0TE1BYUhRUF93dHU1cTFWQXlWZ3ROd3FydkVheHo0NTdqZlBfTThoM19pM0ZkR2wxd3IxLQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-30T13:11:30.000Z",
-      "pub_sort_dt": "2026-09-30 21:11:30"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "拉丁美洲人首次更青睐中国而非美国 - The Economist",
-      "title_cn": "拉丁美洲人首次更青睐中国而非美国 - 《经济学人》",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxNZFA4alJxUm9zcmxQMmVGcXhLZHRyb2ZXNS1OdXhLcGNoX0VNdlI1NGpPSUlIWENxdDRwcUdpMC05LXh4UGJzeXZwaWtScGpMX0FBVjJ0bkpLaDR2RC1ZZFFZTVBod0szM01MbFIwc0hTcHFjZ2JVdmUtRlZvSEdlMzFaWHN3aDZuN01wcnVtdHZDRk1QaXFTeXZpUUt4U3lUQjF1UGozcnF1YlBi?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-30T12:32:48.000Z",
-      "pub_sort_dt": "2026-09-30 20:32:48"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "Alo在上海打造都市绿洲，举办首场中国快闪活动 - WWD",
-      "title_cn": "Alo在上海打造都市绿洲，举办首场中国快闪活动 - WWD",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxQTlFicHVMR285VEF3QmFOTzh1WWNSalBKM3ZjMjVxTEwxc1dXX1RvLTJ1aEtROXdnb3Y4TTNIeVBfX0JHWENLaTZJeXU1OE9oZmR5Uk8zWklaQ1YwaEdjZm9TdTNTQmRKOEZKWGRudk5KWHlqZ25oX0U2Ymkxa1FHb1RpM3NJUi0xWk5qLQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-30T12:27:10.000Z",
-      "pub_sort_dt": "2026-09-30 20:27:10"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "习近平称中国经济韧性十足，敦促各方努力实现目标 - Bloomberg.com",
-      "title_cn": "习近平称中国经济紧张，敦促各方努力实现目标 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxOcHl4NmJfY2Z6d1dMZ1FsbWVReXRaTkJOcUM4bnplRk5HeEVjSDJ1VG1HcWtjbzV3bDdiVmlYYWlQa21UZkVuNy01Q2dXY1pXbU1aWTJyZDdJVER6UXRVX2JhbjR5X1RXSkZnYWU2SW8tQnhIR01CXzNuV2V3QmdmeV8yZGl4RWxNcE93ellhbGs4THQwN2ZzWUdYWnR2aGdWWHFyT1BQNnljUFJDZG1YVGUtd3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-09-30T11:34:14.000Z",
-      "pub_sort_dt": "2026-09-30 19:34:14"
+      "source": "Bloomberg",
+      "title_en": "巴基斯坦太阳能热潮使中国的清洁能源出口与煤炭投资形成对立",
+      "title_cn": "巴基斯坦太阳能热潮使中国的清洁能源出口与煤炭投资形成对立",
+      "url": "https://www.bloomberg.com/news/features/2026-09-30/pakistan-s-solar-boom-pits-china-s-clean-energy-exports-against-coal-investments",
+      "pub_raw": "2026-09-30T23:14:15.198Z",
+      "pub_sort_dt": "2026-10-01 07:14:15"
     },
     {
       "source": "Bloomberg",
@@ -477,22 +493,6 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-09-30/china-delivers-latest-drip-feed-of-stimulus-to-keep-gdp-target-floor-in-reach",
       "pub_raw": "2026-09-30T11:24:17.960Z",
       "pub_sort_dt": "2026-09-30 19:24:17"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国在东南亚邻国建立新的军事存在",
-      "title_cn": "中国在东南亚国家建立新的军事存在",
-      "url": "https://reut.rs/4hUYihy",
-      "pub_raw": "2026-09-30T10:36:13.088Z",
-      "pub_sort_dt": "2026-09-30 18:36:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国刺激措施效果欠佳，表明“双速经济”态势将持续",
-      "title_cn": "中国刺激措施效果欠佳，表明“双速经济”即将持续",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-30/china-stimulus-underwhelms-in-sign-two-speed-economy-to-persist",
-      "pub_raw": "2026-09-30T09:17:32.352Z",
-      "pub_sort_dt": "2026-09-30 17:17:32"
     }
   ]
 }
