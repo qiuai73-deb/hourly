@@ -1,15 +1,23 @@
 {
-  "update_cst": "2026-10-02 06:01:15 北京时间",
+  "update_cst": "2026-10-02 12:01:02 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 4,
     "Bloomberg": 11,
-    "Financial Times": 2,
+    "Financial Times": 1,
     "Wall Street Journal": 0,
-    "Reuters": 3
+    "Reuters": 4
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "首批新型F-16V战斗机将运抵台湾，以加强针对中国的防卫能力 - Reuters",
+      "title_cn": "首批新型F-16V将运抵台湾，以加强针对中国的防卫能力 - 路透中文网",
+      "url": "https://news.google.com/read/CBMi0gFBVV95cUxQemotSUFPaElSNFZ4OHRwM2pXYktMUzh3QmJPcVR6QkdvdVJVbENTVVo1cmxUSUxRZnhjZExnWUhYQTlXT25GWTIwTG5OMGItZlRJeV9BejdXZ3h4U0YzZFByVGE2TmtBb2REeGlNVW82OUpvOUREQktUOHFlWkl0bUVXNUZFM1FTNy1OdDgxYjFDY1hxRFhqcVNVT3Q0QmtPUktoeEZscnpYQVFDcGlGUnpjUUt3T3d5Q0wzbzlzeEcwQWFINEtPNkpMbFYtejE4OEE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-02T02:22:00.000Z",
+      "pub_sort_dt": "2026-10-02 10:22:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "为何美国导弹短缺会加剧潜在的台湾海峡冲突风险 - South China Morning Post",
@@ -17,6 +25,14 @@
       "url": "https://news.google.com/read/CBMi0AFBVV95cUxOdGhHUS1QSTVWMlN5NWdGRXdDTXdSaWlFc0dwcGFYZ3M4VnBJanVlVUxJMTRHdHpaU3VxSUtVcEZ0NXltVG1iLUtVY1pGRXZxclg0QmhPa25hTnBxMERCekdTdVFnQndhMlh4aDBmeXU5eTJIOUhsY0xuYW9CSmhna1VVNm9FSlNvYnVmOHJkaGhISWJaTjl0NGRDcVdXb3lWNGlNYkhDT0ZjTHR5N2JIV3lsN24xcVRySjlybmhKalpHeDh4NzBfNDhtS19ma2l30gHQAUFVX3lxTE5lSDZidmJCVTc3cEptWElaNTRfV2Z0TExRY05wc3IxVDRvT1hHSXktbld6VHcxVmEwLUlTbWZKWU9lVkpjVmxlalIzcm80VzU1MmRvSy1JMm5paUllUG12QjdEejhValJERS0wbnZ3LVhsYmhEV0t0cjRPSlZ6WVhQQTNzNlZqc1o1eVVwS2U3eHIyQ1JGTWdENjN3S1QxbkVPc1RLcndfRHJHSmxoLUNyTTFKSjRsYmprZlhlUmc3Q25PQmNsVDNET2RWTmllcXU?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-10-01T14:00:31.000Z",
       "pub_sort_dt": "2026-10-01 22:00:31"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "“不许留胡子，不许怪人”：赫格塞特加大五角大楼清洗力度，与此同时中国渠道正在开放 - South China Morning Post",
+      "title_cn": "“不许留胡子，不许怪人”：赫格塞特加大五角大楼清理力度，同期中国渠道正在开放 - 南华早报",
+      "url": "https://news.google.com/read/CBMizAFBVV95cUxQYm1kQUJkVnpmbHRnTkt4dkFEZ2dxVmxDQVdBVmJqejVkNjVOTGZaNEFNWVgyWXBEdWVHdTN1eTdLQVpSa0Q5ZlNxZ05EdlJYUXlROFEtdEtBS2d5bjJ1Vlo4UGN2ZVA4eVVGcUJZVklWZEMwNWFRUUdaVk94UTVIWFFLWHM1MEtQWmRsWFc3bWplaWhlX2RiZVVfVzdXX00xSThibUwzaElhQWJxeW5zbFFabkJweTFqSVNNOTFQajg1VnJlSFY3T2dpU2TSAcwBQVVfeXFMT3B5Szc5d3JfdTctWkF2c1Roc19hLURQUHczUGtCT3E1SUhPX3JDWExDaXZRazVmaDZsTy1WeVdWVlpUU0V5ZEFFaXJSU0VlUVp4QlF6Wl91b1I1NmNCS2lPVzVqSi11d2NYTUI4ZE45cmJHcGgzWFIzeTBPaU51UFhSZ0RZU3RSX2sxUVpxbnBWWXR3R0pvZ1g3eVVGTkVkX0ZNa1JEV1JDSzN3VnY1cGpQTHFPNXQ0aFV1VlBIMXJuSWRoQzRweDY3RS1B?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-01T13:52:15.000Z",
+      "pub_sort_dt": "2026-10-01 21:52:15"
     },
     {
       "source": "China Buzzing",
@@ -73,27 +89,67 @@
       "url": "https://news.google.com/read/CBMiggFBVV95cUxOa0g5TkMybU9LemwzRzllZGZwb1VHT281TUpMcm00UlJ5ZkRpb0JDdDE5UEtVOWs3N3Vvd2RRVkduSHhuX082a3c1aEE5YzFvdDZEU3E2ZFpNZGNWVjI1X0JvZElWeWlYWmJrVDliR1JGX1QxWjIwbmxsWHdMby03Wmln?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-10-01T12:00:54.000Z",
       "pub_sort_dt": "2026-10-01 20:00:54"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "研发激光灭蚊器的中国初创公司即将开始发货 - South China Morning Post",
-      "title_cn": "研发激光灭蚊器的中国公司即将开始付款 - 南华早报",
-      "url": "https://news.google.com/read/CBMi0AFBVV95cUxOUjM2eVd6TzdHamVUR3NRMHFsX1RvbUZxVzBnZGpSaTRsYjJHczZhTjdxSURLUFctMXJkTkZ3SExsUEJLTjVYblU2dXd3YXpxVVpYdXU4MVFiNTdJSjJ2dGpKSlk5Y3VTSW9wYVZSeDhIemlqc0JOZWZiaVBhaW1pR2xYLW9GSjRKYlhxbEVSRUJRUy1UaEdwN1NiQTBFcWpOUWY2SHhoelpLQjF1MEZUdTlBbDIxdGVnX0l3TFNPYTd4eXhUWndzOWNiNkdMSjYt0gHQAUFVX3lxTE9FcW82X2xKLU1zVndwVHZFY3FCeHkzUERHQVFRTUlYU3V2NXJJdGZFTGk0cXFndG9jQ0dkZ1ZXWHBfS1FaQnhLN1JuYWZjNXhYMXV4bjNUblk5RjAxanRROGZXOEdXNG54aHhTUmhodnZJQkFtVHc3Zk5DSXY2SWlnME5iMlpfcFRFSkg1dnVueEZ1bmRfUkZmV3NyLThRMVVRVUFWdmRlMmZMajU0bmtpMlJLUjNKNnpFTF8wOWsxdll2a1pFZHd6TXYxN0I1bW4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-01T12:00:07.000Z",
-      "pub_sort_dt": "2026-10-01 20:00:07"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着中国燃料供应担忧加剧，油价上涨 - TradingView",
-      "title_cn": "随着中国燃料供应担忧加剧，增幅加大 - TradingView",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxQUl9TMm1EbmFSUEhWVVhEdEhXZTlPM3M2OVpYRndva2o1dUhCV3FZSUdRN016b0l6ZDd1bE5xeE9hcG04NHFFcGdBTk1ybTRWYnlnbV8xdzBob2hGZ1RKamNRdVg1REpnVWRpcDlhQTFTYlBBS3lQQnNjalVqZHBDY3l4SHFSa01Od0tiQzk2MklxQmVSQzFjblhkVnA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-01T11:01:26.000Z",
-      "pub_sort_dt": "2026-10-01 19:01:26"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "香港经济第四季度焦点：财富与金融业繁荣，旅游业复苏不均衡",
+      "title_cn": "香港经济第四季焦点：财富与金融业繁荣、旅游业复苏不均衡",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-02/hong-kong-economy-q4-focus-wealth-and-finance-boom-uneven-tourism-recovery",
+      "pub_raw": "2026-10-02T03:45:18.684Z",
+      "pub_sort_dt": "2026-10-02 11:45:18"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "首批新型F-16V战斗机将运抵台湾，以加强针对中国的防卫能力",
+      "title_cn": "首批新型F-16V将运抵台湾，以加强针对中国的防卫能力",
+      "url": "https://reut.rs/4dirnkx",
+      "pub_raw": "2026-10-02T02:41:36.774Z",
+      "pub_sort_dt": "2026-10-02 10:41:36"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "比亚迪的出口强劲表现再次抵消了中国国内汽车需求疲软的影响",
+      "title_cn": "比亚迪出口强劲表现再次受到中国国内汽车需求疲软的影响",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/byd-export-strength-offsets-tepid-home-demand-again-in-september",
+      "pub_raw": "2026-10-02T02:24:59.871Z",
+      "pub_sort_dt": "2026-10-02 10:24:59"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "第一太阳能起诉中国JA Solar侵犯专利权",
+      "title_cn": "第一太阳能起诉中国JA Solar侵犯专利权",
+      "url": "https://reut.rs/3Vql3RM",
+      "pub_raw": "2026-10-02T02:24:59.849Z",
+      "pub_sort_dt": "2026-10-02 10:24:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "耐克在中国市场的重整需要的不只是卡戴珊家族",
+      "title_cn": "耐克在中国市场的重整需要的不仅仅是卡戴珊家族",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-02/nike-s-china-reset-needs-more-than-the-kardashians",
+      "pub_raw": "2026-10-02T01:38:02.563Z",
+      "pub_sort_dt": "2026-10-02 09:38:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国婚礼视频正成为“迷你大片”",
+      "title_cn": "中国婚礼视频正成为“迷你大片”",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-02/chinese-wedding-videos-are-becoming-mini-blockbusters",
+      "pub_raw": "2026-10-02T00:03:15.931Z",
+      "pub_sort_dt": "2026-10-02 08:03:15"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国指控一名加利福尼亚州男子向中国走私受出口管制的服务器",
+      "title_cn": "美国指控加利福尼亚州一名男子向中国走私受出口管制的服务器",
+      "url": "https://reut.rs/3TG2Cb4",
+      "pub_raw": "2026-10-01T23:47:09.110Z",
+      "pub_sort_dt": "2026-10-02 07:47:09"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "英伟达因中国AI芯片走私案件面临质疑",
       "title_cn": "英伟达因中国AI芯片走私案件面临质疑",
       "url": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases",
@@ -195,65 +251,17 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-10-01/china-is-facing-an-energy-transition-dilemma-in-pakistan",
       "pub_raw": "2026-10-01T11:14:13.973Z",
       "pub_sort_dt": "2026-10-01 19:14:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "民主党高层人士要求人工智能企业提供有关中国方面是否接触过敏感代码的数据",
-      "title_cn": "电梯高层人员要求人工智能企业提供有关中国方面是否接触敏感代码的数据",
-      "url": "https://reut.rs/4hA9FtM",
-      "pub_raw": "2026-10-01T10:58:08.825Z",
-      "pub_sort_dt": "2026-10-01 18:58:08"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "星巴克在中国新疆开设了首家咖啡馆",
-      "title_cn": "星巴克在中国新疆成为了首家咖啡馆",
-      "url": "https://www.ft.com/content/352e32dd-9dd8-4544-a807-9ec1a4904105?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-01T10:26:57.574Z",
-      "pub_sort_dt": "2026-10-01 18:26:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "据称，腾讯投资的人工智能云计算独角兽已提交香港IPO申请",
-      "title_cn": "需求，腾讯投资的人工智能云计算独角兽已提交香港IPO申请",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo",
-      "pub_raw": "2026-10-01T09:57:12.408Z",
-      "pub_sort_dt": "2026-10-01 17:57:12"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国取消部分燃料运输以保障国内供应",
-      "title_cn": "中国取消部分燃料运输以国内供应",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/china-cancels-some-fuel-shipments-to-support-domestic-supply",
-      "pub_raw": "2026-10-01T09:57:12.342Z",
-      "pub_sort_dt": "2026-10-01 17:57:12"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国在经济增长放缓后考虑采取更有针对性的财政支持措施",
-      "title_cn": "中国在经济增长后考虑采取更多的财政支持措施",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/china-eyes-more-targeted-fiscal-support-after-growth-slowdown",
-      "pub_raw": "2026-10-01T09:57:12.223Z",
-      "pub_sort_dt": "2026-10-01 17:57:12"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "探秘中国清洁技术初创企业的鲜为人知的世界",
-      "title_cn": "探秘中国清洁技术触及企业鲜为人知的世界",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/inside-the-little-known-world-of-china-s-clean-tech-startups",
-      "pub_raw": "2026-10-01T09:57:12.197Z",
-      "pub_sort_dt": "2026-10-01 17:57:12"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "消息人士称，中国炼油企业暂停了10月份的燃料出口",
-      "title_cn": "消息人士称，中国炼油企业暂停了10月份燃料出口",
-      "url": "https://reut.rs/4z5IDBR",
-      "pub_raw": "2026-10-01T09:57:11.589Z",
-      "pub_sort_dt": "2026-10-01 17:57:11"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "首批新型F-16V战斗机将运抵台湾，以加强针对中国的防卫能力 - Reuters",
+      "title_cn": "首批新型F-16V将运抵台湾，以加强针对中国的防卫能力 - 路透中文网",
+      "url": "https://news.google.com/read/CBMi0gFBVV95cUxQemotSUFPaElSNFZ4OHRwM2pXYktMUzh3QmJPcVR6QkdvdVJVbENTVVo1cmxUSUxRZnhjZExnWUhYQTlXT25GWTIwTG5OMGItZlRJeV9BejdXZ3h4U0YzZFByVGE2TmtBb2REeGlNVW82OUpvOUREQktUOHFlWkl0bUVXNUZFM1FTNy1OdDgxYjFDY1hxRFhqcVNVT3Q0QmtPUktoeEZscnpYQVFDcGlGUnpjUUt3T3d5Q0wzbzlzeEcwQWFINEtPNkpMbFYtejE4OEE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-02T02:22:00.000Z",
+      "pub_sort_dt": "2026-10-02 10:22:00"
+    },
     {
       "source": "China Buzzing",
       "title_en": "为何美国导弹短缺会加剧潜在的台湾海峡冲突风险 - South China Morning Post",
@@ -261,6 +269,14 @@
       "url": "https://news.google.com/read/CBMi0AFBVV95cUxOdGhHUS1QSTVWMlN5NWdGRXdDTXdSaWlFc0dwcGFYZ3M4VnBJanVlVUxJMTRHdHpaU3VxSUtVcEZ0NXltVG1iLUtVY1pGRXZxclg0QmhPa25hTnBxMERCekdTdVFnQndhMlh4aDBmeXU5eTJIOUhsY0xuYW9CSmhna1VVNm9FSlNvYnVmOHJkaGhISWJaTjl0NGRDcVdXb3lWNGlNYkhDT0ZjTHR5N2JIV3lsN24xcVRySjlybmhKalpHeDh4NzBfNDhtS19ma2l30gHQAUFVX3lxTE5lSDZidmJCVTc3cEptWElaNTRfV2Z0TExRY05wc3IxVDRvT1hHSXktbld6VHcxVmEwLUlTbWZKWU9lVkpjVmxlalIzcm80VzU1MmRvSy1JMm5paUllUG12QjdEejhValJERS0wbnZ3LVhsYmhEV0t0cjRPSlZ6WVhQQTNzNlZqc1o1eVVwS2U3eHIyQ1JGTWdENjN3S1QxbkVPc1RLcndfRHJHSmxoLUNyTTFKSjRsYmprZlhlUmc3Q25PQmNsVDNET2RWTmllcXU?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-10-01T14:00:31.000Z",
       "pub_sort_dt": "2026-10-01 22:00:31"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "“不许留胡子，不许怪人”：赫格塞特加大五角大楼清洗力度，与此同时中国渠道正在开放 - South China Morning Post",
+      "title_cn": "“不许留胡子，不许怪人”：赫格塞特加大五角大楼清理力度，同期中国渠道正在开放 - 南华早报",
+      "url": "https://news.google.com/read/CBMizAFBVV95cUxQYm1kQUJkVnpmbHRnTkt4dkFEZ2dxVmxDQVdBVmJqejVkNjVOTGZaNEFNWVgyWXBEdWVHdTN1eTdLQVpSa0Q5ZlNxZ05EdlJYUXlROFEtdEtBS2d5bjJ1Vlo4UGN2ZVA4eVVGcUJZVklWZEMwNWFRUUdaVk94UTVIWFFLWHM1MEtQWmRsWFc3bWplaWhlX2RiZVVfVzdXX00xSThibUwzaElhQWJxeW5zbFFabkJweTFqSVNNOTFQajg1VnJlSFY3T2dpU2TSAcwBQVVfeXFMT3B5Szc5d3JfdTctWkF2c1Roc19hLURQUHczUGtCT3E1SUhPX3JDWExDaXZRazVmaDZsTy1WeVdWVlpUU0V5ZEFFaXJSU0VlUVp4QlF6Wl91b1I1NmNCS2lPVzVqSi11d2NYTUI4ZE45cmJHcGgzWFIzeTBPaU51UFhSZ0RZU3RSX2sxUVpxbnBWWXR3R0pvZ1g3eVVGTkVkX0ZNa1JEV1JDSzN3VnY1cGpQTHFPNXQ0aFV1VlBIMXJuSWRoQzRweDY3RS1B?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-01T13:52:15.000Z",
+      "pub_sort_dt": "2026-10-01 21:52:15"
     },
     {
       "source": "China Buzzing",
@@ -319,20 +335,60 @@
       "pub_sort_dt": "2026-10-01 20:00:54"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "研发激光灭蚊器的中国初创公司即将开始发货 - South China Morning Post",
-      "title_cn": "研发激光灭蚊器的中国公司即将开始付款 - 南华早报",
-      "url": "https://news.google.com/read/CBMi0AFBVV95cUxOUjM2eVd6TzdHamVUR3NRMHFsX1RvbUZxVzBnZGpSaTRsYjJHczZhTjdxSURLUFctMXJkTkZ3SExsUEJLTjVYblU2dXd3YXpxVVpYdXU4MVFiNTdJSjJ2dGpKSlk5Y3VTSW9wYVZSeDhIemlqc0JOZWZiaVBhaW1pR2xYLW9GSjRKYlhxbEVSRUJRUy1UaEdwN1NiQTBFcWpOUWY2SHhoelpLQjF1MEZUdTlBbDIxdGVnX0l3TFNPYTd4eXhUWndzOWNiNkdMSjYt0gHQAUFVX3lxTE9FcW82X2xKLU1zVndwVHZFY3FCeHkzUERHQVFRTUlYU3V2NXJJdGZFTGk0cXFndG9jQ0dkZ1ZXWHBfS1FaQnhLN1JuYWZjNXhYMXV4bjNUblk5RjAxanRROGZXOEdXNG54aHhTUmhodnZJQkFtVHc3Zk5DSXY2SWlnME5iMlpfcFRFSkg1dnVueEZ1bmRfUkZmV3NyLThRMVVRVUFWdmRlMmZMajU0bmtpMlJLUjNKNnpFTF8wOWsxdll2a1pFZHd6TXYxN0I1bW4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-01T12:00:07.000Z",
-      "pub_sort_dt": "2026-10-01 20:00:07"
+      "source": "Bloomberg",
+      "title_en": "香港经济第四季度焦点：财富与金融业繁荣，旅游业复苏不均衡",
+      "title_cn": "香港经济第四季焦点：财富与金融业繁荣、旅游业复苏不均衡",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-02/hong-kong-economy-q4-focus-wealth-and-finance-boom-uneven-tourism-recovery",
+      "pub_raw": "2026-10-02T03:45:18.684Z",
+      "pub_sort_dt": "2026-10-02 11:45:18"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "随着中国燃料供应担忧加剧，油价上涨 - TradingView",
-      "title_cn": "随着中国燃料供应担忧加剧，增幅加大 - TradingView",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxQUl9TMm1EbmFSUEhWVVhEdEhXZTlPM3M2OVpYRndva2o1dUhCV3FZSUdRN016b0l6ZDd1bE5xeE9hcG04NHFFcGdBTk1ybTRWYnlnbV8xdzBob2hGZ1RKamNRdVg1REpnVWRpcDlhQTFTYlBBS3lQQnNjalVqZHBDY3l4SHFSa01Od0tiQzk2MklxQmVSQzFjblhkVnA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-01T11:01:26.000Z",
-      "pub_sort_dt": "2026-10-01 19:01:26"
+      "source": "Reuters",
+      "title_en": "首批新型F-16V战斗机将运抵台湾，以加强针对中国的防卫能力",
+      "title_cn": "首批新型F-16V将运抵台湾，以加强针对中国的防卫能力",
+      "url": "https://reut.rs/4dirnkx",
+      "pub_raw": "2026-10-02T02:41:36.774Z",
+      "pub_sort_dt": "2026-10-02 10:41:36"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "比亚迪的出口强劲表现再次抵消了中国国内汽车需求疲软的影响",
+      "title_cn": "比亚迪出口强劲表现再次受到中国国内汽车需求疲软的影响",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/byd-export-strength-offsets-tepid-home-demand-again-in-september",
+      "pub_raw": "2026-10-02T02:24:59.871Z",
+      "pub_sort_dt": "2026-10-02 10:24:59"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "第一太阳能起诉中国JA Solar侵犯专利权",
+      "title_cn": "第一太阳能起诉中国JA Solar侵犯专利权",
+      "url": "https://reut.rs/3Vql3RM",
+      "pub_raw": "2026-10-02T02:24:59.849Z",
+      "pub_sort_dt": "2026-10-02 10:24:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "耐克在中国市场的重整需要的不只是卡戴珊家族",
+      "title_cn": "耐克在中国市场的重整需要的不仅仅是卡戴珊家族",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-02/nike-s-china-reset-needs-more-than-the-kardashians",
+      "pub_raw": "2026-10-02T01:38:02.563Z",
+      "pub_sort_dt": "2026-10-02 09:38:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国婚礼视频正成为“迷你大片”",
+      "title_cn": "中国婚礼视频正成为“迷你大片”",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-02/chinese-wedding-videos-are-becoming-mini-blockbusters",
+      "pub_raw": "2026-10-02T00:03:15.931Z",
+      "pub_sort_dt": "2026-10-02 08:03:15"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国指控一名加利福尼亚州男子向中国走私受出口管制的服务器",
+      "title_cn": "美国指控加利福尼亚州一名男子向中国走私受出口管制的服务器",
+      "url": "https://reut.rs/3TG2Cb4",
+      "pub_raw": "2026-10-01T23:47:09.110Z",
+      "pub_sort_dt": "2026-10-02 07:47:09"
     },
     {
       "source": "Bloomberg",
@@ -437,62 +493,6 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-10-01/china-is-facing-an-energy-transition-dilemma-in-pakistan",
       "pub_raw": "2026-10-01T11:14:13.973Z",
       "pub_sort_dt": "2026-10-01 19:14:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "民主党高层人士要求人工智能企业提供有关中国方面是否接触过敏感代码的数据",
-      "title_cn": "电梯高层人员要求人工智能企业提供有关中国方面是否接触敏感代码的数据",
-      "url": "https://reut.rs/4hA9FtM",
-      "pub_raw": "2026-10-01T10:58:08.825Z",
-      "pub_sort_dt": "2026-10-01 18:58:08"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "星巴克在中国新疆开设了首家咖啡馆",
-      "title_cn": "星巴克在中国新疆成为了首家咖啡馆",
-      "url": "https://www.ft.com/content/352e32dd-9dd8-4544-a807-9ec1a4904105?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-01T10:26:57.574Z",
-      "pub_sort_dt": "2026-10-01 18:26:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "据称，腾讯投资的人工智能云计算独角兽已提交香港IPO申请",
-      "title_cn": "需求，腾讯投资的人工智能云计算独角兽已提交香港IPO申请",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo",
-      "pub_raw": "2026-10-01T09:57:12.408Z",
-      "pub_sort_dt": "2026-10-01 17:57:12"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国取消部分燃料运输以保障国内供应",
-      "title_cn": "中国取消部分燃料运输以国内供应",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/china-cancels-some-fuel-shipments-to-support-domestic-supply",
-      "pub_raw": "2026-10-01T09:57:12.342Z",
-      "pub_sort_dt": "2026-10-01 17:57:12"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国在经济增长放缓后考虑采取更有针对性的财政支持措施",
-      "title_cn": "中国在经济增长后考虑采取更多的财政支持措施",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/china-eyes-more-targeted-fiscal-support-after-growth-slowdown",
-      "pub_raw": "2026-10-01T09:57:12.223Z",
-      "pub_sort_dt": "2026-10-01 17:57:12"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "探秘中国清洁技术初创企业的鲜为人知的世界",
-      "title_cn": "探秘中国清洁技术触及企业鲜为人知的世界",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/inside-the-little-known-world-of-china-s-clean-tech-startups",
-      "pub_raw": "2026-10-01T09:57:12.197Z",
-      "pub_sort_dt": "2026-10-01 17:57:12"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "消息人士称，中国炼油企业暂停了10月份的燃料出口",
-      "title_cn": "消息人士称，中国炼油企业暂停了10月份燃料出口",
-      "url": "https://reut.rs/4z5IDBR",
-      "pub_raw": "2026-10-01T09:57:11.589Z",
-      "pub_sort_dt": "2026-10-01 17:57:11"
     }
   ]
 }
