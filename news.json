@@ -1,15 +1,47 @@
 {
-  "update_cst": "2026-10-03 18:01:05 北京时间",
+  "update_cst": "2026-10-04 06:01:05 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 9,
+    "Bloomberg": 10,
     "Financial Times": 4,
     "Wall Street Journal": 0,
-    "Reuters": 7
+    "Reuters": 6
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "“中国风”潮流凸显了中国日益增强的全球吸引力 - news.cgtn.com",
+      "title_cn": "“中国风”潮流凸显中国日益增强的全球吸引力 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxQeTMzd0tTQVpaWFJhUjVFMnlVNURweFY4ZTFySDZsTGhnczFibEF4RXh1TmtEbVplZFdZWi1zUS1qd3ZWcTRaeTZWSFZpM1Q2QXprYVZiZzAzMzdPZ3JGTGFEWS1PZ3ZTZk1OY1ZmbjdFOFZWUDdqUXpkQXV0RW5vbncySWJYOXpOb0F3S3BQQVZhTVVPbDVjZnNyZ2RGcmRyTFBzMGEzUmJwbWl5bnBxNHl0QlN2Zw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-03T13:41:48.000Z",
+      "pub_sort_dt": "2026-10-03 21:41:48"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着RISC-V芯片走向主流，中美科技合作正日益深化 - South China Morning Post",
+      "title_cn": "随着RISC-V芯片走向主流，中美科技合作正寻求探索 - 南华早报",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxNWjNPY1kxV1N4OHJhNGtxQ1Z0eWdrY0U2T1ZIZHhvTUhFcndzcjRUcVJVNDVuMEFyRlgzMHdDSVF6c1JSb1VScEpEcENRWVJPYy1LcFBfNlVFNFl3VHVyLWZKQTc1TnlpU3VwWURfUTdUUHF6RGdlQVdGWFBrZ1gtUEUtQmtwWGFWakViSVVndGRyWHdUSThWOGhXWnpGeTA1cnFCM2tYRUdvTjJscExzalZTVjE4bFBuNnfSAboBQVVfeXFMT3NaS0JTUl8ySnE4a2F2Vzgxb0RPdFBsbTJ2ZjU3cEJibEszVXZHUEozWnBETS1qSFZ5TEV6ckdUaGN4N0plWU1xODF5V25aREliR1J2Y18zTHBJWjBCQnBSMXB4Rkx4bHJsSDE4WUhmM3RDZnZDTjBTUlE2dTF3Z3N3UmFqcnYwUVNSYmRWS1Nnc29rcVBXMURIc0RyZkdNM1VzWTNTam5iVl9ZaTgtLWZ0bGdRZ0R0UEZn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-03T13:00:16.000Z",
+      "pub_sort_dt": "2026-10-03 21:00:16"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在北京贸易会谈召开前几天，中国对欧盟启动反倾销调查 - Euronews.com",
+      "title_cn": "在北京贸易休会召开前几天，中国对欧盟启动反倾销调查 - Euronews.com",
+      "url": "https://news.google.com/read/CBMiqgFBVV95cUxNa3N2ZzRCNGRJU3hRTjVTWjVDa3ktVnFSTVFtNHFyd1BwTWFnd25jdVNWbVhRM3ZIM1FkdWxrdVpmbGdadFl1UTE1VnJ5UnlrdWVEdG4xSllVeUtUM2dzVWZzcktnU1lBeFN1S2tUb2FyaDRnajdaaEt0N095bGdqYk93TXlWVjR1WHNYSjRTMFNsVzUtbUJzMTFmNXczRUZHWHRCRmY4SGUtZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-03T10:09:07.000Z",
+      "pub_sort_dt": "2026-10-03 18:09:07"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国一家锂矿发现更宽的矿脉，这将增强北京的电池供应 - scmp.com",
+      "title_cn": "中国一家锂矿发现更宽的矿脉，这将增强北京的电池供应 - scmp.com",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxQYkVZbWpBU0k5b3BrSGplN3pQZEo5S21scFdKT1hqMC1rUkxQaVZ6Qlp2bDA1ODdIeWNtV3ZuYWFSYmJ1eDl2N04xS3I4cW5NNnpaa1JCMUMzWlpaODk1SUpMaUlaQzY2MVRtM183WEpwWkZNYnlaeHNqeWsxOTVuMUtMZXN4R2pvLW9yTnIxRDNmREJUTjVXMnVrUUdTOTd4MnE5WjJMTDdOYW1XRnpKeFhGclM1SldYV0dVVlVPZDBZaUZ5eWRDZXBRek44U2NL0gHQAUFVX3lxTFB5RkcyTHRBZnFpMnBEOU1HRGVxZG1GakRTa2pnTE42RU1XMG9ka3V1cDBDVko1bVgwb05fY2N0OW4wUW82RWVmYlo2emFiWlRadFp5amxvSk85Mng5eFE5NHF0Z2ZnX3NOYkpZQ1MxSjktdGhwTWNHTkx3RkFjRE9BZW5JY3BmaVRURTl2c25fMmczRlVObGt6djhIbjN5aEo2M014MmNWZW94azRSNF82U00wcUVRb0VCeE9HY3Fxd1BqdzFrcERaWUltQUpfMEk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-03T07:00:11.000Z",
+      "pub_sort_dt": "2026-10-03 15:00:11"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国、美国与新的“大博弈” - Financial Times",
@@ -57,41 +89,17 @@
       "url": "https://news.google.com/read/CBMisgFBVV95cUxPZmphbml5OGpGMlhJejZFWWd1OGRKOXhOTi11X0dqVkF0T2x4N0FXNEFCc1lSRWVvaWRxZko5ZU8tcEwxTUIzUWdWU0FGbGNyNjdrUDdtZ1VOQkpEV29raWtoTlpZQ0FPcTFHeFBpN05hdVR6VzJaN2tMeU9YekF0ZU85aDRzdEhtSFF0T29JdjMwdDREMUlNREtoeXlVVHE4VW9wMENGTm9mZ1hSUUV0OXR30gG3AUFVX3lxTFBIemgyYnFoc1hUeWdSX3NENTBobnh4NFFqNnd4bGhnRHU2SlVlTFJsQUs1NFRBclBOcUJuUDIzU3Q3Z0pWMTgzYnkxcVJuNzNISjZFcVdEV3dHRDI3Q1BZMGEzZmxJdWVJYk1qR1ctYzJlQjctTDc1dXRMUlNFUUtWdDdzckNydjlSaUEtV3YtT2dmQVZ4VjZNamhSMDZCZHhpdUF5OEJMQk1kaEt5UmFBem02SXZyYw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-10-02T20:57:13.000Z",
       "pub_sort_dt": "2026-10-03 04:57:13"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“熊猫外交”谱系图：以下是中国借给美国的每对熊猫 - koco.com",
-      "title_cn": "“熊猫动物园”谱系图：以下是中国借给美国的每对熊猫 - koco.com",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxQZkNrUWZiWk9HT09GTlJHTGpSNmNtOWdnMkFJWE44a0duYjQ0RWZZMDZmLVNMb3FmQkdManF2NlExT3llTDhSSmJRd0VadFNxT1hNcHNPV3Q4aXUxVlVFT3NUNWt0WjlaMldhRXl5b1dyRDJ1bFA0b3oteDR0dTE5eTVCakRIQkxSaGdr?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-02T18:24:00.000Z",
-      "pub_sort_dt": "2026-10-03 02:24:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“熊猫外交”谱系图：中国借给美国的每对熊猫都在这里 - WYFF",
-      "title_cn": "“熊猫动物园”谱系图：中国借给美国的每对熊猫都在这里 - WYFF",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxQT2RFXzM5QnFXZmJJY1VjRmdPbVBtcnFXSlhsTXA3X09KY2ROMmo2M1h2YWJ1VkJsOGJuSWRmNHZhMDc4bktLRFVPaTd0dl9VTG1YajR1YlRQYkdOWWxmblZucUN4cllJaFd4dVd1cHo2T0JYUGwwa0h2alVMT0lRaGREZXNMRHAwN0c5bg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-02T18:24:00.000Z",
-      "pub_sort_dt": "2026-10-03 02:24:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“熊猫外交”谱系图：以下是中国借给美国的每一对熊猫 - WBAL-TV",
-      "title_cn": "“熊猫动物园”谱系图：以下是中国借给美国的每一只对熊猫 - WBAL-TV",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxNcWgyR25IZVdjM3psUDludlluNThDd1Z1V1l1WHFGQTdKdm9pQXhPQ05mUy00TXdBLWw5VW1fQW9NSjVtU1NCT3NVZi1jYVdYNjhxWWJHOV9MZ1hBR29xc0J2bFIyaUFPdkdndVY0TVJTYk5tZVQzTmo4UmZ3aW5TMHpWMEk3TEhaSzFtRW9B?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-02T18:24:00.000Z",
-      "pub_sort_dt": "2026-10-03 02:24:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“熊猫外交”谱系图：以下是中国借给美国的每对熊猫 - WGAL",
-      "title_cn": "“熊猫动物园”谱系图：以下是中国借给美国的每对熊猫 - WGAL",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxObzltVl9CeVZSY19XckZlM2FMZmNHN1N1UUU1NVg4bEptT09qX09ZTndUcEQyUmU4d2RNSnJWQ2VGVlpzTkNib2daaTZCZUVoTHhjcVEwLTdkc0VMX1J0a2dnUlZ2djZOaW9IQlJ6XzNoWEN4STIzWVgwd2RpYzlzWDh3bXNwUTVJQmp3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-02T18:24:00.000Z",
-      "pub_sort_dt": "2026-10-03 02:24:00"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "印度的制造业未来不会效仿中国模式：《新经济》",
+      "title_cn": "印度制造业未来不会效仿中国模式：《新经济》",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-03/india-s-manufacturing-future-is-not-the-china-model-new-economy",
+      "pub_raw": "2026-10-03T11:05:53.602Z",
+      "pub_sort_dt": "2026-10-03 19:05:53"
+    },
     {
       "source": "Financial Times",
       "title_en": "中国对欧洲化学品出口启动反倾销调查",
@@ -243,19 +251,43 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-02/novartis-inks-chinese-mrna-therapy-deal-for-up-to-7-8-billion",
       "pub_raw": "2026-10-02T07:08:42.806Z",
       "pub_sort_dt": "2026-10-02 15:08:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：最新卫星图像显示，中国在南海羚羊礁的施工工作正在加速推进",
-      "title_cn": "独家：最新卫星图像显示，中国在南海羚羊礁的施工工作正在加速推进",
-      "url": "https://reut.rs/4AJtU17",
-      "pub_raw": "2026-10-02T06:37:50.770Z",
-      "pub_sort_dt": "2026-10-02 14:37:50"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "“中国风”潮流凸显了中国日益增强的全球吸引力 - news.cgtn.com",
+      "title_cn": "“中国风”潮流凸显中国日益增强的全球吸引力 - news.cgtn.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxQeTMzd0tTQVpaWFJhUjVFMnlVNURweFY4ZTFySDZsTGhnczFibEF4RXh1TmtEbVplZFdZWi1zUS1qd3ZWcTRaeTZWSFZpM1Q2QXprYVZiZzAzMzdPZ3JGTGFEWS1PZ3ZTZk1OY1ZmbjdFOFZWUDdqUXpkQXV0RW5vbncySWJYOXpOb0F3S3BQQVZhTVVPbDVjZnNyZ2RGcmRyTFBzMGEzUmJwbWl5bnBxNHl0QlN2Zw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-03T13:41:48.000Z",
+      "pub_sort_dt": "2026-10-03 21:41:48"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着RISC-V芯片走向主流，中美科技合作正日益深化 - South China Morning Post",
+      "title_cn": "随着RISC-V芯片走向主流，中美科技合作正寻求探索 - 南华早报",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxNWjNPY1kxV1N4OHJhNGtxQ1Z0eWdrY0U2T1ZIZHhvTUhFcndzcjRUcVJVNDVuMEFyRlgzMHdDSVF6c1JSb1VScEpEcENRWVJPYy1LcFBfNlVFNFl3VHVyLWZKQTc1TnlpU3VwWURfUTdUUHF6RGdlQVdGWFBrZ1gtUEUtQmtwWGFWakViSVVndGRyWHdUSThWOGhXWnpGeTA1cnFCM2tYRUdvTjJscExzalZTVjE4bFBuNnfSAboBQVVfeXFMT3NaS0JTUl8ySnE4a2F2Vzgxb0RPdFBsbTJ2ZjU3cEJibEszVXZHUEozWnBETS1qSFZ5TEV6ckdUaGN4N0plWU1xODF5V25aREliR1J2Y18zTHBJWjBCQnBSMXB4Rkx4bHJsSDE4WUhmM3RDZnZDTjBTUlE2dTF3Z3N3UmFqcnYwUVNSYmRWS1Nnc29rcVBXMURIc0RyZkdNM1VzWTNTam5iVl9ZaTgtLWZ0bGdRZ0R0UEZn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-03T13:00:16.000Z",
+      "pub_sort_dt": "2026-10-03 21:00:16"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "在北京贸易会谈召开前几天，中国对欧盟启动反倾销调查 - Euronews.com",
+      "title_cn": "在北京贸易休会召开前几天，中国对欧盟启动反倾销调查 - Euronews.com",
+      "url": "https://news.google.com/read/CBMiqgFBVV95cUxNa3N2ZzRCNGRJU3hRTjVTWjVDa3ktVnFSTVFtNHFyd1BwTWFnd25jdVNWbVhRM3ZIM1FkdWxrdVpmbGdadFl1UTE1VnJ5UnlrdWVEdG4xSllVeUtUM2dzVWZzcktnU1lBeFN1S2tUb2FyaDRnajdaaEt0N095bGdqYk93TXlWVjR1WHNYSjRTMFNsVzUtbUJzMTFmNXczRUZHWHRCRmY4SGUtZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-03T10:09:07.000Z",
+      "pub_sort_dt": "2026-10-03 18:09:07"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国一家锂矿发现更宽的矿脉，这将增强北京的电池供应 - scmp.com",
+      "title_cn": "中国一家锂矿发现更宽的矿脉，这将增强北京的电池供应 - scmp.com",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxQYkVZbWpBU0k5b3BrSGplN3pQZEo5S21scFdKT1hqMC1rUkxQaVZ6Qlp2bDA1ODdIeWNtV3ZuYWFSYmJ1eDl2N04xS3I4cW5NNnpaa1JCMUMzWlpaODk1SUpMaUlaQzY2MVRtM183WEpwWkZNYnlaeHNqeWsxOTVuMUtMZXN4R2pvLW9yTnIxRDNmREJUTjVXMnVrUUdTOTd4MnE5WjJMTDdOYW1XRnpKeFhGclM1SldYV0dVVlVPZDBZaUZ5eWRDZXBRek44U2NL0gHQAUFVX3lxTFB5RkcyTHRBZnFpMnBEOU1HRGVxZG1GakRTa2pnTE42RU1XMG9ka3V1cDBDVko1bVgwb05fY2N0OW4wUW82RWVmYlo2emFiWlRadFp5amxvSk85Mng5eFE5NHF0Z2ZnX3NOYkpZQ1MxSjktdGhwTWNHTkx3RkFjRE9BZW5JY3BmaVRURTl2c25fMmczRlVObGt6djhIbjN5aEo2M014MmNWZW94azRSNF82U00wcUVRb0VCeE9HY3Fxd1BqdzFrcERaWUltQUpfMEk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-03T07:00:11.000Z",
+      "pub_sort_dt": "2026-10-03 15:00:11"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "中国、美国与新的“大博弈” - Financial Times",
       "title_cn": "中国、美国与新的“大博弈” - 金融时报",
       "url": "https://news.google.com/read/CBMihAFBVV95cUxNZ3VlWW5lY2xfZVNxdEloMjAwaG9VRmN2bVE4V1lhYWFPNlRQQ1lfSThKczNxRFp5Vm5jSlpNSE9SbWlhdDJUQ3NmVlFidVFSYlpoWmhFQzV5TFNXejBfTm80OEVxNzNkbnNvRFo2Wkh4a2Rhei02SjJJX3NXQ0QyVFNVX00?hl=en-US&gl=US&ceid=US%3Aen",
@@ -303,36 +335,12 @@
       "pub_sort_dt": "2026-10-03 04:57:13"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "“熊猫外交”谱系图：以下是中国借给美国的每对熊猫 - koco.com",
-      "title_cn": "“熊猫动物园”谱系图：以下是中国借给美国的每对熊猫 - koco.com",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxQZkNrUWZiWk9HT09GTlJHTGpSNmNtOWdnMkFJWE44a0duYjQ0RWZZMDZmLVNMb3FmQkdManF2NlExT3llTDhSSmJRd0VadFNxT1hNcHNPV3Q4aXUxVlVFT3NUNWt0WjlaMldhRXl5b1dyRDJ1bFA0b3oteDR0dTE5eTVCakRIQkxSaGdr?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-02T18:24:00.000Z",
-      "pub_sort_dt": "2026-10-03 02:24:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“熊猫外交”谱系图：中国借给美国的每对熊猫都在这里 - WYFF",
-      "title_cn": "“熊猫动物园”谱系图：中国借给美国的每对熊猫都在这里 - WYFF",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxQT2RFXzM5QnFXZmJJY1VjRmdPbVBtcnFXSlhsTXA3X09KY2ROMmo2M1h2YWJ1VkJsOGJuSWRmNHZhMDc4bktLRFVPaTd0dl9VTG1YajR1YlRQYkdOWWxmblZucUN4cllJaFd4dVd1cHo2T0JYUGwwa0h2alVMT0lRaGREZXNMRHAwN0c5bg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-02T18:24:00.000Z",
-      "pub_sort_dt": "2026-10-03 02:24:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“熊猫外交”谱系图：以下是中国借给美国的每一对熊猫 - WBAL-TV",
-      "title_cn": "“熊猫动物园”谱系图：以下是中国借给美国的每一只对熊猫 - WBAL-TV",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxNcWgyR25IZVdjM3psUDludlluNThDd1Z1V1l1WHFGQTdKdm9pQXhPQ05mUy00TXdBLWw5VW1fQW9NSjVtU1NCT3NVZi1jYVdYNjhxWWJHOV9MZ1hBR29xc0J2bFIyaUFPdkdndVY0TVJTYk5tZVQzTmo4UmZ3aW5TMHpWMEk3TEhaSzFtRW9B?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-02T18:24:00.000Z",
-      "pub_sort_dt": "2026-10-03 02:24:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "“熊猫外交”谱系图：以下是中国借给美国的每对熊猫 - WGAL",
-      "title_cn": "“熊猫动物园”谱系图：以下是中国借给美国的每对熊猫 - WGAL",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxObzltVl9CeVZSY19XckZlM2FMZmNHN1N1UUU1NVg4bEptT09qX09ZTndUcEQyUmU4d2RNSnJWQ2VGVlpzTkNib2daaTZCZUVoTHhjcVEwLTdkc0VMX1J0a2dnUlZ2djZOaW9IQlJ6XzNoWEN4STIzWVgwd2RpYzlzWDh3bXNwUTVJQmp3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-02T18:24:00.000Z",
-      "pub_sort_dt": "2026-10-03 02:24:00"
+      "source": "Bloomberg",
+      "title_en": "印度的制造业未来不会效仿中国模式：《新经济》",
+      "title_cn": "印度制造业未来不会效仿中国模式：《新经济》",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-03/india-s-manufacturing-future-is-not-the-china-model-new-economy",
+      "pub_raw": "2026-10-03T11:05:53.602Z",
+      "pub_sort_dt": "2026-10-03 19:05:53"
     },
     {
       "source": "Financial Times",
@@ -485,14 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-02/novartis-inks-chinese-mrna-therapy-deal-for-up-to-7-8-billion",
       "pub_raw": "2026-10-02T07:08:42.806Z",
       "pub_sort_dt": "2026-10-02 15:08:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：最新卫星图像显示，中国在南海羚羊礁的施工工作正在加速推进",
-      "title_cn": "独家：最新卫星图像显示，中国在南海羚羊礁的施工工作正在加速推进",
-      "url": "https://reut.rs/4AJtU17",
-      "pub_raw": "2026-10-02T06:37:50.770Z",
-      "pub_sort_dt": "2026-10-02 14:37:50"
     }
   ]
 }
