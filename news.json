@@ -1,112 +1,224 @@
 {
-  "update_cst": "2026-10-05 18:01:08 北京时间",
+  "update_cst": "2026-10-06 06:01:16 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
+    "The Economist": 2,
     "Bloomberg": 7,
-    "Financial Times": 6,
-    "Wall Street Journal": 0,
+    "Financial Times": 3,
+    "Wall Street Journal": 1,
     "Reuters": 7
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "“不受欢迎且不安全”：为何日本企业正以史无前例的速度撤离中国 - CNBC",
-      "title_cn": "“不受欢迎且不安全”：为何日本企业正以史无前例的速度探讨中国 - CNBC",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxQbGV3XzVidV9WOXgxTDA2QWQ5MGdSeEhZNWNjWmJDYW1XbTFhUGlyZmlmX2V2ck82d29BeWl2UEQzbXRzbzEwUVdnbFRfQXBqb0xUMEV0RzU3b2FzX0lUUWp6d2xSRHhnTG10VzRPX3JFaHh3NXh2cUs2VzBaeWp5a1dTcGlmRDZvdHJvLUdBTEJCM3dqR0xuRtIBngFBVV95cUxPajhCd1pxM0dpMjV2TjBQQ21ZYlJhQk05UjlCdmdEWVQ1NG85bXlGUjFmTFdzLU5pMVZieVIxWjZVSDdCUC1pWWNTRHVjVjNfVFVfTUtZRkVZWWg4Q3VSYVVjV0hoRjM2cmlNRTc0ZFI1WUJfUVVla3A5VDZhaHF5VFN4RWtPQkg2alFkREw0MlBOWEcxYV9GQmpSRDZOQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-05T02:08:00.000Z",
-      "pub_sort_dt": "2026-10-05 10:08:00"
+      "title_en": "德国和法国希望欧盟针对中国贸易激增采取应对措施 - The Economist",
+      "title_cn": "德国和法国希望欧盟针对中国贸易边境采取措施应对 - 经济学人",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxNMmhUOTcwcWRwMnFMa0RrZEtEQl9BQ2dXS283eFhCY2d0cjFqdmlHcHpYSWtHeWtwMC1lRmlQckNiNldKUkRpNlhvYnBpazF4dFpZX3V3VE5JTzlRT3k2VXA5OEtOQVNWdGJCVEhoZGZ2QUxqOE5HNU55aWhSaGM2LTFxRDRXQU85Q0tKUTJ2em9JRm1pTlZhRFc4dE5UNUVBYjhEZ3JnQ1k?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T18:58:01.000Z",
+      "pub_sort_dt": "2026-10-06 02:58:01"
     },
     {
       "source": "China Buzzing",
-      "title_en": "贸易：印度如何对中国的进口商品产生了危险的依赖 - BBC",
-      "title_cn": "贸易：印度如何对中国的进口商品产生危险的依赖 - BBC",
-      "url": "https://news.google.com/read/CBMiW0FVX3lxTFBJRWdza2k1UXdtLVMydmk3Ti05VVhOOG1VeWlBWl9wT1JNQ3BJcmRIWWUwZXhDRnphY2NFejl1VVl3dk9hUXpsc1F5NG8tZG9xaXd6NDJjX09BVEE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-05T01:42:11.000Z",
-      "pub_sort_dt": "2026-10-05 09:42:11"
+      "title_en": "文化大革命结束50年后，中国仍不愿谈论此事 - The Economist",
+      "title_cn": "文化大革命结束50年后，中国仍不再关注焦点 - 经济学人",
+      "url": "https://news.google.com/read/CBMirgFBVV95cUxQamx4NVRKaGtHUm5JdGt6MHZzVjluaHhVTkk2bG03Q0hzczhJaTdIb1V1Q19kcVdOei1xSkx4VHRvb1RrY3NLSWsycTZhbWtwT0xMSXkydnJFMFJ3NHFVbEFXeDUxQlVZTFVqc1NYTThsbDR1UUIxMXJIYzNFQl9pU0kzTDIybF9zSHo3Z1B1X3FKT0JXbE1vYjdUUS1OQTFwUXJTVEVLcXBJVTVYTmc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T16:51:25.000Z",
+      "pub_sort_dt": "2026-10-06 00:51:25"
     },
     {
       "source": "China Buzzing",
-      "title_en": "据《泰晤士报》报道，英国即将对中国产电动汽车征收关税 - Reuters",
-      "title_cn": "据《泰晤士报》报道，英国即将对中国产电动汽车征收关税 - 路透中文网",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxPQkwwbW1fWnVDRlYyX25hWFk5MDlZYWpMd2ltMXlKOHRrWUNJUC1sSWhjRUlGc2FnTEM3eWJsWENqSEt3UEZEclNOOFEyS2d6ZkYyNDdOMWw4YkFnUEh0STBJUDV5XzQ2dXdRQXJST05ybEMzUUhlM2dMNDRqSmI4T0dLOVV6RC11N0hUVHdxakRDclJIYVM2T0dmQk5wWW44Y2NYcHp0RWFDdVNkZ0hlR3BR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T22:48:16.000Z",
-      "pub_sort_dt": "2026-10-05 06:48:16"
+      "title_en": "中国在监视我们。美国空军还在监视中国吗？ - War on the Rocks",
+      "title_cn": "中国在监视我们。美国空军正在监视中国吗？ - War on the Rocks",
+      "url": "https://news.google.com/read/CBMikwFBVV95cUxPci12MlBvbm96YUt3OWhIbEpIM0JRZlpleDlreWhLME9mQWVYd21Tc3pjenZGRy1iSWlnZW9SMEkwQkhsUElNODBJTWRHazZjalVTYUF0ZEZTVHZ0U2V0TkU1YnJ3TEY3TVRFbWU0WDVIQ2t3dVU3LXZqdmlPd2RCd1VsakhFOFdQQ1BidnRtd3ZaWWM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T15:25:06.000Z",
+      "pub_sort_dt": "2026-10-05 23:25:06"
     },
     {
       "source": "China Buzzing",
-      "title_en": "联邦调查局在洛杉矶国际机场逮捕了一名涉嫌的中国间谍，据称她曾对台湾地区领导人之子进行监视 - CBS News",
-      "title_cn": "联邦调查局在洛杉矶国际机场逮捕了一名涉嫌中国间谍，指控她曾对台湾地区领导人之子进行监视 - CBS News",
-      "url": "https://news.google.com/read/CBMigwFBVV95cUxNY1ZRekpZeDRONzc4UjdIczZlNWNiaERHaEh6MUxpMDVXUWUzY1hVSmZvVDVoQlhFUGlPNW9XQnlxbDdoLWFNaDJ3SzVadnJ3RWttXy03REN0T2tJSmZGMEs1WGEyTXlQN3ZCa1RhVEMzYkVkVEtMT2pzN19JYmlqVkhlaw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T22:19:00.000Z",
-      "pub_sort_dt": "2026-10-05 06:19:00"
+      "title_en": "德国和法国就应对中国的新的贸易工具达成一致 - Euronews.com",
+      "title_cn": "德国和法国就中国的新贸易工具达成一致 - Euronews.com",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxQbzk0aGFjd3BWcjY5eHo4bnIwX1FpMko3M0x2ZktZVm1MM1FJcDlmRFRVVHctOXJTY1ZzeDlRZkZ6WUQ5dFNRNjRNQXRfX18tM2JfOHltaFh3Tk5tZ0N5eFJQY3gxX1hORjhIdVZJQm9ES09sbTRZRHZBSDlRNElYV1JJV0pHT0dnSU9fdWtFQ3lvc0tybUEw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T14:43:27.000Z",
+      "pub_sort_dt": "2026-10-05 22:43:27"
     },
     {
       "source": "China Buzzing",
-      "title_en": "《泰晤士报》称，英国预计将效仿欧盟对华征收电动汽车关税 - Bloomberg.com",
-      "title_cn": "《泰晤士报》称，英国预计将效仿欧盟对华行动电动汽车关税 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxPMVRFZ2liSUUtX0ctTU1RbzA3V0ZKRU0wZ1lUUXh5bmp5ODljRVJwb2NmUHdHd2lyZEtIQVZFclVHWm9URzg5WGJzd3B5eEVkSi11WlFBQk1mYWVCVl9KTmdiSjI2UHBXOXgwSEdTS3ZLVzlscVJ5TzU3dlpLY2U3VE9vbXRzMmRwRmNYb2JsYmR0Y2hEMGhNcEtVQkFwTDBWWmZWcnJYdzJwZ0tqWmNyRWk3Zk4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T21:22:51.000Z",
-      "pub_sort_dt": "2026-10-05 05:22:51"
+      "title_en": "德国和法国推动使用贸易手段阻止中国进入市场 - bloomberg.com",
+      "title_cn": "德国和法国推动使用贸易手段阻止中国进入市场 - bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxPQnNrUWVrM1RLRTYyUF9FSDNYYzFsN3gwWWFqdjRmZU0xNENWSnYySG9VTHA4ejVrMmxabDB6OWhaUFhjR3k0YzgzOG8zckNOZmwxZTJqdm55ZDlFX2RfSkRnOEF1cUEtdWFST0JwVW5FMnFJcHNYbDdfeVFxSDBabW1hYXlPMEtPaHRDZklXcktOZFYzX1VDS3o5dWF1MXg4VmdDN0c1TVdfT2dBUUU3TkMxd20?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T13:08:49.000Z",
+      "pub_sort_dt": "2026-10-05 21:08:49"
     },
     {
       "source": "China Buzzing",
-      "title_en": "BI称，随着DeepSeek取得进展，美国在人工智能领域对中国的领先优势正在缩小 - Bloomberg.com",
-      "title_cn": "BI称，随着DeepSeek取得进展，美国在人工智能领域对中国的领先优势正在缩小 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQR2V3czFPc2lFaTExcF9XUEY0TXE0R0dqaEs1VmxCQ3kwcjBkT0kxUG1LbEYxQWhXREFNQXYtZ2MzVDFUaS1YTzFTTS1yUU9DQS01U1IyaVp2dmJoR0ctcU9hcjFnRUo3LTdLMUY4UGJMSnVSTXVnZFVCV0Exc3RwNDlxQnVQQkNQbVZZcmg5bGIxeUhpSDZoV3lyR1VKVDZWbHd1VjNpM2dNMFUzS1lrMEZ3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T21:03:00.000Z",
-      "pub_sort_dt": "2026-10-05 05:03:00"
+      "title_en": "美国称中国正在准备一枚贸易“超级武器”。随后，这一说法便销声匿迹了。 - Reuters",
+      "title_cn": "美国称中国正在准备一项贸易“超级武器”。此外，这一说法便销声匿迹了。 - 路透社",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQNk53NVpHdGRlQmhXNmdsVE1zTXcxOWpUSU82S3FZVm83M0g3RWx6R0JJV3QxNS1PZkNTNXVoam1sd1dUVFl4dm9fSlpXQ1N3WkJNa0FuSjRwd19KRWdqbDhDLWRwMEUyUmlva19hblVDLTBrTk9DSV8wNXdhaDB3eEpiTGRUSmgzYTRpRksyd3F5YnpKeGJxYjc0dzlYNXNHU0ZkRGZYX1hVTGZJNktKYTBIQUdZTXpWdl9Z?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T10:47:25.000Z",
+      "pub_sort_dt": "2026-10-05 18:47:25"
     },
     {
       "source": "China Buzzing",
-      "title_en": "一位国会议员称康涅狄格州某大学与中国建立的合作关系对美国构成“安全”风险，并要求终止该合作。 - Hartford Courant",
-      "title_cn": "一位国会议员称康涅狄格州某大学与中国建立的对美合作关系构成“安全”风险，并要求终止该合作。 - Hartford Courant",
-      "url": "https://news.google.com/read/CBMi1gFBVV95cUxPMk9icTVtV3ZldHRKUWFsOUZFSWNLYmJVeWphSzlUQ1loQXFNQ1FCMTJYTloxSVhiQ25zZmZzSEUtS0dBM1AyYUJDby1hVnlrOXI3eURtRXFEQmFpck8xbHMtdUlLRHJ1aFowakRJUUU5WFR5cG9QQlRjRTVNcEFZV2hYOGhPY0JaRkhHOXNpNWUxanlERTh6bnJKdXFhVUhNeHNxSzNYUUN4cjFqUGZsZXg0MXdPZEhtZmJ6Z2hXcnc2amJ0azg2QVdIVURLR3JBRVNfT1Rn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T14:10:45.000Z",
-      "pub_sort_dt": "2026-10-04 22:10:45"
+      "title_en": "为什么印度在中亚的导弹交易对俄罗斯和中国很重要 - South China Morning Post",
+      "title_cn": "为什么印度在中亚的导弹交易对俄罗斯和中国很重要 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxNNEJaNS04VS1HNzdKVTM1WTh3cGYyWGVEZnB1OGtzRm9xbUw4OW9Tdy1MUFN6MDUyaWxvT3hNZExkX2R0eklFVEc4c0VQcVhwb1NyMVlYRGl6eFVGME9IRmZyMkh3UURocDJjZmJXYkdlWnFjcG1DTHlzODlSc1o1NXptTmZCdUt4ajhobXUwdXZJUWRQZ2ZfWGdPS0FVakN5alpQSTRBV0taNlhFdVFjVmc0X2xBOGdS0gG4AUFVX3lxTFBaRXRsaVBzQzk2NWhMYmhRTVJZWTBvVWJTckdUSXJUb2FIUGhOSzVKWEJZV3Z3WGVlOG9XME5JSzF1d1B1bWFWcVhic3FyM1VpRmRDeldOY1VvWmFoRkNJRVhDQmdsQ1ZpRzBjVG1KRVVvRW52eDFUU0JVcFFkeV9TMmJyZ2o4LV9IdnR3VTg0RUxQVUh3ODM1Y3ZxdTJYQXB6dl8yMEx1VzZ4MldWQWVNcUI3bl9nYkI?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T10:31:05.000Z",
+      "pub_sort_dt": "2026-10-05 18:31:05"
     },
     {
       "source": "China Buzzing",
-      "title_en": "呼吁中国建立“体系”以保护日益扩大的海外利益 - South China Morning Post",
-      "title_cn": "呼吁中国建立“体系”以保护迫切扩大的海外利益 - 南华早报",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxNUHBNOTB3LTV0S2FqUHJkeUNENG53WVFHZlotNUNUSXZpSFpuV25XQ3ZJeW1UQ0tydjVzeVJ3VFBtRS1CUGdtSXhRWkJ5QlI3dXZTN2owLVlWMDA5Umx4WElBNmlzSEZmekE0eGowbDBjNHhOelNQZlBValFlcWExY1pGd3JhLTRFRGgxQWdCWGItR2dMYm1KZzVHR2stX0otOWZHcTlPU2RTT2JkeGZvTkVrY28xaUwtNXZz0gG7AUFVX3lxTE8wajJ0dUhaZWF5NFE5WlZLRThfOVBfNWFQcXVJVkZ0bEZDUFc0R1Z1a0wwUnRnMmVibXBDTkpST2hDNGdKMW9TVC1jQTU0WHJwQ1ZJWktPR2RNR0VGb0drZTNwenM3RDNqdGhXYVVoUHJUSjdIdFJkMjBnbXYyOHUxT2tQQm9lX09LTmhVTHdzUHR6RnJjX0Y3dWFvV0xkcG54V2xZcHBCZE5XNkZqZU9kZnk5Z2JLdU1FUVU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T14:00:06.000Z",
-      "pub_sort_dt": "2026-10-04 22:00:06"
+      "title_en": "中国关闭数百家银行，北京方面正采取措施巩固其金融体系 - CNBC",
+      "title_cn": "中国关闭百家银行，北京方面采取措施强化金融体系 - CNBC",
+      "url": "https://news.google.com/read/CBMiekFVX3lxTE1NTm5iQkQ5V2NiV1pHby0zNmxzZ3dSckJyd0ZVaVhHWVFvQVk3Q2xLWUJrWV8tU3dOU21XbFI0amFPak9VaVZBUS1PTFdTNjZKbERmMFc0QXNSaFJISHR0RzdyVnZmNkVwcE9wMXJLUmdOc29DQ2tEdFFB0gF_QVVfeXFMTUlTaWlzY3dTVklielFfZngxeFNoYmpfRjJfZW1OZ1E0TXV4bUV5TWxhVDR5ek82UnktM3kzSHFMUjBIcFY2N25NcXdOMlRNci1qUnBnb3hUbklLVDhpb3lnMDF5MGZwS0UteFhzYjU2eG9DZ2F0ZmhMUUpMa2RLTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T10:20:38.000Z",
+      "pub_sort_dt": "2026-10-05 18:20:38"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国是特朗普结束伊朗战争的唯一希望吗？ - Responsible Statecraft",
-      "title_cn": "中国是特朗普结束伊朗战争的唯一希望吗？ - 负责任的治国之道",
-      "url": "https://news.google.com/read/CBMiXkFVX3lxTE5YdlpPZWZseVI0SUp2dFlCazJKTVZtUUQ0WUtxMGNLZHNjNUpmT2l4UzFjXzNpYVVlX2F0X2VsSFAycXQzTEZlS0J4eGVmNV8zZTlZUlIzVkNxY0RWYVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T13:51:16.000Z",
-      "pub_sort_dt": "2026-10-04 21:51:16"
+      "title_en": "一位中国亿万富翁正直面跨境开发人工智能所面临的局限 - Financial Times",
+      "title_cn": "一位中国亿万富翁正直面边境开发人工智能所面临的婚纱 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPcV83d3JiOGw5ekd2WS1abFVxMkExckNBREpfVDJkSWZ1b1lmLWZxdUszNDdhdFRFQVJmcC1EN1QzeDNoNkxIaUgtQ2xwSzJmYWlEN0tjT29pdHljNS1xM2FxVTVRaGJ2bXZIWXdKRW14TFFxVVZOTG5XMGRYMVVpdF9ETk0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T10:00:05.000Z",
+      "pub_sort_dt": "2026-10-05 18:00:05"
     },
     {
       "source": "China Buzzing",
-      "title_en": "尽管存在安全隐患，中国警方和观光公司仍争相购入贝尔直升机 - South China Morning Post",
-      "title_cn": "尽管存在安全隐患，中国消防公司仍争购入贝尔 - 南华早报",
-      "url": "https://news.google.com/read/CBMi1wFBVV95cUxQSkppR1NnTHJaRDRlUkpGTVNqZktETXlVVUZldlVaN3YxNFd4Z1NjS1kxa2ZwUExhcW1LQ0FoSVZLZlc1NnZTaTB5dk9GcTJPd0hNWUlEYjFMS28xdGlRdzVMZ29HN3oxVE9wc3FhOWo4TXVaVklvdGlBYndNZTlxUmZlUWl3NE1nV1hfWjJ2VnJuTTM1QzB5RDlUWkltOEs4djFveURrTlp1WU5UZVRKQ2hQWXFWODIwSFVNdS1OUUFteTlRLS1FcGFHcjNEMndEUk9vRnVPSdIB1wFBVV95cUxNeVdWdS02V1N6R2ZIUjJmV2tGSkRwMmxDeERFZXNvM2NBSUUwLS1oRVhUdjNVYmszTEJ5aVFRWVBONjlaSjk5RGx6MnltbnJ5VDZqQ3dDc01TcjZaaGdnRGsweFhOMlQtMHkzRE53ODRtenI4NDZheV9WZ3J6bHZOeW42QVQ1MHJ1SWxYeWZNdFR5bW5VNlBDbnBzTTN6WkJid0RxZFBzVDdaZlJmQVhJZzhxM1Z4WWlyLVVycmloTnNJeGIzWU1EMmVrSlpMc2prVDNuREpXYw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T13:00:11.000Z",
-      "pub_sort_dt": "2026-10-04 21:00:11"
+      "title_en": "对硅谷投资者来说，最热门的投资目的地是什么？中国境内的机器人工厂 - Business Insider",
+      "title_cn": "对硅谷投资者来说，最热门的投资目的地是什么？中国境内的机器人工厂 - Business Insider",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxQQVV1Z19mR0lEVmtGcUlTbkZucXlkQU1waExjMFFTY0xRaVd0SHdvcXBsUVZHNC1EN3NJelNfTG9USzRvVW9hcnZPZGYzUUhkQWpsbXphYWNCRWItSlFFd20xZ0swVDU2UWt0Y29sQVN1TWRnak96bjJfR3JSb0JfdDM4bXdtUVpLNV8xQ3BpY3FOOEJiTGFSd3pQd09vbDBrNlhXYUV3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T10:00:00.000Z",
+      "pub_sort_dt": "2026-10-05 18:00:00"
     }
   ],
   "media_news": [
     {
       "source": "Reuters",
+      "title_en": "由英伟达支持的Reflection公司发布了首个可与中国开源模型抗衡的人工智能模型",
+      "title_cn": "由英伟达支持的Reflection公司发布了第一个可与中国开源模型抗衡的人工智能模型",
+      "url": "https://reut.rs/4hD9Gxe",
+      "pub_raw": "2026-10-05T21:41:09.162Z",
+      "pub_sort_dt": "2026-10-06 05:41:09"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "Reflection AI 助力美国实现与中国的“开放式”模型竞争的目标",
+      "title_cn": "反思人工智能助力美国实现与中国的“开放式”模型竞争的目标",
+      "url": "https://www.ft.com/content/353be303-3271-43f0-aefb-69b6ed7a0a6f?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-05T20:43:16.488Z",
+      "pub_sort_dt": "2026-10-06 04:43:16"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "英伟达面临关于向中国走私AI芯片的质疑",
+      "title_cn": "英伟达面临关于向中国走私AI芯片的质疑",
+      "url": "https://www.bloomberg.com/news/features/2026-10-05/nvidia-enfrenta-preguntas-sobre-contrabando-de-chips-de-ia-en-china",
+      "pub_raw": "2026-10-05T20:22:31.063Z",
+      "pub_sort_dt": "2026-10-06 04:22:31"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "德国和法国希望欧盟针对中国贸易激增采取应对措施",
+      "title_cn": "德国和法国希望欧盟针对中国贸易边境采取应对措施",
+      "url": "https://www.economist.com/europe/2026/10/05/germany-and-france-want-eu-storm-gates-for-chinas-trade-surge",
+      "pub_raw": "2026-10-05T19:36:13.482Z",
+      "pub_sort_dt": "2026-10-06 03:36:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "获英伟达支持的Reflection公司发布开源AI模型，向中国发起挑战",
+      "title_cn": "英获得伟达支持的Reflection公司发布开源AI模型，向中国发起挑战",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china",
+      "pub_raw": "2026-10-05T19:20:28.534Z",
+      "pub_sort_dt": "2026-10-06 03:20:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国逮捕一名涉嫌监视台湾总统之子的中国间谍",
+      "title_cn": "美国逮捕一名涉嫌监视台湾总统之子的中国间谍",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/ee-uu-arresta-a-presunta-espia-china-por-vigilar-al-hijo-del-presidente-de-taiwan",
+      "pub_raw": "2026-10-05T18:19:14.952Z",
+      "pub_sort_dt": "2026-10-06 02:19:14"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "文化大革命结束50年后，中国仍不愿谈论此事",
+      "title_cn": "文化大革命结束50年后，中国仍不再关注问题",
+      "url": "https://www.economist.com/china/2026/10/05/fifty-years-after-the-cultural-revolution-china-wont-talk-about-it",
+      "pub_raw": "2026-10-05T17:32:15.511Z",
+      "pub_sort_dt": "2026-10-06 01:32:15"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "FBI称中国间谍在美国对台湾总统之子进行间谍活动",
+      "title_cn": "FBI称中国间谍在美国对台湾总统之子进行间谍活动",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/us-nabs-suspected-china-spy-for-surveilling-taiwan-leader-s-son",
+      "pub_raw": "2026-10-05T17:16:00.218Z",
+      "pub_sort_dt": "2026-10-06 01:16:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "梅德韦杰夫因将球击入观众席，被取消中国公开赛半决赛资格",
+      "title_cn": "梅德韦杰夫因将球击入观众席，被取消中国公开赛半决赛资格",
+      "url": "https://reut.rs/4jz475y",
+      "pub_raw": "2026-10-05T14:38:02.267Z",
+      "pub_sort_dt": "2026-10-05 22:38:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "德国和法国推动使用贸易手段阻止中国进入市场",
+      "title_cn": "德国和法国推动使用贸易手段阻止中国进入市场",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/germany-and-france-push-trade-weapon-to-bar-china-market-access",
+      "pub_raw": "2026-10-05T13:35:10.068Z",
+      "pub_sort_dt": "2026-10-05 21:35:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "深度解析：美国曾称中国正在筹备一项贸易“超级武器”。随后，此事便销声匿迹了。",
+      "title_cn": "深度解析：美国曾称中国正在筹备一项贸易“超级武器”。其次，这便销声迹隐藏了。",
+      "url": "https://reut.rs/46WvEXc",
+      "pub_raw": "2026-10-05T13:35:09.922Z",
+      "pub_sort_dt": "2026-10-05 21:35:09"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾特使敦促特朗普政府推进军售",
+      "title_cn": "台湾特使敦促特朗普政府推进军售",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/taiwan-s-envoy-prods-trump-administration-on-stalled-arms-sale",
+      "pub_raw": "2026-10-05T13:01:30.055Z",
+      "pub_sort_dt": "2026-10-05 21:01:30"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "英国商业大臣正考虑对中国的电动汽车征收关税",
+      "title_cn": "英国商业大臣正考虑对中国的电动汽车征收关税",
+      "url": "https://www.ft.com/content/0f48c61b-a490-4bdc-8473-bab6705e5b61?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-05T13:01:28.767Z",
+      "pub_sort_dt": "2026-10-05 21:01:28"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "一位中国亿万富翁正直面跨境开发人工智能所面临的局限",
+      "title_cn": "一位中国亿万富翁正直面跨境开发人工智能所面临的局限",
+      "url": "https://www.ft.com/content/91741bbc-9626-41fc-8320-9ab9adbd8631?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-05T13:01:28.682Z",
+      "pub_sort_dt": "2026-10-05 21:01:28"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "在所有主要工业化经济体中，没有哪个国家比英国更热切地接纳中国汽车。它们的成功表明，如果允许中国汽车进入美国市场，美国可能会出现怎样的局面。",
+      "title_cn": "在所有主要工业化经济体中，没有哪个国家比英国更热切地接纳中国汽车。它们的成功表明，如果允许中国汽车进入美国市场，美国可能会出现怎样的局面。",
+      "url": "https://on.wsj.com/4APSWeZ",
+      "pub_raw": "2026-10-05T13:01:23.212Z",
+      "pub_sort_dt": "2026-10-05 21:01:23"
+    },
+    {
+      "source": "Reuters",
       "title_en": "台湾外交部长赴美出席亚利桑那州新办事处揭牌仪式",
       "title_cn": "台湾部长赴赴硅谷州新关揭牌仪式",
       "url": "https://reut.rs/3TKXSRJ",
       "pub_raw": "2026-10-05T04:53:12.237Z",
       "pub_sort_dt": "2026-10-05 12:53:12"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国抓获一名涉嫌监视台湾领导人儿子的中国间谍",
-      "title_cn": "美国抓获一名涉嫌监视台湾领导人的中国儿子间谍",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/us-nabs-suspected-china-spy-for-surveilling-taiwan-leader-s-son",
-      "pub_raw": "2026-10-05T04:21:14.423Z",
-      "pub_sort_dt": "2026-10-05 12:21:14"
     },
     {
       "source": "Reuters",
@@ -139,200 +251,208 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-04/uk-expected-to-follow-eu-with-tariffs-on-chinese-evs-times-says",
       "pub_raw": "2026-10-04T21:33:56.393Z",
       "pub_sort_dt": "2026-10-05 05:33:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "BI称，随着DeepSeek取得进展，美国在人工智能领域对中国的领先优势正在缩小",
-      "title_cn": "BI称，随着DeepSeek取得进展，美国在人工智能领域对中国的领先优势正在缩小",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says",
-      "pub_raw": "2026-10-04T21:17:56.639Z",
-      "pub_sort_dt": "2026-10-05 05:17:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "台湾特使敦促特朗普政府解决停滞的军售问题",
-      "title_cn": "台湾特使敦促特朗普政府解决大麻的军售问题",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/taiwan-s-envoy-prods-trump-administration-on-stalled-arms-sale",
-      "pub_raw": "2026-10-04T19:42:53.679Z",
-      "pub_sort_dt": "2026-10-05 03:42:53"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "德约科维奇逆转兹维列夫，晋级中国公开赛半决赛",
-      "title_cn": "德约科维奇逆转兹维列夫，晋级中国公开赛半决赛",
-      "url": "https://reut.rs/4dnCLLP",
-      "pub_raw": "2026-10-04T16:34:44.920Z",
-      "pub_sort_dt": "2026-10-05 00:34:44"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "菲律宾指责中国海警在蒂图岛附近阻挠执法行动",
-      "title_cn": "中国海警在蒂图岛附近阻挠执法行动",
-      "url": "https://reut.rs/3U4DB9S",
-      "pub_raw": "2026-10-04T10:19:40.470Z",
-      "pub_sort_dt": "2026-10-04 18:19:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "人工智能并购热潮助推香港今夏募资创下纪录",
-      "title_cn": "人工智能并购热潮助推香港今夏募集高端资本",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
-      "pub_raw": "2026-10-04T09:46:19.180Z",
-      "pub_sort_dt": "2026-10-04 17:46:19"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国女性选择代孕以避免“生育惩罚”",
-      "title_cn": "中国女性选择代孕妇“生育惩罚”",
-      "url": "https://www.ft.com/content/6fa1cea0-7353-4b58-8d2d-1cf884b3f01d?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-04T09:46:11.289Z",
-      "pub_sort_dt": "2026-10-04 17:46:11"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国关闭数百家银行以巩固金融体系",
-      "title_cn": "中国关闭数百家银行以巩固金融体系",
-      "url": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-04T02:42:45.877Z",
-      "pub_sort_dt": "2026-10-04 10:42:45"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "日本和韩国造船商部署机器人以应对中国",
-      "title_cn": "日本和韩国造船商部署机器人应对中国",
-      "url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-04T01:24:51.862Z",
-      "pub_sort_dt": "2026-10-04 09:24:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "印度的制造业未来不会效仿中国模式：《新经济》",
-      "title_cn": "印度制造业未来不会效仿中国模式：《新经济》",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-03/india-s-manufacturing-future-is-not-the-china-model-new-economy",
-      "pub_raw": "2026-10-03T11:05:53.602Z",
-      "pub_sort_dt": "2026-10-03 19:05:53"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国对欧洲化学品出口启动反倾销调查",
-      "title_cn": "中国对欧洲出口货物启动反倾销调查",
-      "url": "https://www.ft.com/content/bae0af94-f42d-47d1-a1a8-fab608e75a72?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-03T09:47:54.859Z",
-      "pub_sort_dt": "2026-10-03 17:47:54"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "泽连斯基要求特朗普阻止俄罗斯和中国推出的“星链”竞争对手",
-      "title_cn": "泽连斯基呼吁特朗普阻止俄罗斯和中国推出“星链”竞争对手",
-      "url": "https://www.ft.com/content/5501a0c6-7d1e-4c1f-acc7-3b928e1f664a?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-03T04:35:48.074Z",
-      "pub_sort_dt": "2026-10-03 12:35:48"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国、美国与新的“大博弈”",
-      "title_cn": "中国、美国与新的“大博弈”",
-      "url": "https://www.ft.com/content/8869caf9-3cd1-4300-aeb3-828a4d9da4f9?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-03T04:19:59.929Z",
-      "pub_sort_dt": "2026-10-03 12:19:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港餐厅点评：爆红的冷冻酸奶店 MYKA",
-      "title_cn": "香港餐厅点评：爆红的冷冻酸奶店 MYKA",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-03/hong-kong-restaurant-review-viral-frozen-yogurt-shop-myka",
-      "pub_raw": "2026-10-03T00:08:56.163Z",
-      "pub_sort_dt": "2026-10-03 08:08:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "随着销量激增，中国车展首次登陆阿根廷",
-      "title_cn": "随着市场激增，中国车展首次登陆阿根廷",
-      "url": "https://reut.rs/3TFWNdU",
-      "pub_raw": "2026-10-02T18:06:59.020Z",
-      "pub_sort_dt": "2026-10-03 02:06:59"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "“不受欢迎且不安全”：为何日本企业正以史无前例的速度撤离中国 - CNBC",
-      "title_cn": "“不受欢迎且不安全”：为何日本企业正以史无前例的速度探讨中国 - CNBC",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxQbGV3XzVidV9WOXgxTDA2QWQ5MGdSeEhZNWNjWmJDYW1XbTFhUGlyZmlmX2V2ck82d29BeWl2UEQzbXRzbzEwUVdnbFRfQXBqb0xUMEV0RzU3b2FzX0lUUWp6d2xSRHhnTG10VzRPX3JFaHh3NXh2cUs2VzBaeWp5a1dTcGlmRDZvdHJvLUdBTEJCM3dqR0xuRtIBngFBVV95cUxPajhCd1pxM0dpMjV2TjBQQ21ZYlJhQk05UjlCdmdEWVQ1NG85bXlGUjFmTFdzLU5pMVZieVIxWjZVSDdCUC1pWWNTRHVjVjNfVFVfTUtZRkVZWWg4Q3VSYVVjV0hoRjM2cmlNRTc0ZFI1WUJfUVVla3A5VDZhaHF5VFN4RWtPQkg2alFkREw0MlBOWEcxYV9GQmpSRDZOQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-05T02:08:00.000Z",
-      "pub_sort_dt": "2026-10-05 10:08:00"
+      "title_en": "德国和法国希望欧盟针对中国贸易激增采取应对措施 - The Economist",
+      "title_cn": "德国和法国希望欧盟针对中国贸易边境采取措施应对 - 经济学人",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxNMmhUOTcwcWRwMnFMa0RrZEtEQl9BQ2dXS283eFhCY2d0cjFqdmlHcHpYSWtHeWtwMC1lRmlQckNiNldKUkRpNlhvYnBpazF4dFpZX3V3VE5JTzlRT3k2VXA5OEtOQVNWdGJCVEhoZGZ2QUxqOE5HNU55aWhSaGM2LTFxRDRXQU85Q0tKUTJ2em9JRm1pTlZhRFc4dE5UNUVBYjhEZ3JnQ1k?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T18:58:01.000Z",
+      "pub_sort_dt": "2026-10-06 02:58:01"
     },
     {
       "source": "China Buzzing",
-      "title_en": "贸易：印度如何对中国的进口商品产生了危险的依赖 - BBC",
-      "title_cn": "贸易：印度如何对中国的进口商品产生危险的依赖 - BBC",
-      "url": "https://news.google.com/read/CBMiW0FVX3lxTFBJRWdza2k1UXdtLVMydmk3Ti05VVhOOG1VeWlBWl9wT1JNQ3BJcmRIWWUwZXhDRnphY2NFejl1VVl3dk9hUXpsc1F5NG8tZG9xaXd6NDJjX09BVEE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-05T01:42:11.000Z",
-      "pub_sort_dt": "2026-10-05 09:42:11"
+      "title_en": "文化大革命结束50年后，中国仍不愿谈论此事 - The Economist",
+      "title_cn": "文化大革命结束50年后，中国仍不再关注焦点 - 经济学人",
+      "url": "https://news.google.com/read/CBMirgFBVV95cUxQamx4NVRKaGtHUm5JdGt6MHZzVjluaHhVTkk2bG03Q0hzczhJaTdIb1V1Q19kcVdOei1xSkx4VHRvb1RrY3NLSWsycTZhbWtwT0xMSXkydnJFMFJ3NHFVbEFXeDUxQlVZTFVqc1NYTThsbDR1UUIxMXJIYzNFQl9pU0kzTDIybF9zSHo3Z1B1X3FKT0JXbE1vYjdUUS1OQTFwUXJTVEVLcXBJVTVYTmc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T16:51:25.000Z",
+      "pub_sort_dt": "2026-10-06 00:51:25"
     },
     {
       "source": "China Buzzing",
-      "title_en": "据《泰晤士报》报道，英国即将对中国产电动汽车征收关税 - Reuters",
-      "title_cn": "据《泰晤士报》报道，英国即将对中国产电动汽车征收关税 - 路透中文网",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxPQkwwbW1fWnVDRlYyX25hWFk5MDlZYWpMd2ltMXlKOHRrWUNJUC1sSWhjRUlGc2FnTEM3eWJsWENqSEt3UEZEclNOOFEyS2d6ZkYyNDdOMWw4YkFnUEh0STBJUDV5XzQ2dXdRQXJST05ybEMzUUhlM2dMNDRqSmI4T0dLOVV6RC11N0hUVHdxakRDclJIYVM2T0dmQk5wWW44Y2NYcHp0RWFDdVNkZ0hlR3BR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T22:48:16.000Z",
-      "pub_sort_dt": "2026-10-05 06:48:16"
+      "title_en": "中国在监视我们。美国空军还在监视中国吗？ - War on the Rocks",
+      "title_cn": "中国在监视我们。美国空军正在监视中国吗？ - War on the Rocks",
+      "url": "https://news.google.com/read/CBMikwFBVV95cUxPci12MlBvbm96YUt3OWhIbEpIM0JRZlpleDlreWhLME9mQWVYd21Tc3pjenZGRy1iSWlnZW9SMEkwQkhsUElNODBJTWRHazZjalVTYUF0ZEZTVHZ0U2V0TkU1YnJ3TEY3TVRFbWU0WDVIQ2t3dVU3LXZqdmlPd2RCd1VsakhFOFdQQ1BidnRtd3ZaWWM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T15:25:06.000Z",
+      "pub_sort_dt": "2026-10-05 23:25:06"
     },
     {
       "source": "China Buzzing",
-      "title_en": "联邦调查局在洛杉矶国际机场逮捕了一名涉嫌的中国间谍，据称她曾对台湾地区领导人之子进行监视 - CBS News",
-      "title_cn": "联邦调查局在洛杉矶国际机场逮捕了一名涉嫌中国间谍，指控她曾对台湾地区领导人之子进行监视 - CBS News",
-      "url": "https://news.google.com/read/CBMigwFBVV95cUxNY1ZRekpZeDRONzc4UjdIczZlNWNiaERHaEh6MUxpMDVXUWUzY1hVSmZvVDVoQlhFUGlPNW9XQnlxbDdoLWFNaDJ3SzVadnJ3RWttXy03REN0T2tJSmZGMEs1WGEyTXlQN3ZCa1RhVEMzYkVkVEtMT2pzN19JYmlqVkhlaw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T22:19:00.000Z",
-      "pub_sort_dt": "2026-10-05 06:19:00"
+      "title_en": "德国和法国就应对中国的新的贸易工具达成一致 - Euronews.com",
+      "title_cn": "德国和法国就中国的新贸易工具达成一致 - Euronews.com",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxQbzk0aGFjd3BWcjY5eHo4bnIwX1FpMko3M0x2ZktZVm1MM1FJcDlmRFRVVHctOXJTY1ZzeDlRZkZ6WUQ5dFNRNjRNQXRfX18tM2JfOHltaFh3Tk5tZ0N5eFJQY3gxX1hORjhIdVZJQm9ES09sbTRZRHZBSDlRNElYV1JJV0pHT0dnSU9fdWtFQ3lvc0tybUEw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T14:43:27.000Z",
+      "pub_sort_dt": "2026-10-05 22:43:27"
     },
     {
       "source": "China Buzzing",
-      "title_en": "《泰晤士报》称，英国预计将效仿欧盟对华征收电动汽车关税 - Bloomberg.com",
-      "title_cn": "《泰晤士报》称，英国预计将效仿欧盟对华行动电动汽车关税 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxPMVRFZ2liSUUtX0ctTU1RbzA3V0ZKRU0wZ1lUUXh5bmp5ODljRVJwb2NmUHdHd2lyZEtIQVZFclVHWm9URzg5WGJzd3B5eEVkSi11WlFBQk1mYWVCVl9KTmdiSjI2UHBXOXgwSEdTS3ZLVzlscVJ5TzU3dlpLY2U3VE9vbXRzMmRwRmNYb2JsYmR0Y2hEMGhNcEtVQkFwTDBWWmZWcnJYdzJwZ0tqWmNyRWk3Zk4?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T21:22:51.000Z",
-      "pub_sort_dt": "2026-10-05 05:22:51"
+      "title_en": "德国和法国推动使用贸易手段阻止中国进入市场 - bloomberg.com",
+      "title_cn": "德国和法国推动使用贸易手段阻止中国进入市场 - bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxPQnNrUWVrM1RLRTYyUF9FSDNYYzFsN3gwWWFqdjRmZU0xNENWSnYySG9VTHA4ejVrMmxabDB6OWhaUFhjR3k0YzgzOG8zckNOZmwxZTJqdm55ZDlFX2RfSkRnOEF1cUEtdWFST0JwVW5FMnFJcHNYbDdfeVFxSDBabW1hYXlPMEtPaHRDZklXcktOZFYzX1VDS3o5dWF1MXg4VmdDN0c1TVdfT2dBUUU3TkMxd20?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T13:08:49.000Z",
+      "pub_sort_dt": "2026-10-05 21:08:49"
     },
     {
       "source": "China Buzzing",
-      "title_en": "BI称，随着DeepSeek取得进展，美国在人工智能领域对中国的领先优势正在缩小 - Bloomberg.com",
-      "title_cn": "BI称，随着DeepSeek取得进展，美国在人工智能领域对中国的领先优势正在缩小 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQR2V3czFPc2lFaTExcF9XUEY0TXE0R0dqaEs1VmxCQ3kwcjBkT0kxUG1LbEYxQWhXREFNQXYtZ2MzVDFUaS1YTzFTTS1yUU9DQS01U1IyaVp2dmJoR0ctcU9hcjFnRUo3LTdLMUY4UGJMSnVSTXVnZFVCV0Exc3RwNDlxQnVQQkNQbVZZcmg5bGIxeUhpSDZoV3lyR1VKVDZWbHd1VjNpM2dNMFUzS1lrMEZ3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T21:03:00.000Z",
-      "pub_sort_dt": "2026-10-05 05:03:00"
+      "title_en": "美国称中国正在准备一枚贸易“超级武器”。随后，这一说法便销声匿迹了。 - Reuters",
+      "title_cn": "美国称中国正在准备一项贸易“超级武器”。此外，这一说法便销声匿迹了。 - 路透社",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQNk53NVpHdGRlQmhXNmdsVE1zTXcxOWpUSU82S3FZVm83M0g3RWx6R0JJV3QxNS1PZkNTNXVoam1sd1dUVFl4dm9fSlpXQ1N3WkJNa0FuSjRwd19KRWdqbDhDLWRwMEUyUmlva19hblVDLTBrTk9DSV8wNXdhaDB3eEpiTGRUSmgzYTRpRksyd3F5YnpKeGJxYjc0dzlYNXNHU0ZkRGZYX1hVTGZJNktKYTBIQUdZTXpWdl9Z?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T10:47:25.000Z",
+      "pub_sort_dt": "2026-10-05 18:47:25"
     },
     {
       "source": "China Buzzing",
-      "title_en": "一位国会议员称康涅狄格州某大学与中国建立的合作关系对美国构成“安全”风险，并要求终止该合作。 - Hartford Courant",
-      "title_cn": "一位国会议员称康涅狄格州某大学与中国建立的对美合作关系构成“安全”风险，并要求终止该合作。 - Hartford Courant",
-      "url": "https://news.google.com/read/CBMi1gFBVV95cUxPMk9icTVtV3ZldHRKUWFsOUZFSWNLYmJVeWphSzlUQ1loQXFNQ1FCMTJYTloxSVhiQ25zZmZzSEUtS0dBM1AyYUJDby1hVnlrOXI3eURtRXFEQmFpck8xbHMtdUlLRHJ1aFowakRJUUU5WFR5cG9QQlRjRTVNcEFZV2hYOGhPY0JaRkhHOXNpNWUxanlERTh6bnJKdXFhVUhNeHNxSzNYUUN4cjFqUGZsZXg0MXdPZEhtZmJ6Z2hXcnc2amJ0azg2QVdIVURLR3JBRVNfT1Rn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T14:10:45.000Z",
-      "pub_sort_dt": "2026-10-04 22:10:45"
+      "title_en": "为什么印度在中亚的导弹交易对俄罗斯和中国很重要 - South China Morning Post",
+      "title_cn": "为什么印度在中亚的导弹交易对俄罗斯和中国很重要 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxNNEJaNS04VS1HNzdKVTM1WTh3cGYyWGVEZnB1OGtzRm9xbUw4OW9Tdy1MUFN6MDUyaWxvT3hNZExkX2R0eklFVEc4c0VQcVhwb1NyMVlYRGl6eFVGME9IRmZyMkh3UURocDJjZmJXYkdlWnFjcG1DTHlzODlSc1o1NXptTmZCdUt4ajhobXUwdXZJUWRQZ2ZfWGdPS0FVakN5alpQSTRBV0taNlhFdVFjVmc0X2xBOGdS0gG4AUFVX3lxTFBaRXRsaVBzQzk2NWhMYmhRTVJZWTBvVWJTckdUSXJUb2FIUGhOSzVKWEJZV3Z3WGVlOG9XME5JSzF1d1B1bWFWcVhic3FyM1VpRmRDeldOY1VvWmFoRkNJRVhDQmdsQ1ZpRzBjVG1KRVVvRW52eDFUU0JVcFFkeV9TMmJyZ2o4LV9IdnR3VTg0RUxQVUh3ODM1Y3ZxdTJYQXB6dl8yMEx1VzZ4MldWQWVNcUI3bl9nYkI?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T10:31:05.000Z",
+      "pub_sort_dt": "2026-10-05 18:31:05"
     },
     {
       "source": "China Buzzing",
-      "title_en": "呼吁中国建立“体系”以保护日益扩大的海外利益 - South China Morning Post",
-      "title_cn": "呼吁中国建立“体系”以保护迫切扩大的海外利益 - 南华早报",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxNUHBNOTB3LTV0S2FqUHJkeUNENG53WVFHZlotNUNUSXZpSFpuV25XQ3ZJeW1UQ0tydjVzeVJ3VFBtRS1CUGdtSXhRWkJ5QlI3dXZTN2owLVlWMDA5Umx4WElBNmlzSEZmekE0eGowbDBjNHhOelNQZlBValFlcWExY1pGd3JhLTRFRGgxQWdCWGItR2dMYm1KZzVHR2stX0otOWZHcTlPU2RTT2JkeGZvTkVrY28xaUwtNXZz0gG7AUFVX3lxTE8wajJ0dUhaZWF5NFE5WlZLRThfOVBfNWFQcXVJVkZ0bEZDUFc0R1Z1a0wwUnRnMmVibXBDTkpST2hDNGdKMW9TVC1jQTU0WHJwQ1ZJWktPR2RNR0VGb0drZTNwenM3RDNqdGhXYVVoUHJUSjdIdFJkMjBnbXYyOHUxT2tQQm9lX09LTmhVTHdzUHR6RnJjX0Y3dWFvV0xkcG54V2xZcHBCZE5XNkZqZU9kZnk5Z2JLdU1FUVU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T14:00:06.000Z",
-      "pub_sort_dt": "2026-10-04 22:00:06"
+      "title_en": "中国关闭数百家银行，北京方面正采取措施巩固其金融体系 - CNBC",
+      "title_cn": "中国关闭百家银行，北京方面采取措施强化金融体系 - CNBC",
+      "url": "https://news.google.com/read/CBMiekFVX3lxTE1NTm5iQkQ5V2NiV1pHby0zNmxzZ3dSckJyd0ZVaVhHWVFvQVk3Q2xLWUJrWV8tU3dOU21XbFI0amFPak9VaVZBUS1PTFdTNjZKbERmMFc0QXNSaFJISHR0RzdyVnZmNkVwcE9wMXJLUmdOc29DQ2tEdFFB0gF_QVVfeXFMTUlTaWlzY3dTVklielFfZngxeFNoYmpfRjJfZW1OZ1E0TXV4bUV5TWxhVDR5ek82UnktM3kzSHFMUjBIcFY2N25NcXdOMlRNci1qUnBnb3hUbklLVDhpb3lnMDF5MGZwS0UteFhzYjU2eG9DZ2F0ZmhMUUpMa2RLTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T10:20:38.000Z",
+      "pub_sort_dt": "2026-10-05 18:20:38"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国是特朗普结束伊朗战争的唯一希望吗？ - Responsible Statecraft",
-      "title_cn": "中国是特朗普结束伊朗战争的唯一希望吗？ - 负责任的治国之道",
-      "url": "https://news.google.com/read/CBMiXkFVX3lxTE5YdlpPZWZseVI0SUp2dFlCazJKTVZtUUQ0WUtxMGNLZHNjNUpmT2l4UzFjXzNpYVVlX2F0X2VsSFAycXQzTEZlS0J4eGVmNV8zZTlZUlIzVkNxY0RWYVE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T13:51:16.000Z",
-      "pub_sort_dt": "2026-10-04 21:51:16"
+      "title_en": "一位中国亿万富翁正直面跨境开发人工智能所面临的局限 - Financial Times",
+      "title_cn": "一位中国亿万富翁正直面边境开发人工智能所面临的婚纱 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPcV83d3JiOGw5ekd2WS1abFVxMkExckNBREpfVDJkSWZ1b1lmLWZxdUszNDdhdFRFQVJmcC1EN1QzeDNoNkxIaUgtQ2xwSzJmYWlEN0tjT29pdHljNS1xM2FxVTVRaGJ2bXZIWXdKRW14TFFxVVZOTG5XMGRYMVVpdF9ETk0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T10:00:05.000Z",
+      "pub_sort_dt": "2026-10-05 18:00:05"
     },
     {
       "source": "China Buzzing",
-      "title_en": "尽管存在安全隐患，中国警方和观光公司仍争相购入贝尔直升机 - South China Morning Post",
-      "title_cn": "尽管存在安全隐患，中国消防公司仍争购入贝尔 - 南华早报",
-      "url": "https://news.google.com/read/CBMi1wFBVV95cUxQSkppR1NnTHJaRDRlUkpGTVNqZktETXlVVUZldlVaN3YxNFd4Z1NjS1kxa2ZwUExhcW1LQ0FoSVZLZlc1NnZTaTB5dk9GcTJPd0hNWUlEYjFMS28xdGlRdzVMZ29HN3oxVE9wc3FhOWo4TXVaVklvdGlBYndNZTlxUmZlUWl3NE1nV1hfWjJ2VnJuTTM1QzB5RDlUWkltOEs4djFveURrTlp1WU5UZVRKQ2hQWXFWODIwSFVNdS1OUUFteTlRLS1FcGFHcjNEMndEUk9vRnVPSdIB1wFBVV95cUxNeVdWdS02V1N6R2ZIUjJmV2tGSkRwMmxDeERFZXNvM2NBSUUwLS1oRVhUdjNVYmszTEJ5aVFRWVBONjlaSjk5RGx6MnltbnJ5VDZqQ3dDc01TcjZaaGdnRGsweFhOMlQtMHkzRE53ODRtenI4NDZheV9WZ3J6bHZOeW42QVQ1MHJ1SWxYeWZNdFR5bW5VNlBDbnBzTTN6WkJid0RxZFBzVDdaZlJmQVhJZzhxM1Z4WWlyLVVycmloTnNJeGIzWU1EMmVrSlpMc2prVDNuREpXYw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T13:00:11.000Z",
-      "pub_sort_dt": "2026-10-04 21:00:11"
+      "title_en": "对硅谷投资者来说，最热门的投资目的地是什么？中国境内的机器人工厂 - Business Insider",
+      "title_cn": "对硅谷投资者来说，最热门的投资目的地是什么？中国境内的机器人工厂 - Business Insider",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxQQVV1Z19mR0lEVmtGcUlTbkZucXlkQU1waExjMFFTY0xRaVd0SHdvcXBsUVZHNC1EN3NJelNfTG9USzRvVW9hcnZPZGYzUUhkQWpsbXphYWNCRWItSlFFd20xZ0swVDU2UWt0Y29sQVN1TWRnak96bjJfR3JSb0JfdDM4bXdtUVpLNV8xQ3BpY3FOOEJiTGFSd3pQd09vbDBrNlhXYUV3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T10:00:00.000Z",
+      "pub_sort_dt": "2026-10-05 18:00:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "由英伟达支持的Reflection公司发布了首个可与中国开源模型抗衡的人工智能模型",
+      "title_cn": "由英伟达支持的Reflection公司发布了第一个可与中国开源模型抗衡的人工智能模型",
+      "url": "https://reut.rs/4hD9Gxe",
+      "pub_raw": "2026-10-05T21:41:09.162Z",
+      "pub_sort_dt": "2026-10-06 05:41:09"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "Reflection AI 助力美国实现与中国的“开放式”模型竞争的目标",
+      "title_cn": "反思人工智能助力美国实现与中国的“开放式”模型竞争的目标",
+      "url": "https://www.ft.com/content/353be303-3271-43f0-aefb-69b6ed7a0a6f?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-05T20:43:16.488Z",
+      "pub_sort_dt": "2026-10-06 04:43:16"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "英伟达面临关于向中国走私AI芯片的质疑",
+      "title_cn": "英伟达面临关于向中国走私AI芯片的质疑",
+      "url": "https://www.bloomberg.com/news/features/2026-10-05/nvidia-enfrenta-preguntas-sobre-contrabando-de-chips-de-ia-en-china",
+      "pub_raw": "2026-10-05T20:22:31.063Z",
+      "pub_sort_dt": "2026-10-06 04:22:31"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "德国和法国希望欧盟针对中国贸易激增采取应对措施",
+      "title_cn": "德国和法国希望欧盟针对中国贸易边境采取应对措施",
+      "url": "https://www.economist.com/europe/2026/10/05/germany-and-france-want-eu-storm-gates-for-chinas-trade-surge",
+      "pub_raw": "2026-10-05T19:36:13.482Z",
+      "pub_sort_dt": "2026-10-06 03:36:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "获英伟达支持的Reflection公司发布开源AI模型，向中国发起挑战",
+      "title_cn": "英获得伟达支持的Reflection公司发布开源AI模型，向中国发起挑战",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china",
+      "pub_raw": "2026-10-05T19:20:28.534Z",
+      "pub_sort_dt": "2026-10-06 03:20:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国逮捕一名涉嫌监视台湾总统之子的中国间谍",
+      "title_cn": "美国逮捕一名涉嫌监视台湾总统之子的中国间谍",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/ee-uu-arresta-a-presunta-espia-china-por-vigilar-al-hijo-del-presidente-de-taiwan",
+      "pub_raw": "2026-10-05T18:19:14.952Z",
+      "pub_sort_dt": "2026-10-06 02:19:14"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "文化大革命结束50年后，中国仍不愿谈论此事",
+      "title_cn": "文化大革命结束50年后，中国仍不再关注问题",
+      "url": "https://www.economist.com/china/2026/10/05/fifty-years-after-the-cultural-revolution-china-wont-talk-about-it",
+      "pub_raw": "2026-10-05T17:32:15.511Z",
+      "pub_sort_dt": "2026-10-06 01:32:15"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "FBI称中国间谍在美国对台湾总统之子进行间谍活动",
+      "title_cn": "FBI称中国间谍在美国对台湾总统之子进行间谍活动",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/us-nabs-suspected-china-spy-for-surveilling-taiwan-leader-s-son",
+      "pub_raw": "2026-10-05T17:16:00.218Z",
+      "pub_sort_dt": "2026-10-06 01:16:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "梅德韦杰夫因将球击入观众席，被取消中国公开赛半决赛资格",
+      "title_cn": "梅德韦杰夫因将球击入观众席，被取消中国公开赛半决赛资格",
+      "url": "https://reut.rs/4jz475y",
+      "pub_raw": "2026-10-05T14:38:02.267Z",
+      "pub_sort_dt": "2026-10-05 22:38:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "德国和法国推动使用贸易手段阻止中国进入市场",
+      "title_cn": "德国和法国推动使用贸易手段阻止中国进入市场",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/germany-and-france-push-trade-weapon-to-bar-china-market-access",
+      "pub_raw": "2026-10-05T13:35:10.068Z",
+      "pub_sort_dt": "2026-10-05 21:35:10"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "深度解析：美国曾称中国正在筹备一项贸易“超级武器”。随后，此事便销声匿迹了。",
+      "title_cn": "深度解析：美国曾称中国正在筹备一项贸易“超级武器”。其次，这便销声迹隐藏了。",
+      "url": "https://reut.rs/46WvEXc",
+      "pub_raw": "2026-10-05T13:35:09.922Z",
+      "pub_sort_dt": "2026-10-05 21:35:09"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾特使敦促特朗普政府推进军售",
+      "title_cn": "台湾特使敦促特朗普政府推进军售",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/taiwan-s-envoy-prods-trump-administration-on-stalled-arms-sale",
+      "pub_raw": "2026-10-05T13:01:30.055Z",
+      "pub_sort_dt": "2026-10-05 21:01:30"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "英国商业大臣正考虑对中国的电动汽车征收关税",
+      "title_cn": "英国商业大臣正考虑对中国的电动汽车征收关税",
+      "url": "https://www.ft.com/content/0f48c61b-a490-4bdc-8473-bab6705e5b61?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-05T13:01:28.767Z",
+      "pub_sort_dt": "2026-10-05 21:01:28"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "一位中国亿万富翁正直面跨境开发人工智能所面临的局限",
+      "title_cn": "一位中国亿万富翁正直面跨境开发人工智能所面临的局限",
+      "url": "https://www.ft.com/content/91741bbc-9626-41fc-8320-9ab9adbd8631?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-05T13:01:28.682Z",
+      "pub_sort_dt": "2026-10-05 21:01:28"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "在所有主要工业化经济体中，没有哪个国家比英国更热切地接纳中国汽车。它们的成功表明，如果允许中国汽车进入美国市场，美国可能会出现怎样的局面。",
+      "title_cn": "在所有主要工业化经济体中，没有哪个国家比英国更热切地接纳中国汽车。它们的成功表明，如果允许中国汽车进入美国市场，美国可能会出现怎样的局面。",
+      "url": "https://on.wsj.com/4APSWeZ",
+      "pub_raw": "2026-10-05T13:01:23.212Z",
+      "pub_sort_dt": "2026-10-05 21:01:23"
     },
     {
       "source": "Reuters",
@@ -341,14 +461,6 @@
       "url": "https://reut.rs/3TKXSRJ",
       "pub_raw": "2026-10-05T04:53:12.237Z",
       "pub_sort_dt": "2026-10-05 12:53:12"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国抓获一名涉嫌监视台湾领导人儿子的中国间谍",
-      "title_cn": "美国抓获一名涉嫌监视台湾领导人的中国儿子间谍",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/us-nabs-suspected-china-spy-for-surveilling-taiwan-leader-s-son",
-      "pub_raw": "2026-10-05T04:21:14.423Z",
-      "pub_sort_dt": "2026-10-05 12:21:14"
     },
     {
       "source": "Reuters",
@@ -381,118 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-04/uk-expected-to-follow-eu-with-tariffs-on-chinese-evs-times-says",
       "pub_raw": "2026-10-04T21:33:56.393Z",
       "pub_sort_dt": "2026-10-05 05:33:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "BI称，随着DeepSeek取得进展，美国在人工智能领域对中国的领先优势正在缩小",
-      "title_cn": "BI称，随着DeepSeek取得进展，美国在人工智能领域对中国的领先优势正在缩小",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says",
-      "pub_raw": "2026-10-04T21:17:56.639Z",
-      "pub_sort_dt": "2026-10-05 05:17:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "台湾特使敦促特朗普政府解决停滞的军售问题",
-      "title_cn": "台湾特使敦促特朗普政府解决大麻的军售问题",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/taiwan-s-envoy-prods-trump-administration-on-stalled-arms-sale",
-      "pub_raw": "2026-10-04T19:42:53.679Z",
-      "pub_sort_dt": "2026-10-05 03:42:53"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "德约科维奇逆转兹维列夫，晋级中国公开赛半决赛",
-      "title_cn": "德约科维奇逆转兹维列夫，晋级中国公开赛半决赛",
-      "url": "https://reut.rs/4dnCLLP",
-      "pub_raw": "2026-10-04T16:34:44.920Z",
-      "pub_sort_dt": "2026-10-05 00:34:44"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "菲律宾指责中国海警在蒂图岛附近阻挠执法行动",
-      "title_cn": "中国海警在蒂图岛附近阻挠执法行动",
-      "url": "https://reut.rs/3U4DB9S",
-      "pub_raw": "2026-10-04T10:19:40.470Z",
-      "pub_sort_dt": "2026-10-04 18:19:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "人工智能并购热潮助推香港今夏募资创下纪录",
-      "title_cn": "人工智能并购热潮助推香港今夏募集高端资本",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
-      "pub_raw": "2026-10-04T09:46:19.180Z",
-      "pub_sort_dt": "2026-10-04 17:46:19"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国女性选择代孕以避免“生育惩罚”",
-      "title_cn": "中国女性选择代孕妇“生育惩罚”",
-      "url": "https://www.ft.com/content/6fa1cea0-7353-4b58-8d2d-1cf884b3f01d?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-04T09:46:11.289Z",
-      "pub_sort_dt": "2026-10-04 17:46:11"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国关闭数百家银行以巩固金融体系",
-      "title_cn": "中国关闭数百家银行以巩固金融体系",
-      "url": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-04T02:42:45.877Z",
-      "pub_sort_dt": "2026-10-04 10:42:45"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "日本和韩国造船商部署机器人以应对中国",
-      "title_cn": "日本和韩国造船商部署机器人应对中国",
-      "url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-04T01:24:51.862Z",
-      "pub_sort_dt": "2026-10-04 09:24:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "印度的制造业未来不会效仿中国模式：《新经济》",
-      "title_cn": "印度制造业未来不会效仿中国模式：《新经济》",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-03/india-s-manufacturing-future-is-not-the-china-model-new-economy",
-      "pub_raw": "2026-10-03T11:05:53.602Z",
-      "pub_sort_dt": "2026-10-03 19:05:53"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国对欧洲化学品出口启动反倾销调查",
-      "title_cn": "中国对欧洲出口货物启动反倾销调查",
-      "url": "https://www.ft.com/content/bae0af94-f42d-47d1-a1a8-fab608e75a72?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-03T09:47:54.859Z",
-      "pub_sort_dt": "2026-10-03 17:47:54"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "泽连斯基要求特朗普阻止俄罗斯和中国推出的“星链”竞争对手",
-      "title_cn": "泽连斯基呼吁特朗普阻止俄罗斯和中国推出“星链”竞争对手",
-      "url": "https://www.ft.com/content/5501a0c6-7d1e-4c1f-acc7-3b928e1f664a?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-03T04:35:48.074Z",
-      "pub_sort_dt": "2026-10-03 12:35:48"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国、美国与新的“大博弈”",
-      "title_cn": "中国、美国与新的“大博弈”",
-      "url": "https://www.ft.com/content/8869caf9-3cd1-4300-aeb3-828a4d9da4f9?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-03T04:19:59.929Z",
-      "pub_sort_dt": "2026-10-03 12:19:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港餐厅点评：爆红的冷冻酸奶店 MYKA",
-      "title_cn": "香港餐厅点评：爆红的冷冻酸奶店 MYKA",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-03/hong-kong-restaurant-review-viral-frozen-yogurt-shop-myka",
-      "pub_raw": "2026-10-03T00:08:56.163Z",
-      "pub_sort_dt": "2026-10-03 08:08:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "随着销量激增，中国车展首次登陆阿根廷",
-      "title_cn": "随着市场激增，中国车展首次登陆阿根廷",
-      "url": "https://reut.rs/3TFWNdU",
-      "pub_raw": "2026-10-02T18:06:59.020Z",
-      "pub_sort_dt": "2026-10-03 02:06:59"
     }
   ]
 }
