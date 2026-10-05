@@ -1,15 +1,31 @@
 {
-  "update_cst": "2026-10-05 12:01:04 北京时间",
+  "update_cst": "2026-10-05 18:01:08 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 8,
+    "Bloomberg": 7,
     "Financial Times": 6,
     "Wall Street Journal": 0,
-    "Reuters": 6
+    "Reuters": 7
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "“不受欢迎且不安全”：为何日本企业正以史无前例的速度撤离中国 - CNBC",
+      "title_cn": "“不受欢迎且不安全”：为何日本企业正以史无前例的速度探讨中国 - CNBC",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxQbGV3XzVidV9WOXgxTDA2QWQ5MGdSeEhZNWNjWmJDYW1XbTFhUGlyZmlmX2V2ck82d29BeWl2UEQzbXRzbzEwUVdnbFRfQXBqb0xUMEV0RzU3b2FzX0lUUWp6d2xSRHhnTG10VzRPX3JFaHh3NXh2cUs2VzBaeWp5a1dTcGlmRDZvdHJvLUdBTEJCM3dqR0xuRtIBngFBVV95cUxPajhCd1pxM0dpMjV2TjBQQ21ZYlJhQk05UjlCdmdEWVQ1NG85bXlGUjFmTFdzLU5pMVZieVIxWjZVSDdCUC1pWWNTRHVjVjNfVFVfTUtZRkVZWWg4Q3VSYVVjV0hoRjM2cmlNRTc0ZFI1WUJfUVVla3A5VDZhaHF5VFN4RWtPQkg2alFkREw0MlBOWEcxYV9GQmpSRDZOQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T02:08:00.000Z",
+      "pub_sort_dt": "2026-10-05 10:08:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "贸易：印度如何对中国的进口商品产生了危险的依赖 - BBC",
+      "title_cn": "贸易：印度如何对中国的进口商品产生危险的依赖 - BBC",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTFBJRWdza2k1UXdtLVMydmk3Ti05VVhOOG1VeWlBWl9wT1JNQ3BJcmRIWWUwZXhDRnphY2NFejl1VVl3dk9hUXpsc1F5NG8tZG9xaXd6NDJjX09BVEE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T01:42:11.000Z",
+      "pub_sort_dt": "2026-10-05 09:42:11"
+    },
     {
       "source": "China Buzzing",
       "title_en": "据《泰晤士报》报道，英国即将对中国产电动汽车征收关税 - Reuters",
@@ -25,6 +41,14 @@
       "url": "https://news.google.com/read/CBMigwFBVV95cUxNY1ZRekpZeDRONzc4UjdIczZlNWNiaERHaEh6MUxpMDVXUWUzY1hVSmZvVDVoQlhFUGlPNW9XQnlxbDdoLWFNaDJ3SzVadnJ3RWttXy03REN0T2tJSmZGMEs1WGEyTXlQN3ZCa1RhVEMzYkVkVEtMT2pzN19JYmlqVkhlaw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-10-04T22:19:00.000Z",
       "pub_sort_dt": "2026-10-05 06:19:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "《泰晤士报》称，英国预计将效仿欧盟对华征收电动汽车关税 - Bloomberg.com",
+      "title_cn": "《泰晤士报》称，英国预计将效仿欧盟对华行动电动汽车关税 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxPMVRFZ2liSUUtX0ctTU1RbzA3V0ZKRU0wZ1lUUXh5bmp5ODljRVJwb2NmUHdHd2lyZEtIQVZFclVHWm9URzg5WGJzd3B5eEVkSi11WlFBQk1mYWVCVl9KTmdiSjI2UHBXOXgwSEdTS3ZLVzlscVJ5TzU3dlpLY2U3VE9vbXRzMmRwRmNYb2JsYmR0Y2hEMGhNcEtVQkFwTDBWWmZWcnJYdzJwZ0tqWmNyRWk3Zk4?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-04T21:22:51.000Z",
+      "pub_sort_dt": "2026-10-05 05:22:51"
     },
     {
       "source": "China Buzzing",
@@ -61,39 +85,31 @@
     {
       "source": "China Buzzing",
       "title_en": "尽管存在安全隐患，中国警方和观光公司仍争相购入贝尔直升机 - South China Morning Post",
-      "title_cn": "尽管存在安全隐患，中国警方和消防公司仍争购入贝尔 - 南华早报",
+      "title_cn": "尽管存在安全隐患，中国消防公司仍争购入贝尔 - 南华早报",
       "url": "https://news.google.com/read/CBMi1wFBVV95cUxQSkppR1NnTHJaRDRlUkpGTVNqZktETXlVVUZldlVaN3YxNFd4Z1NjS1kxa2ZwUExhcW1LQ0FoSVZLZlc1NnZTaTB5dk9GcTJPd0hNWUlEYjFMS28xdGlRdzVMZ29HN3oxVE9wc3FhOWo4TXVaVklvdGlBYndNZTlxUmZlUWl3NE1nV1hfWjJ2VnJuTTM1QzB5RDlUWkltOEs4djFveURrTlp1WU5UZVRKQ2hQWXFWODIwSFVNdS1OUUFteTlRLS1FcGFHcjNEMndEUk9vRnVPSdIB1wFBVV95cUxNeVdWdS02V1N6R2ZIUjJmV2tGSkRwMmxDeERFZXNvM2NBSUUwLS1oRVhUdjNVYmszTEJ5aVFRWVBONjlaSjk5RGx6MnltbnJ5VDZqQ3dDc01TcjZaaGdnRGsweFhOMlQtMHkzRE53ODRtenI4NDZheV9WZ3J6bHZOeW42QVQ1MHJ1SWxYeWZNdFR5bW5VNlBDbnBzTTN6WkJid0RxZFBzVDdaZlJmQVhJZzhxM1Z4WWlyLVVycmloTnNJeGIzWU1EMmVrSlpMc2prVDNuREpXYw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-10-04T13:00:11.000Z",
       "pub_sort_dt": "2026-10-04 21:00:11"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国称，大多数G20贸易部长拒绝了美国关于限制产能的呼吁 - South China Morning Post",
-      "title_cn": "中国称，大多数G20贸易部长拒绝了美国关于限制产能的要求 - 南华早报",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxNTmJlZkdTbXprcEdxQndxZkh4U0R6TnV1TnpLNmM2WUtUX2dlU0QyVi1YeDRYTjg5emQ2amhvYUdpQVc3czhRWm5yY2J5b1hvOFNUa2lSVmxxdUowWl8xMlRHdjlBek9iTWotc2pBdkdOQWNDcHlobTRBeV94UVY3b3pZZmJQQWRPOXc2c0V0RnItNjN3ZUFsUlJkOHB1VnN2ekdlb0RLNnIyUlJLakZyWmpIR2dTRUI5MVZYZDJjTk5meGpHN2pTQW1kc0tGUdIBzgFBVV95cUxNVW5pMktOYWtYQS05LThFbEZTbHRmaF9BcS1JR0NXeXBJdXB4OUdjWVNjOFk5TVFIdTQxRjJZTUxHYXZYTUNPeUoxb0ZQTWxwbGswZWpTRnFOb3RlOXliaUhZTWdESUxHb2JnNUVXSUhDRmV5OGpLMl85d290eWtVNmprajFUMzY0UlR1dWVkeEFtQkJ0RVZEaVB3TXdtZm5nUFVoSldGUzRvQzgtS3pxMjU1VmVFNnA2QU1Pc1B2V2pGeVJuMzFGRXQ4Q3pyQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T10:38:50.000Z",
-      "pub_sort_dt": "2026-10-04 18:38:50"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着习近平和特朗普对二战时期“飞虎队”的赞誉，台北在历史问题上的困境日益加深 - South China Morning Post",
-      "title_cn": "随着习近平和特朗普对战时“飞虎队”的赞誉，台北在历史问题上的困境日益加深 - 南华早报",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxOM2d4SXllRWQzWnctaDVGWjFuUWtZaVdyUjJfS0x3WGY4R3RibTJEa2lHUkhtVFkzZHhpOTVBeGNuSXcydjk1RFNvbzlpMks0ZmpiWmpkSlRUVmoydXVLZVJfdUNwdGRubGRxS092R3UyMFB4WGpuVnNGREpJSzc2ZktualVyNEFMUUd1RThNME4ybFNkV0NaNU85VmNfRWkxb3NkdENDSUhDY1RqLWstMlRPSjZKXzliWXlMLS1TaEM2U1lkSkYw0gHHAUFVX3lxTE4zVWlqeDlLWGcyUkw3aUFuajBsbm92ZHlraFBBSDNTdU95UkFNLXkzc0lxM21FT2g2MlR1NWR6QW1Hb2x3TlZQWm1mUUVpSmRVVVM5V0FSN0hCeDhJcXF4WFlfbmNMY1R1eTd0MVlvb25WQ05Rcmh1Ny1Cd3lKbFhycVllYk1kNzR6MDdlY2cwYkk5aU9aLTA0eGNBMTRscUpXM21RYVVkQzhCV1FnOWhtanpjV3R5RC1uODVrNU8xN0Y2Qmd4MGc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T10:00:11.000Z",
-      "pub_sort_dt": "2026-10-04 18:00:11"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国关闭数百家银行以巩固金融体系 - Financial Times",
-      "title_cn": "中国关闭数百家银行以巩固金融体系 - 英国《金融时报》",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQYlVsM3M3d0dwVW1HT3Utbk5GNjRmcC1mZzN3aWFTTmN3Qi1CRFdRZlJDTjhERm5EQ05lNlQzNzJuMmFrb2ZNamUxNkkzWk5fSDgyNXgwWjF1ZzhvZEwzaVAtQXpYVEtZZm9Rb1gtanBPTzJ2RzF3ZVVwdmhoN1JndUl2d1I?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T09:22:30.000Z",
-      "pub_sort_dt": "2026-10-04 17:22:30"
     }
   ],
   "media_news": [
     {
       "source": "Reuters",
+      "title_en": "台湾外交部长赴美出席亚利桑那州新办事处揭牌仪式",
+      "title_cn": "台湾部长赴赴硅谷州新关揭牌仪式",
+      "url": "https://reut.rs/3TKXSRJ",
+      "pub_raw": "2026-10-05T04:53:12.237Z",
+      "pub_sort_dt": "2026-10-05 12:53:12"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国抓获一名涉嫌监视台湾领导人儿子的中国间谍",
+      "title_cn": "美国抓获一名涉嫌监视台湾领导人的中国儿子间谍",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/us-nabs-suspected-china-spy-for-surveilling-taiwan-leader-s-son",
+      "pub_raw": "2026-10-05T04:21:14.423Z",
+      "pub_sort_dt": "2026-10-05 12:21:14"
+    },
+    {
+      "source": "Reuters",
       "title_en": "美国指控一名加利福尼亚州女子为中国从事间谍活动，并监视台湾领导人之子",
       "title_cn": "美国提议一名加利福尼亚州女子为中国从事间谍活动，并监视台湾领导人之子",
       "url": "https://reut.rs/3ThW8PO",
@@ -235,25 +251,25 @@
       "url": "https://reut.rs/3TFWNdU",
       "pub_raw": "2026-10-02T18:06:59.020Z",
       "pub_sort_dt": "2026-10-03 02:06:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "卡尼与中国达成协议后，特斯拉（TSLA）在加拿大的Model 3销量获得提振",
-      "title_cn": "卡尼与中国达成协议后，特斯拉（TSLA）在加拿大的Model 3销量获得提振",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/tesla-tsla-gets-model-3-sales-boost-in-canada-after-carney-s-china-deal",
-      "pub_raw": "2026-10-02T17:20:08.110Z",
-      "pub_sort_dt": "2026-10-03 01:20:08"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "一名男子被指控非法向中国运送英伟达芯片",
-      "title_cn": "一名男子被指控向中国运送英伟达芯片",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china",
-      "pub_raw": "2026-10-02T17:20:08.015Z",
-      "pub_sort_dt": "2026-10-03 01:20:08"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "“不受欢迎且不安全”：为何日本企业正以史无前例的速度撤离中国 - CNBC",
+      "title_cn": "“不受欢迎且不安全”：为何日本企业正以史无前例的速度探讨中国 - CNBC",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxQbGV3XzVidV9WOXgxTDA2QWQ5MGdSeEhZNWNjWmJDYW1XbTFhUGlyZmlmX2V2ck82d29BeWl2UEQzbXRzbzEwUVdnbFRfQXBqb0xUMEV0RzU3b2FzX0lUUWp6d2xSRHhnTG10VzRPX3JFaHh3NXh2cUs2VzBaeWp5a1dTcGlmRDZvdHJvLUdBTEJCM3dqR0xuRtIBngFBVV95cUxPajhCd1pxM0dpMjV2TjBQQ21ZYlJhQk05UjlCdmdEWVQ1NG85bXlGUjFmTFdzLU5pMVZieVIxWjZVSDdCUC1pWWNTRHVjVjNfVFVfTUtZRkVZWWg4Q3VSYVVjV0hoRjM2cmlNRTc0ZFI1WUJfUVVla3A5VDZhaHF5VFN4RWtPQkg2alFkREw0MlBOWEcxYV9GQmpSRDZOQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T02:08:00.000Z",
+      "pub_sort_dt": "2026-10-05 10:08:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "贸易：印度如何对中国的进口商品产生了危险的依赖 - BBC",
+      "title_cn": "贸易：印度如何对中国的进口商品产生危险的依赖 - BBC",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTFBJRWdza2k1UXdtLVMydmk3Ti05VVhOOG1VeWlBWl9wT1JNQ3BJcmRIWWUwZXhDRnphY2NFejl1VVl3dk9hUXpsc1F5NG8tZG9xaXd6NDJjX09BVEE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-05T01:42:11.000Z",
+      "pub_sort_dt": "2026-10-05 09:42:11"
+    },
     {
       "source": "China Buzzing",
       "title_en": "据《泰晤士报》报道，英国即将对中国产电动汽车征收关税 - Reuters",
@@ -269,6 +285,14 @@
       "url": "https://news.google.com/read/CBMigwFBVV95cUxNY1ZRekpZeDRONzc4UjdIczZlNWNiaERHaEh6MUxpMDVXUWUzY1hVSmZvVDVoQlhFUGlPNW9XQnlxbDdoLWFNaDJ3SzVadnJ3RWttXy03REN0T2tJSmZGMEs1WGEyTXlQN3ZCa1RhVEMzYkVkVEtMT2pzN19JYmlqVkhlaw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-10-04T22:19:00.000Z",
       "pub_sort_dt": "2026-10-05 06:19:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "《泰晤士报》称，英国预计将效仿欧盟对华征收电动汽车关税 - Bloomberg.com",
+      "title_cn": "《泰晤士报》称，英国预计将效仿欧盟对华行动电动汽车关税 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxPMVRFZ2liSUUtX0ctTU1RbzA3V0ZKRU0wZ1lUUXh5bmp5ODljRVJwb2NmUHdHd2lyZEtIQVZFclVHWm9URzg5WGJzd3B5eEVkSi11WlFBQk1mYWVCVl9KTmdiSjI2UHBXOXgwSEdTS3ZLVzlscVJ5TzU3dlpLY2U3VE9vbXRzMmRwRmNYb2JsYmR0Y2hEMGhNcEtVQkFwTDBWWmZWcnJYdzJwZ0tqWmNyRWk3Zk4?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-04T21:22:51.000Z",
+      "pub_sort_dt": "2026-10-05 05:22:51"
     },
     {
       "source": "China Buzzing",
@@ -305,34 +329,26 @@
     {
       "source": "China Buzzing",
       "title_en": "尽管存在安全隐患，中国警方和观光公司仍争相购入贝尔直升机 - South China Morning Post",
-      "title_cn": "尽管存在安全隐患，中国警方和消防公司仍争购入贝尔 - 南华早报",
+      "title_cn": "尽管存在安全隐患，中国消防公司仍争购入贝尔 - 南华早报",
       "url": "https://news.google.com/read/CBMi1wFBVV95cUxQSkppR1NnTHJaRDRlUkpGTVNqZktETXlVVUZldlVaN3YxNFd4Z1NjS1kxa2ZwUExhcW1LQ0FoSVZLZlc1NnZTaTB5dk9GcTJPd0hNWUlEYjFMS28xdGlRdzVMZ29HN3oxVE9wc3FhOWo4TXVaVklvdGlBYndNZTlxUmZlUWl3NE1nV1hfWjJ2VnJuTTM1QzB5RDlUWkltOEs4djFveURrTlp1WU5UZVRKQ2hQWXFWODIwSFVNdS1OUUFteTlRLS1FcGFHcjNEMndEUk9vRnVPSdIB1wFBVV95cUxNeVdWdS02V1N6R2ZIUjJmV2tGSkRwMmxDeERFZXNvM2NBSUUwLS1oRVhUdjNVYmszTEJ5aVFRWVBONjlaSjk5RGx6MnltbnJ5VDZqQ3dDc01TcjZaaGdnRGsweFhOMlQtMHkzRE53ODRtenI4NDZheV9WZ3J6bHZOeW42QVQ1MHJ1SWxYeWZNdFR5bW5VNlBDbnBzTTN6WkJid0RxZFBzVDdaZlJmQVhJZzhxM1Z4WWlyLVVycmloTnNJeGIzWU1EMmVrSlpMc2prVDNuREpXYw?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-10-04T13:00:11.000Z",
       "pub_sort_dt": "2026-10-04 21:00:11"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国称，大多数G20贸易部长拒绝了美国关于限制产能的呼吁 - South China Morning Post",
-      "title_cn": "中国称，大多数G20贸易部长拒绝了美国关于限制产能的要求 - 南华早报",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxNTmJlZkdTbXprcEdxQndxZkh4U0R6TnV1TnpLNmM2WUtUX2dlU0QyVi1YeDRYTjg5emQ2amhvYUdpQVc3czhRWm5yY2J5b1hvOFNUa2lSVmxxdUowWl8xMlRHdjlBek9iTWotc2pBdkdOQWNDcHlobTRBeV94UVY3b3pZZmJQQWRPOXc2c0V0RnItNjN3ZUFsUlJkOHB1VnN2ekdlb0RLNnIyUlJLakZyWmpIR2dTRUI5MVZYZDJjTk5meGpHN2pTQW1kc0tGUdIBzgFBVV95cUxNVW5pMktOYWtYQS05LThFbEZTbHRmaF9BcS1JR0NXeXBJdXB4OUdjWVNjOFk5TVFIdTQxRjJZTUxHYXZYTUNPeUoxb0ZQTWxwbGswZWpTRnFOb3RlOXliaUhZTWdESUxHb2JnNUVXSUhDRmV5OGpLMl85d290eWtVNmprajFUMzY0UlR1dWVkeEFtQkJ0RVZEaVB3TXdtZm5nUFVoSldGUzRvQzgtS3pxMjU1VmVFNnA2QU1Pc1B2V2pGeVJuMzFGRXQ4Q3pyQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T10:38:50.000Z",
-      "pub_sort_dt": "2026-10-04 18:38:50"
+      "source": "Reuters",
+      "title_en": "台湾外交部长赴美出席亚利桑那州新办事处揭牌仪式",
+      "title_cn": "台湾部长赴赴硅谷州新关揭牌仪式",
+      "url": "https://reut.rs/3TKXSRJ",
+      "pub_raw": "2026-10-05T04:53:12.237Z",
+      "pub_sort_dt": "2026-10-05 12:53:12"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "随着习近平和特朗普对二战时期“飞虎队”的赞誉，台北在历史问题上的困境日益加深 - South China Morning Post",
-      "title_cn": "随着习近平和特朗普对战时“飞虎队”的赞誉，台北在历史问题上的困境日益加深 - 南华早报",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxOM2d4SXllRWQzWnctaDVGWjFuUWtZaVdyUjJfS0x3WGY4R3RibTJEa2lHUkhtVFkzZHhpOTVBeGNuSXcydjk1RFNvbzlpMks0ZmpiWmpkSlRUVmoydXVLZVJfdUNwdGRubGRxS092R3UyMFB4WGpuVnNGREpJSzc2ZktualVyNEFMUUd1RThNME4ybFNkV0NaNU85VmNfRWkxb3NkdENDSUhDY1RqLWstMlRPSjZKXzliWXlMLS1TaEM2U1lkSkYw0gHHAUFVX3lxTE4zVWlqeDlLWGcyUkw3aUFuajBsbm92ZHlraFBBSDNTdU95UkFNLXkzc0lxM21FT2g2MlR1NWR6QW1Hb2x3TlZQWm1mUUVpSmRVVVM5V0FSN0hCeDhJcXF4WFlfbmNMY1R1eTd0MVlvb25WQ05Rcmh1Ny1Cd3lKbFhycVllYk1kNzR6MDdlY2cwYkk5aU9aLTA0eGNBMTRscUpXM21RYVVkQzhCV1FnOWhtanpjV3R5RC1uODVrNU8xN0Y2Qmd4MGc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T10:00:11.000Z",
-      "pub_sort_dt": "2026-10-04 18:00:11"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国关闭数百家银行以巩固金融体系 - Financial Times",
-      "title_cn": "中国关闭数百家银行以巩固金融体系 - 英国《金融时报》",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQYlVsM3M3d0dwVW1HT3Utbk5GNjRmcC1mZzN3aWFTTmN3Qi1CRFdRZlJDTjhERm5EQ05lNlQzNzJuMmFrb2ZNamUxNkkzWk5fSDgyNXgwWjF1ZzhvZEwzaVAtQXpYVEtZZm9Rb1gtanBPTzJ2RzF3ZVVwdmhoN1JndUl2d1I?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-04T09:22:30.000Z",
-      "pub_sort_dt": "2026-10-04 17:22:30"
+      "source": "Bloomberg",
+      "title_en": "美国抓获一名涉嫌监视台湾领导人儿子的中国间谍",
+      "title_cn": "美国抓获一名涉嫌监视台湾领导人的中国儿子间谍",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/us-nabs-suspected-china-spy-for-surveilling-taiwan-leader-s-son",
+      "pub_raw": "2026-10-05T04:21:14.423Z",
+      "pub_sort_dt": "2026-10-05 12:21:14"
     },
     {
       "source": "Reuters",
@@ -477,22 +493,6 @@
       "url": "https://reut.rs/3TFWNdU",
       "pub_raw": "2026-10-02T18:06:59.020Z",
       "pub_sort_dt": "2026-10-03 02:06:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "卡尼与中国达成协议后，特斯拉（TSLA）在加拿大的Model 3销量获得提振",
-      "title_cn": "卡尼与中国达成协议后，特斯拉（TSLA）在加拿大的Model 3销量获得提振",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/tesla-tsla-gets-model-3-sales-boost-in-canada-after-carney-s-china-deal",
-      "pub_raw": "2026-10-02T17:20:08.110Z",
-      "pub_sort_dt": "2026-10-03 01:20:08"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "一名男子被指控非法向中国运送英伟达芯片",
-      "title_cn": "一名男子被指控向中国运送英伟达芯片",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china",
-      "pub_raw": "2026-10-02T17:20:08.015Z",
-      "pub_sort_dt": "2026-10-03 01:20:08"
     }
   ]
 }
