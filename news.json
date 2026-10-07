@@ -1,97 +1,217 @@
 {
-  "update_cst": "2026-10-07 18:01:14 北京时间",
+  "update_cst": "2026-10-08 06:01:17 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
-    "Bloomberg": 11,
-    "Financial Times": 1,
-    "Wall Street Journal": 3,
-    "Reuters": 4
+    "Bloomberg": 10,
+    "Financial Times": 3,
+    "Wall Street Journal": 0,
+    "Reuters": 6
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国称正就疑似鼠疫病例与俄罗斯进行沟通 - Bloomberg.com",
-      "title_cn": "中国称疑似鼠疫病例与俄罗斯进行沟通 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQZExZajZMMmN6TnY0OE50cXVqbjZNOXY5eTBEbUJwOXU1RFBDd0J6OGlicm9yMUFqU0ZycVYzWXJ2ekJJamdlV1ZrTDlMMDRRUDdLUWdNZ21aVkVpYkRqYW44ZDFYNVNrMHl2aTY3ZFZ6ZUJ4eWVEYmlNN0hzaG5BV3NPME83ZGdyaWYyeGFQX1NHZktxU3BPcDJkcUNuWGN5YnF4RzVhc29rUHdwOFBLZ0RuXzY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-07T06:12:00.000Z",
-      "pub_sort_dt": "2026-10-07 14:12:00"
+      "title_en": "一艘超级油轮从墨西哥湾沿岸租往中国，租金为7600万美元，是战前水平的10倍 - CNBC",
+      "title_cn": "一个超级油轮从墨西哥湾原油租往中国，租金为7600万美元，是战前水平的10倍 - CNBC",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxPSEtybFdiZGMzUGVVQzBuLW1zdVM1emRmUnE5WEtXNjJkeGUtRGVYZmRuUTYtUTZaSUZEZDEzVnB5SkEwYWhSSU9YdU5LRnR6VDRYbFpzRW1QeldpNFU2eER5TjJ4X3FBWnpaQzBfVUxmbDdyTUxwUHE3LXVnZFBWRktXOE1PbWxhbU9NSEg4SjFCMGxtM1IyOXNTVzhQd9IBowFBVV95cUxNdFdMWlpnVEVBcW5kZGo1cE9OODlUUkVEN1NWdUZkakJSRWZYbDBvQ1Blc3dMNEh2MC1PYjRiTFE2X2U2VnRxdkxoSTJBLWM0dV9NLXY3RFBZb0ZVd1ZCOHF2VFRqUGFINWw1d0xWQ01VWnNYS0VsTk5zLVNVeThIYjVYazJwSG1ob01ERmFOc1RGcWZzN3A3V1JuR2ZuWXE4Rm9F?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T18:32:55.000Z",
+      "pub_sort_dt": "2026-10-08 02:32:55"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着ArriVent药物研发失败导致其在美国股市股价暴跌，中国生物技术企业面临现实考验 - South China Morning Post",
-      "title_cn": "随着ArriVent药物研发失败其在美国股市股价暴跌，中国生物技术企业面临现实考验 - 南华早报",
-      "url": "https://news.google.com/read/CBMi3AFBVV95cUxNY3Zta19kR2NLdVhMLWdPeWRua1VJQ2JPNUdFcDd1TlhnT1NLUVZCNkVGZS1Lcm9kLXpHbkNVX0I4bE95NmMycy1Na1hjOUxnUG1TcHRfbW9DYVdIZzNDZFdETTJhRWNfNWV0b3V4dWlmSTNNa1Vaaml1aDJJRFZYQmY4ZjJoVHp6a3psQ1h6NHBmVHlVaTR6dXVYSEZ1LU1rOFlPTWVNQ2ZnRndnSzhVb1Z0Wms3LVU0elZzVFE4dWw0OWNSdThOaklKYkZxaERHU2c5NHktQVVDT0px0gHcAUFVX3lxTE5qYnAzM0ZqTkh6Rk5VNTJweFRSb3dfTVJnSUdpOGFLR1dlQXJSYlBZRWhpM1FkeldBY1M3c3A1N002WFl1MkNfOGRxX2J4bTF0UVFoNVp0TEZmUEIyaFJ5V3JTTWFrR3BYQk1yT1REY2JVMGRzaVo4c0R6Nk9vajIwNXM1UnJ4QUlFNDYtZW9XYXlxOGE3Z3VoVjhjRDFrYU1CZE1OQmdtdkxqRW1haTA1aFYwRjJObkdlbTVVWEVURF8wUVNvbkp3MGQwZ0Q4WjBZZVE0MGthbkN2anc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-07T04:20:31.000Z",
-      "pub_sort_dt": "2026-10-07 12:20:31"
+      "title_en": "中国驳回了欧盟关于自愿限制混合动力汽车出口的请求 - Financial Times",
+      "title_cn": "中国回应了欧盟关于主动限制动力汽车出口的请求 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPaV9nb3M2aDVIU3RzTFRfb2txOTVzRTFGdUh5QVJsb05taURJQjROVzRQTW9pTk1iazctTF9yR0NFYzBSRFBjajJDcDF0T0FUbUdoa1JvY252LWcxSlh2ckpoRUQzTmNQVzNaMzZRbUhZVFdiWm9YcVlXSFh4NVlRZWNqRHk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T16:56:00.000Z",
+      "pub_sort_dt": "2026-10-08 00:56:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "税务部门开始追征中国海外财富的税款 - Financial Times",
-      "title_cn": "税务部门开始追征海外中国财富的税款 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPWGp6TnE0eXJOYzZ4ZUhZZkJ4ZnZBMzd6WXdxR3JrU0lsYXZmVzkyOUNPZ2lYMkRlYTNGS3FlQUlPSEJYY2M3MW5RRjFMLVZ1dlctWDhwVnpqVGttRXFNdk5GX3pjSXFhNmpYT2N4VFRsMjZGWjlvUTZWMmVZVDRYOFNUeXM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-07T02:27:55.000Z",
-      "pub_sort_dt": "2026-10-07 10:27:55"
+      "title_en": "中国如何应对其石油困境，将产生全球性影响 - The Economist",
+      "title_cn": "中国如何应对石油困境，将产生全球性影响 - 《经济学人》",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxOYjd6a3RwUlgtWEtfVlU5bU9lY0hadWRPaDYwNkNhb2hVOW9XdjQ3UzdROTNTQllFRlJPZExoMl9OOFVXSnhBMjVHR3lIdm5aem9Vbk1PRHlLWG9rWFZ1dVEyYXJwcVJkcy1WcFA3eUt4NHBNaXktRDQyLWd2a3JzTzZLTkZzdHBkTXliWDF6LTI4RmJxb3VibVdpRkxxQmRmNW1UWWhUSQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T15:30:16.000Z",
+      "pub_sort_dt": "2026-10-07 23:30:16"
     },
     {
       "source": "China Buzzing",
-      "title_en": "从价值百万美元的豪宅到监视任务：一名涉嫌为中国政府工作的间谍的生活与行踪 - CBS News",
-      "title_cn": "从价值百万美元的豪宅到监视任务：一名涉嫌为中国政府工作的间谍的生活与行踪 - 哥伦比亚广播公司新闻",
-      "url": "https://news.google.com/read/CBMikwFBVV95cUxNbm5mYTFILVVLUm52OEZoUUFLVER2blU3TUREcC14OVVCWFpHdXk1aHZWWFV1eWh6MGJSdEx5UmRoXzdfVDRBbkQ3clFmR3VGbHpjZzhoMnpxWnI2VlZib1dtVi00TEN6Vy1QME9RdXhUaEZoVWxaekFDVU5pUVJWM0psZDBvYnBtNTNvLTNFcFRCam8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T23:58:00.000Z",
-      "pub_sort_dt": "2026-10-07 07:58:00"
+      "title_en": "卫星图像显示，中国位于老挝的军事设施内有攻击机 - The Guardian",
+      "title_cn": "图片卫星军事显示，中国位于老挝的设施内有攻击机 - 《卫报》",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxNR3hDYXZCUUZYd2wybVhqN1pORzQ5N1UyU3dXNHl4NjNHUzdCU0kyRndyOWJsMzU4ZGFDVHdqUlNyNnB1WmN0OGdEQXRIMVpVcDVOZjhtUFJFR1RtUmZ5aW9JcVNOQVNYY3lZa3FTbWtpd1NVeWtmS0JhNXJDdktfRGZYdXVCMjhXYmNrQ3p1eUF6Y18yQWRsenNEUGo3RUdhbUs0cE9R?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T14:47:00.000Z",
+      "pub_sort_dt": "2026-10-07 22:47:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "隐私监管机构对开发Kmart“变态眼镜”应用的这家中国公司展开调查 - The Guardian",
-      "title_cn": "隐私监管机构对开发Kmart“变态眼镜”应用的这家中国公司展开调查 - 卫报",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxObTRIREY1OWR0YkoxckwwRzYweXBPZDdzcTRYMUx4VTQ5UmtSbm0xUEVkQ0dja1NjVHlsUGdFUnpvZlVDR3ZmSUx4YjVIRFdqRVdCZXdjSjdXZGtpbTE0TjE4UG1abDFtZVRxMWhqRkdMb0hWZUJnZldxVnRXaDJZTWlVa0k0T0J2TUV2c3ZGNzlPak45eVFDRmZ3Q1dwQjRQZ3BKRDBleHY5YjE1LVhFUXM4UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T23:03:00.000Z",
-      "pub_sort_dt": "2026-10-07 07:03:00"
+      "title_en": "全球债券收益率正大幅攀升——但中国除外 - WSJ",
+      "title_cn": "全球债券正大幅增长——但中国 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxQNmFYTDB5NmE1WXNqZzdrYnZ5cmxQMnd3LU1oYnR1QXNrQlVfeHcyVmxsek5oQk9vQzU4OHNHclViTkxGakNQa0RMdTJPTy13N2lhSnI3anZ0cTlFc0NhaVJZVlZSeHhfREI2WDlRUDBZSnh6VjI5SHRESGxaRHhLRmdQWDk2b29SeFVEX3lXVmV3TTFWLWJHWFVEcWFxQzJZN0EwcHVR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T14:09:00.000Z",
+      "pub_sort_dt": "2026-10-07 22:09:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在习近平与特朗普举行了友好会晤之后，中国的“美元转向”会引发震动吗？ - South China Morning Post",
-      "title_cn": "在习近平与特朗普举行友好会晤后，中国的“美元转向”会引发震惊吗？ - 南华早报",
-      "url": "https://news.google.com/read/CBMizAFBVV95cUxPX0lxZTZIb2FVWGVsT0tSeXpYRFFNaDJfQUJWS0x3LXpHT3g4LVAzNnlWczZkNFpVNzdORkprY2dRNDdXNy13MjVJQ0w1UG83NFFZV2pkSXZPa0FsRXFpYlVIVFUxTTNZTkpjNS1IdG55ckxlMHZUTXFVMm9IVUNzUWRMa0JJRXlmaGJsZTRZRGRXa3F6RFBQODhjTGh1Z2RzRjRZdFF2TEZ3YTRZSGQ2RTAwbktINjJUX2REUmhzN2kzYWNYc1owei0wR1rSAcwBQVVfeXFMT0xnTTJKcHhRNFRqUmdjOGpHczhRcEZKMnNpcS04Z2R5MkFMdzRVWUdDNUVzQWxWT0RVZWlZWjVqNHY1NFJhZ2tUY3J6UFIxUmFPZzdYNDNyYThMeWZqaTc2b3dJYWs2U19zM29VeDdVU193X0t0TEVMQklKTHYwdEFHaUpNeFM0OC05Z09hUzBCUDZpTDNqa2pCTDAyVzRBRUVVT1FIMkZxWjJaOWp0dHdBNFBQWE9rb25XMXh5c3F5Ti1TN1FOellDcVFh?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T22:00:10.000Z",
-      "pub_sort_dt": "2026-10-07 06:00:10"
+      "title_en": "一位出生于印度的美国公民在一家受制裁的中国高校推动光学研究 - South China Morning Post",
+      "title_cn": "一位出生于印度的美国公民在一家受制裁的中国高校推动光学研究 - 南华早报",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxOc0FxOEFhT0diZzM4YXoxZkpJS21TekJ3eGRvdHh5M0V6R1pJSjN4NmNGU0JLUGVPb3o5Tl9VOTk5YXlpOHRDNHd5VkRqVjZFRmxjM0l1QUVmZlhpRnBHWkJ0dXdvRzhFbVZfSTBEbEFud2NCQUd2QnZKdWFfcVlvWEZzUjFtdlJHY1M4WVBsS3dTRUhxdTJ0OENudElWNEwxYVhhcS1VNllWLXhpNXFPTmFERFJNZzlUbVlDd2NaZTIxZTTSAcMBQVVfeXFMTWRPMXRPelNUZ2MzLXdVbWg2Z3hENlVIRkJqXy1hQnlSLTIxM0NNRWpSNHA5N3dYem5fUmRZR2pRaDNlWXJMQnNZRVEtcFNfWncycGRkUHVxX19xLWtVU3lpSnFEaHI5bzhDajVHUXFNUTVlbERxY0FYeHdXT1d6ZmdfQ09SamYwUUtrbUJFSjZSQ0RmMERxdk9CWDRSSmJyNU5GQVVQd29lSXBPcGZ2YXNvTWRBblBwSEZtNTN6UUlXcnpZ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T13:00:06.000Z",
+      "pub_sort_dt": "2026-10-07 21:00:06"
     },
     {
       "source": "China Buzzing",
-      "title_en": "詹姆斯·乌斯迈尔起诉TP-Link，称这家路由器制造商隐瞒了与中国相关的联系及安全风险 - Florida Politics",
-      "title_cn": "詹姆斯·乌斯迈尔起诉TP-Link，称这家路由器制造商隐瞒了与中国相关的联系及安全风险 - 佛罗里达州政治",
-      "url": "https://news.google.com/read/CBMiwgFBVV95cUxPcXloOFJXMHNRUDVjcV9hWjlPN0hjVDB2NXVsU3lDOVJhdmxTNURIZnFjSkVocE5IeVVjaTdMNi1jZjJRTGdsbFU2dVVnenE3bDBrOXltdWNFYXVyTDdydXVZNzlqYWtaRGVxVjZZRTFPS2dQbGo1RWZ5a0YzSEZsV2ZVdGpkcTFSR2MtVl9QLUllZGlZYmdVMkVGMTNlMU51TnJGeGN6cnNtS3M4X3JlWHdPNFNUcUVQdERqYVVJX21jQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T21:05:58.000Z",
-      "pub_sort_dt": "2026-10-07 05:05:58"
+      "title_en": "TCGX通过一只规模达6亿美元、专注于亚洲市场的基金，进一步加大对中国市场的投入 - Endpoints News",
+      "title_cn": "TCGX通过规模达到6亿美元、专注于亚洲市场的基金，进一步加大对中国市场的投入 - Endpoints News",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOUVBELXJweHpRamRkRzdHSGltTkNUeC1vOGpnZ1V3eWlyTlFULThGb1BqZ0lTOWp4c28xSDJiXzJCTzNLREFEWmg4bE91STRNclBEb2RuT3RuSmpkZEMzTnBoNUVOX2pDc3NJLV9Wc0RvcWJyOTRlek1scG90Q2toRW9pbnk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T12:00:00.000Z",
+      "pub_sort_dt": "2026-10-07 20:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着黄金流动量创下历史新高，香港成为俄罗斯通往中国的黄金门户 - Kitco",
-      "title_cn": "随着黄金流动量史上新高，香港成为俄罗斯通往中国的黄金门户 - Kitco",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPY0dwSnR1WGFTUzFtRVpxdk0wTU14d0wxZkFxakg4S3BSU3JHZm1ibDFvLVVXdTM4ZW4ybThSdm5tb1pHdy1tbnloQWVNMHR4c19uY0JDQ296aE9KbkJjWDdnWlk3Z1BUSXVPRW9hS1VpOUV6UXhEbVphSGhTTDRud2trWGRSakVfV2oxSGkydS1OdFRNLWRuQ05kczI5THRsakhVOEZXTEtlV0ZNYXVfTGh0VE5QRXRsTTZjaQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T20:54:52.000Z",
-      "pub_sort_dt": "2026-10-07 04:54:52"
+      "title_en": "德国阻止了一家物流公司被中国中远集团收购 - Reuters",
+      "title_cn": "德国阻止一家物流公司被中国中远集团收购 - 路透中文网",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxNOExPd1VsLVRiYlZfYk9yTDJHY2E4TXBDcEp6YzdsSTkzU0hVcU5EWG9fZGVxMHQxcUdMZ01ya0EwVW1HRDFBOUlId21oYnBtWW9IcWJFcWFUQzd2NVA4UzFjd0JvRW5neUx2MU5ucmM5dWI4WkExb0RYcDFFeWQtQ3Y4N2x3bTBaWTNnQV9rM1NBRWgwSkw2ODQ2NEVFQ3M?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T11:30:09.000Z",
+      "pub_sort_dt": "2026-10-07 19:30:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国的增长目标已成为习近平的陷阱 - Bloomberg.com",
-      "title_cn": "中国的增长目标已成为习近平的陷阱 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiogFBVV95cUxPVzJXRWpKZHhTLUFnclJ4akFrb2p1M05NTUtJZV9VRFJxNkNEZlNxSmRMTUszeUlHY1B5VUNLd0hVN2JIZ01PVjg2aGVCQ3kxcjlBSmpuckhlR3Z1dDlQTUZuTDFYMnlvZUR2SnJpQmE4MV9MYXR4S2NnZDFEbU1Xd3Q1YkhDczE5dUJRRnE3NE9XNDFKbTFmNGRrdWlQMFRsU0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T20:51:02.000Z",
-      "pub_sort_dt": "2026-10-07 04:51:02"
+      "title_en": "中国的人工智能推广没有“关闭”按钮 - Foreign Policy",
+      "title_cn": "中国的人工智能推广没有“关闭”按钮 - 外交政策",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxNT29QbHlSV05SRTY3ZjliV0pER2lrSHM2TmM5SjRoSTJZcmprcVB0MF8tMzZGeXFrNk03T3ZZel94M241TEZ4R0FNNjZXaDltLXg4aHRvbzY1WEVwTVNtN00yVnZaU3lXdENpQ2hWN0ozTWtrZDJTcmJ6SmVRRlhEQ0VZV282SmFYc3A1UVF1MEExU24yd1pzQmhtTEdteE03Q1dv?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T11:21:14.000Z",
+      "pub_sort_dt": "2026-10-07 19:21:14"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国无需入侵台湾就能控制台湾 - Foreign Policy",
-      "title_cn": "中国入侵台湾即可控制台湾 - 外交政策",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxOU2EyMVVDaUpqa1FiR25zamstVWxkbDVHQWxUNXFKUi1wM1NuRmhRSHZRck8yYUI1dmJiNmpUT3dHVDNPQVNfbzF5bkJzaVJ3WUxnZ0ZOVEJuRWtBZE1mRndqQ0QyeXNBV3pEdTFaRGEtaTJmNDFSTDBOWFN5Z21vWW94WF8wYnBQcUZv?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T19:20:38.000Z",
-      "pub_sort_dt": "2026-10-07 03:20:38"
+      "title_en": "在有争议水域，中国在美國主要盟友周边的军事活动几乎翻了一番 - Fox News",
+      "title_cn": "在有争议水域，中国在美國主要盟友周边的军事活动几乎翻了一番 - Fox News",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxONWd0QjdNamxFUW02c0lROGpyYzJZdlNSeEhjaWlORW1CVE1qSlhxVlk1WkVuRV9TbTBjaDVSbmVlNWplWFI1LVR6UGhmYUhqX0ttOU5YR19XQWhhSERKZ3RvYXBFdlVtRTN3WlJ1Z2NmWmlzSzhvc1QtM1RneEhyaG9QYXdRWUZCeTdJUFBUNDRiaEhCLWs3bVUzZ0l2RXV1SFYyczROZm5UMS1Z0gGyAUFVX3lxTFBuMWF3OUxNN1lveHlkQnJZbDF0LU10V3RHOXcwQmN3aWNLcTVwYzh2ZmZKaGZEa3UyeXBpQlNrdWNrSXpfb19jTDV0aXBhR3ZBT0lUSmNPbUMzRktaN19lRlJkcjA2Szdocmx0UkZHQ2lRSDdJeXNSMXE1WHE3dnFYZzFER3UtWFhUbjRDZThwZS1zWTV0RURXcGFpS043UHZ3cm9hS0FmYnhPaC1HTGwtbkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T11:01:21.000Z",
+      "pub_sort_dt": "2026-10-07 19:01:21"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "美国联邦通信委员会（FCC）将投票表决，禁止所有中国实验室对美国电子产品进行检测",
+      "title_cn": "美国联邦通信委员会（FCC）将投票表决，禁止所有中国实验室对美国电子产品进行检测",
+      "url": "https://reut.rs/4hxRV3H",
+      "pub_raw": "2026-10-07T20:33:56.695Z",
+      "pub_sort_dt": "2026-10-08 04:33:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国可在电动汽车领域给欧洲一些喘息空间",
+      "title_cn": "中国可在电动汽车领域给欧洲一些喘息空间",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-07/china-can-give-europe-a-break-on-evs",
+      "pub_raw": "2026-10-07T20:18:57.849Z",
+      "pub_sort_dt": "2026-10-08 04:18:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "斯泰兰蒂斯称，中国进口车威胁到巴西汽车业就业岗位",
+      "title_cn": "斯泰兰蒂斯称，中国进口汽车威胁到巴西汽车业就业岗位",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/brazil-auto-jobs-imperiled-by-chinese-imports-stellantis-says",
+      "pub_raw": "2026-10-07T20:03:07.253Z",
+      "pub_sort_dt": "2026-10-08 04:03:07"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "UPS员工漏看一封电子邮件，致使中国获得F-35零部件",
+      "title_cn": "UPS员工漏看一封电子邮件，致使中国获得F-35零部件",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts",
+      "pub_raw": "2026-10-07T20:03:07.250Z",
+      "pub_sort_dt": "2026-10-08 04:03:07"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "为何“中国冲击2.0”与以往不同",
+      "title_cn": "为何“中国冲击2.0”与以往不同",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/why-china-shock-2-0-is-different",
+      "pub_raw": "2026-10-07T19:48:12.850Z",
+      "pub_sort_dt": "2026-10-08 03:48:12"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "维也纳和北京的科学家研制出世界上首台核钟",
+      "title_cn": "维也纳和北京的科学家标签出世界上首台核钟",
+      "url": "https://reut.rs/4i8F4VO",
+      "pub_raw": "2026-10-07T17:57:14.651Z",
+      "pub_sort_dt": "2026-10-08 01:57:14"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国驳回了欧盟关于自愿限制混合动力汽车出口的请求",
+      "title_cn": "中国回应了欧盟关于主动限制动力汽车出口的请求",
+      "url": "https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-07T17:10:09.404Z",
+      "pub_sort_dt": "2026-10-08 01:10:09"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国如何应对其石油困境，将产生全球性影响",
+      "title_cn": "中国如何应对其石油困境，将产生全球性影响",
+      "url": "https://www.economist.com/china/2026/10/07/how-china-manages-its-oil-woes-will-have-global-repercussions",
+      "pub_raw": "2026-10-07T16:07:00.698Z",
+      "pub_sort_dt": "2026-10-08 00:07:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "欧盟在与北京的谈判中寻求缩小对华贸易逆差",
+      "title_cn": "欧盟在与北京的谈判中寻求缩小对华贸易逆差",
+      "url": "https://reut.rs/4ycbRyb",
+      "pub_raw": "2026-10-07T16:07:00.479Z",
+      "pub_sort_dt": "2026-10-08 00:07:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "北达科他州借力大豆热潮，其动力源自生物燃料和中国",
+      "title_cn": "北达科他州力大豆热潮，其借鉴源自动力生物燃料和中国",
+      "url": "https://reut.rs/4j9OHom",
+      "pub_raw": "2026-10-07T14:32:10.639Z",
+      "pub_sort_dt": "2026-10-07 22:32:10"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟计划对中国混合动力汽车设定进口上限以保护本国产业",
+      "title_cn": "欧盟对中国混合动力汽车设定进口限额以保护本国产业",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/eu-planning-an-import-cap-on-chinese-hybrid-cars-to-protect-sector",
+      "pub_raw": "2026-10-07T13:14:02.976Z",
+      "pub_sort_dt": "2026-10-07 21:14:02"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "德国阻止中国企业收购其最大海港",
+      "title_cn": "德国阻止中国企业收购其最大海港",
+      "url": "https://www.ft.com/content/3616b259-723d-4797-a96c-be617d673feb?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-07T11:56:54.091Z",
+      "pub_sort_dt": "2026-10-07 19:56:54"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "呼吁英国对欧盟贸易争端核心的中国化学品征收关税",
+      "title_cn": "呼吁英国对欧盟贸易争端核心的中国化学品征收关税",
+      "url": "https://www.ft.com/content/a7af63b4-70de-4c08-8aa1-1eb2298d7f2f?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-07T11:09:05.784Z",
+      "pub_sort_dt": "2026-10-07 19:09:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港、新加坡向黄金市场推介各自的黄金交易中心",
+      "title_cn": "香港、新加坡向黄金市场推介各自的黄金交易中心",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/hong-kong-singapore-make-rival-gold-pitches-at-industry-meeting",
+      "pub_raw": "2026-10-07T10:21:06.550Z",
+      "pub_sort_dt": "2026-10-07 18:21:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟计划对中国混合动力汽车设定进口上限以保护本国产业",
+      "title_cn": "欧盟对中国混合动力汽车设定进口限额以保护本国产业",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/eu-prepares-import-cap-on-chinese-hybrid-cars-to-balance-trade",
+      "pub_raw": "2026-10-07T10:05:01.275Z",
+      "pub_sort_dt": "2026-10-07 18:05:01"
+    },
     {
       "source": "Bloomberg",
       "title_en": "香港科技指数在人工智能领域进行重大调整，成员数量扩充至50家",
@@ -99,14 +219,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-07/hong-kong-tech-index-expands-members-to-50-in-major-ai-overhaul",
       "pub_raw": "2026-10-07T09:49:11.861Z",
       "pub_sort_dt": "2026-10-07 17:49:11"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "欧盟拟对中国混合动力汽车设定进口上限以平衡贸易",
-      "title_cn": "欧盟拟对中国混合动力汽车设定进口上限以平衡贸易",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-07/eu-prepares-import-cap-on-chinese-hybrid-cars-to-balance-trade",
-      "pub_raw": "2026-10-07T08:29:21.545Z",
-      "pub_sort_dt": "2026-10-07 16:29:21"
     },
     {
       "source": "Reuters",
@@ -139,200 +251,208 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-07/-king-of-africa-smartphone-maker-seeks-428-million-in-hk-debut",
       "pub_raw": "2026-10-07T02:57:11.749Z",
       "pub_sort_dt": "2026-10-07 10:57:11"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "税务部门开始追征中国海外财富的税款",
-      "title_cn": "税务部门开始追征海外中国财富的税款",
-      "url": "https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-07T02:57:11.565Z",
-      "pub_sort_dt": "2026-10-07 10:57:11"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着AI贸易规模扩大，台湾取代韩国成为全球市场领头羊",
-      "title_cn": "随着AI贸易规模扩大，台湾取代韩国成为全球市场领头羊",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-07/taiwan-dethrones-korea-atop-global-markets-as-ai-trade-widens",
-      "pub_raw": "2026-10-07T02:41:52.521Z",
-      "pub_sort_dt": "2026-10-07 10:41:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "卡塔尔能源公司从四家中国银行获得30亿美元贷款",
-      "title_cn": "土耳其能源公司从四家中国银行获得30亿美元贷款",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-07/qatarenergy-secures-3-billion-loan-from-four-chinese-banks",
-      "pub_raw": "2026-10-07T01:55:09.803Z",
-      "pub_sort_dt": "2026-10-07 09:55:09"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "中国芬太尼原料制造商现正向美国人兜售盗版肽",
-      "title_cn": "中国芬太尼原料制造商现正向美国人兜售盗版肽",
-      "url": "https://on.wsj.com/4zgatvh",
-      "pub_raw": "2026-10-07T01:39:13.864Z",
-      "pub_sort_dt": "2026-10-07 09:39:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "朝鲜就台湾问题向美国发出警告，金正恩同时承诺支持俄罗斯",
-      "title_cn": "朝鲜就台湾问题向美国发出警告，金正恩同时承诺支持俄罗斯",
-      "url": "https://reut.rs/4yw5RRL",
-      "pub_raw": "2026-10-06T22:13:11.069Z",
-      "pub_sort_dt": "2026-10-07 06:13:11"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国的增长目标已成为习近平的陷阱",
-      "title_cn": "中国的增长目标已成为习近平的陷阱",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-06/china-s-growth-target-has-become-a-trap-for-xi",
-      "pub_raw": "2026-10-06T21:10:10.109Z",
-      "pub_sort_dt": "2026-10-07 05:10:10"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "这位汽车公司CEO认为，未来美国汽车中将使用更多中国零部件",
-      "title_cn": "美国汽车公司CEO认为，未来美国汽车中将使用更多中国零部件",
-      "url": "https://on.wsj.com/3Vmltsu",
-      "pub_raw": "2026-10-06T20:54:13.591Z",
-      "pub_sort_dt": "2026-10-07 04:54:13"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国想钻进你的脑子里",
-      "title_cn": "中国想钻进你的脑子里",
-      "url": "https://www.economist.com/business/2026/10/06/china-wants-to-get-inside-your-head",
-      "pub_raw": "2026-10-06T18:17:11.418Z",
-      "pub_sort_dt": "2026-10-07 02:17:11"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：消息人士称，中国计划在世卫组织领导层竞选中晚些时候加入",
-      "title_cn": "独家：消息人士称，中国计划在世界卫生组织领导层的竞选中迟迟加入",
-      "url": "https://reut.rs/4yJBbfV",
-      "pub_raw": "2026-10-06T16:26:15.981Z",
-      "pub_sort_dt": "2026-10-07 00:26:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Venture Global 正就向更多中国买家出售美国液化天然气进行谈判",
-      "title_cn": "Venture Global正向更多中国买家出售美国液化天然气进行谈判",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-06/venture-global-is-in-talks-to-sell-us-lng-to-more-chinese-buyers",
-      "pub_raw": "2026-10-06T15:07:41.907Z",
-      "pub_sort_dt": "2026-10-06 23:07:41"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "市场静待中国回归，铜价在成交清淡中震荡",
-      "title_cn": "市场平静待中国回归，铜价成交清淡中震荡",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-06/copper-rises-for-third-day-as-tech-rally-lifts-risk-appetite",
-      "pub_raw": "2026-10-06T14:35:15.623Z",
-      "pub_sort_dt": "2026-10-06 22:35:15"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "黑客利用中国AI工具攻击韩国银行，暴露出新的风险",
-      "title_cn": "黑客利用中国AI工具攻击韩国银行，暴露新的风险",
-      "url": "https://on.wsj.com/4y0EjCP",
-      "pub_raw": "2026-10-06T12:11:55.080Z",
-      "pub_sort_dt": "2026-10-06 20:11:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "欧盟与中国的贸易立场",
-      "title_cn": "欧盟与中国的贸易关键字",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-06/eu-and-china-trade-positions",
-      "pub_raw": "2026-10-06T11:09:05.474Z",
-      "pub_sort_dt": "2026-10-06 19:09:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "促进中国对美直接投资对双方都有利",
-      "title_cn": "促进中国对美国直接投资对双方都有利",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-06/boosting-direct-chinese-investment-in-us-is-good-for-both-sides",
-      "pub_raw": "2026-10-06T10:21:03.612Z",
-      "pub_sort_dt": "2026-10-06 18:21:03"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国称正就疑似鼠疫病例与俄罗斯进行沟通 - Bloomberg.com",
-      "title_cn": "中国称疑似鼠疫病例与俄罗斯进行沟通 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQZExZajZMMmN6TnY0OE50cXVqbjZNOXY5eTBEbUJwOXU1RFBDd0J6OGlicm9yMUFqU0ZycVYzWXJ2ekJJamdlV1ZrTDlMMDRRUDdLUWdNZ21aVkVpYkRqYW44ZDFYNVNrMHl2aTY3ZFZ6ZUJ4eWVEYmlNN0hzaG5BV3NPME83ZGdyaWYyeGFQX1NHZktxU3BPcDJkcUNuWGN5YnF4RzVhc29rUHdwOFBLZ0RuXzY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-07T06:12:00.000Z",
-      "pub_sort_dt": "2026-10-07 14:12:00"
+      "title_en": "一艘超级油轮从墨西哥湾沿岸租往中国，租金为7600万美元，是战前水平的10倍 - CNBC",
+      "title_cn": "一个超级油轮从墨西哥湾原油租往中国，租金为7600万美元，是战前水平的10倍 - CNBC",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxPSEtybFdiZGMzUGVVQzBuLW1zdVM1emRmUnE5WEtXNjJkeGUtRGVYZmRuUTYtUTZaSUZEZDEzVnB5SkEwYWhSSU9YdU5LRnR6VDRYbFpzRW1QeldpNFU2eER5TjJ4X3FBWnpaQzBfVUxmbDdyTUxwUHE3LXVnZFBWRktXOE1PbWxhbU9NSEg4SjFCMGxtM1IyOXNTVzhQd9IBowFBVV95cUxNdFdMWlpnVEVBcW5kZGo1cE9OODlUUkVEN1NWdUZkakJSRWZYbDBvQ1Blc3dMNEh2MC1PYjRiTFE2X2U2VnRxdkxoSTJBLWM0dV9NLXY3RFBZb0ZVd1ZCOHF2VFRqUGFINWw1d0xWQ01VWnNYS0VsTk5zLVNVeThIYjVYazJwSG1ob01ERmFOc1RGcWZzN3A3V1JuR2ZuWXE4Rm9F?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T18:32:55.000Z",
+      "pub_sort_dt": "2026-10-08 02:32:55"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着ArriVent药物研发失败导致其在美国股市股价暴跌，中国生物技术企业面临现实考验 - South China Morning Post",
-      "title_cn": "随着ArriVent药物研发失败其在美国股市股价暴跌，中国生物技术企业面临现实考验 - 南华早报",
-      "url": "https://news.google.com/read/CBMi3AFBVV95cUxNY3Zta19kR2NLdVhMLWdPeWRua1VJQ2JPNUdFcDd1TlhnT1NLUVZCNkVGZS1Lcm9kLXpHbkNVX0I4bE95NmMycy1Na1hjOUxnUG1TcHRfbW9DYVdIZzNDZFdETTJhRWNfNWV0b3V4dWlmSTNNa1Vaaml1aDJJRFZYQmY4ZjJoVHp6a3psQ1h6NHBmVHlVaTR6dXVYSEZ1LU1rOFlPTWVNQ2ZnRndnSzhVb1Z0Wms3LVU0elZzVFE4dWw0OWNSdThOaklKYkZxaERHU2c5NHktQVVDT0px0gHcAUFVX3lxTE5qYnAzM0ZqTkh6Rk5VNTJweFRSb3dfTVJnSUdpOGFLR1dlQXJSYlBZRWhpM1FkeldBY1M3c3A1N002WFl1MkNfOGRxX2J4bTF0UVFoNVp0TEZmUEIyaFJ5V3JTTWFrR3BYQk1yT1REY2JVMGRzaVo4c0R6Nk9vajIwNXM1UnJ4QUlFNDYtZW9XYXlxOGE3Z3VoVjhjRDFrYU1CZE1OQmdtdkxqRW1haTA1aFYwRjJObkdlbTVVWEVURF8wUVNvbkp3MGQwZ0Q4WjBZZVE0MGthbkN2anc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-07T04:20:31.000Z",
-      "pub_sort_dt": "2026-10-07 12:20:31"
+      "title_en": "中国驳回了欧盟关于自愿限制混合动力汽车出口的请求 - Financial Times",
+      "title_cn": "中国回应了欧盟关于主动限制动力汽车出口的请求 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPaV9nb3M2aDVIU3RzTFRfb2txOTVzRTFGdUh5QVJsb05taURJQjROVzRQTW9pTk1iazctTF9yR0NFYzBSRFBjajJDcDF0T0FUbUdoa1JvY252LWcxSlh2ckpoRUQzTmNQVzNaMzZRbUhZVFdiWm9YcVlXSFh4NVlRZWNqRHk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T16:56:00.000Z",
+      "pub_sort_dt": "2026-10-08 00:56:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "税务部门开始追征中国海外财富的税款 - Financial Times",
-      "title_cn": "税务部门开始追征海外中国财富的税款 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPWGp6TnE0eXJOYzZ4ZUhZZkJ4ZnZBMzd6WXdxR3JrU0lsYXZmVzkyOUNPZ2lYMkRlYTNGS3FlQUlPSEJYY2M3MW5RRjFMLVZ1dlctWDhwVnpqVGttRXFNdk5GX3pjSXFhNmpYT2N4VFRsMjZGWjlvUTZWMmVZVDRYOFNUeXM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-07T02:27:55.000Z",
-      "pub_sort_dt": "2026-10-07 10:27:55"
+      "title_en": "中国如何应对其石油困境，将产生全球性影响 - The Economist",
+      "title_cn": "中国如何应对石油困境，将产生全球性影响 - 《经济学人》",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxOYjd6a3RwUlgtWEtfVlU5bU9lY0hadWRPaDYwNkNhb2hVOW9XdjQ3UzdROTNTQllFRlJPZExoMl9OOFVXSnhBMjVHR3lIdm5aem9Vbk1PRHlLWG9rWFZ1dVEyYXJwcVJkcy1WcFA3eUt4NHBNaXktRDQyLWd2a3JzTzZLTkZzdHBkTXliWDF6LTI4RmJxb3VibVdpRkxxQmRmNW1UWWhUSQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T15:30:16.000Z",
+      "pub_sort_dt": "2026-10-07 23:30:16"
     },
     {
       "source": "China Buzzing",
-      "title_en": "从价值百万美元的豪宅到监视任务：一名涉嫌为中国政府工作的间谍的生活与行踪 - CBS News",
-      "title_cn": "从价值百万美元的豪宅到监视任务：一名涉嫌为中国政府工作的间谍的生活与行踪 - 哥伦比亚广播公司新闻",
-      "url": "https://news.google.com/read/CBMikwFBVV95cUxNbm5mYTFILVVLUm52OEZoUUFLVER2blU3TUREcC14OVVCWFpHdXk1aHZWWFV1eWh6MGJSdEx5UmRoXzdfVDRBbkQ3clFmR3VGbHpjZzhoMnpxWnI2VlZib1dtVi00TEN6Vy1QME9RdXhUaEZoVWxaekFDVU5pUVJWM0psZDBvYnBtNTNvLTNFcFRCam8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T23:58:00.000Z",
-      "pub_sort_dt": "2026-10-07 07:58:00"
+      "title_en": "卫星图像显示，中国位于老挝的军事设施内有攻击机 - The Guardian",
+      "title_cn": "图片卫星军事显示，中国位于老挝的设施内有攻击机 - 《卫报》",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxNR3hDYXZCUUZYd2wybVhqN1pORzQ5N1UyU3dXNHl4NjNHUzdCU0kyRndyOWJsMzU4ZGFDVHdqUlNyNnB1WmN0OGdEQXRIMVpVcDVOZjhtUFJFR1RtUmZ5aW9JcVNOQVNYY3lZa3FTbWtpd1NVeWtmS0JhNXJDdktfRGZYdXVCMjhXYmNrQ3p1eUF6Y18yQWRsenNEUGo3RUdhbUs0cE9R?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T14:47:00.000Z",
+      "pub_sort_dt": "2026-10-07 22:47:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "隐私监管机构对开发Kmart“变态眼镜”应用的这家中国公司展开调查 - The Guardian",
-      "title_cn": "隐私监管机构对开发Kmart“变态眼镜”应用的这家中国公司展开调查 - 卫报",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxObTRIREY1OWR0YkoxckwwRzYweXBPZDdzcTRYMUx4VTQ5UmtSbm0xUEVkQ0dja1NjVHlsUGdFUnpvZlVDR3ZmSUx4YjVIRFdqRVdCZXdjSjdXZGtpbTE0TjE4UG1abDFtZVRxMWhqRkdMb0hWZUJnZldxVnRXaDJZTWlVa0k0T0J2TUV2c3ZGNzlPak45eVFDRmZ3Q1dwQjRQZ3BKRDBleHY5YjE1LVhFUXM4UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T23:03:00.000Z",
-      "pub_sort_dt": "2026-10-07 07:03:00"
+      "title_en": "全球债券收益率正大幅攀升——但中国除外 - WSJ",
+      "title_cn": "全球债券正大幅增长——但中国 - 华尔街日报",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxQNmFYTDB5NmE1WXNqZzdrYnZ5cmxQMnd3LU1oYnR1QXNrQlVfeHcyVmxsek5oQk9vQzU4OHNHclViTkxGakNQa0RMdTJPTy13N2lhSnI3anZ0cTlFc0NhaVJZVlZSeHhfREI2WDlRUDBZSnh6VjI5SHRESGxaRHhLRmdQWDk2b29SeFVEX3lXVmV3TTFWLWJHWFVEcWFxQzJZN0EwcHVR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T14:09:00.000Z",
+      "pub_sort_dt": "2026-10-07 22:09:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在习近平与特朗普举行了友好会晤之后，中国的“美元转向”会引发震动吗？ - South China Morning Post",
-      "title_cn": "在习近平与特朗普举行友好会晤后，中国的“美元转向”会引发震惊吗？ - 南华早报",
-      "url": "https://news.google.com/read/CBMizAFBVV95cUxPX0lxZTZIb2FVWGVsT0tSeXpYRFFNaDJfQUJWS0x3LXpHT3g4LVAzNnlWczZkNFpVNzdORkprY2dRNDdXNy13MjVJQ0w1UG83NFFZV2pkSXZPa0FsRXFpYlVIVFUxTTNZTkpjNS1IdG55ckxlMHZUTXFVMm9IVUNzUWRMa0JJRXlmaGJsZTRZRGRXa3F6RFBQODhjTGh1Z2RzRjRZdFF2TEZ3YTRZSGQ2RTAwbktINjJUX2REUmhzN2kzYWNYc1owei0wR1rSAcwBQVVfeXFMT0xnTTJKcHhRNFRqUmdjOGpHczhRcEZKMnNpcS04Z2R5MkFMdzRVWUdDNUVzQWxWT0RVZWlZWjVqNHY1NFJhZ2tUY3J6UFIxUmFPZzdYNDNyYThMeWZqaTc2b3dJYWs2U19zM29VeDdVU193X0t0TEVMQklKTHYwdEFHaUpNeFM0OC05Z09hUzBCUDZpTDNqa2pCTDAyVzRBRUVVT1FIMkZxWjJaOWp0dHdBNFBQWE9rb25XMXh5c3F5Ti1TN1FOellDcVFh?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T22:00:10.000Z",
-      "pub_sort_dt": "2026-10-07 06:00:10"
+      "title_en": "一位出生于印度的美国公民在一家受制裁的中国高校推动光学研究 - South China Morning Post",
+      "title_cn": "一位出生于印度的美国公民在一家受制裁的中国高校推动光学研究 - 南华早报",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxOc0FxOEFhT0diZzM4YXoxZkpJS21TekJ3eGRvdHh5M0V6R1pJSjN4NmNGU0JLUGVPb3o5Tl9VOTk5YXlpOHRDNHd5VkRqVjZFRmxjM0l1QUVmZlhpRnBHWkJ0dXdvRzhFbVZfSTBEbEFud2NCQUd2QnZKdWFfcVlvWEZzUjFtdlJHY1M4WVBsS3dTRUhxdTJ0OENudElWNEwxYVhhcS1VNllWLXhpNXFPTmFERFJNZzlUbVlDd2NaZTIxZTTSAcMBQVVfeXFMTWRPMXRPelNUZ2MzLXdVbWg2Z3hENlVIRkJqXy1hQnlSLTIxM0NNRWpSNHA5N3dYem5fUmRZR2pRaDNlWXJMQnNZRVEtcFNfWncycGRkUHVxX19xLWtVU3lpSnFEaHI5bzhDajVHUXFNUTVlbERxY0FYeHdXT1d6ZmdfQ09SamYwUUtrbUJFSjZSQ0RmMERxdk9CWDRSSmJyNU5GQVVQd29lSXBPcGZ2YXNvTWRBblBwSEZtNTN6UUlXcnpZ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T13:00:06.000Z",
+      "pub_sort_dt": "2026-10-07 21:00:06"
     },
     {
       "source": "China Buzzing",
-      "title_en": "詹姆斯·乌斯迈尔起诉TP-Link，称这家路由器制造商隐瞒了与中国相关的联系及安全风险 - Florida Politics",
-      "title_cn": "詹姆斯·乌斯迈尔起诉TP-Link，称这家路由器制造商隐瞒了与中国相关的联系及安全风险 - 佛罗里达州政治",
-      "url": "https://news.google.com/read/CBMiwgFBVV95cUxPcXloOFJXMHNRUDVjcV9hWjlPN0hjVDB2NXVsU3lDOVJhdmxTNURIZnFjSkVocE5IeVVjaTdMNi1jZjJRTGdsbFU2dVVnenE3bDBrOXltdWNFYXVyTDdydXVZNzlqYWtaRGVxVjZZRTFPS2dQbGo1RWZ5a0YzSEZsV2ZVdGpkcTFSR2MtVl9QLUllZGlZYmdVMkVGMTNlMU51TnJGeGN6cnNtS3M4X3JlWHdPNFNUcUVQdERqYVVJX21jQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T21:05:58.000Z",
-      "pub_sort_dt": "2026-10-07 05:05:58"
+      "title_en": "TCGX通过一只规模达6亿美元、专注于亚洲市场的基金，进一步加大对中国市场的投入 - Endpoints News",
+      "title_cn": "TCGX通过规模达到6亿美元、专注于亚洲市场的基金，进一步加大对中国市场的投入 - Endpoints News",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOUVBELXJweHpRamRkRzdHSGltTkNUeC1vOGpnZ1V3eWlyTlFULThGb1BqZ0lTOWp4c28xSDJiXzJCTzNLREFEWmg4bE91STRNclBEb2RuT3RuSmpkZEMzTnBoNUVOX2pDc3NJLV9Wc0RvcWJyOTRlek1scG90Q2toRW9pbnk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T12:00:00.000Z",
+      "pub_sort_dt": "2026-10-07 20:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着黄金流动量创下历史新高，香港成为俄罗斯通往中国的黄金门户 - Kitco",
-      "title_cn": "随着黄金流动量史上新高，香港成为俄罗斯通往中国的黄金门户 - Kitco",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPY0dwSnR1WGFTUzFtRVpxdk0wTU14d0wxZkFxakg4S3BSU3JHZm1ibDFvLVVXdTM4ZW4ybThSdm5tb1pHdy1tbnloQWVNMHR4c19uY0JDQ296aE9KbkJjWDdnWlk3Z1BUSXVPRW9hS1VpOUV6UXhEbVphSGhTTDRud2trWGRSakVfV2oxSGkydS1OdFRNLWRuQ05kczI5THRsakhVOEZXTEtlV0ZNYXVfTGh0VE5QRXRsTTZjaQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T20:54:52.000Z",
-      "pub_sort_dt": "2026-10-07 04:54:52"
+      "title_en": "德国阻止了一家物流公司被中国中远集团收购 - Reuters",
+      "title_cn": "德国阻止一家物流公司被中国中远集团收购 - 路透中文网",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxNOExPd1VsLVRiYlZfYk9yTDJHY2E4TXBDcEp6YzdsSTkzU0hVcU5EWG9fZGVxMHQxcUdMZ01ya0EwVW1HRDFBOUlId21oYnBtWW9IcWJFcWFUQzd2NVA4UzFjd0JvRW5neUx2MU5ucmM5dWI4WkExb0RYcDFFeWQtQ3Y4N2x3bTBaWTNnQV9rM1NBRWgwSkw2ODQ2NEVFQ3M?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T11:30:09.000Z",
+      "pub_sort_dt": "2026-10-07 19:30:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国的增长目标已成为习近平的陷阱 - Bloomberg.com",
-      "title_cn": "中国的增长目标已成为习近平的陷阱 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiogFBVV95cUxPVzJXRWpKZHhTLUFnclJ4akFrb2p1M05NTUtJZV9VRFJxNkNEZlNxSmRMTUszeUlHY1B5VUNLd0hVN2JIZ01PVjg2aGVCQ3kxcjlBSmpuckhlR3Z1dDlQTUZuTDFYMnlvZUR2SnJpQmE4MV9MYXR4S2NnZDFEbU1Xd3Q1YkhDczE5dUJRRnE3NE9XNDFKbTFmNGRrdWlQMFRsU0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T20:51:02.000Z",
-      "pub_sort_dt": "2026-10-07 04:51:02"
+      "title_en": "中国的人工智能推广没有“关闭”按钮 - Foreign Policy",
+      "title_cn": "中国的人工智能推广没有“关闭”按钮 - 外交政策",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxNT29QbHlSV05SRTY3ZjliV0pER2lrSHM2TmM5SjRoSTJZcmprcVB0MF8tMzZGeXFrNk03T3ZZel94M241TEZ4R0FNNjZXaDltLXg4aHRvbzY1WEVwTVNtN00yVnZaU3lXdENpQ2hWN0ozTWtrZDJTcmJ6SmVRRlhEQ0VZV282SmFYc3A1UVF1MEExU24yd1pzQmhtTEdteE03Q1dv?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T11:21:14.000Z",
+      "pub_sort_dt": "2026-10-07 19:21:14"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国无需入侵台湾就能控制台湾 - Foreign Policy",
-      "title_cn": "中国入侵台湾即可控制台湾 - 外交政策",
-      "url": "https://news.google.com/read/CBMiiwFBVV95cUxOU2EyMVVDaUpqa1FiR25zamstVWxkbDVHQWxUNXFKUi1wM1NuRmhRSHZRck8yYUI1dmJiNmpUT3dHVDNPQVNfbzF5bkJzaVJ3WUxnZ0ZOVEJuRWtBZE1mRndqQ0QyeXNBV3pEdTFaRGEtaTJmNDFSTDBOWFN5Z21vWW94WF8wYnBQcUZv?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-06T19:20:38.000Z",
-      "pub_sort_dt": "2026-10-07 03:20:38"
+      "title_en": "在有争议水域，中国在美國主要盟友周边的军事活动几乎翻了一番 - Fox News",
+      "title_cn": "在有争议水域，中国在美國主要盟友周边的军事活动几乎翻了一番 - Fox News",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxONWd0QjdNamxFUW02c0lROGpyYzJZdlNSeEhjaWlORW1CVE1qSlhxVlk1WkVuRV9TbTBjaDVSbmVlNWplWFI1LVR6UGhmYUhqX0ttOU5YR19XQWhhSERKZ3RvYXBFdlVtRTN3WlJ1Z2NmWmlzSzhvc1QtM1RneEhyaG9QYXdRWUZCeTdJUFBUNDRiaEhCLWs3bVUzZ0l2RXV1SFYyczROZm5UMS1Z0gGyAUFVX3lxTFBuMWF3OUxNN1lveHlkQnJZbDF0LU10V3RHOXcwQmN3aWNLcTVwYzh2ZmZKaGZEa3UyeXBpQlNrdWNrSXpfb19jTDV0aXBhR3ZBT0lUSmNPbUMzRktaN19lRlJkcjA2Szdocmx0UkZHQ2lRSDdJeXNSMXE1WHE3dnFYZzFER3UtWFhUbjRDZThwZS1zWTV0RURXcGFpS043UHZ3cm9hS0FmYnhPaC1HTGwtbkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-07T11:01:21.000Z",
+      "pub_sort_dt": "2026-10-07 19:01:21"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国联邦通信委员会（FCC）将投票表决，禁止所有中国实验室对美国电子产品进行检测",
+      "title_cn": "美国联邦通信委员会（FCC）将投票表决，禁止所有中国实验室对美国电子产品进行检测",
+      "url": "https://reut.rs/4hxRV3H",
+      "pub_raw": "2026-10-07T20:33:56.695Z",
+      "pub_sort_dt": "2026-10-08 04:33:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国可在电动汽车领域给欧洲一些喘息空间",
+      "title_cn": "中国可在电动汽车领域给欧洲一些喘息空间",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-07/china-can-give-europe-a-break-on-evs",
+      "pub_raw": "2026-10-07T20:18:57.849Z",
+      "pub_sort_dt": "2026-10-08 04:18:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "斯泰兰蒂斯称，中国进口车威胁到巴西汽车业就业岗位",
+      "title_cn": "斯泰兰蒂斯称，中国进口汽车威胁到巴西汽车业就业岗位",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/brazil-auto-jobs-imperiled-by-chinese-imports-stellantis-says",
+      "pub_raw": "2026-10-07T20:03:07.253Z",
+      "pub_sort_dt": "2026-10-08 04:03:07"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "UPS员工漏看一封电子邮件，致使中国获得F-35零部件",
+      "title_cn": "UPS员工漏看一封电子邮件，致使中国获得F-35零部件",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts",
+      "pub_raw": "2026-10-07T20:03:07.250Z",
+      "pub_sort_dt": "2026-10-08 04:03:07"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "为何“中国冲击2.0”与以往不同",
+      "title_cn": "为何“中国冲击2.0”与以往不同",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/why-china-shock-2-0-is-different",
+      "pub_raw": "2026-10-07T19:48:12.850Z",
+      "pub_sort_dt": "2026-10-08 03:48:12"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "维也纳和北京的科学家研制出世界上首台核钟",
+      "title_cn": "维也纳和北京的科学家标签出世界上首台核钟",
+      "url": "https://reut.rs/4i8F4VO",
+      "pub_raw": "2026-10-07T17:57:14.651Z",
+      "pub_sort_dt": "2026-10-08 01:57:14"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国驳回了欧盟关于自愿限制混合动力汽车出口的请求",
+      "title_cn": "中国回应了欧盟关于主动限制动力汽车出口的请求",
+      "url": "https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-07T17:10:09.404Z",
+      "pub_sort_dt": "2026-10-08 01:10:09"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国如何应对其石油困境，将产生全球性影响",
+      "title_cn": "中国如何应对其石油困境，将产生全球性影响",
+      "url": "https://www.economist.com/china/2026/10/07/how-china-manages-its-oil-woes-will-have-global-repercussions",
+      "pub_raw": "2026-10-07T16:07:00.698Z",
+      "pub_sort_dt": "2026-10-08 00:07:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "欧盟在与北京的谈判中寻求缩小对华贸易逆差",
+      "title_cn": "欧盟在与北京的谈判中寻求缩小对华贸易逆差",
+      "url": "https://reut.rs/4ycbRyb",
+      "pub_raw": "2026-10-07T16:07:00.479Z",
+      "pub_sort_dt": "2026-10-08 00:07:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "北达科他州借力大豆热潮，其动力源自生物燃料和中国",
+      "title_cn": "北达科他州力大豆热潮，其借鉴源自动力生物燃料和中国",
+      "url": "https://reut.rs/4j9OHom",
+      "pub_raw": "2026-10-07T14:32:10.639Z",
+      "pub_sort_dt": "2026-10-07 22:32:10"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟计划对中国混合动力汽车设定进口上限以保护本国产业",
+      "title_cn": "欧盟对中国混合动力汽车设定进口限额以保护本国产业",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/eu-planning-an-import-cap-on-chinese-hybrid-cars-to-protect-sector",
+      "pub_raw": "2026-10-07T13:14:02.976Z",
+      "pub_sort_dt": "2026-10-07 21:14:02"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "德国阻止中国企业收购其最大海港",
+      "title_cn": "德国阻止中国企业收购其最大海港",
+      "url": "https://www.ft.com/content/3616b259-723d-4797-a96c-be617d673feb?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-07T11:56:54.091Z",
+      "pub_sort_dt": "2026-10-07 19:56:54"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "呼吁英国对欧盟贸易争端核心的中国化学品征收关税",
+      "title_cn": "呼吁英国对欧盟贸易争端核心的中国化学品征收关税",
+      "url": "https://www.ft.com/content/a7af63b4-70de-4c08-8aa1-1eb2298d7f2f?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-07T11:09:05.784Z",
+      "pub_sort_dt": "2026-10-07 19:09:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港、新加坡向黄金市场推介各自的黄金交易中心",
+      "title_cn": "香港、新加坡向黄金市场推介各自的黄金交易中心",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/hong-kong-singapore-make-rival-gold-pitches-at-industry-meeting",
+      "pub_raw": "2026-10-07T10:21:06.550Z",
+      "pub_sort_dt": "2026-10-07 18:21:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟计划对中国混合动力汽车设定进口上限以保护本国产业",
+      "title_cn": "欧盟对中国混合动力汽车设定进口限额以保护本国产业",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/eu-prepares-import-cap-on-chinese-hybrid-cars-to-balance-trade",
+      "pub_raw": "2026-10-07T10:05:01.275Z",
+      "pub_sort_dt": "2026-10-07 18:05:01"
     },
     {
       "source": "Bloomberg",
@@ -341,14 +461,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-07/hong-kong-tech-index-expands-members-to-50-in-major-ai-overhaul",
       "pub_raw": "2026-10-07T09:49:11.861Z",
       "pub_sort_dt": "2026-10-07 17:49:11"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "欧盟拟对中国混合动力汽车设定进口上限以平衡贸易",
-      "title_cn": "欧盟拟对中国混合动力汽车设定进口上限以平衡贸易",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-07/eu-prepares-import-cap-on-chinese-hybrid-cars-to-balance-trade",
-      "pub_raw": "2026-10-07T08:29:21.545Z",
-      "pub_sort_dt": "2026-10-07 16:29:21"
     },
     {
       "source": "Reuters",
@@ -381,118 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-07/-king-of-africa-smartphone-maker-seeks-428-million-in-hk-debut",
       "pub_raw": "2026-10-07T02:57:11.749Z",
       "pub_sort_dt": "2026-10-07 10:57:11"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "税务部门开始追征中国海外财富的税款",
-      "title_cn": "税务部门开始追征海外中国财富的税款",
-      "url": "https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-07T02:57:11.565Z",
-      "pub_sort_dt": "2026-10-07 10:57:11"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着AI贸易规模扩大，台湾取代韩国成为全球市场领头羊",
-      "title_cn": "随着AI贸易规模扩大，台湾取代韩国成为全球市场领头羊",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-07/taiwan-dethrones-korea-atop-global-markets-as-ai-trade-widens",
-      "pub_raw": "2026-10-07T02:41:52.521Z",
-      "pub_sort_dt": "2026-10-07 10:41:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "卡塔尔能源公司从四家中国银行获得30亿美元贷款",
-      "title_cn": "土耳其能源公司从四家中国银行获得30亿美元贷款",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-07/qatarenergy-secures-3-billion-loan-from-four-chinese-banks",
-      "pub_raw": "2026-10-07T01:55:09.803Z",
-      "pub_sort_dt": "2026-10-07 09:55:09"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "中国芬太尼原料制造商现正向美国人兜售盗版肽",
-      "title_cn": "中国芬太尼原料制造商现正向美国人兜售盗版肽",
-      "url": "https://on.wsj.com/4zgatvh",
-      "pub_raw": "2026-10-07T01:39:13.864Z",
-      "pub_sort_dt": "2026-10-07 09:39:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "朝鲜就台湾问题向美国发出警告，金正恩同时承诺支持俄罗斯",
-      "title_cn": "朝鲜就台湾问题向美国发出警告，金正恩同时承诺支持俄罗斯",
-      "url": "https://reut.rs/4yw5RRL",
-      "pub_raw": "2026-10-06T22:13:11.069Z",
-      "pub_sort_dt": "2026-10-07 06:13:11"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国的增长目标已成为习近平的陷阱",
-      "title_cn": "中国的增长目标已成为习近平的陷阱",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-06/china-s-growth-target-has-become-a-trap-for-xi",
-      "pub_raw": "2026-10-06T21:10:10.109Z",
-      "pub_sort_dt": "2026-10-07 05:10:10"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "这位汽车公司CEO认为，未来美国汽车中将使用更多中国零部件",
-      "title_cn": "美国汽车公司CEO认为，未来美国汽车中将使用更多中国零部件",
-      "url": "https://on.wsj.com/3Vmltsu",
-      "pub_raw": "2026-10-06T20:54:13.591Z",
-      "pub_sort_dt": "2026-10-07 04:54:13"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国想钻进你的脑子里",
-      "title_cn": "中国想钻进你的脑子里",
-      "url": "https://www.economist.com/business/2026/10/06/china-wants-to-get-inside-your-head",
-      "pub_raw": "2026-10-06T18:17:11.418Z",
-      "pub_sort_dt": "2026-10-07 02:17:11"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：消息人士称，中国计划在世卫组织领导层竞选中晚些时候加入",
-      "title_cn": "独家：消息人士称，中国计划在世界卫生组织领导层的竞选中迟迟加入",
-      "url": "https://reut.rs/4yJBbfV",
-      "pub_raw": "2026-10-06T16:26:15.981Z",
-      "pub_sort_dt": "2026-10-07 00:26:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Venture Global 正就向更多中国买家出售美国液化天然气进行谈判",
-      "title_cn": "Venture Global正向更多中国买家出售美国液化天然气进行谈判",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-06/venture-global-is-in-talks-to-sell-us-lng-to-more-chinese-buyers",
-      "pub_raw": "2026-10-06T15:07:41.907Z",
-      "pub_sort_dt": "2026-10-06 23:07:41"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "市场静待中国回归，铜价在成交清淡中震荡",
-      "title_cn": "市场平静待中国回归，铜价成交清淡中震荡",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-06/copper-rises-for-third-day-as-tech-rally-lifts-risk-appetite",
-      "pub_raw": "2026-10-06T14:35:15.623Z",
-      "pub_sort_dt": "2026-10-06 22:35:15"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "黑客利用中国AI工具攻击韩国银行，暴露出新的风险",
-      "title_cn": "黑客利用中国AI工具攻击韩国银行，暴露新的风险",
-      "url": "https://on.wsj.com/4y0EjCP",
-      "pub_raw": "2026-10-06T12:11:55.080Z",
-      "pub_sort_dt": "2026-10-06 20:11:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "欧盟与中国的贸易立场",
-      "title_cn": "欧盟与中国的贸易关键字",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-06/eu-and-china-trade-positions",
-      "pub_raw": "2026-10-06T11:09:05.474Z",
-      "pub_sort_dt": "2026-10-06 19:09:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "促进中国对美直接投资对双方都有利",
-      "title_cn": "促进中国对美国直接投资对双方都有利",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-06/boosting-direct-chinese-investment-in-us-is-good-for-both-sides",
-      "pub_raw": "2026-10-06T10:21:03.612Z",
-      "pub_sort_dt": "2026-10-06 18:21:03"
     }
   ]
 }
