@@ -1,101 +1,125 @@
 {
-  "update_cst": "2026-10-10 18:01:23 北京时间",
+  "update_cst": "2026-10-11 06:01:12 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 8,
-    "Financial Times": 3,
+    "Bloomberg": 9,
+    "Financial Times": 2,
     "Wall Street Journal": 0,
     "Reuters": 9
   },
   "china_news": [
     {
       "source": "China Buzzing",
+      "title_en": "一家西方消费品巨头如何借助中国社交媒体购物者蓬勃发展 - WSJ",
+      "title_cn": "一家西方消费品巨头如何借助中国社交媒体购物者蓬勃发展 - WSJ",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxQbm5FSWp4UmdJdzNSWjVKYXNHWkdVM0NwSG50Nzl2NnF4a1NBVlBHZTg4OVZHOThCWmlhbERWR3dWMnFCOEVReHBHbV9tRUFxSE9uSm1IMDNPYkFyXzVqTlBsaU8zZmIybl8zbkg1RjU1eWl2aUt6NUZuQTBkRnR1SEIyeFhtd2VrTjRCZ1FQVnhscWVPTGRrTmNjRWNXd21Zc3RwdGZaQXQ4ZUkwcTRDOHRIMlJyNEEx?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T18:00:00.000Z",
+      "pub_sort_dt": "2026-10-11 02:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国军用飞机是否已开始使用位于老挝的一处新联合航空设施？ - South China Morning Post",
+      "title_cn": "中国军用飞机是否已开始使用位于老挝的一处新联合航空设施？ - South China Morning Post",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxQWUZDd3NGQUFCZlZQRFR0aFptSi1uZDRFRlN1QklXYkVYUGlkdWlMLWRKa3NWTUxRTXZvaXRFRXlrZTBOaUdfcmphV3RuSy1VaUhlOFZjTjZHTWhlWF9KV2ZhYmtKQzc2RU9ITWd2YzE5Wk9XZ1VTeEk1NXdCOENqcFU3Uk1sLVA0TWlhZTU2cF9BOGV1c3pDXzR0Q2FOblZyNXBhdElLMDVhTEJSYW5HdFdnZ0lSNllXQ2NsNmc3Nkh0STQtVC1V0gHHAUFVX3lxTE90Z0VHNW02cFdUcTl1Rnh5R2JHMmR5UnpTcWYxS3ZYYVdaemVYMjIxOWVVa082OFFpWjBtN1MxV0FuWXhrTU5KTmhLa2YzV3laSlpJXzFVVEtqcHVQZkVaVFZYNHFJOHUyRi1oLUFsU2JKaVJGNE9jQm91cnpkdlZ0S3BGR1FYS3lqZlpHaFhzajA4VUZJT0VoZHQxTGdLTjl2UGtFM0hvQ1B6ZmptLTlUQnJjQ1pvanRyR0NCTlhqS0lCVlBKQTg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T14:00:06.000Z",
+      "pub_sort_dt": "2026-10-10 22:00:06"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "郑赛赛直落两盘战胜梅尔滕斯，成为首位晋级北京站决赛的中国选手 - WTA Tennis",
+      "title_cn": "郑赛赛直落两盘战胜梅尔滕斯，成为首位晋级北京站决赛的中国选手 - WTA Tennis",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxPUlAwVDRwOHVxRFNRTF8xQkVfWkhPU0JvYVp6QXZMYmZQRlhOR2N5VWx6QUVEU2JHSTBRMFA3NXFrSHhJSDBVd2VqdXhVam45djVZVzlEekFaY1pLdTVnY1JPY1AtNzU3MGdNLTFJUGpNVGdNTEg1Rk5jazE5ZFYzalJVVW9iZWFCOFB3Sks2RXM5a2NpX2V4N3g5NDl1YXQyZjBzcFhpcjZTeVEtd2J4UDA5U0I0QWNMUzRRc3B4TQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T13:27:45.000Z",
+      "pub_sort_dt": "2026-10-10 21:27:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国浙江省呼吁遏制科技巨头的网络“流量霸权” - South China Morning Post",
+      "title_cn": "中国浙江省呼吁遏制科技巨头的网络“流量霸权” - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiywFBVV95cUxPLWVkVE5WcElMM2R0VFpUNlJpMUtxbVp4MDI1WEtBdTFfRWdDanR1cFM1MTJWUTBkMGtFajBZY0I1cDlfNTJZeHBENVhNZmhZN2pWd2dWSWJxaVJ4dzNvNks3bnE0WGRlRFlCQWRocVRZOFpfdUFNb0lnc01xcmFTX215OGdWZmhPdHVfN2l5S0dZY2w0bEV3cGFEVTNYeWVwVHJUNnFsRUdLLXNTLXZBallLTkl4bkNaV2RVVGhGZ29Ca2h1VEJTYkVJTdIBywFBVV95cUxQdjlPMWowTXNoOURST21rSGk5dVkxMFJNcm9ZNk55aEg0WFlVdl92WTJIVU05d2ZpcVk3TXE4MlM3NXk5ZU5Xc2NCaXdiSFFwU0hJU245TzBsLXlSZmI0d3pCTkxwWlJpaFlpSFJPZFdQb19vOE9veFVCTGp5VnRLSFl4RUNrNV9HQkhKZ1RCZDJ2U3VBZnlxRkVla1U5Y09mM0c1ZEYyYTltZmJyNVhNN3V3QTV3STRPMm5zLXA0WUJRWUtHYThTVW5qWQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T12:00:07.000Z",
+      "pub_sort_dt": "2026-10-10 20:00:07"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国法院以受贿罪判处武汉市前市长有期徒刑14年 - AP News",
+      "title_cn": "中国法院以受贿罪判处武汉市前市长有期徒刑14年 - AP News",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxOT0M4Z1BEUG1CdHdmbWc5Nlh6M2ptSDYtR0RDMThkRjhkNXd0bHM5R3dhazVNMTVkUlpZUUVCTTM1S0t4Z3pCcnZ2Qk41UzdDSU5UaGVzNXNIVGtrNl9WZndwWXIwM214STRlQkVJQThtVFZlVkNZb0lvc2lYcmtFS3dPUzBTcVcwcVc3Sjl1WWFvOVdKWk9JVF9MTW9zUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T11:50:00.000Z",
+      "pub_sort_dt": "2026-10-10 19:50:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "台湾将增加军费开支以“遏制”与中国的战争 - DW.com",
+      "title_cn": "台湾将增加军费开支以“遏制”与中国的战争 - DW.com",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxOM09RM3dZMlcwMlc1QWdBR3FxS3hxNFhvV2dHa1RDN1pkZzI1TjVIcExwMjlLZ2NKamtEcExoSUw5aVp6ajM1dEIwcjNZTlo0NG1BRlR5QTUzbVhxd2dSOWVvYnMtenZQak5nZHIzb3NzV015aE1lQUdKb2FyVVdQOEJLMUtuckRhTDg4NjRubF9Zb2Vy0gGUAUFVX3lxTE4zVERNcDBmNjNEbHJjUVZ2aWVzck1QenBkNUJtekxfSllvSDA3VEV2Z2hnVXhWWks5SUNhN0lSUTlCN0JpdU5vM2N3bHZ3akp3dGZ1Q2gwcHpSc2RZcWgxdTFvOUZ4LWdBeFQxUzc4cDYzVnAtbFFXX3FaN05SNWdaaDljRWtuTFJHei1JYm5jVXlGUno?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T10:51:45.000Z",
+      "pub_sort_dt": "2026-10-10 18:51:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "9月份中国乘用车零售销量下降24% - Bloomberg.com",
+      "title_cn": "9月份中国乘用车零售销量下降24% - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxQT1gtd3Z0REN3OUVUT1ZneTRMSVBCdkZXOWgwNncyeWVxRzgzMWl6Z0tIS2p6bUdQMXB4TnhRS2QtZFBKTG9EempaS2xlY3psVy1wcmg1dU84VjJjZHdROHZGQTVTcXN6SnhGRDUzYmQ2VmNzM01tcVRnYTFUcDFja0luOE5yek13aEJOeFVmNWVkUE1yYlNYb2lINWQ2N256T0hNMW11aUFCcS1C?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T09:53:56.000Z",
+      "pub_sort_dt": "2026-10-10 17:53:56"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "面对经济增速放缓，中国年轻人感到沮丧，于是向毛泽东寻求指引 - NBC News",
+      "title_cn": "面对经济增速放缓，中国年轻人感到沮丧，于是向毛泽东寻求指引 - NBC News",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxOd3BMLXhTMnlTUXhvN1QwLTJyWXNIY0pEemtsMDRfcFhsWkJxNXRxcWpVTmtja1ptZ2VqQ1R1QWZDOFRyTGU1SE5mMEhYOEx0aGdEX2pXdDlZYVZmNDBNbG1TQlBDel8wWDN4VDZwUjZXVFNnai1PeU9IMkdHdDBzd0JwaFh6WUVGdlJ3S09LblBXMEgyLVV2Zk41RVZYWnFIbTduMDV4TGs4WEQyYU9Neg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T09:44:30.000Z",
+      "pub_sort_dt": "2026-10-10 17:44:30"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "1月至9月，中国新增城镇就业岗位1052万个，将出台服务业就业政策 - Reuters",
-      "title_cn": "1月至9月，中国新增城镇就业岗位1052万个，将实行个性化服务业就业政策 - 路透中文网",
+      "title_cn": "1月至9月，中国新增城镇就业岗位1052万个，将出台服务业就业政策 - Reuters",
       "url": "https://news.google.com/read/CBMixwFBVV95cUxQR3JFWnhVRk5NYmtaUm5VVkExNlczY3pKdE9xVFVMVnpzNE9JbUo4OGdNbGoyaVJCa0hiTE5xSlR0aXNrLXZJR0wwM0hSX0l5YWZhYkpYRU9NaVVzaXQ1U0pPZzNsNDJILWk3a2dmcU9vMW1JdDhucF9rZExVRmhJUGZIdzNyOFkwOEgtem9pbFB0LWZEZXExRTlLRmtZZlNkaURMWHFyWUlKdzd5aWI3ODNkT3FVQ2VseVU5UnZrajllM3ZaNWVB?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-10-10T02:53:00.000Z",
       "pub_sort_dt": "2026-10-10 10:53:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "“出租子宫”：为何一些中国城市会成为非法代孕服务的聚集地？ - South China Morning Post",
-      "title_cn": "“出租房地产”：为何一些中国城市会成为非法代孕服务的聚集地？ - 南华早报",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxQTFFaSEczOGJmNVB3LVZwRVpYU25rcUNwd0Q1N29kbXVzaUF5aFg4RmhlWjB6YWYxNFJ6d0tTRFFMYVlsZmFUQzAxZXhYY19mSlpucDJRcXgzYTQwU1NRS1JLYWlzZ1ktTVZmWmpscVN6WHF2aHlINW9MUVVYZW1kZk1NSDFWeUkxOWdTdzlUa2gxLV9wUXdwVm5NUDdIdUpnTTRFX0NOb3dILV9IUGRubXdGTk5wWnIwSU1WRU1wTWdPNFFiY3FV0gHHAUFVX3lxTFBVQV9FUDVMdV8wN1JDMEU4MklJelFDb05RRHltNHZvRzZva05XT2NvdXQ1c2VsMklDeVlseWZLaUhIZnhqaUVKNVI0V1habERsMnZpcmZWSlJub0xUNWpfSXZkOGZhV1ViUlpwaDAxZDhybW5DSTZ6V2UzY1dwVC1selY0ZlAwTnIydzRfRXJTdEUzdUR4cTZyV3lOTng2czFNOU5zMHhUak5lS1lsY01LRHJPMGs4Q0VPNjhzMXExMWN0OWdfVlk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-10T02:00:07.000Z",
-      "pub_sort_dt": "2026-10-10 10:00:07"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国称中国在台湾海峡的行动“极具破坏稳定性” - Reuters",
-      "title_cn": "美国称中国在台湾海峡的行动“此举破坏了稳定性” - 路透社",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxQS1Z1cm9qMG82ZERURWhPaEFEbUNjNXpaNWVoUFRPd0didjIxRy1BTnBhSUdJalhQMl9DRkY3bTNjZlBfOXlOd050U1ZfaEdQN2ZHSUw4QXVBbVh0RHVPUWpLZ3ZwSWs0cjhTY25pTEFsdkYzOUFicmpUTjlHc2h4V3RJZW1SSlBLdVoxVE9DeEM0Qko1ZGp3Z0ppZi1TM3lNTENrbWhQYWJVc3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-10T01:10:00.000Z",
-      "pub_sort_dt": "2026-10-10 09:10:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "独家 重新界定中美关系的新表述背后，隐藏着哪些关切和优先事项？ - South China Morning Post",
-      "title_cn": "独家重新掌管中美关系隐藏新轮胎背后，着哪些担忧和优先事项？ - 南华早报",
-      "url": "https://news.google.com/read/CBMi0gFBVV95cUxPMjNBNFF0bks2UnE4U2FFRzJjRzg3SV9KUlBWYWhEeW9kUDQ3Q3ktbDJnZ1NPaE9tWVI1QUZjdk1TS3F5RHdPU0JhdTZ1dXktU25HS05fckpPM2ZTMXMtTHNIUmpsSk5HczF5NUNINV83eC1vcnZwUEZubUNDbGs5MmY1dExSRzVOZHc0SmNUYzM2V2J2ZlhmemIxZ2M3VXJ0ZXEweElQWW1UMzdqTzFldUsxMGIyWVNKQjJpVmRObGNLV1BLbWZkcmt1S1FOeXVyelHSAdIBQVVfeXFMT3lua3B0cElOdEkwYm44dklScXFxdHRhdms3Q2hOTlhQMFhVdDVfazB4cU56YzI0UThkc2J6RkRMMlhzSElEaEg5NkFNcmUyTzY2emVkTkI3cUoxY1NUTTctWWJObVNxaEVHQlV4cUE0WUdFOWczb25PblpOdlpIWVZSTjJFY0dBNzN6MTNfMlNlbzdOY2FWdWFxZkh5b2NoS0lNa3BwZ1BzalAwaDMyUFpRQlhja2F0enJnWnQwVnZHbHNzQ0dKb0E2Z2JTYkhQYUln?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T22:00:09.000Z",
-      "pub_sort_dt": "2026-10-10 06:00:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "前Anthropic研究员雅各布·考克斯顿表示，他有90%的把握认为中国在美国的人工智能巨头内部安插了间谍 - Yahoo Finance",
-      "title_cn": "前人类研究员雅各布·考克斯顿表示，他有90%的把握中国认为在美国的人工智能派对内部安插了间谍 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxPdjhZVC1qcHgyOVNmVHdubnNBTVhnQmVXSGpKUDd6UDlSSk1zcXkxQmJTNHMxR19tSU0weWcxbDFtWVBIS3JnSnl3SGFzdE1nUWIzaTY5S1Fja1F6b2hHQ1U4dXdnUkZpM05tc0lfS2R0NTRMLWxIbk14YXlDRVpPWWpEam42VWxqR200blFFLW1fUHpESnFHaEd1S0JxNU93?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T22:00:00.000Z",
-      "pub_sort_dt": "2026-10-10 06:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "阿诺德·汤因比的“中国世纪” - Foreign Policy",
-      "title_cn": "阿诺德·汤因比的“中国世纪” - 外交政策",
-      "url": "https://news.google.com/read/CBMiggFBVV95cUxOVUh3QjVYMTRqeS1NTG4zZVEzU1labjhrU0lhWTFLZVJrZGlpZ1hXR1VDekhIdUlmZm5nZ284WDYyTm9jZ1JnVkRCa04yYnd2UzdoYzhEb2hSRGphZnVYZmhFVHdvWGNLS29xbFlPdFowNVF1MEhhRFg0c1lNZjRveVZR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T19:09:08.000Z",
-      "pub_sort_dt": "2026-10-10 03:09:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国下一个“灰色地带”目标：对美国捍卫台湾至关重要的岛链 - WSJ",
-      "title_cn": "中国下一个“灰色地带”目标：对美国保卫台湾至关重要的岛链 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMiugFBVV95cUxOaXFxYXNELTRqeU1fUE45MW5uc2pXWGZ0dTRFWXJfRTlMRXBEUEk3X3RiVXJieVVBWG54b3VVOVVhRF9lWnNfS090VDAtbElUT3B3TmVjc0NjM3FaQWszUVk0cHZCNEJKYnpjZFVnZkwyRFMxUXlvZGoxVl9ock5YN2V4VzlSUy1CUjVUak5fV1lmT1pOcGRmcGU2MGE2WUhlLThkRmlwbkVsVWZINWc4WTZQTHhBRHdRRmc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T18:51:00.000Z",
-      "pub_sort_dt": "2026-10-10 02:51:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "角色互换：美欧对中国和俄罗斯的立场 - Council on Foreign Relations (CFR)",
-      "title_cn": "角色互换：美欧对中国和俄罗斯的立场 - 外交关系委员会 (CFR)",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxNdzdkZ053ODE4TDVHWTdrX0pLZzUtdnVZV1lkZThSaHN0OWgwNHkyMkhEMWpaZ2YwVkwwTzR6NkowUEVISXJBWWZQRHUyemdlNjkwM3VmX2s5SXplY3pDUDBKdUotdXdqOFRlR3RmeDRoT3preEZodTQteXJhZzBwOW5zN3VSZlFNa0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T18:13:54.000Z",
-      "pub_sort_dt": "2026-10-10 02:13:54"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国与欧盟达成协议，将中国混合动力汽车出口量减半 - Reuters",
-      "title_cn": "中国与欧盟达成协议，将中国混合动力汽车出口量减半 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxPTHg5eDd4SHlldjU0OVlpTEVOaHB0QVpIOGhaTm9CSVN2WmE2RUtobThWUkpGM1NrMFVxeVFKMnctbEF4aV9JQnZIT0RjaXlWVHBhb3Noam5HemZnd0ZRTy1TSEJjUFljMl9md29ESGFUeVFha29xaWd0a050VjVjV2pFRS1qUWVJVm04SDJJUjRGcXBQUzE3TzhDaV9SWHR6TndZaGhMRUlib0NSekZFenBpUUtuTnZZSy1JekRHaDZoLTA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T16:58:00.000Z",
-      "pub_sort_dt": "2026-10-10 00:58:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着超大型油轮船队规模扩大，中国原油进口量预计将上升 - Bloomberg.com",
-      "title_cn": "随着超大型油轮船规模扩大，中国原油进口量预计将上升 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxOdzhMOFBadmV0ZlBhMFFQZUE2elRyQnkxRzhYNlBlcUZiRWJjYzNaemMwV3V4RlQxWlI5MnE4Mi1pV1djUl9GT0gyRGUxclBzYjlIYlRxcF8yQU5ZMDdjN1JFZjUwRkVaYXNiV2xVajlQVkZDUlR4VnNjb2VPdm9MSWFiemd6NWtuUDNodFBrbS0wTmE0bFI5U1p5dEZ2ckdxZHprd2pKS2xBWWpSdEJycTZIR3pPZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T16:00:23.000Z",
-      "pub_sort_dt": "2026-10-10 00:00:23"
+      "title_en": "中国出台19项措施，以推动新型优质生产力的发展 - CGTN",
+      "title_cn": "中国出台19项措施，以推动新型优质生产力的发展 - CGTN",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQWDFhRlNvbVVoYktzV1BRU3VLM2R4TkYzYW1GQU5lRkpCOUhaeU1vSm9ZUDBJSmp0ZXpodV9KUVlFdGpEMVVtZmRVUkg1eTNtc3dTS3VKRFg0R2d2ZUk1a1VzR2VCT09YUkstX2xWQWhhWGtZNWtIb1l2SGVmWjZlTXJYWFd6aTc3VWRsalh4N1pPVXU5U3oxeW9LRzFndG1Ja2czU3RYNFp6NHd1QlFiRjhEMkdCTUFBV1FLRGNBd25zUzQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T02:28:36.000Z",
+      "pub_sort_dt": "2026-10-10 10:28:36"
     }
   ],
   "media_news": [
     {
       "source": "Reuters",
+      "title_en": "主场作战的郑赛赛将与中国公开赛决赛对手安德列娃展开对决",
+      "title_cn": "主场作战的郑赛赛将与中国公开赛决赛对手安德列娃展开对决",
+      "url": "https://reut.rs/4s74jLB",
+      "pub_raw": "2026-10-10T14:06:29.658Z",
+      "pub_sort_dt": "2026-10-10 22:06:29"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟计划采取措施，将中国混合动力汽车的进口量减半",
+      "title_cn": "欧盟计划采取措施，将中国混合动力汽车的进口量减半",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/eu-plans-measures-to-cut-imports-of-chinese-hybrid-cars-by-half",
+      "pub_raw": "2026-10-10T13:51:05.357Z",
+      "pub_sort_dt": "2026-10-10 21:51:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾的赖清德在特朗普与习近平会谈后呼吁民主国家团结起来",
+      "title_cn": "台湾的赖清德在特朗普与习近平会谈后呼吁民主国家团结起来",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
+      "pub_raw": "2026-10-10T11:28:06.931Z",
+      "pub_sort_dt": "2026-10-10 19:28:06"
+    },
+    {
+      "source": "Reuters",
       "title_en": "1月至9月，中国新增城镇就业岗位1052万个，将出台服务业就业政策",
-      "title_cn": "1月至9月，中国新增城镇就业岗位1052万个，将实行个性化服务业就业政策",
+      "title_cn": "1月至9月，中国新增城镇就业岗位1052万个，将出台服务业就业政策",
       "url": "https://reut.rs/4zL6Qhl",
       "pub_raw": "2026-10-10T09:21:02.446Z",
       "pub_sort_dt": "2026-10-10 17:21:02"
@@ -143,7 +167,7 @@
     {
       "source": "Reuters",
       "title_en": "美国称中国在台湾海峡的行动“极具破坏稳定性”",
-      "title_cn": "美国称中国在台湾海峡的行动“刚刚破坏稳定性”",
+      "title_cn": "美国称中国在台湾海峡的行动“极具破坏稳定性”",
       "url": "https://reut.rs/4sgQESt",
       "pub_raw": "2026-10-10T01:44:08.682Z",
       "pub_sort_dt": "2026-10-10 09:44:08"
@@ -151,7 +175,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国假期消费下滑，长假也未能驱散低迷情绪",
-      "title_cn": "中国假期消费早，长假也未能驱散低迷情绪",
+      "title_cn": "中国假期消费下滑，长假也未能驱散低迷情绪",
       "url": "https://www.bloomberg.com/news/articles/2026-10-09/china-holiday-spending-slips-as-weeklong-break-can-t-lift-gloom",
       "pub_raw": "2026-10-10T00:57:05.628Z",
       "pub_sort_dt": "2026-10-10 08:57:05"
@@ -159,7 +183,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港最新热门融合餐饮概念：潮州风味与日式料理的碰撞",
-      "title_cn": "香港最新热门餐饮融合概念：潮州风味与日式料理的碰撞",
+      "title_cn": "香港最新热门融合餐饮概念：潮州风味与日式料理的碰撞",
       "url": "https://www.bloomberg.com/news/articles/2026-10-10/chiu-chow-meets-japanese-cuisine-in-hong-kong-s-hot-new-fusion-concept",
       "pub_raw": "2026-10-10T00:10:04.147Z",
       "pub_sort_dt": "2026-10-10 08:10:04"
@@ -167,7 +191,7 @@
     {
       "source": "Reuters",
       "title_en": "Super Micro的一名承包商对将搭载英伟达芯片的人工智能服务器转运至中国的计划表示认罪",
-      "title_cn": "超微的一名承包商将搭载英伟达芯片的人工智能服务器转运至中国的计划表示认罪",
+      "title_cn": "Super Micro的一名承包商对将搭载英伟达芯片的人工智能服务器转运至中国的计划表示认罪",
       "url": "https://reut.rs/4rZmiDI",
       "pub_raw": "2026-10-09T22:50:08.499Z",
       "pub_sort_dt": "2026-10-10 06:50:08"
@@ -191,7 +215,7 @@
     {
       "source": "Reuters",
       "title_en": "欧盟表示，已与中国达成一致，将向欧盟出口的混合动力汽车数量减半",
-      "title_cn": "欧盟表示，已与中国达成一致，将向欧盟出口的动力混合汽车数量减半",
+      "title_cn": "欧盟表示，已与中国达成一致，将向欧盟出口的混合动力汽车数量减半",
       "url": "https://reut.rs/3TMGVX8",
       "pub_raw": "2026-10-09T17:18:58.684Z",
       "pub_sort_dt": "2026-10-10 01:18:58"
@@ -199,7 +223,7 @@
     {
       "source": "Bloomberg",
       "title_en": "随着超大型油轮船队规模不断扩大，中国的石油进口量预计将有所增长",
-      "title_cn": "随着超大型油轮船规模不断扩大，预计中国石油进口量将出现增长",
+      "title_cn": "随着超大型油轮船队规模不断扩大，中国的石油进口量预计将有所增长",
       "url": "https://www.bloomberg.com/news/articles/2026-10-09/china-s-oil-imports-look-set-to-rise-as-supertanker-fleet-swells",
       "pub_raw": "2026-10-09T16:32:14.340Z",
       "pub_sort_dt": "2026-10-10 00:32:14"
@@ -223,121 +247,121 @@
     {
       "source": "Financial Times",
       "title_en": "中国和欧盟就混合动力汽车达成“共识”，北京方面表示",
-      "title_cn": "中国和欧盟就动力汽车达成“共识”，北京方面表示",
+      "title_cn": "中国和欧盟就混合动力汽车达成“共识”，北京方面表示",
       "url": "https://www.ft.com/content/2823ef6f-b3d7-494b-b131-414c02d6a59f?syn-25a6b1a6=1",
       "pub_raw": "2026-10-09T13:38:01.456Z",
       "pub_sort_dt": "2026-10-09 21:38:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "请提出您的问题：在与中国的贸易争端中，欧盟和美国谁的表现更好？",
-      "title_cn": "请提出您的问题：在与中国的贸易中，欧盟和美国谁的表现更好？",
-      "url": "https://www.ft.com/content/0a39fcdb-860c-4739-8454-21fb429f6336?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-09T13:38:01.429Z",
-      "pub_sort_dt": "2026-10-09 21:38:01"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国发布关于包括人工智能在内的“新生产力”的指导方针",
-      "title_cn": "中国发布了关于包括人工智能在内的“新生产力”的指导方针",
-      "url": "https://reut.rs/4ygAutF",
-      "pub_raw": "2026-10-09T13:22:10.152Z",
-      "pub_sort_dt": "2026-10-09 21:22:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国表示已与欧盟就混合动力汽车出口达成“共识”",
-      "title_cn": "中国表示已与欧盟就混合动力汽车出口达成“共识”",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-09/china-says-it-has-understanding-with-eu-on-hybrid-car-exports",
-      "pub_raw": "2026-10-09T12:49:59.544Z",
-      "pub_sort_dt": "2026-10-09 20:49:59"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "一家西方消费品巨头如何借助中国社交媒体购物者蓬勃发展 - WSJ",
+      "title_cn": "一家西方消费品巨头如何借助中国社交媒体购物者蓬勃发展 - WSJ",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxQbm5FSWp4UmdJdzNSWjVKYXNHWkdVM0NwSG50Nzl2NnF4a1NBVlBHZTg4OVZHOThCWmlhbERWR3dWMnFCOEVReHBHbV9tRUFxSE9uSm1IMDNPYkFyXzVqTlBsaU8zZmIybl8zbkg1RjU1eWl2aUt6NUZuQTBkRnR1SEIyeFhtd2VrTjRCZ1FQVnhscWVPTGRrTmNjRWNXd21Zc3RwdGZaQXQ4ZUkwcTRDOHRIMlJyNEEx?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T18:00:00.000Z",
+      "pub_sort_dt": "2026-10-11 02:00:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国军用飞机是否已开始使用位于老挝的一处新联合航空设施？ - South China Morning Post",
+      "title_cn": "中国军用飞机是否已开始使用位于老挝的一处新联合航空设施？ - South China Morning Post",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxQWUZDd3NGQUFCZlZQRFR0aFptSi1uZDRFRlN1QklXYkVYUGlkdWlMLWRKa3NWTUxRTXZvaXRFRXlrZTBOaUdfcmphV3RuSy1VaUhlOFZjTjZHTWhlWF9KV2ZhYmtKQzc2RU9ITWd2YzE5Wk9XZ1VTeEk1NXdCOENqcFU3Uk1sLVA0TWlhZTU2cF9BOGV1c3pDXzR0Q2FOblZyNXBhdElLMDVhTEJSYW5HdFdnZ0lSNllXQ2NsNmc3Nkh0STQtVC1V0gHHAUFVX3lxTE90Z0VHNW02cFdUcTl1Rnh5R2JHMmR5UnpTcWYxS3ZYYVdaemVYMjIxOWVVa082OFFpWjBtN1MxV0FuWXhrTU5KTmhLa2YzV3laSlpJXzFVVEtqcHVQZkVaVFZYNHFJOHUyRi1oLUFsU2JKaVJGNE9jQm91cnpkdlZ0S3BGR1FYS3lqZlpHaFhzajA4VUZJT0VoZHQxTGdLTjl2UGtFM0hvQ1B6ZmptLTlUQnJjQ1pvanRyR0NCTlhqS0lCVlBKQTg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T14:00:06.000Z",
+      "pub_sort_dt": "2026-10-10 22:00:06"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "郑赛赛直落两盘战胜梅尔滕斯，成为首位晋级北京站决赛的中国选手 - WTA Tennis",
+      "title_cn": "郑赛赛直落两盘战胜梅尔滕斯，成为首位晋级北京站决赛的中国选手 - WTA Tennis",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxPUlAwVDRwOHVxRFNRTF8xQkVfWkhPU0JvYVp6QXZMYmZQRlhOR2N5VWx6QUVEU2JHSTBRMFA3NXFrSHhJSDBVd2VqdXhVam45djVZVzlEekFaY1pLdTVnY1JPY1AtNzU3MGdNLTFJUGpNVGdNTEg1Rk5jazE5ZFYzalJVVW9iZWFCOFB3Sks2RXM5a2NpX2V4N3g5NDl1YXQyZjBzcFhpcjZTeVEtd2J4UDA5U0I0QWNMUzRRc3B4TQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T13:27:45.000Z",
+      "pub_sort_dt": "2026-10-10 21:27:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国浙江省呼吁遏制科技巨头的网络“流量霸权” - South China Morning Post",
+      "title_cn": "中国浙江省呼吁遏制科技巨头的网络“流量霸权” - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiywFBVV95cUxPLWVkVE5WcElMM2R0VFpUNlJpMUtxbVp4MDI1WEtBdTFfRWdDanR1cFM1MTJWUTBkMGtFajBZY0I1cDlfNTJZeHBENVhNZmhZN2pWd2dWSWJxaVJ4dzNvNks3bnE0WGRlRFlCQWRocVRZOFpfdUFNb0lnc01xcmFTX215OGdWZmhPdHVfN2l5S0dZY2w0bEV3cGFEVTNYeWVwVHJUNnFsRUdLLXNTLXZBallLTkl4bkNaV2RVVGhGZ29Ca2h1VEJTYkVJTdIBywFBVV95cUxQdjlPMWowTXNoOURST21rSGk5dVkxMFJNcm9ZNk55aEg0WFlVdl92WTJIVU05d2ZpcVk3TXE4MlM3NXk5ZU5Xc2NCaXdiSFFwU0hJU245TzBsLXlSZmI0d3pCTkxwWlJpaFlpSFJPZFdQb19vOE9veFVCTGp5VnRLSFl4RUNrNV9HQkhKZ1RCZDJ2U3VBZnlxRkVla1U5Y09mM0c1ZEYyYTltZmJyNVhNN3V3QTV3STRPMm5zLXA0WUJRWUtHYThTVW5qWQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T12:00:07.000Z",
+      "pub_sort_dt": "2026-10-10 20:00:07"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国法院以受贿罪判处武汉市前市长有期徒刑14年 - AP News",
+      "title_cn": "中国法院以受贿罪判处武汉市前市长有期徒刑14年 - AP News",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxOT0M4Z1BEUG1CdHdmbWc5Nlh6M2ptSDYtR0RDMThkRjhkNXd0bHM5R3dhazVNMTVkUlpZUUVCTTM1S0t4Z3pCcnZ2Qk41UzdDSU5UaGVzNXNIVGtrNl9WZndwWXIwM214STRlQkVJQThtVFZlVkNZb0lvc2lYcmtFS3dPUzBTcVcwcVc3Sjl1WWFvOVdKWk9JVF9MTW9zUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T11:50:00.000Z",
+      "pub_sort_dt": "2026-10-10 19:50:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "台湾将增加军费开支以“遏制”与中国的战争 - DW.com",
+      "title_cn": "台湾将增加军费开支以“遏制”与中国的战争 - DW.com",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxOM09RM3dZMlcwMlc1QWdBR3FxS3hxNFhvV2dHa1RDN1pkZzI1TjVIcExwMjlLZ2NKamtEcExoSUw5aVp6ajM1dEIwcjNZTlo0NG1BRlR5QTUzbVhxd2dSOWVvYnMtenZQak5nZHIzb3NzV015aE1lQUdKb2FyVVdQOEJLMUtuckRhTDg4NjRubF9Zb2Vy0gGUAUFVX3lxTE4zVERNcDBmNjNEbHJjUVZ2aWVzck1QenBkNUJtekxfSllvSDA3VEV2Z2hnVXhWWks5SUNhN0lSUTlCN0JpdU5vM2N3bHZ3akp3dGZ1Q2gwcHpSc2RZcWgxdTFvOUZ4LWdBeFQxUzc4cDYzVnAtbFFXX3FaN05SNWdaaDljRWtuTFJHei1JYm5jVXlGUno?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T10:51:45.000Z",
+      "pub_sort_dt": "2026-10-10 18:51:45"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "9月份中国乘用车零售销量下降24% - Bloomberg.com",
+      "title_cn": "9月份中国乘用车零售销量下降24% - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxQT1gtd3Z0REN3OUVUT1ZneTRMSVBCdkZXOWgwNncyeWVxRzgzMWl6Z0tIS2p6bUdQMXB4TnhRS2QtZFBKTG9EempaS2xlY3psVy1wcmg1dU84VjJjZHdROHZGQTVTcXN6SnhGRDUzYmQ2VmNzM01tcVRnYTFUcDFja0luOE5yek13aEJOeFVmNWVkUE1yYlNYb2lINWQ2N256T0hNMW11aUFCcS1C?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T09:53:56.000Z",
+      "pub_sort_dt": "2026-10-10 17:53:56"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "面对经济增速放缓，中国年轻人感到沮丧，于是向毛泽东寻求指引 - NBC News",
+      "title_cn": "面对经济增速放缓，中国年轻人感到沮丧，于是向毛泽东寻求指引 - NBC News",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxOd3BMLXhTMnlTUXhvN1QwLTJyWXNIY0pEemtsMDRfcFhsWkJxNXRxcWpVTmtja1ptZ2VqQ1R1QWZDOFRyTGU1SE5mMEhYOEx0aGdEX2pXdDlZYVZmNDBNbG1TQlBDel8wWDN4VDZwUjZXVFNnai1PeU9IMkdHdDBzd0JwaFh6WUVGdlJ3S09LblBXMEgyLVV2Zk41RVZYWnFIbTduMDV4TGs4WEQyYU9Neg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T09:44:30.000Z",
+      "pub_sort_dt": "2026-10-10 17:44:30"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "1月至9月，中国新增城镇就业岗位1052万个，将出台服务业就业政策 - Reuters",
-      "title_cn": "1月至9月，中国新增城镇就业岗位1052万个，将实行个性化服务业就业政策 - 路透中文网",
+      "title_cn": "1月至9月，中国新增城镇就业岗位1052万个，将出台服务业就业政策 - Reuters",
       "url": "https://news.google.com/read/CBMixwFBVV95cUxQR3JFWnhVRk5NYmtaUm5VVkExNlczY3pKdE9xVFVMVnpzNE9JbUo4OGdNbGoyaVJCa0hiTE5xSlR0aXNrLXZJR0wwM0hSX0l5YWZhYkpYRU9NaVVzaXQ1U0pPZzNsNDJILWk3a2dmcU9vMW1JdDhucF9rZExVRmhJUGZIdzNyOFkwOEgtem9pbFB0LWZEZXExRTlLRmtZZlNkaURMWHFyWUlKdzd5aWI3ODNkT3FVQ2VseVU5UnZrajllM3ZaNWVB?hl=en-US&gl=US&ceid=US%3Aen",
       "pub_raw": "2026-10-10T02:53:00.000Z",
       "pub_sort_dt": "2026-10-10 10:53:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "“出租子宫”：为何一些中国城市会成为非法代孕服务的聚集地？ - South China Morning Post",
-      "title_cn": "“出租房地产”：为何一些中国城市会成为非法代孕服务的聚集地？ - 南华早报",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxQTFFaSEczOGJmNVB3LVZwRVpYU25rcUNwd0Q1N29kbXVzaUF5aFg4RmhlWjB6YWYxNFJ6d0tTRFFMYVlsZmFUQzAxZXhYY19mSlpucDJRcXgzYTQwU1NRS1JLYWlzZ1ktTVZmWmpscVN6WHF2aHlINW9MUVVYZW1kZk1NSDFWeUkxOWdTdzlUa2gxLV9wUXdwVm5NUDdIdUpnTTRFX0NOb3dILV9IUGRubXdGTk5wWnIwSU1WRU1wTWdPNFFiY3FV0gHHAUFVX3lxTFBVQV9FUDVMdV8wN1JDMEU4MklJelFDb05RRHltNHZvRzZva05XT2NvdXQ1c2VsMklDeVlseWZLaUhIZnhqaUVKNVI0V1habERsMnZpcmZWSlJub0xUNWpfSXZkOGZhV1ViUlpwaDAxZDhybW5DSTZ6V2UzY1dwVC1selY0ZlAwTnIydzRfRXJTdEUzdUR4cTZyV3lOTng2czFNOU5zMHhUak5lS1lsY01LRHJPMGs4Q0VPNjhzMXExMWN0OWdfVlk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-10T02:00:07.000Z",
-      "pub_sort_dt": "2026-10-10 10:00:07"
+      "title_en": "中国出台19项措施，以推动新型优质生产力的发展 - CGTN",
+      "title_cn": "中国出台19项措施，以推动新型优质生产力的发展 - CGTN",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQWDFhRlNvbVVoYktzV1BRU3VLM2R4TkYzYW1GQU5lRkpCOUhaeU1vSm9ZUDBJSmp0ZXpodV9KUVlFdGpEMVVtZmRVUkg1eTNtc3dTS3VKRFg0R2d2ZUk1a1VzR2VCT09YUkstX2xWQWhhWGtZNWtIb1l2SGVmWjZlTXJYWFd6aTc3VWRsalh4N1pPVXU5U3oxeW9LRzFndG1Ja2czU3RYNFp6NHd1QlFiRjhEMkdCTUFBV1FLRGNBd25zUzQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-10T02:28:36.000Z",
+      "pub_sort_dt": "2026-10-10 10:28:36"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "美国称中国在台湾海峡的行动“极具破坏稳定性” - Reuters",
-      "title_cn": "美国称中国在台湾海峡的行动“此举破坏了稳定性” - 路透社",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxQS1Z1cm9qMG82ZERURWhPaEFEbUNjNXpaNWVoUFRPd0didjIxRy1BTnBhSUdJalhQMl9DRkY3bTNjZlBfOXlOd050U1ZfaEdQN2ZHSUw4QXVBbVh0RHVPUWpLZ3ZwSWs0cjhTY25pTEFsdkYzOUFicmpUTjlHc2h4V3RJZW1SSlBLdVoxVE9DeEM0Qko1ZGp3Z0ppZi1TM3lNTENrbWhQYWJVc3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-10T01:10:00.000Z",
-      "pub_sort_dt": "2026-10-10 09:10:00"
+      "source": "Reuters",
+      "title_en": "主场作战的郑赛赛将与中国公开赛决赛对手安德列娃展开对决",
+      "title_cn": "主场作战的郑赛赛将与中国公开赛决赛对手安德列娃展开对决",
+      "url": "https://reut.rs/4s74jLB",
+      "pub_raw": "2026-10-10T14:06:29.658Z",
+      "pub_sort_dt": "2026-10-10 22:06:29"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "独家 重新界定中美关系的新表述背后，隐藏着哪些关切和优先事项？ - South China Morning Post",
-      "title_cn": "独家重新掌管中美关系隐藏新轮胎背后，着哪些担忧和优先事项？ - 南华早报",
-      "url": "https://news.google.com/read/CBMi0gFBVV95cUxPMjNBNFF0bks2UnE4U2FFRzJjRzg3SV9KUlBWYWhEeW9kUDQ3Q3ktbDJnZ1NPaE9tWVI1QUZjdk1TS3F5RHdPU0JhdTZ1dXktU25HS05fckpPM2ZTMXMtTHNIUmpsSk5HczF5NUNINV83eC1vcnZwUEZubUNDbGs5MmY1dExSRzVOZHc0SmNUYzM2V2J2ZlhmemIxZ2M3VXJ0ZXEweElQWW1UMzdqTzFldUsxMGIyWVNKQjJpVmRObGNLV1BLbWZkcmt1S1FOeXVyelHSAdIBQVVfeXFMT3lua3B0cElOdEkwYm44dklScXFxdHRhdms3Q2hOTlhQMFhVdDVfazB4cU56YzI0UThkc2J6RkRMMlhzSElEaEg5NkFNcmUyTzY2emVkTkI3cUoxY1NUTTctWWJObVNxaEVHQlV4cUE0WUdFOWczb25PblpOdlpIWVZSTjJFY0dBNzN6MTNfMlNlbzdOY2FWdWFxZkh5b2NoS0lNa3BwZ1BzalAwaDMyUFpRQlhja2F0enJnWnQwVnZHbHNzQ0dKb0E2Z2JTYkhQYUln?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T22:00:09.000Z",
-      "pub_sort_dt": "2026-10-10 06:00:09"
+      "source": "Bloomberg",
+      "title_en": "欧盟计划采取措施，将中国混合动力汽车的进口量减半",
+      "title_cn": "欧盟计划采取措施，将中国混合动力汽车的进口量减半",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/eu-plans-measures-to-cut-imports-of-chinese-hybrid-cars-by-half",
+      "pub_raw": "2026-10-10T13:51:05.357Z",
+      "pub_sort_dt": "2026-10-10 21:51:05"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "前Anthropic研究员雅各布·考克斯顿表示，他有90%的把握认为中国在美国的人工智能巨头内部安插了间谍 - Yahoo Finance",
-      "title_cn": "前人类研究员雅各布·考克斯顿表示，他有90%的把握中国认为在美国的人工智能派对内部安插了间谍 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxPdjhZVC1qcHgyOVNmVHdubnNBTVhnQmVXSGpKUDd6UDlSSk1zcXkxQmJTNHMxR19tSU0weWcxbDFtWVBIS3JnSnl3SGFzdE1nUWIzaTY5S1Fja1F6b2hHQ1U4dXdnUkZpM05tc0lfS2R0NTRMLWxIbk14YXlDRVpPWWpEam42VWxqR200blFFLW1fUHpESnFHaEd1S0JxNU93?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T22:00:00.000Z",
-      "pub_sort_dt": "2026-10-10 06:00:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "阿诺德·汤因比的“中国世纪” - Foreign Policy",
-      "title_cn": "阿诺德·汤因比的“中国世纪” - 外交政策",
-      "url": "https://news.google.com/read/CBMiggFBVV95cUxOVUh3QjVYMTRqeS1NTG4zZVEzU1labjhrU0lhWTFLZVJrZGlpZ1hXR1VDekhIdUlmZm5nZ284WDYyTm9jZ1JnVkRCa04yYnd2UzdoYzhEb2hSRGphZnVYZmhFVHdvWGNLS29xbFlPdFowNVF1MEhhRFg0c1lNZjRveVZR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T19:09:08.000Z",
-      "pub_sort_dt": "2026-10-10 03:09:08"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国下一个“灰色地带”目标：对美国捍卫台湾至关重要的岛链 - WSJ",
-      "title_cn": "中国下一个“灰色地带”目标：对美国保卫台湾至关重要的岛链 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMiugFBVV95cUxOaXFxYXNELTRqeU1fUE45MW5uc2pXWGZ0dTRFWXJfRTlMRXBEUEk3X3RiVXJieVVBWG54b3VVOVVhRF9lWnNfS090VDAtbElUT3B3TmVjc0NjM3FaQWszUVk0cHZCNEJKYnpjZFVnZkwyRFMxUXlvZGoxVl9ock5YN2V4VzlSUy1CUjVUak5fV1lmT1pOcGRmcGU2MGE2WUhlLThkRmlwbkVsVWZINWc4WTZQTHhBRHdRRmc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T18:51:00.000Z",
-      "pub_sort_dt": "2026-10-10 02:51:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "角色互换：美欧对中国和俄罗斯的立场 - Council on Foreign Relations (CFR)",
-      "title_cn": "角色互换：美欧对中国和俄罗斯的立场 - 外交关系委员会 (CFR)",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxNdzdkZ053ODE4TDVHWTdrX0pLZzUtdnVZV1lkZThSaHN0OWgwNHkyMkhEMWpaZ2YwVkwwTzR6NkowUEVISXJBWWZQRHUyemdlNjkwM3VmX2s5SXplY3pDUDBKdUotdXdqOFRlR3RmeDRoT3preEZodTQteXJhZzBwOW5zN3VSZlFNa0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T18:13:54.000Z",
-      "pub_sort_dt": "2026-10-10 02:13:54"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国与欧盟达成协议，将中国混合动力汽车出口量减半 - Reuters",
-      "title_cn": "中国与欧盟达成协议，将中国混合动力汽车出口量减半 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxPTHg5eDd4SHlldjU0OVlpTEVOaHB0QVpIOGhaTm9CSVN2WmE2RUtobThWUkpGM1NrMFVxeVFKMnctbEF4aV9JQnZIT0RjaXlWVHBhb3Noam5HemZnd0ZRTy1TSEJjUFljMl9md29ESGFUeVFha29xaWd0a050VjVjV2pFRS1qUWVJVm04SDJJUjRGcXBQUzE3TzhDaV9SWHR6TndZaGhMRUlib0NSekZFenBpUUtuTnZZSy1JekRHaDZoLTA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T16:58:00.000Z",
-      "pub_sort_dt": "2026-10-10 00:58:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "随着超大型油轮船队规模扩大，中国原油进口量预计将上升 - Bloomberg.com",
-      "title_cn": "随着超大型油轮船规模扩大，中国原油进口量预计将上升 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxOdzhMOFBadmV0ZlBhMFFQZUE2elRyQnkxRzhYNlBlcUZiRWJjYzNaemMwV3V4RlQxWlI5MnE4Mi1pV1djUl9GT0gyRGUxclBzYjlIYlRxcF8yQU5ZMDdjN1JFZjUwRkVaYXNiV2xVajlQVkZDUlR4VnNjb2VPdm9MSWFiemd6NWtuUDNodFBrbS0wTmE0bFI5U1p5dEZ2ckdxZHprd2pKS2xBWWpSdEJycTZIR3pPZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-09T16:00:23.000Z",
-      "pub_sort_dt": "2026-10-10 00:00:23"
+      "source": "Bloomberg",
+      "title_en": "台湾的赖清德在特朗普与习近平会谈后呼吁民主国家团结起来",
+      "title_cn": "台湾的赖清德在特朗普与习近平会谈后呼吁民主国家团结起来",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
+      "pub_raw": "2026-10-10T11:28:06.931Z",
+      "pub_sort_dt": "2026-10-10 19:28:06"
     },
     {
       "source": "Reuters",
       "title_en": "1月至9月，中国新增城镇就业岗位1052万个，将出台服务业就业政策",
-      "title_cn": "1月至9月，中国新增城镇就业岗位1052万个，将实行个性化服务业就业政策",
+      "title_cn": "1月至9月，中国新增城镇就业岗位1052万个，将出台服务业就业政策",
       "url": "https://reut.rs/4zL6Qhl",
       "pub_raw": "2026-10-10T09:21:02.446Z",
       "pub_sort_dt": "2026-10-10 17:21:02"
@@ -385,7 +409,7 @@
     {
       "source": "Reuters",
       "title_en": "美国称中国在台湾海峡的行动“极具破坏稳定性”",
-      "title_cn": "美国称中国在台湾海峡的行动“刚刚破坏稳定性”",
+      "title_cn": "美国称中国在台湾海峡的行动“极具破坏稳定性”",
       "url": "https://reut.rs/4sgQESt",
       "pub_raw": "2026-10-10T01:44:08.682Z",
       "pub_sort_dt": "2026-10-10 09:44:08"
@@ -393,7 +417,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国假期消费下滑，长假也未能驱散低迷情绪",
-      "title_cn": "中国假期消费早，长假也未能驱散低迷情绪",
+      "title_cn": "中国假期消费下滑，长假也未能驱散低迷情绪",
       "url": "https://www.bloomberg.com/news/articles/2026-10-09/china-holiday-spending-slips-as-weeklong-break-can-t-lift-gloom",
       "pub_raw": "2026-10-10T00:57:05.628Z",
       "pub_sort_dt": "2026-10-10 08:57:05"
@@ -401,7 +425,7 @@
     {
       "source": "Bloomberg",
       "title_en": "香港最新热门融合餐饮概念：潮州风味与日式料理的碰撞",
-      "title_cn": "香港最新热门餐饮融合概念：潮州风味与日式料理的碰撞",
+      "title_cn": "香港最新热门融合餐饮概念：潮州风味与日式料理的碰撞",
       "url": "https://www.bloomberg.com/news/articles/2026-10-10/chiu-chow-meets-japanese-cuisine-in-hong-kong-s-hot-new-fusion-concept",
       "pub_raw": "2026-10-10T00:10:04.147Z",
       "pub_sort_dt": "2026-10-10 08:10:04"
@@ -409,7 +433,7 @@
     {
       "source": "Reuters",
       "title_en": "Super Micro的一名承包商对将搭载英伟达芯片的人工智能服务器转运至中国的计划表示认罪",
-      "title_cn": "超微的一名承包商将搭载英伟达芯片的人工智能服务器转运至中国的计划表示认罪",
+      "title_cn": "Super Micro的一名承包商对将搭载英伟达芯片的人工智能服务器转运至中国的计划表示认罪",
       "url": "https://reut.rs/4rZmiDI",
       "pub_raw": "2026-10-09T22:50:08.499Z",
       "pub_sort_dt": "2026-10-10 06:50:08"
@@ -433,7 +457,7 @@
     {
       "source": "Reuters",
       "title_en": "欧盟表示，已与中国达成一致，将向欧盟出口的混合动力汽车数量减半",
-      "title_cn": "欧盟表示，已与中国达成一致，将向欧盟出口的动力混合汽车数量减半",
+      "title_cn": "欧盟表示，已与中国达成一致，将向欧盟出口的混合动力汽车数量减半",
       "url": "https://reut.rs/3TMGVX8",
       "pub_raw": "2026-10-09T17:18:58.684Z",
       "pub_sort_dt": "2026-10-10 01:18:58"
@@ -441,7 +465,7 @@
     {
       "source": "Bloomberg",
       "title_en": "随着超大型油轮船队规模不断扩大，中国的石油进口量预计将有所增长",
-      "title_cn": "随着超大型油轮船规模不断扩大，预计中国石油进口量将出现增长",
+      "title_cn": "随着超大型油轮船队规模不断扩大，中国的石油进口量预计将有所增长",
       "url": "https://www.bloomberg.com/news/articles/2026-10-09/china-s-oil-imports-look-set-to-rise-as-supertanker-fleet-swells",
       "pub_raw": "2026-10-09T16:32:14.340Z",
       "pub_sort_dt": "2026-10-10 00:32:14"
@@ -465,34 +489,10 @@
     {
       "source": "Financial Times",
       "title_en": "中国和欧盟就混合动力汽车达成“共识”，北京方面表示",
-      "title_cn": "中国和欧盟就动力汽车达成“共识”，北京方面表示",
+      "title_cn": "中国和欧盟就混合动力汽车达成“共识”，北京方面表示",
       "url": "https://www.ft.com/content/2823ef6f-b3d7-494b-b131-414c02d6a59f?syn-25a6b1a6=1",
       "pub_raw": "2026-10-09T13:38:01.456Z",
       "pub_sort_dt": "2026-10-09 21:38:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "请提出您的问题：在与中国的贸易争端中，欧盟和美国谁的表现更好？",
-      "title_cn": "请提出您的问题：在与中国的贸易中，欧盟和美国谁的表现更好？",
-      "url": "https://www.ft.com/content/0a39fcdb-860c-4739-8454-21fb429f6336?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-09T13:38:01.429Z",
-      "pub_sort_dt": "2026-10-09 21:38:01"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国发布关于包括人工智能在内的“新生产力”的指导方针",
-      "title_cn": "中国发布了关于包括人工智能在内的“新生产力”的指导方针",
-      "url": "https://reut.rs/4ygAutF",
-      "pub_raw": "2026-10-09T13:22:10.152Z",
-      "pub_sort_dt": "2026-10-09 21:22:10"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国表示已与欧盟就混合动力汽车出口达成“共识”",
-      "title_cn": "中国表示已与欧盟就混合动力汽车出口达成“共识”",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-09/china-says-it-has-understanding-with-eu-on-hybrid-car-exports",
-      "pub_raw": "2026-10-09T12:49:59.544Z",
-      "pub_sort_dt": "2026-10-09 20:49:59"
     }
   ]
 }
