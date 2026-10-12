@@ -1,101 +1,181 @@
 {
-  "update_cst": "2026-10-12 18:01:09 北京时间",
+  "update_cst": "2026-10-13 06:01:08 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 10,
+    "The Economist": 1,
+    "Bloomberg": 13,
     "Financial Times": 1,
-    "Wall Street Journal": 2,
-    "Reuters": 7
+    "Wall Street Journal": 1,
+    "Reuters": 4
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国75亿美元的欧盟混合动力车热潮在《中欧协议》下面临新限制 - Reuters",
-      "title_cn": "中国75亿美元的欧盟混合动力车热潮在《中欧协议》下面临新限制 - Reuters",
-      "url": "https://news.google.com/read/CBMizwFBVV95cUxOMFFrZExkSUpZRTF3bDlwMXhkX3NZU1FsU09wWktzYi1rTUhVemhqRElxV3cyb1BaNTRXbzR2S0NYcXJmMWxLcVpkZURiZjU0WkF4dXVzQmNXYUpzZDVuNGRzb0tteDFxdWZ0ZWlBblVoa3hWdVVVREJpUHF1M00xYUI3Y09TZFpHNmJEdFNILXA5WHpna3pmNGRaa2FUdG5BN3U2Y2VmSTZrWXY4TER3bzhlNXdQS2xoLVRNY1lmVXkySE9wT1lJVDdEZ1k2RnM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T06:51:00.000Z",
-      "pub_sort_dt": "2026-10-12 14:51:00"
+      "title_en": "奢侈品行业遭遇挫折：受中国市场疲软影响，LVMH未达有机销售额预期（LVMHF:OTCMKTS） - Seeking Alpha",
+      "title_cn": "奢侈品行业遭遇挫折：受中国市场疲软影响，LVMH未达有机销售额预期（LVMHF:OTCMKTS） - Seeking Alpha",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxPMW1ib3hOMEV0alJVeHYzaFNTdDItM2Z4bjI3MUliUlBEOE53ZGdDVVgzcU5wQWh0WkN1cnZDNUszbUlRSjR0N0Iwd1hTZDU2dDB4aEZBNXBRYWZfVUxBbTJncENTYzZkWkdsT1gwLXktbzkydG1COW5KZlRtZndZZXVjWWhRVzF5MGcwcXJNTldzc0dETjlVLVRaUW9UMDdOY1I4LWMySzluZU5SSkFNOTBIYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T19:04:27.000Z",
+      "pub_sort_dt": "2026-10-13 03:04:27"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国与欧盟就混合动力车和电动汽车贸易问题举行了密集磋商 - Reuters",
-      "title_cn": "中国与欧盟就混合动力车和电动汽车贸易问题举行了密集磋商 - Reuters",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxPRzNFMkF5b0ZQUnNpMlJlTE82NkZrRUJiTXNreWtQbi1wOHZ2ZC1aOE5GVkhZcDNmd1pBREFLb1I2MjBlVW9ncFhpd1oyaXhDbVdMUEUtbkE1WmtXQUtpa1NtTEJOb3NQcVBkc1lldUMwaUdUU01WLTg3MS1QVUtGcF9lVDRtNTBTOHVBX2JMZnJUVUNPWnRXb21heklpNEFS?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T05:42:00.000Z",
-      "pub_sort_dt": "2026-10-12 13:42:00"
+      "title_en": "美国检察官警告称，中国的间谍活动“极其猖獗”，并表示北京方面“打的是长线战” - Fox News",
+      "title_cn": "美国检察官警告称，中国的间谍活动“极其猖獗”，并表示北京方面“打的是长线战” - Fox News",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQNFUwakRZblFlNkxIb0taSzJyU1ItOXdCUUxLSW0zc20xU29rdHpaNGRSVURDUGQtMnFnOU9uUHJ0a0UyNWR0dUJ3LTBVUWRXN0N2bWVCRlZWLU5zRHFEVzJrdDJkaTI2b0p2N1hEUnhlX0ZTMmllcXVSV1BWbzVHemVqSUNld2NPcnRNeDFuS2xCS2hic0d0cnZzRHgwcWpiZ3JMQWxmUlBRdTR1cE9hdlhHZTDSAboBQVVfeXFMTS1fM3FORl9ERkxtd2MzTHIxTmt3S2UyaTJHSERXUmhwQmJLdXYzQkZQbWtJRXJFN2N3d1JjXzVqNEJNUXo1d3lQUWlLM1Job04wU0F3cWdwQ0pXaUtZVVhrUDVQNzZCR0E4a2JBOVhzUkpNQmw5Q0oyN1lUTVRMSHN4bHY4aEpKbzJLc0xMb1hoWVZEeHlMMEQyRFBiT3h5c1BZZW5SNnlUNVZQSTFncjJWNktGNDc0Tjh3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T16:55:29.000Z",
+      "pub_sort_dt": "2026-10-13 00:55:29"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国因巴拉圭、伯利兹部长与台湾方面有联系而对其实施制裁 - Al Jazeera",
-      "title_cn": "中国因巴拉圭、伯利兹部长与台湾方面有联系而对其实施制裁 - Al Jazeera",
-      "url": "https://news.google.com/read/CBMiogFBVV95cUxQQkQ5TFA5MWRza05HQ1o1aVFjSWppTVdLSzQzU1R6M2UxdzAwY2JRWjFoMGdlNFFJS3BtaWNEcll2YW9jdElRWEFrR3NsOVJmeDRRUmw2R2Z2d29DUzhkYk1pcE1lWUFlSGlCV1ZsVTc5cGxlZHBlYmE3ZVQ0eVFaYXc4cWRNLW5EMGNxQlpEMmJDZFRSeFdQNmRRMmdLYW1nd1HSAacBQVVfeXFMTkRLVzZyaUZsM1hYVkNVelYteGdsVlBTVlJWWDZUSU9CRFdzWURSVXY0NHhQUXRGN1otaGFFbVpTWjc2amQySzBGRE5pNjBGSWdqM2JVRFdSTnlLelkteXloaU0wYnk0UWtfTmUyRzEtWFlLNXJkelRvaWlpeGdWQkVSdXlfUTlSZ2lzRUN0RC1PY2hsbGZlVzNPSjRibldfb0pqSkN1U1k?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T05:01:47.000Z",
-      "pub_sort_dt": "2026-10-12 13:01:47"
+      "title_en": "LVMH核心业务部门销售额下滑，中国市场困境拖累路易威登业绩 - Bloomberg.com",
+      "title_cn": "LVMH核心业务部门销售额大幅增长，中国市场陷入困境 路易威登业绩 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxPNlJha0plMVVjbEthV0xIV2U1NC1makRZQXlrT2c5NC1Qel91TjRXQllXaU9tNGpsdkxBVVI5MklER2JRVGZBbXFjaGptMUR6NlBtMVI5VURiTm01X3NhWnpVdWRHc0g3TzJfNl9VNm9TLXZxaGFPVGxuYjEtSm43Zi1pbzFvLVlGLTh6MElRTWZCMlAxMmlEUHpaSDdsLUZsbm9QUDNielhFNHhFZU1IcQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T15:49:25.000Z",
+      "pub_sort_dt": "2026-10-12 23:49:25"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国因巴拉圭、伯利兹部长与台湾方面有联系而对其实施制裁 - Reuters",
-      "title_cn": "中国因巴拉圭、伯利兹部长与台湾方面有联系而对其实施制裁 - Reuters",
-      "url": "https://news.google.com/read/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T02:54:00.000Z",
-      "pub_sort_dt": "2026-10-12 10:54:00"
+      "title_en": "糟糕的主意：中国推动学生交流背后的隐忧 - The Hill",
+      "title_cn": "最糟糕的想法：中国推动学生交流背后的隐忧 - The Hill",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxNakVWbHc5Z2RJNkZ4cE5HR2gyekJjWDItQUpzYUdQNnQ2TVNNTkxZTWVzTDNiWEFYSmYwX1UxRzdzR09hQzI4WjR3eFdUVGVibjR5M2c0YlBMZ2gwSXNOZ1M2aWhNcl8zT2g1ZzZLaGRLWk1Ld2xuYmhnLW5hUDU4SUlzUFl3UdIBiwFBVV95cUxQX1JhODJ0OVRKZWNMV0kyRnQwRTduYXpvUmpscVFSWGtTS2stREFpNFJjUV9DNk1XZnJkbS1JRVNEVi1UeXNmMV9IMlJWUWQxZWpJVXBkQncxNmpKYmpid3V0MzQ1bEo4NEV1XzZ6Mlo5d0h4YWFwM1ltS1JRakpTaVpfNXhoeFlPako0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T15:00:00.000Z",
+      "pub_sort_dt": "2026-10-12 23:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "台湾表示正在密切关注中国进行的一系列实弹演习 - Reuters",
-      "title_cn": "台湾表示正在密切关注中国进行的一系列实弹演习 - Reuters",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxNbzdVRzBOYnM4YWQ3Z0g2QTc2OTZwM0t0TUI3SUlGeTdBbXJ1amlQV0IyS2F2cGxmMk1hdW1HTElpV0pmaS1JUUt5N1lwdXdJUkNpYThnLVpvTEdsYjhnTVpqb015TTRDWWRZTTV6Ylo5c0pFbVRPeUM2YzNIdExpd1hRLWt6ZWR4bXZUeTRLZnJnNDlLVnAyX1JDdUxCajE3akRNMnpaUlpaVVRoWFJEWkh0MHEya28?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T02:04:00.000Z",
-      "pub_sort_dt": "2026-10-12 10:04:00"
+      "title_en": "蒂姆·库克于2026年第三次访问中国 - MacRumors",
+      "title_cn": "蒂姆·库克于2026年第三次访问中国 - MacRumors",
+      "url": "https://news.google.com/read/CBMia0FVX3lxTE5BN2V3TFpzT3psQnJnSkxkRWZCQl96MzFyRXhrZzhVNVJmSU9HR2xzVW5DRjlyckw1YkhISnk5R3Y2Z1VNeDJxeno1c1lLWjJfYll0S1ZiVWRTOUVtN0FVS3pOUUtGdU1HYXNV?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T13:54:43.000Z",
+      "pub_sort_dt": "2026-10-12 21:54:43"
     },
     {
       "source": "China Buzzing",
-      "title_en": "独家 随着人工智能和伊朗战争的阴云笼罩，中国的能源技术官僚正加速崛起 - South China Morning Post",
-      "title_cn": "独家 随着人工智能和伊朗战争的阴云笼罩，中国的能源技术官僚正加速崛起 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiugFBVV95cUxPRFFzbXEzUkYwbmFkNjVOcGhDdVNHcVlYZkIwMFV0NXNEN0h1aGZYNTJMR1dESTJRRWR2bVN0RkxCa0lJUjd0MkVwZlVEbGtaY0g3VnlVcC1DXzg0dUxMbS1pbmJFb1hfSlFBREVYbklhTVk0QXd4M2t3UXJtVWFfdTI0QmVORXgyQnc0c1NFZXhMX0pwaUYyZE9YTUQ1UDF0MFhuSld4d2pSVVBhaldlNzE2a2pneTJDZGc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T02:00:26.000Z",
-      "pub_sort_dt": "2026-10-12 10:00:26"
+      "title_en": "中国的增长引擎 - Works in Progress Magazine",
+      "title_cn": "中国的增长引擎 - Works in Progress 杂志",
+      "url": "https://news.google.com/read/CBMiZkFVX3lxTE5mVHRRUlRDTUtPcDhWeUowM3hrNE5CMm1IZC1KXzF5aVN3YjdtelgtczVpX19GeFU4SDdHWlItc2FKSi13ZW5zWDF6SURHdFhUWEplM3NOeVJTNzNaMmJYWXozeG1zUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T13:18:45.000Z",
+      "pub_sort_dt": "2026-10-12 21:18:45"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国为何不愿跻身世界发达国家之列 - WSJ",
-      "title_cn": "中国为何不愿跻身世界发达国家之列 - WSJ",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQZUFJUEVQQlpNQkhYeWpsWmJJano1YVI4LUM1djAtTXIzWi13dkZ4c2JDY0hCYnVTYjN4ZDNYY01kUUlDY01DUEdmMVpfaUV6ZjRHeVJSa1ZKZkhxRGFZRUJvTW9vNFBZZnRnMTRwMF9EVTZwVjBWdHlacmFvVm1LdU5DZlViMjZtOVE5RzQzUG1SVDh6Y3FZNXVXa3lmX2t0eXV3eHdBdU5jOGd1S1RpQ3FSa0Q?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T02:00:16.000Z",
-      "pub_sort_dt": "2026-10-12 10:00:16"
+      "title_en": "欧洲终于开始直面中国了 - Financial Times",
+      "title_cn": "欧洲终于开始直面中国了 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxQcGNqcW8wVk9GeHZzVGQzb0c4LVhSVkR0eG9ENHFRSFF0Q1hUZ3k4ZW5ybjBYZzZzczJMV2JINUY1aG1RTG5pVkJENG5UaGttVzJfUmJRdVZXV0tCNURpQ1A1b1I5WTJBc2Q1S1F5Um1LUVJNVmxQWkZzejMzT2d1ek1lNlA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T13:00:01.000Z",
+      "pub_sort_dt": "2026-10-12 21:00:01"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国为何创下黄金进口量新高——这对金价意味着什么 - CNBC",
-      "title_cn": "中国为何创下黄金进口量新高——这对金价意味着什么 - CNBC",
-      "url": "https://news.google.com/read/CBMieEFVX3lxTE5QcHRBWVhFbGkxSy1BdGNNaGktNUZMaEx2TFB1Sm54RkJZbWhxYkJhTl9BeEJ1RC1RaDRMYlN2X25BdGZNN3F2QjlmYmFPR0VjaFlsUXJScnVpcU5VaVZQZmFfMjZ6QVJlamJ4NW41cWYwanJmeG9nMQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T00:51:00.000Z",
-      "pub_sort_dt": "2026-10-12 08:51:00"
+      "title_en": "美国转而采用低成本的“黑胡子”高超音速导弹，以压倒中国防空系统 - South China Morning Post",
+      "title_cn": "美国转而采用公开的“黑胡子”高超音速导弹，以压倒中国防空系统 - 南华早报",
+      "url": "https://news.google.com/read/CBMizAFBVV95cUxOTlhMTF9yeDB5Q0doLVpfNWh3eTQxUmhrbVB1bFVFUmVveW9BRkV0XzdKOUNQSW5WZWVWY2doSjNtdl9FaDZhY1NiMUFFMVM2eGpkMTh4cllKRW5ZdzFMWnUzVHM4T20wdFhseGZKRndBQjVlZGg0QlZkOXFMci1aZEMyUlg3azVnQWN0NkxNZnV2N3FFYVhkS1hvZDVwYkxNUWVFcWNpYUVDcjhxUEhLYWV2d0ZKS2IwSlBjdHRYVDRqSDFLVXlYR2VfWTTSAcwBQVVfeXFMUFJ5anlUeG1yZldUdERoZll3eV9BQU9uQmNNWTJpN1pBZkhZRmoyVXM4RmE0Z2hqdEFCdDhPbllEZG9PTV9mWW15M3czY1dWWkNvUFZZY1Q1TGlvdDlhUXlQQmVTRGxqMlFPWkRFY096dGVoX0g0aFBCbEZRaUI4UTM2c3pFd2JjSFhEZVlCZDFXNDBDWUMwSDRHN2xfOWhTbjRhcl9YcW9ROUFXNFJGbjUxQmxnUmY3LVBPbHRZM2E3RVA5SEczV2I3MmY1?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T12:00:19.000Z",
+      "pub_sort_dt": "2026-10-12 20:00:19"
     },
     {
       "source": "China Buzzing",
-      "title_en": "独家 库尔特·坎贝尔谈习近平与特朗普峰会后的美国威慑、四方机制、奥库斯及台湾问题 - South China Morning Post",
-      "title_cn": "独家 库尔特·坎贝尔谈习近平与特朗普峰会后的美国威慑、四方机制、奥库斯及台湾问题 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiyAFBVV95cUxOdmFpdEsxRnF5ZUJwYlRaVzczSHdMbks0aFQ5WlpzUzlPT2Uwd2RvcTNTZmJYc09HOXlGajRaT2ZsOXZhQTd3TEMtQUFjbUV1ZVB2RGJkVEVIMDhNQmswcVFScElRY3otQVdVQzRvaHA3bW1WS1RoazNGdXo2akRpT1IzbzJjTWUwRVRyWkl2OFJxdTRXR2U2YlR5MjZGYkhLa0lBNmNQTmdFTHhKVWhYUVdGU0tTR2IyYUtjdWs1OHVIM1ExMEk0eNIByAFBVV95cUxQcE1rbTBuN2NYTFpKc0JlWVFvTTdwQlpMbFkycHFWVGtBaER2cFJrdl92WS12X0xZQlRpU3BEc05WSDVXWm4wYU1GX3BfZ2tZeTdQcEcwdUoxeUtCTElkR3pYZkk5a1lYTzNTYlA5Mm5makFWWW5LdDhOUkwxbGRfSldleXhLQXJhc3NHUUF5U1BWNDhjNUM1WDVreWpGWjFDczVsNHVjSGhSZjdHTjR2aFdHcGgzNk9mZF9Sa09sZmEtME5nRzBpYw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-11T22:00:15.000Z",
-      "pub_sort_dt": "2026-10-12 06:00:15"
+      "title_en": "随着国内月度销量持续下滑，中国汽车制造商正依赖海外市场 - AP News",
+      "title_cn": "随着月内消费量持续增加，中国汽车制造商正依赖海外市场 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxQbGhDbXZKUzRXNWtLeEVyR0RLaXFrUnUxWU8zNTdQZnpwdmo3NzY1cUV4dXY4MVg2YTVqeUVYaHdmdVdwaW5XbU5FNUM5YVZkYkNyeFRrYU1adGRSblBkNXRuWFd1UHp0OWFFY0xYc2N5U0lFT1Q0dGR2N1FOWXZGYldBZUc3bnNCUk5ienA1ci0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T11:46:00.000Z",
+      "pub_sort_dt": "2026-10-12 19:46:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国的债务利息支出正在飙升——且增速超过其他任何主要预算项目 - Fortune",
-      "title_cn": "中国的债务利息支出正在飙升——且增速超过其他任何主要预算项目 - Fortune",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxOQ1pUVnZtOEcyTjdEcmpYelNDUlVFaU9lZXJwMXFCZjEwbGZxbW5JckpBSnI2M1RYVkhNaUo4c0w2ajY4MkwwS0V1QVA0NkpJcExRN2FmUnBBUW9WamhsQlJJbE9uZ0Y1YTIzSTIyYUJmakFlWXFFOEx0Z253emJwVFUweGZEbmtMc2lBb2xwR2ZsczN0bDNKZ1JRWkZFcmlGZlZXS0NHeFhLNnNPbU1kM0RVTQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-11T19:56:00.000Z",
-      "pub_sort_dt": "2026-10-12 03:56:00"
+      "title_en": "中国集中式污水处理系统在应对水资源短缺方面已达到效率极限 - Nature",
+      "title_cn": "中国集中式污水处理系统在应对水资源迫切方面已达到效率极限 - Nature",
+      "url": "https://news.google.com/read/CBMiX0FVX3lxTFBlRkFJWE02ckhTd09pWUF5VDVxS1FOSW1pc29GM1lrbjd2c1RTNWNWY0tKYldWcXlEMzNFcGtraDgwUExKakZraEU3bjdUMUZjc0dzdTVoREcyWWxCU2Nr?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T10:50:56.000Z",
+      "pub_sort_dt": "2026-10-12 18:50:56"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "受中国市场需求疲软影响，LVMH核心业务部门销售额下滑",
+      "title_cn": "受中国市场需求疲软影响，LVMH核心业务部门销售额增幅",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-12/lvmh-sales-at-key-unit-slide-on-weak-china-demand",
+      "pub_raw": "2026-10-12T21:48:57.490Z",
+      "pub_sort_dt": "2026-10-13 05:48:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国小鹏汽车力争在2030年前在欧洲市场超越福特和欧宝",
+      "title_cn": "中国小鹏汽车力争2030年前在欧洲市场超越福特和欧宝",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-12/china-s-xpeng-seeks-to-edge-past-ford-opel-in-europe-by-2030",
+      "pub_raw": "2026-10-12T19:41:53.756Z",
+      "pub_sort_dt": "2026-10-13 03:41:53"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "星巴克可以销售“中国”，但不能销售“中国风险”",
+      "title_cn": "星巴克可以销售“中国”，但不能销售“中国风险”",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-12/starbucks-can-sell-china-not-the-china-risk",
+      "pub_raw": "2026-10-12T18:06:12.965Z",
+      "pub_sort_dt": "2026-10-13 02:06:12"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受中国市场需求疲软影响，LVMH核心业务部门销售额大幅下滑",
+      "title_cn": "受中国市场需求疲软影响，LVMH核心业务部门销售额大幅上涨",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-12/lvmh-sales-at-key-unit-fall-as-china-woes-hurt-louis-vuitton",
+      "pub_raw": "2026-10-12T17:34:00.357Z",
+      "pub_sort_dt": "2026-10-13 01:34:00"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国的隐性收费正日益显现",
+      "title_cn": "中国的隐性收费正在酝酿之中",
+      "url": "https://www.economist.com/china/2026/10/12/chinas-hidden-levies-are-becoming-more-visible",
+      "pub_raw": "2026-10-12T17:02:28.553Z",
+      "pub_sort_dt": "2026-10-13 01:02:28"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "伯格斯在上海爆冷击败阿尔卡拉斯，兹维列夫锁定年终世界第一",
+      "title_cn": "伯格斯在上海爆冷击败阿尔卡拉斯，兹维列夫锁定年终世界第一",
+      "url": "https://reut.rs/4igGduv",
+      "pub_raw": "2026-10-12T14:06:59.731Z",
+      "pub_sort_dt": "2026-10-12 22:06:59"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "欧洲终于开始直面中国了",
+      "title_cn": "欧洲终于开始直面中国了",
+      "url": "https://www.ft.com/content/e374bc1a-bd56-40b4-98c9-d1b502ef9d47?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-12T13:35:12.020Z",
+      "pub_sort_dt": "2026-10-12 21:35:12"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟同意将中国产混合动力车进口配额上限设定为35万辆，为欧洲汽车业争取到喘息之机",
+      "title_cn": "欧盟同意将中国生产混合动力汽车进口损耗上限设定为35万辆，为欧洲汽车业争取到喘息之机",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-12/eu-agrees-350-000-cap-on-chinese-hybrids-in-reprieve-for-european-car-industry",
+      "pub_raw": "2026-10-12T13:19:06.246Z",
+      "pub_sort_dt": "2026-10-12 21:19:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧洲在巴黎车展上应对中国势头的迅猛增长",
+      "title_cn": "欧洲在巴黎车展上迎击中国澎湃的迅猛增长",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-12/europe-wrestles-with-china-s-surge-at-paris-motor-show",
+      "pub_raw": "2026-10-12T12:32:03.976Z",
+      "pub_sort_dt": "2026-10-12 20:32:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "汽车制造商支持欧盟限制中国混合动力车配额的计划，将其作为第一步",
+      "title_cn": "汽车制造商支持欧盟限制中国混合动力汽车损耗的计划，将其作为第一步",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-12/carmakers-back-eu-plan-to-cap-chinese-hybrids-as-first-step",
+      "pub_raw": "2026-10-12T12:32:03.965Z",
+      "pub_sort_dt": "2026-10-12 20:32:03"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "中国煤炭价格创三年新高，短期内暂无缓解迹象",
-      "title_cn": "中国煤炭价格创三年新高，短期内暂无缓解迹象",
+      "title_cn": "中国煤炭价格创三年新高，短期内暂未达成一致",
       "url": "https://www.bloomberg.com/news/articles/2026-10-12/china-coal-prices-at-three-year-high-with-little-relief-in-sight",
       "pub_raw": "2026-10-12T08:50:14.911Z",
       "pub_sort_dt": "2026-10-12 16:50:14"
@@ -111,7 +191,7 @@
     {
       "source": "Bloomberg",
       "title_en": "随着造船业蓬勃发展，中国一家钢铁厂转而投身造船业",
-      "title_cn": "随着造船业蓬勃发展，中国一家钢铁厂转而投身造船业",
+      "title_cn": "随着造船业蓬勃发展，中国一家钢铁厂转型而投身造船业",
       "url": "https://www.bloomberg.com/news/articles/2026-10-12/china-steel-mill-turns-to-shipbuilding-as-industry-booms",
       "pub_raw": "2026-10-12T08:03:22.875Z",
       "pub_sort_dt": "2026-10-12 16:03:22"
@@ -119,7 +199,7 @@
     {
       "source": "Bloomberg",
       "title_en": "欧盟协议大幅削减混合动力车出口后，中国锂价暴跌10%",
-      "title_cn": "欧盟协议大幅削减混合动力车出口后，中国锂价暴跌10%",
+      "title_cn": "欧盟协议大幅削减混合动力汽车出口后，中国锂价暴跌10%",
       "url": "https://www.bloomberg.com/news/articles/2026-10-12/chinese-lithium-slumps-10-after-eu-deal-slashes-hybrid-exports",
       "pub_raw": "2026-10-12T08:03:22.868Z",
       "pub_sort_dt": "2026-10-12 16:03:22"
@@ -127,7 +207,7 @@
     {
       "source": "Reuters",
       "title_en": "受中国市场需求暴跌影响，大众汽车第三季度交付量下滑",
-      "title_cn": "受中国市场需求暴跌影响，大众汽车第三季度交付量下滑",
+      "title_cn": "受中国市场需求暴跌影响，大众汽车第三季度交付量增长",
       "url": "https://reut.rs/4yTYAeH",
       "pub_raw": "2026-10-12T07:46:54.212Z",
       "pub_sort_dt": "2026-10-12 15:46:54"
@@ -143,7 +223,7 @@
     {
       "source": "Wall Street Journal",
       "title_en": "中国为何不愿跻身世界发达国家之列",
-      "title_cn": "中国为何不愿跻身世界发达国家之列",
+      "title_cn": "中国为何不愿身处世界之列",
       "url": "https://on.wsj.com/4jhTSme",
       "pub_raw": "2026-10-12T07:46:54.194Z",
       "pub_sort_dt": "2026-10-12 15:46:54"
@@ -167,177 +247,177 @@
     {
       "source": "Reuters",
       "title_en": "欧洲和中国汽车制造商在巴黎车展上掀起产品攻势，争夺市场份额",
-      "title_cn": "欧洲和中国汽车制造商在巴黎车展上掀起产品攻势，争夺市场份额",
+      "title_cn": "欧洲和中国汽车制造商在巴黎车展上掀起产品势攻，争夺市场份额",
       "url": "https://reut.rs/4yJlNA6",
       "pub_raw": "2026-10-12T06:11:19.026Z",
       "pub_sort_dt": "2026-10-12 14:11:19"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国与欧盟就混合动力车和电动汽车贸易问题举行了密集磋商",
-      "title_cn": "中国与欧盟就混合动力车和电动汽车贸易问题举行了密集磋商",
-      "url": "https://reut.rs/47dUW3a",
-      "pub_raw": "2026-10-12T06:11:19.023Z",
-      "pub_sort_dt": "2026-10-12 14:11:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国比亚迪、奇瑞预计将加快在欧洲建厂步伐，以规避混合动力车配额限制",
-      "title_cn": "中国比亚迪、奇瑞预计将加快在欧洲建厂步伐，以规避混合动力车配额限制",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-12/china-s-byd-chery-expected-to-speed-up-europe-factories-to-evade-hybrid-limit",
-      "pub_raw": "2026-10-12T05:39:05.906Z",
-      "pub_sort_dt": "2026-10-12 13:39:05"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国内汽车销量持续下滑，出口势头依然强劲",
-      "title_cn": "中国国内汽车销量持续下滑，出口势头依然强劲",
-      "url": "https://reut.rs/3TV7lpv",
-      "pub_raw": "2026-10-12T05:39:05.787Z",
-      "pub_sort_dt": "2026-10-12 13:39:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "欧盟同意在贸易会议后讨论对中国逆变器的限制措施",
-      "title_cn": "欧盟同意在贸易会议后讨论对中国逆变器的限制措施",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-12/eu-agrees-to-discuss-curbs-on-chinese-inverters-after-trade-meet",
-      "pub_raw": "2026-10-12T04:52:01.657Z",
-      "pub_sort_dt": "2026-10-12 12:52:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国首次对台湾合作伙伴的官员实施制裁",
-      "title_cn": "中国首次对台湾合作伙伴的官员实施制裁",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-12/china-sanctions-officials-of-taiwan-s-allies-for-the-first-time",
-      "pub_raw": "2026-10-12T04:36:00.256Z",
-      "pub_sort_dt": "2026-10-12 12:36:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国因巴拉圭、伯利兹部长与台湾方面有联系而对其实施制裁",
-      "title_cn": "中国因巴拉圭、伯利兹部长与台湾方面有联系而对其实施制裁",
-      "url": "https://reut.rs/4B7q4iG",
-      "pub_raw": "2026-10-12T03:32:13.946Z",
-      "pub_sort_dt": "2026-10-12 11:32:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾表示正在密切关注中国进行的一系列实弹演习",
-      "title_cn": "台湾表示正在密切关注中国进行的一系列实弹演习",
-      "url": "https://reut.rs/3VuunnT",
-      "pub_raw": "2026-10-12T02:30:13.987Z",
-      "pub_sort_dt": "2026-10-12 10:30:13"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "中国下一个“灰色地带”目标：对美国捍卫台湾至关重要的岛链",
-      "title_cn": "中国下一个“灰色地带”目标：对美国捍卫台湾至关重要的岛链",
-      "url": "https://on.wsj.com/4jLNAez",
-      "pub_raw": "2026-10-12T00:19:18.165Z",
-      "pub_sort_dt": "2026-10-12 08:19:18"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国采取行动，通过一项混合协议以避免与欧盟爆发更广泛的贸易战",
-      "title_cn": "中国采取行动，通过一项混合协议以避免与欧盟爆发更广泛的贸易战",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-11/china-moves-to-stave-off-wider-eu-trade-war-with-hybrid-deal",
-      "pub_raw": "2026-10-12T00:03:59.429Z",
-      "pub_sort_dt": "2026-10-12 08:03:59"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "欧盟根据新协议对混合动力汽车行业采取“保障措施”，以防范中国进口产品",
-      "title_cn": "欧盟根据新协议对混合动力汽车行业采取“保障措施”，以防范中国进口产品",
-      "url": "https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-12T00:03:55.851Z",
-      "pub_sort_dt": "2026-10-12 08:03:55"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国75亿美元的欧盟混合动力车热潮在《中欧协议》下面临新限制 - Reuters",
-      "title_cn": "中国75亿美元的欧盟混合动力车热潮在《中欧协议》下面临新限制 - Reuters",
-      "url": "https://news.google.com/read/CBMizwFBVV95cUxOMFFrZExkSUpZRTF3bDlwMXhkX3NZU1FsU09wWktzYi1rTUhVemhqRElxV3cyb1BaNTRXbzR2S0NYcXJmMWxLcVpkZURiZjU0WkF4dXVzQmNXYUpzZDVuNGRzb0tteDFxdWZ0ZWlBblVoa3hWdVVVREJpUHF1M00xYUI3Y09TZFpHNmJEdFNILXA5WHpna3pmNGRaa2FUdG5BN3U2Y2VmSTZrWXY4TER3bzhlNXdQS2xoLVRNY1lmVXkySE9wT1lJVDdEZ1k2RnM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T06:51:00.000Z",
-      "pub_sort_dt": "2026-10-12 14:51:00"
+      "title_en": "奢侈品行业遭遇挫折：受中国市场疲软影响，LVMH未达有机销售额预期（LVMHF:OTCMKTS） - Seeking Alpha",
+      "title_cn": "奢侈品行业遭遇挫折：受中国市场疲软影响，LVMH未达有机销售额预期（LVMHF:OTCMKTS） - Seeking Alpha",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxPMW1ib3hOMEV0alJVeHYzaFNTdDItM2Z4bjI3MUliUlBEOE53ZGdDVVgzcU5wQWh0WkN1cnZDNUszbUlRSjR0N0Iwd1hTZDU2dDB4aEZBNXBRYWZfVUxBbTJncENTYzZkWkdsT1gwLXktbzkydG1COW5KZlRtZndZZXVjWWhRVzF5MGcwcXJNTldzc0dETjlVLVRaUW9UMDdOY1I4LWMySzluZU5SSkFNOTBIYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T19:04:27.000Z",
+      "pub_sort_dt": "2026-10-13 03:04:27"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国与欧盟就混合动力车和电动汽车贸易问题举行了密集磋商 - Reuters",
-      "title_cn": "中国与欧盟就混合动力车和电动汽车贸易问题举行了密集磋商 - Reuters",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxPRzNFMkF5b0ZQUnNpMlJlTE82NkZrRUJiTXNreWtQbi1wOHZ2ZC1aOE5GVkhZcDNmd1pBREFLb1I2MjBlVW9ncFhpd1oyaXhDbVdMUEUtbkE1WmtXQUtpa1NtTEJOb3NQcVBkc1lldUMwaUdUU01WLTg3MS1QVUtGcF9lVDRtNTBTOHVBX2JMZnJUVUNPWnRXb21heklpNEFS?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T05:42:00.000Z",
-      "pub_sort_dt": "2026-10-12 13:42:00"
+      "title_en": "美国检察官警告称，中国的间谍活动“极其猖獗”，并表示北京方面“打的是长线战” - Fox News",
+      "title_cn": "美国检察官警告称，中国的间谍活动“极其猖獗”，并表示北京方面“打的是长线战” - Fox News",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQNFUwakRZblFlNkxIb0taSzJyU1ItOXdCUUxLSW0zc20xU29rdHpaNGRSVURDUGQtMnFnOU9uUHJ0a0UyNWR0dUJ3LTBVUWRXN0N2bWVCRlZWLU5zRHFEVzJrdDJkaTI2b0p2N1hEUnhlX0ZTMmllcXVSV1BWbzVHemVqSUNld2NPcnRNeDFuS2xCS2hic0d0cnZzRHgwcWpiZ3JMQWxmUlBRdTR1cE9hdlhHZTDSAboBQVVfeXFMTS1fM3FORl9ERkxtd2MzTHIxTmt3S2UyaTJHSERXUmhwQmJLdXYzQkZQbWtJRXJFN2N3d1JjXzVqNEJNUXo1d3lQUWlLM1Job04wU0F3cWdwQ0pXaUtZVVhrUDVQNzZCR0E4a2JBOVhzUkpNQmw5Q0oyN1lUTVRMSHN4bHY4aEpKbzJLc0xMb1hoWVZEeHlMMEQyRFBiT3h5c1BZZW5SNnlUNVZQSTFncjJWNktGNDc0Tjh3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T16:55:29.000Z",
+      "pub_sort_dt": "2026-10-13 00:55:29"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国因巴拉圭、伯利兹部长与台湾方面有联系而对其实施制裁 - Al Jazeera",
-      "title_cn": "中国因巴拉圭、伯利兹部长与台湾方面有联系而对其实施制裁 - Al Jazeera",
-      "url": "https://news.google.com/read/CBMiogFBVV95cUxQQkQ5TFA5MWRza05HQ1o1aVFjSWppTVdLSzQzU1R6M2UxdzAwY2JRWjFoMGdlNFFJS3BtaWNEcll2YW9jdElRWEFrR3NsOVJmeDRRUmw2R2Z2d29DUzhkYk1pcE1lWUFlSGlCV1ZsVTc5cGxlZHBlYmE3ZVQ0eVFaYXc4cWRNLW5EMGNxQlpEMmJDZFRSeFdQNmRRMmdLYW1nd1HSAacBQVVfeXFMTkRLVzZyaUZsM1hYVkNVelYteGdsVlBTVlJWWDZUSU9CRFdzWURSVXY0NHhQUXRGN1otaGFFbVpTWjc2amQySzBGRE5pNjBGSWdqM2JVRFdSTnlLelkteXloaU0wYnk0UWtfTmUyRzEtWFlLNXJkelRvaWlpeGdWQkVSdXlfUTlSZ2lzRUN0RC1PY2hsbGZlVzNPSjRibldfb0pqSkN1U1k?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T05:01:47.000Z",
-      "pub_sort_dt": "2026-10-12 13:01:47"
+      "title_en": "LVMH核心业务部门销售额下滑，中国市场困境拖累路易威登业绩 - Bloomberg.com",
+      "title_cn": "LVMH核心业务部门销售额大幅增长，中国市场陷入困境 路易威登业绩 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxPNlJha0plMVVjbEthV0xIV2U1NC1makRZQXlrT2c5NC1Qel91TjRXQllXaU9tNGpsdkxBVVI5MklER2JRVGZBbXFjaGptMUR6NlBtMVI5VURiTm01X3NhWnpVdWRHc0g3TzJfNl9VNm9TLXZxaGFPVGxuYjEtSm43Zi1pbzFvLVlGLTh6MElRTWZCMlAxMmlEUHpaSDdsLUZsbm9QUDNielhFNHhFZU1IcQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T15:49:25.000Z",
+      "pub_sort_dt": "2026-10-12 23:49:25"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国因巴拉圭、伯利兹部长与台湾方面有联系而对其实施制裁 - Reuters",
-      "title_cn": "中国因巴拉圭、伯利兹部长与台湾方面有联系而对其实施制裁 - Reuters",
-      "url": "https://news.google.com/read/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T02:54:00.000Z",
-      "pub_sort_dt": "2026-10-12 10:54:00"
+      "title_en": "糟糕的主意：中国推动学生交流背后的隐忧 - The Hill",
+      "title_cn": "最糟糕的想法：中国推动学生交流背后的隐忧 - The Hill",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxNakVWbHc5Z2RJNkZ4cE5HR2gyekJjWDItQUpzYUdQNnQ2TVNNTkxZTWVzTDNiWEFYSmYwX1UxRzdzR09hQzI4WjR3eFdUVGVibjR5M2c0YlBMZ2gwSXNOZ1M2aWhNcl8zT2g1ZzZLaGRLWk1Ld2xuYmhnLW5hUDU4SUlzUFl3UdIBiwFBVV95cUxQX1JhODJ0OVRKZWNMV0kyRnQwRTduYXpvUmpscVFSWGtTS2stREFpNFJjUV9DNk1XZnJkbS1JRVNEVi1UeXNmMV9IMlJWUWQxZWpJVXBkQncxNmpKYmpid3V0MzQ1bEo4NEV1XzZ6Mlo5d0h4YWFwM1ltS1JRakpTaVpfNXhoeFlPako0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T15:00:00.000Z",
+      "pub_sort_dt": "2026-10-12 23:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "台湾表示正在密切关注中国进行的一系列实弹演习 - Reuters",
-      "title_cn": "台湾表示正在密切关注中国进行的一系列实弹演习 - Reuters",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxNbzdVRzBOYnM4YWQ3Z0g2QTc2OTZwM0t0TUI3SUlGeTdBbXJ1amlQV0IyS2F2cGxmMk1hdW1HTElpV0pmaS1JUUt5N1lwdXdJUkNpYThnLVpvTEdsYjhnTVpqb015TTRDWWRZTTV6Ylo5c0pFbVRPeUM2YzNIdExpd1hRLWt6ZWR4bXZUeTRLZnJnNDlLVnAyX1JDdUxCajE3akRNMnpaUlpaVVRoWFJEWkh0MHEya28?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T02:04:00.000Z",
-      "pub_sort_dt": "2026-10-12 10:04:00"
+      "title_en": "蒂姆·库克于2026年第三次访问中国 - MacRumors",
+      "title_cn": "蒂姆·库克于2026年第三次访问中国 - MacRumors",
+      "url": "https://news.google.com/read/CBMia0FVX3lxTE5BN2V3TFpzT3psQnJnSkxkRWZCQl96MzFyRXhrZzhVNVJmSU9HR2xzVW5DRjlyckw1YkhISnk5R3Y2Z1VNeDJxeno1c1lLWjJfYll0S1ZiVWRTOUVtN0FVS3pOUUtGdU1HYXNV?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T13:54:43.000Z",
+      "pub_sort_dt": "2026-10-12 21:54:43"
     },
     {
       "source": "China Buzzing",
-      "title_en": "独家 随着人工智能和伊朗战争的阴云笼罩，中国的能源技术官僚正加速崛起 - South China Morning Post",
-      "title_cn": "独家 随着人工智能和伊朗战争的阴云笼罩，中国的能源技术官僚正加速崛起 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiugFBVV95cUxPRFFzbXEzUkYwbmFkNjVOcGhDdVNHcVlYZkIwMFV0NXNEN0h1aGZYNTJMR1dESTJRRWR2bVN0RkxCa0lJUjd0MkVwZlVEbGtaY0g3VnlVcC1DXzg0dUxMbS1pbmJFb1hfSlFBREVYbklhTVk0QXd4M2t3UXJtVWFfdTI0QmVORXgyQnc0c1NFZXhMX0pwaUYyZE9YTUQ1UDF0MFhuSld4d2pSVVBhaldlNzE2a2pneTJDZGc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T02:00:26.000Z",
-      "pub_sort_dt": "2026-10-12 10:00:26"
+      "title_en": "中国的增长引擎 - Works in Progress Magazine",
+      "title_cn": "中国的增长引擎 - Works in Progress 杂志",
+      "url": "https://news.google.com/read/CBMiZkFVX3lxTE5mVHRRUlRDTUtPcDhWeUowM3hrNE5CMm1IZC1KXzF5aVN3YjdtelgtczVpX19GeFU4SDdHWlItc2FKSi13ZW5zWDF6SURHdFhUWEplM3NOeVJTNzNaMmJYWXozeG1zUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T13:18:45.000Z",
+      "pub_sort_dt": "2026-10-12 21:18:45"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国为何不愿跻身世界发达国家之列 - WSJ",
-      "title_cn": "中国为何不愿跻身世界发达国家之列 - WSJ",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQZUFJUEVQQlpNQkhYeWpsWmJJano1YVI4LUM1djAtTXIzWi13dkZ4c2JDY0hCYnVTYjN4ZDNYY01kUUlDY01DUEdmMVpfaUV6ZjRHeVJSa1ZKZkhxRGFZRUJvTW9vNFBZZnRnMTRwMF9EVTZwVjBWdHlacmFvVm1LdU5DZlViMjZtOVE5RzQzUG1SVDh6Y3FZNXVXa3lmX2t0eXV3eHdBdU5jOGd1S1RpQ3FSa0Q?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T02:00:16.000Z",
-      "pub_sort_dt": "2026-10-12 10:00:16"
+      "title_en": "欧洲终于开始直面中国了 - Financial Times",
+      "title_cn": "欧洲终于开始直面中国了 - 金融时报",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxQcGNqcW8wVk9GeHZzVGQzb0c4LVhSVkR0eG9ENHFRSFF0Q1hUZ3k4ZW5ybjBYZzZzczJMV2JINUY1aG1RTG5pVkJENG5UaGttVzJfUmJRdVZXV0tCNURpQ1A1b1I5WTJBc2Q1S1F5Um1LUVJNVmxQWkZzejMzT2d1ek1lNlA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T13:00:01.000Z",
+      "pub_sort_dt": "2026-10-12 21:00:01"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国为何创下黄金进口量新高——这对金价意味着什么 - CNBC",
-      "title_cn": "中国为何创下黄金进口量新高——这对金价意味着什么 - CNBC",
-      "url": "https://news.google.com/read/CBMieEFVX3lxTE5QcHRBWVhFbGkxSy1BdGNNaGktNUZMaEx2TFB1Sm54RkJZbWhxYkJhTl9BeEJ1RC1RaDRMYlN2X25BdGZNN3F2QjlmYmFPR0VjaFlsUXJScnVpcU5VaVZQZmFfMjZ6QVJlamJ4NW41cWYwanJmeG9nMQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-12T00:51:00.000Z",
-      "pub_sort_dt": "2026-10-12 08:51:00"
+      "title_en": "美国转而采用低成本的“黑胡子”高超音速导弹，以压倒中国防空系统 - South China Morning Post",
+      "title_cn": "美国转而采用公开的“黑胡子”高超音速导弹，以压倒中国防空系统 - 南华早报",
+      "url": "https://news.google.com/read/CBMizAFBVV95cUxOTlhMTF9yeDB5Q0doLVpfNWh3eTQxUmhrbVB1bFVFUmVveW9BRkV0XzdKOUNQSW5WZWVWY2doSjNtdl9FaDZhY1NiMUFFMVM2eGpkMTh4cllKRW5ZdzFMWnUzVHM4T20wdFhseGZKRndBQjVlZGg0QlZkOXFMci1aZEMyUlg3azVnQWN0NkxNZnV2N3FFYVhkS1hvZDVwYkxNUWVFcWNpYUVDcjhxUEhLYWV2d0ZKS2IwSlBjdHRYVDRqSDFLVXlYR2VfWTTSAcwBQVVfeXFMUFJ5anlUeG1yZldUdERoZll3eV9BQU9uQmNNWTJpN1pBZkhZRmoyVXM4RmE0Z2hqdEFCdDhPbllEZG9PTV9mWW15M3czY1dWWkNvUFZZY1Q1TGlvdDlhUXlQQmVTRGxqMlFPWkRFY096dGVoX0g0aFBCbEZRaUI4UTM2c3pFd2JjSFhEZVlCZDFXNDBDWUMwSDRHN2xfOWhTbjRhcl9YcW9ROUFXNFJGbjUxQmxnUmY3LVBPbHRZM2E3RVA5SEczV2I3MmY1?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T12:00:19.000Z",
+      "pub_sort_dt": "2026-10-12 20:00:19"
     },
     {
       "source": "China Buzzing",
-      "title_en": "独家 库尔特·坎贝尔谈习近平与特朗普峰会后的美国威慑、四方机制、奥库斯及台湾问题 - South China Morning Post",
-      "title_cn": "独家 库尔特·坎贝尔谈习近平与特朗普峰会后的美国威慑、四方机制、奥库斯及台湾问题 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiyAFBVV95cUxOdmFpdEsxRnF5ZUJwYlRaVzczSHdMbks0aFQ5WlpzUzlPT2Uwd2RvcTNTZmJYc09HOXlGajRaT2ZsOXZhQTd3TEMtQUFjbUV1ZVB2RGJkVEVIMDhNQmswcVFScElRY3otQVdVQzRvaHA3bW1WS1RoazNGdXo2akRpT1IzbzJjTWUwRVRyWkl2OFJxdTRXR2U2YlR5MjZGYkhLa0lBNmNQTmdFTHhKVWhYUVdGU0tTR2IyYUtjdWs1OHVIM1ExMEk0eNIByAFBVV95cUxQcE1rbTBuN2NYTFpKc0JlWVFvTTdwQlpMbFkycHFWVGtBaER2cFJrdl92WS12X0xZQlRpU3BEc05WSDVXWm4wYU1GX3BfZ2tZeTdQcEcwdUoxeUtCTElkR3pYZkk5a1lYTzNTYlA5Mm5makFWWW5LdDhOUkwxbGRfSldleXhLQXJhc3NHUUF5U1BWNDhjNUM1WDVreWpGWjFDczVsNHVjSGhSZjdHTjR2aFdHcGgzNk9mZF9Sa09sZmEtME5nRzBpYw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-11T22:00:15.000Z",
-      "pub_sort_dt": "2026-10-12 06:00:15"
+      "title_en": "随着国内月度销量持续下滑，中国汽车制造商正依赖海外市场 - AP News",
+      "title_cn": "随着月内消费量持续增加，中国汽车制造商正依赖海外市场 - 美联社新闻",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxQbGhDbXZKUzRXNWtLeEVyR0RLaXFrUnUxWU8zNTdQZnpwdmo3NzY1cUV4dXY4MVg2YTVqeUVYaHdmdVdwaW5XbU5FNUM5YVZkYkNyeFRrYU1adGRSblBkNXRuWFd1UHp0OWFFY0xYc2N5U0lFT1Q0dGR2N1FOWXZGYldBZUc3bnNCUk5ienA1ci0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T11:46:00.000Z",
+      "pub_sort_dt": "2026-10-12 19:46:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国的债务利息支出正在飙升——且增速超过其他任何主要预算项目 - Fortune",
-      "title_cn": "中国的债务利息支出正在飙升——且增速超过其他任何主要预算项目 - Fortune",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxOQ1pUVnZtOEcyTjdEcmpYelNDUlVFaU9lZXJwMXFCZjEwbGZxbW5JckpBSnI2M1RYVkhNaUo4c0w2ajY4MkwwS0V1QVA0NkpJcExRN2FmUnBBUW9WamhsQlJJbE9uZ0Y1YTIzSTIyYUJmakFlWXFFOEx0Z253emJwVFUweGZEbmtMc2lBb2xwR2ZsczN0bDNKZ1JRWkZFcmlGZlZXS0NHeFhLNnNPbU1kM0RVTQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-11T19:56:00.000Z",
-      "pub_sort_dt": "2026-10-12 03:56:00"
+      "title_en": "中国集中式污水处理系统在应对水资源短缺方面已达到效率极限 - Nature",
+      "title_cn": "中国集中式污水处理系统在应对水资源迫切方面已达到效率极限 - Nature",
+      "url": "https://news.google.com/read/CBMiX0FVX3lxTFBlRkFJWE02ckhTd09pWUF5VDVxS1FOSW1pc29GM1lrbjd2c1RTNWNWY0tKYldWcXlEMzNFcGtraDgwUExKakZraEU3bjdUMUZjc0dzdTVoREcyWWxCU2Nr?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-12T10:50:56.000Z",
+      "pub_sort_dt": "2026-10-12 18:50:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受中国市场需求疲软影响，LVMH核心业务部门销售额下滑",
+      "title_cn": "受中国市场需求疲软影响，LVMH核心业务部门销售额增幅",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-12/lvmh-sales-at-key-unit-slide-on-weak-china-demand",
+      "pub_raw": "2026-10-12T21:48:57.490Z",
+      "pub_sort_dt": "2026-10-13 05:48:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国小鹏汽车力争在2030年前在欧洲市场超越福特和欧宝",
+      "title_cn": "中国小鹏汽车力争2030年前在欧洲市场超越福特和欧宝",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-12/china-s-xpeng-seeks-to-edge-past-ford-opel-in-europe-by-2030",
+      "pub_raw": "2026-10-12T19:41:53.756Z",
+      "pub_sort_dt": "2026-10-13 03:41:53"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "星巴克可以销售“中国”，但不能销售“中国风险”",
+      "title_cn": "星巴克可以销售“中国”，但不能销售“中国风险”",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-12/starbucks-can-sell-china-not-the-china-risk",
+      "pub_raw": "2026-10-12T18:06:12.965Z",
+      "pub_sort_dt": "2026-10-13 02:06:12"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受中国市场需求疲软影响，LVMH核心业务部门销售额大幅下滑",
+      "title_cn": "受中国市场需求疲软影响，LVMH核心业务部门销售额大幅上涨",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-12/lvmh-sales-at-key-unit-fall-as-china-woes-hurt-louis-vuitton",
+      "pub_raw": "2026-10-12T17:34:00.357Z",
+      "pub_sort_dt": "2026-10-13 01:34:00"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国的隐性收费正日益显现",
+      "title_cn": "中国的隐性收费正在酝酿之中",
+      "url": "https://www.economist.com/china/2026/10/12/chinas-hidden-levies-are-becoming-more-visible",
+      "pub_raw": "2026-10-12T17:02:28.553Z",
+      "pub_sort_dt": "2026-10-13 01:02:28"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "伯格斯在上海爆冷击败阿尔卡拉斯，兹维列夫锁定年终世界第一",
+      "title_cn": "伯格斯在上海爆冷击败阿尔卡拉斯，兹维列夫锁定年终世界第一",
+      "url": "https://reut.rs/4igGduv",
+      "pub_raw": "2026-10-12T14:06:59.731Z",
+      "pub_sort_dt": "2026-10-12 22:06:59"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "欧洲终于开始直面中国了",
+      "title_cn": "欧洲终于开始直面中国了",
+      "url": "https://www.ft.com/content/e374bc1a-bd56-40b4-98c9-d1b502ef9d47?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-12T13:35:12.020Z",
+      "pub_sort_dt": "2026-10-12 21:35:12"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟同意将中国产混合动力车进口配额上限设定为35万辆，为欧洲汽车业争取到喘息之机",
+      "title_cn": "欧盟同意将中国生产混合动力汽车进口损耗上限设定为35万辆，为欧洲汽车业争取到喘息之机",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-12/eu-agrees-350-000-cap-on-chinese-hybrids-in-reprieve-for-european-car-industry",
+      "pub_raw": "2026-10-12T13:19:06.246Z",
+      "pub_sort_dt": "2026-10-12 21:19:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧洲在巴黎车展上应对中国势头的迅猛增长",
+      "title_cn": "欧洲在巴黎车展上迎击中国澎湃的迅猛增长",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-12/europe-wrestles-with-china-s-surge-at-paris-motor-show",
+      "pub_raw": "2026-10-12T12:32:03.976Z",
+      "pub_sort_dt": "2026-10-12 20:32:03"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "汽车制造商支持欧盟限制中国混合动力车配额的计划，将其作为第一步",
+      "title_cn": "汽车制造商支持欧盟限制中国混合动力汽车损耗的计划，将其作为第一步",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-12/carmakers-back-eu-plan-to-cap-chinese-hybrids-as-first-step",
+      "pub_raw": "2026-10-12T12:32:03.965Z",
+      "pub_sort_dt": "2026-10-12 20:32:03"
     },
     {
       "source": "Bloomberg",
       "title_en": "中国煤炭价格创三年新高，短期内暂无缓解迹象",
-      "title_cn": "中国煤炭价格创三年新高，短期内暂无缓解迹象",
+      "title_cn": "中国煤炭价格创三年新高，短期内暂未达成一致",
       "url": "https://www.bloomberg.com/news/articles/2026-10-12/china-coal-prices-at-three-year-high-with-little-relief-in-sight",
       "pub_raw": "2026-10-12T08:50:14.911Z",
       "pub_sort_dt": "2026-10-12 16:50:14"
@@ -353,7 +433,7 @@
     {
       "source": "Bloomberg",
       "title_en": "随着造船业蓬勃发展，中国一家钢铁厂转而投身造船业",
-      "title_cn": "随着造船业蓬勃发展，中国一家钢铁厂转而投身造船业",
+      "title_cn": "随着造船业蓬勃发展，中国一家钢铁厂转型而投身造船业",
       "url": "https://www.bloomberg.com/news/articles/2026-10-12/china-steel-mill-turns-to-shipbuilding-as-industry-booms",
       "pub_raw": "2026-10-12T08:03:22.875Z",
       "pub_sort_dt": "2026-10-12 16:03:22"
@@ -361,7 +441,7 @@
     {
       "source": "Bloomberg",
       "title_en": "欧盟协议大幅削减混合动力车出口后，中国锂价暴跌10%",
-      "title_cn": "欧盟协议大幅削减混合动力车出口后，中国锂价暴跌10%",
+      "title_cn": "欧盟协议大幅削减混合动力汽车出口后，中国锂价暴跌10%",
       "url": "https://www.bloomberg.com/news/articles/2026-10-12/chinese-lithium-slumps-10-after-eu-deal-slashes-hybrid-exports",
       "pub_raw": "2026-10-12T08:03:22.868Z",
       "pub_sort_dt": "2026-10-12 16:03:22"
@@ -369,7 +449,7 @@
     {
       "source": "Reuters",
       "title_en": "受中国市场需求暴跌影响，大众汽车第三季度交付量下滑",
-      "title_cn": "受中国市场需求暴跌影响，大众汽车第三季度交付量下滑",
+      "title_cn": "受中国市场需求暴跌影响，大众汽车第三季度交付量增长",
       "url": "https://reut.rs/4yTYAeH",
       "pub_raw": "2026-10-12T07:46:54.212Z",
       "pub_sort_dt": "2026-10-12 15:46:54"
@@ -385,7 +465,7 @@
     {
       "source": "Wall Street Journal",
       "title_en": "中国为何不愿跻身世界发达国家之列",
-      "title_cn": "中国为何不愿跻身世界发达国家之列",
+      "title_cn": "中国为何不愿身处世界之列",
       "url": "https://on.wsj.com/4jhTSme",
       "pub_raw": "2026-10-12T07:46:54.194Z",
       "pub_sort_dt": "2026-10-12 15:46:54"
@@ -409,90 +489,10 @@
     {
       "source": "Reuters",
       "title_en": "欧洲和中国汽车制造商在巴黎车展上掀起产品攻势，争夺市场份额",
-      "title_cn": "欧洲和中国汽车制造商在巴黎车展上掀起产品攻势，争夺市场份额",
+      "title_cn": "欧洲和中国汽车制造商在巴黎车展上掀起产品势攻，争夺市场份额",
       "url": "https://reut.rs/4yJlNA6",
       "pub_raw": "2026-10-12T06:11:19.026Z",
       "pub_sort_dt": "2026-10-12 14:11:19"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国与欧盟就混合动力车和电动汽车贸易问题举行了密集磋商",
-      "title_cn": "中国与欧盟就混合动力车和电动汽车贸易问题举行了密集磋商",
-      "url": "https://reut.rs/47dUW3a",
-      "pub_raw": "2026-10-12T06:11:19.023Z",
-      "pub_sort_dt": "2026-10-12 14:11:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国比亚迪、奇瑞预计将加快在欧洲建厂步伐，以规避混合动力车配额限制",
-      "title_cn": "中国比亚迪、奇瑞预计将加快在欧洲建厂步伐，以规避混合动力车配额限制",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-12/china-s-byd-chery-expected-to-speed-up-europe-factories-to-evade-hybrid-limit",
-      "pub_raw": "2026-10-12T05:39:05.906Z",
-      "pub_sort_dt": "2026-10-12 13:39:05"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国内汽车销量持续下滑，出口势头依然强劲",
-      "title_cn": "中国国内汽车销量持续下滑，出口势头依然强劲",
-      "url": "https://reut.rs/3TV7lpv",
-      "pub_raw": "2026-10-12T05:39:05.787Z",
-      "pub_sort_dt": "2026-10-12 13:39:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "欧盟同意在贸易会议后讨论对中国逆变器的限制措施",
-      "title_cn": "欧盟同意在贸易会议后讨论对中国逆变器的限制措施",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-12/eu-agrees-to-discuss-curbs-on-chinese-inverters-after-trade-meet",
-      "pub_raw": "2026-10-12T04:52:01.657Z",
-      "pub_sort_dt": "2026-10-12 12:52:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国首次对台湾合作伙伴的官员实施制裁",
-      "title_cn": "中国首次对台湾合作伙伴的官员实施制裁",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-12/china-sanctions-officials-of-taiwan-s-allies-for-the-first-time",
-      "pub_raw": "2026-10-12T04:36:00.256Z",
-      "pub_sort_dt": "2026-10-12 12:36:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国因巴拉圭、伯利兹部长与台湾方面有联系而对其实施制裁",
-      "title_cn": "中国因巴拉圭、伯利兹部长与台湾方面有联系而对其实施制裁",
-      "url": "https://reut.rs/4B7q4iG",
-      "pub_raw": "2026-10-12T03:32:13.946Z",
-      "pub_sort_dt": "2026-10-12 11:32:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾表示正在密切关注中国进行的一系列实弹演习",
-      "title_cn": "台湾表示正在密切关注中国进行的一系列实弹演习",
-      "url": "https://reut.rs/3VuunnT",
-      "pub_raw": "2026-10-12T02:30:13.987Z",
-      "pub_sort_dt": "2026-10-12 10:30:13"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "中国下一个“灰色地带”目标：对美国捍卫台湾至关重要的岛链",
-      "title_cn": "中国下一个“灰色地带”目标：对美国捍卫台湾至关重要的岛链",
-      "url": "https://on.wsj.com/4jLNAez",
-      "pub_raw": "2026-10-12T00:19:18.165Z",
-      "pub_sort_dt": "2026-10-12 08:19:18"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国采取行动，通过一项混合协议以避免与欧盟爆发更广泛的贸易战",
-      "title_cn": "中国采取行动，通过一项混合协议以避免与欧盟爆发更广泛的贸易战",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-11/china-moves-to-stave-off-wider-eu-trade-war-with-hybrid-deal",
-      "pub_raw": "2026-10-12T00:03:59.429Z",
-      "pub_sort_dt": "2026-10-12 08:03:59"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "欧盟根据新协议对混合动力汽车行业采取“保障措施”，以防范中国进口产品",
-      "title_cn": "欧盟根据新协议对混合动力汽车行业采取“保障措施”，以防范中国进口产品",
-      "url": "https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-12T00:03:55.851Z",
-      "pub_sort_dt": "2026-10-12 08:03:55"
     }
   ]
 }
