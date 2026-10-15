@@ -1,101 +1,237 @@
 {
-  "update_cst": "2026-10-15 18:01:14 北京时间",
+  "update_cst": "2026-10-16 06:01:09 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 1,
-    "Bloomberg": 10,
+    "The Economist": 2,
+    "Bloomberg": 12,
     "Financial Times": 1,
     "Wall Street Journal": 0,
-    "Reuters": 8
+    "Reuters": 5
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "受刺激措施推动，中国第三季度经济增长有望回升，2026年目标仍可望实现 - Reuters",
-      "title_cn": "受刺激措施推动，中国三季度经济增长有望回升，2026年目标仍可望实现 - 路透中文网",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxPUnFSUnFOaFNjbUE4U09LUG9xb1lsbjU5TXdIajM1YW9SQzJnUzRoREFOanJUU3JaMUxCS1lVWU5LS2FzbGNXVTBGWnk4bTdUbWdIZjdOa2Q0ekdtQlVTWUNBcEJqZ1pMVUdzTE9nZHV3SXhac0tkaG1EY1U5bnhtdUpzd1ljUUNNQWJJMURlUWtzcXFjblp4RmZkcGhmYTljUTdLWFp0V0J5UmZzTHBoeTlhemttUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T09:29:44.000Z",
-      "pub_sort_dt": "2026-10-15 17:29:44"
+      "title_en": "中国将继续为巴勒斯坦人发声，支持“两国方案”——外交部长 - The Times of Israel",
+      "title_cn": "中国将继续为巴勒斯坦人发声，支持“两国方案”——外交部长 - The Times of Israel",
+      "url": "https://news.google.com/read/CBMixgFBVV95cUxQTTRmc3ZvbHNfT1h4MmFUS0NQLUdCUmFpaWtyWlVLNXN3YTR1dU5kZzFCSXRrTmlOMVRGc2JJVzBDV1hOZm1NVGxXOVpRREZQdnVQb0pWX0dzVS1oUW5WcUNjcmpSc2lMYlRZYU1Cc0VHakZpcnI4c2lIZ3p6d0xTNk1ud05fV3hnNjJrWUcwUTh6VUs0MjJMNGZiYWUyeE4wMnVBNkhEZ053ZHhIRjhKVDZnVUd5bzVpeGszS2RoUVdka1ZGVWc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T19:09:18.000Z",
+      "pub_sort_dt": "2026-10-16 03:09:18"
     },
     {
       "source": "China Buzzing",
-      "title_en": "西方需要一种“生物和平” - Foreign Policy",
-      "title_cn": "西方需要“生物和平” - 外交政策",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxOdG1jOUlhSTZmV2d3cTVDMldSclhCenJ1MGJoTURaZy13ajQtM19QZkotN1pESC1HRjFJTldUNE5KeGpTM1M5aFJHOEdpSnYzLUh6ZC1ZZzR4S19zOWZPZkNzdHZ5aUNVQ2ZPSk0zem5CVlVzRUtGUW1fZWVMUVZQQXpNVll5eE90eWk0dVZXc3VIUzVXRUp4VA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T09:03:47.000Z",
-      "pub_sort_dt": "2026-10-15 17:03:47"
+      "title_en": "“这是我们的选择，不是你们的”：帕劳总统直面中国对台湾问题的威胁 - Politico",
+      "title_cn": "“这是我们的选择，不是你们的”：帕劳总统直面中国对台湾问题的威胁 - Politico",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxQZzNma0ViZUJYZXIxNDRwZ3otTTJKWXJhYUo4UWtRRXNobk5rZnZsYXFLS0JKTlRxcmg2cTNsYWlVaThGVFRRaHhxZm5NcXdrVXE0bjRsLVZCMXNya3FIc0NBbGhtakNLQzFkYkxUWnJnZ0tjQ215TFVJUUxNLW9mUGFacmRJV09ZdHJjTUtyaVJzSXdfT0ZXYzA2aEVLbW5IYnI1LXMySHEwZG1qdWRRVERRUGZvaHlVZ1pEcWt2aUdadw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T18:00:00.000Z",
+      "pub_sort_dt": "2026-10-16 02:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国表示，无论美中贸易协议是否到期，稀土出口都将持续流向欧盟 - CNBC",
-      "title_cn": "中国表示，无论美中贸易协议是否存在，稀土出口都将持续流向欧盟 - CNBC",
-      "url": "https://news.google.com/read/CBMid0FVX3lxTE85Q0ZrM1c2YkJjdFdFVW1iNXVwd1VGbTFxSlhhQTB6MTRhRVRNeHM0Q1hCUENfdjFQWEdhcUV2dkV1YXhNNmJ5bHMzdXJOSFVPaWJuUUJJYnNYRVM0OU9YMUNSb0VVd3ZNM2Q2cWJfUHY4X2M5RUxR0gF8QVVfeXFMTUVLVjhUYWxoQlpfeXVydVV6aHh1dkZPVkxubTRMNmJMWUNocXZocmVFZElHMVZDcmRXM1JGZjBTMjMydnBRdF9YVmlZMVZxTVRYdzVHS2VhcWd3TXlEYXZ6empTaTJHM3d5OFRIZlpFQkxJYUN6MXZMY1hYdg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T09:02:31.000Z",
-      "pub_sort_dt": "2026-10-15 17:02:31"
+      "title_en": "中国清洁技术如何重塑乌克兰战时的能源安全 - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "title_cn": "中国清洁技术如何重塑乌克兰战时的能源安全 - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxNNDRPTUFGN2tsZl8yV1dTd21peHZIRHNGYjcwVWpjWGk4TjJJelQzR2xkYU9XUGllQnlDNVBVcEhTM3QzbS1XZ0lSQmlZd0dvTEwxNTk0SVhyWS02RnZUNEJXbjVsWG9CVklLWUxVUXFoMmJvekRIbFZXcXRmR2dkT1lXSE1xZjAtSTNveXVKR0JFcWI2VHBfNVY0RFZGbGcyaGJr?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T14:48:40.000Z",
+      "pub_sort_dt": "2026-10-15 22:48:40"
     },
     {
       "source": "China Buzzing",
-      "title_en": "2026年，中国经济表现如何？ - CGTN",
-      "title_cn": "2026年，中国经济表现如何？ - CGTN",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxPT0hYREdoVFBXXy1ZME84VXBJMTU4Um1rVnNXV2dLMDBWMkppOFMxZlJGX3JOZXg4bncyVjAwS3ktSmRlRDBFTG9CZk9pNWxjQlp3djBwLTZWazA3aWtiQmp5eEtXOEFkaTdrVW9kQUxac05jWkNfb29NWms4OGw2d1FkOXRfOHZYUEhvQ05rb1VkME4yVnRMSkF4Mk5zTWNi?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T06:40:09.000Z",
-      "pub_sort_dt": "2026-10-15 14:40:09"
+      "title_en": "若英国在针对中国的关税问题上保持一致，法国和德国将允许其加入欧盟的汽车政策 - Financial Times",
+      "title_cn": "若英国在针对中国的关税问题上保持一致，法国和德国将允许其加入欧盟的汽车政策 - Financial Times",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPM3FCN0doMkY2S3lmdm1WWWI5aUZ4emIyZzBCYTlsdW54VkVjQWozNWtJQmdRWkYxd1EyM2lweFU5clZaamdDZURaQjk5YUZiamFSMXVJNTI3aGN4a3RPRGItdDRIdDlqa3Y2TTlkRUhabUEtYl9Vam1IeDFCN1gwM2pPYlY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T14:10:35.000Z",
+      "pub_sort_dt": "2026-10-15 22:10:35"
     },
     {
       "source": "China Buzzing",
-      "title_en": "欧盟领导人就能源、中国和预算问题展开关键谈判 - Euronews.com",
-      "title_cn": "欧盟领导人就能源、中国和预算问题展开关键谈判 - Euronews.com",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxNcGZCUDBLRl9MbkZHbnVqUDB3NEgxYzlKMU45ZUgtMlVYaFpOZGJXQXpyQlQ1VmN6QUJROHVKYjE2UGZEeVpXVXpMNl90N0NtSnlsWmxZeFVUbXd5X0hCSnpOdkFnYkItRUdkV1VZS2RfRENzUkNyNllCLVpQR2ZyY1RPd0RLU1hIZEFfQzYyTURxLWhfXzlKdjM3S0Y?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T06:34:45.000Z",
-      "pub_sort_dt": "2026-10-15 14:34:45"
+      "title_en": "一位科学家从美国归国后表示，中国是全球胚胎研究领域的灯塔 - South China Morning Post",
+      "title_cn": "一位科学家从美国归国后表示，中国是全球胚胎研究领域的灯塔 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNZ1BDX1lsdTlvUzhmb0xZbGhWVmo3c0F2ZUpxNTdrVjh6aDF1UmZpR1c5QWpraGxmQWJ0VGI4a3ZlUlFOUkRrY1BHWjV0ajM1VjFJc3hNVkx2Ym1QNmVBZVoxbXAzc0kxQXJmMzZVUzd4ZEdvczEzQ0U4ZVM1ejRwSUFwaHctX3I2OUFsS2dqbzdHMzIycTZRYWw3bmF4ZWY2MnFRZkxUaFFyTUtuOW9hOENFR2dneWZtdHVLR2xEbHNia0HSAcMBQVVfeXFMT2Vab2lCN2hLbVN6SXpwTGJ2ckNRYnY3WHZHXzhLajhjTGE4SUZTSFVpODlhSS1pSlVPVEozQmI1Nko2VFRWQWwzQl8xUERNV29QZmI4MEpmZkl6ZXphdEpRZkhTNDVVREdKMnpvQkpwTl9jREdOY2kzNjhueV90Z0ZTY0tiMnRCQUZuNWZwd09zbG9ITGVWYzZ4UVpnZEtfVHBWaXgyekY5QlF5eEtaMGtGUl9lQXE2X1hjY0ItckgzcjNB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T14:00:13.000Z",
+      "pub_sort_dt": "2026-10-15 22:00:13"
     },
     {
       "source": "China Buzzing",
-      "title_en": "朝鲜与中国的全新桥梁终于开通。但这能否帮助平壤规避制裁？ - CNN",
-      "title_cn": "朝鲜与中国的全新大桥终于开通。但能否帮助平壤挽回？ - CNN",
-      "url": "https://news.google.com/read/CBMieEFVX3lxTE5qOGtXTWhIVVFwRWJuaUxnSno1clBQZ2h2ZkJVYnFVMDdtU0dfa1RnOWNLM0lXbUlFamZwSzRNWnNUZnI5Q0tsTkx2WUZJQ0t4NGkxanR5V3Znd3h4Ynd6TW9kQVZsbG01OVlXaXBleFBzeTNPOXc3OA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T06:05:28.000Z",
-      "pub_sort_dt": "2026-10-15 14:05:28"
+      "title_en": "对中国间谍活动针对美军的担忧促使共和党鹰派要求对这家航运巨头采取报复措施 - Fox News",
+      "title_cn": "对中国间谍活动针对美军的担忧促使共和党鹰派要求对这家航运巨头采取报复措施 - Fox News",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQRjVXbWJTNlFrUTNFaUFCeXZYTHI2cWVDaC0zVW9Bc213RmVKc09JWjJoVTQ0WW45NDZxb3RSYVFrNWNlb3lzZXVWSG9scnBYWEZWYmV3bmtlaGVncmRBUnd0ZlkzQ0RtVzl0d1ZTM0Qta1c4QTBrNW4yQmJhOWpITmxHU1FWU0NPdXVwQmhhZlpNSUs1dkR6VkNMYW4zT0thWkwtTUg5S19LOHlsSzNWRUY2TlHSAboBQVVfeXFMT2VOV3A3WFBEREtNZ0Rvd0xNWXFMd0N6ZXlmOElKOWw0d0puNnJXV29qcVgwTUI0SENMeVlDZE4wNERZQ2tsZ2NfVzlDcF84VVBJaHoyZXUxMFlxTlZkaFhZdDlJbzYyVzN5Q1loNVU3X2xTeHEwNUg3WXRmejJkYXZ4Q1F6ZFl5RXlBUUJfMlVOM1dvaFRQRE1xVWMwejZXQ1duaXR1UHZCNGRZRjgxcGgydTA0d2JiVTRR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T13:48:11.000Z",
+      "pub_sort_dt": "2026-10-15 21:48:11"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在中国芯片制造加速推进之际，一家初创公司揭开了EUV光刻技术“核心”原型的面纱 - South China Morning Post",
-      "title_cn": "在中国芯片制造加速推进之际，一家四分之一公司揭开EUV光刻技术“核心”原型的纱面 - 南华早报",
-      "url": "https://news.google.com/read/CBMiwAFBVV95cUxOU0NmelhYazZYZ1JiNjVIVjRfeXlNMHpWZFZIOTZXOGJVZ3kwZGJFMWs4ZHhHVTVOVkR4WGZINGFMVHMyNV9TRklFQjBqQVVHZUNMaE9jX2ladjFubGNTTGc3WG15UDBpZGV4ek9LYzJNVGJEYnBiNmdiU1N5QUc2WV9aNUZySkM1dkZWWVZsRE5KU0JBWFJobnZ1VU04ZnczWHNoRGNGWDFhWmc1TVVaTHZ2TDdUY0QxdE5BeVNhZl_SAcABQVVfeXFMTUNZSkdVZ1FpZ18zSEdiMzdjdk41Z29URjZUbzB1NVlPVW9CczR2VnY2ZkgtTlMwUXRRbnlZcm1LcHpidE9MX201MnV0amlMY3Nid3RCT2s3UDh0TEoxc2pOLU16Q3J5UnVkSFpIUm1mZVd2cWl1OHlpN0ZVWjhqUmJuaVBLbmphQm5PLTFELUlOWnJiNzhVbTNicVFUSjd1YmZOVWMyV3lRMm9sNDhTSTZRN2ZjTlAyVjRTZnE5SU1a?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T06:01:54.000Z",
-      "pub_sort_dt": "2026-10-15 14:01:54"
+      "title_en": "中国已占据了业余爱好者3D打印机市场 - The Economist",
+      "title_cn": "中国已占据了业余爱好者3D打印机市场 - The Economist",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxQVTlNazBIS2FKMnBrczItZXAzVmJrT0tFWmU5UU40NzdJUWxqUVZLR0xnc3Rxb0d4NGs5TE1PeUg3MTBOQ0ZhUGVBYkFxZ0hGU1RnZGlXTy1EdTZtYmFIUFlibnZIMHpFcVVoaWt5LWFseDZWUXNLamJEM3ZDbXlYcnBBUUNFMEpXdWd5VmdsZ092endqMnNidjJ4dEI5dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T12:50:21.000Z",
+      "pub_sort_dt": "2026-10-15 20:50:21"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国迈向6G的道路 - Light Reading",
-      "title_cn": "中国迈向6G的道路——轻读",
-      "url": "https://news.google.com/read/CBMiX0FVX3lxTFBkNGh0MkxydEZEZUZDdWs0c3ZnS2pyelZ6R0E0SWJ6QURobG5kbmxYcmFPLTdEWFM4NnZNUGF4d3o0dXJ4ZmU5dHEyYnYtLS1saVk4MDYwUkVJTzlQMnFV?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T05:01:12.000Z",
-      "pub_sort_dt": "2026-10-15 13:01:12"
+      "title_en": "中国长城上的游客和一座遭破坏的银行：今日照片——周四 - The Guardian",
+      "title_cn": "中国长城上的游客和一座遭破坏的银行：今日照片——周四 - The Guardian",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxOZ3FtOVhjTnljX1JtaGhaMjVmTWlmeUI5TkJ1Y21BMnBiZEdJMnFUMEc5SXRYdm1idkVTVjNhWWkzNTJZeFdMU2lXQkZwN2s3ZS0xcDhXS1EzQmZLd2FIV29nbjE0cF93RHdBbW9kZzVjaWRNNW14ZVhPX21DWXJmdXpLMGs4YnJCQ0YtWU9ZLS1LM3dpa3laTjQ2QzdvdFp6MXcwSEx0RFA5UGVSNUhoWV9wVkw5ZWZaWnRKQU90Z1BXZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T12:04:00.000Z",
+      "pub_sort_dt": "2026-10-15 20:04:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国出口的这股热潮确实势头强劲——而且还“展翅高飞” - Reuters",
-      "title_cn": "中国出口的这股热潮确实势头强劲——而且还是“展翅高飞” - 路透中文网",
-      "url": "https://news.google.com/read/CBMimgFBVV95cUxNVlowanVKaFdPYlZrOXM4Nk1Fc01KSzRMdWpzd0czb3pqT0kzYVkxbUNGeVZTRVprck16MEY0SHdKODRjMFRrQjJjMzFfRFY0ZjVGWFdhbUsxT0lKYW5nR0NqVGJOX3g2VDZMbUh6d3d1bGt5cUtPV0hrUl9yTDVZbjRENDRGSnRTMmdJdjJqUHRzYVpkRXMzTnJn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T05:00:00.000Z",
-      "pub_sort_dt": "2026-10-15 13:00:00"
+      "title_en": "中国字节跳动组建人工智能安全团队，启动全球招聘计划 - Reuters",
+      "title_cn": "中国字节跳动组建人工智能安全团队，启动全球招聘计划 - Reuters",
+      "url": "https://news.google.com/read/CBMixgFBVV95cUxNUUh6d0NyZGxfYjd4bDhwRWdkT0wxOG4xUUlrQkZFZ0JMTlNJMzVUVWRHNDhyYWR2Vzh0RGRsUk9YdDhHeE92NlBPTWlnU1htMHotSVhfRGoydXVjM21UcEV6Z3dsSGtSSGhOcExMaFBud3ZVcGJDU1NNUXFUcFBCdDNwZUFfWVY4QnJjNEhaWHQ2Z01PUUt4enJJVWRxWjA5aTNVUncwSW1XcFB5c2VzYXBmR3RNZVZxNHpzd1c1bHhUSzZIa1E?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T10:52:58.000Z",
+      "pub_sort_dt": "2026-10-15 18:52:58"
     },
     {
       "source": "China Buzzing",
-      "title_en": "受混合动力汽车协议鼓舞，欧洲各国在对华采取更强硬立场的问题上达成共识 - South China Morning Post",
-      "title_cn": "受动力汽车协议的影响，欧洲各国在对华采取更强硬立场的问题上达成共识 - 南华早报",
-      "url": "https://news.google.com/read/CBMiyAFBVV95cUxNUTJ6WUxHNTFuYmhZX0ZISGExX0M0WnRTd0VOZjR5SXZrR1gwWHRQTVhvUFFSeVptWFhRLV9vOERLSnp4WThsR0Rjd254aFVialp0eHh1am1CREZ4bGpSQUN6cFFXN0x5LXNhZkJ3MVJTVmdtaFlxdEUzQnI5ckxpaEVTS2JoNGVwZ0dfU2VCQmlwOUxVN1RHYlRfQTNDRF9LUDdtQ3kwNFRFMkJYUklIYk81VE1zYVp3b1Fja3pHVGtGdUQ2cG5ZYtIByAFBVV95cUxNeHlyS1NsVkwza0ZDeWZLTVZrdzgxd1FibzZYUkhZcVlhR3JyYTFHQ1lWMnlqaW9RemtYcVkwUFFXSkhSMkxfRlAxd1dIZ0RjYmVuVXVFejZ1TVJESFdqQ3RYY3JBLW9VN1ZvdzVIX25pRWhQaGYwdmxUVHN4MXNVTGQySHFTaURxWlltcWJJaE8zeTQ3VDBlNlgyektabXNqemdkNGpRUHJYMUtVcTRZMGVPX1dYNmNfeGRNZ0xUM1JWd1R5cmxYVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T04:46:28.000Z",
-      "pub_sort_dt": "2026-10-15 12:46:28"
+      "title_en": "中朝新桥历经十余年延误后终于通车 - AP News",
+      "title_cn": "中朝新桥历经十余年延误后终于通车 - AP News",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxQdUtlWHBELVJzd1Y5WEhSNmVzZXJvR1FPdV9RNzN3cXMtdnNXVGJUVDY4eUZWdFRNejJqeTlSNjFmQzRQOV8xYzRpSEhiOFRvaVhtR2U3elFndUVBUVJZMFVLOGJTZmF6d19ESWxoYVlGY3hHYzJJclFfMUdFZ1J0NXQ4XzByOFNOM1YwR3Bhd3V0Ykg3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T10:41:00.000Z",
+      "pub_sort_dt": "2026-10-15 18:41:00"
     }
   ],
   "media_news": [
     {
+      "source": "Bloomberg",
+      "title_en": "据称欧盟正计划利用更广泛的贸易工具针对中国",
+      "title_cn": "据称欧盟正计划利用更广泛的贸易工具针对中国",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-15/eu-is-said-to-target-china-with-broader-trade-tool",
+      "pub_raw": "2026-10-15T21:40:02.660Z",
+      "pub_sort_dt": "2026-10-16 05:40:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "加拿大持有的美国国债和债券规模不断扩大，背后可能有中国在推动",
+      "title_cn": "加拿大持有的美国国债和债券规模不断扩大，背后可能有中国在推动",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-15/china-may-be-behind-canada-s-growing-us-treasury-bond-holdings",
+      "pub_raw": "2026-10-15T21:40:02.657Z",
+      "pub_sort_dt": "2026-10-16 05:40:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国车企不必成为欧洲的宝马",
+      "title_cn": "中国车企不必成为欧洲的宝马",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-15/chinese-carmakers-don-t-need-to-be-the-bmws-of-europe",
+      "pub_raw": "2026-10-15T21:23:36.721Z",
+      "pub_sort_dt": "2026-10-16 05:23:36"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟通过赋予阻止中国进口的权力，加强了贸易手段",
+      "title_cn": "欧盟通过赋予阻止中国进口的权力，加强了贸易手段",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/eu-prepares-trade-tool-that-could-block-china-from-single-market",
+      "pub_raw": "2026-10-15T20:37:00.409Z",
+      "pub_sort_dt": "2026-10-16 04:37:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普的新任新闻秘书称中国缺乏“像样的厕所”",
+      "title_cn": "特朗普的新任新闻秘书称中国缺乏“像样的厕所”",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/trump-s-new-press-secretary-says-china-lacked-proper-toilets",
+      "pub_raw": "2026-10-15T20:20:55.348Z",
+      "pub_sort_dt": "2026-10-16 04:20:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国在人民币问题上过于防御性",
+      "title_cn": "中国在人民币问题上过于防御性",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-15/china-is-too-defensive-over-the-yuan",
+      "pub_raw": "2026-10-15T18:14:04.731Z",
+      "pub_sort_dt": "2026-10-16 02:14:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "人工智能与类人机器人：中国挑战美国的领导地位",
+      "title_cn": "人工智能与类人机器人：中国挑战美国的领导地位",
+      "url": "https://www.bloomberg.com/news/features/2026-10-15/ia-y-robots-humanoides-china-desafia-el-liderazgo-de-ee-uu",
+      "pub_raw": "2026-10-15T17:57:54.589Z",
+      "pub_sort_dt": "2026-10-16 01:57:54"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "欧洲不能依靠贸易壁垒来对抗中国",
+      "title_cn": "欧洲不能依靠贸易壁垒来对抗中国",
+      "url": "https://www.ft.com/content/8890bf3f-f243-4bd0-8e2f-f80c78e363f8?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-15T17:09:39.420Z",
+      "pub_sort_dt": "2026-10-16 01:09:39"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟评估中国贸易中更多行业以确定配额",
+      "title_cn": "欧盟评估中国贸易中更多行业以确定配额",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-15/eu-assesses-more-sectors-in-china-trade-for-quotas",
+      "pub_raw": "2026-10-15T16:21:45.826Z",
+      "pub_sort_dt": "2026-10-16 00:21:45"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟开始评估对中国实施贸易配额的其他行业",
+      "title_cn": "欧盟开始评估对中国实施贸易配额的其他行业",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/eu-begins-assessing-additional-sectors-for-china-trade-quotas",
+      "pub_raw": "2026-10-15T14:45:54.270Z",
+      "pub_sort_dt": "2026-10-15 22:45:54"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国正向贫困国家提供更多资金",
+      "title_cn": "中国正向贫困国家提供更多资金",
+      "url": "https://www.economist.com/china/2026/10/15/china-is-channelling-much-more-money-to-poor-countries",
+      "pub_raw": "2026-10-15T13:41:58.622Z",
+      "pub_sort_dt": "2026-10-15 21:41:58"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国已占据了业余爱好者3D打印机市场",
+      "title_cn": "中国已占据了业余爱好者3D打印机市场",
+      "url": "https://www.economist.com/china/2026/10/15/china-has-captured-the-market-for-hobbyist-3d-printers",
+      "pub_raw": "2026-10-15T13:41:58.592Z",
+      "pub_sort_dt": "2026-10-15 21:41:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "对于中国汽车制造商而言，生存之路必须经过欧洲",
+      "title_cn": "对于中国汽车制造商而言，生存之路必须经过欧洲",
+      "url": "https://reut.rs/4s6m4KR",
+      "pub_raw": "2026-10-15T12:53:38.226Z",
+      "pub_sort_dt": "2026-10-15 20:53:38"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国字节跳动组建人工智能安全团队，启动全球招聘计划",
+      "title_cn": "中国字节跳动组建人工智能安全团队，启动全球招聘计划",
+      "url": "https://reut.rs/4B8gH1W",
+      "pub_raw": "2026-10-15T12:06:31.691Z",
+      "pub_sort_dt": "2026-10-15 20:06:31"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾因涉嫌选举投注而封禁Coinbase和Kalshi",
+      "title_cn": "台湾因涉嫌选举投注而封禁Coinbase和Kalshi",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/taiwan-blocks-coinbase-kalshi-over-suspected-election-bets",
+      "pub_raw": "2026-10-15T11:33:51.379Z",
+      "pub_sort_dt": "2026-10-15 19:33:51"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "ReNew首席执行官警告称，对中国的依赖将危及能源转型",
+      "title_cn": "ReNew首席执行官警告称，对中国的依赖将危及能源转型",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/renew-ceo-warns-china-reliance-puts-energy-transition-at-risk",
+      "pub_raw": "2026-10-15T10:13:55.309Z",
+      "pub_sort_dt": "2026-10-15 18:13:55"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国初创公司DexForce利用虚拟数据训练类人机器人，以大幅降低成本",
+      "title_cn": "中国初创公司DexForce利用虚拟数据训练类人机器人，以大幅降低成本",
+      "url": "https://reut.rs/4jRs6Nu",
+      "pub_raw": "2026-10-15T10:13:55.157Z",
+      "pub_sort_dt": "2026-10-15 18:13:55"
+    },
+    {
       "source": "Reuters",
       "title_en": "中国汽车制造商奇瑞将于2027年初在英国推出一款全新电动车型",
-      "title_cn": "中国汽车制造商奇瑞将于 2027 年年初在英国推出一款全新电动牙刷",
+      "title_cn": "中国汽车制造商奇瑞将于2027年初在英国推出一款全新电动车型",
       "url": "https://reut.rs/4s487gy",
       "pub_raw": "2026-10-15T09:09:51.062Z",
       "pub_sort_dt": "2026-10-15 17:09:51"
@@ -103,7 +239,7 @@
     {
       "source": "Bloomberg",
       "title_en": "欧盟计划扩大限制措施，或将引发与中国的更大规模贸易争端",
-      "title_cn": "欧盟计划扩大限制措施，或将引发与中国更大规模的贸易配额",
+      "title_cn": "欧盟计划扩大限制措施，或将引发与中国的更大规模贸易争端",
       "url": "https://www.bloomberg.com/news/articles/2026-10-14/china-and-eu-risk-new-trade-clash-over-what-comes-after-car-deal",
       "pub_raw": "2026-10-15T08:21:46.968Z",
       "pub_sort_dt": "2026-10-15 16:21:46"
@@ -111,233 +247,233 @@
     {
       "source": "Reuters",
       "title_en": "台湾总统呼吁美光公司与员工在可能发生的罢工前“真诚”协商",
-      "title_cn": "台湾总统呼吁美光公司与员工在可能发生的罢工前“护士”协商",
+      "title_cn": "台湾总统呼吁美光公司与员工在可能发生的罢工前“真诚”协商",
       "url": "https://reut.rs/3UuHapY",
       "pub_raw": "2026-10-15T08:21:46.922Z",
       "pub_sort_dt": "2026-10-15 16:21:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "英国的Temu路虎和中国车：好事可能过头了",
-      "title_cn": "英国的Temu路虎和中国车：好事可能过头了",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-15/britain-s-temu-range-rovers-and-chinese-cars-may-be-too-much-of-good-thing",
-      "pub_raw": "2026-10-15T06:13:50.158Z",
-      "pub_sort_dt": "2026-10-15 14:13:50"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国出口的这波热潮确实势头强劲——而且还“展翅高飞”",
-      "title_cn": "中国出口的这波热潮确实势头强劲——而且还是“展翅高飞”",
-      "url": "https://reut.rs/4hLNQJl",
-      "pub_raw": "2026-10-15T05:57:53.277Z",
-      "pub_sort_dt": "2026-10-15 13:57:53"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "贝森特敦促国际货币基金组织调整“扭曲性”政策，并暗示中国",
-      "title_cn": "基金贝森特敦促国际货币组织调整“扭曲性”政策，并暗示中国",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/bessent-pushes-imf-on-distortionary-policies-in-china-signal",
-      "pub_raw": "2026-10-15T04:07:38.582Z",
-      "pub_sort_dt": "2026-10-15 12:07:38"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "欧盟汽车制造商押注怀旧情怀以对抗中国电动汽车",
-      "title_cn": "欧盟汽车制造商押注怀旧情怀以对抗中国电动汽车",
-      "url": "https://www.ft.com/content/2174fa8e-5b5e-4b1c-9a92-7afc3b9a52c3?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-15T04:07:37.482Z",
-      "pub_sort_dt": "2026-10-15 12:07:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "全球各国财政部长齐聚香港，参加一场事关重大的会议",
-      "title_cn": "全球各方支持者长齐聚香港，参加一场关系重大的会议",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-15/global-finance-ministers-head-to-hong-kong-for-high-stakes-meeting",
-      "pub_raw": "2026-10-15T03:51:55.798Z",
-      "pub_sort_dt": "2026-10-15 11:51:55"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "因长期延误而推迟的中国—朝鲜大桥正式开通，卡车排成长龙",
-      "title_cn": "因长期而推迟的中国——朝鲜大桥正式开通，卡车排成长龙",
-      "url": "https://reut.rs/3TX44pG",
-      "pub_raw": "2026-10-15T03:03:46.702Z",
-      "pub_sort_dt": "2026-10-15 11:03:46"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国最高检察官逮捕涉嫌受贿的前成都市市长",
-      "title_cn": "中国逮捕最多涉嫌贿赂的前成都市市长",
-      "url": "https://reut.rs/4dGrpCZ",
-      "pub_raw": "2026-10-15T02:47:51.923Z",
-      "pub_sort_dt": "2026-10-15 10:47:51"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：消息人士称，SK海力士将美国新工厂的建设与美国向中国出口更多芯片设备挂钩",
-      "title_cn": "独家：消息人士称，SK海力士将美国新工厂的建设与美国向中国出口更多芯片设备挂钩",
-      "url": "https://reut.rs/4i05jfV",
-      "pub_raw": "2026-10-15T02:31:48.565Z",
-      "pub_sort_dt": "2026-10-15 10:31:48"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着中国市场利润下滑，大众汽车押注皮卡和SUV以打入美国市场",
-      "title_cn": "随着中国市场利润激增，大众汽车押注皮卡和SUV纷纷打入美国市场",
-      "url": "https://www.bloomberg.com/news/features/2026-10-14/volkswagen-bets-on-trucks-suvs-to-crack-us-market-as-china-profits-slide",
-      "pub_raw": "2026-10-14T21:11:37.080Z",
-      "pub_sort_dt": "2026-10-15 05:11:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "苹果准备于12月在中国首次推出首批AI功能",
-      "title_cn": "苹果于12月在中国首次推出人工智能功能",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december",
-      "pub_raw": "2026-10-14T20:10:00.112Z",
-      "pub_sort_dt": "2026-10-15 04:10:00"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国经济的又一预警信号：消费信贷下滑",
-      "title_cn": "中国经济的又一个预警信号：消费信贷增长",
-      "url": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
-      "pub_raw": "2026-10-14T18:35:00.628Z",
-      "pub_sort_dt": "2026-10-15 02:35:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "意大利部长称，意大利没有可供中国收购的汽车工厂",
-      "title_cn": "意大利部长表示，意大利没有提供中国收购的汽车工厂",
-      "url": "https://reut.rs/4dHtAGm",
-      "pub_raw": "2026-10-14T18:19:02.696Z",
-      "pub_sort_dt": "2026-10-15 02:19:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国中期选举前，俄罗斯、伊朗和中国利用人工智能散布虚假信息",
-      "title_cn": "美国选举前，俄罗斯、伊朗和中国利用人工智能散布外汇信息",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/russia-iran-china-use-ai-to-boost-disinformation-before-us-midterms",
-      "pub_raw": "2026-10-14T15:23:54.489Z",
-      "pub_sort_dt": "2026-10-14 23:23:54"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国发现的翼展偏小的鸟类化石颠覆了鸟类进化理论",
-      "title_cn": "中国发现的翼展偏小型鸟类物种进化了鸟类进化理论",
-      "url": "https://reut.rs/4jWBoHW",
-      "pub_raw": "2026-10-14T15:23:54.045Z",
-      "pub_sort_dt": "2026-10-14 23:23:54"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "阿根廷计划动用与中国达成的货币互换安排，以满足2027年的融资需求",
-      "title_cn": "阿根廷计划动用与中国完成的货币互换安排，相当于2027年的融资需求",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/argentina-eyes-tapping-china-swap-to-cover-2027-financing-needs",
-      "pub_raw": "2026-10-14T14:51:37.762Z",
-      "pub_sort_dt": "2026-10-14 22:51:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "《Next Africa》：工厂在与中国进口商品的竞争中节节败退",
-      "title_cn": "《下一个非洲》：工厂在与中国进口商品的竞争中节节败退",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-14/next-africa-a-losing-factory-contest-against-chinese-imports",
-      "pub_raw": "2026-10-14T13:16:55.808Z",
-      "pub_sort_dt": "2026-10-14 21:16:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "OpenAI首席财务官称，使用中国AI模型的企业正在冒安全风险",
-      "title_cn": "OpenAI首席财务官表示，使用中国AI模型的企业正在冒安全风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety",
-      "pub_raw": "2026-10-14T13:16:55.801Z",
-      "pub_sort_dt": "2026-10-14 21:16:55"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "受刺激措施推动，中国第三季度经济增长有望回升，2026年目标仍可望实现 - Reuters",
-      "title_cn": "受刺激措施推动，中国三季度经济增长有望回升，2026年目标仍可望实现 - 路透中文网",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxPUnFSUnFOaFNjbUE4U09LUG9xb1lsbjU5TXdIajM1YW9SQzJnUzRoREFOanJUU3JaMUxCS1lVWU5LS2FzbGNXVTBGWnk4bTdUbWdIZjdOa2Q0ekdtQlVTWUNBcEJqZ1pMVUdzTE9nZHV3SXhac0tkaG1EY1U5bnhtdUpzd1ljUUNNQWJJMURlUWtzcXFjblp4RmZkcGhmYTljUTdLWFp0V0J5UmZzTHBoeTlhemttUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T09:29:44.000Z",
-      "pub_sort_dt": "2026-10-15 17:29:44"
+      "title_en": "中国将继续为巴勒斯坦人发声，支持“两国方案”——外交部长 - The Times of Israel",
+      "title_cn": "中国将继续为巴勒斯坦人发声，支持“两国方案”——外交部长 - The Times of Israel",
+      "url": "https://news.google.com/read/CBMixgFBVV95cUxQTTRmc3ZvbHNfT1h4MmFUS0NQLUdCUmFpaWtyWlVLNXN3YTR1dU5kZzFCSXRrTmlOMVRGc2JJVzBDV1hOZm1NVGxXOVpRREZQdnVQb0pWX0dzVS1oUW5WcUNjcmpSc2lMYlRZYU1Cc0VHakZpcnI4c2lIZ3p6d0xTNk1ud05fV3hnNjJrWUcwUTh6VUs0MjJMNGZiYWUyeE4wMnVBNkhEZ053ZHhIRjhKVDZnVUd5bzVpeGszS2RoUVdka1ZGVWc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T19:09:18.000Z",
+      "pub_sort_dt": "2026-10-16 03:09:18"
     },
     {
       "source": "China Buzzing",
-      "title_en": "西方需要一种“生物和平” - Foreign Policy",
-      "title_cn": "西方需要“生物和平” - 外交政策",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxOdG1jOUlhSTZmV2d3cTVDMldSclhCenJ1MGJoTURaZy13ajQtM19QZkotN1pESC1HRjFJTldUNE5KeGpTM1M5aFJHOEdpSnYzLUh6ZC1ZZzR4S19zOWZPZkNzdHZ5aUNVQ2ZPSk0zem5CVlVzRUtGUW1fZWVMUVZQQXpNVll5eE90eWk0dVZXc3VIUzVXRUp4VA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T09:03:47.000Z",
-      "pub_sort_dt": "2026-10-15 17:03:47"
+      "title_en": "“这是我们的选择，不是你们的”：帕劳总统直面中国对台湾问题的威胁 - Politico",
+      "title_cn": "“这是我们的选择，不是你们的”：帕劳总统直面中国对台湾问题的威胁 - Politico",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxQZzNma0ViZUJYZXIxNDRwZ3otTTJKWXJhYUo4UWtRRXNobk5rZnZsYXFLS0JKTlRxcmg2cTNsYWlVaThGVFRRaHhxZm5NcXdrVXE0bjRsLVZCMXNya3FIc0NBbGhtakNLQzFkYkxUWnJnZ0tjQ215TFVJUUxNLW9mUGFacmRJV09ZdHJjTUtyaVJzSXdfT0ZXYzA2aEVLbW5IYnI1LXMySHEwZG1qdWRRVERRUGZvaHlVZ1pEcWt2aUdadw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T18:00:00.000Z",
+      "pub_sort_dt": "2026-10-16 02:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国表示，无论美中贸易协议是否到期，稀土出口都将持续流向欧盟 - CNBC",
-      "title_cn": "中国表示，无论美中贸易协议是否存在，稀土出口都将持续流向欧盟 - CNBC",
-      "url": "https://news.google.com/read/CBMid0FVX3lxTE85Q0ZrM1c2YkJjdFdFVW1iNXVwd1VGbTFxSlhhQTB6MTRhRVRNeHM0Q1hCUENfdjFQWEdhcUV2dkV1YXhNNmJ5bHMzdXJOSFVPaWJuUUJJYnNYRVM0OU9YMUNSb0VVd3ZNM2Q2cWJfUHY4X2M5RUxR0gF8QVVfeXFMTUVLVjhUYWxoQlpfeXVydVV6aHh1dkZPVkxubTRMNmJMWUNocXZocmVFZElHMVZDcmRXM1JGZjBTMjMydnBRdF9YVmlZMVZxTVRYdzVHS2VhcWd3TXlEYXZ6empTaTJHM3d5OFRIZlpFQkxJYUN6MXZMY1hYdg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T09:02:31.000Z",
-      "pub_sort_dt": "2026-10-15 17:02:31"
+      "title_en": "中国清洁技术如何重塑乌克兰战时的能源安全 - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "title_cn": "中国清洁技术如何重塑乌克兰战时的能源安全 - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxNNDRPTUFGN2tsZl8yV1dTd21peHZIRHNGYjcwVWpjWGk4TjJJelQzR2xkYU9XUGllQnlDNVBVcEhTM3QzbS1XZ0lSQmlZd0dvTEwxNTk0SVhyWS02RnZUNEJXbjVsWG9CVklLWUxVUXFoMmJvekRIbFZXcXRmR2dkT1lXSE1xZjAtSTNveXVKR0JFcWI2VHBfNVY0RFZGbGcyaGJr?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T14:48:40.000Z",
+      "pub_sort_dt": "2026-10-15 22:48:40"
     },
     {
       "source": "China Buzzing",
-      "title_en": "2026年，中国经济表现如何？ - CGTN",
-      "title_cn": "2026年，中国经济表现如何？ - CGTN",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxPT0hYREdoVFBXXy1ZME84VXBJMTU4Um1rVnNXV2dLMDBWMkppOFMxZlJGX3JOZXg4bncyVjAwS3ktSmRlRDBFTG9CZk9pNWxjQlp3djBwLTZWazA3aWtiQmp5eEtXOEFkaTdrVW9kQUxac05jWkNfb29NWms4OGw2d1FkOXRfOHZYUEhvQ05rb1VkME4yVnRMSkF4Mk5zTWNi?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T06:40:09.000Z",
-      "pub_sort_dt": "2026-10-15 14:40:09"
+      "title_en": "若英国在针对中国的关税问题上保持一致，法国和德国将允许其加入欧盟的汽车政策 - Financial Times",
+      "title_cn": "若英国在针对中国的关税问题上保持一致，法国和德国将允许其加入欧盟的汽车政策 - Financial Times",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPM3FCN0doMkY2S3lmdm1WWWI5aUZ4emIyZzBCYTlsdW54VkVjQWozNWtJQmdRWkYxd1EyM2lweFU5clZaamdDZURaQjk5YUZiamFSMXVJNTI3aGN4a3RPRGItdDRIdDlqa3Y2TTlkRUhabUEtYl9Vam1IeDFCN1gwM2pPYlY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T14:10:35.000Z",
+      "pub_sort_dt": "2026-10-15 22:10:35"
     },
     {
       "source": "China Buzzing",
-      "title_en": "欧盟领导人就能源、中国和预算问题展开关键谈判 - Euronews.com",
-      "title_cn": "欧盟领导人就能源、中国和预算问题展开关键谈判 - Euronews.com",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxNcGZCUDBLRl9MbkZHbnVqUDB3NEgxYzlKMU45ZUgtMlVYaFpOZGJXQXpyQlQ1VmN6QUJROHVKYjE2UGZEeVpXVXpMNl90N0NtSnlsWmxZeFVUbXd5X0hCSnpOdkFnYkItRUdkV1VZS2RfRENzUkNyNllCLVpQR2ZyY1RPd0RLU1hIZEFfQzYyTURxLWhfXzlKdjM3S0Y?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T06:34:45.000Z",
-      "pub_sort_dt": "2026-10-15 14:34:45"
+      "title_en": "一位科学家从美国归国后表示，中国是全球胚胎研究领域的灯塔 - South China Morning Post",
+      "title_cn": "一位科学家从美国归国后表示，中国是全球胚胎研究领域的灯塔 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNZ1BDX1lsdTlvUzhmb0xZbGhWVmo3c0F2ZUpxNTdrVjh6aDF1UmZpR1c5QWpraGxmQWJ0VGI4a3ZlUlFOUkRrY1BHWjV0ajM1VjFJc3hNVkx2Ym1QNmVBZVoxbXAzc0kxQXJmMzZVUzd4ZEdvczEzQ0U4ZVM1ejRwSUFwaHctX3I2OUFsS2dqbzdHMzIycTZRYWw3bmF4ZWY2MnFRZkxUaFFyTUtuOW9hOENFR2dneWZtdHVLR2xEbHNia0HSAcMBQVVfeXFMT2Vab2lCN2hLbVN6SXpwTGJ2ckNRYnY3WHZHXzhLajhjTGE4SUZTSFVpODlhSS1pSlVPVEozQmI1Nko2VFRWQWwzQl8xUERNV29QZmI4MEpmZkl6ZXphdEpRZkhTNDVVREdKMnpvQkpwTl9jREdOY2kzNjhueV90Z0ZTY0tiMnRCQUZuNWZwd09zbG9ITGVWYzZ4UVpnZEtfVHBWaXgyekY5QlF5eEtaMGtGUl9lQXE2X1hjY0ItckgzcjNB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T14:00:13.000Z",
+      "pub_sort_dt": "2026-10-15 22:00:13"
     },
     {
       "source": "China Buzzing",
-      "title_en": "朝鲜与中国的全新桥梁终于开通。但这能否帮助平壤规避制裁？ - CNN",
-      "title_cn": "朝鲜与中国的全新大桥终于开通。但能否帮助平壤挽回？ - CNN",
-      "url": "https://news.google.com/read/CBMieEFVX3lxTE5qOGtXTWhIVVFwRWJuaUxnSno1clBQZ2h2ZkJVYnFVMDdtU0dfa1RnOWNLM0lXbUlFamZwSzRNWnNUZnI5Q0tsTkx2WUZJQ0t4NGkxanR5V3Znd3h4Ynd6TW9kQVZsbG01OVlXaXBleFBzeTNPOXc3OA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T06:05:28.000Z",
-      "pub_sort_dt": "2026-10-15 14:05:28"
+      "title_en": "对中国间谍活动针对美军的担忧促使共和党鹰派要求对这家航运巨头采取报复措施 - Fox News",
+      "title_cn": "对中国间谍活动针对美军的担忧促使共和党鹰派要求对这家航运巨头采取报复措施 - Fox News",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQRjVXbWJTNlFrUTNFaUFCeXZYTHI2cWVDaC0zVW9Bc213RmVKc09JWjJoVTQ0WW45NDZxb3RSYVFrNWNlb3lzZXVWSG9scnBYWEZWYmV3bmtlaGVncmRBUnd0ZlkzQ0RtVzl0d1ZTM0Qta1c4QTBrNW4yQmJhOWpITmxHU1FWU0NPdXVwQmhhZlpNSUs1dkR6VkNMYW4zT0thWkwtTUg5S19LOHlsSzNWRUY2TlHSAboBQVVfeXFMT2VOV3A3WFBEREtNZ0Rvd0xNWXFMd0N6ZXlmOElKOWw0d0puNnJXV29qcVgwTUI0SENMeVlDZE4wNERZQ2tsZ2NfVzlDcF84VVBJaHoyZXUxMFlxTlZkaFhZdDlJbzYyVzN5Q1loNVU3X2xTeHEwNUg3WXRmejJkYXZ4Q1F6ZFl5RXlBUUJfMlVOM1dvaFRQRE1xVWMwejZXQ1duaXR1UHZCNGRZRjgxcGgydTA0d2JiVTRR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T13:48:11.000Z",
+      "pub_sort_dt": "2026-10-15 21:48:11"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在中国芯片制造加速推进之际，一家初创公司揭开了EUV光刻技术“核心”原型的面纱 - South China Morning Post",
-      "title_cn": "在中国芯片制造加速推进之际，一家四分之一公司揭开EUV光刻技术“核心”原型的纱面 - 南华早报",
-      "url": "https://news.google.com/read/CBMiwAFBVV95cUxOU0NmelhYazZYZ1JiNjVIVjRfeXlNMHpWZFZIOTZXOGJVZ3kwZGJFMWs4ZHhHVTVOVkR4WGZINGFMVHMyNV9TRklFQjBqQVVHZUNMaE9jX2ladjFubGNTTGc3WG15UDBpZGV4ek9LYzJNVGJEYnBiNmdiU1N5QUc2WV9aNUZySkM1dkZWWVZsRE5KU0JBWFJobnZ1VU04ZnczWHNoRGNGWDFhWmc1TVVaTHZ2TDdUY0QxdE5BeVNhZl_SAcABQVVfeXFMTUNZSkdVZ1FpZ18zSEdiMzdjdk41Z29URjZUbzB1NVlPVW9CczR2VnY2ZkgtTlMwUXRRbnlZcm1LcHpidE9MX201MnV0amlMY3Nid3RCT2s3UDh0TEoxc2pOLU16Q3J5UnVkSFpIUm1mZVd2cWl1OHlpN0ZVWjhqUmJuaVBLbmphQm5PLTFELUlOWnJiNzhVbTNicVFUSjd1YmZOVWMyV3lRMm9sNDhTSTZRN2ZjTlAyVjRTZnE5SU1a?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T06:01:54.000Z",
-      "pub_sort_dt": "2026-10-15 14:01:54"
+      "title_en": "中国已占据了业余爱好者3D打印机市场 - The Economist",
+      "title_cn": "中国已占据了业余爱好者3D打印机市场 - The Economist",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxQVTlNazBIS2FKMnBrczItZXAzVmJrT0tFWmU5UU40NzdJUWxqUVZLR0xnc3Rxb0d4NGs5TE1PeUg3MTBOQ0ZhUGVBYkFxZ0hGU1RnZGlXTy1EdTZtYmFIUFlibnZIMHpFcVVoaWt5LWFseDZWUXNLamJEM3ZDbXlYcnBBUUNFMEpXdWd5VmdsZ092endqMnNidjJ4dEI5dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T12:50:21.000Z",
+      "pub_sort_dt": "2026-10-15 20:50:21"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国迈向6G的道路 - Light Reading",
-      "title_cn": "中国迈向6G的道路——轻读",
-      "url": "https://news.google.com/read/CBMiX0FVX3lxTFBkNGh0MkxydEZEZUZDdWs0c3ZnS2pyelZ6R0E0SWJ6QURobG5kbmxYcmFPLTdEWFM4NnZNUGF4d3o0dXJ4ZmU5dHEyYnYtLS1saVk4MDYwUkVJTzlQMnFV?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T05:01:12.000Z",
-      "pub_sort_dt": "2026-10-15 13:01:12"
+      "title_en": "中国长城上的游客和一座遭破坏的银行：今日照片——周四 - The Guardian",
+      "title_cn": "中国长城上的游客和一座遭破坏的银行：今日照片——周四 - The Guardian",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxOZ3FtOVhjTnljX1JtaGhaMjVmTWlmeUI5TkJ1Y21BMnBiZEdJMnFUMEc5SXRYdm1idkVTVjNhWWkzNTJZeFdMU2lXQkZwN2s3ZS0xcDhXS1EzQmZLd2FIV29nbjE0cF93RHdBbW9kZzVjaWRNNW14ZVhPX21DWXJmdXpLMGs4YnJCQ0YtWU9ZLS1LM3dpa3laTjQ2QzdvdFp6MXcwSEx0RFA5UGVSNUhoWV9wVkw5ZWZaWnRKQU90Z1BXZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T12:04:00.000Z",
+      "pub_sort_dt": "2026-10-15 20:04:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国出口的这股热潮确实势头强劲——而且还“展翅高飞” - Reuters",
-      "title_cn": "中国出口的这股热潮确实势头强劲——而且还是“展翅高飞” - 路透中文网",
-      "url": "https://news.google.com/read/CBMimgFBVV95cUxNVlowanVKaFdPYlZrOXM4Nk1Fc01KSzRMdWpzd0czb3pqT0kzYVkxbUNGeVZTRVprck16MEY0SHdKODRjMFRrQjJjMzFfRFY0ZjVGWFdhbUsxT0lKYW5nR0NqVGJOX3g2VDZMbUh6d3d1bGt5cUtPV0hrUl9yTDVZbjRENDRGSnRTMmdJdjJqUHRzYVpkRXMzTnJn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T05:00:00.000Z",
-      "pub_sort_dt": "2026-10-15 13:00:00"
+      "title_en": "中国字节跳动组建人工智能安全团队，启动全球招聘计划 - Reuters",
+      "title_cn": "中国字节跳动组建人工智能安全团队，启动全球招聘计划 - Reuters",
+      "url": "https://news.google.com/read/CBMixgFBVV95cUxNUUh6d0NyZGxfYjd4bDhwRWdkT0wxOG4xUUlrQkZFZ0JMTlNJMzVUVWRHNDhyYWR2Vzh0RGRsUk9YdDhHeE92NlBPTWlnU1htMHotSVhfRGoydXVjM21UcEV6Z3dsSGtSSGhOcExMaFBud3ZVcGJDU1NNUXFUcFBCdDNwZUFfWVY4QnJjNEhaWHQ2Z01PUUt4enJJVWRxWjA5aTNVUncwSW1XcFB5c2VzYXBmR3RNZVZxNHpzd1c1bHhUSzZIa1E?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T10:52:58.000Z",
+      "pub_sort_dt": "2026-10-15 18:52:58"
     },
     {
       "source": "China Buzzing",
-      "title_en": "受混合动力汽车协议鼓舞，欧洲各国在对华采取更强硬立场的问题上达成共识 - South China Morning Post",
-      "title_cn": "受动力汽车协议的影响，欧洲各国在对华采取更强硬立场的问题上达成共识 - 南华早报",
-      "url": "https://news.google.com/read/CBMiyAFBVV95cUxNUTJ6WUxHNTFuYmhZX0ZISGExX0M0WnRTd0VOZjR5SXZrR1gwWHRQTVhvUFFSeVptWFhRLV9vOERLSnp4WThsR0Rjd254aFVialp0eHh1am1CREZ4bGpSQUN6cFFXN0x5LXNhZkJ3MVJTVmdtaFlxdEUzQnI5ckxpaEVTS2JoNGVwZ0dfU2VCQmlwOUxVN1RHYlRfQTNDRF9LUDdtQ3kwNFRFMkJYUklIYk81VE1zYVp3b1Fja3pHVGtGdUQ2cG5ZYtIByAFBVV95cUxNeHlyS1NsVkwza0ZDeWZLTVZrdzgxd1FibzZYUkhZcVlhR3JyYTFHQ1lWMnlqaW9RemtYcVkwUFFXSkhSMkxfRlAxd1dIZ0RjYmVuVXVFejZ1TVJESFdqQ3RYY3JBLW9VN1ZvdzVIX25pRWhQaGYwdmxUVHN4MXNVTGQySHFTaURxWlltcWJJaE8zeTQ3VDBlNlgyektabXNqemdkNGpRUHJYMUtVcTRZMGVPX1dYNmNfeGRNZ0xUM1JWd1R5cmxYVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-15T04:46:28.000Z",
-      "pub_sort_dt": "2026-10-15 12:46:28"
+      "title_en": "中朝新桥历经十余年延误后终于通车 - AP News",
+      "title_cn": "中朝新桥历经十余年延误后终于通车 - AP News",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxQdUtlWHBELVJzd1Y5WEhSNmVzZXJvR1FPdV9RNzN3cXMtdnNXVGJUVDY4eUZWdFRNejJqeTlSNjFmQzRQOV8xYzRpSEhiOFRvaVhtR2U3elFndUVBUVJZMFVLOGJTZmF6d19ESWxoYVlGY3hHYzJJclFfMUdFZ1J0NXQ4XzByOFNOM1YwR3Bhd3V0Ykg3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-15T10:41:00.000Z",
+      "pub_sort_dt": "2026-10-15 18:41:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "据称欧盟正计划利用更广泛的贸易工具针对中国",
+      "title_cn": "据称欧盟正计划利用更广泛的贸易工具针对中国",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-15/eu-is-said-to-target-china-with-broader-trade-tool",
+      "pub_raw": "2026-10-15T21:40:02.660Z",
+      "pub_sort_dt": "2026-10-16 05:40:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "加拿大持有的美国国债和债券规模不断扩大，背后可能有中国在推动",
+      "title_cn": "加拿大持有的美国国债和债券规模不断扩大，背后可能有中国在推动",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-15/china-may-be-behind-canada-s-growing-us-treasury-bond-holdings",
+      "pub_raw": "2026-10-15T21:40:02.657Z",
+      "pub_sort_dt": "2026-10-16 05:40:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国车企不必成为欧洲的宝马",
+      "title_cn": "中国车企不必成为欧洲的宝马",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-15/chinese-carmakers-don-t-need-to-be-the-bmws-of-europe",
+      "pub_raw": "2026-10-15T21:23:36.721Z",
+      "pub_sort_dt": "2026-10-16 05:23:36"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟通过赋予阻止中国进口的权力，加强了贸易手段",
+      "title_cn": "欧盟通过赋予阻止中国进口的权力，加强了贸易手段",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/eu-prepares-trade-tool-that-could-block-china-from-single-market",
+      "pub_raw": "2026-10-15T20:37:00.409Z",
+      "pub_sort_dt": "2026-10-16 04:37:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普的新任新闻秘书称中国缺乏“像样的厕所”",
+      "title_cn": "特朗普的新任新闻秘书称中国缺乏“像样的厕所”",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/trump-s-new-press-secretary-says-china-lacked-proper-toilets",
+      "pub_raw": "2026-10-15T20:20:55.348Z",
+      "pub_sort_dt": "2026-10-16 04:20:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国在人民币问题上过于防御性",
+      "title_cn": "中国在人民币问题上过于防御性",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-15/china-is-too-defensive-over-the-yuan",
+      "pub_raw": "2026-10-15T18:14:04.731Z",
+      "pub_sort_dt": "2026-10-16 02:14:04"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "人工智能与类人机器人：中国挑战美国的领导地位",
+      "title_cn": "人工智能与类人机器人：中国挑战美国的领导地位",
+      "url": "https://www.bloomberg.com/news/features/2026-10-15/ia-y-robots-humanoides-china-desafia-el-liderazgo-de-ee-uu",
+      "pub_raw": "2026-10-15T17:57:54.589Z",
+      "pub_sort_dt": "2026-10-16 01:57:54"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "欧洲不能依靠贸易壁垒来对抗中国",
+      "title_cn": "欧洲不能依靠贸易壁垒来对抗中国",
+      "url": "https://www.ft.com/content/8890bf3f-f243-4bd0-8e2f-f80c78e363f8?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-15T17:09:39.420Z",
+      "pub_sort_dt": "2026-10-16 01:09:39"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟评估中国贸易中更多行业以确定配额",
+      "title_cn": "欧盟评估中国贸易中更多行业以确定配额",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-15/eu-assesses-more-sectors-in-china-trade-for-quotas",
+      "pub_raw": "2026-10-15T16:21:45.826Z",
+      "pub_sort_dt": "2026-10-16 00:21:45"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "欧盟开始评估对中国实施贸易配额的其他行业",
+      "title_cn": "欧盟开始评估对中国实施贸易配额的其他行业",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/eu-begins-assessing-additional-sectors-for-china-trade-quotas",
+      "pub_raw": "2026-10-15T14:45:54.270Z",
+      "pub_sort_dt": "2026-10-15 22:45:54"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国正向贫困国家提供更多资金",
+      "title_cn": "中国正向贫困国家提供更多资金",
+      "url": "https://www.economist.com/china/2026/10/15/china-is-channelling-much-more-money-to-poor-countries",
+      "pub_raw": "2026-10-15T13:41:58.622Z",
+      "pub_sort_dt": "2026-10-15 21:41:58"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国已占据了业余爱好者3D打印机市场",
+      "title_cn": "中国已占据了业余爱好者3D打印机市场",
+      "url": "https://www.economist.com/china/2026/10/15/china-has-captured-the-market-for-hobbyist-3d-printers",
+      "pub_raw": "2026-10-15T13:41:58.592Z",
+      "pub_sort_dt": "2026-10-15 21:41:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "对于中国汽车制造商而言，生存之路必须经过欧洲",
+      "title_cn": "对于中国汽车制造商而言，生存之路必须经过欧洲",
+      "url": "https://reut.rs/4s6m4KR",
+      "pub_raw": "2026-10-15T12:53:38.226Z",
+      "pub_sort_dt": "2026-10-15 20:53:38"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国字节跳动组建人工智能安全团队，启动全球招聘计划",
+      "title_cn": "中国字节跳动组建人工智能安全团队，启动全球招聘计划",
+      "url": "https://reut.rs/4B8gH1W",
+      "pub_raw": "2026-10-15T12:06:31.691Z",
+      "pub_sort_dt": "2026-10-15 20:06:31"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾因涉嫌选举投注而封禁Coinbase和Kalshi",
+      "title_cn": "台湾因涉嫌选举投注而封禁Coinbase和Kalshi",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/taiwan-blocks-coinbase-kalshi-over-suspected-election-bets",
+      "pub_raw": "2026-10-15T11:33:51.379Z",
+      "pub_sort_dt": "2026-10-15 19:33:51"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "ReNew首席执行官警告称，对中国的依赖将危及能源转型",
+      "title_cn": "ReNew首席执行官警告称，对中国的依赖将危及能源转型",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/renew-ceo-warns-china-reliance-puts-energy-transition-at-risk",
+      "pub_raw": "2026-10-15T10:13:55.309Z",
+      "pub_sort_dt": "2026-10-15 18:13:55"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国初创公司DexForce利用虚拟数据训练类人机器人，以大幅降低成本",
+      "title_cn": "中国初创公司DexForce利用虚拟数据训练类人机器人，以大幅降低成本",
+      "url": "https://reut.rs/4jRs6Nu",
+      "pub_raw": "2026-10-15T10:13:55.157Z",
+      "pub_sort_dt": "2026-10-15 18:13:55"
     },
     {
       "source": "Reuters",
       "title_en": "中国汽车制造商奇瑞将于2027年初在英国推出一款全新电动车型",
-      "title_cn": "中国汽车制造商奇瑞将于 2027 年年初在英国推出一款全新电动牙刷",
+      "title_cn": "中国汽车制造商奇瑞将于2027年初在英国推出一款全新电动车型",
       "url": "https://reut.rs/4s487gy",
       "pub_raw": "2026-10-15T09:09:51.062Z",
       "pub_sort_dt": "2026-10-15 17:09:51"
@@ -345,7 +481,7 @@
     {
       "source": "Bloomberg",
       "title_en": "欧盟计划扩大限制措施，或将引发与中国的更大规模贸易争端",
-      "title_cn": "欧盟计划扩大限制措施，或将引发与中国更大规模的贸易配额",
+      "title_cn": "欧盟计划扩大限制措施，或将引发与中国的更大规模贸易争端",
       "url": "https://www.bloomberg.com/news/articles/2026-10-14/china-and-eu-risk-new-trade-clash-over-what-comes-after-car-deal",
       "pub_raw": "2026-10-15T08:21:46.968Z",
       "pub_sort_dt": "2026-10-15 16:21:46"
@@ -353,146 +489,10 @@
     {
       "source": "Reuters",
       "title_en": "台湾总统呼吁美光公司与员工在可能发生的罢工前“真诚”协商",
-      "title_cn": "台湾总统呼吁美光公司与员工在可能发生的罢工前“护士”协商",
+      "title_cn": "台湾总统呼吁美光公司与员工在可能发生的罢工前“真诚”协商",
       "url": "https://reut.rs/3UuHapY",
       "pub_raw": "2026-10-15T08:21:46.922Z",
       "pub_sort_dt": "2026-10-15 16:21:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "英国的Temu路虎和中国车：好事可能过头了",
-      "title_cn": "英国的Temu路虎和中国车：好事可能过头了",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-15/britain-s-temu-range-rovers-and-chinese-cars-may-be-too-much-of-good-thing",
-      "pub_raw": "2026-10-15T06:13:50.158Z",
-      "pub_sort_dt": "2026-10-15 14:13:50"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国出口的这波热潮确实势头强劲——而且还“展翅高飞”",
-      "title_cn": "中国出口的这波热潮确实势头强劲——而且还是“展翅高飞”",
-      "url": "https://reut.rs/4hLNQJl",
-      "pub_raw": "2026-10-15T05:57:53.277Z",
-      "pub_sort_dt": "2026-10-15 13:57:53"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "贝森特敦促国际货币基金组织调整“扭曲性”政策，并暗示中国",
-      "title_cn": "基金贝森特敦促国际货币组织调整“扭曲性”政策，并暗示中国",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/bessent-pushes-imf-on-distortionary-policies-in-china-signal",
-      "pub_raw": "2026-10-15T04:07:38.582Z",
-      "pub_sort_dt": "2026-10-15 12:07:38"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "欧盟汽车制造商押注怀旧情怀以对抗中国电动汽车",
-      "title_cn": "欧盟汽车制造商押注怀旧情怀以对抗中国电动汽车",
-      "url": "https://www.ft.com/content/2174fa8e-5b5e-4b1c-9a92-7afc3b9a52c3?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-15T04:07:37.482Z",
-      "pub_sort_dt": "2026-10-15 12:07:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "全球各国财政部长齐聚香港，参加一场事关重大的会议",
-      "title_cn": "全球各方支持者长齐聚香港，参加一场关系重大的会议",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-15/global-finance-ministers-head-to-hong-kong-for-high-stakes-meeting",
-      "pub_raw": "2026-10-15T03:51:55.798Z",
-      "pub_sort_dt": "2026-10-15 11:51:55"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "因长期延误而推迟的中国—朝鲜大桥正式开通，卡车排成长龙",
-      "title_cn": "因长期而推迟的中国——朝鲜大桥正式开通，卡车排成长龙",
-      "url": "https://reut.rs/3TX44pG",
-      "pub_raw": "2026-10-15T03:03:46.702Z",
-      "pub_sort_dt": "2026-10-15 11:03:46"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国最高检察官逮捕涉嫌受贿的前成都市市长",
-      "title_cn": "中国逮捕最多涉嫌贿赂的前成都市市长",
-      "url": "https://reut.rs/4dGrpCZ",
-      "pub_raw": "2026-10-15T02:47:51.923Z",
-      "pub_sort_dt": "2026-10-15 10:47:51"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：消息人士称，SK海力士将美国新工厂的建设与美国向中国出口更多芯片设备挂钩",
-      "title_cn": "独家：消息人士称，SK海力士将美国新工厂的建设与美国向中国出口更多芯片设备挂钩",
-      "url": "https://reut.rs/4i05jfV",
-      "pub_raw": "2026-10-15T02:31:48.565Z",
-      "pub_sort_dt": "2026-10-15 10:31:48"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着中国市场利润下滑，大众汽车押注皮卡和SUV以打入美国市场",
-      "title_cn": "随着中国市场利润激增，大众汽车押注皮卡和SUV纷纷打入美国市场",
-      "url": "https://www.bloomberg.com/news/features/2026-10-14/volkswagen-bets-on-trucks-suvs-to-crack-us-market-as-china-profits-slide",
-      "pub_raw": "2026-10-14T21:11:37.080Z",
-      "pub_sort_dt": "2026-10-15 05:11:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "苹果准备于12月在中国首次推出首批AI功能",
-      "title_cn": "苹果于12月在中国首次推出人工智能功能",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december",
-      "pub_raw": "2026-10-14T20:10:00.112Z",
-      "pub_sort_dt": "2026-10-15 04:10:00"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国经济的又一预警信号：消费信贷下滑",
-      "title_cn": "中国经济的又一个预警信号：消费信贷增长",
-      "url": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
-      "pub_raw": "2026-10-14T18:35:00.628Z",
-      "pub_sort_dt": "2026-10-15 02:35:00"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "意大利部长称，意大利没有可供中国收购的汽车工厂",
-      "title_cn": "意大利部长表示，意大利没有提供中国收购的汽车工厂",
-      "url": "https://reut.rs/4dHtAGm",
-      "pub_raw": "2026-10-14T18:19:02.696Z",
-      "pub_sort_dt": "2026-10-15 02:19:02"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国中期选举前，俄罗斯、伊朗和中国利用人工智能散布虚假信息",
-      "title_cn": "美国选举前，俄罗斯、伊朗和中国利用人工智能散布外汇信息",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/russia-iran-china-use-ai-to-boost-disinformation-before-us-midterms",
-      "pub_raw": "2026-10-14T15:23:54.489Z",
-      "pub_sort_dt": "2026-10-14 23:23:54"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国发现的翼展偏小的鸟类化石颠覆了鸟类进化理论",
-      "title_cn": "中国发现的翼展偏小型鸟类物种进化了鸟类进化理论",
-      "url": "https://reut.rs/4jWBoHW",
-      "pub_raw": "2026-10-14T15:23:54.045Z",
-      "pub_sort_dt": "2026-10-14 23:23:54"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "阿根廷计划动用与中国达成的货币互换安排，以满足2027年的融资需求",
-      "title_cn": "阿根廷计划动用与中国完成的货币互换安排，相当于2027年的融资需求",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/argentina-eyes-tapping-china-swap-to-cover-2027-financing-needs",
-      "pub_raw": "2026-10-14T14:51:37.762Z",
-      "pub_sort_dt": "2026-10-14 22:51:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "《Next Africa》：工厂在与中国进口商品的竞争中节节败退",
-      "title_cn": "《下一个非洲》：工厂在与中国进口商品的竞争中节节败退",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-14/next-africa-a-losing-factory-contest-against-chinese-imports",
-      "pub_raw": "2026-10-14T13:16:55.808Z",
-      "pub_sort_dt": "2026-10-14 21:16:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "OpenAI首席财务官称，使用中国AI模型的企业正在冒安全风险",
-      "title_cn": "OpenAI首席财务官表示，使用中国AI模型的企业正在冒安全风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety",
-      "pub_raw": "2026-10-14T13:16:55.801Z",
-      "pub_sort_dt": "2026-10-14 21:16:55"
     }
   ]
 }
