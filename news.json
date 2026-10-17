@@ -1,15 +1,71 @@
 {
-  "update_cst": "2026-10-17 06:01:11 北京时间",
+  "update_cst": "2026-10-17 18:01:02 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
     "Bloomberg": 13,
-    "Financial Times": 1,
+    "Financial Times": 2,
     "Wall Street Journal": 0,
-    "Reuters": 6
+    "Reuters": 5
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "随着债务担忧加剧，中国8月份持有的美国国债规模降至18年来的最低水平 - South China Morning Post",
+      "title_cn": "随着债务担忧加剧，中国8月份持有的美国国债规模降至18年来的最低水平 - 南华早报",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxQcng0QmNJTHk4YVdXVE5hZUY1U2RMdzZ4dnZyOUJoVUt2MVBEQUM3dUpnQVRZWFVMa09UaXZWeHFTOGo5RGd3QzkyM09UZl9BMmpGNXJONWFTUkZBT2Q4eElBa0dLUzJDempEMzNPb1N4WkhaU054ZXlVc2J5RlpOenc0c3BNNHdZc1MwVy1NTEo2VWEyak5xOFdTbG9adXBUQzY1MElpYWxHSFlneHFOV3dfeVhCcnFtbm54RnhLTkxieUViV1ZobG4tYXI4enBu0gHQAUFVX3lxTE1YaDkwbGp0V0NHYzJMZF9xd1Q0TVQtTHFlOTZsVkNfZ0tmZ1dOc0pjdUd1NTRPWDdNVTBJZjJSNkZQcGJDVlVLWHpIeGZIVWlsVW1DQTNhNl8wQURTVGpVeVFyZUdnWTV3VzlvdkRhX2puSHpjaWhpMWlRZURLZ2xtem42c1Q0RHRxaGFZQ3YtcmtjbVR2Sy1jdE5uMXNDdGlLSXpsYUtFelBuWWljRzIzSVVNRVJVMEEzLWpDUEZ4REhSQk5XMWphamtZcGFOYTU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-17T06:00:17.000Z",
+      "pub_sort_dt": "2026-10-17 14:00:17"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "凯蒂·扎卡里亚声称中国没有“像样的厕所”后，中国邀请她来访 - CNN",
+      "title_cn": "凯蒂·扎卡里亚声称中国没有“像样的厕所”后，中国邀请她来访 - CNN",
+      "url": "https://news.google.com/read/CBMiekFVX3lxTE1oWndNNVF0Y3owTDJSNmJuTEhxeWNuOFpNcTJfUDlUejJmNVE2MTVJYmlsQXp5SmI2Z2xxNkhEMVI2MUwxU1djU0dwZWNBWi1MSUpWOHA5Y2hPWWNMWXZoOENRUGJqZDNhcXNHZ3JDMzVtSEY2T0lDTDdB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-17T03:08:00.000Z",
+      "pub_sort_dt": "2026-10-17 11:08:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "凯蒂·扎卡里亚声称中国缺乏“像样的厕所”后，中国邀请她再次访问 - CNN",
+      "title_cn": "凯蒂·扎卡里亚声称中国缺乏“像厕所一样的”后，中国再次邀请她访问 - CNN",
+      "url": "https://news.google.com/read/CBMidEFVX3lxTE5NX1RtWGpDajZrWVNmcEpUa201VjVSb0VrdS1YLUxrVE5tNHkzTzUyWHBEemR3OFlTQktrbE1jZGJMVG0zdUgtNEJ6bTdJSGN4VkpyUWt0R3V5M2JrZ0NrcElnYTZERkF0ejRrbnEzdHBLWGRk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-17T03:08:00.000Z",
+      "pub_sort_dt": "2026-10-17 11:08:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "朝鲜通过新建桥梁进一步拉近了与中俄的关系 - Financial Times",
+      "title_cn": "朝鲜通过建立桥梁进一步拉近了与中俄的关系 - 英国《金融时报》",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPTEJsbmNJN0xpeUJZX0FwLVplZ3dUV0NiM0JQNVdCNHNGYmJCNktRckJLTERZRUdOSXR2YkRiMjRHODhrU2tmODR1RlJXMnE4ZktpeFhUbUpHVVUySXBCckxGdDE5TVlOTjJsbTV2Y2NTc0JzcXl2QnlUZjN2TGRGbTVmSGc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-17T00:21:12.000Z",
+      "pub_sort_dt": "2026-10-17 08:21:12"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着“黑暗旅游”的兴起，中国游客蜂拥而至，体验模拟台风 - The Guardian",
+      "title_cn": "随着“黑暗”的兴起，中国游客蜂拥而至，体验模拟台风 - 卫报",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxOd1ljcHpjd0tMZXFidVVzWXZBYV9yWmRMXzVzWDRKMklJOTN6Um9UcHUtWTZlQ2F0TlVmYVRXVmFoUno5RUw1XzktWmN1ckVzWlM1Y3h1aFJVWi1wS2RxZHJxLWJWQmk2cWxNS1dsaHhmRmozU2g1aW41VWw5WmUwdEJydmZOUHRQTFg5SE5sTVBab3oyWUdSNGx5TWRDUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-16T23:15:00.000Z",
+      "pub_sort_dt": "2026-10-17 07:15:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国警告欧盟，在发出“紧急关闭”威胁后，不要对贸易策略“一厢情愿” - South China Morning Post",
+      "title_cn": "中国警告欧盟，在发布“紧急关闭”威胁后，不要对贸易策略“一厢情愿” - 南华早报",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxOYkpQVjY4YVNpVERCWjB5QU9Fd3JtcEVyZHZ3Mzl6NnNua3dkNWlkdURXRkJ1Qk9mMmpTN3BIUUplMGJnZ19zT0RGVzAxcVFjU1A2Ul9meWE3bGJPLXdEeFd2S19xUmlPWDIwWFFqRmxGRGRVQ012Slo0bFBrWk43VVR4eFFmNUxPWk5JRldGNlVkMEE4dE92Y3BnNG5CbXVVWTJ1TENjdVRRLTBHSGNlM3BfVzltQmJtWmVIT0dQbnRVQl8xQlctNnZUSC1hdkV60gHQAUFVX3lxTE5Jc2x5LUdmRzBsV1RuMVRLRTZOLVJ4ci1pcS1ycTNSSlAxd3dvZ3dXS0g4RkR5V3Z0X1IwMUZvSmhwVDB2ZDFNLUprMDZ5bjZOdkp4YS0wcUczNV9nWXZVZEowemRvWHRfSlVXdER0YjRpOVZ1bDRvUDFTc1FtaUUybXhTX0RhWVE2ckMtNHNwdFZOaDZxLW1NTVBZT0NwMlVaY194YTNrQmRPSHhOeDlzbThQaXBNY2J1bHRha1JUOGdiUEJmeDl4UnZYd3FMcWI?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-16T22:30:02.000Z",
+      "pub_sort_dt": "2026-10-17 06:30:02"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国针对华裔科学家与中国关系的调查中浮现新细节 - South China Morning Post",
+      "title_cn": "美国针对华裔科学家与中国关系的调查中浮现新细节 - 南华早报",
+      "url": "https://news.google.com/read/CBMi3gFBVV95cUxOeGt6RWhJYVB0VFM5d1ZvOEZxNmo1VEFxLXMwVUFmdWNsUzczOWhxWUxLZlFDYVpja2F5NHZXMGlMbmx1UUhrZEc4UkNxSkhiajhldWJqWXdnYWgwaWxqREZtaVBVTGNlZjd0Rk5UZ1c3SXk3aGVsQ1FQV01kNDl4NFRvSGhlZzRCRzQ0cDc5MkRVcUozUkJ2TnE1WjFzWlhyd3lvbjd5a0kteGZXQmxuQndYb0M3OXF0WjY2ekhjcmZNNFVnRnZpUDFOMks3X3RkMjVKbmttcjdLNHRLRnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-16T22:00:16.000Z",
+      "pub_sort_dt": "2026-10-17 06:00:16"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国对导致200多名儿童患病的含铅幼儿园食品案判处6人刑罚 - The Washington Post",
@@ -20,80 +76,48 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "欧盟将贸易战的矛头对准中国，并做好应对反制措施的准备 - Bloomberg.com",
-      "title_cn": "欧盟将贸易战的矛头对准中国，并做好应对措施的准备 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQUzd0X095X0ZqSDEwWm1Wc2N4LWtWdld5eWl4X0JIUjNNZXVNNFlPUFU4NWNMSVRpSXZjTzN4TEh0ZGM4WWFKTS1WU2ZzWHdfR0hjWnFBTThqbkVtaXBLT3dJdVZyYVBVY00tSWhjOW95aTlpNUdLejI3V1BvYms0R1VZUVh3eXU1Ml94ck5PQ2xWMk1TdGg2c3JCdk9NblhsdEs3dlhHdGpZWEE3QUg3V1Vn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T17:55:04.000Z",
-      "pub_sort_dt": "2026-10-17 01:55:04"
+      "title_en": "美国议员试图将大学和科技实验室列入黑名单，中国予以反驳 - South China Morning Post",
+      "title_cn": "美国试图将大学和科技实验室列入黑名单，中国拒绝回应 - 南华早报",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxPYkJONHlKenF6VVNjV25ZZXZZZjhVMjFaX0lzVkJaR3dZTG04RlNzMmd3UWlMMkt1bi1kWmI3dGt2VFRFdFVfZXJBWk1RdlZ5aW1WbzRMa3pPQ0ZTaktwS0R4V2JPTFFkVEVkZmxMcG1YQnU0TjZXTlZucVl2VmRndU9wc1U0ZjhmTjJDY2stbUswUGlmLVBUNUZxV1U2dUZIclZCZnh3NlRWWmQxclBJa3JwQ1VNd3QtbUt6UDctRjlQZFpZc19PRHFR0gHKAUFVX3lxTFAydnRjUU9nWWRLNWVQcHpKV1NkY1VLQ0tKUzlwSzluNXljWVowOVFMN3dkQ1pVb0FISnlFbElIdGpyOWszR0NOaGtVbEFlRmRhY3k3M1RIZ3JMM1RRTWFfVXJadm0tNEp4NzVVU0RZeGh2M2xIb2EwM1ZvZmp3cFJ6RTZwVGx3RHRaeUM3blJKQUNybE5BLXlUOWFWdzRGZGVDd19TcTFkSmowQmZnQXN2WHlYbXNtODRPRjhEQ2pxN1ZRYTlMZWFsV3c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-16T18:21:54.000Z",
+      "pub_sort_dt": "2026-10-17 02:21:54"
     },
     {
       "source": "China Buzzing",
-      "title_en": "官员称，美国在曼谷双边会谈中推动万事达卡和花旗集团扩大在中国市场的准入 - CNBC",
-      "title_cn": "官员表示，美国在曼谷双边合作中推动万事达卡和花旗集团扩大在中国市场的准入 - CNBC",
-      "url": "https://news.google.com/read/CBMihwFBVV95cUxOblUzY256QVA2WUoxcVhPa2lKenVxd0JTZjRURFlvbmo1VHVkbnpka1o2Q1N1cTV5Zk80NnNVdkRNemJCN2VBZk5nM1FUbnc1T2dTMTJUTy1xenY4X015bEQxSS1mVnBuTmtyTUNPbV91Z3JabndubU9LOWNLSmJrYzg5cVViYW_SAYwBQVVfeXFMUF9IYWo2bU9xUUNEV01UM2JyR19BTFVHRGljTjc5dExwazFlSjBSSHdvRHVrUi1VR3RxOGFvZTB1TzVZOGVlZnNyNUlQVW9HZWJOdHA3eGFGTW9XcmJ5bmdZcjA4aTRZRmJXZEFKU0VZdENUa25adFFsLTc1RzNHSDBxT1l0VW5oTEpWRlU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T16:11:09.000Z",
-      "pub_sort_dt": "2026-10-17 00:11:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国CXMT公司受惠于内存芯片价格飙升，扭亏为盈 - Bloomberg.com",
-      "title_cn": "中国CXMT公司受惠于内存芯片价格飙升，扭亏为盈 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxPckktSFZpNTdUaDZ3UjVOakg4azFVRXVVRXBmZWpKcl95Rzk2dDl6ZHFia1gzM1Vhay1vVV8tR3ZmNUdiQjdzdEd4Ul9BbUxkWktON0tsM3pINHFfbHA0VnMwVFl1VTZCUnFtWVBxZHY2NjJjWXdmRUFzTVZzRkFaUDRPd2hmNHVEZHYxQnhPb0JUamg4ajhVSWxBcHdDS2lqWGZsMHBDNC1EMG5ZU0xMVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T15:19:50.000Z",
-      "pub_sort_dt": "2026-10-16 23:19:50"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "凯蒂·扎卡里亚称中国缺乏“像样的厕所”后，中国邀请她多来访问 - NBC News",
-      "title_cn": "凯蒂·扎卡里亚称中国缺乏“像厕所一样”后，中国邀请她多次来访 - NBC新闻",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxQbkpNcGlmTlRsb3dTbEh0dURTbjQyWExIYXFRNFpON0Q2NkRUWDZWY3ZpSjJSdmJDYkVfRmNxbV9lM3gyUDV5bE5HY0tFN0Q5YlZoVzVSOWZpLThCdHBBcE5RQWZ3cm81cEhNWkFyelAyanNJNzBjMVhtaHJzNTJkanlZWEkxbE9oTFdRS1BxQWZ3VXpZa2NCdHFGby1nRGFTYVl5UmpR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T14:44:20.000Z",
-      "pub_sort_dt": "2026-10-16 22:44:20"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国拟禁止外资收购关键生物制药平台 - Fierce Biotech",
-      "title_cn": "中国拟禁止外资收购关键生物制药平台 - Fierce Biotech",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxOVEFNRV9lSkdZUnFpMUdmVEVjbzB1X2d2Y2VmeXZ0WVJuLWVnOUo1R2puWWJtRFc3RmNHVUI4YmVxVjhrNWZuQlFuZkl3ZWVpMkdoSndrVWs0WXBMdUZVdE5rTEZ1NHEtTmpTYXFiUTltbUx2WnZxRV9GM3Q2XzVnMVZiMzFiWmptQUxqcmxFaTRnSjR2Z05oRFRyY3NKSE9fMzcwaFBn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T14:38:01.000Z",
-      "pub_sort_dt": "2026-10-16 22:38:01"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "欧盟承诺打造安全、主权的人工智能，但在这一领域远远落后于美国和中国 - DW.com",
-      "title_cn": "欧盟承诺打造安全、主权的人工智能，但在这一领域忧心于美国和中国 - DW.com",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxOSUJUSEY1ODE2VXp3aC15bGpKVGdsa0NYN21aRWNQRV9ZR0lKYUFxdktpRkdYVHVzcUlGdmxFLTRYeU5JNmRRUEZqR0V0bHg0TEVsMmRtY3JlLURrdnNTenExVVc3Tmo3bkhRaWYzSEZzX0tPZjBpcXZYakxETTFieUtPYUt3XzY2bkRvUzRrQUtHcGw4anJLemxpVlNKNEFHMmstaXdR0gGmAUFVX3lxTFB0LWQtbTFJWmtYUEpuTHRTMDhWZ3RMNkwzei1RNnZYTVJjbE05d2ZZOUwwMTVhdUhYd0Y2QU54WldWM3JLYU5rWjNISEM3WDRPZ1BSeEIzejJLUkFGSVJrT0RERlBRNnlUT3FabXBYU2RrS3NFWVp1Y0RoVUlka05IYmxDdlNjOHpRZVNjbTlLZ3MwcFp3ZkZ5dTVJZVRCNlNSZ1ZKRXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T13:58:15.000Z",
-      "pub_sort_dt": "2026-10-16 21:58:15"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国警告欧盟不要低估其在贸易问题上的抗争能力 - Bloomberg.com",
-      "title_cn": "中国警告欧盟不要低估其在贸易问题上的抗争能力 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxNNlpYbl84OXNYR2YwZXZ1X1J1U1J0RHNxTGZmdlF1NVYxTV90aGxfekt4OEY2blNISGJyZXRVRWdpdEV0QlA0M0FIdlV2SmctdzNLa1I0ZHhQcU0tLV8tejUtTlBZVGU4bGpmY1ZpT1pNc3hpWnVvLVA0d0ZpckJxYWlPRHg3LW5vS2hZSU1NOE95UktCSzVBQU5tc2F6UHE4LXZaQXNWekpBMkFsRVNpUFVn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T13:09:09.000Z",
-      "pub_sort_dt": "2026-10-16 21:09:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国公布了关于人工智能技术和芯片出口管制的草案 - Financial Times",
-      "title_cn": "中国公布了关于人工智能技术和芯片出口管制的草案 - 英国《金融时报》",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQZFJrS1d0QjRNNDFCeDlGc2x2cHJhTWN6SEJtWjFucjRFWnc2LWlUMFFMbjFuX3BOWGpJcVhLdnVRRnFjaUVpRXh0UHNQcWl6UkF3clZ3VExPc1dVX1hvc2o4Tnl3Mm15VE03Y1h6NHJzU3hnUmlFWlpha0hkeElUaUg1SFY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T12:51:49.000Z",
-      "pub_sort_dt": "2026-10-16 20:51:49"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国以国家安全风险为由，采取措施限制包括人工智能在内的技术出口 - AP News",
-      "title_cn": "中国以国家安全风险为由，采取限制措施包括人工智能的技术出口 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxNMGpqZzJpbGpZRmVEdHJ1dEQzY1dTMld3RU92aGlhd0xOeFA4al9qalc4bHZLZ1BZZ1ViQXI3V19Ed2gyTVNibjZqS1VkZUJaR05WMjdjVmx0LWNvaUV3Mnh4SUx5eVFKMkkySzVnUW40OW9aU2VZVVp4Q1NJbjVzQS1IZV9RWUlXc3BUY0hJMVpZT083dDR2dFVhUnZCai1mT3dqUUJR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T12:20:00.000Z",
-      "pub_sort_dt": "2026-10-16 20:20:00"
+      "title_en": "欧盟负责人表示，欧盟将提议对其他中国行业实施进口限制 - Reuters",
+      "title_cn": "欧盟负责人表示，欧盟将提议对其他中国行业实施进口限制 - 路透",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxQVFF1dWFoY2NKZzJmU2FwQkNSVW02MXFSYV90RUtPUlFWTnVvbl9UQi12OGJlc015SXRDZ3NaWjZ0Rm5sTDFIdXE2YndSbWJ0ZnVMRmRCcGljSkhtQVN4UURFUXpCa1UycnRBb2hCb1R1bnhaZE5SN2pacmVlNXlEX3ZKN2VNOVFiUGI0MHNjdjJrdjV1UE1GbUx4ZktkeG54NlBBai1ncmxQWFk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-16T17:55:06.000Z",
+      "pub_sort_dt": "2026-10-17 01:55:06"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "日本高市若获国会批准将出席在中国举行的亚太经合组织会议",
+      "title_cn": "日本市若获国会批准将出席在中国举行的亚太经合组织会议",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/japan-s-takaichi-to-attend-apec-in-china-if-parliament-allows",
+      "pub_raw": "2026-10-17T05:36:07.598Z",
+      "pub_sort_dt": "2026-10-17 13:36:07"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "香港葡萄酒热潮，正式拉开帷幕",
+      "title_cn": "香港葡萄酒热潮，正式拉开帷幕",
+      "url": "https://www.ft.com/content/0c3a4b7d-077c-427f-852a-163db6d84455",
+      "pub_raw": "2026-10-17T04:16:16.074Z",
+      "pub_sort_dt": "2026-10-17 12:16:16"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港餐厅点评：Vesu的招牌菜是北京烤鸭披萨",
+      "title_cn": "香港餐厅点评：Vesu的招牌菜是北京烤鸭披萨",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/hong-kong-restaurant-review-vesu-s-signature-is-peking-duck-pizza",
+      "pub_raw": "2026-10-17T00:16:15.778Z",
+      "pub_sort_dt": "2026-10-17 08:16:15"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "秘鲁原住民团体竞标中国企业拥有的矿山部分股权",
       "title_cn": "秘鲁原住民团体竞标中国企业拥有的矿山部分股权",
       "url": "https://www.bloomberg.com/news/articles/2026-10-16/peru-indigenous-group-bids-for-part-of-china-owned-copper-mine",
@@ -227,33 +251,65 @@
       "url": "https://reut.rs/3VQNiJB",
       "pub_raw": "2026-10-16T08:33:59.041Z",
       "pub_sort_dt": "2026-10-16 16:33:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国采取限售和回购措施提振股市",
-      "title_cn": "中国采取限售和回购提振措施振股市",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-16/china-moves-to-prop-up-stock-market-with-selling-curbs-buybacks",
-      "pub_raw": "2026-10-16T08:17:37.932Z",
-      "pub_sort_dt": "2026-10-16 16:17:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "经济增长率低于4.5%，中国因刺激政策出台过晚而面临的代价日益显现",
-      "title_cn": "经济下降低于4.5%，中国因严峻的疫情政策过晚而面临昂贵的代价",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-16/tardy-china-stimulus-sets-up-second-quarter-of-sub-target-growth",
-      "pub_raw": "2026-10-16T08:17:37.829Z",
-      "pub_sort_dt": "2026-10-16 16:17:37"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国希望下周举行的全球治理论坛能取得切实成果",
-      "title_cn": "中国希望下周举行的全球治理论坛能够取得切实成果",
-      "url": "https://reut.rs/4jXXeuG",
-      "pub_raw": "2026-10-16T08:17:37.784Z",
-      "pub_sort_dt": "2026-10-16 16:17:37"
     }
   ],
   "news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "随着债务担忧加剧，中国8月份持有的美国国债规模降至18年来的最低水平 - South China Morning Post",
+      "title_cn": "随着债务担忧加剧，中国8月份持有的美国国债规模降至18年来的最低水平 - 南华早报",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxQcng0QmNJTHk4YVdXVE5hZUY1U2RMdzZ4dnZyOUJoVUt2MVBEQUM3dUpnQVRZWFVMa09UaXZWeHFTOGo5RGd3QzkyM09UZl9BMmpGNXJONWFTUkZBT2Q4eElBa0dLUzJDempEMzNPb1N4WkhaU054ZXlVc2J5RlpOenc0c3BNNHdZc1MwVy1NTEo2VWEyak5xOFdTbG9adXBUQzY1MElpYWxHSFlneHFOV3dfeVhCcnFtbm54RnhLTkxieUViV1ZobG4tYXI4enBu0gHQAUFVX3lxTE1YaDkwbGp0V0NHYzJMZF9xd1Q0TVQtTHFlOTZsVkNfZ0tmZ1dOc0pjdUd1NTRPWDdNVTBJZjJSNkZQcGJDVlVLWHpIeGZIVWlsVW1DQTNhNl8wQURTVGpVeVFyZUdnWTV3VzlvdkRhX2puSHpjaWhpMWlRZURLZ2xtem42c1Q0RHRxaGFZQ3YtcmtjbVR2Sy1jdE5uMXNDdGlLSXpsYUtFelBuWWljRzIzSVVNRVJVMEEzLWpDUEZ4REhSQk5XMWphamtZcGFOYTU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-17T06:00:17.000Z",
+      "pub_sort_dt": "2026-10-17 14:00:17"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "凯蒂·扎卡里亚声称中国没有“像样的厕所”后，中国邀请她来访 - CNN",
+      "title_cn": "凯蒂·扎卡里亚声称中国没有“像样的厕所”后，中国邀请她来访 - CNN",
+      "url": "https://news.google.com/read/CBMiekFVX3lxTE1oWndNNVF0Y3owTDJSNmJuTEhxeWNuOFpNcTJfUDlUejJmNVE2MTVJYmlsQXp5SmI2Z2xxNkhEMVI2MUwxU1djU0dwZWNBWi1MSUpWOHA5Y2hPWWNMWXZoOENRUGJqZDNhcXNHZ3JDMzVtSEY2T0lDTDdB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-17T03:08:00.000Z",
+      "pub_sort_dt": "2026-10-17 11:08:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "凯蒂·扎卡里亚声称中国缺乏“像样的厕所”后，中国邀请她再次访问 - CNN",
+      "title_cn": "凯蒂·扎卡里亚声称中国缺乏“像厕所一样的”后，中国再次邀请她访问 - CNN",
+      "url": "https://news.google.com/read/CBMidEFVX3lxTE5NX1RtWGpDajZrWVNmcEpUa201VjVSb0VrdS1YLUxrVE5tNHkzTzUyWHBEemR3OFlTQktrbE1jZGJMVG0zdUgtNEJ6bTdJSGN4VkpyUWt0R3V5M2JrZ0NrcElnYTZERkF0ejRrbnEzdHBLWGRk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-17T03:08:00.000Z",
+      "pub_sort_dt": "2026-10-17 11:08:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "朝鲜通过新建桥梁进一步拉近了与中俄的关系 - Financial Times",
+      "title_cn": "朝鲜通过建立桥梁进一步拉近了与中俄的关系 - 英国《金融时报》",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxPTEJsbmNJN0xpeUJZX0FwLVplZ3dUV0NiM0JQNVdCNHNGYmJCNktRckJLTERZRUdOSXR2YkRiMjRHODhrU2tmODR1RlJXMnE4ZktpeFhUbUpHVVUySXBCckxGdDE5TVlOTjJsbTV2Y2NTc0JzcXl2QnlUZjN2TGRGbTVmSGc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-17T00:21:12.000Z",
+      "pub_sort_dt": "2026-10-17 08:21:12"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "随着“黑暗旅游”的兴起，中国游客蜂拥而至，体验模拟台风 - The Guardian",
+      "title_cn": "随着“黑暗”的兴起，中国游客蜂拥而至，体验模拟台风 - 卫报",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxOd1ljcHpjd0tMZXFidVVzWXZBYV9yWmRMXzVzWDRKMklJOTN6Um9UcHUtWTZlQ2F0TlVmYVRXVmFoUno5RUw1XzktWmN1ckVzWlM1Y3h1aFJVWi1wS2RxZHJxLWJWQmk2cWxNS1dsaHhmRmozU2g1aW41VWw5WmUwdEJydmZOUHRQTFg5SE5sTVBab3oyWUdSNGx5TWRDUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-16T23:15:00.000Z",
+      "pub_sort_dt": "2026-10-17 07:15:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国警告欧盟，在发出“紧急关闭”威胁后，不要对贸易策略“一厢情愿” - South China Morning Post",
+      "title_cn": "中国警告欧盟，在发布“紧急关闭”威胁后，不要对贸易策略“一厢情愿” - 南华早报",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxOYkpQVjY4YVNpVERCWjB5QU9Fd3JtcEVyZHZ3Mzl6NnNua3dkNWlkdURXRkJ1Qk9mMmpTN3BIUUplMGJnZ19zT0RGVzAxcVFjU1A2Ul9meWE3bGJPLXdEeFd2S19xUmlPWDIwWFFqRmxGRGRVQ012Slo0bFBrWk43VVR4eFFmNUxPWk5JRldGNlVkMEE4dE92Y3BnNG5CbXVVWTJ1TENjdVRRLTBHSGNlM3BfVzltQmJtWmVIT0dQbnRVQl8xQlctNnZUSC1hdkV60gHQAUFVX3lxTE5Jc2x5LUdmRzBsV1RuMVRLRTZOLVJ4ci1pcS1ycTNSSlAxd3dvZ3dXS0g4RkR5V3Z0X1IwMUZvSmhwVDB2ZDFNLUprMDZ5bjZOdkp4YS0wcUczNV9nWXZVZEowemRvWHRfSlVXdER0YjRpOVZ1bDRvUDFTc1FtaUUybXhTX0RhWVE2ckMtNHNwdFZOaDZxLW1NTVBZT0NwMlVaY194YTNrQmRPSHhOeDlzbThQaXBNY2J1bHRha1JUOGdiUEJmeDl4UnZYd3FMcWI?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-16T22:30:02.000Z",
+      "pub_sort_dt": "2026-10-17 06:30:02"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国针对华裔科学家与中国关系的调查中浮现新细节 - South China Morning Post",
+      "title_cn": "美国针对华裔科学家与中国关系的调查中浮现新细节 - 南华早报",
+      "url": "https://news.google.com/read/CBMi3gFBVV95cUxOeGt6RWhJYVB0VFM5d1ZvOEZxNmo1VEFxLXMwVUFmdWNsUzczOWhxWUxLZlFDYVpja2F5NHZXMGlMbmx1UUhrZEc4UkNxSkhiajhldWJqWXdnYWgwaWxqREZtaVBVTGNlZjd0Rk5UZ1c3SXk3aGVsQ1FQV01kNDl4NFRvSGhlZzRCRzQ0cDc5MkRVcUozUkJ2TnE1WjFzWlhyd3lvbjd5a0kteGZXQmxuQndYb0M3OXF0WjY2ekhjcmZNNFVnRnZpUDFOMks3X3RkMjVKbmttcjdLNHRLRnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-16T22:00:16.000Z",
+      "pub_sort_dt": "2026-10-17 06:00:16"
+    },
     {
       "source": "China Buzzing",
       "title_en": "中国对导致200多名儿童患病的含铅幼儿园食品案判处6人刑罚 - The Washington Post",
@@ -264,75 +320,43 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "欧盟将贸易战的矛头对准中国，并做好应对反制措施的准备 - Bloomberg.com",
-      "title_cn": "欧盟将贸易战的矛头对准中国，并做好应对措施的准备 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQUzd0X095X0ZqSDEwWm1Wc2N4LWtWdld5eWl4X0JIUjNNZXVNNFlPUFU4NWNMSVRpSXZjTzN4TEh0ZGM4WWFKTS1WU2ZzWHdfR0hjWnFBTThqbkVtaXBLT3dJdVZyYVBVY00tSWhjOW95aTlpNUdLejI3V1BvYms0R1VZUVh3eXU1Ml94ck5PQ2xWMk1TdGg2c3JCdk9NblhsdEs3dlhHdGpZWEE3QUg3V1Vn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T17:55:04.000Z",
-      "pub_sort_dt": "2026-10-17 01:55:04"
+      "title_en": "美国议员试图将大学和科技实验室列入黑名单，中国予以反驳 - South China Morning Post",
+      "title_cn": "美国试图将大学和科技实验室列入黑名单，中国拒绝回应 - 南华早报",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxPYkJONHlKenF6VVNjV25ZZXZZZjhVMjFaX0lzVkJaR3dZTG04RlNzMmd3UWlMMkt1bi1kWmI3dGt2VFRFdFVfZXJBWk1RdlZ5aW1WbzRMa3pPQ0ZTaktwS0R4V2JPTFFkVEVkZmxMcG1YQnU0TjZXTlZucVl2VmRndU9wc1U0ZjhmTjJDY2stbUswUGlmLVBUNUZxV1U2dUZIclZCZnh3NlRWWmQxclBJa3JwQ1VNd3QtbUt6UDctRjlQZFpZc19PRHFR0gHKAUFVX3lxTFAydnRjUU9nWWRLNWVQcHpKV1NkY1VLQ0tKUzlwSzluNXljWVowOVFMN3dkQ1pVb0FISnlFbElIdGpyOWszR0NOaGtVbEFlRmRhY3k3M1RIZ3JMM1RRTWFfVXJadm0tNEp4NzVVU0RZeGh2M2xIb2EwM1ZvZmp3cFJ6RTZwVGx3RHRaeUM3blJKQUNybE5BLXlUOWFWdzRGZGVDd19TcTFkSmowQmZnQXN2WHlYbXNtODRPRjhEQ2pxN1ZRYTlMZWFsV3c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-16T18:21:54.000Z",
+      "pub_sort_dt": "2026-10-17 02:21:54"
     },
     {
       "source": "China Buzzing",
-      "title_en": "官员称，美国在曼谷双边会谈中推动万事达卡和花旗集团扩大在中国市场的准入 - CNBC",
-      "title_cn": "官员表示，美国在曼谷双边合作中推动万事达卡和花旗集团扩大在中国市场的准入 - CNBC",
-      "url": "https://news.google.com/read/CBMihwFBVV95cUxOblUzY256QVA2WUoxcVhPa2lKenVxd0JTZjRURFlvbmo1VHVkbnpka1o2Q1N1cTV5Zk80NnNVdkRNemJCN2VBZk5nM1FUbnc1T2dTMTJUTy1xenY4X015bEQxSS1mVnBuTmtyTUNPbV91Z3JabndubU9LOWNLSmJrYzg5cVViYW_SAYwBQVVfeXFMUF9IYWo2bU9xUUNEV01UM2JyR19BTFVHRGljTjc5dExwazFlSjBSSHdvRHVrUi1VR3RxOGFvZTB1TzVZOGVlZnNyNUlQVW9HZWJOdHA3eGFGTW9XcmJ5bmdZcjA4aTRZRmJXZEFKU0VZdENUa25adFFsLTc1RzNHSDBxT1l0VW5oTEpWRlU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T16:11:09.000Z",
-      "pub_sort_dt": "2026-10-17 00:11:09"
+      "title_en": "欧盟负责人表示，欧盟将提议对其他中国行业实施进口限制 - Reuters",
+      "title_cn": "欧盟负责人表示，欧盟将提议对其他中国行业实施进口限制 - 路透",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxQVFF1dWFoY2NKZzJmU2FwQkNSVW02MXFSYV90RUtPUlFWTnVvbl9UQi12OGJlc015SXRDZ3NaWjZ0Rm5sTDFIdXE2YndSbWJ0ZnVMRmRCcGljSkhtQVN4UURFUXpCa1UycnRBb2hCb1R1bnhaZE5SN2pacmVlNXlEX3ZKN2VNOVFiUGI0MHNjdjJrdjV1UE1GbUx4ZktkeG54NlBBai1ncmxQWFk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-16T17:55:06.000Z",
+      "pub_sort_dt": "2026-10-17 01:55:06"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国CXMT公司受惠于内存芯片价格飙升，扭亏为盈 - Bloomberg.com",
-      "title_cn": "中国CXMT公司受惠于内存芯片价格飙升，扭亏为盈 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxPckktSFZpNTdUaDZ3UjVOakg4azFVRXVVRXBmZWpKcl95Rzk2dDl6ZHFia1gzM1Vhay1vVV8tR3ZmNUdiQjdzdEd4Ul9BbUxkWktON0tsM3pINHFfbHA0VnMwVFl1VTZCUnFtWVBxZHY2NjJjWXdmRUFzTVZzRkFaUDRPd2hmNHVEZHYxQnhPb0JUamg4ajhVSWxBcHdDS2lqWGZsMHBDNC1EMG5ZU0xMVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T15:19:50.000Z",
-      "pub_sort_dt": "2026-10-16 23:19:50"
+      "source": "Bloomberg",
+      "title_en": "日本高市若获国会批准将出席在中国举行的亚太经合组织会议",
+      "title_cn": "日本市若获国会批准将出席在中国举行的亚太经合组织会议",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/japan-s-takaichi-to-attend-apec-in-china-if-parliament-allows",
+      "pub_raw": "2026-10-17T05:36:07.598Z",
+      "pub_sort_dt": "2026-10-17 13:36:07"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "凯蒂·扎卡里亚称中国缺乏“像样的厕所”后，中国邀请她多来访问 - NBC News",
-      "title_cn": "凯蒂·扎卡里亚称中国缺乏“像厕所一样”后，中国邀请她多次来访 - NBC新闻",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxQbkpNcGlmTlRsb3dTbEh0dURTbjQyWExIYXFRNFpON0Q2NkRUWDZWY3ZpSjJSdmJDYkVfRmNxbV9lM3gyUDV5bE5HY0tFN0Q5YlZoVzVSOWZpLThCdHBBcE5RQWZ3cm81cEhNWkFyelAyanNJNzBjMVhtaHJzNTJkanlZWEkxbE9oTFdRS1BxQWZ3VXpZa2NCdHFGby1nRGFTYVl5UmpR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T14:44:20.000Z",
-      "pub_sort_dt": "2026-10-16 22:44:20"
+      "source": "Financial Times",
+      "title_en": "香港葡萄酒热潮，正式拉开帷幕",
+      "title_cn": "香港葡萄酒热潮，正式拉开帷幕",
+      "url": "https://www.ft.com/content/0c3a4b7d-077c-427f-852a-163db6d84455",
+      "pub_raw": "2026-10-17T04:16:16.074Z",
+      "pub_sort_dt": "2026-10-17 12:16:16"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国拟禁止外资收购关键生物制药平台 - Fierce Biotech",
-      "title_cn": "中国拟禁止外资收购关键生物制药平台 - Fierce Biotech",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxOVEFNRV9lSkdZUnFpMUdmVEVjbzB1X2d2Y2VmeXZ0WVJuLWVnOUo1R2puWWJtRFc3RmNHVUI4YmVxVjhrNWZuQlFuZkl3ZWVpMkdoSndrVWs0WXBMdUZVdE5rTEZ1NHEtTmpTYXFiUTltbUx2WnZxRV9GM3Q2XzVnMVZiMzFiWmptQUxqcmxFaTRnSjR2Z05oRFRyY3NKSE9fMzcwaFBn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T14:38:01.000Z",
-      "pub_sort_dt": "2026-10-16 22:38:01"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "欧盟承诺打造安全、主权的人工智能，但在这一领域远远落后于美国和中国 - DW.com",
-      "title_cn": "欧盟承诺打造安全、主权的人工智能，但在这一领域忧心于美国和中国 - DW.com",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxOSUJUSEY1ODE2VXp3aC15bGpKVGdsa0NYN21aRWNQRV9ZR0lKYUFxdktpRkdYVHVzcUlGdmxFLTRYeU5JNmRRUEZqR0V0bHg0TEVsMmRtY3JlLURrdnNTenExVVc3Tmo3bkhRaWYzSEZzX0tPZjBpcXZYakxETTFieUtPYUt3XzY2bkRvUzRrQUtHcGw4anJLemxpVlNKNEFHMmstaXdR0gGmAUFVX3lxTFB0LWQtbTFJWmtYUEpuTHRTMDhWZ3RMNkwzei1RNnZYTVJjbE05d2ZZOUwwMTVhdUhYd0Y2QU54WldWM3JLYU5rWjNISEM3WDRPZ1BSeEIzejJLUkFGSVJrT0RERlBRNnlUT3FabXBYU2RrS3NFWVp1Y0RoVUlka05IYmxDdlNjOHpRZVNjbTlLZ3MwcFp3ZkZ5dTVJZVRCNlNSZ1ZKRXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T13:58:15.000Z",
-      "pub_sort_dt": "2026-10-16 21:58:15"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国警告欧盟不要低估其在贸易问题上的抗争能力 - Bloomberg.com",
-      "title_cn": "中国警告欧盟不要低估其在贸易问题上的抗争能力 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxNNlpYbl84OXNYR2YwZXZ1X1J1U1J0RHNxTGZmdlF1NVYxTV90aGxfekt4OEY2blNISGJyZXRVRWdpdEV0QlA0M0FIdlV2SmctdzNLa1I0ZHhQcU0tLV8tejUtTlBZVGU4bGpmY1ZpT1pNc3hpWnVvLVA0d0ZpckJxYWlPRHg3LW5vS2hZSU1NOE95UktCSzVBQU5tc2F6UHE4LXZaQXNWekpBMkFsRVNpUFVn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T13:09:09.000Z",
-      "pub_sort_dt": "2026-10-16 21:09:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国公布了关于人工智能技术和芯片出口管制的草案 - Financial Times",
-      "title_cn": "中国公布了关于人工智能技术和芯片出口管制的草案 - 英国《金融时报》",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQZFJrS1d0QjRNNDFCeDlGc2x2cHJhTWN6SEJtWjFucjRFWnc2LWlUMFFMbjFuX3BOWGpJcVhLdnVRRnFjaUVpRXh0UHNQcWl6UkF3clZ3VExPc1dVX1hvc2o4Tnl3Mm15VE03Y1h6NHJzU3hnUmlFWlpha0hkeElUaUg1SFY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T12:51:49.000Z",
-      "pub_sort_dt": "2026-10-16 20:51:49"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国以国家安全风险为由，采取措施限制包括人工智能在内的技术出口 - AP News",
-      "title_cn": "中国以国家安全风险为由，采取限制措施包括人工智能的技术出口 - 美联社新闻",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxNMGpqZzJpbGpZRmVEdHJ1dEQzY1dTMld3RU92aGlhd0xOeFA4al9qalc4bHZLZ1BZZ1ViQXI3V19Ed2gyTVNibjZqS1VkZUJaR05WMjdjVmx0LWNvaUV3Mnh4SUx5eVFKMkkySzVnUW40OW9aU2VZVVp4Q1NJbjVzQS1IZV9RWUlXc3BUY0hJMVpZT083dDR2dFVhUnZCai1mT3dqUUJR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-16T12:20:00.000Z",
-      "pub_sort_dt": "2026-10-16 20:20:00"
+      "source": "Bloomberg",
+      "title_en": "香港餐厅点评：Vesu的招牌菜是北京烤鸭披萨",
+      "title_cn": "香港餐厅点评：Vesu的招牌菜是北京烤鸭披萨",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/hong-kong-restaurant-review-vesu-s-signature-is-peking-duck-pizza",
+      "pub_raw": "2026-10-17T00:16:15.778Z",
+      "pub_sort_dt": "2026-10-17 08:16:15"
     },
     {
       "source": "Bloomberg",
@@ -469,30 +493,6 @@
       "url": "https://reut.rs/3VQNiJB",
       "pub_raw": "2026-10-16T08:33:59.041Z",
       "pub_sort_dt": "2026-10-16 16:33:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国采取限售和回购措施提振股市",
-      "title_cn": "中国采取限售和回购提振措施振股市",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-16/china-moves-to-prop-up-stock-market-with-selling-curbs-buybacks",
-      "pub_raw": "2026-10-16T08:17:37.932Z",
-      "pub_sort_dt": "2026-10-16 16:17:37"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "经济增长率低于4.5%，中国因刺激政策出台过晚而面临的代价日益显现",
-      "title_cn": "经济下降低于4.5%，中国因严峻的疫情政策过晚而面临昂贵的代价",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-16/tardy-china-stimulus-sets-up-second-quarter-of-sub-target-growth",
-      "pub_raw": "2026-10-16T08:17:37.829Z",
-      "pub_sort_dt": "2026-10-16 16:17:37"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国希望下周举行的全球治理论坛能取得切实成果",
-      "title_cn": "中国希望下周举行的全球治理论坛能够取得切实成果",
-      "url": "https://reut.rs/4jXXeuG",
-      "pub_raw": "2026-10-16T08:17:37.784Z",
-      "pub_sort_dt": "2026-10-16 16:17:37"
     }
   ]
 }
