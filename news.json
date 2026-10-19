@@ -1,101 +1,237 @@
 {
-  "update_cst": "2026-10-19 18:01:12 北京时间",
+  "update_cst": "2026-10-20 06:01:19 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 11,
-    "Financial Times": 2,
-    "Wall Street Journal": 0,
-    "Reuters": 7
+    "The Economist": 1,
+    "Bloomberg": 12,
+    "Financial Times": 1,
+    "Wall Street Journal": 1,
+    "Reuters": 5
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "菲律宾就中国大使发表的“带有威胁性”言论召见中国大使 - Reuters",
-      "title_cn": "防疫就中国大使发表“带有威胁性”的恐吓见中国大使 - 路透社",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxQR3FaTkFtc3lTTUZRVGV2WlV4elBHTVlNb2JlcGVIbDEwd29YNlk2Sm1CR043SG1EYmFlT1F6d3Fwb0g2SFl5RHA2c2hkTVZ4TXpnYldWOUZ0N1pvbW90dDlkejFxaUtvRHNfOWJqOGt6Y1Q2Q295c3MtMDJvVlpZVDlFZ3RmQW5nZ2JIUjQwbWl6UDI2cG12YXBhQ0JDR0xEUHlmRDc3eUtKMVRFMENJ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T07:01:30.000Z",
-      "pub_sort_dt": "2026-10-19 15:01:30"
+      "title_en": "随着中美科技紧张局势持续，美国禁止政府使用DeepSeek AI - BBC",
+      "title_cn": "随着中美科技紧张局势持续，美国禁止政府使用DeepSeek AI - BBC",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTE1pUFg0N3NNbGhmNmp4THlOVFFSOFdudlVRSzEzc2lzQzNMZldMOUFSbHhtd1l0X3JqZF90dnpBSUh1TFBUTHdUUXRLTlF0SThVN3huUFhJX0swMnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T18:21:54.000Z",
+      "pub_sort_dt": "2026-10-20 02:21:54"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着人工智能出口热潮抵消了国内经济的疲软，中国经济增长势头加快 - BBC",
-      "title_cn": "随着人工智能出口热潮应对国内经济疲软，中国经济增长势头加快 - BBC",
-      "url": "https://news.google.com/read/CBMiW0FVX3lxTFBKZDdHVkpOendSakJEYTM3TW1fY1JQS3BpYnZkSmtiRDJEdDlyNWZzcmFTclR6WEp5S1VtUS1ZZ0g5aE15YS14c0dsZnc4Z052M1hPZjJha0hWclk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T05:17:35.000Z",
-      "pub_sort_dt": "2026-10-19 13:17:35"
+      "title_en": "美国针对赴华美国公民新增“非法拘留”警告 - South China Morning Post",
+      "title_cn": "美国针对赴华美国公民新增“非法拘留”警告 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxPbGVETjJPRS1DMEZHUmNsRU5uRFN3TlRnaFdNczR4S1NPejVscWFqQ1lHNzJwQzhLRWtqQ3Z2cEhENDk0MTBIaVdUTTBxWjRGakxCTnBmU1JWNG83M2dFQjFEYXVMRnZidWx6azZGYy0zSldLcDNkSE5TNnpuQmZjMGUwY1NWdWJGdC12aGotR1cwYXRjYzdoQ0NjN2g1YVhEd3FWNFNaQmRDb1d1Qjh5NGRVR0JMeEVXdVdN0gG7AUFVX3lxTE4zaEFHU19wX0VlWWdTZDNOekZXSmJIVjdnVWo5aUxuZ0VGZU9KMXpSVEtCLU5ra2RjeGNPbmxra0tESml6TDllUmVjYTZxSlBaSlhPNlQ2aGxUSTJUUXFUMlZuRU51WkNOX3N6blBNVnhxaU00WmZyVE1ZMHk5TFM4MVNkTXFJV2JNSjlXYUpyNUh6QzhDY3VTTW1qVGlXR3Faa1VKNnpKVElqRVB6OTM0QU1TOC1FanFpWTg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T18:16:04.000Z",
+      "pub_sort_dt": "2026-10-20 02:16:04"
     },
     {
       "source": "China Buzzing",
-      "title_en": "尽管国内经济低迷，中国出口的强劲增长仍推动了经济增长 - The New York Times",
-      "title_cn": "尽管国内经济低迷，中国出口强劲增长仍带动经济增长 - 纽约时报",
-      "url": "https://news.google.com/read/CBMidEFVX3lxTE40cnBMZmk3ZzA2bFpuN0hiUnhOZFU3ODMtbGs1NGVTbDRuanNpSWJ5eXpMR3ZTNGU4S0tVc2VYUGlkVW5BdUJCVzdjSFJfeFhpc296NjM1SVNBZmVWNGtmZlhXRHRwaGRYbmhuaVNaV25IYzJU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T05:15:06.000Z",
-      "pub_sort_dt": "2026-10-19 13:15:06"
+      "title_en": "俄罗斯提议下个月在中国举行特朗普、习近平和普京三方会晤 - The Washington Post",
+      "title_cn": "俄罗斯提议下个月在中国举行特朗普、习近平和普京三方会晤 - The Washington Post",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxONXNBcWQzNFVXRnc1VWp4ekFJQjFLeWR5TVdjU2dRczRXc2pNMHI0Uk50a3RRQl90cXpaY1hLRnZYOVRvdzBSazQtYU1DNGJiWmdsbXVxZlRwVTREMDAxWkN3WHpjTS11U2J3MnVORjA3UjZPcE50UFZkM3NCSGdWUWN4MkVxMUd2WHJKWFZtVzBESDQ4cXlzZ2dzU3lUNVRGRmhGUTRWTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T17:50:36.000Z",
+      "pub_sort_dt": "2026-10-20 01:50:36"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国经济增速回升至4.5% - Financial Times",
-      "title_cn": "中国经济增速回升4.5% - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNSGVKTFBJR0drUjlPSjZvYjZUeDBaOVlDQkdsSWRLbGJ3ZGxfTEs0MmR6bFVkNXZDczVIcGV2WnlfWFZnSk9rTk9OVENhQVoyd3I3YThXdlFtenZKbWozZGFIWXktSVQ5T2hlNnh4amxMWkNVbjZQM1BGUmJHTDlRRjVVa2Q?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T05:08:36.000Z",
-      "pub_sort_dt": "2026-10-19 13:08:36"
+      "title_en": "中国经济表现好于预期——但有一个问题 - Axios",
+      "title_cn": "中国经济表现好于预期——但有一个问题 - Axios",
+      "url": "https://news.google.com/read/CBMiZ0FVX3lxTFA5dUxGSENxQmVITW9nLWtEcWIyQUtLNWllRldNb2Q5Wi1qMkstTnUxUDZGRl9zYTk1eDlFUEt1NXNCSzZ3dGJVV1huOFRsQU5mY055MFo1ZWN3VHVpMVBXSXNXV25Xb2c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T15:59:58.000Z",
+      "pub_sort_dt": "2026-10-19 23:59:58"
     },
     {
       "source": "China Buzzing",
-      "title_en": "“金砖国家”概念的提出者向“懒惰、殖民主义”的欧洲发出警告——在国际舞台上，印度和中国仍未得到应有的重视 - Fortune",
-      "title_cn": "“金砖国家”概念的提出者向“懒惰、税收主义”的欧洲发出警告——在国际舞台上，印度和中国必然得到了重视 - 《财富》",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxOTXZOSzNUVjZBbXhxOVVSWEVJSUNPVHhmTVJpMjJuMUxaNlFSYUZMRHNTRUsycWNMYlc3SjJhaVp1TUZ1VWNRckFPREhGdHBlS1hrZGlnOVZaV1M3c2FZSEpvcjRVbTVpTEQtd0tqcHB0TFNMa3JMXzRLRGZVY05YdjM5SGZNUnpsSDNrMzQtSFQ1MFdZZnBNVXptTEo0RHpBTlBHMndR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T05:00:00.000Z",
-      "pub_sort_dt": "2026-10-19 13:00:00"
+      "title_en": "中国真的更重视人工智能的速度而非安全性吗？ - The Economist",
+      "title_cn": "中国真的更重视人工智能的速度而非安全性吗？ - 《经济学人》",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxNbWkyWlBhV1MzcEhmQzBoVnVDeDBmM0x0NVBGYy1lWDlsOFBHWFJTSVpmTnB1cG1iRVozZ3VmVkN0ZmRyRVd3OVN2ZllSd2Uwd1hGMi1DMjkyY2NsMmJOcWxQVXdLeXkwOFh3QklDbjJoR1RWS1VCcVVfdURnaG9qTE9YdHJPUW5aMzNlc3ZqT1c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T15:30:34.000Z",
+      "pub_sort_dt": "2026-10-19 23:30:34"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国主权基金活跃，股市创下周线连跌纪录 - Bloomberg.com",
-      "title_cn": "中国主权基金活跃，股市仅有周线连跌纪录 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxOUUVFaHpHbXN4VkJJaHlWT09DcFFsbEhuSkd1SGlWWVYxQU1jTjlKcjFmSHdDSUFKcnEwbDZZWjl2RjBUVVJHaWhXRm52T1ZpUlBQZFlTcjBIcjZVZlFBU1BGNW84RVQ3UVlXUTcxRHFwV09BSlY2NUlYNTliS0VxTm5BOUtxTVY4ZFF5dERPQUN2Z2hKRUtHVUFDUWMyNmdvaXUtWVdiVVBydGxKeTh6T19JNEpEZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T03:10:00.000Z",
-      "pub_sort_dt": "2026-10-19 11:10:00"
+      "title_en": "欧洲终于开始对华强硬了。现在，真正的挑战才刚刚开始。 - Foreign Policy",
+      "title_cn": "欧洲终于开始对华强硬了。现在，真正的挑战才刚刚开始。 - Foreign Policy",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxPUGlaUnBGdzh5ZEpCM1NZMFhDa2JBU0FMRGZxamE1d2RxeWVVT2Z4ZnJOell3c1ZFUm1HRzg1ZHRWb0hzRkxTNm9IYkQ5QXFVaDN4bzhGYnkyMFUyWklwNXNhTmd3dFNLRUQzWDVjRy05V3JzRUJOaktsRThJZXFvX2N1bHhlZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T15:14:29.000Z",
+      "pub_sort_dt": "2026-10-19 23:14:29"
     },
     {
       "source": "China Buzzing",
-      "title_en": "《华尔街日报》报道称，普京提议就乌克兰问题与美国、中国举行峰会 - The Seattle Times",
-      "title_cn": "《华尔街日报》报道称，倡议就乌克兰问题与美国、中国峰会峰会 - 西雅图时报",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxNYTdOV1BPYzhlRGVkU3ZGalBnOFI1ci1MemxzUk1FelkzX1M4VTU5NjBJQ3dJV2tOTWxJTk5YMVBLSGRycWtIR3NEalRNdXJQMjd4XzY3cVBzZFV1bTNlTFpzVGZjQTJNZ1JuQlRCQ2o4ajlwTWd0eFN3cHdVM0puYXFJVnVQRi0tY0lKX0VLS09RV09GOGdUOGJJNExfWi1nUWJB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T02:27:22.000Z",
-      "pub_sort_dt": "2026-10-19 10:27:22"
+      "title_en": "在中国推进机器人商业化的背景下，Unitree股价飙升16.15%，市值突破2000亿元 - Global Times",
+      "title_cn": "在中国推进机器人商业化的背景下，Unitree股价飙升16.15%，市值突破2000亿元 - Global Times",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTFBPOVpvWjhzSmlfcTkzTjB6aUVCdGltWWhjT3ZZWUNtNVZtclhsTXpUemtpMTNJbXM2ZEJtbDBlX3BxcGRxejR4bEFmck1ta2tTUHZWVzgwN2pjMXdSNVhLZEdR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T15:12:00.000Z",
+      "pub_sort_dt": "2026-10-19 23:12:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国房价跌幅收窄，提振了市场对复苏的期望 - Bloomberg.com",
-      "title_cn": "中国股市跌幅收窄，提振了市场对复苏的期望 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxPNGxtUUFxSk9HMDNBNXhNYnVqVWV3NnRMYU9XaGFnUVRVN0FRLUZqQVZkTWlqdWNYbTVKc2RvZG5YNlNtTUh2bmRjTDhaNFRtRUJlRlBCX1ZhWmJhQ2wzN1pYM3JYb0JJN1NVbVN6Wnl1TmUzVk5QM2FTaW82X1NpQUgyVXNUZDlpSGdUbnRvVHMwanlqZ1cyY0FucGVxTDlIejQxR09PT05raklYSy1pT1pKYw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T02:18:00.000Z",
-      "pub_sort_dt": "2026-10-19 10:18:00"
+      "title_en": "中朝新桥梁的真正意义 - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "title_cn": "中朝新桥梁的真正意义 - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxQVmI1QVlsTGRpTnVUaWg0dk5OeXozQV9DNzlGeFhBRGh6NDZldlJqcUExNF9uS1p5ZnVLRTlhVURYMVlmamZ1Ymd3ZVU3STAzaHJBbjUxcWFOYzVTTEYxWVRaMFl4ZmRBV3pjWW1raHdaaDdNUWJxcG1VbjNtZUdIdVVJTV9EYVVYWUJJ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T14:48:45.000Z",
+      "pub_sort_dt": "2026-10-19 22:48:45"
     },
     {
       "source": "China Buzzing",
-      "title_en": "得益于人工智能出口的强劲增长，中国经济实现增长，但国内经济低迷仍构成拖累 - CNN",
-      "title_cn": "得益于人工智能出口的强劲增长，中国经济实现增长，但国内经济低迷仍构成拖累 - CNN",
-      "url": "https://news.google.com/read/CBMibEFVX3lxTE9YZUM1RVhqMlhRS3JtZXkySURkQklGNnhTUnV0aFRRc2RnVzJhZVVSY1RGc05CaHNsdlpUS0ZLQTdPeXE0aGVXaHRmYzhKOWZKdi1DV0R1Yk8xSzg3V0hTTjN4bF9FQmlkV2FaeA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T02:10:00.000Z",
-      "pub_sort_dt": "2026-10-19 10:10:00"
+      "title_en": "观点 美中两国需要达成一项军控协议——针对人工智能 - The Washington Post",
+      "title_cn": "观点 美中协议需达成一项军控协议——针对人工智能 - 华盛顿邮报",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxNQzdOUmF3NEN4TjlmUFl3LXM0UE53UjlXY3F5ZmVvc2JKbjdab3JpTU5DYlBVMjIxNm9xMmh3TzNZU3Vpb2tudHdrWHJIWWcyeDU5MjhUdE1pNFlkTzY4X1JnSm1ETnNuaEdwR3A2ajQ4OHdMcnh2X0NfTmkxaG5ZbXdlckQzejBjbGtyNFFFbTZfTGVs?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T14:37:26.000Z",
+      "pub_sort_dt": "2026-10-19 22:37:26"
     },
     {
       "source": "China Buzzing",
-      "title_en": "受出口激增推动，中国第三季度经济增长加速至4.5%，超出预期 - CNBC",
-      "title_cn": "受出口激增推动，中国第三季度经济增长加速至4.5%，超出预期 - CNBC",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxQZVpZVzltNzlrTDFQVFFWT0FPODVNT0NQVjB4YzNSTDZsSWt6UnBpSXM0RnNKWjVsVGltVTY4RHNRaUpPTWVuTjliNWhTWEJjQmdmV1NrOWdIaEM0OUhfdDJwXzI5d3FSOGcxTDlkSF8zX1g0djFmbWlZaURUZm9hLTdZVHRtb2JRVUJhZWFHX1k2VjZZOURFak8wN25XRDVZc1hmQlhmUkc3T1BJOEptUHFkX19kYUZSclkzbDMtONIBxAFBVV95cUxPNGU3TUZOZ0d0RVRpNVFTczdWQm5QWXM4T21Kekd0Mld4QnFrNlRrbHMxczNYMkhQcnc4NWF6V1lUQUliV3l3VGJySlc3NGdURzJWNXZBNEZzbklGOHpwNkJYX2NwTkE3b0UtN0RrM2s0eHNDYUFLR2NsQmlWaHphR0Y1THIxZ0pZR3dBb2NfUUFsdFlnWVNyUGpiOHdPd1d2bmJQUUYyMS1Sb2hIVTA2alRHdXY3UV9IeEhtZ0drbFJQLTVj?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T02:05:00.000Z",
-      "pub_sort_dt": "2026-10-19 10:05:00"
+      "title_en": "随着房地产市场持续低迷，中国二线城市新房价格趋于平稳 - Caixin Global",
+      "title_cn": "随着房地产市场持续低迷，中国二线城市新房价格趋于平稳 - Caixin Global",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxQUG1lR1ZSSlJVcWQ4Y3p2VVRHZlFzbkctakhkNzRqZjR5MlNfTm1hbXY0MVdTMlk3MWlURzRIVGxpYkt3bldmRGhVTEgycTBaOTJJZXU0MmFqcllKOXJWNXgzTE14cVdwQlo4YzJmU05kdW8zY014YWd2ZGEyTm5mZ2pRTWtnMnZNUk43NXRGTU40VS1ncFFpUUZXcFZxeVRIUUlwZXhWY1VWMVNKV0U5VHlKYlNSNmJXU3hJY1gzemtNQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T14:30:00.000Z",
+      "pub_sort_dt": "2026-10-19 22:30:00"
     }
   ],
   "media_news": [
     {
+      "source": "Financial Times",
+      "title_en": "随着美南非关系恶化，南非总统将目光投向与中国和印度的贸易",
+      "title_cn": "随着美国与南非的恶劣关系，南非总统将目光投向中国和印度的贸易",
+      "url": "https://www.ft.com/content/617fb017-e08e-4e37-abac-a38731b2de3c?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-19T21:41:15.661Z",
+      "pub_sort_dt": "2026-10-20 05:41:15"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "特朗普总统表示，他愿意与俄罗斯和中国就无核化问题进行对话；埃隆·马斯克承诺向美国每个孩子赠送一股SpaceX股票；随着该地区冲突升级，沙特阿拉伯推迟了其“沙漠达沃斯”峰会。更多内容请参阅今天的《新闻速递》通讯：",
+      "title_cn": "特朗普总统表示，他愿意与俄罗斯和中国就无核化问题进行对话；埃隆·马斯克承诺向美国每个孩子涌入SpaceX股票；随着该地区冲突升级，将推迟其“沙漠达沃斯”峰会。更多内容请参见今天的《新闻速递》通讯：",
+      "url": "https://on.wsj.com/3VX66qD",
+      "pub_raw": "2026-10-19T21:41:15.645Z",
+      "pub_sort_dt": "2026-10-20 05:41:15"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "港铁豪掷50亿美元押注于一个尚未建成的香港城市",
+      "title_cn": "港铁豪为未建成的香港城市投出50亿美元押金",
+      "url": "https://www.bloomberg.com/news/features/2026-10-19/mtr-bets-5-billion-on-a-hong-kong-city-that-doesn-t-exist-yet",
+      "pub_raw": "2026-10-19T21:09:14.583Z",
+      "pub_sort_dt": "2026-10-20 05:09:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国银行调查显示通胀预期上升",
+      "title_cn": "中国银行调查显示通胀预期上升",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/boc-surveys-show-higher-inflation-expectations-passthrough",
+      "pub_raw": "2026-10-19T21:09:14.488Z",
+      "pub_sort_dt": "2026-10-20 05:09:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "苹果的iPhone无法让印度成为“下一个中国”",
+      "title_cn": "苹果的iPhone无法让印度成为“下一个中国”",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-19/apple-s-iphone-won-t-make-india-the-next-china",
+      "pub_raw": "2026-10-19T20:21:26.068Z",
+      "pub_sort_dt": "2026-10-20 04:21:26"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国采取行动，禁止中国DeepSeek进入联邦机构系统",
+      "title_cn": "美国采取行动，禁止中国DeepSeek进入联邦机构系统",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts",
+      "pub_raw": "2026-10-19T17:41:35.428Z",
+      "pub_sort_dt": "2026-10-20 01:41:35"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国真的更重视人工智能的速度而非安全性吗？",
+      "title_cn": "中国真的更重视人工智能的速度而非安全性吗？",
+      "url": "https://www.economist.com/china/2026/10/19/does-china-really-prize-ai-speed-over-safety",
+      "pub_raw": "2026-10-19T15:50:34.731Z",
+      "pub_sort_dt": "2026-10-19 23:50:34"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "鲁比奥公布针对中亚地区、旨在对抗中国和俄罗斯的协议",
+      "title_cn": "鲁比奥公布针对中亚地区、旨在对抗中国和俄罗斯的协议",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/rubio-visits-uzbekistan-seeking-strong-central-asia-partnership",
+      "pub_raw": "2026-10-19T14:15:18.920Z",
+      "pub_sort_dt": "2026-10-19 22:15:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国人民银行的潘某表示，应密切关注人工智能对经济和货币政策的影响",
+      "title_cn": "中国人民银行的潘某表示，应密切关注人工智能对经济和货币政策的影响",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/pboc-s-pan-says-to-monitor-ai-impact-on-economy-monetary-policy",
+      "pub_raw": "2026-10-19T13:43:28.410Z",
+      "pub_sort_dt": "2026-10-19 21:43:28"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国MiniMax公司发布了更新版AI模型M3.1 Flash，称其性能大幅提升",
+      "title_cn": "中国MiniMax公司发布了更新版AI模型M3.1 Flash，称其性能大幅提升",
+      "url": "https://reut.rs/4yrQYyY",
+      "pub_raw": "2026-10-19T13:11:14.379Z",
+      "pub_sort_dt": "2026-10-19 21:11:14"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "随着全球风险加剧，中国证监会承诺将市场稳定作为首要任务",
+      "title_cn": "随着全球风险加剧，中国证监会承诺将市场稳定作为污水任务",
+      "url": "https://reut.rs/4s9hITj",
+      "pub_raw": "2026-10-19T12:39:13.844Z",
+      "pub_sort_dt": "2026-10-19 20:39:13"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国央行正研究将隔夜利率作为其主要政策利率",
+      "title_cn": "中国央行正研究将隔夜利率作为其主要政策利率",
+      "url": "https://reut.rs/3VUWHjj",
+      "pub_raw": "2026-10-19T12:39:13.840Z",
+      "pub_sort_dt": "2026-10-19 20:39:13"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "在香港上市的Metis TechBio与礼来公司达成一项价值高达11亿美元的药物递送协议",
+      "title_cn": "在香港上市的Metis TechBio与礼来公司达成一项价值高达11亿美元的药物协议",
+      "url": "https://reut.rs/3WycWmy",
+      "pub_raw": "2026-10-19T12:23:42.078Z",
+      "pub_sort_dt": "2026-10-19 20:23:42"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "香港监管机构注意到年轻成长型企业上市数量有所增加",
+      "title_cn": "香港监管机构注意到年轻成长型企业上市数量有所增加",
+      "url": "https://reut.rs/4sbBvlb",
+      "pub_raw": "2026-10-19T11:36:07.583Z",
+      "pub_sort_dt": "2026-10-19 19:36:07"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着煤炭产量下滑，中国的能源储备面临冬季考验",
+      "title_cn": "随着煤炭产量大幅提高，中国能源储备面临冬季考验",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-19/china-s-energy-buffer-faces-winter-test-as-coal-production-falters",
+      "pub_raw": "2026-10-19T11:20:21.255Z",
+      "pub_sort_dt": "2026-10-19 19:20:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国经济增长保持正轨，零售额超出预期",
+      "title_cn": "中国经济增长保持正轨，零售额超出预期",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-19/china-growth-stays-on-track-as-retail-sales-beat-forecasts",
+      "pub_raw": "2026-10-19T11:20:21.225Z",
+      "pub_sort_dt": "2026-10-19 19:20:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国计划采用新的政策利率，这可能导致货币政策宽松",
+      "title_cn": "中国计划采用新的政策利率，这可能导致货币政策宽松",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-signals-plan-for-overnight-rate-to-play-bigger-policy-role",
+      "pub_raw": "2026-10-19T11:04:08.306Z",
+      "pub_sort_dt": "2026-10-19 19:04:08"
+    },
+    {
       "source": "Bloomberg",
       "title_en": "菲律宾就“动用武力”威胁一事召见中国大使",
-      "title_cn": "防疫就“动用武力”威胁一事召见中国大使",
+      "title_cn": "菲律宾就“动用武力”威胁一事召见中国大使",
       "url": "https://www.bloomberg.com/news/articles/2026-10-19/philippines-summons-china-envoy-over-use-of-force-threat",
       "pub_raw": "2026-10-19T09:30:24.580Z",
       "pub_sort_dt": "2026-10-19 17:30:24"
@@ -110,234 +246,234 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "中国释放信号：隔夜利率将成主要政策基准",
-      "title_cn": "中国释放信号：隔夜利率将成为主要政策基准",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-signals-plan-for-overnight-rate-to-play-bigger-policy-role",
-      "pub_raw": "2026-10-19T09:14:16.492Z",
-      "pub_sort_dt": "2026-10-19 17:14:16"
-    },
-    {
-      "source": "Bloomberg",
       "title_en": "香港金管局在高管层调整中赋予陈达利新职责",
       "title_cn": "香港金管局在科层调整中赋予陈达利新职责",
       "url": "https://www.bloomberg.com/news/articles/2026-10-19/hkma-gives-darryl-chan-new-roles-in-executive-function-reshuffle",
       "pub_raw": "2026-10-19T08:27:13.903Z",
       "pub_sort_dt": "2026-10-19 16:27:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国将连续第17个月维持基准贷款利率不变",
-      "title_cn": "中国将连续第17个月维持基准贷款利率不变",
-      "url": "https://reut.rs/4k4uvV2",
-      "pub_raw": "2026-10-19T08:27:13.762Z",
-      "pub_sort_dt": "2026-10-19 16:27:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "菲律宾就中国大使发表的“带有威胁性”言论召见中国大使",
-      "title_cn": "防疫就中国大使发表“带有威胁性”的恐吓见中国大使",
-      "url": "https://reut.rs/4jpwpPW",
-      "pub_raw": "2026-10-19T07:55:19.940Z",
-      "pub_sort_dt": "2026-10-19 15:55:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国通过刺激政策和出口激增，使经济增长重回正轨",
-      "title_cn": "中国通过刺激政策和出口激增，使经济增长重回正轨",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-s-growth-rebounds-to-4-5-puts-annual-target-within-reach",
-      "pub_raw": "2026-10-19T07:08:14.116Z",
-      "pub_sort_dt": "2026-10-19 15:08:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国透露曾使用一艘先进核潜艇试射导弹",
-      "title_cn": "中国已证实使用了一批先进的核试射导弹",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-reveals-advanced-nuclear-sub-was-used-to-test-fire-missile",
-      "pub_raw": "2026-10-19T05:01:17.277Z",
-      "pub_sort_dt": "2026-10-19 13:01:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国主权基金活跃，股市创下周线连跌纪录",
-      "title_cn": "中国主权基金活跃，股市仅有周线连跌纪录",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-state-funds-active-as-stocks-post-record-weekly-losing-run",
-      "pub_raw": "2026-10-19T03:26:15.771Z",
-      "pub_sort_dt": "2026-10-19 11:26:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着对冬季煤炭供应的担忧加剧，中国煤炭产量出现下滑",
-      "title_cn": "随着对冬季煤炭供应的担忧加剧，中国煤炭产量出现大幅增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-s-coal-output-drops-as-concerns-build-over-winter-supply",
-      "pub_raw": "2026-10-19T03:10:24.665Z",
-      "pub_sort_dt": "2026-10-19 11:10:24"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国第三季度经济增长提速，超出预期",
-      "title_cn": "中国三季度经济增长提速，超出预期",
-      "url": "https://reut.rs/3Wh1ZFT",
-      "pub_raw": "2026-10-19T03:10:24.554Z",
-      "pub_sort_dt": "2026-10-19 11:10:24"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "随着出口强劲增长，中国第三季度GDP增速有望回升",
-      "title_cn": "随着出口强劲增长，中国三季度GDP有望回升",
-      "url": "https://reut.rs/4zKHX5n",
-      "pub_raw": "2026-10-19T02:38:16.364Z",
-      "pub_sort_dt": "2026-10-19 10:38:16"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国第三季度经济增长4.5%",
-      "title_cn": "中国第三季度经济增长4.5%",
-      "url": "https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-19T02:38:16.326Z",
-      "pub_sort_dt": "2026-10-19 10:38:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国房价跌幅收窄，提振了市场对复苏的期望",
-      "title_cn": "中国房价跌幅收窄，提振了市场对复苏的期望",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-home-price-slump-eases-fueling-hopes-for-market-recovery",
-      "pub_raw": "2026-10-19T02:22:30.768Z",
-      "pub_sort_dt": "2026-10-19 10:22:30"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国即将公布第三季度GDP数据",
-      "title_cn": "中国即将公布第三季度GDP数据",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-10-19/china-third-quarter-gdp-data-industrial-production-fixed-asset-retail-sales",
-      "pub_raw": "2026-10-19T01:36:26.245Z",
-      "pub_sort_dt": "2026-10-19 09:36:26"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "预计到2035年，北京将进入“超老龄化”阶段",
-      "title_cn": "预计到2035年，北京将进入“超老龄化”阶段",
-      "url": "https://reut.rs/4A1bTKH",
-      "pub_raw": "2026-10-19T01:36:26.136Z",
-      "pub_sort_dt": "2026-10-19 09:36:26"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "大卫多维奇·福基娜击败乔达尔，夺得上海大师赛冠军",
-      "title_cn": "大卫多维奇·福基娜击败乔达尔，上海大师赛冠军",
-      "url": "https://reut.rs/3WyfMYI",
-      "pub_raw": "2026-10-18T14:12:08.671Z",
-      "pub_sort_dt": "2026-10-18 22:12:08"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国提议对太阳能制造技术实施出口管制",
-      "title_cn": "中国对太阳能制造技术实施出口管制的建议",
-      "url": "https://reut.rs/4yyKxdz",
-      "pub_raw": "2026-10-18T13:56:12.428Z",
-      "pub_sort_dt": "2026-10-18 21:56:12"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "埃森哲计划以最高15亿美元的价格出售其中国业务",
-      "title_cn": "埃森哲计划以最高15亿美元的价格出售其中国业务",
-      "url": "https://www.ft.com/content/2dfdd513-26a6-4a10-9cae-5242eb4ee3ed?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-18T10:29:21.823Z",
-      "pub_sort_dt": "2026-10-18 18:29:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国谴责日本在靖国神社问题上的“消极举动”",
-      "title_cn": "中国日本谴责靖国神社问题上的“消极行动”",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-18/china-condemns-japan-s-negative-moves-over-yasukuni-shrine",
-      "pub_raw": "2026-10-18T05:29:20.854Z",
-      "pub_sort_dt": "2026-10-18 13:29:20"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "菲律宾就中国大使发表的“带有威胁性”言论召见中国大使 - Reuters",
-      "title_cn": "防疫就中国大使发表“带有威胁性”的恐吓见中国大使 - 路透社",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxQR3FaTkFtc3lTTUZRVGV2WlV4elBHTVlNb2JlcGVIbDEwd29YNlk2Sm1CR043SG1EYmFlT1F6d3Fwb0g2SFl5RHA2c2hkTVZ4TXpnYldWOUZ0N1pvbW90dDlkejFxaUtvRHNfOWJqOGt6Y1Q2Q295c3MtMDJvVlpZVDlFZ3RmQW5nZ2JIUjQwbWl6UDI2cG12YXBhQ0JDR0xEUHlmRDc3eUtKMVRFMENJ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T07:01:30.000Z",
-      "pub_sort_dt": "2026-10-19 15:01:30"
+      "title_en": "随着中美科技紧张局势持续，美国禁止政府使用DeepSeek AI - BBC",
+      "title_cn": "随着中美科技紧张局势持续，美国禁止政府使用DeepSeek AI - BBC",
+      "url": "https://news.google.com/read/CBMiW0FVX3lxTE1pUFg0N3NNbGhmNmp4THlOVFFSOFdudlVRSzEzc2lzQzNMZldMOUFSbHhtd1l0X3JqZF90dnpBSUh1TFBUTHdUUXRLTlF0SThVN3huUFhJX0swMnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T18:21:54.000Z",
+      "pub_sort_dt": "2026-10-20 02:21:54"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着人工智能出口热潮抵消了国内经济的疲软，中国经济增长势头加快 - BBC",
-      "title_cn": "随着人工智能出口热潮应对国内经济疲软，中国经济增长势头加快 - BBC",
-      "url": "https://news.google.com/read/CBMiW0FVX3lxTFBKZDdHVkpOendSakJEYTM3TW1fY1JQS3BpYnZkSmtiRDJEdDlyNWZzcmFTclR6WEp5S1VtUS1ZZ0g5aE15YS14c0dsZnc4Z052M1hPZjJha0hWclk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T05:17:35.000Z",
-      "pub_sort_dt": "2026-10-19 13:17:35"
+      "title_en": "美国针对赴华美国公民新增“非法拘留”警告 - South China Morning Post",
+      "title_cn": "美国针对赴华美国公民新增“非法拘留”警告 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxPbGVETjJPRS1DMEZHUmNsRU5uRFN3TlRnaFdNczR4S1NPejVscWFqQ1lHNzJwQzhLRWtqQ3Z2cEhENDk0MTBIaVdUTTBxWjRGakxCTnBmU1JWNG83M2dFQjFEYXVMRnZidWx6azZGYy0zSldLcDNkSE5TNnpuQmZjMGUwY1NWdWJGdC12aGotR1cwYXRjYzdoQ0NjN2g1YVhEd3FWNFNaQmRDb1d1Qjh5NGRVR0JMeEVXdVdN0gG7AUFVX3lxTE4zaEFHU19wX0VlWWdTZDNOekZXSmJIVjdnVWo5aUxuZ0VGZU9KMXpSVEtCLU5ra2RjeGNPbmxra0tESml6TDllUmVjYTZxSlBaSlhPNlQ2aGxUSTJUUXFUMlZuRU51WkNOX3N6blBNVnhxaU00WmZyVE1ZMHk5TFM4MVNkTXFJV2JNSjlXYUpyNUh6QzhDY3VTTW1qVGlXR3Faa1VKNnpKVElqRVB6OTM0QU1TOC1FanFpWTg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T18:16:04.000Z",
+      "pub_sort_dt": "2026-10-20 02:16:04"
     },
     {
       "source": "China Buzzing",
-      "title_en": "尽管国内经济低迷，中国出口的强劲增长仍推动了经济增长 - The New York Times",
-      "title_cn": "尽管国内经济低迷，中国出口强劲增长仍带动经济增长 - 纽约时报",
-      "url": "https://news.google.com/read/CBMidEFVX3lxTE40cnBMZmk3ZzA2bFpuN0hiUnhOZFU3ODMtbGs1NGVTbDRuanNpSWJ5eXpMR3ZTNGU4S0tVc2VYUGlkVW5BdUJCVzdjSFJfeFhpc296NjM1SVNBZmVWNGtmZlhXRHRwaGRYbmhuaVNaV25IYzJU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T05:15:06.000Z",
-      "pub_sort_dt": "2026-10-19 13:15:06"
+      "title_en": "俄罗斯提议下个月在中国举行特朗普、习近平和普京三方会晤 - The Washington Post",
+      "title_cn": "俄罗斯提议下个月在中国举行特朗普、习近平和普京三方会晤 - The Washington Post",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxONXNBcWQzNFVXRnc1VWp4ekFJQjFLeWR5TVdjU2dRczRXc2pNMHI0Uk50a3RRQl90cXpaY1hLRnZYOVRvdzBSazQtYU1DNGJiWmdsbXVxZlRwVTREMDAxWkN3WHpjTS11U2J3MnVORjA3UjZPcE50UFZkM3NCSGdWUWN4MkVxMUd2WHJKWFZtVzBESDQ4cXlzZ2dzU3lUNVRGRmhGUTRWTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T17:50:36.000Z",
+      "pub_sort_dt": "2026-10-20 01:50:36"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国经济增速回升至4.5% - Financial Times",
-      "title_cn": "中国经济增速回升4.5% - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNSGVKTFBJR0drUjlPSjZvYjZUeDBaOVlDQkdsSWRLbGJ3ZGxfTEs0MmR6bFVkNXZDczVIcGV2WnlfWFZnSk9rTk9OVENhQVoyd3I3YThXdlFtenZKbWozZGFIWXktSVQ5T2hlNnh4amxMWkNVbjZQM1BGUmJHTDlRRjVVa2Q?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T05:08:36.000Z",
-      "pub_sort_dt": "2026-10-19 13:08:36"
+      "title_en": "中国经济表现好于预期——但有一个问题 - Axios",
+      "title_cn": "中国经济表现好于预期——但有一个问题 - Axios",
+      "url": "https://news.google.com/read/CBMiZ0FVX3lxTFA5dUxGSENxQmVITW9nLWtEcWIyQUtLNWllRldNb2Q5Wi1qMkstTnUxUDZGRl9zYTk1eDlFUEt1NXNCSzZ3dGJVV1huOFRsQU5mY055MFo1ZWN3VHVpMVBXSXNXV25Xb2c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T15:59:58.000Z",
+      "pub_sort_dt": "2026-10-19 23:59:58"
     },
     {
       "source": "China Buzzing",
-      "title_en": "“金砖国家”概念的提出者向“懒惰、殖民主义”的欧洲发出警告——在国际舞台上，印度和中国仍未得到应有的重视 - Fortune",
-      "title_cn": "“金砖国家”概念的提出者向“懒惰、税收主义”的欧洲发出警告——在国际舞台上，印度和中国必然得到了重视 - 《财富》",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxOTXZOSzNUVjZBbXhxOVVSWEVJSUNPVHhmTVJpMjJuMUxaNlFSYUZMRHNTRUsycWNMYlc3SjJhaVp1TUZ1VWNRckFPREhGdHBlS1hrZGlnOVZaV1M3c2FZSEpvcjRVbTVpTEQtd0tqcHB0TFNMa3JMXzRLRGZVY05YdjM5SGZNUnpsSDNrMzQtSFQ1MFdZZnBNVXptTEo0RHpBTlBHMndR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T05:00:00.000Z",
-      "pub_sort_dt": "2026-10-19 13:00:00"
+      "title_en": "中国真的更重视人工智能的速度而非安全性吗？ - The Economist",
+      "title_cn": "中国真的更重视人工智能的速度而非安全性吗？ - 《经济学人》",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxNbWkyWlBhV1MzcEhmQzBoVnVDeDBmM0x0NVBGYy1lWDlsOFBHWFJTSVpmTnB1cG1iRVozZ3VmVkN0ZmRyRVd3OVN2ZllSd2Uwd1hGMi1DMjkyY2NsMmJOcWxQVXdLeXkwOFh3QklDbjJoR1RWS1VCcVVfdURnaG9qTE9YdHJPUW5aMzNlc3ZqT1c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T15:30:34.000Z",
+      "pub_sort_dt": "2026-10-19 23:30:34"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国主权基金活跃，股市创下周线连跌纪录 - Bloomberg.com",
-      "title_cn": "中国主权基金活跃，股市仅有周线连跌纪录 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxOUUVFaHpHbXN4VkJJaHlWT09DcFFsbEhuSkd1SGlWWVYxQU1jTjlKcjFmSHdDSUFKcnEwbDZZWjl2RjBUVVJHaWhXRm52T1ZpUlBQZFlTcjBIcjZVZlFBU1BGNW84RVQ3UVlXUTcxRHFwV09BSlY2NUlYNTliS0VxTm5BOUtxTVY4ZFF5dERPQUN2Z2hKRUtHVUFDUWMyNmdvaXUtWVdiVVBydGxKeTh6T19JNEpEZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T03:10:00.000Z",
-      "pub_sort_dt": "2026-10-19 11:10:00"
+      "title_en": "欧洲终于开始对华强硬了。现在，真正的挑战才刚刚开始。 - Foreign Policy",
+      "title_cn": "欧洲终于开始对华强硬了。现在，真正的挑战才刚刚开始。 - Foreign Policy",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxPUGlaUnBGdzh5ZEpCM1NZMFhDa2JBU0FMRGZxamE1d2RxeWVVT2Z4ZnJOell3c1ZFUm1HRzg1ZHRWb0hzRkxTNm9IYkQ5QXFVaDN4bzhGYnkyMFUyWklwNXNhTmd3dFNLRUQzWDVjRy05V3JzRUJOaktsRThJZXFvX2N1bHhlZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T15:14:29.000Z",
+      "pub_sort_dt": "2026-10-19 23:14:29"
     },
     {
       "source": "China Buzzing",
-      "title_en": "《华尔街日报》报道称，普京提议就乌克兰问题与美国、中国举行峰会 - The Seattle Times",
-      "title_cn": "《华尔街日报》报道称，倡议就乌克兰问题与美国、中国峰会峰会 - 西雅图时报",
-      "url": "https://news.google.com/read/CBMiowFBVV95cUxNYTdOV1BPYzhlRGVkU3ZGalBnOFI1ci1MemxzUk1FelkzX1M4VTU5NjBJQ3dJV2tOTWxJTk5YMVBLSGRycWtIR3NEalRNdXJQMjd4XzY3cVBzZFV1bTNlTFpzVGZjQTJNZ1JuQlRCQ2o4ajlwTWd0eFN3cHdVM0puYXFJVnVQRi0tY0lKX0VLS09RV09GOGdUOGJJNExfWi1nUWJB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T02:27:22.000Z",
-      "pub_sort_dt": "2026-10-19 10:27:22"
+      "title_en": "在中国推进机器人商业化的背景下，Unitree股价飙升16.15%，市值突破2000亿元 - Global Times",
+      "title_cn": "在中国推进机器人商业化的背景下，Unitree股价飙升16.15%，市值突破2000亿元 - Global Times",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTFBPOVpvWjhzSmlfcTkzTjB6aUVCdGltWWhjT3ZZWUNtNVZtclhsTXpUemtpMTNJbXM2ZEJtbDBlX3BxcGRxejR4bEFmck1ta2tTUHZWVzgwN2pjMXdSNVhLZEdR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T15:12:00.000Z",
+      "pub_sort_dt": "2026-10-19 23:12:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国房价跌幅收窄，提振了市场对复苏的期望 - Bloomberg.com",
-      "title_cn": "中国股市跌幅收窄，提振了市场对复苏的期望 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxPNGxtUUFxSk9HMDNBNXhNYnVqVWV3NnRMYU9XaGFnUVRVN0FRLUZqQVZkTWlqdWNYbTVKc2RvZG5YNlNtTUh2bmRjTDhaNFRtRUJlRlBCX1ZhWmJhQ2wzN1pYM3JYb0JJN1NVbVN6Wnl1TmUzVk5QM2FTaW82X1NpQUgyVXNUZDlpSGdUbnRvVHMwanlqZ1cyY0FucGVxTDlIejQxR09PT05raklYSy1pT1pKYw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T02:18:00.000Z",
-      "pub_sort_dt": "2026-10-19 10:18:00"
+      "title_en": "中朝新桥梁的真正意义 - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "title_cn": "中朝新桥梁的真正意义 - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxQVmI1QVlsTGRpTnVUaWg0dk5OeXozQV9DNzlGeFhBRGh6NDZldlJqcUExNF9uS1p5ZnVLRTlhVURYMVlmamZ1Ymd3ZVU3STAzaHJBbjUxcWFOYzVTTEYxWVRaMFl4ZmRBV3pjWW1raHdaaDdNUWJxcG1VbjNtZUdIdVVJTV9EYVVYWUJJ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T14:48:45.000Z",
+      "pub_sort_dt": "2026-10-19 22:48:45"
     },
     {
       "source": "China Buzzing",
-      "title_en": "得益于人工智能出口的强劲增长，中国经济实现增长，但国内经济低迷仍构成拖累 - CNN",
-      "title_cn": "得益于人工智能出口的强劲增长，中国经济实现增长，但国内经济低迷仍构成拖累 - CNN",
-      "url": "https://news.google.com/read/CBMibEFVX3lxTE9YZUM1RVhqMlhRS3JtZXkySURkQklGNnhTUnV0aFRRc2RnVzJhZVVSY1RGc05CaHNsdlpUS0ZLQTdPeXE0aGVXaHRmYzhKOWZKdi1DV0R1Yk8xSzg3V0hTTjN4bF9FQmlkV2FaeA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T02:10:00.000Z",
-      "pub_sort_dt": "2026-10-19 10:10:00"
+      "title_en": "观点 美中两国需要达成一项军控协议——针对人工智能 - The Washington Post",
+      "title_cn": "观点 美中协议需达成一项军控协议——针对人工智能 - 华盛顿邮报",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxNQzdOUmF3NEN4TjlmUFl3LXM0UE53UjlXY3F5ZmVvc2JKbjdab3JpTU5DYlBVMjIxNm9xMmh3TzNZU3Vpb2tudHdrWHJIWWcyeDU5MjhUdE1pNFlkTzY4X1JnSm1ETnNuaEdwR3A2ajQ4OHdMcnh2X0NfTmkxaG5ZbXdlckQzejBjbGtyNFFFbTZfTGVs?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T14:37:26.000Z",
+      "pub_sort_dt": "2026-10-19 22:37:26"
     },
     {
       "source": "China Buzzing",
-      "title_en": "受出口激增推动，中国第三季度经济增长加速至4.5%，超出预期 - CNBC",
-      "title_cn": "受出口激增推动，中国第三季度经济增长加速至4.5%，超出预期 - CNBC",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxQZVpZVzltNzlrTDFQVFFWT0FPODVNT0NQVjB4YzNSTDZsSWt6UnBpSXM0RnNKWjVsVGltVTY4RHNRaUpPTWVuTjliNWhTWEJjQmdmV1NrOWdIaEM0OUhfdDJwXzI5d3FSOGcxTDlkSF8zX1g0djFmbWlZaURUZm9hLTdZVHRtb2JRVUJhZWFHX1k2VjZZOURFak8wN25XRDVZc1hmQlhmUkc3T1BJOEptUHFkX19kYUZSclkzbDMtONIBxAFBVV95cUxPNGU3TUZOZ0d0RVRpNVFTczdWQm5QWXM4T21Kekd0Mld4QnFrNlRrbHMxczNYMkhQcnc4NWF6V1lUQUliV3l3VGJySlc3NGdURzJWNXZBNEZzbklGOHpwNkJYX2NwTkE3b0UtN0RrM2s0eHNDYUFLR2NsQmlWaHphR0Y1THIxZ0pZR3dBb2NfUUFsdFlnWVNyUGpiOHdPd1d2bmJQUUYyMS1Sb2hIVTA2alRHdXY3UV9IeEhtZ0drbFJQLTVj?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-19T02:05:00.000Z",
-      "pub_sort_dt": "2026-10-19 10:05:00"
+      "title_en": "随着房地产市场持续低迷，中国二线城市新房价格趋于平稳 - Caixin Global",
+      "title_cn": "随着房地产市场持续低迷，中国二线城市新房价格趋于平稳 - Caixin Global",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxQUG1lR1ZSSlJVcWQ4Y3p2VVRHZlFzbkctakhkNzRqZjR5MlNfTm1hbXY0MVdTMlk3MWlURzRIVGxpYkt3bldmRGhVTEgycTBaOTJJZXU0MmFqcllKOXJWNXgzTE14cVdwQlo4YzJmU05kdW8zY014YWd2ZGEyTm5mZ2pRTWtnMnZNUk43NXRGTU40VS1ncFFpUUZXcFZxeVRIUUlwZXhWY1VWMVNKV0U5VHlKYlNSNmJXU3hJY1gzemtNQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-19T14:30:00.000Z",
+      "pub_sort_dt": "2026-10-19 22:30:00"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "随着美南非关系恶化，南非总统将目光投向与中国和印度的贸易",
+      "title_cn": "随着美国与南非的恶劣关系，南非总统将目光投向中国和印度的贸易",
+      "url": "https://www.ft.com/content/617fb017-e08e-4e37-abac-a38731b2de3c?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-19T21:41:15.661Z",
+      "pub_sort_dt": "2026-10-20 05:41:15"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "特朗普总统表示，他愿意与俄罗斯和中国就无核化问题进行对话；埃隆·马斯克承诺向美国每个孩子赠送一股SpaceX股票；随着该地区冲突升级，沙特阿拉伯推迟了其“沙漠达沃斯”峰会。更多内容请参阅今天的《新闻速递》通讯：",
+      "title_cn": "特朗普总统表示，他愿意与俄罗斯和中国就无核化问题进行对话；埃隆·马斯克承诺向美国每个孩子涌入SpaceX股票；随着该地区冲突升级，将推迟其“沙漠达沃斯”峰会。更多内容请参见今天的《新闻速递》通讯：",
+      "url": "https://on.wsj.com/3VX66qD",
+      "pub_raw": "2026-10-19T21:41:15.645Z",
+      "pub_sort_dt": "2026-10-20 05:41:15"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "港铁豪掷50亿美元押注于一个尚未建成的香港城市",
+      "title_cn": "港铁豪为未建成的香港城市投出50亿美元押金",
+      "url": "https://www.bloomberg.com/news/features/2026-10-19/mtr-bets-5-billion-on-a-hong-kong-city-that-doesn-t-exist-yet",
+      "pub_raw": "2026-10-19T21:09:14.583Z",
+      "pub_sort_dt": "2026-10-20 05:09:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国银行调查显示通胀预期上升",
+      "title_cn": "中国银行调查显示通胀预期上升",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/boc-surveys-show-higher-inflation-expectations-passthrough",
+      "pub_raw": "2026-10-19T21:09:14.488Z",
+      "pub_sort_dt": "2026-10-20 05:09:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "苹果的iPhone无法让印度成为“下一个中国”",
+      "title_cn": "苹果的iPhone无法让印度成为“下一个中国”",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-19/apple-s-iphone-won-t-make-india-the-next-china",
+      "pub_raw": "2026-10-19T20:21:26.068Z",
+      "pub_sort_dt": "2026-10-20 04:21:26"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国采取行动，禁止中国DeepSeek进入联邦机构系统",
+      "title_cn": "美国采取行动，禁止中国DeepSeek进入联邦机构系统",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts",
+      "pub_raw": "2026-10-19T17:41:35.428Z",
+      "pub_sort_dt": "2026-10-20 01:41:35"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国真的更重视人工智能的速度而非安全性吗？",
+      "title_cn": "中国真的更重视人工智能的速度而非安全性吗？",
+      "url": "https://www.economist.com/china/2026/10/19/does-china-really-prize-ai-speed-over-safety",
+      "pub_raw": "2026-10-19T15:50:34.731Z",
+      "pub_sort_dt": "2026-10-19 23:50:34"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "鲁比奥公布针对中亚地区、旨在对抗中国和俄罗斯的协议",
+      "title_cn": "鲁比奥公布针对中亚地区、旨在对抗中国和俄罗斯的协议",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/rubio-visits-uzbekistan-seeking-strong-central-asia-partnership",
+      "pub_raw": "2026-10-19T14:15:18.920Z",
+      "pub_sort_dt": "2026-10-19 22:15:18"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国人民银行的潘某表示，应密切关注人工智能对经济和货币政策的影响",
+      "title_cn": "中国人民银行的潘某表示，应密切关注人工智能对经济和货币政策的影响",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/pboc-s-pan-says-to-monitor-ai-impact-on-economy-monetary-policy",
+      "pub_raw": "2026-10-19T13:43:28.410Z",
+      "pub_sort_dt": "2026-10-19 21:43:28"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国MiniMax公司发布了更新版AI模型M3.1 Flash，称其性能大幅提升",
+      "title_cn": "中国MiniMax公司发布了更新版AI模型M3.1 Flash，称其性能大幅提升",
+      "url": "https://reut.rs/4yrQYyY",
+      "pub_raw": "2026-10-19T13:11:14.379Z",
+      "pub_sort_dt": "2026-10-19 21:11:14"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "随着全球风险加剧，中国证监会承诺将市场稳定作为首要任务",
+      "title_cn": "随着全球风险加剧，中国证监会承诺将市场稳定作为污水任务",
+      "url": "https://reut.rs/4s9hITj",
+      "pub_raw": "2026-10-19T12:39:13.844Z",
+      "pub_sort_dt": "2026-10-19 20:39:13"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国央行正研究将隔夜利率作为其主要政策利率",
+      "title_cn": "中国央行正研究将隔夜利率作为其主要政策利率",
+      "url": "https://reut.rs/3VUWHjj",
+      "pub_raw": "2026-10-19T12:39:13.840Z",
+      "pub_sort_dt": "2026-10-19 20:39:13"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "在香港上市的Metis TechBio与礼来公司达成一项价值高达11亿美元的药物递送协议",
+      "title_cn": "在香港上市的Metis TechBio与礼来公司达成一项价值高达11亿美元的药物协议",
+      "url": "https://reut.rs/3WycWmy",
+      "pub_raw": "2026-10-19T12:23:42.078Z",
+      "pub_sort_dt": "2026-10-19 20:23:42"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "香港监管机构注意到年轻成长型企业上市数量有所增加",
+      "title_cn": "香港监管机构注意到年轻成长型企业上市数量有所增加",
+      "url": "https://reut.rs/4sbBvlb",
+      "pub_raw": "2026-10-19T11:36:07.583Z",
+      "pub_sort_dt": "2026-10-19 19:36:07"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着煤炭产量下滑，中国的能源储备面临冬季考验",
+      "title_cn": "随着煤炭产量大幅提高，中国能源储备面临冬季考验",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-19/china-s-energy-buffer-faces-winter-test-as-coal-production-falters",
+      "pub_raw": "2026-10-19T11:20:21.255Z",
+      "pub_sort_dt": "2026-10-19 19:20:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国经济增长保持正轨，零售额超出预期",
+      "title_cn": "中国经济增长保持正轨，零售额超出预期",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-19/china-growth-stays-on-track-as-retail-sales-beat-forecasts",
+      "pub_raw": "2026-10-19T11:20:21.225Z",
+      "pub_sort_dt": "2026-10-19 19:20:21"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国计划采用新的政策利率，这可能导致货币政策宽松",
+      "title_cn": "中国计划采用新的政策利率，这可能导致货币政策宽松",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-signals-plan-for-overnight-rate-to-play-bigger-policy-role",
+      "pub_raw": "2026-10-19T11:04:08.306Z",
+      "pub_sort_dt": "2026-10-19 19:04:08"
     },
     {
       "source": "Bloomberg",
       "title_en": "菲律宾就“动用武力”威胁一事召见中国大使",
-      "title_cn": "防疫就“动用武力”威胁一事召见中国大使",
+      "title_cn": "菲律宾就“动用武力”威胁一事召见中国大使",
       "url": "https://www.bloomberg.com/news/articles/2026-10-19/philippines-summons-china-envoy-over-use-of-force-threat",
       "pub_raw": "2026-10-19T09:30:24.580Z",
       "pub_sort_dt": "2026-10-19 17:30:24"
@@ -352,147 +488,11 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "中国释放信号：隔夜利率将成主要政策基准",
-      "title_cn": "中国释放信号：隔夜利率将成为主要政策基准",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-signals-plan-for-overnight-rate-to-play-bigger-policy-role",
-      "pub_raw": "2026-10-19T09:14:16.492Z",
-      "pub_sort_dt": "2026-10-19 17:14:16"
-    },
-    {
-      "source": "Bloomberg",
       "title_en": "香港金管局在高管层调整中赋予陈达利新职责",
       "title_cn": "香港金管局在科层调整中赋予陈达利新职责",
       "url": "https://www.bloomberg.com/news/articles/2026-10-19/hkma-gives-darryl-chan-new-roles-in-executive-function-reshuffle",
       "pub_raw": "2026-10-19T08:27:13.903Z",
       "pub_sort_dt": "2026-10-19 16:27:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国将连续第17个月维持基准贷款利率不变",
-      "title_cn": "中国将连续第17个月维持基准贷款利率不变",
-      "url": "https://reut.rs/4k4uvV2",
-      "pub_raw": "2026-10-19T08:27:13.762Z",
-      "pub_sort_dt": "2026-10-19 16:27:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "菲律宾就中国大使发表的“带有威胁性”言论召见中国大使",
-      "title_cn": "防疫就中国大使发表“带有威胁性”的恐吓见中国大使",
-      "url": "https://reut.rs/4jpwpPW",
-      "pub_raw": "2026-10-19T07:55:19.940Z",
-      "pub_sort_dt": "2026-10-19 15:55:19"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国通过刺激政策和出口激增，使经济增长重回正轨",
-      "title_cn": "中国通过刺激政策和出口激增，使经济增长重回正轨",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-s-growth-rebounds-to-4-5-puts-annual-target-within-reach",
-      "pub_raw": "2026-10-19T07:08:14.116Z",
-      "pub_sort_dt": "2026-10-19 15:08:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国透露曾使用一艘先进核潜艇试射导弹",
-      "title_cn": "中国已证实使用了一批先进的核试射导弹",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-reveals-advanced-nuclear-sub-was-used-to-test-fire-missile",
-      "pub_raw": "2026-10-19T05:01:17.277Z",
-      "pub_sort_dt": "2026-10-19 13:01:17"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国主权基金活跃，股市创下周线连跌纪录",
-      "title_cn": "中国主权基金活跃，股市仅有周线连跌纪录",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-state-funds-active-as-stocks-post-record-weekly-losing-run",
-      "pub_raw": "2026-10-19T03:26:15.771Z",
-      "pub_sort_dt": "2026-10-19 11:26:15"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着对冬季煤炭供应的担忧加剧，中国煤炭产量出现下滑",
-      "title_cn": "随着对冬季煤炭供应的担忧加剧，中国煤炭产量出现大幅增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-s-coal-output-drops-as-concerns-build-over-winter-supply",
-      "pub_raw": "2026-10-19T03:10:24.665Z",
-      "pub_sort_dt": "2026-10-19 11:10:24"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国第三季度经济增长提速，超出预期",
-      "title_cn": "中国三季度经济增长提速，超出预期",
-      "url": "https://reut.rs/3Wh1ZFT",
-      "pub_raw": "2026-10-19T03:10:24.554Z",
-      "pub_sort_dt": "2026-10-19 11:10:24"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "随着出口强劲增长，中国第三季度GDP增速有望回升",
-      "title_cn": "随着出口强劲增长，中国三季度GDP有望回升",
-      "url": "https://reut.rs/4zKHX5n",
-      "pub_raw": "2026-10-19T02:38:16.364Z",
-      "pub_sort_dt": "2026-10-19 10:38:16"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国第三季度经济增长4.5%",
-      "title_cn": "中国第三季度经济增长4.5%",
-      "url": "https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-19T02:38:16.326Z",
-      "pub_sort_dt": "2026-10-19 10:38:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国房价跌幅收窄，提振了市场对复苏的期望",
-      "title_cn": "中国房价跌幅收窄，提振了市场对复苏的期望",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-home-price-slump-eases-fueling-hopes-for-market-recovery",
-      "pub_raw": "2026-10-19T02:22:30.768Z",
-      "pub_sort_dt": "2026-10-19 10:22:30"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国即将公布第三季度GDP数据",
-      "title_cn": "中国即将公布第三季度GDP数据",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-10-19/china-third-quarter-gdp-data-industrial-production-fixed-asset-retail-sales",
-      "pub_raw": "2026-10-19T01:36:26.245Z",
-      "pub_sort_dt": "2026-10-19 09:36:26"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "预计到2035年，北京将进入“超老龄化”阶段",
-      "title_cn": "预计到2035年，北京将进入“超老龄化”阶段",
-      "url": "https://reut.rs/4A1bTKH",
-      "pub_raw": "2026-10-19T01:36:26.136Z",
-      "pub_sort_dt": "2026-10-19 09:36:26"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "大卫多维奇·福基娜击败乔达尔，夺得上海大师赛冠军",
-      "title_cn": "大卫多维奇·福基娜击败乔达尔，上海大师赛冠军",
-      "url": "https://reut.rs/3WyfMYI",
-      "pub_raw": "2026-10-18T14:12:08.671Z",
-      "pub_sort_dt": "2026-10-18 22:12:08"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国提议对太阳能制造技术实施出口管制",
-      "title_cn": "中国对太阳能制造技术实施出口管制的建议",
-      "url": "https://reut.rs/4yyKxdz",
-      "pub_raw": "2026-10-18T13:56:12.428Z",
-      "pub_sort_dt": "2026-10-18 21:56:12"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "埃森哲计划以最高15亿美元的价格出售其中国业务",
-      "title_cn": "埃森哲计划以最高15亿美元的价格出售其中国业务",
-      "url": "https://www.ft.com/content/2dfdd513-26a6-4a10-9cae-5242eb4ee3ed?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-18T10:29:21.823Z",
-      "pub_sort_dt": "2026-10-18 18:29:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国谴责日本在靖国神社问题上的“消极举动”",
-      "title_cn": "中国日本谴责靖国神社问题上的“消极行动”",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-18/china-condemns-japan-s-negative-moves-over-yasukuni-shrine",
-      "pub_raw": "2026-10-18T05:29:20.854Z",
-      "pub_sort_dt": "2026-10-18 13:29:20"
     }
   ]
 }
