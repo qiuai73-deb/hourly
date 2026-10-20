@@ -1,15 +1,63 @@
 {
-  "update_cst": "2026-10-20 18:01:12 北京时间",
+  "update_cst": "2026-10-21 06:01:10 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 9,
-    "Financial Times": 4,
-    "Wall Street Journal": 0,
-    "Reuters": 7
+    "The Economist": 1,
+    "Bloomberg": 10,
+    "Financial Times": 0,
+    "Wall Street Journal": 1,
+    "Reuters": 8
   },
   "china_news": [
+    {
+      "source": "China Buzzing",
+      "title_en": "随着进口配额限制临近，中国对欧盟的混合动力汽车出口激增逾200% - South China Morning Post",
+      "title_cn": "随着进口限制动力形成，中国对欧盟的混合汽车出口激增超过200% - 南华早报",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxPWXRUVGNubGpwUnZzVDRGWEdNem1VeVRXS1pHYWgyNS0zdzZidU5rcE55ZDRoR1dZM2p1ajFUbmpJc2NCc0pZX2g1NE8wUWFBd1pRdVpSZ3RXT09saGduUDFSRXR6c0p1Y1hlbThPX0tZMzBweWVNNFB0Y1A5bmxEOWx4dzE5anZvZlFwVHFtQkZDUjlrU2pvbmdCOFNEVzR4bVV5dGM1TDVjdlNGZ1RuWWVjRWdGS2UxdmYtZQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T13:00:10.000Z",
+      "pub_sort_dt": "2026-10-20 21:00:10"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国禁止政府机构使用中国DeepSeek的人工智能工具 - The Guardian",
+      "title_cn": "美国禁止政府机构使用中国DeepSeek的人工智能工具 - 卫报",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxOUV9DaHpRUTR2dzh2cG9RTHdpa3VReVdBSzNfbkJlUm1wX3VXdWREbmMtRkpGOE5SZE0waTJYVmMya2F2NUxCTHRXaXBmaHhpczFZN2JMbG50VEM1cmNWVVpHWVg1ell2ZG9qM013bHpGX3NwbkRLamN3QU04a2pER1FRQXlxb253cDR2aHlvSEZ5V3JxSVZaVDdheDdFMkpj?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T12:33:00.000Z",
+      "pub_sort_dt": "2026-10-20 20:33:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国成立国有数据集团以推动其人工智能发展目标 - Bloomberg.com",
+      "title_cn": "中国成立国家数据集团以推动人工智能发展目标 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxOcTV1amNXT0VzMUNSRHRaYy1DekJHWUVsRkptWmRvQzE3MnhIWU8wek80bURmZVpxVldHT2FWcFFHX1ZCMzhaWHVFMnRGM19GZ1dPU3NjWEdyc3FsLWg3WHFCNHdpZURaQ3ZSTG52THBnYWd0S2IyZmd4SmpuVFUzcE82Xzg3WTE4SjIwbS1FWk9leEEyd0pqNkw2ZHRFWUQyc2ZKOXRXMlFXQlUycHVTR0ZHSQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T12:13:00.000Z",
+      "pub_sort_dt": "2026-10-20 20:13:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "凯文·奥利里再次被起诉，指控称犹他州的Stratos反对者为中国工作 - The Salt Lake Tribune",
+      "title_cn": "凯文·奥利里再次被起诉，指控犹他州的斯特拉托斯反对者为中国工作 - 盐湖论坛报",
+      "url": "https://news.google.com/read/CBMid0FVX3lxTE9uQkxCV0xQVzVReG5qNFR4ZkV3TjBiSHRuWmhrdHVvZFUzY2dGOWM2Y05uYUNMWTBKWThzZE9haGVrU19URnJBRTh2U2R6WjR1Ti1fcVY4emlXZ25YMWhkYWJtTXNHcmhCaHJ0ODlUUWoxRGV2UXlj?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T12:04:34.000Z",
+      "pub_sort_dt": "2026-10-20 20:04:34"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国政坛最顽强的“幸存者”刚刚倒下。这反映了习近平执政的什么情况？ - WSJ",
+      "title_cn": "中国政坛最顽强的“弟子”刚刚倒下。这反映了习近平执政的什么情况？ - 华尔街日报",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxNbTNDZ2JLUWN4RlJQNVNaRk1wX0wzSXVnTnFwaWthc0MtSkp5eFVuNi1CclRnWFQ4czh5UVdhcWx5VVhzSEtXalM1Y3oxcHhsSF9ncWt4MF83OTBTS0VPZWV0ZndiSnJwRDZ3WWlnVVpaRkVhUWRrT1RhYjZJZFp2SHQxWnJ5MlpsM1Zpd2YyM3U3YWhNMDZxVFE0ak5xSVgyclFadVJkTk93TWpnQkVPa2c5TDJrQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T10:55:00.000Z",
+      "pub_sort_dt": "2026-10-20 18:55:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "“人们渴望表达自我”：来自中国最时尚城市的报道 - CNN",
+      "title_cn": "“人们渴望表达自我”：来自中国最时尚城市的报道 - CNN",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNcFhjUFZ6SDZIeVNfc0R5a2FVZkw2YTBubHNOYlA3WGR5NUlQWncyZFhBMzR5WVdyTGZ1Z0tqaVY4dnBqaFBEMEx1MVpaM0VwZG1LQlQ4ODhzZWtXYjEtQmM3cm9VVzl1anNreVpJeWtVRXN2MHkwUFlwWVpxZng0MkR3Q1Q?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T09:45:21.000Z",
+      "pub_sort_dt": "2026-10-20 17:45:21"
+    },
     {
       "source": "China Buzzing",
       "title_en": "安全公司发现，日本遭遇的网络攻击背后是与中方有关联的人工智能代理 - Japan Today",
@@ -28,70 +76,102 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "在美国与中国的AI领域分歧加剧之际，美国禁止DeepSeek进入政府机构系统 - CNBC",
-      "title_cn": "在美国与中国的AI领域封闭之际，美国禁止DeepSeek进入政府机构系统 - CNBC",
-      "url": "https://news.google.com/read/CBMidkFVX3lxTE9BMm5ISmplcUtod2txVlV0ajlNUHFPanpRa09GWnBMdjdOaUFCSTZOUXk2SnVNclplakZrckJWZDZTYU96Z3pKTVZieUZiVXkwM3Fza0FibjVLaGhBR2dNMUVwNW1yTllMZlI5R1N6ek1MZXI5OXfSAXtBVV95cUxOMTd2ZFNDSGNCclhSb3lSYl9MdnVtZ3BiYlp6VFQyZUpNR25oNFlsYnRnMThxWmJTZ2tWd3BGWV9PWGFSdHMzMFotTmNpbUFuQzZLaVdkOTJtSmxHeEpLdFcyU013c1dUMktXNWt4blRDZFYzeEk2VkF6WVU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T06:25:26.000Z",
-      "pub_sort_dt": "2026-10-20 14:25:26"
+      "title_en": "中国在亚太经合组织会议上就全球动荡发出严厉警告 - Bloomberg.com",
+      "title_cn": "中国在亚太经合组织会议上就全球动荡发出紧急警告 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxPRkZzcGdpZjRtN2xnME5vcVNvU2M4V3hmaWV1WnB4c3pTcmxVVnRWS3lWdk8tUHR1RHRMb1pUeGJJZWRpMmwzdGhESGtGYzF0OGYzTkNmZThLTHJJbmhoRXp6T0hiV0x4VXNQS01Uc05VUkhwZFhRS2dGT1p4aHZfblBGRmdsTW5yVjBDTHowR0FGUHdwVERWbXRNel9nOUtaRm9DR19mbjdKMC1lblljQWtndUY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T07:16:29.000Z",
+      "pub_sort_dt": "2026-10-20 15:16:29"
     },
     {
       "source": "China Buzzing",
-      "title_en": "“假通勤”：中国失业者如何保全颜面 - Reuters",
-      "title_cn": "“假通勤”：中国失业者如何保全颜面 - 路透社",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxPOGNrUFg3d1QxV2UtNVFtdjY3SUhSdnF3Q29tbEljbmZqUlFIeFB3QmowcEMtbWNWTHFYRXBKLWQwSk1PYmJrbGxiTFZ1c004VTF4SnJLZ1J2MGdwclZxQzNobmdjR2Q1RHE1SVpDWmllRzlzNXlNWmZmalBQN21nRHQtN2dCTXRxNGNKeUZja0d1Z3g4U3JLZjFaa1p6X2VYUFgzc2dB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T06:05:00.000Z",
-      "pub_sort_dt": "2026-10-20 14:05:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在间谍指控争端日益升级之际，中国抗议英国在边境进行搜查和扣押手机的行为 - South China Morning Post",
-      "title_cn": "在间谍提案呼吁升级之际，中国抗议英国在边境进行搜查和扣押手机的行为 - 南华早报",
-      "url": "https://news.google.com/read/CBMi1AFBVV95cUxQTEZ0Rkd6dUNzM18xWXNIdk1tTUtlUnAxR2R4LWpyT2JXeFFhZkNiSUlZWFVnemMybUxYQ19GR3c3WGZvYzNNQ0Vla3p2SUUyN0JFMV9USl9KX2E5NXcxS0E3X0dCeWhPRzR5UDBubENaaXlkT2VTN2RwZ1JoRXVjVmFhaU9YSFRDQlg0LWVJYzI0Q3VJN2RFclUyS3lFOHFFODQtS2RVMEt2ZDRDQTM3N3prNEdWOXVsQUhJLVdtY2VZWTZpMThkNDhxTWlBNEo2VTR1edIB1AFBVV95cUxNaG43MGI4blhDX3dnaS1VcVJvbk1xbXlHdDFubnR0RU9KbHROck1OSkdYQmJ4QjBTLUdocmd6OWtxNXpRVnBUei1vTE5jaFcyUUg3RUtOd0J0VkdWVDVEMjY3ejdrdXVKOEtPRDRTMkVQc1RMZjBPQWI5YmdUelg3bWctUm9MMWVaaWZKMTJfU0FtUFZaOVIzOVNtNlR3blNrUmJLZEY5eUNydHVpS1NSdzVrbmlpVlRlWjc2NHlBUm50UkJpdFBsNWNDYlUxbUZNM2laeQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T06:00:05.000Z",
-      "pub_sort_dt": "2026-10-20 14:00:05"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国海军称，一艘美国军舰在萨比纳浅滩附近活动，危及海上安全 - Reuters",
-      "title_cn": "中国海军称，一艘美国军舰在萨比纳浅滩附近活动，危及海上安全 - 路透中文网",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxOOHozWXlncm9jZTU0NmZiWUk0blJ0cHpVeDNpWm9UVUdscHU1V2MteFNUaFBVNF9tazZib0pwWDU4czUxSTZ1Wmg3WlVlMHlCLU1wYzdDaWNrdmdBT3gyOHUzY3dMbXdqTF91SURON1NLcU02bDhJdE9WaE10eW9OSXJQZzlHcFh5c2k2V1dhQ1lJa2Y3bmdMVlRYbVlqQ3NwekpLaHdvbzBud1M1Sl9DN0lRd3BFWG8zZjV3ZlNB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T05:13:00.000Z",
-      "pub_sort_dt": "2026-10-20 13:13:00"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "非洲的经济增长速度能超过中国吗？ - Financial Times",
-      "title_cn": "非洲的经济增长速度能超过中国吗？ - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQazFDdHl0aGo5cGxWci1hUHV2RHpMNGVOV3lVM2owR2c1QTV0N1hhTmhxWWhzdmFCcjY5ZXowOFZ2RmlrUnBjV0Z3bUMyWmFSLXljWm5pa0todUNjMnRPUWRQSUZEdl82MDFsckJJR3ktZ1AyWjdlRlhpUkR4MWFzQlFSeE0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T04:05:49.000Z",
-      "pub_sort_dt": "2026-10-20 12:05:49"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "在中国收紧供应的情况下，日本距离关键稀土资源耗尽仅剩“数月” - Financial Times",
-      "title_cn": "在中国收紧供应的情况下，日本距离关键稀土资源贫困仅剩“数月” - 英国《金融时报》",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPdGJDTEN3Z09DeWNoSlBtNGNOWnBCNDNHbHJjbVpBeHNRX3FpVjA2SnRuNFVvMXVYeGU3eVdqT0s3RjFkeHV5bmY0ZjQ5TUVweWFRNk1xTTNJbjBkTzNNTllPdVpHVzZZUDAwSjZ2WmN1b1E3M2wtTUVHQVM5c20tNk5teFY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T04:03:25.000Z",
-      "pub_sort_dt": "2026-10-20 12:03:25"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "中国新型0.1纳米电子显微镜已准备好向美国和日本发起挑战 - South China Morning Post",
-      "title_cn": "中国新型0.1纳米电子显微镜已准备好向美国和日本发起挑战 - 南华早报",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxNZEMzcUVSM1ItbjF5UXhSSDFyNTlST3otdEdpQ1ZWc2MwM2ZmMGU3bElmbHZmUVdpS1A0RjZTTm40UUY3RnByUjVYOXBjV3pxTEc0Sm5OM3RmNl9VemRTalhoTkxzQnUta0l6ZzBpRzhJalJNVHB0cWNyRlpyM21oVDU5Qlc2LUFaQ0J0X1JkRFlZM1dvcTNlblJjRk1zT3RYcGZpZmxIbk5QSWZXdEw5RWl2WnNDdTRDalpJUWZFZ2pDOUIzWDlr?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T04:00:09.000Z",
-      "pub_sort_dt": "2026-10-20 12:00:09"
-    },
-    {
-      "source": "China Buzzing",
-      "title_en": "美国国会任命的官员称，中国在台湾以东海域的巡航活动“破坏稳定” - Reuters",
-      "title_cn": "美国国会指定官员称中国在台湾以东海域的巡航活动“破坏稳定” - 路透社",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxOdTEzTG1HSEl6MVRHYTNGcE9lcmxKWkxRbmVRQUdPYTRTckt6VFBuZzlraElya0NJMm1BLTJxZDV2NE92cF9ULXVRdDdDSnNiVldmbzE2UFhYX0MweThsTUxQYVI3bGNySkgyRU5ZcE5wUWs4RkNMb2tCLU9HcnoxWnBmNHkxTzVnTXQzTk5DZ1FDWlFiazlJcFVuUDJGWUVvdEhNRzlSc2tvX3hxcFZsa00tcjFhb1ZWZDdnQ3htZEhwMWc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T03:21:00.000Z",
-      "pub_sort_dt": "2026-10-20 11:21:00"
+      "title_en": "一名学生因在俄罗斯涉及日本旭日旗的事件被遣返回中国 - South China Morning Post",
+      "title_cn": "一名俄罗斯学生因涉及日本旭日旗事件被遣返中国 - 南华早报",
+      "url": "https://news.google.com/read/CBMixgFBVV95cUxQSTZMcU1zUWdpT3pxYTJjc1F1Tl9YQ09VSm54eU9zM0R1YWw2UXA0ZW01X0xnOXVaaXRSalFPVENyQk1lVGdpeTk2N0UxWl9tcTgzMWM4MGdkVmpzdVdRLUJvUUpWWEw4b2M4d2hmd3lVUzc4NTRsMFk3RjdtSFAyNm00Vnk1YmZ4RXc5dGdLaUI1VDFmNlY4QXV4LS0yR3U5aW9pS1VpVXMyZ25yZWE1S2s1SWg2NTRhSW1nbEswVE90dW5uckHSAcYBQVVfeXFMTm0xOHR3X0lacFJlaHFraEYxZXl0SjZpYkIxUy0xTE5GY3JaLUxSUll4YkNLQzkzdFNkeE1DSlJHNVJPTUNyaGFRSUFzTDJaeFoxanFhX2ViUmNsU0xZR0RUZWJmTkNOTXE2Z2EtMF82WmlFYUx4YzlrY2VQdzlHbkJiNVJWd1Q0NmxKRHFiVnpTTzdkOGZqbzBwdDA4dHd1bVNnUUlpZ1VVZHducmlmeXZrS1F2TUc2LTd6a2ZBeWZhZmI3VFNR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T07:00:58.000Z",
+      "pub_sort_dt": "2026-10-20 15:00:58"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "密苏里州向法院表示，中国错失了对240亿美元新冠疫情赔偿裁决提出异议的机会",
+      "title_cn": "密苏里州向法院表示，中国错失了240亿美元新冠疫情赔偿裁决，提出异议的机会",
+      "url": "https://reut.rs/4BefTJ7",
+      "pub_raw": "2026-10-20T20:36:26.093Z",
+      "pub_sort_dt": "2026-10-21 04:36:26"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国的大学财力雄厚。但它们正面临资金压力",
+      "title_cn": "中国的大学财力压力巨大。但它们正面临资金压力",
+      "url": "https://www.economist.com/china/2026/10/20/chinas-universities-are-rich-but-theyre-getting-squeezed",
+      "pub_raw": "2026-10-20T20:12:14.476Z",
+      "pub_sort_dt": "2026-10-21 04:12:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "英国表示愿意在欧盟峰会前就对中国汽车征收关税一事进行讨论",
+      "title_cn": "英国表示愿意在欧盟峰会前就对中国汽车关税一事进行讨论",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/uk-open-to-discussing-chinese-car-tariffs-ahead-of-eu-summit",
+      "pub_raw": "2026-10-20T20:12:13.752Z",
+      "pub_sort_dt": "2026-10-21 04:12:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "一个失控的中国人工智能真的想去动物园。这可成问题了",
+      "title_cn": "一个失控的中国人工智能真的想去动物园。这可成问题了",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-20/rogue-chinese-ai-really-wants-to-go-to-the-zoo-that-s-a-problem",
+      "pub_raw": "2026-10-20T20:12:13.745Z",
+      "pub_sort_dt": "2026-10-21 04:12:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "巴西准备最早于下周首次在中国发行债券",
+      "title_cn": "巴西准备首先于下周首次在中国发行债券",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/brazil-readies-china-bond-debut-for-as-soon-as-next-week",
+      "pub_raw": "2026-10-20T20:12:13.711Z",
+      "pub_sort_dt": "2026-10-21 04:12:13"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国在谷歌人工智能机密案中对一家中国风险投资公司实施制裁",
+      "title_cn": "美国在谷歌人工智能机密案中对一家中国风险投资公司实施制裁",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case",
+      "pub_raw": "2026-10-20T20:12:13.531Z",
+      "pub_sort_dt": "2026-10-21 04:12:13"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "随着竞争加剧，中国宁德时代第三季度利润增速创近两年新低",
+      "title_cn": "随着竞争加剧，中国宁德第三季度利润已创近两年新低",
+      "url": "https://reut.rs/4yBhlTp",
+      "pub_raw": "2026-10-20T13:06:24.460Z",
+      "pub_sort_dt": "2026-10-20 21:06:24"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着司机纷纷放弃柴油车，大众旗下的斯堪尼亚加速推进中国电动卡车业务",
+      "title_cn": "随着司机纷纷放弃柴油车，大众推出的斯尼亚加速推进中国电动卡车业务",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/vw-s-scania-hastens-china-e-truck-push-as-drivers-abandon-diesel",
+      "pub_raw": "2026-10-20T11:47:18.616Z",
+      "pub_sort_dt": "2026-10-20 19:47:18"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "特朗普、拜登和奥巴马政府的前官员警告称，除非美国通过一项重大的能源许可法案，否则美国有可能在与中国的技术和产业竞争中落败。",
+      "title_cn": "特朗普、拜登和奥巴马政府的前大臣警告称，除非美国通过一项重大的能源许可法案，否则美国可能会在与中国的技术和产业竞争中落败。",
+      "url": "https://on.wsj.com/47uQ5e8",
+      "pub_raw": "2026-10-20T11:15:11.279Z",
+      "pub_sort_dt": "2026-10-20 19:15:11"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国镍企计划商讨削减印尼产量",
+      "title_cn": "中国镍企计划商讨谈判产量",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/chinese-nickel-firms-plan-to-discuss-cutting-indonesian-output",
+      "pub_raw": "2026-10-20T10:11:12.502Z",
+      "pub_sort_dt": "2026-10-20 18:11:12"
+    },
     {
       "source": "Bloomberg",
       "title_en": "中国基准利率调整预示隔夜操作将逐步扩大",
@@ -171,91 +251,59 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-20/china-moves-to-curb-hydrogen-overcapacity-as-investment-surges",
       "pub_raw": "2026-10-20T04:37:27.662Z",
       "pub_sort_dt": "2026-10-20 12:37:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "瑞士手表成为梅赛德斯-奔驰、保时捷和宝马在中国市场竞争的标杆",
-      "title_cn": "瑞士手表成为梅赛德斯-奔驰、保时捷和宝马在中国市场竞争的标杆",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-20/swiss-watches-are-the-model-for-mercedes-porsche-and-bmw-in-china-fight",
-      "pub_raw": "2026-10-20T04:21:33.769Z",
-      "pub_sort_dt": "2026-10-20 12:21:33"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国收紧供应，日本距关键稀土资源耗尽仅剩“数月”",
-      "title_cn": "中国收紧供应，日本距关键稀土资源疲惫仅“数月”",
-      "url": "https://www.ft.com/content/ebd3244a-9120-4773-b55f-41df77f60c93?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-20T04:05:22.840Z",
-      "pub_sort_dt": "2026-10-20 12:05:22"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "非洲的经济增长速度能超过中国吗？",
-      "title_cn": "非洲的经济增长速度能超过中国吗？",
-      "url": "https://www.ft.com/content/4702e72d-ba3c-43c4-92e7-1dffccddcd16?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-20T04:05:22.350Z",
-      "pub_sort_dt": "2026-10-20 12:05:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国国会任命的官员称，中国在台湾以东海域的巡航活动“破坏稳定”",
-      "title_cn": "美国国会高层称，中国在台湾以东海域的活动“破坏稳定”",
-      "url": "https://reut.rs/4yA1tk2",
-      "pub_raw": "2026-10-20T03:49:21.461Z",
-      "pub_sort_dt": "2026-10-20 11:49:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "分析师称，中国人民银行的利率调整计划将降低借贷成本",
-      "title_cn": "分析师称，中国人民银行的利率调整计划将降低网络成本",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/pboc-rate-shift-plan-would-lower-borrowing-costs-analysts",
-      "pub_raw": "2026-10-20T02:45:28.795Z",
-      "pub_sort_dt": "2026-10-20 10:45:28"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国称曾使用先进核潜艇试射洲际弹道导弹",
-      "title_cn": "中国称曾使用先进的核试射洲际弹道导弹",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-reveals-advanced-nuclear-sub-was-used-to-test-fire-missile",
-      "pub_raw": "2026-10-20T02:45:28.682Z",
-      "pub_sort_dt": "2026-10-20 10:45:28"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "阿里巴巴支持中国机器人制造商完成4亿美元融资",
-      "title_cn": "阿里巴巴支持中国机器人制造商完成4亿美元融资",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/alibaba-backs-chinese-robovan-maker-in-400-million-fundraising",
-      "pub_raw": "2026-10-20T02:13:24.927Z",
-      "pub_sort_dt": "2026-10-20 10:13:24"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国农村为北京的AI雄心付出了代价",
-      "title_cn": "中国农村为北京的人工智能雄心付出了代价",
-      "url": "https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-20T00:37:26.428Z",
-      "pub_sort_dt": "2026-10-20 08:37:26"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "FirstFT：随着人工智能热潮为出口注入强劲动力，中国经济增速加快",
-      "title_cn": "第一财经：随着人工智能热潮为出口注入动力，中国经济重新加快",
-      "url": "https://www.ft.com/content/92a2e2a4-356a-4aa3-9d1e-8b4fbaf1c365?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-19T23:33:06.559Z",
-      "pub_sort_dt": "2026-10-20 07:33:06"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Z.AI的创始人曾参与由英国中国研究所资助的研究项目，该研究所与间谍活动有关",
-      "title_cn": "Z.AI的创始人曾参与由英国中国研究所资助的研究项目，该研究所与间谍活动有关",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/z-ai-founders-worked-on-research-funded-by-china-institute-uk-tied-to-spies",
-      "pub_raw": "2026-10-19T23:17:12.573Z",
-      "pub_sort_dt": "2026-10-20 07:17:12"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
+      "title_en": "随着进口配额限制临近，中国对欧盟的混合动力汽车出口激增逾200% - South China Morning Post",
+      "title_cn": "随着进口限制动力形成，中国对欧盟的混合汽车出口激增超过200% - 南华早报",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxPWXRUVGNubGpwUnZzVDRGWEdNem1VeVRXS1pHYWgyNS0zdzZidU5rcE55ZDRoR1dZM2p1ajFUbmpJc2NCc0pZX2g1NE8wUWFBd1pRdVpSZ3RXT09saGduUDFSRXR6c0p1Y1hlbThPX0tZMzBweWVNNFB0Y1A5bmxEOWx4dzE5anZvZlFwVHFtQkZDUjlrU2pvbmdCOFNEVzR4bVV5dGM1TDVjdlNGZ1RuWWVjRWdGS2UxdmYtZQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T13:00:10.000Z",
+      "pub_sort_dt": "2026-10-20 21:00:10"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "美国禁止政府机构使用中国DeepSeek的人工智能工具 - The Guardian",
+      "title_cn": "美国禁止政府机构使用中国DeepSeek的人工智能工具 - 卫报",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxOUV9DaHpRUTR2dzh2cG9RTHdpa3VReVdBSzNfbkJlUm1wX3VXdWREbmMtRkpGOE5SZE0waTJYVmMya2F2NUxCTHRXaXBmaHhpczFZN2JMbG50VEM1cmNWVVpHWVg1ell2ZG9qM013bHpGX3NwbkRLamN3QU04a2pER1FRQXlxb253cDR2aHlvSEZ5V3JxSVZaVDdheDdFMkpj?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T12:33:00.000Z",
+      "pub_sort_dt": "2026-10-20 20:33:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国成立国有数据集团以推动其人工智能发展目标 - Bloomberg.com",
+      "title_cn": "中国成立国家数据集团以推动人工智能发展目标 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxOcTV1amNXT0VzMUNSRHRaYy1DekJHWUVsRkptWmRvQzE3MnhIWU8wek80bURmZVpxVldHT2FWcFFHX1ZCMzhaWHVFMnRGM19GZ1dPU3NjWEdyc3FsLWg3WHFCNHdpZURaQ3ZSTG52THBnYWd0S2IyZmd4SmpuVFUzcE82Xzg3WTE4SjIwbS1FWk9leEEyd0pqNkw2ZHRFWUQyc2ZKOXRXMlFXQlUycHVTR0ZHSQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T12:13:00.000Z",
+      "pub_sort_dt": "2026-10-20 20:13:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "凯文·奥利里再次被起诉，指控称犹他州的Stratos反对者为中国工作 - The Salt Lake Tribune",
+      "title_cn": "凯文·奥利里再次被起诉，指控犹他州的斯特拉托斯反对者为中国工作 - 盐湖论坛报",
+      "url": "https://news.google.com/read/CBMid0FVX3lxTE9uQkxCV0xQVzVReG5qNFR4ZkV3TjBiSHRuWmhrdHVvZFUzY2dGOWM2Y05uYUNMWTBKWThzZE9haGVrU19URnJBRTh2U2R6WjR1Ti1fcVY4emlXZ25YMWhkYWJtTXNHcmhCaHJ0ODlUUWoxRGV2UXlj?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T12:04:34.000Z",
+      "pub_sort_dt": "2026-10-20 20:04:34"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "中国政坛最顽强的“幸存者”刚刚倒下。这反映了习近平执政的什么情况？ - WSJ",
+      "title_cn": "中国政坛最顽强的“弟子”刚刚倒下。这反映了习近平执政的什么情况？ - 华尔街日报",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxNbTNDZ2JLUWN4RlJQNVNaRk1wX0wzSXVnTnFwaWthc0MtSkp5eFVuNi1CclRnWFQ4czh5UVdhcWx5VVhzSEtXalM1Y3oxcHhsSF9ncWt4MF83OTBTS0VPZWV0ZndiSnJwRDZ3WWlnVVpaRkVhUWRrT1RhYjZJZFp2SHQxWnJ5MlpsM1Zpd2YyM3U3YWhNMDZxVFE0ak5xSVgyclFadVJkTk93TWpnQkVPa2c5TDJrQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T10:55:00.000Z",
+      "pub_sort_dt": "2026-10-20 18:55:00"
+    },
+    {
+      "source": "China Buzzing",
+      "title_en": "“人们渴望表达自我”：来自中国最时尚城市的报道 - CNN",
+      "title_cn": "“人们渴望表达自我”：来自中国最时尚城市的报道 - CNN",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNcFhjUFZ6SDZIeVNfc0R5a2FVZkw2YTBubHNOYlA3WGR5NUlQWncyZFhBMzR5WVdyTGZ1Z0tqaVY4dnBqaFBEMEx1MVpaM0VwZG1LQlQ4ODhzZWtXYjEtQmM3cm9VVzl1anNreVpJeWtVRXN2MHkwUFlwWVpxZng0MkR3Q1Q?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T09:45:21.000Z",
+      "pub_sort_dt": "2026-10-20 17:45:21"
+    },
+    {
+      "source": "China Buzzing",
       "title_en": "安全公司发现，日本遭遇的网络攻击背后是与中方有关联的人工智能代理 - Japan Today",
       "title_cn": "安全公司发现，日本遭遇的网络攻击背后是与中方有关联的人工智能代理 - 今日日本",
       "url": "https://news.google.com/read/CBMiswFBVV95cUxNYkxsd0RhSktuSk5yTDlmcjV4QjN3R2hhSm5KRTk4NThESl8xejBIcGVmdnI4YWs0ZWhRbXdidlM0dzR5cEc5bjBOTHBSaDdfWnZuTkdRR2VvRklBakZJQUJqcnI0aGs1UUZUMWdOYVN5UTI0eDVGQXVYV3ppeVdGOFZSWkFHTl9ncnEyNWlLcWstZHFZZ1lwVUhSNTdHYWZpeXowQUhBeHhGTXRhSzM2QVJyTQ?hl=en-US&gl=US&ceid=US%3Aen",
@@ -272,67 +320,99 @@
     },
     {
       "source": "China Buzzing",
-      "title_en": "在美国与中国的AI领域分歧加剧之际，美国禁止DeepSeek进入政府机构系统 - CNBC",
-      "title_cn": "在美国与中国的AI领域封闭之际，美国禁止DeepSeek进入政府机构系统 - CNBC",
-      "url": "https://news.google.com/read/CBMidkFVX3lxTE9BMm5ISmplcUtod2txVlV0ajlNUHFPanpRa09GWnBMdjdOaUFCSTZOUXk2SnVNclplakZrckJWZDZTYU96Z3pKTVZieUZiVXkwM3Fza0FibjVLaGhBR2dNMUVwNW1yTllMZlI5R1N6ek1MZXI5OXfSAXtBVV95cUxOMTd2ZFNDSGNCclhSb3lSYl9MdnVtZ3BiYlp6VFQyZUpNR25oNFlsYnRnMThxWmJTZ2tWd3BGWV9PWGFSdHMzMFotTmNpbUFuQzZLaVdkOTJtSmxHeEpLdFcyU013c1dUMktXNWt4blRDZFYzeEk2VkF6WVU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T06:25:26.000Z",
-      "pub_sort_dt": "2026-10-20 14:25:26"
+      "title_en": "中国在亚太经合组织会议上就全球动荡发出严厉警告 - Bloomberg.com",
+      "title_cn": "中国在亚太经合组织会议上就全球动荡发出紧急警告 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxPRkZzcGdpZjRtN2xnME5vcVNvU2M4V3hmaWV1WnB4c3pTcmxVVnRWS3lWdk8tUHR1RHRMb1pUeGJJZWRpMmwzdGhESGtGYzF0OGYzTkNmZThLTHJJbmhoRXp6T0hiV0x4VXNQS01Uc05VUkhwZFhRS2dGT1p4aHZfblBGRmdsTW5yVjBDTHowR0FGUHdwVERWbXRNel9nOUtaRm9DR19mbjdKMC1lblljQWtndUY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T07:16:29.000Z",
+      "pub_sort_dt": "2026-10-20 15:16:29"
     },
     {
       "source": "China Buzzing",
-      "title_en": "“假通勤”：中国失业者如何保全颜面 - Reuters",
-      "title_cn": "“假通勤”：中国失业者如何保全颜面 - 路透社",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxPOGNrUFg3d1QxV2UtNVFtdjY3SUhSdnF3Q29tbEljbmZqUlFIeFB3QmowcEMtbWNWTHFYRXBKLWQwSk1PYmJrbGxiTFZ1c004VTF4SnJLZ1J2MGdwclZxQzNobmdjR2Q1RHE1SVpDWmllRzlzNXlNWmZmalBQN21nRHQtN2dCTXRxNGNKeUZja0d1Z3g4U3JLZjFaa1p6X2VYUFgzc2dB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T06:05:00.000Z",
-      "pub_sort_dt": "2026-10-20 14:05:00"
+      "title_en": "一名学生因在俄罗斯涉及日本旭日旗的事件被遣返回中国 - South China Morning Post",
+      "title_cn": "一名俄罗斯学生因涉及日本旭日旗事件被遣返中国 - 南华早报",
+      "url": "https://news.google.com/read/CBMixgFBVV95cUxQSTZMcU1zUWdpT3pxYTJjc1F1Tl9YQ09VSm54eU9zM0R1YWw2UXA0ZW01X0xnOXVaaXRSalFPVENyQk1lVGdpeTk2N0UxWl9tcTgzMWM4MGdkVmpzdVdRLUJvUUpWWEw4b2M4d2hmd3lVUzc4NTRsMFk3RjdtSFAyNm00Vnk1YmZ4RXc5dGdLaUI1VDFmNlY4QXV4LS0yR3U5aW9pS1VpVXMyZ25yZWE1S2s1SWg2NTRhSW1nbEswVE90dW5uckHSAcYBQVVfeXFMTm0xOHR3X0lacFJlaHFraEYxZXl0SjZpYkIxUy0xTE5GY3JaLUxSUll4YkNLQzkzdFNkeE1DSlJHNVJPTUNyaGFRSUFzTDJaeFoxanFhX2ViUmNsU0xZR0RUZWJmTkNOTXE2Z2EtMF82WmlFYUx4YzlrY2VQdzlHbkJiNVJWd1Q0NmxKRHFiVnpTTzdkOGZqbzBwdDA4dHd1bVNnUUlpZ1VVZHducmlmeXZrS1F2TUc2LTd6a2ZBeWZhZmI3VFNR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-20T07:00:58.000Z",
+      "pub_sort_dt": "2026-10-20 15:00:58"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "在间谍指控争端日益升级之际，中国抗议英国在边境进行搜查和扣押手机的行为 - South China Morning Post",
-      "title_cn": "在间谍提案呼吁升级之际，中国抗议英国在边境进行搜查和扣押手机的行为 - 南华早报",
-      "url": "https://news.google.com/read/CBMi1AFBVV95cUxQTEZ0Rkd6dUNzM18xWXNIdk1tTUtlUnAxR2R4LWpyT2JXeFFhZkNiSUlZWFVnemMybUxYQ19GR3c3WGZvYzNNQ0Vla3p2SUUyN0JFMV9USl9KX2E5NXcxS0E3X0dCeWhPRzR5UDBubENaaXlkT2VTN2RwZ1JoRXVjVmFhaU9YSFRDQlg0LWVJYzI0Q3VJN2RFclUyS3lFOHFFODQtS2RVMEt2ZDRDQTM3N3prNEdWOXVsQUhJLVdtY2VZWTZpMThkNDhxTWlBNEo2VTR1edIB1AFBVV95cUxNaG43MGI4blhDX3dnaS1VcVJvbk1xbXlHdDFubnR0RU9KbHROck1OSkdYQmJ4QjBTLUdocmd6OWtxNXpRVnBUei1vTE5jaFcyUUg3RUtOd0J0VkdWVDVEMjY3ejdrdXVKOEtPRDRTMkVQc1RMZjBPQWI5YmdUelg3bWctUm9MMWVaaWZKMTJfU0FtUFZaOVIzOVNtNlR3blNrUmJLZEY5eUNydHVpS1NSdzVrbmlpVlRlWjc2NHlBUm50UkJpdFBsNWNDYlUxbUZNM2laeQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T06:00:05.000Z",
-      "pub_sort_dt": "2026-10-20 14:00:05"
+      "source": "Reuters",
+      "title_en": "密苏里州向法院表示，中国错失了对240亿美元新冠疫情赔偿裁决提出异议的机会",
+      "title_cn": "密苏里州向法院表示，中国错失了240亿美元新冠疫情赔偿裁决，提出异议的机会",
+      "url": "https://reut.rs/4BefTJ7",
+      "pub_raw": "2026-10-20T20:36:26.093Z",
+      "pub_sort_dt": "2026-10-21 04:36:26"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国海军称，一艘美国军舰在萨比纳浅滩附近活动，危及海上安全 - Reuters",
-      "title_cn": "中国海军称，一艘美国军舰在萨比纳浅滩附近活动，危及海上安全 - 路透中文网",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxOOHozWXlncm9jZTU0NmZiWUk0blJ0cHpVeDNpWm9UVUdscHU1V2MteFNUaFBVNF9tazZib0pwWDU4czUxSTZ1Wmg3WlVlMHlCLU1wYzdDaWNrdmdBT3gyOHUzY3dMbXdqTF91SURON1NLcU02bDhJdE9WaE10eW9OSXJQZzlHcFh5c2k2V1dhQ1lJa2Y3bmdMVlRYbVlqQ3NwekpLaHdvbzBud1M1Sl9DN0lRd3BFWG8zZjV3ZlNB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T05:13:00.000Z",
-      "pub_sort_dt": "2026-10-20 13:13:00"
+      "source": "The Economist",
+      "title_en": "中国的大学财力雄厚。但它们正面临资金压力",
+      "title_cn": "中国的大学财力压力巨大。但它们正面临资金压力",
+      "url": "https://www.economist.com/china/2026/10/20/chinas-universities-are-rich-but-theyre-getting-squeezed",
+      "pub_raw": "2026-10-20T20:12:14.476Z",
+      "pub_sort_dt": "2026-10-21 04:12:14"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "非洲的经济增长速度能超过中国吗？ - Financial Times",
-      "title_cn": "非洲的经济增长速度能超过中国吗？ - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQazFDdHl0aGo5cGxWci1hUHV2RHpMNGVOV3lVM2owR2c1QTV0N1hhTmhxWWhzdmFCcjY5ZXowOFZ2RmlrUnBjV0Z3bUMyWmFSLXljWm5pa0todUNjMnRPUWRQSUZEdl82MDFsckJJR3ktZ1AyWjdlRlhpUkR4MWFzQlFSeE0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T04:05:49.000Z",
-      "pub_sort_dt": "2026-10-20 12:05:49"
+      "source": "Bloomberg",
+      "title_en": "英国表示愿意在欧盟峰会前就对中国汽车征收关税一事进行讨论",
+      "title_cn": "英国表示愿意在欧盟峰会前就对中国汽车关税一事进行讨论",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/uk-open-to-discussing-chinese-car-tariffs-ahead-of-eu-summit",
+      "pub_raw": "2026-10-20T20:12:13.752Z",
+      "pub_sort_dt": "2026-10-21 04:12:13"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "在中国收紧供应的情况下，日本距离关键稀土资源耗尽仅剩“数月” - Financial Times",
-      "title_cn": "在中国收紧供应的情况下，日本距离关键稀土资源贫困仅剩“数月” - 英国《金融时报》",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPdGJDTEN3Z09DeWNoSlBtNGNOWnBCNDNHbHJjbVpBeHNRX3FpVjA2SnRuNFVvMXVYeGU3eVdqT0s3RjFkeHV5bmY0ZjQ5TUVweWFRNk1xTTNJbjBkTzNNTllPdVpHVzZZUDAwSjZ2WmN1b1E3M2wtTUVHQVM5c20tNk5teFY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T04:03:25.000Z",
-      "pub_sort_dt": "2026-10-20 12:03:25"
+      "source": "Bloomberg",
+      "title_en": "一个失控的中国人工智能真的想去动物园。这可成问题了",
+      "title_cn": "一个失控的中国人工智能真的想去动物园。这可成问题了",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-20/rogue-chinese-ai-really-wants-to-go-to-the-zoo-that-s-a-problem",
+      "pub_raw": "2026-10-20T20:12:13.745Z",
+      "pub_sort_dt": "2026-10-21 04:12:13"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "中国新型0.1纳米电子显微镜已准备好向美国和日本发起挑战 - South China Morning Post",
-      "title_cn": "中国新型0.1纳米电子显微镜已准备好向美国和日本发起挑战 - 南华早报",
-      "url": "https://news.google.com/read/CBMixwFBVV95cUxNZEMzcUVSM1ItbjF5UXhSSDFyNTlST3otdEdpQ1ZWc2MwM2ZmMGU3bElmbHZmUVdpS1A0RjZTTm40UUY3RnByUjVYOXBjV3pxTEc0Sm5OM3RmNl9VemRTalhoTkxzQnUta0l6ZzBpRzhJalJNVHB0cWNyRlpyM21oVDU5Qlc2LUFaQ0J0X1JkRFlZM1dvcTNlblJjRk1zT3RYcGZpZmxIbk5QSWZXdEw5RWl2WnNDdTRDalpJUWZFZ2pDOUIzWDlr?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T04:00:09.000Z",
-      "pub_sort_dt": "2026-10-20 12:00:09"
+      "source": "Bloomberg",
+      "title_en": "巴西准备最早于下周首次在中国发行债券",
+      "title_cn": "巴西准备首先于下周首次在中国发行债券",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/brazil-readies-china-bond-debut-for-as-soon-as-next-week",
+      "pub_raw": "2026-10-20T20:12:13.711Z",
+      "pub_sort_dt": "2026-10-21 04:12:13"
     },
     {
-      "source": "China Buzzing",
-      "title_en": "美国国会任命的官员称，中国在台湾以东海域的巡航活动“破坏稳定” - Reuters",
-      "title_cn": "美国国会指定官员称中国在台湾以东海域的巡航活动“破坏稳定” - 路透社",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxOdTEzTG1HSEl6MVRHYTNGcE9lcmxKWkxRbmVRQUdPYTRTckt6VFBuZzlraElya0NJMm1BLTJxZDV2NE92cF9ULXVRdDdDSnNiVldmbzE2UFhYX0MweThsTUxQYVI3bGNySkgyRU5ZcE5wUWs4RkNMb2tCLU9HcnoxWnBmNHkxTzVnTXQzTk5DZ1FDWlFiazlJcFVuUDJGWUVvdEhNRzlSc2tvX3hxcFZsa00tcjFhb1ZWZDdnQ3htZEhwMWc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T03:21:00.000Z",
-      "pub_sort_dt": "2026-10-20 11:21:00"
+      "source": "Bloomberg",
+      "title_en": "美国在谷歌人工智能机密案中对一家中国风险投资公司实施制裁",
+      "title_cn": "美国在谷歌人工智能机密案中对一家中国风险投资公司实施制裁",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case",
+      "pub_raw": "2026-10-20T20:12:13.531Z",
+      "pub_sort_dt": "2026-10-21 04:12:13"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "随着竞争加剧，中国宁德时代第三季度利润增速创近两年新低",
+      "title_cn": "随着竞争加剧，中国宁德第三季度利润已创近两年新低",
+      "url": "https://reut.rs/4yBhlTp",
+      "pub_raw": "2026-10-20T13:06:24.460Z",
+      "pub_sort_dt": "2026-10-20 21:06:24"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着司机纷纷放弃柴油车，大众旗下的斯堪尼亚加速推进中国电动卡车业务",
+      "title_cn": "随着司机纷纷放弃柴油车，大众推出的斯尼亚加速推进中国电动卡车业务",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/vw-s-scania-hastens-china-e-truck-push-as-drivers-abandon-diesel",
+      "pub_raw": "2026-10-20T11:47:18.616Z",
+      "pub_sort_dt": "2026-10-20 19:47:18"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "特朗普、拜登和奥巴马政府的前官员警告称，除非美国通过一项重大的能源许可法案，否则美国有可能在与中国的技术和产业竞争中落败。",
+      "title_cn": "特朗普、拜登和奥巴马政府的前大臣警告称，除非美国通过一项重大的能源许可法案，否则美国可能会在与中国的技术和产业竞争中落败。",
+      "url": "https://on.wsj.com/47uQ5e8",
+      "pub_raw": "2026-10-20T11:15:11.279Z",
+      "pub_sort_dt": "2026-10-20 19:15:11"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国镍企计划商讨削减印尼产量",
+      "title_cn": "中国镍企计划商讨谈判产量",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/chinese-nickel-firms-plan-to-discuss-cutting-indonesian-output",
+      "pub_raw": "2026-10-20T10:11:12.502Z",
+      "pub_sort_dt": "2026-10-20 18:11:12"
     },
     {
       "source": "Bloomberg",
@@ -413,86 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-20/china-moves-to-curb-hydrogen-overcapacity-as-investment-surges",
       "pub_raw": "2026-10-20T04:37:27.662Z",
       "pub_sort_dt": "2026-10-20 12:37:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "瑞士手表成为梅赛德斯-奔驰、保时捷和宝马在中国市场竞争的标杆",
-      "title_cn": "瑞士手表成为梅赛德斯-奔驰、保时捷和宝马在中国市场竞争的标杆",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-20/swiss-watches-are-the-model-for-mercedes-porsche-and-bmw-in-china-fight",
-      "pub_raw": "2026-10-20T04:21:33.769Z",
-      "pub_sort_dt": "2026-10-20 12:21:33"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国收紧供应，日本距关键稀土资源耗尽仅剩“数月”",
-      "title_cn": "中国收紧供应，日本距关键稀土资源疲惫仅“数月”",
-      "url": "https://www.ft.com/content/ebd3244a-9120-4773-b55f-41df77f60c93?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-20T04:05:22.840Z",
-      "pub_sort_dt": "2026-10-20 12:05:22"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "非洲的经济增长速度能超过中国吗？",
-      "title_cn": "非洲的经济增长速度能超过中国吗？",
-      "url": "https://www.ft.com/content/4702e72d-ba3c-43c4-92e7-1dffccddcd16?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-20T04:05:22.350Z",
-      "pub_sort_dt": "2026-10-20 12:05:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "美国国会任命的官员称，中国在台湾以东海域的巡航活动“破坏稳定”",
-      "title_cn": "美国国会高层称，中国在台湾以东海域的活动“破坏稳定”",
-      "url": "https://reut.rs/4yA1tk2",
-      "pub_raw": "2026-10-20T03:49:21.461Z",
-      "pub_sort_dt": "2026-10-20 11:49:21"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "分析师称，中国人民银行的利率调整计划将降低借贷成本",
-      "title_cn": "分析师称，中国人民银行的利率调整计划将降低网络成本",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/pboc-rate-shift-plan-would-lower-borrowing-costs-analysts",
-      "pub_raw": "2026-10-20T02:45:28.795Z",
-      "pub_sort_dt": "2026-10-20 10:45:28"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国称曾使用先进核潜艇试射洲际弹道导弹",
-      "title_cn": "中国称曾使用先进的核试射洲际弹道导弹",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-reveals-advanced-nuclear-sub-was-used-to-test-fire-missile",
-      "pub_raw": "2026-10-20T02:45:28.682Z",
-      "pub_sort_dt": "2026-10-20 10:45:28"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "阿里巴巴支持中国机器人制造商完成4亿美元融资",
-      "title_cn": "阿里巴巴支持中国机器人制造商完成4亿美元融资",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/alibaba-backs-chinese-robovan-maker-in-400-million-fundraising",
-      "pub_raw": "2026-10-20T02:13:24.927Z",
-      "pub_sort_dt": "2026-10-20 10:13:24"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国农村为北京的AI雄心付出了代价",
-      "title_cn": "中国农村为北京的人工智能雄心付出了代价",
-      "url": "https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-20T00:37:26.428Z",
-      "pub_sort_dt": "2026-10-20 08:37:26"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "FirstFT：随着人工智能热潮为出口注入强劲动力，中国经济增速加快",
-      "title_cn": "第一财经：随着人工智能热潮为出口注入动力，中国经济重新加快",
-      "url": "https://www.ft.com/content/92a2e2a4-356a-4aa3-9d1e-8b4fbaf1c365?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-19T23:33:06.559Z",
-      "pub_sort_dt": "2026-10-20 07:33:06"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Z.AI的创始人曾参与由英国中国研究所资助的研究项目，该研究所与间谍活动有关",
-      "title_cn": "Z.AI的创始人曾参与由英国中国研究所资助的研究项目，该研究所与间谍活动有关",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/z-ai-founders-worked-on-research-funded-by-china-institute-uk-tied-to-spies",
-      "pub_raw": "2026-10-19T23:17:12.573Z",
-      "pub_sort_dt": "2026-10-20 07:17:12"
     }
   ]
 }
