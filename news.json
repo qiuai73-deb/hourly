@@ -1,101 +1,237 @@
 {
-  "update_cst": "2026-10-21 06:01:10 北京时间",
+  "update_cst": "2026-10-21 18:01:14 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
     "Bloomberg": 10,
-    "Financial Times": 0,
-    "Wall Street Journal": 1,
-    "Reuters": 8
+    "Financial Times": 2,
+    "Wall Street Journal": 0,
+    "Reuters": 7
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "随着进口配额限制临近，中国对欧盟的混合动力汽车出口激增逾200% - South China Morning Post",
-      "title_cn": "随着进口限制动力形成，中国对欧盟的混合汽车出口激增超过200% - 南华早报",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPWXRUVGNubGpwUnZzVDRGWEdNem1VeVRXS1pHYWgyNS0zdzZidU5rcE55ZDRoR1dZM2p1ajFUbmpJc2NCc0pZX2g1NE8wUWFBd1pRdVpSZ3RXT09saGduUDFSRXR6c0p1Y1hlbThPX0tZMzBweWVNNFB0Y1A5bmxEOWx4dzE5anZvZlFwVHFtQkZDUjlrU2pvbmdCOFNEVzR4bVV5dGM1TDVjdlNGZ1RuWWVjRWdGS2UxdmYtZQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T13:00:10.000Z",
-      "pub_sort_dt": "2026-10-20 21:00:10"
+      "title_en": "今年最强风暴正向台湾和中国大陆袭来 - South China Morning Post",
+      "title_cn": "今年最强风暴正向台湾和中国大陆袭来 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQOTJWaW9zNF9BSUp2T19LMXAzcGJrOXBYeUJpbVoxUWRZc2pZV2EzWkRjcHc1a1k2aVB3WUV4ejREU2MyVlNkNUt4bllYZC02VWFoT2Qzc1VnaXd5R2IzZHlDTWJfSnBUenllYVdYal9TdnQ1SEZ5TnhFczMtX3pXNHozcExHcld1ZGZMdXhYaExOU0NjdFQ3eEhaOWQtcjBQeF94d1Y3NnFjQzNkeldOZjRTOXVxRXdoX2pF?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T08:00:06.000Z",
+      "pub_sort_dt": "2026-10-21 16:00:06"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国禁止政府机构使用中国DeepSeek的人工智能工具 - The Guardian",
-      "title_cn": "美国禁止政府机构使用中国DeepSeek的人工智能工具 - 卫报",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxOUV9DaHpRUTR2dzh2cG9RTHdpa3VReVdBSzNfbkJlUm1wX3VXdWREbmMtRkpGOE5SZE0waTJYVmMya2F2NUxCTHRXaXBmaHhpczFZN2JMbG50VEM1cmNWVVpHWVg1ell2ZG9qM013bHpGX3NwbkRLamN3QU04a2pER1FRQXlxb253cDR2aHlvSEZ5V3JxSVZaVDdheDdFMkpj?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T12:33:00.000Z",
-      "pub_sort_dt": "2026-10-20 20:33:00"
+      "title_en": "中国反对美国对古巴领导人劳尔·卡斯特罗签发逮捕令 - Anadolu Ajansı",
+      "title_cn": "中国反对美国对古巴领导人劳尔·卡斯特罗签发逮捕令 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxQV3VpMVo2eDlMZ0Mway1hVS15Mkd4ZUVpWnVOV25DRFRwaE14RVJYWFNzVlJ2QzJrbkNJdGhpY0xtN09vZjJoMHFqbkNEaGdkWHZTOTRSMkhCVHZ5Znp1NnZQblFCa2ZGV2Nta2RIdmx0eVQ0RVBHOXc3QkZYQUtXaEdpQzZPQ1UyS3JsY3FPSXYzcFRUaTBTd3dhQklTZjExbVBnOVBBZk91YmgzLUQw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T07:59:30.000Z",
+      "pub_sort_dt": "2026-10-21 15:59:30"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国成立国有数据集团以推动其人工智能发展目标 - Bloomberg.com",
-      "title_cn": "中国成立国家数据集团以推动人工智能发展目标 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxOcTV1amNXT0VzMUNSRHRaYy1DekJHWUVsRkptWmRvQzE3MnhIWU8wek80bURmZVpxVldHT2FWcFFHX1ZCMzhaWHVFMnRGM19GZ1dPU3NjWEdyc3FsLWg3WHFCNHdpZURaQ3ZSTG52THBnYWd0S2IyZmd4SmpuVFUzcE82Xzg3WTE4SjIwbS1FWk9leEEyd0pqNkw2ZHRFWUQyc2ZKOXRXMlFXQlUycHVTR0ZHSQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T12:13:00.000Z",
-      "pub_sort_dt": "2026-10-20 20:13:00"
+      "title_en": "奇瑞高管表示，该公司愿意与美国汽车制造商建立技术合作伙伴关系 - Reuters",
+      "title_cn": "奇瑞高管表示，该公司愿意与美国汽车制造商建立技术合作伙伴关系 - Reuters",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxNTkZvb0VIU2FQdjlnaGFHYktwUGo4SlNvOE5fbmFjNUVrTTBFR0tTMXhNYWdvUlFCM3VjSG9GZlZvdFVTTzVpdzZaTk1OQUlqSFNuT2R3U2lVY2xxWEVodTJvdndaRFZrSDlZNGZaWkJFX09OUkxqOWFFMDE3OTRySG5UYVl2dG81T0dfeUFfQkNDcUhVYVdoVVJKSW5OblZZX1hwRzR5dUJVejBiMlkyNkU3MWNjbXpFRUE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T07:45:44.000Z",
+      "pub_sort_dt": "2026-10-21 15:45:44"
     },
     {
       "source": "China Buzzing",
-      "title_en": "凯文·奥利里再次被起诉，指控称犹他州的Stratos反对者为中国工作 - The Salt Lake Tribune",
-      "title_cn": "凯文·奥利里再次被起诉，指控犹他州的斯特拉托斯反对者为中国工作 - 盐湖论坛报",
-      "url": "https://news.google.com/read/CBMid0FVX3lxTE9uQkxCV0xQVzVReG5qNFR4ZkV3TjBiSHRuWmhrdHVvZFUzY2dGOWM2Y05uYUNMWTBKWThzZE9haGVrU19URnJBRTh2U2R6WjR1Ti1fcVY4emlXZ25YMWhkYWJtTXNHcmhCaHJ0ODlUUWoxRGV2UXlj?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T12:04:34.000Z",
-      "pub_sort_dt": "2026-10-20 20:04:34"
+      "title_en": "中国采取措施加强对顶级人工智能模型出口的管控 - The New York Times",
+      "title_cn": "中国采取措施加强对顶级人工智能模型出口的管控 - The New York Times",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxNVGtOTkNCaEJUNWpyTEJIU3dDbzJNcGxxLUNlemU0a2ZxUmdObVQ0WUVkbXpnS0ZEVW5PZVZ0T2UxMnpKczlFM2ZYRHZJMWFqOU9PMnBYQ3V2bVVPRUdKcFppeHhDejJ2VTQzLWU4d0paSV8wRUFtMm9XS1FjTnNLUUxR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T06:39:10.000Z",
+      "pub_sort_dt": "2026-10-21 14:39:10"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国政坛最顽强的“幸存者”刚刚倒下。这反映了习近平执政的什么情况？ - WSJ",
-      "title_cn": "中国政坛最顽强的“弟子”刚刚倒下。这反映了习近平执政的什么情况？ - 华尔街日报",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxNbTNDZ2JLUWN4RlJQNVNaRk1wX0wzSXVnTnFwaWthc0MtSkp5eFVuNi1CclRnWFQ4czh5UVdhcWx5VVhzSEtXalM1Y3oxcHhsSF9ncWt4MF83OTBTS0VPZWV0ZndiSnJwRDZ3WWlnVVpaRkVhUWRrT1RhYjZJZFp2SHQxWnJ5MlpsM1Zpd2YyM3U3YWhNMDZxVFE0ak5xSVgyclFadVJkTk93TWpnQkVPa2c5TDJrQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T10:55:00.000Z",
-      "pub_sort_dt": "2026-10-20 18:55:00"
+      "title_en": "随着免签政策成效显现，中国入境游客量激增15.6% - South China Morning Post",
+      "title_cn": "随着免签政策成效显现，中国入境游客量激增15.6% - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxNVzZNSnQ0azFwbEtkS2VYcml6b2FNb0JKX0xJb3dadEJjcjJJaDllTS0tRi1Ib0k0eTY4TjJZQVhiWElwZWJxQm1QLVktOHVEX2dQWFUtTjZ2VXJrdXd4NEI2WmxObkJzb2d3UDMzMVR3M09iYW4xdklSY3p6eTBza1c4Zk1sQTM5X2ZPMnA1ZExyLW9kTHRZZXRyaGdGVUplZUdaSGx2OUh2Y3Z6czM4LUh1WDBMamJaYU5Z0gG7AUFVX3lxTFBlLTVjR0FpQXNBcU5obW0wZzI3dFFyRXNPd25JYS1kRU1PTFY2X0xFakt6dXZZRlZJSGhkVXVNbXo5RURYTzIyQWcyUmRaSHBqblI3MXYtOGVXazVTTkdHaDkwYVBWX290Y3JXNmNRd04wb2hwS0RrQnNVS0RybWdaR0p0aW5mRTAyUjlVa0JLV0xReUFkMjBnMTZTNDI2Y0Y5akdvMEhBeWYtckpROFBSM0t2NHhfOVhnUUU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T06:30:41.000Z",
+      "pub_sort_dt": "2026-10-21 14:30:41"
     },
     {
       "source": "China Buzzing",
-      "title_en": "“人们渴望表达自我”：来自中国最时尚城市的报道 - CNN",
-      "title_cn": "“人们渴望表达自我”：来自中国最时尚城市的报道 - CNN",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNcFhjUFZ6SDZIeVNfc0R5a2FVZkw2YTBubHNOYlA3WGR5NUlQWncyZFhBMzR5WVdyTGZ1Z0tqaVY4dnBqaFBEMEx1MVpaM0VwZG1LQlQ4ODhzZWtXYjEtQmM3cm9VVzl1anNreVpJeWtVRXN2MHkwUFlwWVpxZng0MkR3Q1Q?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T09:45:21.000Z",
-      "pub_sort_dt": "2026-10-20 17:45:21"
+      "title_en": "中国财政部长兰表示，亚太经合组织（APEC）财长们一致同意加强政策协调 - Reuters",
+      "title_cn": "中国财政部长兰表示，亚太经合组织（APEC）财长们一致同意加强政策协调 - Reuters",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQNXY2S3Z3dTEyQmVmSE4zZ1JZLWJ2SHRwUnhXUXVSS3pMR3BPVlhSZnJPVWhkVEZ3NllEY0JpU0tDNUJhdTJqUWFvdS1WblBUbjB6aklCR3ptWndScWc1b1dWU21SNXl1SDROX1BTMWNoYTFRS3Bhb016dGpsVDJSdTVPOEFURjJSMWVyeDhYbHFPODFBNUU5ZEtycE1Bb3hnTFJDcUtTZlJSa01VMUJjNnFLVjM0amhlN3BoSXRkV0FNWWM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T05:16:00.000Z",
+      "pub_sort_dt": "2026-10-21 13:16:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "安全公司发现，日本遭遇的网络攻击背后是与中方有关联的人工智能代理 - Japan Today",
-      "title_cn": "安全公司发现，日本遭遇的网络攻击背后是与中方有关联的人工智能代理 - 今日日本",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxNYkxsd0RhSktuSk5yTDlmcjV4QjN3R2hhSm5KRTk4NThESl8xejBIcGVmdnI4YWs0ZWhRbXdidlM0dzR5cEc5bjBOTHBSaDdfWnZuTkdRR2VvRklBakZJQUJqcnI0aGs1UUZUMWdOYVN5UTI0eDVGQXVYV3ppeVdGOFZSWkFHTl9ncnEyNWlLcWstZHFZZ1lwVUhSNTdHYWZpeXowQUhBeHhGTXRhSzM2QVJyTQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T07:34:00.000Z",
-      "pub_sort_dt": "2026-10-20 15:34:00"
+      "title_en": "节后舱位紧张，中美航线海运运费保持稳定 - News Channel 3-12",
+      "title_cn": "节后舱位紧张，中美航线海运运费保持稳定 - News Channel 3-12",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNcmJ4b09FZlVjY0JydmJqVy1IZ1NMdmg5c3VSOGJ2cnFsaTZNMFFNQV9qaldsamg5QTRBeFZybTZsV190Vy1NcFU3dXEwbDVXQzltd3dIWlN5RmgwZFhWMmdfNDdlQ2ZpNjM2Mm1DQTVaRldINndFcXExSlZEc3puOElXVmNWbnJKNGVIZDVhUHRBUTJuMmVnRDItc0wtX1VuY1ZLVHhkUWU2cWhlZ2hxMncyR1Y0S2ZRMkg1bkUwdm1nY3M?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T04:40:16.000Z",
+      "pub_sort_dt": "2026-10-21 12:40:16"
     },
     {
       "source": "China Buzzing",
-      "title_en": "分析师称，中国人民银行将面临长达数月的过程才能确立新的利率锚 - Bloomberg.com",
-      "title_cn": "分析师称，中国人民银行将长达数月的过程才能确定新的利率 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxPdkw4SUdIbzdQemdRZDdMRU9ERFpYLWlHNGo0NWZaNkwtSk51dU1ocnlvMUg3MmRNVHBHSTZvLS1HUjZxNF9ISGI2WUswMVNXZTZLY3R0RFdwd0hRTlhUX1ZwR1ppRU9sTkJzd3FHUktlclduN3FCR04zaG9ERkdad1ItNUJaa1ZhNDdNZERGTnNESC1WY01vcWxvai1VVmk2bW5yNmU0X0tOTHdTRkUw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T07:33:42.000Z",
-      "pub_sort_dt": "2026-10-20 15:33:42"
+      "title_en": "中国研制出全球最小、可监测整个大脑皮层的可穿戴脑监测仪 - South China Morning Post",
+      "title_cn": "中国研制出全球最小、可监测整个大脑皮层的可穿戴脑监测仪 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxQX0xWWkpxbnZlbHZuLWhlQ0N1cnBrbllMV2I5S19YRmU3QVNWTWc1T3g1b01LVG5kQ3lhaXR1T0VGc19ORm0yRzF4S2d2M0s3a251MGVMNnJYS2ZyejJmaXFYMjRWOUNSUlAtd2hKOThtVDN0OHVlMjFURi03MDhWa0l5MTlpSTFYWkhpN1hfbEg1SUFCZXRzRWdNVlhLSjdKem15Tmt1NS1nenhZX1hMb3dMejY5LW9PakVLSUxIRzVNQdIBwgFBVV95cUxNNUtBLUpBWHUxbG1CUzNHOUREeWRjMVo0dkpJcEhSTXEwNlFjQTN6Yk84b3YzX0tRN1lNQ19sanA2VmFCckJUSzdON05nTmhVQ09GX0hCX1JzbHU5a3l4Z1UyS202LWhDMjZRUE11ckEwMXZKR1oybXVSUjEyZmlqb0VyTm5qZURscjFwenlHWnBod3VLNlI2NXZYLWNlbDZ2bXVYRnhpVXhkOTk0OHBDdXppWVRaSlQ2MzdVVkp5SE55dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T04:00:32.000Z",
+      "pub_sort_dt": "2026-10-21 12:00:32"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国在亚太经合组织会议上就全球动荡发出严厉警告 - Bloomberg.com",
-      "title_cn": "中国在亚太经合组织会议上就全球动荡发出紧急警告 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxPRkZzcGdpZjRtN2xnME5vcVNvU2M4V3hmaWV1WnB4c3pTcmxVVnRWS3lWdk8tUHR1RHRMb1pUeGJJZWRpMmwzdGhESGtGYzF0OGYzTkNmZThLTHJJbmhoRXp6T0hiV0x4VXNQS01Uc05VUkhwZFhRS2dGT1p4aHZfblBGRmdsTW5yVjBDTHowR0FGUHdwVERWbXRNel9nOUtaRm9DR19mbjdKMC1lblljQWtndUY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T07:16:29.000Z",
-      "pub_sort_dt": "2026-10-20 15:16:29"
+      "title_en": "中国表示，正在台湾控制的南海环礁周边“维护秩序” - Reuters",
+      "title_cn": "中国表示，正在台湾控制的南海环礁周边“维护秩序” - Reuters",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxNdTQyY2ZrQm1kT0JUNy1VTFUxZVVuMHhqVEFFSkl0RDY3ZWpuQjQybnhNSE1UZTdtUXA0bTh2MU5KSlh0amZIaVFiMDhPVi1ZQV9nVG5DaHBVOE1jUS1OUnVzOEFwQUNnY3ljbnBqQkNGM242a21id1pBRk56UUhkeXRFMGZxQzFWYlZJaXE2ZXhoa0tHelh1V2loc19TS1psNjVzMFptQlNBdjJfU3REQzhOSEZUakdQN1NWTEtpcmh0Zw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T03:43:00.000Z",
+      "pub_sort_dt": "2026-10-21 11:43:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "一名学生因在俄罗斯涉及日本旭日旗的事件被遣返回中国 - South China Morning Post",
-      "title_cn": "一名俄罗斯学生因涉及日本旭日旗事件被遣返中国 - 南华早报",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxQSTZMcU1zUWdpT3pxYTJjc1F1Tl9YQ09VSm54eU9zM0R1YWw2UXA0ZW01X0xnOXVaaXRSalFPVENyQk1lVGdpeTk2N0UxWl9tcTgzMWM4MGdkVmpzdVdRLUJvUUpWWEw4b2M4d2hmd3lVUzc4NTRsMFk3RjdtSFAyNm00Vnk1YmZ4RXc5dGdLaUI1VDFmNlY4QXV4LS0yR3U5aW9pS1VpVXMyZ25yZWE1S2s1SWg2NTRhSW1nbEswVE90dW5uckHSAcYBQVVfeXFMTm0xOHR3X0lacFJlaHFraEYxZXl0SjZpYkIxUy0xTE5GY3JaLUxSUll4YkNLQzkzdFNkeE1DSlJHNVJPTUNyaGFRSUFzTDJaeFoxanFhX2ViUmNsU0xZR0RUZWJmTkNOTXE2Z2EtMF82WmlFYUx4YzlrY2VQdzlHbkJiNVJWd1Q0NmxKRHFiVnpTTzdkOGZqbzBwdDA4dHd1bVNnUUlpZ1VVZHducmlmeXZrS1F2TUc2LTd6a2ZBeWZhZmI3VFNR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T07:00:58.000Z",
-      "pub_sort_dt": "2026-10-20 15:00:58"
+      "title_en": "两大亚洲巨头，一个经济陷阱 - Financial Times",
+      "title_cn": "两大亚洲巨头，一个经济陷阱 - Financial Times",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxQamVwTDh0YzZFMF9tWHdKaHlkZl9wSUh3WXpFZEFaalVWRUhWREdNLVJHeW5ISGJzSjVlSFpTZnJzSktpYVgyS19HRElKVm9aN0cxSllKdjhmTm1mWnZaTlk2U0NrQjlHRmRzOFFST3ZOdUpKLVJxQlk0Sk9fQ1M2MWFheEo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T03:01:36.000Z",
+      "pub_sort_dt": "2026-10-21 11:01:36"
     }
   ],
   "media_news": [
     {
+      "source": "Bloomberg",
+      "title_en": "梅尔茨表示，欧盟在维护自身权益的同时，旨在避免与中国爆发贸易战",
+      "title_cn": "梅尔茨表示，欧盟在维护自身权益的同时，旨在避免与中国爆发贸易战",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/merz-says-protectionism-is-throwing-a-wrench-at-global-trade",
+      "pub_raw": "2026-10-21T09:25:43.861Z",
+      "pub_sort_dt": "2026-10-21 17:25:43"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "调查显示，汽车行业高管预计，到2035年，软件和中国市场的增长将重塑该行业",
+      "title_cn": "调查显示，汽车行业高管预计，到2035年，软件和中国市场的增长将重塑该行业",
+      "url": "https://reut.rs/4yxKrmu",
+      "pub_raw": "2026-10-21T08:54:00.131Z",
+      "pub_sort_dt": "2026-10-21 16:54:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "台湾以袭击讽刺中国国家主席习近平的喜剧演员为由起诉5人",
+      "title_cn": "台湾以袭击讽刺中国国家主席习近平的喜剧演员为由起诉5人",
+      "url": "https://reut.rs/4BdEwFT",
+      "pub_raw": "2026-10-21T08:54:00.127Z",
+      "pub_sort_dt": "2026-10-21 16:54:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台积电因事故致四人死亡而放缓台湾建设进度",
+      "title_cn": "台积电因事故致四人死亡而放缓台湾建设进度",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/tsmc-suspends-some-construction-after-deadly-accident-kills-four",
+      "pub_raw": "2026-10-21T08:05:41.381Z",
+      "pub_sort_dt": "2026-10-21 16:05:41"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "爱彼凭借超大型旗舰店押注香港富豪群体",
+      "title_cn": "爱彼凭借超大型旗舰店押注香港富豪群体",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/audemars-piguet-bets-on-hk-luxury-demand-with-new-world-store",
+      "pub_raw": "2026-10-21T08:05:41.337Z",
+      "pub_sort_dt": "2026-10-21 16:05:41"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "独家：据知情人士透露，三星和SK海力士正在升级其中国工厂，以生产更先进的芯片",
+      "title_cn": "独家：据知情人士透露，三星和SK海力士正在升级其中国工厂，以生产更先进的芯片",
+      "url": "https://reut.rs/4Bi1PxZ",
+      "pub_raw": "2026-10-21T08:05:41.270Z",
+      "pub_sort_dt": "2026-10-21 16:05:41"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国外卖平台美团正考虑发行点心债券",
+      "title_cn": "中国外卖平台美团正考虑发行点心债券",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/chinese-food-delivery-firm-meituan-considers-dim-sum-bond-sale",
+      "pub_raw": "2026-10-21T07:33:41.293Z",
+      "pub_sort_dt": "2026-10-21 15:33:41"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国在COP31上释放出将抵制清洁技术关税的信号",
+      "title_cn": "中国在COP31上释放出将抵制清洁技术关税的信号",
+      "url": "https://reut.rs/4hWtwoH",
+      "pub_raw": "2026-10-21T07:19:06.735Z",
+      "pub_sort_dt": "2026-10-21 15:19:06"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "招聘信息显示，中国“登月计划”AI项目将在新加坡运营",
+      "title_cn": "招聘信息显示，中国“登月计划”AI项目将在新加坡运营",
+      "url": "https://reut.rs/4jtzMp7",
+      "pub_raw": "2026-10-21T06:15:52.118Z",
+      "pub_sort_dt": "2026-10-21 14:15:52"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港火灾报告将把政府问责制置于聚光灯下",
+      "title_cn": "香港火灾报告将把政府问责制置于聚光灯下",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/hong-kong-fire-report-to-put-government-accountability-in-focus",
+      "pub_raw": "2026-10-21T04:54:28.533Z",
+      "pub_sort_dt": "2026-10-21 12:54:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "六张图表看中国经济：增长、出口与房地产低迷",
+      "title_cn": "六张图表看中国经济：增长、出口与房地产低迷",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/china-s-economy-in-six-charts-growth-exports-and-the-property-slump",
+      "pub_raw": "2026-10-21T04:54:28.492Z",
+      "pub_sort_dt": "2026-10-21 12:54:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "宁德时代利润增长乏力，加剧市场对中国电池同行前景的担忧",
+      "title_cn": "宁德时代利润增长乏力，加剧市场对中国电池同行前景的担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/catl-s-slower-profit-growth-fans-fears-for-china-battery-rivals",
+      "pub_raw": "2026-10-21T04:54:28.489Z",
+      "pub_sort_dt": "2026-10-21 12:54:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国基准开关标志着隔夜运营的全面展开",
+      "title_cn": "中国基准开关标志着隔夜运营的全面展开",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/pboc-faces-multi-month-road-to-new-rate-anchor-analysts-say",
+      "pub_raw": "2026-10-21T04:54:28.391Z",
+      "pub_sort_dt": "2026-10-21 12:54:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "巴西大选：博索纳罗表示，若当选总统将与美国、中国合作",
+      "title_cn": "巴西大选：博索纳罗表示，若当选总统将与美国、中国合作",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/brazil-election-bolsonaro-says-he-d-work-with-us-china-as-president",
+      "pub_raw": "2026-10-21T04:54:28.377Z",
+      "pub_sort_dt": "2026-10-21 12:54:28"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国表示，正在台湾控制的南海环礁周边“维护秩序”",
+      "title_cn": "中国表示，正在台湾控制的南海环礁周边“维护秩序”",
+      "url": "https://reut.rs/3Ubplfr",
+      "pub_raw": "2026-10-21T04:54:27.767Z",
+      "pub_sort_dt": "2026-10-21 12:54:27"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国的噩梦：沦为下一个日本",
+      "title_cn": "中国的噩梦：沦为下一个日本",
+      "url": "https://www.ft.com/content/512ef255-89c2-4128-becc-914885c3a2a5?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-21T04:54:20.479Z",
+      "pub_sort_dt": "2026-10-21 12:54:20"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国如何打破西方在电池领域的壁垒",
+      "title_cn": "中国如何打破西方在电池领域的壁垒",
+      "url": "https://www.ft.com/content/36f60d90-a6f8-4cc4-9d9a-cb2301b3cff7?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-21T04:54:20.446Z",
+      "pub_sort_dt": "2026-10-21 12:54:20"
+    },
+    {
       "source": "Reuters",
       "title_en": "密苏里州向法院表示，中国错失了对240亿美元新冠疫情赔偿裁决提出异议的机会",
-      "title_cn": "密苏里州向法院表示，中国错失了240亿美元新冠疫情赔偿裁决，提出异议的机会",
+      "title_cn": "密苏里州向法院表示，中国错失了对240亿美元新冠疫情赔偿裁决提出异议的机会",
       "url": "https://reut.rs/4BefTJ7",
       "pub_raw": "2026-10-20T20:36:26.093Z",
       "pub_sort_dt": "2026-10-21 04:36:26"
@@ -103,7 +239,7 @@
     {
       "source": "The Economist",
       "title_en": "中国的大学财力雄厚。但它们正面临资金压力",
-      "title_cn": "中国的大学财力压力巨大。但它们正面临资金压力",
+      "title_cn": "中国的大学财力雄厚。但它们正面临资金压力",
       "url": "https://www.economist.com/china/2026/10/20/chinas-universities-are-rich-but-theyre-getting-squeezed",
       "pub_raw": "2026-10-20T20:12:14.476Z",
       "pub_sort_dt": "2026-10-21 04:12:14"
@@ -111,233 +247,233 @@
     {
       "source": "Bloomberg",
       "title_en": "英国表示愿意在欧盟峰会前就对中国汽车征收关税一事进行讨论",
-      "title_cn": "英国表示愿意在欧盟峰会前就对中国汽车关税一事进行讨论",
+      "title_cn": "英国表示愿意在欧盟峰会前就对中国汽车征收关税一事进行讨论",
       "url": "https://www.bloomberg.com/news/articles/2026-10-20/uk-open-to-discussing-chinese-car-tariffs-ahead-of-eu-summit",
       "pub_raw": "2026-10-20T20:12:13.752Z",
       "pub_sort_dt": "2026-10-21 04:12:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "一个失控的中国人工智能真的想去动物园。这可成问题了",
-      "title_cn": "一个失控的中国人工智能真的想去动物园。这可成问题了",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-20/rogue-chinese-ai-really-wants-to-go-to-the-zoo-that-s-a-problem",
-      "pub_raw": "2026-10-20T20:12:13.745Z",
-      "pub_sort_dt": "2026-10-21 04:12:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "巴西准备最早于下周首次在中国发行债券",
-      "title_cn": "巴西准备首先于下周首次在中国发行债券",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/brazil-readies-china-bond-debut-for-as-soon-as-next-week",
-      "pub_raw": "2026-10-20T20:12:13.711Z",
-      "pub_sort_dt": "2026-10-21 04:12:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国在谷歌人工智能机密案中对一家中国风险投资公司实施制裁",
-      "title_cn": "美国在谷歌人工智能机密案中对一家中国风险投资公司实施制裁",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case",
-      "pub_raw": "2026-10-20T20:12:13.531Z",
-      "pub_sort_dt": "2026-10-21 04:12:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "随着竞争加剧，中国宁德时代第三季度利润增速创近两年新低",
-      "title_cn": "随着竞争加剧，中国宁德第三季度利润已创近两年新低",
-      "url": "https://reut.rs/4yBhlTp",
-      "pub_raw": "2026-10-20T13:06:24.460Z",
-      "pub_sort_dt": "2026-10-20 21:06:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着司机纷纷放弃柴油车，大众旗下的斯堪尼亚加速推进中国电动卡车业务",
-      "title_cn": "随着司机纷纷放弃柴油车，大众推出的斯尼亚加速推进中国电动卡车业务",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/vw-s-scania-hastens-china-e-truck-push-as-drivers-abandon-diesel",
-      "pub_raw": "2026-10-20T11:47:18.616Z",
-      "pub_sort_dt": "2026-10-20 19:47:18"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "特朗普、拜登和奥巴马政府的前官员警告称，除非美国通过一项重大的能源许可法案，否则美国有可能在与中国的技术和产业竞争中落败。",
-      "title_cn": "特朗普、拜登和奥巴马政府的前大臣警告称，除非美国通过一项重大的能源许可法案，否则美国可能会在与中国的技术和产业竞争中落败。",
-      "url": "https://on.wsj.com/47uQ5e8",
-      "pub_raw": "2026-10-20T11:15:11.279Z",
-      "pub_sort_dt": "2026-10-20 19:15:11"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国镍企计划商讨削减印尼产量",
-      "title_cn": "中国镍企计划商讨谈判产量",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/chinese-nickel-firms-plan-to-discuss-cutting-indonesian-output",
-      "pub_raw": "2026-10-20T10:11:12.502Z",
-      "pub_sort_dt": "2026-10-20 18:11:12"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国基准利率调整预示隔夜操作将逐步扩大",
-      "title_cn": "中国基准利率调整世界贸易将逐步扩大",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/pboc-faces-multi-month-road-to-new-rate-anchor-analysts-say",
-      "pub_raw": "2026-10-20T09:23:18.937Z",
-      "pub_sort_dt": "2026-10-20 17:23:18"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国在亚太经合组织会议上就全球动荡发出严厉警告",
-      "title_cn": "中国在亚太经合组织会议上就全球局势发出紧急警告",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/china-issues-blunt-warning-on-global-turbulence-at-apec-meeting",
-      "pub_raw": "2026-10-20T08:52:24.507Z",
-      "pub_sort_dt": "2026-10-20 16:52:24"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "大众汽车押注小鹏汽车以挽救其中国业务。但事与愿违。",
-      "title_cn": "大众汽车押注小鹏汽车以挽救其中国业务。但事与愿违。",
-      "url": "https://reut.rs/4z110s5",
-      "pub_raw": "2026-10-20T07:48:21.259Z",
-      "pub_sort_dt": "2026-10-20 15:48:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "“假通勤”：中国失业者如何保全颜面",
-      "title_cn": "“假通勤”：中国失业者如何保全颜面",
-      "url": "https://reut.rs/4scSS50",
-      "pub_raw": "2026-10-20T07:17:22.843Z",
-      "pub_sort_dt": "2026-10-20 15:17:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "数据显示，中国9月份从美国进口的大豆量较去年同期的零水平出现反弹",
-      "title_cn": "数据显示，中国9月份从美国进口的大豆数量较去年同期的零水平出现反弹",
-      "url": "https://reut.rs/4iu1Lns",
-      "pub_raw": "2026-10-20T07:01:39.972Z",
-      "pub_sort_dt": "2026-10-20 15:01:39"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国华辰能源面临9.56亿美元债务再次违约风险",
-      "title_cn": "中国华辰能源面临9.56亿美元债务违约风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/china-s-huachen-energy-risks-fresh-default-on-956-million-debt",
-      "pub_raw": "2026-10-20T06:29:12.493Z",
-      "pub_sort_dt": "2026-10-20 14:29:12"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "古巴燃油危机导致旅客滞留，中国增开一班飞往哈瓦那的航班",
-      "title_cn": "古巴燃油危机导致旅客滞留，中国增开一班西雅图哈瓦那的航班",
-      "url": "https://reut.rs/4zJbrQY",
-      "pub_raw": "2026-10-20T06:29:12.358Z",
-      "pub_sort_dt": "2026-10-20 14:29:12"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "深度解析：大众押注小鹏汽车以挽救其中国业务。但事与愿违",
-      "title_cn": "深度解析：大众押注小鹏汽车以挽救其中国业务。但事与愿违",
-      "url": "https://reut.rs/3VP3hId",
-      "pub_raw": "2026-10-20T06:13:14.889Z",
-      "pub_sort_dt": "2026-10-20 14:13:14"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国海军称，一艘美国军舰在萨比纳浅滩附近活动，危及海上安全",
-      "title_cn": "中国海军称，一艘美国军舰在萨比纳浅滩附近活动，危及海上安全",
-      "url": "https://reut.rs/4BiasJ5",
-      "pub_raw": "2026-10-20T05:41:14.162Z",
-      "pub_sort_dt": "2026-10-20 13:41:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着投资激增，中国着手遏制氢能产能过剩",
-      "title_cn": "随着投资激增，中国着手开展氢能产能过剩",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/china-moves-to-curb-hydrogen-overcapacity-as-investment-surges",
-      "pub_raw": "2026-10-20T04:37:27.662Z",
-      "pub_sort_dt": "2026-10-20 12:37:27"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "随着进口配额限制临近，中国对欧盟的混合动力汽车出口激增逾200% - South China Morning Post",
-      "title_cn": "随着进口限制动力形成，中国对欧盟的混合汽车出口激增超过200% - 南华早报",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPWXRUVGNubGpwUnZzVDRGWEdNem1VeVRXS1pHYWgyNS0zdzZidU5rcE55ZDRoR1dZM2p1ajFUbmpJc2NCc0pZX2g1NE8wUWFBd1pRdVpSZ3RXT09saGduUDFSRXR6c0p1Y1hlbThPX0tZMzBweWVNNFB0Y1A5bmxEOWx4dzE5anZvZlFwVHFtQkZDUjlrU2pvbmdCOFNEVzR4bVV5dGM1TDVjdlNGZ1RuWWVjRWdGS2UxdmYtZQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T13:00:10.000Z",
-      "pub_sort_dt": "2026-10-20 21:00:10"
+      "title_en": "今年最强风暴正向台湾和中国大陆袭来 - South China Morning Post",
+      "title_cn": "今年最强风暴正向台湾和中国大陆袭来 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQOTJWaW9zNF9BSUp2T19LMXAzcGJrOXBYeUJpbVoxUWRZc2pZV2EzWkRjcHc1a1k2aVB3WUV4ejREU2MyVlNkNUt4bllYZC02VWFoT2Qzc1VnaXd5R2IzZHlDTWJfSnBUenllYVdYal9TdnQ1SEZ5TnhFczMtX3pXNHozcExHcld1ZGZMdXhYaExOU0NjdFQ3eEhaOWQtcjBQeF94d1Y3NnFjQzNkeldOZjRTOXVxRXdoX2pF?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T08:00:06.000Z",
+      "pub_sort_dt": "2026-10-21 16:00:06"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国禁止政府机构使用中国DeepSeek的人工智能工具 - The Guardian",
-      "title_cn": "美国禁止政府机构使用中国DeepSeek的人工智能工具 - 卫报",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxOUV9DaHpRUTR2dzh2cG9RTHdpa3VReVdBSzNfbkJlUm1wX3VXdWREbmMtRkpGOE5SZE0waTJYVmMya2F2NUxCTHRXaXBmaHhpczFZN2JMbG50VEM1cmNWVVpHWVg1ell2ZG9qM013bHpGX3NwbkRLamN3QU04a2pER1FRQXlxb253cDR2aHlvSEZ5V3JxSVZaVDdheDdFMkpj?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T12:33:00.000Z",
-      "pub_sort_dt": "2026-10-20 20:33:00"
+      "title_en": "中国反对美国对古巴领导人劳尔·卡斯特罗签发逮捕令 - Anadolu Ajansı",
+      "title_cn": "中国反对美国对古巴领导人劳尔·卡斯特罗签发逮捕令 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxQV3VpMVo2eDlMZ0Mway1hVS15Mkd4ZUVpWnVOV25DRFRwaE14RVJYWFNzVlJ2QzJrbkNJdGhpY0xtN09vZjJoMHFqbkNEaGdkWHZTOTRSMkhCVHZ5Znp1NnZQblFCa2ZGV2Nta2RIdmx0eVQ0RVBHOXc3QkZYQUtXaEdpQzZPQ1UyS3JsY3FPSXYzcFRUaTBTd3dhQklTZjExbVBnOVBBZk91YmgzLUQw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T07:59:30.000Z",
+      "pub_sort_dt": "2026-10-21 15:59:30"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国成立国有数据集团以推动其人工智能发展目标 - Bloomberg.com",
-      "title_cn": "中国成立国家数据集团以推动人工智能发展目标 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxOcTV1amNXT0VzMUNSRHRaYy1DekJHWUVsRkptWmRvQzE3MnhIWU8wek80bURmZVpxVldHT2FWcFFHX1ZCMzhaWHVFMnRGM19GZ1dPU3NjWEdyc3FsLWg3WHFCNHdpZURaQ3ZSTG52THBnYWd0S2IyZmd4SmpuVFUzcE82Xzg3WTE4SjIwbS1FWk9leEEyd0pqNkw2ZHRFWUQyc2ZKOXRXMlFXQlUycHVTR0ZHSQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T12:13:00.000Z",
-      "pub_sort_dt": "2026-10-20 20:13:00"
+      "title_en": "奇瑞高管表示，该公司愿意与美国汽车制造商建立技术合作伙伴关系 - Reuters",
+      "title_cn": "奇瑞高管表示，该公司愿意与美国汽车制造商建立技术合作伙伴关系 - Reuters",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxNTkZvb0VIU2FQdjlnaGFHYktwUGo4SlNvOE5fbmFjNUVrTTBFR0tTMXhNYWdvUlFCM3VjSG9GZlZvdFVTTzVpdzZaTk1OQUlqSFNuT2R3U2lVY2xxWEVodTJvdndaRFZrSDlZNGZaWkJFX09OUkxqOWFFMDE3OTRySG5UYVl2dG81T0dfeUFfQkNDcUhVYVdoVVJKSW5OblZZX1hwRzR5dUJVejBiMlkyNkU3MWNjbXpFRUE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T07:45:44.000Z",
+      "pub_sort_dt": "2026-10-21 15:45:44"
     },
     {
       "source": "China Buzzing",
-      "title_en": "凯文·奥利里再次被起诉，指控称犹他州的Stratos反对者为中国工作 - The Salt Lake Tribune",
-      "title_cn": "凯文·奥利里再次被起诉，指控犹他州的斯特拉托斯反对者为中国工作 - 盐湖论坛报",
-      "url": "https://news.google.com/read/CBMid0FVX3lxTE9uQkxCV0xQVzVReG5qNFR4ZkV3TjBiSHRuWmhrdHVvZFUzY2dGOWM2Y05uYUNMWTBKWThzZE9haGVrU19URnJBRTh2U2R6WjR1Ti1fcVY4emlXZ25YMWhkYWJtTXNHcmhCaHJ0ODlUUWoxRGV2UXlj?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T12:04:34.000Z",
-      "pub_sort_dt": "2026-10-20 20:04:34"
+      "title_en": "中国采取措施加强对顶级人工智能模型出口的管控 - The New York Times",
+      "title_cn": "中国采取措施加强对顶级人工智能模型出口的管控 - The New York Times",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxNVGtOTkNCaEJUNWpyTEJIU3dDbzJNcGxxLUNlemU0a2ZxUmdObVQ0WUVkbXpnS0ZEVW5PZVZ0T2UxMnpKczlFM2ZYRHZJMWFqOU9PMnBYQ3V2bVVPRUdKcFppeHhDejJ2VTQzLWU4d0paSV8wRUFtMm9XS1FjTnNLUUxR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T06:39:10.000Z",
+      "pub_sort_dt": "2026-10-21 14:39:10"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国政坛最顽强的“幸存者”刚刚倒下。这反映了习近平执政的什么情况？ - WSJ",
-      "title_cn": "中国政坛最顽强的“弟子”刚刚倒下。这反映了习近平执政的什么情况？ - 华尔街日报",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxNbTNDZ2JLUWN4RlJQNVNaRk1wX0wzSXVnTnFwaWthc0MtSkp5eFVuNi1CclRnWFQ4czh5UVdhcWx5VVhzSEtXalM1Y3oxcHhsSF9ncWt4MF83OTBTS0VPZWV0ZndiSnJwRDZ3WWlnVVpaRkVhUWRrT1RhYjZJZFp2SHQxWnJ5MlpsM1Zpd2YyM3U3YWhNMDZxVFE0ak5xSVgyclFadVJkTk93TWpnQkVPa2c5TDJrQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T10:55:00.000Z",
-      "pub_sort_dt": "2026-10-20 18:55:00"
+      "title_en": "随着免签政策成效显现，中国入境游客量激增15.6% - South China Morning Post",
+      "title_cn": "随着免签政策成效显现，中国入境游客量激增15.6% - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxNVzZNSnQ0azFwbEtkS2VYcml6b2FNb0JKX0xJb3dadEJjcjJJaDllTS0tRi1Ib0k0eTY4TjJZQVhiWElwZWJxQm1QLVktOHVEX2dQWFUtTjZ2VXJrdXd4NEI2WmxObkJzb2d3UDMzMVR3M09iYW4xdklSY3p6eTBza1c4Zk1sQTM5X2ZPMnA1ZExyLW9kTHRZZXRyaGdGVUplZUdaSGx2OUh2Y3Z6czM4LUh1WDBMamJaYU5Z0gG7AUFVX3lxTFBlLTVjR0FpQXNBcU5obW0wZzI3dFFyRXNPd25JYS1kRU1PTFY2X0xFakt6dXZZRlZJSGhkVXVNbXo5RURYTzIyQWcyUmRaSHBqblI3MXYtOGVXazVTTkdHaDkwYVBWX290Y3JXNmNRd04wb2hwS0RrQnNVS0RybWdaR0p0aW5mRTAyUjlVa0JLV0xReUFkMjBnMTZTNDI2Y0Y5akdvMEhBeWYtckpROFBSM0t2NHhfOVhnUUU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T06:30:41.000Z",
+      "pub_sort_dt": "2026-10-21 14:30:41"
     },
     {
       "source": "China Buzzing",
-      "title_en": "“人们渴望表达自我”：来自中国最时尚城市的报道 - CNN",
-      "title_cn": "“人们渴望表达自我”：来自中国最时尚城市的报道 - CNN",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNcFhjUFZ6SDZIeVNfc0R5a2FVZkw2YTBubHNOYlA3WGR5NUlQWncyZFhBMzR5WVdyTGZ1Z0tqaVY4dnBqaFBEMEx1MVpaM0VwZG1LQlQ4ODhzZWtXYjEtQmM3cm9VVzl1anNreVpJeWtVRXN2MHkwUFlwWVpxZng0MkR3Q1Q?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T09:45:21.000Z",
-      "pub_sort_dt": "2026-10-20 17:45:21"
+      "title_en": "中国财政部长兰表示，亚太经合组织（APEC）财长们一致同意加强政策协调 - Reuters",
+      "title_cn": "中国财政部长兰表示，亚太经合组织（APEC）财长们一致同意加强政策协调 - Reuters",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQNXY2S3Z3dTEyQmVmSE4zZ1JZLWJ2SHRwUnhXUXVSS3pMR3BPVlhSZnJPVWhkVEZ3NllEY0JpU0tDNUJhdTJqUWFvdS1WblBUbjB6aklCR3ptWndScWc1b1dWU21SNXl1SDROX1BTMWNoYTFRS3Bhb016dGpsVDJSdTVPOEFURjJSMWVyeDhYbHFPODFBNUU5ZEtycE1Bb3hnTFJDcUtTZlJSa01VMUJjNnFLVjM0amhlN3BoSXRkV0FNWWM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T05:16:00.000Z",
+      "pub_sort_dt": "2026-10-21 13:16:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "安全公司发现，日本遭遇的网络攻击背后是与中方有关联的人工智能代理 - Japan Today",
-      "title_cn": "安全公司发现，日本遭遇的网络攻击背后是与中方有关联的人工智能代理 - 今日日本",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxNYkxsd0RhSktuSk5yTDlmcjV4QjN3R2hhSm5KRTk4NThESl8xejBIcGVmdnI4YWs0ZWhRbXdidlM0dzR5cEc5bjBOTHBSaDdfWnZuTkdRR2VvRklBakZJQUJqcnI0aGs1UUZUMWdOYVN5UTI0eDVGQXVYV3ppeVdGOFZSWkFHTl9ncnEyNWlLcWstZHFZZ1lwVUhSNTdHYWZpeXowQUhBeHhGTXRhSzM2QVJyTQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T07:34:00.000Z",
-      "pub_sort_dt": "2026-10-20 15:34:00"
+      "title_en": "节后舱位紧张，中美航线海运运费保持稳定 - News Channel 3-12",
+      "title_cn": "节后舱位紧张，中美航线海运运费保持稳定 - News Channel 3-12",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNcmJ4b09FZlVjY0JydmJqVy1IZ1NMdmg5c3VSOGJ2cnFsaTZNMFFNQV9qaldsamg5QTRBeFZybTZsV190Vy1NcFU3dXEwbDVXQzltd3dIWlN5RmgwZFhWMmdfNDdlQ2ZpNjM2Mm1DQTVaRldINndFcXExSlZEc3puOElXVmNWbnJKNGVIZDVhUHRBUTJuMmVnRDItc0wtX1VuY1ZLVHhkUWU2cWhlZ2hxMncyR1Y0S2ZRMkg1bkUwdm1nY3M?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T04:40:16.000Z",
+      "pub_sort_dt": "2026-10-21 12:40:16"
     },
     {
       "source": "China Buzzing",
-      "title_en": "分析师称，中国人民银行将面临长达数月的过程才能确立新的利率锚 - Bloomberg.com",
-      "title_cn": "分析师称，中国人民银行将长达数月的过程才能确定新的利率 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxPdkw4SUdIbzdQemdRZDdMRU9ERFpYLWlHNGo0NWZaNkwtSk51dU1ocnlvMUg3MmRNVHBHSTZvLS1HUjZxNF9ISGI2WUswMVNXZTZLY3R0RFdwd0hRTlhUX1ZwR1ppRU9sTkJzd3FHUktlclduN3FCR04zaG9ERkdad1ItNUJaa1ZhNDdNZERGTnNESC1WY01vcWxvai1VVmk2bW5yNmU0X0tOTHdTRkUw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T07:33:42.000Z",
-      "pub_sort_dt": "2026-10-20 15:33:42"
+      "title_en": "中国研制出全球最小、可监测整个大脑皮层的可穿戴脑监测仪 - South China Morning Post",
+      "title_cn": "中国研制出全球最小、可监测整个大脑皮层的可穿戴脑监测仪 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxQX0xWWkpxbnZlbHZuLWhlQ0N1cnBrbllMV2I5S19YRmU3QVNWTWc1T3g1b01LVG5kQ3lhaXR1T0VGc19ORm0yRzF4S2d2M0s3a251MGVMNnJYS2ZyejJmaXFYMjRWOUNSUlAtd2hKOThtVDN0OHVlMjFURi03MDhWa0l5MTlpSTFYWkhpN1hfbEg1SUFCZXRzRWdNVlhLSjdKem15Tmt1NS1nenhZX1hMb3dMejY5LW9PakVLSUxIRzVNQdIBwgFBVV95cUxNNUtBLUpBWHUxbG1CUzNHOUREeWRjMVo0dkpJcEhSTXEwNlFjQTN6Yk84b3YzX0tRN1lNQ19sanA2VmFCckJUSzdON05nTmhVQ09GX0hCX1JzbHU5a3l4Z1UyS202LWhDMjZRUE11ckEwMXZKR1oybXVSUjEyZmlqb0VyTm5qZURscjFwenlHWnBod3VLNlI2NXZYLWNlbDZ2bXVYRnhpVXhkOTk0OHBDdXppWVRaSlQ2MzdVVkp5SE55dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T04:00:32.000Z",
+      "pub_sort_dt": "2026-10-21 12:00:32"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国在亚太经合组织会议上就全球动荡发出严厉警告 - Bloomberg.com",
-      "title_cn": "中国在亚太经合组织会议上就全球动荡发出紧急警告 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxPRkZzcGdpZjRtN2xnME5vcVNvU2M4V3hmaWV1WnB4c3pTcmxVVnRWS3lWdk8tUHR1RHRMb1pUeGJJZWRpMmwzdGhESGtGYzF0OGYzTkNmZThLTHJJbmhoRXp6T0hiV0x4VXNQS01Uc05VUkhwZFhRS2dGT1p4aHZfblBGRmdsTW5yVjBDTHowR0FGUHdwVERWbXRNel9nOUtaRm9DR19mbjdKMC1lblljQWtndUY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T07:16:29.000Z",
-      "pub_sort_dt": "2026-10-20 15:16:29"
+      "title_en": "中国表示，正在台湾控制的南海环礁周边“维护秩序” - Reuters",
+      "title_cn": "中国表示，正在台湾控制的南海环礁周边“维护秩序” - Reuters",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxNdTQyY2ZrQm1kT0JUNy1VTFUxZVVuMHhqVEFFSkl0RDY3ZWpuQjQybnhNSE1UZTdtUXA0bTh2MU5KSlh0amZIaVFiMDhPVi1ZQV9nVG5DaHBVOE1jUS1OUnVzOEFwQUNnY3ljbnBqQkNGM242a21id1pBRk56UUhkeXRFMGZxQzFWYlZJaXE2ZXhoa0tHelh1V2loc19TS1psNjVzMFptQlNBdjJfU3REQzhOSEZUakdQN1NWTEtpcmh0Zw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T03:43:00.000Z",
+      "pub_sort_dt": "2026-10-21 11:43:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "一名学生因在俄罗斯涉及日本旭日旗的事件被遣返回中国 - South China Morning Post",
-      "title_cn": "一名俄罗斯学生因涉及日本旭日旗事件被遣返中国 - 南华早报",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxQSTZMcU1zUWdpT3pxYTJjc1F1Tl9YQ09VSm54eU9zM0R1YWw2UXA0ZW01X0xnOXVaaXRSalFPVENyQk1lVGdpeTk2N0UxWl9tcTgzMWM4MGdkVmpzdVdRLUJvUUpWWEw4b2M4d2hmd3lVUzc4NTRsMFk3RjdtSFAyNm00Vnk1YmZ4RXc5dGdLaUI1VDFmNlY4QXV4LS0yR3U5aW9pS1VpVXMyZ25yZWE1S2s1SWg2NTRhSW1nbEswVE90dW5uckHSAcYBQVVfeXFMTm0xOHR3X0lacFJlaHFraEYxZXl0SjZpYkIxUy0xTE5GY3JaLUxSUll4YkNLQzkzdFNkeE1DSlJHNVJPTUNyaGFRSUFzTDJaeFoxanFhX2ViUmNsU0xZR0RUZWJmTkNOTXE2Z2EtMF82WmlFYUx4YzlrY2VQdzlHbkJiNVJWd1Q0NmxKRHFiVnpTTzdkOGZqbzBwdDA4dHd1bVNnUUlpZ1VVZHducmlmeXZrS1F2TUc2LTd6a2ZBeWZhZmI3VFNR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-20T07:00:58.000Z",
-      "pub_sort_dt": "2026-10-20 15:00:58"
+      "title_en": "两大亚洲巨头，一个经济陷阱 - Financial Times",
+      "title_cn": "两大亚洲巨头，一个经济陷阱 - Financial Times",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxQamVwTDh0YzZFMF9tWHdKaHlkZl9wSUh3WXpFZEFaalVWRUhWREdNLVJHeW5ISGJzSjVlSFpTZnJzSktpYVgyS19HRElKVm9aN0cxSllKdjhmTm1mWnZaTlk2U0NrQjlHRmRzOFFST3ZOdUpKLVJxQlk0Sk9fQ1M2MWFheEo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-21T03:01:36.000Z",
+      "pub_sort_dt": "2026-10-21 11:01:36"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "梅尔茨表示，欧盟在维护自身权益的同时，旨在避免与中国爆发贸易战",
+      "title_cn": "梅尔茨表示，欧盟在维护自身权益的同时，旨在避免与中国爆发贸易战",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/merz-says-protectionism-is-throwing-a-wrench-at-global-trade",
+      "pub_raw": "2026-10-21T09:25:43.861Z",
+      "pub_sort_dt": "2026-10-21 17:25:43"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "调查显示，汽车行业高管预计，到2035年，软件和中国市场的增长将重塑该行业",
+      "title_cn": "调查显示，汽车行业高管预计，到2035年，软件和中国市场的增长将重塑该行业",
+      "url": "https://reut.rs/4yxKrmu",
+      "pub_raw": "2026-10-21T08:54:00.131Z",
+      "pub_sort_dt": "2026-10-21 16:54:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "台湾以袭击讽刺中国国家主席习近平的喜剧演员为由起诉5人",
+      "title_cn": "台湾以袭击讽刺中国国家主席习近平的喜剧演员为由起诉5人",
+      "url": "https://reut.rs/4BdEwFT",
+      "pub_raw": "2026-10-21T08:54:00.127Z",
+      "pub_sort_dt": "2026-10-21 16:54:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台积电因事故致四人死亡而放缓台湾建设进度",
+      "title_cn": "台积电因事故致四人死亡而放缓台湾建设进度",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/tsmc-suspends-some-construction-after-deadly-accident-kills-four",
+      "pub_raw": "2026-10-21T08:05:41.381Z",
+      "pub_sort_dt": "2026-10-21 16:05:41"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "爱彼凭借超大型旗舰店押注香港富豪群体",
+      "title_cn": "爱彼凭借超大型旗舰店押注香港富豪群体",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/audemars-piguet-bets-on-hk-luxury-demand-with-new-world-store",
+      "pub_raw": "2026-10-21T08:05:41.337Z",
+      "pub_sort_dt": "2026-10-21 16:05:41"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "独家：据知情人士透露，三星和SK海力士正在升级其中国工厂，以生产更先进的芯片",
+      "title_cn": "独家：据知情人士透露，三星和SK海力士正在升级其中国工厂，以生产更先进的芯片",
+      "url": "https://reut.rs/4Bi1PxZ",
+      "pub_raw": "2026-10-21T08:05:41.270Z",
+      "pub_sort_dt": "2026-10-21 16:05:41"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国外卖平台美团正考虑发行点心债券",
+      "title_cn": "中国外卖平台美团正考虑发行点心债券",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/chinese-food-delivery-firm-meituan-considers-dim-sum-bond-sale",
+      "pub_raw": "2026-10-21T07:33:41.293Z",
+      "pub_sort_dt": "2026-10-21 15:33:41"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国在COP31上释放出将抵制清洁技术关税的信号",
+      "title_cn": "中国在COP31上释放出将抵制清洁技术关税的信号",
+      "url": "https://reut.rs/4hWtwoH",
+      "pub_raw": "2026-10-21T07:19:06.735Z",
+      "pub_sort_dt": "2026-10-21 15:19:06"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "招聘信息显示，中国“登月计划”AI项目将在新加坡运营",
+      "title_cn": "招聘信息显示，中国“登月计划”AI项目将在新加坡运营",
+      "url": "https://reut.rs/4jtzMp7",
+      "pub_raw": "2026-10-21T06:15:52.118Z",
+      "pub_sort_dt": "2026-10-21 14:15:52"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港火灾报告将把政府问责制置于聚光灯下",
+      "title_cn": "香港火灾报告将把政府问责制置于聚光灯下",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/hong-kong-fire-report-to-put-government-accountability-in-focus",
+      "pub_raw": "2026-10-21T04:54:28.533Z",
+      "pub_sort_dt": "2026-10-21 12:54:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "六张图表看中国经济：增长、出口与房地产低迷",
+      "title_cn": "六张图表看中国经济：增长、出口与房地产低迷",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/china-s-economy-in-six-charts-growth-exports-and-the-property-slump",
+      "pub_raw": "2026-10-21T04:54:28.492Z",
+      "pub_sort_dt": "2026-10-21 12:54:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "宁德时代利润增长乏力，加剧市场对中国电池同行前景的担忧",
+      "title_cn": "宁德时代利润增长乏力，加剧市场对中国电池同行前景的担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/catl-s-slower-profit-growth-fans-fears-for-china-battery-rivals",
+      "pub_raw": "2026-10-21T04:54:28.489Z",
+      "pub_sort_dt": "2026-10-21 12:54:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国基准开关标志着隔夜运营的全面展开",
+      "title_cn": "中国基准开关标志着隔夜运营的全面展开",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/pboc-faces-multi-month-road-to-new-rate-anchor-analysts-say",
+      "pub_raw": "2026-10-21T04:54:28.391Z",
+      "pub_sort_dt": "2026-10-21 12:54:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "巴西大选：博索纳罗表示，若当选总统将与美国、中国合作",
+      "title_cn": "巴西大选：博索纳罗表示，若当选总统将与美国、中国合作",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/brazil-election-bolsonaro-says-he-d-work-with-us-china-as-president",
+      "pub_raw": "2026-10-21T04:54:28.377Z",
+      "pub_sort_dt": "2026-10-21 12:54:28"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国表示，正在台湾控制的南海环礁周边“维护秩序”",
+      "title_cn": "中国表示，正在台湾控制的南海环礁周边“维护秩序”",
+      "url": "https://reut.rs/3Ubplfr",
+      "pub_raw": "2026-10-21T04:54:27.767Z",
+      "pub_sort_dt": "2026-10-21 12:54:27"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国的噩梦：沦为下一个日本",
+      "title_cn": "中国的噩梦：沦为下一个日本",
+      "url": "https://www.ft.com/content/512ef255-89c2-4128-becc-914885c3a2a5?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-21T04:54:20.479Z",
+      "pub_sort_dt": "2026-10-21 12:54:20"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国如何打破西方在电池领域的壁垒",
+      "title_cn": "中国如何打破西方在电池领域的壁垒",
+      "url": "https://www.ft.com/content/36f60d90-a6f8-4cc4-9d9a-cb2301b3cff7?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-21T04:54:20.446Z",
+      "pub_sort_dt": "2026-10-21 12:54:20"
     },
     {
       "source": "Reuters",
       "title_en": "密苏里州向法院表示，中国错失了对240亿美元新冠疫情赔偿裁决提出异议的机会",
-      "title_cn": "密苏里州向法院表示，中国错失了240亿美元新冠疫情赔偿裁决，提出异议的机会",
+      "title_cn": "密苏里州向法院表示，中国错失了对240亿美元新冠疫情赔偿裁决提出异议的机会",
       "url": "https://reut.rs/4BefTJ7",
       "pub_raw": "2026-10-20T20:36:26.093Z",
       "pub_sort_dt": "2026-10-21 04:36:26"
@@ -345,7 +481,7 @@
     {
       "source": "The Economist",
       "title_en": "中国的大学财力雄厚。但它们正面临资金压力",
-      "title_cn": "中国的大学财力压力巨大。但它们正面临资金压力",
+      "title_cn": "中国的大学财力雄厚。但它们正面临资金压力",
       "url": "https://www.economist.com/china/2026/10/20/chinas-universities-are-rich-but-theyre-getting-squeezed",
       "pub_raw": "2026-10-20T20:12:14.476Z",
       "pub_sort_dt": "2026-10-21 04:12:14"
@@ -353,146 +489,10 @@
     {
       "source": "Bloomberg",
       "title_en": "英国表示愿意在欧盟峰会前就对中国汽车征收关税一事进行讨论",
-      "title_cn": "英国表示愿意在欧盟峰会前就对中国汽车关税一事进行讨论",
+      "title_cn": "英国表示愿意在欧盟峰会前就对中国汽车征收关税一事进行讨论",
       "url": "https://www.bloomberg.com/news/articles/2026-10-20/uk-open-to-discussing-chinese-car-tariffs-ahead-of-eu-summit",
       "pub_raw": "2026-10-20T20:12:13.752Z",
       "pub_sort_dt": "2026-10-21 04:12:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "一个失控的中国人工智能真的想去动物园。这可成问题了",
-      "title_cn": "一个失控的中国人工智能真的想去动物园。这可成问题了",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-20/rogue-chinese-ai-really-wants-to-go-to-the-zoo-that-s-a-problem",
-      "pub_raw": "2026-10-20T20:12:13.745Z",
-      "pub_sort_dt": "2026-10-21 04:12:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "巴西准备最早于下周首次在中国发行债券",
-      "title_cn": "巴西准备首先于下周首次在中国发行债券",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/brazil-readies-china-bond-debut-for-as-soon-as-next-week",
-      "pub_raw": "2026-10-20T20:12:13.711Z",
-      "pub_sort_dt": "2026-10-21 04:12:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国在谷歌人工智能机密案中对一家中国风险投资公司实施制裁",
-      "title_cn": "美国在谷歌人工智能机密案中对一家中国风险投资公司实施制裁",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case",
-      "pub_raw": "2026-10-20T20:12:13.531Z",
-      "pub_sort_dt": "2026-10-21 04:12:13"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "随着竞争加剧，中国宁德时代第三季度利润增速创近两年新低",
-      "title_cn": "随着竞争加剧，中国宁德第三季度利润已创近两年新低",
-      "url": "https://reut.rs/4yBhlTp",
-      "pub_raw": "2026-10-20T13:06:24.460Z",
-      "pub_sort_dt": "2026-10-20 21:06:24"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着司机纷纷放弃柴油车，大众旗下的斯堪尼亚加速推进中国电动卡车业务",
-      "title_cn": "随着司机纷纷放弃柴油车，大众推出的斯尼亚加速推进中国电动卡车业务",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/vw-s-scania-hastens-china-e-truck-push-as-drivers-abandon-diesel",
-      "pub_raw": "2026-10-20T11:47:18.616Z",
-      "pub_sort_dt": "2026-10-20 19:47:18"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "特朗普、拜登和奥巴马政府的前官员警告称，除非美国通过一项重大的能源许可法案，否则美国有可能在与中国的技术和产业竞争中落败。",
-      "title_cn": "特朗普、拜登和奥巴马政府的前大臣警告称，除非美国通过一项重大的能源许可法案，否则美国可能会在与中国的技术和产业竞争中落败。",
-      "url": "https://on.wsj.com/47uQ5e8",
-      "pub_raw": "2026-10-20T11:15:11.279Z",
-      "pub_sort_dt": "2026-10-20 19:15:11"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国镍企计划商讨削减印尼产量",
-      "title_cn": "中国镍企计划商讨谈判产量",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/chinese-nickel-firms-plan-to-discuss-cutting-indonesian-output",
-      "pub_raw": "2026-10-20T10:11:12.502Z",
-      "pub_sort_dt": "2026-10-20 18:11:12"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国基准利率调整预示隔夜操作将逐步扩大",
-      "title_cn": "中国基准利率调整世界贸易将逐步扩大",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/pboc-faces-multi-month-road-to-new-rate-anchor-analysts-say",
-      "pub_raw": "2026-10-20T09:23:18.937Z",
-      "pub_sort_dt": "2026-10-20 17:23:18"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国在亚太经合组织会议上就全球动荡发出严厉警告",
-      "title_cn": "中国在亚太经合组织会议上就全球局势发出紧急警告",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/china-issues-blunt-warning-on-global-turbulence-at-apec-meeting",
-      "pub_raw": "2026-10-20T08:52:24.507Z",
-      "pub_sort_dt": "2026-10-20 16:52:24"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "大众汽车押注小鹏汽车以挽救其中国业务。但事与愿违。",
-      "title_cn": "大众汽车押注小鹏汽车以挽救其中国业务。但事与愿违。",
-      "url": "https://reut.rs/4z110s5",
-      "pub_raw": "2026-10-20T07:48:21.259Z",
-      "pub_sort_dt": "2026-10-20 15:48:21"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "“假通勤”：中国失业者如何保全颜面",
-      "title_cn": "“假通勤”：中国失业者如何保全颜面",
-      "url": "https://reut.rs/4scSS50",
-      "pub_raw": "2026-10-20T07:17:22.843Z",
-      "pub_sort_dt": "2026-10-20 15:17:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "数据显示，中国9月份从美国进口的大豆量较去年同期的零水平出现反弹",
-      "title_cn": "数据显示，中国9月份从美国进口的大豆数量较去年同期的零水平出现反弹",
-      "url": "https://reut.rs/4iu1Lns",
-      "pub_raw": "2026-10-20T07:01:39.972Z",
-      "pub_sort_dt": "2026-10-20 15:01:39"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国华辰能源面临9.56亿美元债务再次违约风险",
-      "title_cn": "中国华辰能源面临9.56亿美元债务违约风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/china-s-huachen-energy-risks-fresh-default-on-956-million-debt",
-      "pub_raw": "2026-10-20T06:29:12.493Z",
-      "pub_sort_dt": "2026-10-20 14:29:12"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "古巴燃油危机导致旅客滞留，中国增开一班飞往哈瓦那的航班",
-      "title_cn": "古巴燃油危机导致旅客滞留，中国增开一班西雅图哈瓦那的航班",
-      "url": "https://reut.rs/4zJbrQY",
-      "pub_raw": "2026-10-20T06:29:12.358Z",
-      "pub_sort_dt": "2026-10-20 14:29:12"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "深度解析：大众押注小鹏汽车以挽救其中国业务。但事与愿违",
-      "title_cn": "深度解析：大众押注小鹏汽车以挽救其中国业务。但事与愿违",
-      "url": "https://reut.rs/3VP3hId",
-      "pub_raw": "2026-10-20T06:13:14.889Z",
-      "pub_sort_dt": "2026-10-20 14:13:14"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国海军称，一艘美国军舰在萨比纳浅滩附近活动，危及海上安全",
-      "title_cn": "中国海军称，一艘美国军舰在萨比纳浅滩附近活动，危及海上安全",
-      "url": "https://reut.rs/4BiasJ5",
-      "pub_raw": "2026-10-20T05:41:14.162Z",
-      "pub_sort_dt": "2026-10-20 13:41:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着投资激增，中国着手遏制氢能产能过剩",
-      "title_cn": "随着投资激增，中国着手开展氢能产能过剩",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/china-moves-to-curb-hydrogen-overcapacity-as-investment-surges",
-      "pub_raw": "2026-10-20T04:37:27.662Z",
-      "pub_sort_dt": "2026-10-20 12:37:27"
     }
   ]
 }
