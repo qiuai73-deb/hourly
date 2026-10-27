@@ -1,97 +1,161 @@
 {
-  "update_cst": "2026-10-27 18:01:21 北京时间",
+  "update_cst": "2026-10-28 06:01:13 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
-    "Bloomberg": 10,
+    "Bloomberg": 8,
     "Financial Times": 2,
     "Wall Street Journal": 0,
-    "Reuters": 7
+    "Reuters": 9
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "中美在能源和矿产供应链领域的竞争如何让该机构忙得不可开交 - Barron's",
-      "title_cn": "中美在能源和矿产供应链领域的竞争如何让该机构忙得不可开交 - 巴伦周刊",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxNMGZlSEQwV29IckM0bkJpUUR6WE94aHQtUkQ3SkhmQnVaZ0haemlCaHEzZm1Tam9zTTI1bmFIclhKeUZfWTRjeEhLRUVNTkZvNnJ3d2ptbTlHMXdtWTlKUW1wWnV6XzJRU25QWmV5WnZFQVpDMVVPVGo2aWJPZE16Z0hOazY5QVE3U0dpSQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T09:00:00.000Z",
-      "pub_sort_dt": "2026-10-27 17:00:00"
+      "title_en": "美国国防情报局（DIA）：自2018年以来，随着卫星编队的持续扩充，中国的卫星数量已增长至原来的三倍 - Breaking Defense",
+      "title_cn": "美国国防情报局（DIA）：自2018年以来，随着卫星编队的不断增加，中国的卫星数量已增长至原来的三倍 - Breaking Defense",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxORXNwN0ZmWmthQUlGQUN2N0dickFQeldFWTdIdnczWEwxMVM5bUR3N3dXU1NIUXlxZ0E3RWNHd2dHV0h2OXFDU0hxZmlYbmVEcEh2dFFXbzZhVFdFa2lzcFRoNllQbWdlRGhSMFVsTC1MVnlVNHVZYzRLRVAwNHE2cHdCS2JubUFzWHZYRTlQaXFhVHlUNHhVVGp2NGp0dFUtbFBNT3pCMEJOeURJUEpnRlZ3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T20:59:14.000Z",
+      "pub_sort_dt": "2026-10-28 04:59:14"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着冲突波及周边地区，中国将在近期向中东派遣特使 - Reuters",
-      "title_cn": "随着冲突波及周边地区，中国将在近期向中东派遣特使 - Reuters",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQVmZiSXVsLUdKMnk3anBIc0VMUmpabGtQZlh0YW0tWm9FNkJFT0dWNi1GWkFPMU1JUk5lTkZXWnBMR2hoYUE0dE1HNVF5MU9kRkJYUlNhWVdKX0pRbTk5ejU5ZXlpRVlwVEJqbFFXMldPb0lKelR1NHNVSTJac2pPdHd0amR6QTNBa250elZFRTgyRlRJb042d09mZnNabDBnNnN1ZkRMZGhkV0ZyMGFXVXhn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T08:42:20.000Z",
-      "pub_sort_dt": "2026-10-27 16:42:20"
+      "title_en": "经济学家称，中国仍有望兑现从美国采购大豆的承诺 - Brownfield Ag News",
+      "title_cn": "经济学家称，中国仍有望兑现美国采购大豆的承诺 - Brownfield Ag News",
+      "url": "https://news.google.com/read/CBMiqgFBVV95cUxPYUdqTGZhMnBMbzRaSzVBc3NwOFNIVllZT2kzQ21DeG9qanNqMXFPYkVxV2k2cDFwZ0E0cEhxdDJoVEpTUnc4U1ZmUzJ0OFdvdlFxZWRJODZFcVhQZFZtRHRmNWV3UkRZZ3hLa0E4dmYwc2VlYlpmQzFDV0l1anV4OTFBMGlteWt0TWk2MW10ODAyQnpDMGhrTzlxeVF0dVBsbXV2TkF5czNlZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T20:31:25.000Z",
+      "pub_sort_dt": "2026-10-28 04:31:25"
     },
     {
       "source": "China Buzzing",
-      "title_en": "《观点》 欧盟与中国的混合动力汽车协议对欧洲汽车制造商帮助不大 - South China Morning Post",
-      "title_cn": "《观点》欧盟与中国的混合动力汽车协议对欧洲汽车制造商帮助不大 - 南华早报",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQMWVCazVWY3drTFVYUzlGX0xLcWJ4M0NfVVZTUHdwY29wcGhrOFhPOHB4VzdrWko4LWctei1zNGVPTy0xUDhaejRjdVUyTS1Ga1RTMzI5bTNpODh0cC0tM2lKMERkbk0wQmYzb1M4TTdWTmlObzZuSHZqM3RFcEY0X1hyT2lBclRSQVBiLUlDQTdncW5taDNObnNPbFJXYjVwSlVfUGRtT3RHWUc3bldWNjdrM2g3MENDVDM00gG7AUFVX3lxTE5XeThqZFJvSEtyVm95SFRaNC1hSnlaZGxkdmJtUmZBbW5QeHZwM0hpb0pGTllzTG9YSzNwNklWX2F6NjI5dDk4UDlfT1l5WnNqY05qZUhfRERKak5YbGpCRkFhck5LQlRWa184N3Q3OHZHM2NYNmctaWJQTFI1Rl9SMnpud3o1WUxvYmhiYmh3ZlFnWWJkS1FrSElhdFV1MGlHaHc4dWRMU0lmNzM4Skw4blFqaFNLUjhwWVU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T08:30:10.000Z",
-      "pub_sort_dt": "2026-10-27 16:30:10"
+      "title_en": "独家报道：华伦天奴即将在中国推出其首款高级美妆产品 - Yahoo Finance Singapore",
+      "title_cn": "独家报道：华伦天奴即将在中国推出其高级美妆产品 - 雅虎财经",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxOYjk3elhkZXJpaS0wdERGZHVlUHpDbW45czFVWFpXQndlME9qMkcyVnM0ZXFnTF9mYzkyVHEtYkQ0cnc1d3BiNmtBSUV1ODA4UTVqeXdQMkRNTFMybWY3T05SVHRRT1JSS01JeE9WZ21yckFsQ3JfVHlLX2RaNnBqV1NSa3VoMmc0MV9IU192Tm9tdzF0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T19:02:22.000Z",
+      "pub_sort_dt": "2026-10-28 03:02:22"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国计划将与中国的运费停火协议延长两个月 - Bloomberg.com",
-      "title_cn": "美国计划将与中国的运费停火协议延长两个月 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQb0FYWHhFT1NiZjNzbzhmMWNWRlVEUHB6dkxHTWs2MFltUkhnMFRzZm1rZHN4TDdUZkdCNmxGaHp5Z3k0VnBWTktnR1QySi1TRHFidDdDUnd2UlhnbFVyTzRQVzZHc2RWMVp1M2hxaUJGcVVGYWxyUU9VdHdtYzBrWnU4V2F2R01jeGZQb1lPVWEzaGY5SnhYSURXdkZ4NTM5ZlBXV1p2OWFvZWFSOFZCSTVR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T08:06:30.000Z",
-      "pub_sort_dt": "2026-10-27 16:06:30"
+      "title_en": "受人工智能驱动的成本上涨影响，惠普和华硕将部分个人电脑生产业务转移回中国 - Nikkei Asia",
+      "title_cn": "受人工智能驱动的成本上涨影响，惠普和华硕将部分个人电脑生产业务转移回中国 - 日经亚洲",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxQc1NqYzVESkVHNEZQTXoxX2d4WmNNdlNkaUFxM1htOXFDdk5mWEE3MFhRcFRYWml1b0RhcEhxT1BSTnFxUFJEVjJrZjlveUZua2hMRFJRaUxaalJCZzNSOEdtOXRzSW9hc2pSTFRzdml0RVlfcmJJRnA4YkY1aXRoVW9pc1AxTG1MUklBVkNkQ1Z5R2VpVXVsUE5SWlJULUZaaDlCc0tOM1Jpd1M4WlFGMk9SUnNseWpTTDFkc3Nfc0ZIREV4dTl3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T19:00:00.000Z",
+      "pub_sort_dt": "2026-10-28 03:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "梅尔茨呼吁与亚洲加强合作，并警告中国带来的压力 - Bloomberg.com",
-      "title_cn": "梅尔茨呼吁与亚洲加强合作，并警告中国带来的压力 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxOcmFSYTBhYnk2TFRqektxRFJMeHFXVXhXeUVRUzBTTEN5YWxoNUJJOFoySkRvazZxZU5YLWdhdnFIVk9nQ3FTNjI0aUlzMzhEUndHXzl0dW9hQlN5ZG1rSXNCTGpFaXl4SjNybkRFUW5wSkl6dXRJODBZVDlVYmVnTjBMd1pTZnpWcEIxUzctSGs4anF0WDRsUm1Xd0hlUGtWRXhzZmhLcHpIRWdVb2hkQlRESWY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T07:31:11.000Z",
-      "pub_sort_dt": "2026-10-27 15:31:11"
+      "title_en": "比亚迪推出公共试驾赛道，以促进中国汽车文化的发展 - Nikkei Asia",
+      "title_cn": "比亚迪推出公共试驾，以促进中国汽车文化的发展 - 日经亚洲",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxNU2RZRjNCVWRMWU9WUGtZVzVsTnlpN0lXRnVfWmEzUWNzeWdNTjJ3WTdMZ091dHBrMkxTU2dmWk5RZVItQll4ejVCU0hNOVFzY0ItRjk2bl9KeGRKY1NRVk5SN1NUSXBIQWgxTk03ZnhtckJxYkhlUGpYZWxGajQ2clE1ZGNfYTJFdTlUbk5HYXk0aGN0UDNOWXUyOE1BRGxKd1Z0enJGZDZHZS1haUg5X1lUeW5pR3U0QzV6TA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T17:38:00.000Z",
+      "pub_sort_dt": "2026-10-28 01:38:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "字节跳动创始人张一鸣凭借公司对人工智能的投入，重返中国富豪榜榜首 - The Seattle Times",
-      "title_cn": "字节跳动创始人张一鸣凭借公司对人工智能的投入，重返中国富豪榜榜首 - 西雅图时报",
-      "url": "https://news.google.com/read/CBMi0AFBVV95cUxNRjZZVEp6SXB2UjZoeGIzUTV0Zk05X0E5c2k4M2FsS0ozUWRqMTZVUWNGTFZnNU80amNSbUM0ODRTT00ySDFhQnpxbV8yN3hIaktEN3ZBYmkyc1I2X0pXd3loOFZJY2FSSnVVbWVXeFl4TWtRU3JLRFlfTEF4UlR0RkhkN1RiNXFVSkxINHc0U3V1ZlN3d1B4UVJxMzJtZVVDOHRfZjhDMHp0X080R0NXYWJoVU9Ic2V6MWRYcldvVm5oUWctMlNEYktBSElqNlE2?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T06:49:04.000Z",
-      "pub_sort_dt": "2026-10-27 14:49:04"
+      "title_en": "中国中科慧灵筹集数亿元资金，用于扩大工业机器人规模 - Dealroom",
+      "title_cn": "中国中科慧灵输送数亿元资金，用于扩大工业机器人规模 - Dealroom",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxQMWw5NlZ5bWZXakhUenBvdmx0b0djT3RHMjV2U3NPSl9BelRHc0tRRm1SSlFSVGpTMGt4SDF4NGZWOUdqMmZqLURZWFpRWFVET29hWmI4QzFOd1pMVEt4dFV2ZUxsZTA2NHlmN2NET3VWenVnQXUyZGJzalRQc0UwVWhLRmxlcXhBWVo5d1YzT3k2MDRuYTBsU0NnSTl1OVFHSkxHT3R5OGxHY3BxZWdIVEVGSXA4WjhN?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T17:32:35.000Z",
+      "pub_sort_dt": "2026-10-28 01:32:35"
     },
     {
       "source": "China Buzzing",
-      "title_en": "字节跳动创始人张一鸣凭借公司对人工智能的投入，重登中国富豪榜榜首 - U.S. News & World Report",
-      "title_cn": "字节跳动创始人张一鸣凭借公司对人工智能的投入，重登中国富豪榜榜首 - 美国新闻与世界报道",
-      "url": "https://news.google.com/read/CBMi6AFBVV95cUxOZjhyajEyNnhkdmdiTjhwVklLMUJuQVFnbzJTTlM2elROblZmSm1ZX3phc3JhNmlXakdIQkdaSm9vUmJvOEM1eEliaEJBN0UwdnBpSU92TU5rUGhBcVg0cXlycU1sTjZhVmx4VXVlN1kxaVN3MVFPb3UtbjJEcVcxTVJhUlBWWFQ0aWlKTHlkLTZueS1Ed1RfeUNPU0dsOE41NVNYS0E3a0dvVzJGU0dHU2RHc29acU93bUpJamlsQXlvU25vcVN4VWljUG9JUDZGOG5FaHFaYXRCeW01anoyaThoU25YU3pH?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T06:45:00.000Z",
-      "pub_sort_dt": "2026-10-27 14:45:00"
+      "title_en": "美军寄望于高空气球，以协助在与中国的前线进行侦察和打击 - Army Times",
+      "title_cn": "美军寄望于高空气球，以协助在与中国的前线进行侦察和打击 - Army Times",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxPVlVGMGtHVUNXd3F0eUlPbjVEUlJ0cUlnTUR2WThwRnUwb3MzLTMzSlJwQU5JQjQ0d0NjcWd3dmRUREZuU0dGQlVVbFZ4TGd4a0xVSHJLSVE2LTJMUHVPWl96VE10WVh6Z3ViNDE2bzh1b1pXV2YyUFBwa25TMmRJdG85Ynp0dVZrbXJDb1RfNDFQajRPS1ZKQXBmbHh2VFRLU01BUkFRQ3RHMUlXd3ZuWTlra3c0RHluTC1ZRlk4QUM3OVk4dHV3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T17:22:47.000Z",
+      "pub_sort_dt": "2026-10-28 01:22:47"
     },
     {
       "source": "China Buzzing",
-      "title_en": "英国Equip公司将Lowe Alpine出售给中国ATG公司，以便专注于Rab品牌 - FashionNetwork - The World's Fashion Business News",
-      "title_cn": "英国Equip公司将Lowe Alpine出售给中国ATG公司，以便关注Rab品牌 - FashionNetwork - 世界时尚商业新闻",
-      "url": "https://news.google.com/read/CBMiugFBVV95cUxQTkNqTXJLMmRfd3VQdFRocjVEQjFlOW9WRE1oYWdPQk5nWU1feGRDdUpZbzVHOWRkQ3BVN2d6ZDdtOV9mRVNyc1Y3Y1laUHZkbjhaZkZDZVFmUGpTdnFwNFl4ZS1ZaUk5ZEhVTHJZQUVTZHVlUHltalBjNXJINFpHT1FjZWJtSjh6T2ZGNVNNZHFPQmZMQTNDbDNTQkZ5TGtmWkZsYlVWMUU4eFR3NmM1d0FiVG5meGVVYnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T06:08:30.000Z",
-      "pub_sort_dt": "2026-10-27 14:08:30"
+      "title_en": "鲁比奥援引中国和俄罗斯来为备受争议的委内瑞拉石油协议辩护 - South China Morning Post",
+      "title_cn": "鲁比奥援引中国和俄罗斯来为争议人物的石油协议辩护 - 南华早报",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQbFFlOEp0aTZueWJiSGdyMkVpcUFFOHR0bllLbHRjWmMwSU5HaW43VFJRc2p6VXBrZ1R1N2FWcmVQN29PYWVpMlBNN1R5RVBGSHV2M2Uza0dPd0VBZllqU25hZmNTSkZRQ0JsT2RKZENOdkhpMERqdkg4UWFNMTVEN3ZSUF9BNGZLcFI3X2lONHIyUDU1cTBxamllVEY0S01DdXJ0MWVBc0YwaFlUOGFpbWstMnBBcHZuNk9F0gG7AUFVX3lxTE1KWW9XdkNUUW4ybU5yejBnNkR6WjU0bWZNM3ZyZ0lidjNQb3lfRWlPOVRuV3drT0haSkd3SEFQdzRyTzI4dzdCQVRsanMwX1VldGR3WGJJNDhpMnMtcUxmc3l1T2FmZ1JDRmFlYy03ZnJJbnk1V1pBZnRuYmx2a25USXVueWhBZC1uQWhZcko5U1B1bE9qX0xfOXRyYlE2RGliaWNFWV9fMFdBRjE5dWhzM0JqNmNLdDFiTnM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T16:18:20.000Z",
+      "pub_sort_dt": "2026-10-28 00:18:20"
     },
     {
       "source": "China Buzzing",
-      "title_en": "金融战：mBridge参与的意义 - Small Wars Journal",
-      "title_cn": "金融战：mBridge 参与的意义 - Small Wars Journal",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxNS09XcEtCeFRCUmtkWVZTckZGVGlmNjhZVDJubzlrU1h1T0RYVThsZC11M1F5SU1ucGxDUHJ1SHFuaGZYREI5Rzh5Vmw0cm1CRW13dXNrZHZXUUZDMU44S3pEem5oQWdSRlMtemNFTXVPUzdkZEpXajBMTjAzMjhyUHU3YlQ5WjdMRWotRU51YWJGckt1RDJISnhNV0ZhOHlrdmd0LTNtLW81X0wwX2xqTlplMTZxMUJOWHlNREROV1FpMTVRWUE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T06:05:04.000Z",
-      "pub_sort_dt": "2026-10-27 14:05:04"
+      "title_en": "金正恩对中国的这次耐人寻味的访问 - The Economist",
+      "title_cn": "金正恩这次对中国耐人寻味的访问 - 《经济学人》",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNemNJaGxMR0YtdTlrVjVYR1NRVHl5QkFLdmVvNkNacHZTbTJOUnVsdmVkZ0lXbWxIUkFVN1ItandrYXBybDRSUWVGZDBSQzVtM3RHNkZjRlY1RWxubmhNelk4MHZ1SEJvU05sSW5jYkhObHdvV3NVTDdLd25BTnFLOHhMQkY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T16:17:18.000Z",
+      "pub_sort_dt": "2026-10-28 00:17:18"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国一项临床试验表明，牙龈组织干细胞有助于55%的终身糖尿病患者 - South China Morning Post",
-      "title_cn": "中国一项临床试验表明，新生儿组织干细胞有助于55%的终生糖尿病患者 - 南华早报",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxPeUhwX3plMmNSUHlGcHBzQ1dMVGpJeEVscENuMklBUDdTTWcyeXRiUHAycnhyWjdJQnFFX1M3RnpFMmMtVm1PdDY0VG9EMHR0cG9vem45ZFFQbm5WTWtKRXM5RURYRzA4TlEwY216cVd1XzIwaTNmWUlyelFRQm9CdWhPb3ZhOG9Hdm9yczR3Q1FRTXBqVEVkVTd2amVVRTh0R2p0dlBLdklLTW5fSnFnYTJ4Rk9JYnV1MmR0anVLUzUwOWtCcmtYNFZR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T06:00:12.000Z",
-      "pub_sort_dt": "2026-10-27 14:00:12"
+      "title_en": "欧盟计划对澳大利亚的关键矿产进行大规模投资，以减少对中国的依赖 - EUobserver",
+      "title_cn": "欧盟计划对澳大利亚重点矿产进行大规模投资，减少对中国的依赖 - EUobserver",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxQSVNTNUlXV09XOEZRUXFJSnhpMndOYVg5MjB4NHdqcktnRktQcXhpdDNLcDNJVEdXVTl2eU9rZHdLNlB2dGtLT1NFMlNldmh1TWxhODdpbnppWkpBbEhfUFd4RDB4aXI4cW1peWJ1RW5zcGpJSWZYRnNVcTZqMFVSd0dDUjVST2RBY0EzT2VlQlE0cXBsNVkwdU5NNTVNRk1JNEVRejdIVEhVUjZSZGJWc2FCdXpySzUx?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T16:14:09.000Z",
+      "pub_sort_dt": "2026-10-28 00:14:09"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "从“莫布特”到毛泽东，姆巴佩“独裁者”梗将自嘲演变成中国网络热潮",
+      "title_cn": "从“莫布特”到毛泽东，姆巴佩“独裁者”梗将自嘲演变成中国网络热潮",
+      "url": "https://reut.rs/4A2slu5",
+      "pub_raw": "2026-10-27T19:08:48.346Z",
+      "pub_sort_dt": "2026-10-28 03:08:48"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "金正恩对中国的这次耐人寻味的访问",
+      "title_cn": "金正恩这次对中国耐人寻味的访问",
+      "url": "https://www.economist.com/china/2026/10/27/kim-jong-uns-curious-visit-to-china",
+      "pub_raw": "2026-10-27T16:30:53.730Z",
+      "pub_sort_dt": "2026-10-28 00:30:53"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "姆巴佩因被指侮辱毛泽东引发中国舆论反弹后致歉",
+      "title_cn": "姆巴佩因被指侮辱毛泽东引发中国经济复苏后致歉",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/kylian-mbappe-mao-zedong-eastroc-beverage-china-mengniu-dairy-online-backlash",
+      "pub_raw": "2026-10-27T12:32:53.015Z",
+      "pub_sort_dt": "2026-10-27 20:32:53"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国贸易代表办公室与中国船舶的费用",
+      "title_cn": "美国代表贸易办公室与中国船舶的费用",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-27/ustr-and-fees-on-chinese-ships",
+      "pub_raw": "2026-10-27T12:16:55.000Z",
+      "pub_sort_dt": "2026-10-27 20:16:55"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国对一名曾任安全监管机构反腐官员的“中国通”暂缓执行死刑",
+      "title_cn": "中国对一名曾任安全监管机构反腐官员的“中国通”暂缓征收死刑",
+      "url": "https://reut.rs/4dZoiWN",
+      "pub_raw": "2026-10-27T11:30:05.372Z",
+      "pub_sort_dt": "2026-10-27 19:30:05"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国国家主席习近平就日本前首相逝世致哀",
+      "title_cn": "中国国家主席习近平对日本前亲密关系致哀",
+      "url": "https://reut.rs/4jIGcke",
+      "pub_raw": "2026-10-27T10:55:58.637Z",
+      "pub_sort_dt": "2026-10-27 18:55:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "姆巴佩因涉嫌发表涉及毛泽东的梗言论被中国品牌解约",
+      "title_cn": "姆巴佩因涉嫌发表涉毛泽东的梗恐被中国品牌解约",
+      "url": "https://reut.rs/4yMIJxJ",
+      "pub_raw": "2026-10-27T10:40:51.093Z",
+      "pub_sort_dt": "2026-10-27 18:40:51"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Breakingviews - 评论：花旗、Visa对中国依然重要，反之亦然",
+      "title_cn": "Breakingviews - 评论：花旗、签证对中国依然重要，反之亦然",
+      "url": "https://reut.rs/3UfL7in",
+      "pub_raw": "2026-10-27T10:08:42.376Z",
+      "pub_sort_dt": "2026-10-27 18:08:42"
+    },
     {
       "source": "Financial Times",
       "title_en": "中国品牌借“独裁者”梗走红之机，对姆巴佩发起猛烈抨击",
@@ -115,14 +179,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-27/chinese-stocks-final-hour-slide-shows-reliance-on-national-team",
       "pub_raw": "2026-10-27T09:21:42.607Z",
       "pub_sort_dt": "2026-10-27 17:21:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "因被认为冒犯毛泽东，中国国内抵制姆巴佩的声浪不断扩大",
-      "title_cn": "因被认为冒犯毛泽东，中国国内对抗巴佩的声浪不断扩大",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/kylian-mbappe-mao-zedong-eastroc-beverage-china-mengniu-dairy-online-backlash",
-      "pub_raw": "2026-10-27T09:05:40.309Z",
-      "pub_sort_dt": "2026-10-27 17:05:40"
     },
     {
       "source": "Reuters",
@@ -195,144 +251,152 @@
       "url": "https://reut.rs/4Buy1yr",
       "pub_raw": "2026-10-27T01:59:00.036Z",
       "pub_sort_dt": "2026-10-27 09:59:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国生物技术企业找到了规避特朗普投资限制的出路",
-      "title_cn": "中国生物技术企业找到了规避特朗普投资限制的出路",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-26/chinese-biotech-has-an-escape-route-from-trump-s-investment-curbs",
-      "pub_raw": "2026-10-26T22:44:42.911Z",
-      "pub_sort_dt": "2026-10-27 06:44:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据报道，大众汽车正考虑在欧洲市场采用中国软件",
-      "title_cn": "据报道，大众汽车正在考虑在欧洲市场采用中国软件",
-      "url": "https://reut.rs/4yEqMkH",
-      "pub_raw": "2026-10-26T16:27:07.857Z",
-      "pub_sort_dt": "2026-10-27 00:27:07"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国最成功的“草根运动”造势行动：基层足球",
-      "title_cn": "中国最成功的“草根运动”造势行动：基层足球",
-      "url": "https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football",
-      "pub_raw": "2026-10-26T15:56:04.691Z",
-      "pub_sort_dt": "2026-10-26 23:56:04"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国表示，反对美国对孔子学院进行“污名化”，此前五角大楼将孔子学院列为安全威胁",
-      "title_cn": "中国表示，反对美国对孔子学院进行“污名化”，阿联酋五角大楼将孔子学院置于安全威胁",
-      "url": "https://reut.rs/4zdVFhc",
-      "pub_raw": "2026-10-26T15:07:46.477Z",
-      "pub_sort_dt": "2026-10-26 23:07:46"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在中国，人工智能泡沫已经破灭",
-      "title_cn": "在中国，人工智能泡沫已经破灭",
-      "url": "https://reut.rs/4BlW1Uh",
-      "pub_raw": "2026-10-26T12:46:01.616Z",
-      "pub_sort_dt": "2026-10-26 20:46:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国综合企业华发寻求延期偿还部分债务",
-      "title_cn": "中国综合企业华发寻求延期部分预算",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/chinese-conglomerate-huafa-seeks-to-extend-some-debt-payments",
-      "pub_raw": "2026-10-26T10:06:42.430Z",
-      "pub_sort_dt": "2026-10-26 18:06:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "奥迪为中国市场推出双标识，力图重振销量",
-      "title_cn": "奥迪为中国市场推出双标识，力图重振销量",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/audi-splits-logos-for-china-as-carmaker-fights-to-revive-sales",
-      "pub_raw": "2026-10-26T10:06:42.423Z",
-      "pub_sort_dt": "2026-10-26 18:06:42"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "中美在能源和矿产供应链领域的竞争如何让该机构忙得不可开交 - Barron's",
-      "title_cn": "中美在能源和矿产供应链领域的竞争如何让该机构忙得不可开交 - 巴伦周刊",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxNMGZlSEQwV29IckM0bkJpUUR6WE94aHQtUkQ3SkhmQnVaZ0haemlCaHEzZm1Tam9zTTI1bmFIclhKeUZfWTRjeEhLRUVNTkZvNnJ3d2ptbTlHMXdtWTlKUW1wWnV6XzJRU25QWmV5WnZFQVpDMVVPVGo2aWJPZE16Z0hOazY5QVE3U0dpSQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T09:00:00.000Z",
-      "pub_sort_dt": "2026-10-27 17:00:00"
+      "title_en": "美国国防情报局（DIA）：自2018年以来，随着卫星编队的持续扩充，中国的卫星数量已增长至原来的三倍 - Breaking Defense",
+      "title_cn": "美国国防情报局（DIA）：自2018年以来，随着卫星编队的不断增加，中国的卫星数量已增长至原来的三倍 - Breaking Defense",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxORXNwN0ZmWmthQUlGQUN2N0dickFQeldFWTdIdnczWEwxMVM5bUR3N3dXU1NIUXlxZ0E3RWNHd2dHV0h2OXFDU0hxZmlYbmVEcEh2dFFXbzZhVFdFa2lzcFRoNllQbWdlRGhSMFVsTC1MVnlVNHVZYzRLRVAwNHE2cHdCS2JubUFzWHZYRTlQaXFhVHlUNHhVVGp2NGp0dFUtbFBNT3pCMEJOeURJUEpnRlZ3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T20:59:14.000Z",
+      "pub_sort_dt": "2026-10-28 04:59:14"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着冲突波及周边地区，中国将在近期向中东派遣特使 - Reuters",
-      "title_cn": "随着冲突波及周边地区，中国将在近期向中东派遣特使 - Reuters",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQVmZiSXVsLUdKMnk3anBIc0VMUmpabGtQZlh0YW0tWm9FNkJFT0dWNi1GWkFPMU1JUk5lTkZXWnBMR2hoYUE0dE1HNVF5MU9kRkJYUlNhWVdKX0pRbTk5ejU5ZXlpRVlwVEJqbFFXMldPb0lKelR1NHNVSTJac2pPdHd0amR6QTNBa250elZFRTgyRlRJb042d09mZnNabDBnNnN1ZkRMZGhkV0ZyMGFXVXhn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T08:42:20.000Z",
-      "pub_sort_dt": "2026-10-27 16:42:20"
+      "title_en": "经济学家称，中国仍有望兑现从美国采购大豆的承诺 - Brownfield Ag News",
+      "title_cn": "经济学家称，中国仍有望兑现美国采购大豆的承诺 - Brownfield Ag News",
+      "url": "https://news.google.com/read/CBMiqgFBVV95cUxPYUdqTGZhMnBMbzRaSzVBc3NwOFNIVllZT2kzQ21DeG9qanNqMXFPYkVxV2k2cDFwZ0E0cEhxdDJoVEpTUnc4U1ZmUzJ0OFdvdlFxZWRJODZFcVhQZFZtRHRmNWV3UkRZZ3hLa0E4dmYwc2VlYlpmQzFDV0l1anV4OTFBMGlteWt0TWk2MW10ODAyQnpDMGhrTzlxeVF0dVBsbXV2TkF5czNlZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T20:31:25.000Z",
+      "pub_sort_dt": "2026-10-28 04:31:25"
     },
     {
       "source": "China Buzzing",
-      "title_en": "《观点》 欧盟与中国的混合动力汽车协议对欧洲汽车制造商帮助不大 - South China Morning Post",
-      "title_cn": "《观点》欧盟与中国的混合动力汽车协议对欧洲汽车制造商帮助不大 - 南华早报",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQMWVCazVWY3drTFVYUzlGX0xLcWJ4M0NfVVZTUHdwY29wcGhrOFhPOHB4VzdrWko4LWctei1zNGVPTy0xUDhaejRjdVUyTS1Ga1RTMzI5bTNpODh0cC0tM2lKMERkbk0wQmYzb1M4TTdWTmlObzZuSHZqM3RFcEY0X1hyT2lBclRSQVBiLUlDQTdncW5taDNObnNPbFJXYjVwSlVfUGRtT3RHWUc3bldWNjdrM2g3MENDVDM00gG7AUFVX3lxTE5XeThqZFJvSEtyVm95SFRaNC1hSnlaZGxkdmJtUmZBbW5QeHZwM0hpb0pGTllzTG9YSzNwNklWX2F6NjI5dDk4UDlfT1l5WnNqY05qZUhfRERKak5YbGpCRkFhck5LQlRWa184N3Q3OHZHM2NYNmctaWJQTFI1Rl9SMnpud3o1WUxvYmhiYmh3ZlFnWWJkS1FrSElhdFV1MGlHaHc4dWRMU0lmNzM4Skw4blFqaFNLUjhwWVU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T08:30:10.000Z",
-      "pub_sort_dt": "2026-10-27 16:30:10"
+      "title_en": "独家报道：华伦天奴即将在中国推出其首款高级美妆产品 - Yahoo Finance Singapore",
+      "title_cn": "独家报道：华伦天奴即将在中国推出其高级美妆产品 - 雅虎财经",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxOYjk3elhkZXJpaS0wdERGZHVlUHpDbW45czFVWFpXQndlME9qMkcyVnM0ZXFnTF9mYzkyVHEtYkQ0cnc1d3BiNmtBSUV1ODA4UTVqeXdQMkRNTFMybWY3T05SVHRRT1JSS01JeE9WZ21yckFsQ3JfVHlLX2RaNnBqV1NSa3VoMmc0MV9IU192Tm9tdzF0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T19:02:22.000Z",
+      "pub_sort_dt": "2026-10-28 03:02:22"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国计划将与中国的运费停火协议延长两个月 - Bloomberg.com",
-      "title_cn": "美国计划将与中国的运费停火协议延长两个月 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQb0FYWHhFT1NiZjNzbzhmMWNWRlVEUHB6dkxHTWs2MFltUkhnMFRzZm1rZHN4TDdUZkdCNmxGaHp5Z3k0VnBWTktnR1QySi1TRHFidDdDUnd2UlhnbFVyTzRQVzZHc2RWMVp1M2hxaUJGcVVGYWxyUU9VdHdtYzBrWnU4V2F2R01jeGZQb1lPVWEzaGY5SnhYSURXdkZ4NTM5ZlBXV1p2OWFvZWFSOFZCSTVR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T08:06:30.000Z",
-      "pub_sort_dt": "2026-10-27 16:06:30"
+      "title_en": "受人工智能驱动的成本上涨影响，惠普和华硕将部分个人电脑生产业务转移回中国 - Nikkei Asia",
+      "title_cn": "受人工智能驱动的成本上涨影响，惠普和华硕将部分个人电脑生产业务转移回中国 - 日经亚洲",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxQc1NqYzVESkVHNEZQTXoxX2d4WmNNdlNkaUFxM1htOXFDdk5mWEE3MFhRcFRYWml1b0RhcEhxT1BSTnFxUFJEVjJrZjlveUZua2hMRFJRaUxaalJCZzNSOEdtOXRzSW9hc2pSTFRzdml0RVlfcmJJRnA4YkY1aXRoVW9pc1AxTG1MUklBVkNkQ1Z5R2VpVXVsUE5SWlJULUZaaDlCc0tOM1Jpd1M4WlFGMk9SUnNseWpTTDFkc3Nfc0ZIREV4dTl3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T19:00:00.000Z",
+      "pub_sort_dt": "2026-10-28 03:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "梅尔茨呼吁与亚洲加强合作，并警告中国带来的压力 - Bloomberg.com",
-      "title_cn": "梅尔茨呼吁与亚洲加强合作，并警告中国带来的压力 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxOcmFSYTBhYnk2TFRqektxRFJMeHFXVXhXeUVRUzBTTEN5YWxoNUJJOFoySkRvazZxZU5YLWdhdnFIVk9nQ3FTNjI0aUlzMzhEUndHXzl0dW9hQlN5ZG1rSXNCTGpFaXl4SjNybkRFUW5wSkl6dXRJODBZVDlVYmVnTjBMd1pTZnpWcEIxUzctSGs4anF0WDRsUm1Xd0hlUGtWRXhzZmhLcHpIRWdVb2hkQlRESWY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T07:31:11.000Z",
-      "pub_sort_dt": "2026-10-27 15:31:11"
+      "title_en": "比亚迪推出公共试驾赛道，以促进中国汽车文化的发展 - Nikkei Asia",
+      "title_cn": "比亚迪推出公共试驾，以促进中国汽车文化的发展 - 日经亚洲",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxNU2RZRjNCVWRMWU9WUGtZVzVsTnlpN0lXRnVfWmEzUWNzeWdNTjJ3WTdMZ091dHBrMkxTU2dmWk5RZVItQll4ejVCU0hNOVFzY0ItRjk2bl9KeGRKY1NRVk5SN1NUSXBIQWgxTk03ZnhtckJxYkhlUGpYZWxGajQ2clE1ZGNfYTJFdTlUbk5HYXk0aGN0UDNOWXUyOE1BRGxKd1Z0enJGZDZHZS1haUg5X1lUeW5pR3U0QzV6TA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T17:38:00.000Z",
+      "pub_sort_dt": "2026-10-28 01:38:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "字节跳动创始人张一鸣凭借公司对人工智能的投入，重返中国富豪榜榜首 - The Seattle Times",
-      "title_cn": "字节跳动创始人张一鸣凭借公司对人工智能的投入，重返中国富豪榜榜首 - 西雅图时报",
-      "url": "https://news.google.com/read/CBMi0AFBVV95cUxNRjZZVEp6SXB2UjZoeGIzUTV0Zk05X0E5c2k4M2FsS0ozUWRqMTZVUWNGTFZnNU80amNSbUM0ODRTT00ySDFhQnpxbV8yN3hIaktEN3ZBYmkyc1I2X0pXd3loOFZJY2FSSnVVbWVXeFl4TWtRU3JLRFlfTEF4UlR0RkhkN1RiNXFVSkxINHc0U3V1ZlN3d1B4UVJxMzJtZVVDOHRfZjhDMHp0X080R0NXYWJoVU9Ic2V6MWRYcldvVm5oUWctMlNEYktBSElqNlE2?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T06:49:04.000Z",
-      "pub_sort_dt": "2026-10-27 14:49:04"
+      "title_en": "中国中科慧灵筹集数亿元资金，用于扩大工业机器人规模 - Dealroom",
+      "title_cn": "中国中科慧灵输送数亿元资金，用于扩大工业机器人规模 - Dealroom",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxQMWw5NlZ5bWZXakhUenBvdmx0b0djT3RHMjV2U3NPSl9BelRHc0tRRm1SSlFSVGpTMGt4SDF4NGZWOUdqMmZqLURZWFpRWFVET29hWmI4QzFOd1pMVEt4dFV2ZUxsZTA2NHlmN2NET3VWenVnQXUyZGJzalRQc0UwVWhLRmxlcXhBWVo5d1YzT3k2MDRuYTBsU0NnSTl1OVFHSkxHT3R5OGxHY3BxZWdIVEVGSXA4WjhN?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T17:32:35.000Z",
+      "pub_sort_dt": "2026-10-28 01:32:35"
     },
     {
       "source": "China Buzzing",
-      "title_en": "字节跳动创始人张一鸣凭借公司对人工智能的投入，重登中国富豪榜榜首 - U.S. News & World Report",
-      "title_cn": "字节跳动创始人张一鸣凭借公司对人工智能的投入，重登中国富豪榜榜首 - 美国新闻与世界报道",
-      "url": "https://news.google.com/read/CBMi6AFBVV95cUxOZjhyajEyNnhkdmdiTjhwVklLMUJuQVFnbzJTTlM2elROblZmSm1ZX3phc3JhNmlXakdIQkdaSm9vUmJvOEM1eEliaEJBN0UwdnBpSU92TU5rUGhBcVg0cXlycU1sTjZhVmx4VXVlN1kxaVN3MVFPb3UtbjJEcVcxTVJhUlBWWFQ0aWlKTHlkLTZueS1Ed1RfeUNPU0dsOE41NVNYS0E3a0dvVzJGU0dHU2RHc29acU93bUpJamlsQXlvU25vcVN4VWljUG9JUDZGOG5FaHFaYXRCeW01anoyaThoU25YU3pH?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T06:45:00.000Z",
-      "pub_sort_dt": "2026-10-27 14:45:00"
+      "title_en": "美军寄望于高空气球，以协助在与中国的前线进行侦察和打击 - Army Times",
+      "title_cn": "美军寄望于高空气球，以协助在与中国的前线进行侦察和打击 - Army Times",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxPVlVGMGtHVUNXd3F0eUlPbjVEUlJ0cUlnTUR2WThwRnUwb3MzLTMzSlJwQU5JQjQ0d0NjcWd3dmRUREZuU0dGQlVVbFZ4TGd4a0xVSHJLSVE2LTJMUHVPWl96VE10WVh6Z3ViNDE2bzh1b1pXV2YyUFBwa25TMmRJdG85Ynp0dVZrbXJDb1RfNDFQajRPS1ZKQXBmbHh2VFRLU01BUkFRQ3RHMUlXd3ZuWTlra3c0RHluTC1ZRlk4QUM3OVk4dHV3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T17:22:47.000Z",
+      "pub_sort_dt": "2026-10-28 01:22:47"
     },
     {
       "source": "China Buzzing",
-      "title_en": "英国Equip公司将Lowe Alpine出售给中国ATG公司，以便专注于Rab品牌 - FashionNetwork - The World's Fashion Business News",
-      "title_cn": "英国Equip公司将Lowe Alpine出售给中国ATG公司，以便关注Rab品牌 - FashionNetwork - 世界时尚商业新闻",
-      "url": "https://news.google.com/read/CBMiugFBVV95cUxQTkNqTXJLMmRfd3VQdFRocjVEQjFlOW9WRE1oYWdPQk5nWU1feGRDdUpZbzVHOWRkQ3BVN2d6ZDdtOV9mRVNyc1Y3Y1laUHZkbjhaZkZDZVFmUGpTdnFwNFl4ZS1ZaUk5ZEhVTHJZQUVTZHVlUHltalBjNXJINFpHT1FjZWJtSjh6T2ZGNVNNZHFPQmZMQTNDbDNTQkZ5TGtmWkZsYlVWMUU4eFR3NmM1d0FiVG5meGVVYnc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T06:08:30.000Z",
-      "pub_sort_dt": "2026-10-27 14:08:30"
+      "title_en": "鲁比奥援引中国和俄罗斯来为备受争议的委内瑞拉石油协议辩护 - South China Morning Post",
+      "title_cn": "鲁比奥援引中国和俄罗斯来为争议人物的石油协议辩护 - 南华早报",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQbFFlOEp0aTZueWJiSGdyMkVpcUFFOHR0bllLbHRjWmMwSU5HaW43VFJRc2p6VXBrZ1R1N2FWcmVQN29PYWVpMlBNN1R5RVBGSHV2M2Uza0dPd0VBZllqU25hZmNTSkZRQ0JsT2RKZENOdkhpMERqdkg4UWFNMTVEN3ZSUF9BNGZLcFI3X2lONHIyUDU1cTBxamllVEY0S01DdXJ0MWVBc0YwaFlUOGFpbWstMnBBcHZuNk9F0gG7AUFVX3lxTE1KWW9XdkNUUW4ybU5yejBnNkR6WjU0bWZNM3ZyZ0lidjNQb3lfRWlPOVRuV3drT0haSkd3SEFQdzRyTzI4dzdCQVRsanMwX1VldGR3WGJJNDhpMnMtcUxmc3l1T2FmZ1JDRmFlYy03ZnJJbnk1V1pBZnRuYmx2a25USXVueWhBZC1uQWhZcko5U1B1bE9qX0xfOXRyYlE2RGliaWNFWV9fMFdBRjE5dWhzM0JqNmNLdDFiTnM?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T16:18:20.000Z",
+      "pub_sort_dt": "2026-10-28 00:18:20"
     },
     {
       "source": "China Buzzing",
-      "title_en": "金融战：mBridge参与的意义 - Small Wars Journal",
-      "title_cn": "金融战：mBridge 参与的意义 - Small Wars Journal",
-      "url": "https://news.google.com/read/CBMixgFBVV95cUxNS09XcEtCeFRCUmtkWVZTckZGVGlmNjhZVDJubzlrU1h1T0RYVThsZC11M1F5SU1ucGxDUHJ1SHFuaGZYREI5Rzh5Vmw0cm1CRW13dXNrZHZXUUZDMU44S3pEem5oQWdSRlMtemNFTXVPUzdkZEpXajBMTjAzMjhyUHU3YlQ5WjdMRWotRU51YWJGckt1RDJISnhNV0ZhOHlrdmd0LTNtLW81X0wwX2xqTlplMTZxMUJOWHlNREROV1FpMTVRWUE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T06:05:04.000Z",
-      "pub_sort_dt": "2026-10-27 14:05:04"
+      "title_en": "金正恩对中国的这次耐人寻味的访问 - The Economist",
+      "title_cn": "金正恩这次对中国耐人寻味的访问 - 《经济学人》",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxNemNJaGxMR0YtdTlrVjVYR1NRVHl5QkFLdmVvNkNacHZTbTJOUnVsdmVkZ0lXbWxIUkFVN1ItandrYXBybDRSUWVGZDBSQzVtM3RHNkZjRlY1RWxubmhNelk4MHZ1SEJvU05sSW5jYkhObHdvV3NVTDdLd25BTnFLOHhMQkY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T16:17:18.000Z",
+      "pub_sort_dt": "2026-10-28 00:17:18"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国一项临床试验表明，牙龈组织干细胞有助于55%的终身糖尿病患者 - South China Morning Post",
-      "title_cn": "中国一项临床试验表明，新生儿组织干细胞有助于55%的终生糖尿病患者 - 南华早报",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxPeUhwX3plMmNSUHlGcHBzQ1dMVGpJeEVscENuMklBUDdTTWcyeXRiUHAycnhyWjdJQnFFX1M3RnpFMmMtVm1PdDY0VG9EMHR0cG9vem45ZFFQbm5WTWtKRXM5RURYRzA4TlEwY216cVd1XzIwaTNmWUlyelFRQm9CdWhPb3ZhOG9Hdm9yczR3Q1FRTXBqVEVkVTd2amVVRTh0R2p0dlBLdklLTW5fSnFnYTJ4Rk9JYnV1MmR0anVLUzUwOWtCcmtYNFZR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-10-27T06:00:12.000Z",
-      "pub_sort_dt": "2026-10-27 14:00:12"
+      "title_en": "欧盟计划对澳大利亚的关键矿产进行大规模投资，以减少对中国的依赖 - EUobserver",
+      "title_cn": "欧盟计划对澳大利亚重点矿产进行大规模投资，减少对中国的依赖 - EUobserver",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxQSVNTNUlXV09XOEZRUXFJSnhpMndOYVg5MjB4NHdqcktnRktQcXhpdDNLcDNJVEdXVTl2eU9rZHdLNlB2dGtLT1NFMlNldmh1TWxhODdpbnppWkpBbEhfUFd4RDB4aXI4cW1peWJ1RW5zcGpJSWZYRnNVcTZqMFVSd0dDUjVST2RBY0EzT2VlQlE0cXBsNVkwdU5NNTVNRk1JNEVRejdIVEhVUjZSZGJWc2FCdXpySzUx?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-10-27T16:14:09.000Z",
+      "pub_sort_dt": "2026-10-28 00:14:09"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "从“莫布特”到毛泽东，姆巴佩“独裁者”梗将自嘲演变成中国网络热潮",
+      "title_cn": "从“莫布特”到毛泽东，姆巴佩“独裁者”梗将自嘲演变成中国网络热潮",
+      "url": "https://reut.rs/4A2slu5",
+      "pub_raw": "2026-10-27T19:08:48.346Z",
+      "pub_sort_dt": "2026-10-28 03:08:48"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "金正恩对中国的这次耐人寻味的访问",
+      "title_cn": "金正恩这次对中国耐人寻味的访问",
+      "url": "https://www.economist.com/china/2026/10/27/kim-jong-uns-curious-visit-to-china",
+      "pub_raw": "2026-10-27T16:30:53.730Z",
+      "pub_sort_dt": "2026-10-28 00:30:53"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "姆巴佩因被指侮辱毛泽东引发中国舆论反弹后致歉",
+      "title_cn": "姆巴佩因被指侮辱毛泽东引发中国经济复苏后致歉",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/kylian-mbappe-mao-zedong-eastroc-beverage-china-mengniu-dairy-online-backlash",
+      "pub_raw": "2026-10-27T12:32:53.015Z",
+      "pub_sort_dt": "2026-10-27 20:32:53"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国贸易代表办公室与中国船舶的费用",
+      "title_cn": "美国代表贸易办公室与中国船舶的费用",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-27/ustr-and-fees-on-chinese-ships",
+      "pub_raw": "2026-10-27T12:16:55.000Z",
+      "pub_sort_dt": "2026-10-27 20:16:55"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国对一名曾任安全监管机构反腐官员的“中国通”暂缓执行死刑",
+      "title_cn": "中国对一名曾任安全监管机构反腐官员的“中国通”暂缓征收死刑",
+      "url": "https://reut.rs/4dZoiWN",
+      "pub_raw": "2026-10-27T11:30:05.372Z",
+      "pub_sort_dt": "2026-10-27 19:30:05"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国国家主席习近平就日本前首相逝世致哀",
+      "title_cn": "中国国家主席习近平对日本前亲密关系致哀",
+      "url": "https://reut.rs/4jIGcke",
+      "pub_raw": "2026-10-27T10:55:58.637Z",
+      "pub_sort_dt": "2026-10-27 18:55:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "姆巴佩因涉嫌发表涉及毛泽东的梗言论被中国品牌解约",
+      "title_cn": "姆巴佩因涉嫌发表涉毛泽东的梗恐被中国品牌解约",
+      "url": "https://reut.rs/4yMIJxJ",
+      "pub_raw": "2026-10-27T10:40:51.093Z",
+      "pub_sort_dt": "2026-10-27 18:40:51"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Breakingviews - 评论：花旗、Visa对中国依然重要，反之亦然",
+      "title_cn": "Breakingviews - 评论：花旗、签证对中国依然重要，反之亦然",
+      "url": "https://reut.rs/3UfL7in",
+      "pub_raw": "2026-10-27T10:08:42.376Z",
+      "pub_sort_dt": "2026-10-27 18:08:42"
     },
     {
       "source": "Financial Times",
@@ -357,14 +421,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-27/chinese-stocks-final-hour-slide-shows-reliance-on-national-team",
       "pub_raw": "2026-10-27T09:21:42.607Z",
       "pub_sort_dt": "2026-10-27 17:21:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "因被认为冒犯毛泽东，中国国内抵制姆巴佩的声浪不断扩大",
-      "title_cn": "因被认为冒犯毛泽东，中国国内对抗巴佩的声浪不断扩大",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/kylian-mbappe-mao-zedong-eastroc-beverage-china-mengniu-dairy-online-backlash",
-      "pub_raw": "2026-10-27T09:05:40.309Z",
-      "pub_sort_dt": "2026-10-27 17:05:40"
     },
     {
       "source": "Reuters",
@@ -437,62 +493,6 @@
       "url": "https://reut.rs/4Buy1yr",
       "pub_raw": "2026-10-27T01:59:00.036Z",
       "pub_sort_dt": "2026-10-27 09:59:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国生物技术企业找到了规避特朗普投资限制的出路",
-      "title_cn": "中国生物技术企业找到了规避特朗普投资限制的出路",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-26/chinese-biotech-has-an-escape-route-from-trump-s-investment-curbs",
-      "pub_raw": "2026-10-26T22:44:42.911Z",
-      "pub_sort_dt": "2026-10-27 06:44:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据报道，大众汽车正考虑在欧洲市场采用中国软件",
-      "title_cn": "据报道，大众汽车正在考虑在欧洲市场采用中国软件",
-      "url": "https://reut.rs/4yEqMkH",
-      "pub_raw": "2026-10-26T16:27:07.857Z",
-      "pub_sort_dt": "2026-10-27 00:27:07"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国最成功的“草根运动”造势行动：基层足球",
-      "title_cn": "中国最成功的“草根运动”造势行动：基层足球",
-      "url": "https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football",
-      "pub_raw": "2026-10-26T15:56:04.691Z",
-      "pub_sort_dt": "2026-10-26 23:56:04"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国表示，反对美国对孔子学院进行“污名化”，此前五角大楼将孔子学院列为安全威胁",
-      "title_cn": "中国表示，反对美国对孔子学院进行“污名化”，阿联酋五角大楼将孔子学院置于安全威胁",
-      "url": "https://reut.rs/4zdVFhc",
-      "pub_raw": "2026-10-26T15:07:46.477Z",
-      "pub_sort_dt": "2026-10-26 23:07:46"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在中国，人工智能泡沫已经破灭",
-      "title_cn": "在中国，人工智能泡沫已经破灭",
-      "url": "https://reut.rs/4BlW1Uh",
-      "pub_raw": "2026-10-26T12:46:01.616Z",
-      "pub_sort_dt": "2026-10-26 20:46:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国综合企业华发寻求延期偿还部分债务",
-      "title_cn": "中国综合企业华发寻求延期部分预算",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/chinese-conglomerate-huafa-seeks-to-extend-some-debt-payments",
-      "pub_raw": "2026-10-26T10:06:42.430Z",
-      "pub_sort_dt": "2026-10-26 18:06:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "奥迪为中国市场推出双标识，力图重振销量",
-      "title_cn": "奥迪为中国市场推出双标识，力图重振销量",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/audi-splits-logos-for-china-as-carmaker-fights-to-revive-sales",
-      "pub_raw": "2026-10-26T10:06:42.423Z",
-      "pub_sort_dt": "2026-10-26 18:06:42"
     }
   ]
 }
