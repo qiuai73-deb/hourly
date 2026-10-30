@@ -1,13 +1,13 @@
 {
-  "update_cst": "2026-10-30 18:01:07 北京时间",
+  "update_cst": "2026-10-31 06:00:59 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 17,
+    "Bloomberg": 16,
     "Financial Times": 1,
     "Wall Street Journal": 1,
-    "Reuters": 1
+    "Reuters": 2
   },
   "china_news": [
     {
@@ -94,11 +94,27 @@
   "media_news": [
     {
       "source": "Bloomberg",
-      "title_en": "随着利差回升，中国大型银行利润大幅增长",
-      "title_cn": "随着利差回升，中国大型银行利润大幅增长",
+      "title_en": "中国内存龙头CXMT销售额激增，但增长放缓",
+      "title_cn": "中国内存龙头CXMT销售额飙升，但增长增长",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-chip-leader-cxmt-s-sales-rise-sevenfold-yet-growth-slows",
+      "pub_raw": "2026-10-30T11:31:16.168Z",
+      "pub_sort_dt": "2026-10-30 19:31:16"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国取消新基准利率的保密规定，将其设定在原基准利率之下",
+      "title_cn": "中国取消新基准利率的保密规定，将其设定在原基准利率之下",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/pboc-reveals-overnight-rate-at-1-25-before-policy-anchor-shift",
+      "pub_raw": "2026-10-30T10:42:49.461Z",
+      "pub_sort_dt": "2026-10-30 18:42:49"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着利差回升，中国大型银行创下利润新高",
+      "title_cn": "随着利差回升，中国大型银行创下利润新高",
       "url": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-mega-banks-report-profit-jumps-as-margins-recover",
-      "pub_raw": "2026-10-30T09:23:51.377Z",
-      "pub_sort_dt": "2026-10-30 17:23:51"
+      "pub_raw": "2026-10-30T10:27:44.945Z",
+      "pub_sort_dt": "2026-10-30 18:27:44"
     },
     {
       "source": "Bloomberg",
@@ -221,36 +237,20 @@
       "pub_sort_dt": "2026-10-30 06:13:38"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "中国临床试验的高效推进吸引了罗氏、阿斯利康和诺华等制药企业",
-      "title_cn": "中国临床试验的推动带动了罗氏、阿斯利康和诺华等高效制药企业",
-      "url": "https://www.bloomberg.com/news/features/2026-10-29/china-s-speed-in-clinical-trials-draws-drugmakers-roche-astrazeneca-novartis",
-      "pub_raw": "2026-10-29T21:10:40.130Z",
-      "pub_sort_dt": "2026-10-30 05:10:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "比亚迪财报令市场对中国汽车股止跌反弹的希望受挫",
-      "title_cn": "比亚迪财报令市场对中国汽车股止跌反弹的希望受挫",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/byd-profit-misses-estimates-as-export-led-recovery-loses-steam",
-      "pub_raw": "2026-10-29T21:10:40.011Z",
-      "pub_sort_dt": "2026-10-30 05:10:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "对于泰国而言，当超级大国近在咫尺时，应对“中国冲击”的难度更大",
-      "title_cn": "对于泰国而言，当超级大国近在咫尺时，应对“中国冲击”的峰值更大",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-29/china-shock-is-harder-to-fight-for-thailand-with-the-superpower-next-door",
-      "pub_raw": "2026-10-29T20:06:56.226Z",
-      "pub_sort_dt": "2026-10-30 04:06:56"
-    },
-    {
       "source": "Wall Street Journal",
       "title_en": "随着导弹储备日益减少且中国威胁日益迫近，美国转而向日本寻求生产支持",
       "title_cn": "随着导弹威胁迫近和中国威胁迫近，美国转而向日本寻求生产支持",
       "url": "https://on.wsj.com/4inYmoW",
       "pub_raw": "2026-10-29T19:03:16.049Z",
       "pub_sort_dt": "2026-10-30 03:03:16"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国联邦通信委员会（FCC）投票决定禁止所有中国实验室对美国电子产品进行检测",
+      "title_cn": "美国联邦通信委员会（FCC）投票决定禁止所有中国实验室对美国电子产品进行检测",
+      "url": "https://reut.rs/48jcmfc",
+      "pub_raw": "2026-10-29T16:09:44.525Z",
+      "pub_sort_dt": "2026-10-30 00:09:44"
     }
   ],
   "news": [
@@ -336,11 +336,27 @@
     },
     {
       "source": "Bloomberg",
-      "title_en": "随着利差回升，中国大型银行利润大幅增长",
-      "title_cn": "随着利差回升，中国大型银行利润大幅增长",
+      "title_en": "中国内存龙头CXMT销售额激增，但增长放缓",
+      "title_cn": "中国内存龙头CXMT销售额飙升，但增长增长",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-chip-leader-cxmt-s-sales-rise-sevenfold-yet-growth-slows",
+      "pub_raw": "2026-10-30T11:31:16.168Z",
+      "pub_sort_dt": "2026-10-30 19:31:16"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国取消新基准利率的保密规定，将其设定在原基准利率之下",
+      "title_cn": "中国取消新基准利率的保密规定，将其设定在原基准利率之下",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/pboc-reveals-overnight-rate-at-1-25-before-policy-anchor-shift",
+      "pub_raw": "2026-10-30T10:42:49.461Z",
+      "pub_sort_dt": "2026-10-30 18:42:49"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着利差回升，中国大型银行创下利润新高",
+      "title_cn": "随着利差回升，中国大型银行创下利润新高",
       "url": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-mega-banks-report-profit-jumps-as-margins-recover",
-      "pub_raw": "2026-10-30T09:23:51.377Z",
-      "pub_sort_dt": "2026-10-30 17:23:51"
+      "pub_raw": "2026-10-30T10:27:44.945Z",
+      "pub_sort_dt": "2026-10-30 18:27:44"
     },
     {
       "source": "Bloomberg",
@@ -463,36 +479,20 @@
       "pub_sort_dt": "2026-10-30 06:13:38"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "中国临床试验的高效推进吸引了罗氏、阿斯利康和诺华等制药企业",
-      "title_cn": "中国临床试验的推动带动了罗氏、阿斯利康和诺华等高效制药企业",
-      "url": "https://www.bloomberg.com/news/features/2026-10-29/china-s-speed-in-clinical-trials-draws-drugmakers-roche-astrazeneca-novartis",
-      "pub_raw": "2026-10-29T21:10:40.130Z",
-      "pub_sort_dt": "2026-10-30 05:10:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "比亚迪财报令市场对中国汽车股止跌反弹的希望受挫",
-      "title_cn": "比亚迪财报令市场对中国汽车股止跌反弹的希望受挫",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/byd-profit-misses-estimates-as-export-led-recovery-loses-steam",
-      "pub_raw": "2026-10-29T21:10:40.011Z",
-      "pub_sort_dt": "2026-10-30 05:10:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "对于泰国而言，当超级大国近在咫尺时，应对“中国冲击”的难度更大",
-      "title_cn": "对于泰国而言，当超级大国近在咫尺时，应对“中国冲击”的峰值更大",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-29/china-shock-is-harder-to-fight-for-thailand-with-the-superpower-next-door",
-      "pub_raw": "2026-10-29T20:06:56.226Z",
-      "pub_sort_dt": "2026-10-30 04:06:56"
-    },
-    {
       "source": "Wall Street Journal",
       "title_en": "随着导弹储备日益减少且中国威胁日益迫近，美国转而向日本寻求生产支持",
       "title_cn": "随着导弹威胁迫近和中国威胁迫近，美国转而向日本寻求生产支持",
       "url": "https://on.wsj.com/4inYmoW",
       "pub_raw": "2026-10-29T19:03:16.049Z",
       "pub_sort_dt": "2026-10-30 03:03:16"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国联邦通信委员会（FCC）投票决定禁止所有中国实验室对美国电子产品进行检测",
+      "title_cn": "美国联邦通信委员会（FCC）投票决定禁止所有中国实验室对美国电子产品进行检测",
+      "url": "https://reut.rs/48jcmfc",
+      "pub_raw": "2026-10-29T16:09:44.525Z",
+      "pub_sort_dt": "2026-10-30 00:09:44"
     }
   ]
 }
