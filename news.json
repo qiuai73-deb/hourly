@@ -1,13 +1,13 @@
 {
-  "update_cst": "2026-10-31 18:01:12 北京时间",
+  "update_cst": "2026-11-01 06:01:13 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 16,
-    "Financial Times": 1,
+    "The Economist": 3,
+    "Bloomberg": 8,
+    "Financial Times": 3,
     "Wall Street Journal": 1,
-    "Reuters": 2
+    "Reuters": 5
   },
   "china_news": [
     {
@@ -94,6 +94,14 @@
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "中国反腐机构调查中国石化前董事长傅成玉",
+      "title_cn": "中国反腐机构调查中国石化前董事长傅成玉",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/china-graft-agency-probes-former-sinopec-chairman-fu-chengyu",
+      "pub_raw": "2026-10-31T10:19:48.705Z",
+      "pub_sort_dt": "2026-10-31 18:19:48"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "中国取消关键利率保密规定，将其设定在原基准水平之下",
       "title_cn": "中国取消关键利率保密规定，将其设定在原基准水平以下",
       "url": "https://www.bloomberg.com/news/articles/2026-10-30/pboc-reveals-overnight-rate-at-1-25-before-policy-anchor-shift",
@@ -149,78 +157,6 @@
       "pub_sort_dt": "2026-10-30 15:00:52"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "姆巴佩在中国走上了推销员和外资企业根本无法涉足的道路",
-      "title_cn": "姆巴佩在中国走上了选民和外资企业根本无法涉足的道路",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-30/mbappe-went-where-pitchmen-foreign-firms-just-can-t-go-in-china",
-      "pub_raw": "2026-10-30T04:52:51.439Z",
-      "pub_sort_dt": "2026-10-30 12:52:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "“中国制造”：中国品牌是否即将迎来“日本制造”式的转折点？",
-      "title_cn": "“中国制造”：中国品牌是否即将迎来令人兴奋的“日本制造”式的转折点？",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-30/made-in-china-are-chinese-brands-nearing-a-made-in-japan-moment",
-      "pub_raw": "2026-10-30T04:20:52.315Z",
-      "pub_sort_dt": "2026-10-30 12:20:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受华发事件影响，中国垃圾级美元债券或将迎来一年来表现最差的一周",
-      "title_cn": "受华发事件影响，中国垃圾级美元债券或将迎来令人振奋的一年表现最差的一周",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-junk-dollar-bonds-head-for-worst-week-in-a-year-on-huafa",
-      "pub_raw": "2026-10-30T04:04:59.958Z",
-      "pub_sort_dt": "2026-10-30 12:04:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国综合企业华发面临惠誉下调评级的风险",
-      "title_cn": "中国综合企业华发面临惠誉评级的风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/zhuhai-huafa-put-on-negative-watch-by-fitch-on-refinancing-risk",
-      "pub_raw": "2026-10-30T04:04:59.941Z",
-      "pub_sort_dt": "2026-10-30 12:04:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国通过罕见的政治局提名，提拔了整风运动中的关键人物",
-      "title_cn": "中国通过罕见的政治局提名，提拔了整风运动中的关键人物",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/china-names-vice-military-chair-as-new-politburo-member",
-      "pub_raw": "2026-10-30T04:04:59.828Z",
-      "pub_sort_dt": "2026-10-30 12:04:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国石油巨头在推进能源安全方面获得更多支持",
-      "title_cn": "中国石油工会在推进能源安全方面获得更多支持",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-oil-majors-get-more-firepower-for-energy-security-push",
-      "pub_raw": "2026-10-30T02:29:52.722Z",
-      "pub_sort_dt": "2026-10-30 10:29:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着股市下跌，中国投资者纷纷将资金投向长期债券ETF以寻求避险",
-      "title_cn": "随着股市下跌，中国投资者纷纷将资金投向长期债券ETF以寻求避险",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-investors-seek-shelter-in-long-bond-etfs-as-stocks-sink",
-      "pub_raw": "2026-10-30T02:29:52.719Z",
-      "pub_sort_dt": "2026-10-30 10:29:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着中国投资者纷纷撤资，香港股市失去了一位关键支持者",
-      "title_cn": "随着中国投资者纷纷撤资，香港股市失去了一位关键支持者",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/hk-stocks-lose-a-key-backer-as-chinese-investors-head-for-exit",
-      "pub_raw": "2026-10-30T00:21:43.536Z",
-      "pub_sort_dt": "2026-10-30 08:21:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "PAG同意以5.14亿美元收购中国恒大旗下子公司",
-      "title_cn": "PAG同意以5.14亿美元收购中国恒大旗下子公司",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/pag-agrees-to-buy-china-evergrande-unit-for-514-million",
-      "pub_raw": "2026-10-30T00:05:56.175Z",
-      "pub_sort_dt": "2026-10-30 08:05:56"
-    },
-    {
       "source": "Reuters",
       "title_en": "焦点：中国电动汽车在韩国赢得部分消费者青睐，但在日本市场却面临更大挑战",
       "title_cn": "焦点：中国电动汽车在韩国赢得了部分消费者的青睐，但在日本市场却面临更大的挑战",
@@ -251,6 +187,70 @@
       "url": "https://reut.rs/48jcmfc",
       "pub_raw": "2026-10-29T16:09:44.525Z",
       "pub_sort_dt": "2026-10-30 00:09:44"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国共产党关于加强纪律的会议创下开除党籍人数和缺席人数之最",
+      "title_cn": "中国关于加强党的会议的党员人数开除党籍和缺席党员之最",
+      "url": "https://reut.rs/4jN9rm4",
+      "pub_raw": "2026-10-29T14:51:48.707Z",
+      "pub_sort_dt": "2026-10-29 22:51:48"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国在交通基础设施方面的投资已达到峰值",
+      "title_cn": "中国在交通基础设施方面的投资已达到高峰",
+      "url": "https://www.economist.com/china/2026/10/29/chinas-investment-in-transport-infrastructure-has-peaked",
+      "pub_raw": "2026-10-29T14:35:55.033Z",
+      "pub_sort_dt": "2026-10-29 22:35:55"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国热衷于对城市进行排名。政府希望这种做法能停止",
+      "title_cn": "中国热衷于对城市进行排名。政府希望这种行为能够停止",
+      "url": "https://www.economist.com/china/2026/10/29/china-loves-to-rank-its-cities-the-government-wants-it-to-stop",
+      "pub_raw": "2026-10-29T14:35:55.018Z",
+      "pub_sort_dt": "2026-10-29 22:35:55"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "让中国效仿美国的AI",
+      "title_cn": "让中国效仿美国的AI",
+      "url": "https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai",
+      "pub_raw": "2026-10-29T14:35:54.739Z",
+      "pub_sort_dt": "2026-10-29 22:35:54"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国领导人誓言加大反腐力度",
+      "title_cn": "中国领导人誓言加大反腐力度",
+      "url": "https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-29T11:25:01.764Z",
+      "pub_sort_dt": "2026-10-29 19:25:01"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "比亚迪出口的迅猛增长在一定程度上抵消了中国市场的疲软",
+      "title_cn": "比亚迪出口的迅猛增长在一定程度上规划了中国市场的硬件软体",
+      "url": "https://www.ft.com/content/9b19295f-a16a-4bc2-8f1a-5ab6d075b8af?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-29T11:25:01.510Z",
+      "pub_sort_dt": "2026-10-29 19:25:01"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "2025年香港那场致命大火的责任该由谁来承担？",
+      "title_cn": "2025年香港那场致命大火的责任该由谁来承担？",
+      "url": "https://reut.rs/4ySvHim",
+      "pub_raw": "2026-10-29T11:08:55.730Z",
+      "pub_sort_dt": "2026-10-29 19:08:55"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国共产党证实开除33名官员党籍",
+      "title_cn": "中国共产党证实除33名官员党籍",
+      "url": "https://reut.rs/4Bw5VCT",
+      "pub_raw": "2026-10-29T10:52:51.591Z",
+      "pub_sort_dt": "2026-10-29 18:52:51"
     }
   ],
   "news": [
@@ -336,6 +336,14 @@
     },
     {
       "source": "Bloomberg",
+      "title_en": "中国反腐机构调查中国石化前董事长傅成玉",
+      "title_cn": "中国反腐机构调查中国石化前董事长傅成玉",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/china-graft-agency-probes-former-sinopec-chairman-fu-chengyu",
+      "pub_raw": "2026-10-31T10:19:48.705Z",
+      "pub_sort_dt": "2026-10-31 18:19:48"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "中国取消关键利率保密规定，将其设定在原基准水平之下",
       "title_cn": "中国取消关键利率保密规定，将其设定在原基准水平以下",
       "url": "https://www.bloomberg.com/news/articles/2026-10-30/pboc-reveals-overnight-rate-at-1-25-before-policy-anchor-shift",
@@ -391,78 +399,6 @@
       "pub_sort_dt": "2026-10-30 15:00:52"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "姆巴佩在中国走上了推销员和外资企业根本无法涉足的道路",
-      "title_cn": "姆巴佩在中国走上了选民和外资企业根本无法涉足的道路",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-30/mbappe-went-where-pitchmen-foreign-firms-just-can-t-go-in-china",
-      "pub_raw": "2026-10-30T04:52:51.439Z",
-      "pub_sort_dt": "2026-10-30 12:52:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "“中国制造”：中国品牌是否即将迎来“日本制造”式的转折点？",
-      "title_cn": "“中国制造”：中国品牌是否即将迎来令人兴奋的“日本制造”式的转折点？",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-30/made-in-china-are-chinese-brands-nearing-a-made-in-japan-moment",
-      "pub_raw": "2026-10-30T04:20:52.315Z",
-      "pub_sort_dt": "2026-10-30 12:20:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受华发事件影响，中国垃圾级美元债券或将迎来一年来表现最差的一周",
-      "title_cn": "受华发事件影响，中国垃圾级美元债券或将迎来令人振奋的一年表现最差的一周",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-junk-dollar-bonds-head-for-worst-week-in-a-year-on-huafa",
-      "pub_raw": "2026-10-30T04:04:59.958Z",
-      "pub_sort_dt": "2026-10-30 12:04:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国综合企业华发面临惠誉下调评级的风险",
-      "title_cn": "中国综合企业华发面临惠誉评级的风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/zhuhai-huafa-put-on-negative-watch-by-fitch-on-refinancing-risk",
-      "pub_raw": "2026-10-30T04:04:59.941Z",
-      "pub_sort_dt": "2026-10-30 12:04:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国通过罕见的政治局提名，提拔了整风运动中的关键人物",
-      "title_cn": "中国通过罕见的政治局提名，提拔了整风运动中的关键人物",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/china-names-vice-military-chair-as-new-politburo-member",
-      "pub_raw": "2026-10-30T04:04:59.828Z",
-      "pub_sort_dt": "2026-10-30 12:04:59"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国石油巨头在推进能源安全方面获得更多支持",
-      "title_cn": "中国石油工会在推进能源安全方面获得更多支持",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-oil-majors-get-more-firepower-for-energy-security-push",
-      "pub_raw": "2026-10-30T02:29:52.722Z",
-      "pub_sort_dt": "2026-10-30 10:29:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着股市下跌，中国投资者纷纷将资金投向长期债券ETF以寻求避险",
-      "title_cn": "随着股市下跌，中国投资者纷纷将资金投向长期债券ETF以寻求避险",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-investors-seek-shelter-in-long-bond-etfs-as-stocks-sink",
-      "pub_raw": "2026-10-30T02:29:52.719Z",
-      "pub_sort_dt": "2026-10-30 10:29:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着中国投资者纷纷撤资，香港股市失去了一位关键支持者",
-      "title_cn": "随着中国投资者纷纷撤资，香港股市失去了一位关键支持者",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/hk-stocks-lose-a-key-backer-as-chinese-investors-head-for-exit",
-      "pub_raw": "2026-10-30T00:21:43.536Z",
-      "pub_sort_dt": "2026-10-30 08:21:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "PAG同意以5.14亿美元收购中国恒大旗下子公司",
-      "title_cn": "PAG同意以5.14亿美元收购中国恒大旗下子公司",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/pag-agrees-to-buy-china-evergrande-unit-for-514-million",
-      "pub_raw": "2026-10-30T00:05:56.175Z",
-      "pub_sort_dt": "2026-10-30 08:05:56"
-    },
-    {
       "source": "Reuters",
       "title_en": "焦点：中国电动汽车在韩国赢得部分消费者青睐，但在日本市场却面临更大挑战",
       "title_cn": "焦点：中国电动汽车在韩国赢得了部分消费者的青睐，但在日本市场却面临更大的挑战",
@@ -493,6 +429,70 @@
       "url": "https://reut.rs/48jcmfc",
       "pub_raw": "2026-10-29T16:09:44.525Z",
       "pub_sort_dt": "2026-10-30 00:09:44"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国共产党关于加强纪律的会议创下开除党籍人数和缺席人数之最",
+      "title_cn": "中国关于加强党的会议的党员人数开除党籍和缺席党员之最",
+      "url": "https://reut.rs/4jN9rm4",
+      "pub_raw": "2026-10-29T14:51:48.707Z",
+      "pub_sort_dt": "2026-10-29 22:51:48"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国在交通基础设施方面的投资已达到峰值",
+      "title_cn": "中国在交通基础设施方面的投资已达到高峰",
+      "url": "https://www.economist.com/china/2026/10/29/chinas-investment-in-transport-infrastructure-has-peaked",
+      "pub_raw": "2026-10-29T14:35:55.033Z",
+      "pub_sort_dt": "2026-10-29 22:35:55"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "中国热衷于对城市进行排名。政府希望这种做法能停止",
+      "title_cn": "中国热衷于对城市进行排名。政府希望这种行为能够停止",
+      "url": "https://www.economist.com/china/2026/10/29/china-loves-to-rank-its-cities-the-government-wants-it-to-stop",
+      "pub_raw": "2026-10-29T14:35:55.018Z",
+      "pub_sort_dt": "2026-10-29 22:35:55"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "让中国效仿美国的AI",
+      "title_cn": "让中国效仿美国的AI",
+      "url": "https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai",
+      "pub_raw": "2026-10-29T14:35:54.739Z",
+      "pub_sort_dt": "2026-10-29 22:35:54"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国领导人誓言加大反腐力度",
+      "title_cn": "中国领导人誓言加大反腐力度",
+      "url": "https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-29T11:25:01.764Z",
+      "pub_sort_dt": "2026-10-29 19:25:01"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "比亚迪出口的迅猛增长在一定程度上抵消了中国市场的疲软",
+      "title_cn": "比亚迪出口的迅猛增长在一定程度上规划了中国市场的硬件软体",
+      "url": "https://www.ft.com/content/9b19295f-a16a-4bc2-8f1a-5ab6d075b8af?syn-25a6b1a6=1",
+      "pub_raw": "2026-10-29T11:25:01.510Z",
+      "pub_sort_dt": "2026-10-29 19:25:01"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "2025年香港那场致命大火的责任该由谁来承担？",
+      "title_cn": "2025年香港那场致命大火的责任该由谁来承担？",
+      "url": "https://reut.rs/4ySvHim",
+      "pub_raw": "2026-10-29T11:08:55.730Z",
+      "pub_sort_dt": "2026-10-29 19:08:55"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国共产党证实开除33名官员党籍",
+      "title_cn": "中国共产党证实除33名官员党籍",
+      "url": "https://reut.rs/4Bw5VCT",
+      "pub_raw": "2026-10-29T10:52:51.591Z",
+      "pub_sort_dt": "2026-10-29 18:52:51"
     }
   ]
 }
