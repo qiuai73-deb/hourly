@@ -1,97 +1,241 @@
 {
-  "update_cst": "2026-11-02 06:01:11 北京时间",
+  "update_cst": "2026-11-02 18:01:09 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 1,
-    "Bloomberg": 5,
-    "Financial Times": 2,
+    "Bloomberg": 11,
+    "Financial Times": 1,
     "Wall Street Journal": 1,
-    "Reuters": 11
+    "Reuters": 6
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "观点 中美需联手应对另一个强大的对手：人工智能 - South China Morning Post",
-      "title_cn": "观点 中美需联手应对另一个强大的对手：人工智能 - 南华早报",
-      "url": "https://news.google.com/read/CBMi7AFBVV95cUxNQWVxYTVtbmFCRWpqdGo3YmVlSnQ1RHpHOEN0a2p0ZWxKN0czVVVKb0FRb2xna1ltYmZqSy1RWnd0Z0hsOVJCUHRiTTNuVmpleHllTjJjSVp3blNoSmpsbjdMN0JMdEpzTmJvNWlmX3NjVmNSS0RVWWFwT0dtRVhDUGxiWGVxbndzRWJDZ1pjNEg0alRBbnBiMWRWeVlkNDkyNEtjai1GVW1CWGpiRVdOSmRtYy1ZMmFPWTBHVTNlNlpJQUM3WXpCTmZ6VldyMXhSNDFNQUxEZ0VHaEJfTUtuTEtlZ0dITnRoMWpvOA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T21:30:09.000Z",
-      "pub_sort_dt": "2026-11-02 05:30:09"
+      "title_en": "中国一档热门新真人秀节目将关注点从爱情转向了友谊 - Sixth Tone",
+      "title_cn": "中国一档热门新真人秀节目将关注点从爱情转向到友谊 - Sixth Tone",
+      "url": "https://news.google.com/read/CBMizAFBVV95cUxPeEltS1k5b2lNMV82LUtqWC13ODE0TzZibDZhTGR6OGNLbWtsR3RpSUN5ZHVxWUtUNkxlX3AzVHRJbjA4dkhHcG9fRFZqX3lXSGtzeS1GaUl4eThjUUpfU1IyaHZxU1Z6ODFxZWhKMkdnY1ZEeklwNklSamFTVXB2VmxWYnpxMElrMm9FUzNTQmVpMWpVRUJGU2x6WmlQT3lwckgyMUI1T2ZtUzVtaUExMlEtTjdSNmEzRUFhU0Z6OFRYS1cyd08yemdCWjg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:52:47.000Z",
+      "pub_sort_dt": "2026-11-02 17:52:47"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国比亚迪继续大规模出口电动汽车。但这无济于事。 - Barron's",
-      "title_cn": "中国比亚迪继续大规模出口电动汽车。但无济于事。 - Barron's",
-      "url": "https://news.google.com/read/CBMid0FVX3lxTE54dTJkc3RsNklYSlBxOWpUMzNnNkVsd1hkU3hTMHpBcXZJSDk5dGpaRWF5XzdDTVpPdzJ4T1p2UXFmTzlxM3F5RUV2Tm5VNS0yRWpMS1BqTjhMUUFxb2xsa1dsQ1pDTlk3QmF1R2FXRHRlM291cXRZ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T19:26:00.000Z",
-      "pub_sort_dt": "2026-11-02 03:26:00"
+      "title_en": "中国外长呼吁通过对话解决中东冲突 - Reuters",
+      "title_cn": "中国外长呼吁通过对话解决中东冲突 - 路透中文网",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxNNVJGdUotaWhuOVFjZ2VTVHZ5bkxnbmVXd3BUS0JEenI2QkpMYXJSVUxpUGJrNHpaMkFtZ244cE93RWhCWExKTmJFdm5FbFZEck14aVdnaW0tdU5DdHY0UUk3TkpqbW5vb1RzMW85Z1VkZHFBSnlRMkRVUTlxRDgyR2Z1N3BBSkRsdzI2Mm9WQmxjaFpiOUpqR3k5WjRZUVVZaUtGWGVscXhlS01PZjBUTWRMNHpIU28?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:49:43.000Z",
+      "pub_sort_dt": "2026-11-02 17:49:43"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国实验室寄望于新材料，以缩小与中国在核领域的差距 - Yahoo",
-      "title_cn": "美国实验室寄望新材料，缩小与中国在核心领域的差距 - 雅虎",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxPSk1kZ19aLUlVZVU3Q1ZQOUZlM01CT2JyNkExNjhOeXlSTGdDa3hnUFlCd21YMUZLN1d3RGphd0dia0E2NG0yczN5QkJHRGkwa2lfS3hvQjFla1VXZDlXZ2VWY0k5RUhmN3NXekd5TGZvYVBqVWNrZlJobG94YlY0NV81SDFMWkhFaFpieTRtR0c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T18:00:00.000Z",
-      "pub_sort_dt": "2026-11-02 02:00:00"
+      "title_en": "中国与阿曼在苏丹“历史性”访华期间共同呼吁中东和平 - South China Morning Post",
+      "title_cn": "中国与阿曼在苏丹“历史性”访华期间共同呼吁中东和平 - 南华早报",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxPV1FQMWxURGJ3aDlMMjVWWTZMTVIzVlRQOUZMR3VGZEVTVDJsdE1HSjJHOWtfdG9YSVlqejFZNnl3aTlFQWdWb2MwOFplN3VfQUhVeS1WamZCdEZzbXp6UUZsVmZ3UW1INVZjMFhZNkZXd2lNVzZWOVQyekNwam54YmZkNXVfZmRreXcxa1ZJc0JETnBQZV8wUk5pZ0tld0ZISTNveFBuMnZDN1JtQkNzVTVNQm5fdTJVTkFPMU1jZFdlUE5objdN0gHHAUFVX3lxTE1YLV9jNkJxMGpkNEtiV2MyR2FhMzNDMFlYSjFmWDNMSFFtUmF6cTg4ZmVrZnlydExDVXI2RUVpd0ExUDJQQkFueDJHaHJIU2xVVHBfUE1oUVNPZTBZOC1hRmVaVDZnVzdYMnpORXZHUVVaMDRGTy1NdUFXdno1LWFiSmFWMXBWWmdLNkpqZGVubXdqeG5MNERtTkF2MU1ObFNiVVB1d0R1VVFmVTJqRzBBcjY4dVlWNTFIakpaWC1IWnZaaUxLMGs?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:20:42.000Z",
+      "pub_sort_dt": "2026-11-02 17:20:42"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国需求促使威斯尔豪瑟公司三艘原木运输船驶入太平洋 - Wood Central",
-      "title_cn": "中国需求推动威斯尔豪瑟公司三艘原木运输船驶入太平洋 - Wood Central",
-      "url": "https://news.google.com/read/CBMiakFVX3lxTFBmMFN4dTRHWnhvbGExQ3FBV21BeHFVSXVWUkdzcHh3YmJLb09yLXl6MXg4Wk9ZWFozcGpZRkMyZ1Y4UnhyNE5ZTWpSaGJMdHJxcHBYanVZMlQwT2JJb1lSc01vdXU4bUlvLWc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T15:57:12.000Z",
-      "pub_sort_dt": "2026-11-01 23:57:12"
+      "title_en": "中国Z世代在万圣节身着诡异的股市主题装扮 - Bloomberg",
+      "title_cn": "中国Z世代在万圣节身着诡异的股市主题装扮 - Bloomberg",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxNeHhCeUhxMUhkVGJaRWlKNGhzZDJDYUtxdVFsVU1LdWF4WDFZcWIySlJXTlNtQV92bXA4QURnSWV4Q3NoZDZVc21GTkZGRl9jaVhmNmpCQmVJZkRlSEdBMEc5MmpYWXBRRFY0bk1saTVhOTNtZU9kTU1UbW5XaVBKbzZKcm9Hby1lSVZ2NklGMlFPbzJGMzdsY0dXc09Na0pGMU85cWZDWWozV1AySVB6Q0x3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:20:27.000Z",
+      "pub_sort_dt": "2026-11-02 17:20:27"
     },
     {
       "source": "China Buzzing",
-      "title_en": "《苹果日报》前发行人加入中国内地针对改过自新罪犯的旅游团 - South China Morning Post",
-      "title_cn": "《苹果日报》前发行人加入中国内地针对改过自新罪犯的旅游团 - 南华早报",
-      "url": "https://news.google.com/read/CBMi1gFBVV95cUxPQWdzOUZvbUNPZUJ4ZXlfeFZpV05nN2RHbndKazdzSGFzQVdrWUtEcGlvWE1Td2FvTEItaVA1aWNDc293blRZNzc5S18zcG1US09RNVFocUlteHJRM2p4cXBnWXpVTzk0dzAwUjA1bmZEaUFQdTBrYUloSkt0Q3ZPcjZMN0c1RXVKdWhvNU5Bc3RpVS1FVnVvcEtSUG1yN1d2OHJJMzVnNE5FelBlUHZUZ01SWlQtaVZGa0YwTjZ6NzZCMGpEVDZFdFZFeWxWRnhKaUdvY2RR0gHWAUFVX3lxTE5hR0lGWXdWZzcydFZGbF85amhDNVhRTS1NLWtwVXpoenBQUXhqbV90d3JFMU83X1hwcDE5M1Y1dVFVNGtVY3h0YmRnSmVrSm9IUXIxZ2FSbHBoYlRUQ3RmSnpTTE9yeWlZbkw3RGJNVEVoR1oyM1U0NTNPSUQtYmI0ZXhFM2k3bWFnbFY1TnZsdGhpblIxZ2dXWFBpNTIwdE1aM0NrVlpzMUVibVMwWnhJY0hhbzRfS2xLTHRGeTRFLVdNejZ6NzQ4YTdsYjJYZGJVdUc5Rmc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T15:33:56.000Z",
-      "pub_sort_dt": "2026-11-01 23:33:56"
+      "title_en": "中国央行动用流动性工具为股票购买提供资金 - Reuters",
+      "title_cn": "中国央行用流动性工具为股票购买提供资金 - 路透中文网",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxPbUowSGs1Q0hadWZXNFhieVFtSERoVm1uZHBNaDZYeVFoS2FXaVIxMVhnckRuMVY0NkJPQTNXZFdNeUtJQ2hYREZGZDM3UnhzcUE5bkJSMXhDTXpYRUltclJka2pJZS0yNGY0TGg2dDBkbTh3MnhQTjZxM0pKaWViT21HNmE0ajlHS0xGLVdkZmxMOHhzUndVU1Z4YXVPZElpZkJuQTRZSlZPcV9zRmJfQnRVWjRadw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:15:43.000Z",
+      "pub_sort_dt": "2026-11-02 17:15:43"
     },
     {
       "source": "China Buzzing",
-      "title_en": "共产党承诺进一步深入中国科技和平台行业 - South China Morning Post",
-      "title_cn": "承诺共同进一步深入研究中国科技和平台行业 - 南华早报",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxOM2JQODJReEQtVnBlRHV3SUFBZFZraXNWUVRhWEM2WmhKVTBhUWhGTW5tcXJONlBnNDA1UzlqOHNTNk9BNExlWXh5UFJGUnpjaEdjdTcwQV9ueWk5cGhwTHdITjhqNXU2YVo1bWdIQjhmcHlvbElZSUZPRFl4Um1CbWIyM1RuUzlKeUMzdEROMkRwa3pkSWZqMmhlb0VnVzVycERjZ2NBVHNDMEpmQ3RuTzVFUFhvR05oS0pXN1hTNXZBYmEyRTZjV1930gHKAUFVX3lxTE9rUmVNSkdPY0pwWkw5UTRhTXRCLXFXZC1FZ2puZ0FuRWNXQm8xUUhEODdoMjl4UGFRdWk2andtQW1zaGVxS29QZWxlRENyRVFPSnpJMEVKeXEwZ2lTcXhiZjBXZEJ4Tk9XaGJkTlphMDlZUmoxemFyNlRVZzh1WnZDeHpKYXVvRUhKb09FYkx6blljTzRrQURRTk9mVE5McWdNeXc2QWlfMkJjVDRUNjFJTllZeWdSczBPQjNsOGtyVENuSDJXN3phT3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T15:00:10.000Z",
-      "pub_sort_dt": "2026-11-01 23:00:10"
+      "title_en": "突发 北京调整资产互换安排，以在股市暴跌后支撑中国股市 - South China Morning Post",
+      "title_cn": "突发北京调整资产互换安排，以在股市暴跌后支撑中国股市 - 南华早报",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxNQ1RrbE5DT25fLTlSNEdyTTQ2ZkYyWlVqS2JVWnF3X1JPLU9xOXpNekQ2WHhaSDFxRlkzQ21BUE0xSXFQeU5zRXZBdjJtdUFmMVhXdlM4eEIwbml0U2dCbnlZVE9NSno5VjBhazZXY1F4U1lYR3o0dTlHMThLY0VRTDl3YjRCRU5qZExyajlTSDU5M3o4ZVJMdXppajM2bWhObzdhbW1ldUQwWWdadTBzQk9vcklDQ1kxVTJJd0lB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:15:28.000Z",
+      "pub_sort_dt": "2026-11-02 17:15:28"
     },
     {
       "source": "China Buzzing",
-      "title_en": "阿曼苏丹开启历史性访华之旅，这是48年来首次 - Anadolu Ajansı",
-      "title_cn": "阿曼苏丹开启历史性访华之旅，这是48年来首次 - Anadolu Ajansı",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxPbmlQRFJ0U0lyeDN6cVhCeDUtbGZiOVhwTFhqQkxpb1ZjSG1jWWhVVWxxcnhhZENfM1Nub0FxdEJlUVd5b29SYWU3Z1RnY1g5N3BGOTRkVmlBZ3hHTURXTE5ERW9lUDduRmJuMmJZS0dZQUpRYzY0X3htY29yaXN1ZjJPbW5Vc1ZGSUtvRDVmUFpMS3NYY285S0ppTVI4cjlZeTdINw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T14:17:44.000Z",
-      "pub_sort_dt": "2026-11-01 22:17:44"
+      "title_en": "中国自给自足的局限性 - Foreign Affairs",
+      "title_cn": "中国自给自足的局限性 - 外交事务",
+      "url": "https://news.google.com/read/CBMidkFVX3lxTE85XzlQQmVZXzhsY2Uyd0ktc3RnX1Zadm1oZ1dhS2RrQlFWaFFyY2NWbUJOVlNJYWRWaW40d2NtMmpBeXFtLUs3aEJFdDNEZHRQekY1aU9Oa05BcWRKdEozb2NuSk11dEpYckpUTGhUVEZmQUxOZmc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:00:00.000Z",
+      "pub_sort_dt": "2026-11-02 17:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中期选举失利能否让特朗普收敛？中国专家表示，在外交政策上不会 - South China Morning Post",
-      "title_cn": "选举一次失利能否让特朗普回归？中国专家表示，在双重政策上不会 - 南华早报",
-      "url": "https://news.google.com/read/CBMi8gFBVV95cUxNTFFuYUs0WkRBR21ucU55QkJBM0NudDZfU3FPSFNzN1pVdlJCaGtPdHhOWGI3b1hCb09fQlVxTkV1TXc0YUlydEFBVGNrNHJVSXIwaHdieEctemp4MUJqYktnVXNKUHVHa0lQc09CNWhDNE41Wkx2NEdhNWlod2NZSS1mYzdmZW1iSVRCMG0zdUtYbnhYeDh6aldMMVBTUm1IVFVUeEprZGNqWEx5T0xtQllzWm9JZGdoOW5DNFZGaFdrc29vaUNlTEVwQklCbV9ROXZQQ2I5R3VxUExGZWZpQ1NQTFNMeUFXNXBNWl9nX0h3UdIBxwFBVV95cUxOS0VCZXNTUFptU01tSWhlTThBMFAtYnJCSTYzQ09yR0I1dWUyVXpVemRobWFxSF8yUUROOWhZLXlkVjRFTFRWLVBDREphN3RscTJaWWtKNGc4TGdIaHNRQ3BzTWk2NnRzMWxEQWx1LXZJMFhlZkNDWmRjTHpxU1VjSHpNRHloWTQ0blhoTDlwaHBfaWRKOFVZWk1FUC1BRTRfTThmbVFyQ1hCYjVicDBvTXoyZ2pJdW41bnBIcXIycnZIWFFnd3RF?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T14:00:11.000Z",
-      "pub_sort_dt": "2026-11-01 22:00:11"
+      "title_en": "中国对美国农产品的采购步伐放缓，考验着170亿美元的贸易承诺 - WTVB",
+      "title_cn": "中国对美国农产品的采购启动，履行170亿美元的贸易承诺 - WTVB",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxPUXg0OUg3T2dfU09Ha21SQ2VhVWtueGM3NVBKTEp1TmJ1VVJsY1NXRkVtN1lnaXFnRGhXdjd3Ym1haWltMGducU9kX2dKcUVxZ05zY3ZOZ0Fyd0paekM2a245a1VpYm9wdVV1ejN0QW5Od09PTXB0LTJHSU04UTRRb2Y5bURETFJaOGk0amhnUjZ1ZXFvS0Q4N3dRbG4?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T08:29:35.000Z",
+      "pub_sort_dt": "2026-11-02 16:29:35"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国国家主席习近平表示，严格的党内治理具有积极作用，不会扼杀经济增长 - South China Morning Post",
-      "title_cn": "中国国家主席习近平表示，严格的党内治理具有积极作用，不会扼杀经济增长 - 南华早报",
-      "url": "https://news.google.com/read/CBMi1AFBVV95cUxPNjlpMGFiMGs4WDdPM3ZmYnpGQTJXcDlvYzBEbk5peDZHNkRUNmk0d3lRTUtnLXl5eVRRaFRYd0tjMmVoRHdLbHdfREJhSlM0Mk14QW05MEZqaEdzWHNxQjdtV0VzVl9lbXYxVmt4cXNDbm1TckU4czB5RW1VMmtvLXVsXzVJZzVVTXREMGRrZW44TzRDRTFhdnVkM1h2YkY4MFZLNXlpTjN4N2k5UHFLME9LcXl4SmhOWWRmZEs0T1Zidld0OThVWEEwOS11M2xoMF9PYtIB1AFBVV95cUxNcnhDNG1tSUVwQ212cC1wMVJob2NwbC01NUlBLUptMk1GM3dtZUhucExqandPM2lha2RZNDBEYU5oWGgzbEI5T0k1NDhBczUzRDNwd2wtOFVqWmVFbUhRcjdiSzdPMTdWQTcyVTRFTXFiTXAzRXpHa3ZXUkNOUExweVJOOGZoNHhzd1ZGUmJLV3c0Q3pOZjJ6OTM5R2xfdDh1R3NkR3psdW9uSVV4b1dsM0dGWUZEWmJmamplSFFtbWRHX21xc3BRZ0E1TXJvV2pjbncyMA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T13:47:24.000Z",
-      "pub_sort_dt": "2026-11-01 21:47:24"
+      "title_en": "中国天穹公司将以3290万美元收购Easy-Logic，以弥补数字EDA领域的短板 - Dealroom",
+      "title_cn": "中国天穹公司将以3290万美元收购Easy-Logic，以弥补数字EDA领域的短板 - Dealroom",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxPTS1yaDN2eFdlQXhpeEQwalpiS21waEE0d2VpWkdEdjJhZmpKZ3U1STNyUjBneS1MSE83Yzg0dUFmdXkyZ2R4a09jbDVEX0NXRUhTaVltNFVDWEg3TXlIb01pWlpSU0ZjWmEyc3dWU0oxTExHNlBLclYyZ2tEMjl3Qkg3dl9qX2dDeUF0ZDNfN3JtZzh1WC1Ib2ZGUjBGWVEtUmJRNzln?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T08:22:15.000Z",
+      "pub_sort_dt": "2026-11-02 16:22:15"
     },
     {
       "source": "China Buzzing",
-      "title_en": "台湾指责中国在船只对峙后实施骚扰 - Politico",
-      "title_cn": "台湾公主在船只对峙后实施骚扰 - Politico",
-      "url": "https://news.google.com/read/CBMigwFBVV95cUxPLWl6Yi00bDFaUUJsWkpTdHlRT0h3eE9aUTJrcW9DT1ZvQ2YtQjZ2MlliR1l2WGZ6VHdIUE41X1Y0Z0Q5UUNqRVpKTnZMc3VvdjduNWRLY3RjRHZRUkhwcnB3Ny1QN3NFMURxNlVTZ3J6Zl9JN3piUC1CeFdMcE05WmFrbw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T13:27:00.000Z",
-      "pub_sort_dt": "2026-11-01 21:27:00"
+      "title_en": "加尔塞斯水果公司（Garces Fruit）的优质樱桃携2026/27产季全新品牌形象登陆中国市场 - Fruitnet",
+      "title_cn": "加尔塞斯水果公司（Garces Fruit）的优质樱桃携2026/27产季全新品牌形象登陆中国市场 - Fruitnet",
+      "url": "https://news.google.com/read/CBMi1AFBVV95cUxPcERNT2xHYXNaMFJybnEyR1o0RXVoMzQyakhETHNRa3VYckV2WlFrQ191Q3RxSmVBVTY1eENQNGZrMFJJekFieV9oelVRdmlHZkJzaFY1cmtJTllxR2UtWnNickNqZkViYVVmaEhWTTBGTzNxLWxTaFpodC00XzZBZmhnMkFSYU1WY3NZcHh1NjFfcE10cGhHbUwxSjBOYjZ5ZnhrVFVtazU2YXJER3h3cmREbWJ1dktycldHZTN2OFhtSmlabFU1QkdhX1VCU1BobXJqcQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T08:09:55.000Z",
+      "pub_sort_dt": "2026-11-02 16:09:55"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "丰田暗示将推出电动卡罗拉，以推动中国市场扭亏为盈",
+      "title_cn": "丰田暗示将推出电动卡罗拉，以推动中国市场扭亏为盈",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/toyota-hints-at-electric-corolla-to-usher-in-china-turnaround",
+      "pub_raw": "2026-11-02T09:22:59.360Z",
+      "pub_sort_dt": "2026-11-02 17:22:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受刺激政策预期提振，中国股市抛售潮告一段落",
+      "title_cn": "受刺激政策预期提振，中国股市抛售潮告一段落",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
+      "pub_raw": "2026-11-02T09:07:02.727Z",
+      "pub_sort_dt": "2026-11-02 17:07:02"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "美国曾一度主宰世界海洋。中国的习近平正在改变这一局面。",
+      "title_cn": "美国曾一度主宰世界海洋。中国的习近平正在改变这一现状。",
+      "url": "https://on.wsj.com/4jT9TPK",
+      "pub_raw": "2026-11-02T09:07:02.701Z",
+      "pub_sort_dt": "2026-11-02 17:07:02"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国对美国农产品的采购步伐放缓，考验着170亿美元的贸易承诺",
+      "title_cn": "中国对美国农产品的采购启动，履行170亿美元的贸易承诺",
+      "url": "https://reut.rs/4jNXYmf",
+      "pub_raw": "2026-11-02T08:35:57.052Z",
+      "pub_sort_dt": "2026-11-02 16:35:57"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "面对中国的压力，台湾表示必须掌握自己的海洋信息",
+      "title_cn": "中国的压力，台湾表示必须掌握自己的海洋面对信息",
+      "url": "https://reut.rs/4yVYl1Q",
+      "pub_raw": "2026-11-02T08:03:49.709Z",
+      "pub_sort_dt": "2026-11-02 16:03:49"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "在“中国好莱坞”，随着消费者在体验上的花费增加，游客们也成了明星",
+      "title_cn": "在“中国好莱坞”，随着消费者在体验上的花费增加，游客也成为明星",
+      "url": "https://reut.rs/4zsAdFo",
+      "pub_raw": "2026-11-02T07:48:57.546Z",
+      "pub_sort_dt": "2026-11-02 15:48:57"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国化学品出口激增，可能引发新的贸易战前线",
+      "title_cn": "中国化学品出口激增，可能引发新的贸易战前线",
+      "url": "https://www.ft.com/content/2962ad57-cee1-4a63-82ba-17acfc09d812?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-02T07:48:57.478Z",
+      "pub_sort_dt": "2026-11-02 15:48:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着汇率走低，台湾放宽了对出口商出售美元的限制",
+      "title_cn": "随着汇率限制走低，台湾放宽了对出口商出售美元的",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/taiwan-said-to-ease-exporter-fx-rule-after-record-stocks-exodus",
+      "pub_raw": "2026-11-02T07:16:48.140Z",
+      "pub_sort_dt": "2026-11-02 15:16:48"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "皇马比赛被撤下，中国观众仍无法观看“姆巴佩”的比赛",
+      "title_cn": "皇马比赛被取消下，中国观众仍无法观看“姆巴佩”的比赛",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-s-mbappe-blackout-continues-as-real-madrid-games-dropped",
+      "pub_raw": "2026-11-02T05:56:57.111Z",
+      "pub_sort_dt": "2026-11-02 13:56:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港芯片公司IPO借助相互交织的投资者网络及高管人脉",
+      "title_cn": "香港芯片公司IPO借助相互汇聚的投资者网络及高管脉",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/hong-kong-chip-ipos-tap-intertwined-investors-boss-s-networks",
+      "pub_raw": "2026-11-02T05:41:00.921Z",
+      "pub_sort_dt": "2026-11-02 13:41:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国钢铁集团批评各钢厂无视限产要求",
+      "title_cn": "中国钢铁集团批评各钢厂无视限产要求",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/chinese-steel-group-chides-mills-for-ignoring-output-curb-calls",
+      "pub_raw": "2026-11-02T04:20:46.398Z",
+      "pub_sort_dt": "2026-11-02 12:20:46"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "普里马维拉公司的胡表示，中国应采取“更大胆的行动”",
+      "title_cn": "普里马维拉公司的胡表示，中国应采取“更大胆的行动”",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-should-take-much-bolder-actions-says-primavera-s-hu",
+      "pub_raw": "2026-11-02T03:17:48.910Z",
+      "pub_sort_dt": "2026-11-02 11:17:48"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "受燃油成本拖累，中国三大航空公司全年将出现亏损",
+      "title_cn": "受消费成本拖累，中国三大商场将出现亏损",
+      "url": "https://reut.rs/4sCQAfF",
+      "pub_raw": "2026-11-02T03:17:48.877Z",
+      "pub_sort_dt": "2026-11-02 11:17:48"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受AI股灾影响，外国投资者从台湾股市撤资创下历史新高",
+      "title_cn": "受AI股灾影响，投资者从台湾股市撤回外国资历史新高",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/foreigners-make-record-withdrawal-from-taiwan-stocks-on-ai-rout",
+      "pub_raw": "2026-11-02T03:02:06.611Z",
+      "pub_sort_dt": "2026-11-02 11:02:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着出口订单放缓，中国制造业活动趋于降温",
+      "title_cn": "随着出口订单的指示，中国制造业活动趋于遵照",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-factory-activity-expands-but-ends-streak-of-faster-growth",
+      "pub_raw": "2026-11-02T02:46:16.501Z",
+      "pub_sort_dt": "2026-11-02 10:46:16"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国5000吨级挖掘机对印度构成贸易战风险",
+      "title_cn": "中国5000吨级挖掘机对印度构成贸易战风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-s-5-000-ton-digging-machines-are-a-trade-war-risk-to-india",
+      "pub_raw": "2026-11-02T02:13:39.710Z",
+      "pub_sort_dt": "2026-11-02 10:13:39"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国人民银行开展隔夜逆回购，政策锚点发生转变",
+      "title_cn": "中国人民银行开展隔夜逆回购，政策关键点发生转变",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/pboc-conducts-overnight-reverse-repo-as-policy-anchor-shifts",
+      "pub_raw": "2026-11-02T01:57:43.126Z",
+      "pub_sort_dt": "2026-11-02 09:57:43"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国机器人制造商已经掌握了动作要领。现在，竞争的重心转向了“大脑”",
+      "title_cn": "中国机器人制造商已经掌握了动作要领。现在，竞争性的重心转向了“大脑”",
+      "url": "https://reut.rs/4yUoYEu",
+      "pub_raw": "2026-11-02T01:25:55.066Z",
+      "pub_sort_dt": "2026-11-02 09:25:55"
+    },
     {
       "source": "The Economist",
       "title_en": "热门播客揭示了中国年轻人的焦虑",
@@ -103,236 +247,236 @@
     {
       "source": "Reuters",
       "title_en": "中国比亚迪凭借强劲的出口表现延续了销量增长势头",
-      "title_cn": "中国比亚迪凭借强劲的出口表现延续了销量增长势头",
+      "title_cn": "中国比亚迪凭借强劲的出口表现推动了市场增长动力",
       "url": "https://reut.rs/4e7MNRJ",
       "pub_raw": "2026-11-01T12:27:22.572Z",
       "pub_sort_dt": "2026-11-01 20:27:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾称中国在东海岸巡逻，骚扰船只",
-      "title_cn": "台湾称中国在东海岸巡逻、骚扰船只",
-      "url": "https://reut.rs/47XtG9s",
-      "pub_raw": "2026-11-01T02:11:01.393Z",
-      "pub_sort_dt": "2026-11-01 10:11:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "一家由丰田支持的卡车制造商押注售后服务中心，以抵御中国电动汽车竞争对手的挑战",
-      "title_cn": "一家由丰田支持的卡车制造商押注售后服务中心，以抵御中国电动汽车竞争对手的挑战",
-      "url": "https://www.ft.com/content/7e749777-dcee-4c11-9bdc-7f81bee80455?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-01T01:22:49.579Z",
-      "pub_sort_dt": "2026-11-01 09:22:49"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据中央电视台报道，中国海警在台湾以东海域开展巡逻",
-      "title_cn": "据中央电视台报道，中国海警在台湾以东海域开展巡逻",
-      "url": "https://reut.rs/4jMq2X6",
-      "pub_raw": "2026-10-31T17:26:48.907Z",
-      "pub_sort_dt": "2026-11-01 01:26:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据《The Information》报道，Meta与中国初创公司傅里叶合作开发类人机器人",
-      "title_cn": "据《The Information》报道，Meta与中国四分之一公司傅里叶合作开发类人机器人",
-      "url": "https://reut.rs/4BIqmge",
-      "pub_raw": "2026-10-31T16:54:39.619Z",
-      "pub_sort_dt": "2026-11-01 00:54:39"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国反腐机构调查中国石化前董事长傅成玉",
-      "title_cn": "中国反腐机构调查中国石化前董事长傅成玉",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-31/china-graft-agency-probes-former-sinopec-chairman-fu-chengyu",
-      "pub_raw": "2026-10-31T10:19:48.705Z",
-      "pub_sort_dt": "2026-10-31 18:19:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国愿增加从德国进口商品，李总理表示",
-      "title_cn": "李总理表示中国愿意增加从德国进口商品",
-      "url": "https://reut.rs/4iPkHgD",
-      "pub_raw": "2026-10-31T04:46:03.431Z",
-      "pub_sort_dt": "2026-10-31 12:46:03"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国取消关键利率保密规定，将其设定在原基准水平之下",
-      "title_cn": "中国取消关键利率保密规定，将其设定在原基准水平以下",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/pboc-reveals-overnight-rate-at-1-25-before-policy-anchor-shift",
-      "pub_raw": "2026-10-31T04:13:43.834Z",
-      "pub_sort_dt": "2026-10-31 12:13:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着经济增长放缓，中国制造业活动逐渐陷入萎缩",
-      "title_cn": "随着经济增长预期，中国制造业活动逐渐萎缩",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-31/china-factory-activity-manufacturing-purchasing-managers-index-services",
-      "pub_raw": "2026-10-31T02:37:49.729Z",
-      "pub_sort_dt": "2026-10-31 10:37:49"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "无印良品将中国市场的成功经验推广至全球",
-      "title_cn": "无印良品将中国市场的成功经验推广至全球",
-      "url": "https://www.ft.com/content/e0484ec6-f370-476f-8763-309f3d746ba9?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-31T01:18:42.927Z",
-      "pub_sort_dt": "2026-10-31 09:18:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港餐厅点评：YuSang 为韩式家常菜注入时尚气息",
-      "title_cn": "香港餐厅点评：YuSang 为韩式家常菜注入时尚氛围",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-31/hong-kong-restaurant-review-yusang-brings-style-to-korean-comfort-food",
-      "pub_raw": "2026-10-31T00:15:53.549Z",
-      "pub_sort_dt": "2026-10-31 08:15:53"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "中国大量收集可能有助于其部队在台湾周边海域行动的数据",
-      "title_cn": "中国大量收集可能有助于其部队在台湾周边地区行动的数据",
-      "url": "https://on.wsj.com/4zYZ0QZ",
-      "pub_raw": "2026-10-31T00:15:53.344Z",
-      "pub_sort_dt": "2026-10-31 08:15:53"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "一家香港电信公司迫于压力，同意暂停在美国的业务",
-      "title_cn": "一家香港电信公司因压力而同意暂停在美国的业务",
-      "url": "https://reut.rs/3WjfLIb",
-      "pub_raw": "2026-10-30T18:41:59.358Z",
-      "pub_sort_dt": "2026-10-31 02:41:59"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国称隐形攻击无人机首次在两栖舰上起降",
-      "title_cn": "中国称隐形攻击无人机首次在两栖舰上起降",
-      "url": "https://reut.rs/4BSxFlB",
-      "pub_raw": "2026-10-30T16:33:41.587Z",
-      "pub_sort_dt": "2026-10-31 00:33:41"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国反对美国联邦通信委员会（FCC）禁止在中国实验室进行测试的决定，并誓言若美方执意推进，将采取反制措施",
-      "title_cn": "中国反对美国联邦通信委员会（FCC）禁止在中国实验室进行测试的决定，并誓言若美方执意推进，将采取反制措施",
-      "url": "https://reut.rs/4sRpl1n",
-      "pub_raw": "2026-10-30T15:14:50.289Z",
-      "pub_sort_dt": "2026-10-30 23:14:50"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "芬兰警方逮捕九人，他们涉嫌贩运中国工人",
-      "title_cn": "芬兰警方逮捕九人，他们涉嫌贩运中国工人",
-      "url": "https://reut.rs/4iO0qIj",
-      "pub_raw": "2026-10-30T13:38:46.916Z",
-      "pub_sort_dt": "2026-10-30 21:38:46"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国家主席习近平呼吁欧盟与中国合作，并表示北京方面以真诚和善意处理双边关系",
-      "title_cn": "中国国家主席习近平呼吁欧盟与中国合作，并表示北京方面以真诚和善意处理双边关系",
-      "url": "https://reut.rs/4stKTAF",
-      "pub_raw": "2026-10-30T12:35:09.942Z",
-      "pub_sort_dt": "2026-10-30 20:35:09"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "香港火灾揭露了建筑翻新行业中根深蒂固的黑社会网络",
-      "title_cn": "香港火灾暴露了建筑再生行业中根深蒂固的黑社会网络",
-      "url": "https://reut.rs/4eAlZcY",
-      "pub_raw": "2026-10-30T12:02:58.902Z",
-      "pub_sort_dt": "2026-10-30 20:02:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国内存龙头CXMT销售额激增，但增长放缓",
-      "title_cn": "中国内存龙头CXMT销售额激增，但增长增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-chip-leader-cxmt-s-sales-rise-sevenfold-yet-growth-slows",
-      "pub_raw": "2026-10-30T11:31:16.168Z",
-      "pub_sort_dt": "2026-10-30 19:31:16"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "观点 中美需联手应对另一个强大的对手：人工智能 - South China Morning Post",
-      "title_cn": "观点 中美需联手应对另一个强大的对手：人工智能 - 南华早报",
-      "url": "https://news.google.com/read/CBMi7AFBVV95cUxNQWVxYTVtbmFCRWpqdGo3YmVlSnQ1RHpHOEN0a2p0ZWxKN0czVVVKb0FRb2xna1ltYmZqSy1RWnd0Z0hsOVJCUHRiTTNuVmpleHllTjJjSVp3blNoSmpsbjdMN0JMdEpzTmJvNWlmX3NjVmNSS0RVWWFwT0dtRVhDUGxiWGVxbndzRWJDZ1pjNEg0alRBbnBiMWRWeVlkNDkyNEtjai1GVW1CWGpiRVdOSmRtYy1ZMmFPWTBHVTNlNlpJQUM3WXpCTmZ6VldyMXhSNDFNQUxEZ0VHaEJfTUtuTEtlZ0dITnRoMWpvOA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T21:30:09.000Z",
-      "pub_sort_dt": "2026-11-02 05:30:09"
+      "title_en": "中国一档热门新真人秀节目将关注点从爱情转向了友谊 - Sixth Tone",
+      "title_cn": "中国一档热门新真人秀节目将关注点从爱情转向到友谊 - Sixth Tone",
+      "url": "https://news.google.com/read/CBMizAFBVV95cUxPeEltS1k5b2lNMV82LUtqWC13ODE0TzZibDZhTGR6OGNLbWtsR3RpSUN5ZHVxWUtUNkxlX3AzVHRJbjA4dkhHcG9fRFZqX3lXSGtzeS1GaUl4eThjUUpfU1IyaHZxU1Z6ODFxZWhKMkdnY1ZEeklwNklSamFTVXB2VmxWYnpxMElrMm9FUzNTQmVpMWpVRUJGU2x6WmlQT3lwckgyMUI1T2ZtUzVtaUExMlEtTjdSNmEzRUFhU0Z6OFRYS1cyd08yemdCWjg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:52:47.000Z",
+      "pub_sort_dt": "2026-11-02 17:52:47"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国比亚迪继续大规模出口电动汽车。但这无济于事。 - Barron's",
-      "title_cn": "中国比亚迪继续大规模出口电动汽车。但无济于事。 - Barron's",
-      "url": "https://news.google.com/read/CBMid0FVX3lxTE54dTJkc3RsNklYSlBxOWpUMzNnNkVsd1hkU3hTMHpBcXZJSDk5dGpaRWF5XzdDTVpPdzJ4T1p2UXFmTzlxM3F5RUV2Tm5VNS0yRWpMS1BqTjhMUUFxb2xsa1dsQ1pDTlk3QmF1R2FXRHRlM291cXRZ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T19:26:00.000Z",
-      "pub_sort_dt": "2026-11-02 03:26:00"
+      "title_en": "中国外长呼吁通过对话解决中东冲突 - Reuters",
+      "title_cn": "中国外长呼吁通过对话解决中东冲突 - 路透中文网",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxNNVJGdUotaWhuOVFjZ2VTVHZ5bkxnbmVXd3BUS0JEenI2QkpMYXJSVUxpUGJrNHpaMkFtZ244cE93RWhCWExKTmJFdm5FbFZEck14aVdnaW0tdU5DdHY0UUk3TkpqbW5vb1RzMW85Z1VkZHFBSnlRMkRVUTlxRDgyR2Z1N3BBSkRsdzI2Mm9WQmxjaFpiOUpqR3k5WjRZUVVZaUtGWGVscXhlS01PZjBUTWRMNHpIU28?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:49:43.000Z",
+      "pub_sort_dt": "2026-11-02 17:49:43"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国实验室寄望于新材料，以缩小与中国在核领域的差距 - Yahoo",
-      "title_cn": "美国实验室寄望新材料，缩小与中国在核心领域的差距 - 雅虎",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxPSk1kZ19aLUlVZVU3Q1ZQOUZlM01CT2JyNkExNjhOeXlSTGdDa3hnUFlCd21YMUZLN1d3RGphd0dia0E2NG0yczN5QkJHRGkwa2lfS3hvQjFla1VXZDlXZ2VWY0k5RUhmN3NXekd5TGZvYVBqVWNrZlJobG94YlY0NV81SDFMWkhFaFpieTRtR0c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T18:00:00.000Z",
-      "pub_sort_dt": "2026-11-02 02:00:00"
+      "title_en": "中国与阿曼在苏丹“历史性”访华期间共同呼吁中东和平 - South China Morning Post",
+      "title_cn": "中国与阿曼在苏丹“历史性”访华期间共同呼吁中东和平 - 南华早报",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxPV1FQMWxURGJ3aDlMMjVWWTZMTVIzVlRQOUZMR3VGZEVTVDJsdE1HSjJHOWtfdG9YSVlqejFZNnl3aTlFQWdWb2MwOFplN3VfQUhVeS1WamZCdEZzbXp6UUZsVmZ3UW1INVZjMFhZNkZXd2lNVzZWOVQyekNwam54YmZkNXVfZmRreXcxa1ZJc0JETnBQZV8wUk5pZ0tld0ZISTNveFBuMnZDN1JtQkNzVTVNQm5fdTJVTkFPMU1jZFdlUE5objdN0gHHAUFVX3lxTE1YLV9jNkJxMGpkNEtiV2MyR2FhMzNDMFlYSjFmWDNMSFFtUmF6cTg4ZmVrZnlydExDVXI2RUVpd0ExUDJQQkFueDJHaHJIU2xVVHBfUE1oUVNPZTBZOC1hRmVaVDZnVzdYMnpORXZHUVVaMDRGTy1NdUFXdno1LWFiSmFWMXBWWmdLNkpqZGVubXdqeG5MNERtTkF2MU1ObFNiVVB1d0R1VVFmVTJqRzBBcjY4dVlWNTFIakpaWC1IWnZaaUxLMGs?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:20:42.000Z",
+      "pub_sort_dt": "2026-11-02 17:20:42"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国需求促使威斯尔豪瑟公司三艘原木运输船驶入太平洋 - Wood Central",
-      "title_cn": "中国需求推动威斯尔豪瑟公司三艘原木运输船驶入太平洋 - Wood Central",
-      "url": "https://news.google.com/read/CBMiakFVX3lxTFBmMFN4dTRHWnhvbGExQ3FBV21BeHFVSXVWUkdzcHh3YmJLb09yLXl6MXg4Wk9ZWFozcGpZRkMyZ1Y4UnhyNE5ZTWpSaGJMdHJxcHBYanVZMlQwT2JJb1lSc01vdXU4bUlvLWc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T15:57:12.000Z",
-      "pub_sort_dt": "2026-11-01 23:57:12"
+      "title_en": "中国Z世代在万圣节身着诡异的股市主题装扮 - Bloomberg",
+      "title_cn": "中国Z世代在万圣节身着诡异的股市主题装扮 - Bloomberg",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxNeHhCeUhxMUhkVGJaRWlKNGhzZDJDYUtxdVFsVU1LdWF4WDFZcWIySlJXTlNtQV92bXA4QURnSWV4Q3NoZDZVc21GTkZGRl9jaVhmNmpCQmVJZkRlSEdBMEc5MmpYWXBRRFY0bk1saTVhOTNtZU9kTU1UbW5XaVBKbzZKcm9Hby1lSVZ2NklGMlFPbzJGMzdsY0dXc09Na0pGMU85cWZDWWozV1AySVB6Q0x3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:20:27.000Z",
+      "pub_sort_dt": "2026-11-02 17:20:27"
     },
     {
       "source": "China Buzzing",
-      "title_en": "《苹果日报》前发行人加入中国内地针对改过自新罪犯的旅游团 - South China Morning Post",
-      "title_cn": "《苹果日报》前发行人加入中国内地针对改过自新罪犯的旅游团 - 南华早报",
-      "url": "https://news.google.com/read/CBMi1gFBVV95cUxPQWdzOUZvbUNPZUJ4ZXlfeFZpV05nN2RHbndKazdzSGFzQVdrWUtEcGlvWE1Td2FvTEItaVA1aWNDc293blRZNzc5S18zcG1US09RNVFocUlteHJRM2p4cXBnWXpVTzk0dzAwUjA1bmZEaUFQdTBrYUloSkt0Q3ZPcjZMN0c1RXVKdWhvNU5Bc3RpVS1FVnVvcEtSUG1yN1d2OHJJMzVnNE5FelBlUHZUZ01SWlQtaVZGa0YwTjZ6NzZCMGpEVDZFdFZFeWxWRnhKaUdvY2RR0gHWAUFVX3lxTE5hR0lGWXdWZzcydFZGbF85amhDNVhRTS1NLWtwVXpoenBQUXhqbV90d3JFMU83X1hwcDE5M1Y1dVFVNGtVY3h0YmRnSmVrSm9IUXIxZ2FSbHBoYlRUQ3RmSnpTTE9yeWlZbkw3RGJNVEVoR1oyM1U0NTNPSUQtYmI0ZXhFM2k3bWFnbFY1TnZsdGhpblIxZ2dXWFBpNTIwdE1aM0NrVlpzMUVibVMwWnhJY0hhbzRfS2xLTHRGeTRFLVdNejZ6NzQ4YTdsYjJYZGJVdUc5Rmc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T15:33:56.000Z",
-      "pub_sort_dt": "2026-11-01 23:33:56"
+      "title_en": "中国央行动用流动性工具为股票购买提供资金 - Reuters",
+      "title_cn": "中国央行用流动性工具为股票购买提供资金 - 路透中文网",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxPbUowSGs1Q0hadWZXNFhieVFtSERoVm1uZHBNaDZYeVFoS2FXaVIxMVhnckRuMVY0NkJPQTNXZFdNeUtJQ2hYREZGZDM3UnhzcUE5bkJSMXhDTXpYRUltclJka2pJZS0yNGY0TGg2dDBkbTh3MnhQTjZxM0pKaWViT21HNmE0ajlHS0xGLVdkZmxMOHhzUndVU1Z4YXVPZElpZkJuQTRZSlZPcV9zRmJfQnRVWjRadw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:15:43.000Z",
+      "pub_sort_dt": "2026-11-02 17:15:43"
     },
     {
       "source": "China Buzzing",
-      "title_en": "共产党承诺进一步深入中国科技和平台行业 - South China Morning Post",
-      "title_cn": "承诺共同进一步深入研究中国科技和平台行业 - 南华早报",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxOM2JQODJReEQtVnBlRHV3SUFBZFZraXNWUVRhWEM2WmhKVTBhUWhGTW5tcXJONlBnNDA1UzlqOHNTNk9BNExlWXh5UFJGUnpjaEdjdTcwQV9ueWk5cGhwTHdITjhqNXU2YVo1bWdIQjhmcHlvbElZSUZPRFl4Um1CbWIyM1RuUzlKeUMzdEROMkRwa3pkSWZqMmhlb0VnVzVycERjZ2NBVHNDMEpmQ3RuTzVFUFhvR05oS0pXN1hTNXZBYmEyRTZjV1930gHKAUFVX3lxTE9rUmVNSkdPY0pwWkw5UTRhTXRCLXFXZC1FZ2puZ0FuRWNXQm8xUUhEODdoMjl4UGFRdWk2andtQW1zaGVxS29QZWxlRENyRVFPSnpJMEVKeXEwZ2lTcXhiZjBXZEJ4Tk9XaGJkTlphMDlZUmoxemFyNlRVZzh1WnZDeHpKYXVvRUhKb09FYkx6blljTzRrQURRTk9mVE5McWdNeXc2QWlfMkJjVDRUNjFJTllZeWdSczBPQjNsOGtyVENuSDJXN3phT3c?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T15:00:10.000Z",
-      "pub_sort_dt": "2026-11-01 23:00:10"
+      "title_en": "突发 北京调整资产互换安排，以在股市暴跌后支撑中国股市 - South China Morning Post",
+      "title_cn": "突发北京调整资产互换安排，以在股市暴跌后支撑中国股市 - 南华早报",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxNQ1RrbE5DT25fLTlSNEdyTTQ2ZkYyWlVqS2JVWnF3X1JPLU9xOXpNekQ2WHhaSDFxRlkzQ21BUE0xSXFQeU5zRXZBdjJtdUFmMVhXdlM4eEIwbml0U2dCbnlZVE9NSno5VjBhazZXY1F4U1lYR3o0dTlHMThLY0VRTDl3YjRCRU5qZExyajlTSDU5M3o4ZVJMdXppajM2bWhObzdhbW1ldUQwWWdadTBzQk9vcklDQ1kxVTJJd0lB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:15:28.000Z",
+      "pub_sort_dt": "2026-11-02 17:15:28"
     },
     {
       "source": "China Buzzing",
-      "title_en": "阿曼苏丹开启历史性访华之旅，这是48年来首次 - Anadolu Ajansı",
-      "title_cn": "阿曼苏丹开启历史性访华之旅，这是48年来首次 - Anadolu Ajansı",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxPbmlQRFJ0U0lyeDN6cVhCeDUtbGZiOVhwTFhqQkxpb1ZjSG1jWWhVVWxxcnhhZENfM1Nub0FxdEJlUVd5b29SYWU3Z1RnY1g5N3BGOTRkVmlBZ3hHTURXTE5ERW9lUDduRmJuMmJZS0dZQUpRYzY0X3htY29yaXN1ZjJPbW5Vc1ZGSUtvRDVmUFpMS3NYY285S0ppTVI4cjlZeTdINw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T14:17:44.000Z",
-      "pub_sort_dt": "2026-11-01 22:17:44"
+      "title_en": "中国自给自足的局限性 - Foreign Affairs",
+      "title_cn": "中国自给自足的局限性 - 外交事务",
+      "url": "https://news.google.com/read/CBMidkFVX3lxTE85XzlQQmVZXzhsY2Uyd0ktc3RnX1Zadm1oZ1dhS2RrQlFWaFFyY2NWbUJOVlNJYWRWaW40d2NtMmpBeXFtLUs3aEJFdDNEZHRQekY1aU9Oa05BcWRKdEozb2NuSk11dEpYckpUTGhUVEZmQUxOZmc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T09:00:00.000Z",
+      "pub_sort_dt": "2026-11-02 17:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中期选举失利能否让特朗普收敛？中国专家表示，在外交政策上不会 - South China Morning Post",
-      "title_cn": "选举一次失利能否让特朗普回归？中国专家表示，在双重政策上不会 - 南华早报",
-      "url": "https://news.google.com/read/CBMi8gFBVV95cUxNTFFuYUs0WkRBR21ucU55QkJBM0NudDZfU3FPSFNzN1pVdlJCaGtPdHhOWGI3b1hCb09fQlVxTkV1TXc0YUlydEFBVGNrNHJVSXIwaHdieEctemp4MUJqYktnVXNKUHVHa0lQc09CNWhDNE41Wkx2NEdhNWlod2NZSS1mYzdmZW1iSVRCMG0zdUtYbnhYeDh6aldMMVBTUm1IVFVUeEprZGNqWEx5T0xtQllzWm9JZGdoOW5DNFZGaFdrc29vaUNlTEVwQklCbV9ROXZQQ2I5R3VxUExGZWZpQ1NQTFNMeUFXNXBNWl9nX0h3UdIBxwFBVV95cUxOS0VCZXNTUFptU01tSWhlTThBMFAtYnJCSTYzQ09yR0I1dWUyVXpVemRobWFxSF8yUUROOWhZLXlkVjRFTFRWLVBDREphN3RscTJaWWtKNGc4TGdIaHNRQ3BzTWk2NnRzMWxEQWx1LXZJMFhlZkNDWmRjTHpxU1VjSHpNRHloWTQ0blhoTDlwaHBfaWRKOFVZWk1FUC1BRTRfTThmbVFyQ1hCYjVicDBvTXoyZ2pJdW41bnBIcXIycnZIWFFnd3RF?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T14:00:11.000Z",
-      "pub_sort_dt": "2026-11-01 22:00:11"
+      "title_en": "中国对美国农产品的采购步伐放缓，考验着170亿美元的贸易承诺 - WTVB",
+      "title_cn": "中国对美国农产品的采购启动，履行170亿美元的贸易承诺 - WTVB",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxPUXg0OUg3T2dfU09Ha21SQ2VhVWtueGM3NVBKTEp1TmJ1VVJsY1NXRkVtN1lnaXFnRGhXdjd3Ym1haWltMGducU9kX2dKcUVxZ05zY3ZOZ0Fyd0paekM2a245a1VpYm9wdVV1ejN0QW5Od09PTXB0LTJHSU04UTRRb2Y5bURETFJaOGk0amhnUjZ1ZXFvS0Q4N3dRbG4?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T08:29:35.000Z",
+      "pub_sort_dt": "2026-11-02 16:29:35"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国国家主席习近平表示，严格的党内治理具有积极作用，不会扼杀经济增长 - South China Morning Post",
-      "title_cn": "中国国家主席习近平表示，严格的党内治理具有积极作用，不会扼杀经济增长 - 南华早报",
-      "url": "https://news.google.com/read/CBMi1AFBVV95cUxPNjlpMGFiMGs4WDdPM3ZmYnpGQTJXcDlvYzBEbk5peDZHNkRUNmk0d3lRTUtnLXl5eVRRaFRYd0tjMmVoRHdLbHdfREJhSlM0Mk14QW05MEZqaEdzWHNxQjdtV0VzVl9lbXYxVmt4cXNDbm1TckU4czB5RW1VMmtvLXVsXzVJZzVVTXREMGRrZW44TzRDRTFhdnVkM1h2YkY4MFZLNXlpTjN4N2k5UHFLME9LcXl4SmhOWWRmZEs0T1Zidld0OThVWEEwOS11M2xoMF9PYtIB1AFBVV95cUxNcnhDNG1tSUVwQ212cC1wMVJob2NwbC01NUlBLUptMk1GM3dtZUhucExqandPM2lha2RZNDBEYU5oWGgzbEI5T0k1NDhBczUzRDNwd2wtOFVqWmVFbUhRcjdiSzdPMTdWQTcyVTRFTXFiTXAzRXpHa3ZXUkNOUExweVJOOGZoNHhzd1ZGUmJLV3c0Q3pOZjJ6OTM5R2xfdDh1R3NkR3psdW9uSVV4b1dsM0dGWUZEWmJmamplSFFtbWRHX21xc3BRZ0E1TXJvV2pjbncyMA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T13:47:24.000Z",
-      "pub_sort_dt": "2026-11-01 21:47:24"
+      "title_en": "中国天穹公司将以3290万美元收购Easy-Logic，以弥补数字EDA领域的短板 - Dealroom",
+      "title_cn": "中国天穹公司将以3290万美元收购Easy-Logic，以弥补数字EDA领域的短板 - Dealroom",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxPTS1yaDN2eFdlQXhpeEQwalpiS21waEE0d2VpWkdEdjJhZmpKZ3U1STNyUjBneS1MSE83Yzg0dUFmdXkyZ2R4a09jbDVEX0NXRUhTaVltNFVDWEg3TXlIb01pWlpSU0ZjWmEyc3dWU0oxTExHNlBLclYyZ2tEMjl3Qkg3dl9qX2dDeUF0ZDNfN3JtZzh1WC1Ib2ZGUjBGWVEtUmJRNzln?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T08:22:15.000Z",
+      "pub_sort_dt": "2026-11-02 16:22:15"
     },
     {
       "source": "China Buzzing",
-      "title_en": "台湾指责中国在船只对峙后实施骚扰 - Politico",
-      "title_cn": "台湾公主在船只对峙后实施骚扰 - Politico",
-      "url": "https://news.google.com/read/CBMigwFBVV95cUxPLWl6Yi00bDFaUUJsWkpTdHlRT0h3eE9aUTJrcW9DT1ZvQ2YtQjZ2MlliR1l2WGZ6VHdIUE41X1Y0Z0Q5UUNqRVpKTnZMc3VvdjduNWRLY3RjRHZRUkhwcnB3Ny1QN3NFMURxNlVTZ3J6Zl9JN3piUC1CeFdMcE05WmFrbw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-01T13:27:00.000Z",
-      "pub_sort_dt": "2026-11-01 21:27:00"
+      "title_en": "加尔塞斯水果公司（Garces Fruit）的优质樱桃携2026/27产季全新品牌形象登陆中国市场 - Fruitnet",
+      "title_cn": "加尔塞斯水果公司（Garces Fruit）的优质樱桃携2026/27产季全新品牌形象登陆中国市场 - Fruitnet",
+      "url": "https://news.google.com/read/CBMi1AFBVV95cUxPcERNT2xHYXNaMFJybnEyR1o0RXVoMzQyakhETHNRa3VYckV2WlFrQ191Q3RxSmVBVTY1eENQNGZrMFJJekFieV9oelVRdmlHZkJzaFY1cmtJTllxR2UtWnNickNqZkViYVVmaEhWTTBGTzNxLWxTaFpodC00XzZBZmhnMkFSYU1WY3NZcHh1NjFfcE10cGhHbUwxSjBOYjZ5ZnhrVFVtazU2YXJER3h3cmREbWJ1dktycldHZTN2OFhtSmlabFU1QkdhX1VCU1BobXJqcQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-02T08:09:55.000Z",
+      "pub_sort_dt": "2026-11-02 16:09:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "丰田暗示将推出电动卡罗拉，以推动中国市场扭亏为盈",
+      "title_cn": "丰田暗示将推出电动卡罗拉，以推动中国市场扭亏为盈",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/toyota-hints-at-electric-corolla-to-usher-in-china-turnaround",
+      "pub_raw": "2026-11-02T09:22:59.360Z",
+      "pub_sort_dt": "2026-11-02 17:22:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受刺激政策预期提振，中国股市抛售潮告一段落",
+      "title_cn": "受刺激政策预期提振，中国股市抛售潮告一段落",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
+      "pub_raw": "2026-11-02T09:07:02.727Z",
+      "pub_sort_dt": "2026-11-02 17:07:02"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "美国曾一度主宰世界海洋。中国的习近平正在改变这一局面。",
+      "title_cn": "美国曾一度主宰世界海洋。中国的习近平正在改变这一现状。",
+      "url": "https://on.wsj.com/4jT9TPK",
+      "pub_raw": "2026-11-02T09:07:02.701Z",
+      "pub_sort_dt": "2026-11-02 17:07:02"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国对美国农产品的采购步伐放缓，考验着170亿美元的贸易承诺",
+      "title_cn": "中国对美国农产品的采购启动，履行170亿美元的贸易承诺",
+      "url": "https://reut.rs/4jNXYmf",
+      "pub_raw": "2026-11-02T08:35:57.052Z",
+      "pub_sort_dt": "2026-11-02 16:35:57"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "面对中国的压力，台湾表示必须掌握自己的海洋信息",
+      "title_cn": "中国的压力，台湾表示必须掌握自己的海洋面对信息",
+      "url": "https://reut.rs/4yVYl1Q",
+      "pub_raw": "2026-11-02T08:03:49.709Z",
+      "pub_sort_dt": "2026-11-02 16:03:49"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "在“中国好莱坞”，随着消费者在体验上的花费增加，游客们也成了明星",
+      "title_cn": "在“中国好莱坞”，随着消费者在体验上的花费增加，游客也成为明星",
+      "url": "https://reut.rs/4zsAdFo",
+      "pub_raw": "2026-11-02T07:48:57.546Z",
+      "pub_sort_dt": "2026-11-02 15:48:57"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国化学品出口激增，可能引发新的贸易战前线",
+      "title_cn": "中国化学品出口激增，可能引发新的贸易战前线",
+      "url": "https://www.ft.com/content/2962ad57-cee1-4a63-82ba-17acfc09d812?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-02T07:48:57.478Z",
+      "pub_sort_dt": "2026-11-02 15:48:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着汇率走低，台湾放宽了对出口商出售美元的限制",
+      "title_cn": "随着汇率限制走低，台湾放宽了对出口商出售美元的",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/taiwan-said-to-ease-exporter-fx-rule-after-record-stocks-exodus",
+      "pub_raw": "2026-11-02T07:16:48.140Z",
+      "pub_sort_dt": "2026-11-02 15:16:48"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "皇马比赛被撤下，中国观众仍无法观看“姆巴佩”的比赛",
+      "title_cn": "皇马比赛被取消下，中国观众仍无法观看“姆巴佩”的比赛",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-s-mbappe-blackout-continues-as-real-madrid-games-dropped",
+      "pub_raw": "2026-11-02T05:56:57.111Z",
+      "pub_sort_dt": "2026-11-02 13:56:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港芯片公司IPO借助相互交织的投资者网络及高管人脉",
+      "title_cn": "香港芯片公司IPO借助相互汇聚的投资者网络及高管脉",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/hong-kong-chip-ipos-tap-intertwined-investors-boss-s-networks",
+      "pub_raw": "2026-11-02T05:41:00.921Z",
+      "pub_sort_dt": "2026-11-02 13:41:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国钢铁集团批评各钢厂无视限产要求",
+      "title_cn": "中国钢铁集团批评各钢厂无视限产要求",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/chinese-steel-group-chides-mills-for-ignoring-output-curb-calls",
+      "pub_raw": "2026-11-02T04:20:46.398Z",
+      "pub_sort_dt": "2026-11-02 12:20:46"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "普里马维拉公司的胡表示，中国应采取“更大胆的行动”",
+      "title_cn": "普里马维拉公司的胡表示，中国应采取“更大胆的行动”",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-should-take-much-bolder-actions-says-primavera-s-hu",
+      "pub_raw": "2026-11-02T03:17:48.910Z",
+      "pub_sort_dt": "2026-11-02 11:17:48"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "受燃油成本拖累，中国三大航空公司全年将出现亏损",
+      "title_cn": "受消费成本拖累，中国三大商场将出现亏损",
+      "url": "https://reut.rs/4sCQAfF",
+      "pub_raw": "2026-11-02T03:17:48.877Z",
+      "pub_sort_dt": "2026-11-02 11:17:48"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受AI股灾影响，外国投资者从台湾股市撤资创下历史新高",
+      "title_cn": "受AI股灾影响，投资者从台湾股市撤回外国资历史新高",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/foreigners-make-record-withdrawal-from-taiwan-stocks-on-ai-rout",
+      "pub_raw": "2026-11-02T03:02:06.611Z",
+      "pub_sort_dt": "2026-11-02 11:02:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "随着出口订单放缓，中国制造业活动趋于降温",
+      "title_cn": "随着出口订单的指示，中国制造业活动趋于遵照",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-factory-activity-expands-but-ends-streak-of-faster-growth",
+      "pub_raw": "2026-11-02T02:46:16.501Z",
+      "pub_sort_dt": "2026-11-02 10:46:16"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国5000吨级挖掘机对印度构成贸易战风险",
+      "title_cn": "中国5000吨级挖掘机对印度构成贸易战风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-s-5-000-ton-digging-machines-are-a-trade-war-risk-to-india",
+      "pub_raw": "2026-11-02T02:13:39.710Z",
+      "pub_sort_dt": "2026-11-02 10:13:39"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国人民银行开展隔夜逆回购，政策锚点发生转变",
+      "title_cn": "中国人民银行开展隔夜逆回购，政策关键点发生转变",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/pboc-conducts-overnight-reverse-repo-as-policy-anchor-shifts",
+      "pub_raw": "2026-11-02T01:57:43.126Z",
+      "pub_sort_dt": "2026-11-02 09:57:43"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国机器人制造商已经掌握了动作要领。现在，竞争的重心转向了“大脑”",
+      "title_cn": "中国机器人制造商已经掌握了动作要领。现在，竞争性的重心转向了“大脑”",
+      "url": "https://reut.rs/4yUoYEu",
+      "pub_raw": "2026-11-02T01:25:55.066Z",
+      "pub_sort_dt": "2026-11-02 09:25:55"
     },
     {
       "source": "The Economist",
@@ -345,154 +489,10 @@
     {
       "source": "Reuters",
       "title_en": "中国比亚迪凭借强劲的出口表现延续了销量增长势头",
-      "title_cn": "中国比亚迪凭借强劲的出口表现延续了销量增长势头",
+      "title_cn": "中国比亚迪凭借强劲的出口表现推动了市场增长动力",
       "url": "https://reut.rs/4e7MNRJ",
       "pub_raw": "2026-11-01T12:27:22.572Z",
       "pub_sort_dt": "2026-11-01 20:27:22"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾称中国在东海岸巡逻，骚扰船只",
-      "title_cn": "台湾称中国在东海岸巡逻、骚扰船只",
-      "url": "https://reut.rs/47XtG9s",
-      "pub_raw": "2026-11-01T02:11:01.393Z",
-      "pub_sort_dt": "2026-11-01 10:11:01"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "一家由丰田支持的卡车制造商押注售后服务中心，以抵御中国电动汽车竞争对手的挑战",
-      "title_cn": "一家由丰田支持的卡车制造商押注售后服务中心，以抵御中国电动汽车竞争对手的挑战",
-      "url": "https://www.ft.com/content/7e749777-dcee-4c11-9bdc-7f81bee80455?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-01T01:22:49.579Z",
-      "pub_sort_dt": "2026-11-01 09:22:49"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据中央电视台报道，中国海警在台湾以东海域开展巡逻",
-      "title_cn": "据中央电视台报道，中国海警在台湾以东海域开展巡逻",
-      "url": "https://reut.rs/4jMq2X6",
-      "pub_raw": "2026-10-31T17:26:48.907Z",
-      "pub_sort_dt": "2026-11-01 01:26:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据《The Information》报道，Meta与中国初创公司傅里叶合作开发类人机器人",
-      "title_cn": "据《The Information》报道，Meta与中国四分之一公司傅里叶合作开发类人机器人",
-      "url": "https://reut.rs/4BIqmge",
-      "pub_raw": "2026-10-31T16:54:39.619Z",
-      "pub_sort_dt": "2026-11-01 00:54:39"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国反腐机构调查中国石化前董事长傅成玉",
-      "title_cn": "中国反腐机构调查中国石化前董事长傅成玉",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-31/china-graft-agency-probes-former-sinopec-chairman-fu-chengyu",
-      "pub_raw": "2026-10-31T10:19:48.705Z",
-      "pub_sort_dt": "2026-10-31 18:19:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国愿增加从德国进口商品，李总理表示",
-      "title_cn": "李总理表示中国愿意增加从德国进口商品",
-      "url": "https://reut.rs/4iPkHgD",
-      "pub_raw": "2026-10-31T04:46:03.431Z",
-      "pub_sort_dt": "2026-10-31 12:46:03"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国取消关键利率保密规定，将其设定在原基准水平之下",
-      "title_cn": "中国取消关键利率保密规定，将其设定在原基准水平以下",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/pboc-reveals-overnight-rate-at-1-25-before-policy-anchor-shift",
-      "pub_raw": "2026-10-31T04:13:43.834Z",
-      "pub_sort_dt": "2026-10-31 12:13:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着经济增长放缓，中国制造业活动逐渐陷入萎缩",
-      "title_cn": "随着经济增长预期，中国制造业活动逐渐萎缩",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-31/china-factory-activity-manufacturing-purchasing-managers-index-services",
-      "pub_raw": "2026-10-31T02:37:49.729Z",
-      "pub_sort_dt": "2026-10-31 10:37:49"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "无印良品将中国市场的成功经验推广至全球",
-      "title_cn": "无印良品将中国市场的成功经验推广至全球",
-      "url": "https://www.ft.com/content/e0484ec6-f370-476f-8763-309f3d746ba9?syn-25a6b1a6=1",
-      "pub_raw": "2026-10-31T01:18:42.927Z",
-      "pub_sort_dt": "2026-10-31 09:18:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "香港餐厅点评：YuSang 为韩式家常菜注入时尚气息",
-      "title_cn": "香港餐厅点评：YuSang 为韩式家常菜注入时尚氛围",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-31/hong-kong-restaurant-review-yusang-brings-style-to-korean-comfort-food",
-      "pub_raw": "2026-10-31T00:15:53.549Z",
-      "pub_sort_dt": "2026-10-31 08:15:53"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "中国大量收集可能有助于其部队在台湾周边海域行动的数据",
-      "title_cn": "中国大量收集可能有助于其部队在台湾周边地区行动的数据",
-      "url": "https://on.wsj.com/4zYZ0QZ",
-      "pub_raw": "2026-10-31T00:15:53.344Z",
-      "pub_sort_dt": "2026-10-31 08:15:53"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "一家香港电信公司迫于压力，同意暂停在美国的业务",
-      "title_cn": "一家香港电信公司因压力而同意暂停在美国的业务",
-      "url": "https://reut.rs/3WjfLIb",
-      "pub_raw": "2026-10-30T18:41:59.358Z",
-      "pub_sort_dt": "2026-10-31 02:41:59"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国称隐形攻击无人机首次在两栖舰上起降",
-      "title_cn": "中国称隐形攻击无人机首次在两栖舰上起降",
-      "url": "https://reut.rs/4BSxFlB",
-      "pub_raw": "2026-10-30T16:33:41.587Z",
-      "pub_sort_dt": "2026-10-31 00:33:41"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国反对美国联邦通信委员会（FCC）禁止在中国实验室进行测试的决定，并誓言若美方执意推进，将采取反制措施",
-      "title_cn": "中国反对美国联邦通信委员会（FCC）禁止在中国实验室进行测试的决定，并誓言若美方执意推进，将采取反制措施",
-      "url": "https://reut.rs/4sRpl1n",
-      "pub_raw": "2026-10-30T15:14:50.289Z",
-      "pub_sort_dt": "2026-10-30 23:14:50"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "芬兰警方逮捕九人，他们涉嫌贩运中国工人",
-      "title_cn": "芬兰警方逮捕九人，他们涉嫌贩运中国工人",
-      "url": "https://reut.rs/4iO0qIj",
-      "pub_raw": "2026-10-30T13:38:46.916Z",
-      "pub_sort_dt": "2026-10-30 21:38:46"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国家主席习近平呼吁欧盟与中国合作，并表示北京方面以真诚和善意处理双边关系",
-      "title_cn": "中国国家主席习近平呼吁欧盟与中国合作，并表示北京方面以真诚和善意处理双边关系",
-      "url": "https://reut.rs/4stKTAF",
-      "pub_raw": "2026-10-30T12:35:09.942Z",
-      "pub_sort_dt": "2026-10-30 20:35:09"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "香港火灾揭露了建筑翻新行业中根深蒂固的黑社会网络",
-      "title_cn": "香港火灾暴露了建筑再生行业中根深蒂固的黑社会网络",
-      "url": "https://reut.rs/4eAlZcY",
-      "pub_raw": "2026-10-30T12:02:58.902Z",
-      "pub_sort_dt": "2026-10-30 20:02:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国内存龙头CXMT销售额激增，但增长放缓",
-      "title_cn": "中国内存龙头CXMT销售额激增，但增长增长",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-chip-leader-cxmt-s-sales-rise-sevenfold-yet-growth-slows",
-      "pub_raw": "2026-10-30T11:31:16.168Z",
-      "pub_sort_dt": "2026-10-30 19:31:16"
     }
   ]
 }
