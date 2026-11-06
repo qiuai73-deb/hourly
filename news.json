@@ -1,99 +1,179 @@
 {
-  "update_cst": "2026-11-06 18:01:10 北京时间",
+  "update_cst": "2026-11-07 06:01:14 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 2,
-    "Bloomberg": 11,
-    "Financial Times": 2,
+    "The Economist": 0,
+    "Bloomberg": 12,
+    "Financial Times": 0,
     "Wall Street Journal": 0,
-    "Reuters": 5
+    "Reuters": 8
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "2026年中国五大知名酒柜制造商：推动葡萄酒储存技术发展 - Detroit Free Press",
-      "title_cn": "2026年中国五大酒柜制造商：推动葡萄酒储存技术发展 - 底特律自由报",
-      "url": "https://news.google.com/read/CBMi1gFBVV95cUxOZ042ZVFxZG41YndHRGlDLTBCV2hqYVc3RlhtbHBQWjV3TVNrLUJRMk5aRUdyTldWMjNvYlAySDk4dWl0ak1jUE1pQ1ZUVm92Zi1pckd1aVNDRkp0X21CWi1uNzc1V2xVQzFrMHdFS1RtU0ROeE5FTVBlX3BfZ0tpZ1c3ZnJaWjhfOHdOblltS3FVa19EOGE3eTBiY0U0T292dklDVHo1WWhncVVnYzNFcGJmSC1nWnRrRk05M3VjMXZyRkhBSlpobzhjaWdIS1F1SDhFazdB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T08:41:07.000Z",
-      "pub_sort_dt": "2026-11-06 16:41:07"
+      "title_en": "加拿大油菜籽行业组织欢迎与中国达成的协议 - World Grain",
+      "title_cn": "加拿大油菜籽行业组织欢迎与中国达成的协议 - World Grain",
+      "url": "https://news.google.com/read/CBMikwFBVV95cUxQZ3o1M3JBQUNYZ2tzRTFscG9jd3NUWnVvbmpZMkJQUFByeTR5T2Q1WmlaVWRaYVFyUmgzQlVKQ0ozQWZLNmEtcGxHSjdyWWt1bVVQUjJteTdPTkU5ZnBKRlRqSWhMYk5OTFdGUmtZcXA2bnJpODgxOUR4TDJaY0lPdV9kUHFvMVJjM21JTjNsUjFCRTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T16:06:35.000Z",
+      "pub_sort_dt": "2026-11-07 00:06:35"
     },
     {
       "source": "China Buzzing",
-      "title_en": "腾讯的“WorkBuddy”可能将韩国用户的AI提示词传输至中国 - THE ELEC, Korea Electronics Industry Media",
-      "title_cn": "腾讯的“WorkBuddy”或将韩国用户的AI提示词传输至中国 - THE ELEC，韩国电子产业媒体",
-      "url": "https://news.google.com/read/CBMiZ0FVX3lxTFB4MjFZRW44ZEVrTF9vMUI1TXRMZVRSZ3hjS2NXdjJCaVpDMzAtU3BlRHZqVDdWLXFLbktOYmxQT0NGc3M4TnNLeHRQdHJGZ2VlWkRZcXk4UEd5Z19vV3VLTVRxcHNQSk0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T08:03:28.000Z",
-      "pub_sort_dt": "2026-11-06 16:03:28"
+      "title_en": "中国OneX在生命科学AI领域完成数千万人民币A轮融资 - Dealroom",
+      "title_cn": "中国OneX在生命科学AI领域完成数千万人民币A轮融资 - Dealroom",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxQVXk5U0R2WGNqUjdzMlo0bFM4bk9oM3Z1N1RVNlZDRFE4YmpObzloenVISHJyM1hpUERqMGtVZXpIUUVIM2k4UTR1QmhPXzhVNGNDOTdKSWRjVW1VeDNsVFVRaXlOVEQtakxuODM4UFNRQ1ZaUGFvTVFodzRhUFlST3ZPWGJuRlhvX19OR1U0UzVXb1dlNXpFUEUyMGhrcXdRTkJiM0dQMUh1SXBhRGdN?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T15:53:54.000Z",
+      "pub_sort_dt": "2026-11-06 23:53:54"
     },
     {
       "source": "China Buzzing",
-      "title_en": "霍尔木兹海峡：伊朗官员称中国船只可自由通行 - South China Morning Post",
-      "title_cn": "霍尔木兹海峡：伊朗财政部称中国船只可自由通行 - 南华早报",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxQV0lwT0ZGeVZweFlDNk5kZEcyZWg5ZmJEby1wYzl2bkVXc1hTcWpGZEdBVlhMLW4wYmdNanpxVzNMeGNxaW9QVHNUUS1DbnBadlFKYklhVjhjT2h6U2NCY3BwaEV2aUpocmtBV1NDR2tYSTNEU3BONWlSYkVZMExjSUVBRjRPTkhfOG9HLThtQjJiS0x3cGJjSU9jXzhaVGRfMWIwRjhubzhMd0tO0gGsAUFVX3lxTE1FVVV2dGFOOUlZTjdZNDl4cVc1Y0xhYldrZF85cEhqclZ4dEdoNWVpYlFmSkpST0piWlQwSGh1OVZYcHV1Rm1lNUNtMmdSNkRBVUZGQnAxcGRGOG5IT3owMmtKNzR1Z21zREJIUHVDbUdjZFhwZU5IaEo0WmZDckQ3UkFxX1VJNXRPWDVTVEUyOWdhUkpxOW9FOXVCdDEzRWpzZXV2Uy1EWldhVWs?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T07:53:07.000Z",
-      "pub_sort_dt": "2026-11-06 15:53:07"
+      "title_en": "《Access Asia》——中国密切关注美国中期选举带来的格局变动 - France 24",
+      "title_cn": "《Access Asia》——中国密切关注美国股市波动的幅度波动-法国24",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxPZG10OUt6TmZZdXRuVzhFN1JWQTlIY1JvejdLc3M2SUVCR3dja2dYd1l6OUxDbFFwVUJsdUJ5WVhhbVpURjdMS3ZGMHhTeFVtTWFpU1lxYlExa0hJcVAtYzhpc3EwYkhKUWtKX19IZmdrQXk4bFVLMzl6a3VvaVpKSjN5WGpYYnRLV1A0Y3dkQ194VEtvTlRabEtzVkpTTXJXcmRHYUp3Zw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T15:03:23.000Z",
+      "pub_sort_dt": "2026-11-06 23:03:23"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国叫停与软银-ABB的第二笔重大人工智能交易——ABB行使否决权 - MLex",
-      "title_cn": "中国叫停与软银-ABB的第二笔重大人工智能交易——ABB行使否决权 - MLex",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxONGc4OFNMMVJ1MWY5STdORFJDQ0g1Zks1UmZhOHEwZ0JTb3R6RjZsYVRRQ1FvNGVmb3dvTEpNSFZNZ25laS1OOWVrZ3RWeGllUk8tbzVkLUxweWFQcU5jZU5wTW5lR0twRE1XYlRYTE1lMjhFTktkQjY2b0owbm5FcmxZNFNTLU9INmwzYk9fMVVPdkpROEpRQXpfYUIxXzJTSVRZbUVCQVpUaFFU0gFaQVVfeXFMT2lXdVltaHZSaUJ3bG1iRjZvczZPcjk1WTljMjl2dUJOUWJJUjRYdEdyNW1HeFpMckkyLVotSERSalBuU3hUOVpxOFBEa1ZTaHpQSE82QnNXOUFn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T07:50:24.000Z",
-      "pub_sort_dt": "2026-11-06 15:50:24"
+      "title_en": "姆巴佩的“毛”风波：中国情感主导力的扩张 - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "title_cn": "姆巴佩的“毛”风波：中国情感主导力的拓展 - 外交家 – 亚太时事杂志",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxOQl9Gcm9PdHJLNkwtRzRyZGhHa1N3UldkeXJtRXQxNG9RbEk4ZjhhQmh2d3QzN3U1bmszLWJnVDV1OHY0Wnl1eXQ1UndEMGxMaXZxbklJWUhmVzB1d214U0w3dE40WVJKc0xDWEFEdGpuTERpdDdjVmpSelhTUlAtU0dOVVktNS10Y1NyX2k5WDlDdlE5MFRTcnExcHg5dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:57:49.000Z",
+      "pub_sort_dt": "2026-11-06 22:57:49"
     },
     {
       "source": "China Buzzing",
-      "title_en": "下周亚洲经济展望：菲律宾GDP及中国、台湾和日本的关键数据 - ing think",
-      "title_cn": "下周亚洲经济展望：菲律宾GDP及中国、台湾和日本的关键数据 - ing think",
-      "url": "https://news.google.com/read/CBMiZEFVX3lxTE5oMzI4SFlaM1pTbjVmeU9pdFVDb3R0TjhROFhhc2hFVWNQLV9fOU1IWGRXOFo2MUhCQzAtZHNGc2R3eXlxdGFoRUVhTjI4ZlJOUnY0b0dwYXF1SXNiLVNwM1NYWGo?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T07:29:25.000Z",
-      "pub_sort_dt": "2026-11-06 15:29:25"
+      "title_en": "中国对稀土的巨大需求可能会让其他国家面临短缺 - InvestorNews",
+      "title_cn": "中国对稀土的巨大需求可能会让其他国家面临挑战 - 投资者新闻",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxPVC1yaWdaQjlmLTdrWmIxWUxoWTZHV3I5eUJqcTU3OXpobEFBaW43VHhCSWhQNTVSWDhXOXNtNFdJVnpqNURCTmEwMzg2NkdKTm56SEo4OGNMcVNkcWFoeHpkT0dNcjFXelVvckFuRERKX0E1UTltekg2ejdxMXo4ZzZRX1Znb29BZTlnck54V1BzeC1uWnlCZ05FQlItUmltU2hIN3FuY3VObldQU1YwS0pKM2RSZDA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:53:57.000Z",
+      "pub_sort_dt": "2026-11-06 22:53:57"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国创下空间站内最低温度的世界纪录 - China Daily Global Edition",
-      "title_cn": "中国创下空间站内最低温度的世界纪录 - China Daily Global Edition",
-      "url": "https://news.google.com/read/CBMiggFBVV95cUxOdFNXaGhXWVNVU3loVUlNakp1VFlyMGt6TldwRVFERTFuSGVvcVcwMExxVlN6dlpNMHRiZmVOMWtFRlJMWVBZTmxDOGlKNEdnLUVNMzBGeUtJdWVoT2hQMXhSeUNfUkZIbDBYM05VeVBnSnZjdEtJaTdQZ2VhOGRsRm9n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T07:05:54.000Z",
-      "pub_sort_dt": "2026-11-06 15:05:54"
+      "title_en": "香港的囚犯是中國向世界發出的信號：在其領土上，民主已無希望 - The Guardian",
+      "title_cn": "香港的纪念碑是中国向世界发出的信号：在其境内，民主已无 - The Guardian",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxOc0N2XzdsRkRhOEZmaWhNeFdOOU5xTWNjOW9RWjhNdkY2bWE4ZkFBbk5JY1YtTTNmWGxieEl1Rl8zYVhIcHNYeVhqekd4THdHWDJYTVllY0RxMWp6RTJhVWhPNFh2X1doSmVYWjQxTy1LX0RGX0owYWY2Qnk2Q3pZd2RxbndPQi04ZkYyVnNWNmExaTU0OWFoclJTRmtJaUFZbkJLSFl6NVl0Qk56?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:53:00.000Z",
+      "pub_sort_dt": "2026-11-06 22:53:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国四川省就反垄断风险向网约车协会发出警告 - MLex",
-      "title_cn": "中国四川省就反垄断风险向网约车协会发出警告 - MLex",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxObXVDTEdCTUs3UkQyOEtCUGVoeDZLakJmeTU1Tk14dGMyNTlsRDZ0QzZNc1g2ZVo1TzUwZzJON2hqUGlNQ3p4WS1DUXRQWWRuNnR5RGpGdVdncDdQV3RZeXlTN2s1MDR5OFRGMkNjVkt3ekJtVVllR05YcnVCYTJlblN0Q0ZRVEJwbklEWGEwa1g2MTFtN2xPOHNONzZ6OE5GYmdlNi1WbnVKcG5ZdDZ4Z3RQOTYxWTRIN2pV0gFaQVVfeXFMUDdMREY2Q3ZYN1htNGc4bHplNkNJZk05bGsxaS1kOFlYSXh6UmZZOUVvWE9uNFMtVUlubURxMlE4cUxhZ0JSYnhzWGc5UXFOWFlBSHdPd1l6Ylp3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T06:51:16.000Z",
-      "pub_sort_dt": "2026-11-06 14:51:16"
+      "title_en": "中国YMTC暂停49亿美元STAR首次公开募股，因监管机构放缓芯片企业上市步伐 - Dealroom",
+      "title_cn": "中国长江存储暂停49亿美元STAR首次公开募股，因监管机构欠芯片企业上市事件 - Dealroom",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxOaVczZEhhRmQ1RmppZ2VqN0g5dDlzUGRjTjRXeFR2TVI1TkVMQVl1SUc5MlR0YUpXRnlTbWM1MkVsMmZFMnRVZnlPSEdIZ3IzQ3JacUtVLVpXNnIzSzZtNEFEcV9yanRhWG9Fd0R6eGU0dEI3MmZzMG02cmFjUFdjYzRnM0xQeUppb0gyQ2ZxaWdINDNnS21KLVhiQU5NMk10ZC1z?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:27:39.000Z",
+      "pub_sort_dt": "2026-11-06 22:27:39"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着中国扩大领先优势，欧盟在东南亚的拓展计划遭遇资金短缺 - South China Morning Post",
-      "title_cn": "随着中国扩大领先优势，欧盟在东南亚的扩张计划面临资金未知 - 南华早报",
-      "url": "https://news.google.com/read/CBMiuAFBVV95cUxNN3dHTDl0TE9RN3lINFNUWGdFbFM4S1VLOGZpQThjbVVWeXNBUlN0OGZ0N3ZaTGVnVVQ3TWt4UEJVWlQtNkJvSVN0emZHTWladDZxUTNoelRmMGRLWVgtcmtZdWFYY2xyS0ZacnlaM2VrUDV2azFDY21OUVJVNkRvVVJia0VzV3JIOElZN2ZSSk9OWVpiTjdkeEF0MjdPNjJHS1ZZYTZNUmxIWU94dFpKS0Y3SE5Id3NU0gG4AUFVX3lxTE5qTk9UQkt1Tjc3V1IxcTlLR3VvY3hHamdRVkxtQ0FKV0NfOE5xX1FLQ3pKQl9yTFRGUEZrWmZlR1RSTm5JcXE5LTdibmdmVFY4Ni1QRUpYY3dvTjhmMjFRQjdmdkYxRGpqZHUwVW1ZbW83OEc2LWhTY3lieFBaS2JVa1lRWmc0Q0pXSkFmNDdDaUJpa09WWWlLXy1QSk5MbWhnUjVzbmJsVFdndmR4WWpkQjVxMlZVMVA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T06:30:22.000Z",
-      "pub_sort_dt": "2026-11-06 14:30:22"
+      "title_en": "奥运冠军沙伊多罗夫位列第五，三浦领跑花样滑冰“中国杯” - WOODTV.com",
+      "title_cn": "奥运冠军沙伊多罗夫位列第五，三浦领跑花样滑冰“中国杯” - WOODTV.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxNYlA4Zjd1OHdUeFVEekxXNGhHbkNzQzJEQnduc2E2d3pTNnZUYXZvYUZLWVNObHp1Ni0wc3hEcXl0a0M2WXhqaWpYaGluTzBPOVRTeUh4ZkpuTFJTalFDbFZPNnNkZ01ERFlhMW5ITlNqanRrc3NUZWV6dTJwWk1ORHgwMURUb2dTUGZ3d2hqdDkyQTMzZXlSYjBvcUFYOXZTQVMxcTlTLTJETHM0dmZaZHA4TkHSAboBQVVfeXFMUEZTbF82bVh2TllVTHNvOVBHRXBzV2VVS0g5OVBqLTViZTRTWk1MMVlCdVVKcFZHb1Y4ajBENWhxdEZRTTljU2pySW00M2ZMSWh3NlVEY0J4dTE0S0YzQXA0S1N5R2ZrZDZ6SS1jUDg0TGRjbTktZ0VjdXVqTVFXcEdZREtNOU1ld29NSk5xNjk5ekFybGsxUUYyanN3RDhiTDhJRVU0eUh5R3c3UFhvM2VQU0tNSWxvLUtn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:25:51.000Z",
+      "pub_sort_dt": "2026-11-06 22:25:51"
     },
     {
       "source": "China Buzzing",
-      "title_en": "2026年中国五大值得信赖的工业冷水机品牌：提供可靠的工业制冷解决方案 - The National Law Review",
-      "title_cn": "2026年中国五大值得信赖的工业冷水机品牌：提供可靠的工业制冷解决方案 - 国家法律评论",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxNay1WQVZLaG9LTXRTMExzTV9nNGR6T0dJR25RMzQxSm1oeGdMT0FGM01GSlplTlVrSHNmZThuMEk4Z2p6UERTT1Z0a2hkSkFhS29NMzhGLTlUMlNDc0wzZ2Q4RW1nQ1RKX194ajRzaXA3LUlpbmg5VEszUE5kTk8yOERWM0ZZZmJOYk12RlB2MWxQLTBSV2lzQVk3TTBWTTg4MTlQQll3Z3Jxak9fdUE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T06:28:16.000Z",
-      "pub_sort_dt": "2026-11-06 14:28:16"
+      "title_en": "中国海上（民兵）战略：与其说是独一无二，不如说是日益与众不同 安德鲁·S·埃里克森 - Andrew S. Erickson",
+      "title_cn": "中国海上（民兵）战略：与其说是实习，不如说是冒险与众不同 安德鲁·S·埃里克森 - Andrew S. Erickson",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxObkIzdklCRENQOHlUMGQ2N2N1dHJEbnBuRXFRS3lCOUNVVWd1VEgxb0xjTUJkOFBqM29fcFFNemZqNGpvTHdpZjg1S0hsWWZGSy1SQ0dMQmQ1UUZoTW9iUU1WOGFHVTlwS0FWR0ItNG5FeDlXRUx1c0JOMHBfay1ETGtMTTQ4S0w2dXMtb1Z2ZDZvTHB5OWhWTF9aUmxOakJpN1I5eXNuS3RBdDljUDQwSXBGeUlUdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:12:19.000Z",
+      "pub_sort_dt": "2026-11-06 22:12:19"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国选手朱元玲在2026年达喀尔青年奥林匹克运动会上夺得女子街头滑板冠军 - Global Times",
-      "title_cn": "中国选手朱元玲在2026年达喀尔青年锦标赛上参加女子街头滑板冠军 - 环球时报",
-      "url": "https://news.google.com/read/CBMiYkFVX3lxTE9idFRpaXZSUXF6M2l4UXFydUhCX251ZTBLMmZldlhMMmI0eTRLNDJJd2pzeFcyNEFLZmx3bTI0RGQxNHpMVkppTEhubjVhVFluWFduV2Nhb0dBYkF4OFRzVlBR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T06:26:00.000Z",
-      "pub_sort_dt": "2026-11-06 14:26:00"
+      "title_en": "在股市再度遭遇抛售后，北京方面呼吁加大努力以稳定股市 - South China Morning Post",
+      "title_cn": "在股市重新遭遇抛售后，北京方面呼吁加大努力以稳定股市 - 南华早报",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxNd0NBMjNlR2l6NUhCUmdmTUZ0aE1DX1dUUUhKYUpaZ3UzcHNodi1CYUtPYm5RWHE4dHo3Z3Rxam5VSGw5WjNLVGlfLVFEdXhubVNCQnE2REtVeXdJaWwySW1FckJvczY3YTByYVNDdklHQXVuZUVnckRXQ1VlakRqS1JQLUVKeHZHUzJTS0tIR1JsakZPdlE0c3Naalp2NDRheFUxZ1JpUzlRNVNjSlVUODhTaXFpcWZVYzBrX29xYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:00:21.000Z",
+      "pub_sort_dt": "2026-11-06 22:00:21"
     }
   ],
   "media_news": [
     {
       "source": "Reuters",
+      "title_en": "中国和朝鲜高级官员在北京会晤，呼吁加强双方关系",
+      "title_cn": "中国和朝鲜高级官员在北京会议上呼吁加强双边关系",
+      "url": "https://reut.rs/4BNOON3",
+      "pub_raw": "2026-11-06T14:17:59.964Z",
+      "pub_sort_dt": "2026-11-06 22:17:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国国务院呼吁加强股市稳定",
+      "title_cn": "中国国务院呼吁加强股市稳定",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-state-council-calls-for-stronger-stock-market-stability",
+      "pub_raw": "2026-11-06T13:14:07.952Z",
+      "pub_sort_dt": "2026-11-06 21:14:07"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国、英国等国谴责对香港活动人士黄之锋的判决",
+      "title_cn": "美国、英国等国谴责对香港活动人士黄之锋的处罚",
+      "url": "https://reut.rs/4BK3xbI",
+      "pub_raw": "2026-11-06T13:14:07.393Z",
+      "pub_sort_dt": "2026-11-06 21:14:07"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国清洁技术产业如何重塑全球气候行动格局",
+      "title_cn": "中国清洁技术产业如何完善全球气候行动格局",
+      "url": "https://reut.rs/4BMTuTo",
+      "pub_raw": "2026-11-06T13:14:07.390Z",
+      "pub_sort_dt": "2026-11-06 21:14:07"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "据当时参与谈判的谈判代表所述，中国是如何加入世贸组织的",
+      "title_cn": "据当时参与谈判的谈判代表称，中国是如何加入世贸组织的",
+      "url": "https://www.bloomberg.com/news/features/2026-11-06/how-china-joined-the-wto-according-to-the-negotiators-who-were-there",
+      "pub_raw": "2026-11-06T12:10:59.848Z",
+      "pub_sort_dt": "2026-11-06 20:10:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "25年前，中国加入世贸组织（WTO）的协议点燃了中国GDP增长的引擎",
+      "title_cn": "25年前，中国加入世贸组织（WTO）的协议点燃了中国GDP增长的引擎",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/china-gdp-growth-was-ignited-by-wto-deal-25-years-ago",
+      "pub_raw": "2026-11-06T12:10:59.845Z",
+      "pub_sort_dt": "2026-11-06 20:10:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国加入世贸组织如何最终重塑了美国",
+      "title_cn": "中国加入世贸组织如何最终成交了美国",
+      "url": "https://www.bloomberg.com/news/features/2026-11-06/how-china-s-wto-entry-ended-up-reshaping-the-us",
+      "pub_raw": "2026-11-06T12:10:59.828Z",
+      "pub_sort_dt": "2026-11-06 20:10:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在人工智能板块遭遇重挫后，台湾方面出手安抚投资者情绪",
+      "title_cn": "在人工智能板块遭遇重挫后，台湾方面出手安抚投资者情绪",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-imposes-short-selling-limit-after-stock-market-rout",
+      "pub_raw": "2026-11-06T11:55:58.610Z",
+      "pub_sort_dt": "2026-11-06 19:55:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "意大利检方将调查目标锁定在涉嫌追踪异见人士的、与中国有关联的网络组织",
+      "title_cn": "意大利检方将调查目标锁定在涉嫌追踪异见人士的、与中国有关联的网络组织",
+      "url": "https://reut.rs/4iZPmrE",
+      "pub_raw": "2026-11-06T11:39:45.935Z",
+      "pub_sort_dt": "2026-11-06 19:39:45"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾将在股市暴跌后动用市场稳定基金",
+      "title_cn": "台湾将在股市暴跌后动用市场稳定基金",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-to-deploy-market-stabilization-fund-after-stock-rout",
+      "pub_raw": "2026-11-06T10:52:43.385Z",
+      "pub_sort_dt": "2026-11-06 18:52:43"
+    },
+    {
+      "source": "Reuters",
       "title_en": "中国通过《南极活动与环境保护法》",
       "title_cn": "中国通过《南极活动与环境保护法》",
       "url": "https://reut.rs/3Umpm0p",
@@ -171,168 +251,168 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-06/china-to-cut-diesel-exports-on-tight-stocks-energy-aspects-says",
       "pub_raw": "2026-11-06T03:12:45.908Z",
       "pub_sort_dt": "2026-11-06 11:12:45"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "《英国经济人》称，中国由人工智能驱动的增长可能遭受“蓝色浪潮”冲击",
-      "title_cn": "《英国经济人》称，中国由人工智能驱动的增长可能会受到“蓝色浪潮”冲击",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-ai-propelled-growth-may-take-a-blue-wave-hit-be-says",
-      "pub_raw": "2026-11-06T02:09:58.705Z",
-      "pub_sort_dt": "2026-11-06 10:09:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受避险需求推动，中国10年期国债收益率盘中触及历史新低",
-      "title_cn": "受避险需求推动，中国10年期国债大幅盘中创历史新低",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-10-year-yield-hits-record-intraday-low-on-ample-cash",
-      "pub_raw": "2026-11-06T01:53:57.418Z",
-      "pub_sort_dt": "2026-11-06 09:53:57"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国某科技大都市为亚太经合组织峰会整顿了社会阴暗面",
-      "title_cn": "中国某科技大都市为亚太经合组织峰会整顿了社会阴暗面",
-      "url": "https://www.ft.com/content/ea2ab632-1f5c-4e22-8fe2-f513e36a6862?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-06T01:37:56.540Z",
-      "pub_sort_dt": "2026-11-06 09:37:56"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "美国议员因担忧中国间谍活动传唤黄仁勋",
-      "title_cn": "美国恐慌中国间谍活动传递黄仁勋",
-      "url": "https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-06T01:37:56.500Z",
-      "pub_sort_dt": "2026-11-06 09:37:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "文件显示：共和党关键人物就中国间谍指控一事要求英伟达首席执行官进行简报",
-      "title_cn": "文件展示：就中国间谍指控一事要求英伟达领导人进行简报",
-      "url": "https://reut.rs/4Ac1yeC",
-      "pub_raw": "2026-11-05T19:03:42.482Z",
-      "pub_sort_dt": "2026-11-06 03:03:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国的人工智能代理陷入困境",
-      "title_cn": "中国的人工智能代理陷入困境",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-11-05/china-s-ai-agents-are-trapped",
-      "pub_raw": "2026-11-05T18:16:05.135Z",
-      "pub_sort_dt": "2026-11-06 02:16:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Chainalysis称，币安遭黑客攻击的资金流向了中国洗钱者",
-      "title_cn": "Chainaanalysis称，币安遭受黑客攻击的资金流向了中国洗钱者",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-05/binance-hack-funds-flow-to-chinese-launderers-chainalysis-says",
-      "pub_raw": "2026-11-05T17:12:08.244Z",
-      "pub_sort_dt": "2026-11-06 01:12:08"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Robo Block 彰显中国在并购领域的深远影响力",
-      "title_cn": "Robo Block开创了中国在并购领域的必然影响力",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/robo-block-shows-china-s-long-reach-in-m-a",
-      "pub_raw": "2026-11-05T16:10:14.836Z",
-      "pub_sort_dt": "2026-11-06 00:10:14"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国大陆与台湾围绕孙中山展开争执",
-      "title_cn": "中国大陆与台湾围绕孙中山展开争执",
-      "url": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
-      "pub_raw": "2026-11-05T15:46:04.555Z",
-      "pub_sort_dt": "2026-11-05 23:46:04"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "负债累累的富豪们正困扰着中国的银行体系",
-      "title_cn": "存放累累的富豪们正困扰着中国的银行体系",
-      "url": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
-      "pub_raw": "2026-11-05T15:46:03.966Z",
-      "pub_sort_dt": "2026-11-05 23:46:03"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "2026年中国五大知名酒柜制造商：推动葡萄酒储存技术发展 - Detroit Free Press",
-      "title_cn": "2026年中国五大酒柜制造商：推动葡萄酒储存技术发展 - 底特律自由报",
-      "url": "https://news.google.com/read/CBMi1gFBVV95cUxOZ042ZVFxZG41YndHRGlDLTBCV2hqYVc3RlhtbHBQWjV3TVNrLUJRMk5aRUdyTldWMjNvYlAySDk4dWl0ak1jUE1pQ1ZUVm92Zi1pckd1aVNDRkp0X21CWi1uNzc1V2xVQzFrMHdFS1RtU0ROeE5FTVBlX3BfZ0tpZ1c3ZnJaWjhfOHdOblltS3FVa19EOGE3eTBiY0U0T292dklDVHo1WWhncVVnYzNFcGJmSC1nWnRrRk05M3VjMXZyRkhBSlpobzhjaWdIS1F1SDhFazdB?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T08:41:07.000Z",
-      "pub_sort_dt": "2026-11-06 16:41:07"
+      "title_en": "加拿大油菜籽行业组织欢迎与中国达成的协议 - World Grain",
+      "title_cn": "加拿大油菜籽行业组织欢迎与中国达成的协议 - World Grain",
+      "url": "https://news.google.com/read/CBMikwFBVV95cUxQZ3o1M3JBQUNYZ2tzRTFscG9jd3NUWnVvbmpZMkJQUFByeTR5T2Q1WmlaVWRaYVFyUmgzQlVKQ0ozQWZLNmEtcGxHSjdyWWt1bVVQUjJteTdPTkU5ZnBKRlRqSWhMYk5OTFdGUmtZcXA2bnJpODgxOUR4TDJaY0lPdV9kUHFvMVJjM21JTjNsUjFCRTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T16:06:35.000Z",
+      "pub_sort_dt": "2026-11-07 00:06:35"
     },
     {
       "source": "China Buzzing",
-      "title_en": "腾讯的“WorkBuddy”可能将韩国用户的AI提示词传输至中国 - THE ELEC, Korea Electronics Industry Media",
-      "title_cn": "腾讯的“WorkBuddy”或将韩国用户的AI提示词传输至中国 - THE ELEC，韩国电子产业媒体",
-      "url": "https://news.google.com/read/CBMiZ0FVX3lxTFB4MjFZRW44ZEVrTF9vMUI1TXRMZVRSZ3hjS2NXdjJCaVpDMzAtU3BlRHZqVDdWLXFLbktOYmxQT0NGc3M4TnNLeHRQdHJGZ2VlWkRZcXk4UEd5Z19vV3VLTVRxcHNQSk0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T08:03:28.000Z",
-      "pub_sort_dt": "2026-11-06 16:03:28"
+      "title_en": "中国OneX在生命科学AI领域完成数千万人民币A轮融资 - Dealroom",
+      "title_cn": "中国OneX在生命科学AI领域完成数千万人民币A轮融资 - Dealroom",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxQVXk5U0R2WGNqUjdzMlo0bFM4bk9oM3Z1N1RVNlZDRFE4YmpObzloenVISHJyM1hpUERqMGtVZXpIUUVIM2k4UTR1QmhPXzhVNGNDOTdKSWRjVW1VeDNsVFVRaXlOVEQtakxuODM4UFNRQ1ZaUGFvTVFodzRhUFlST3ZPWGJuRlhvX19OR1U0UzVXb1dlNXpFUEUyMGhrcXdRTkJiM0dQMUh1SXBhRGdN?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T15:53:54.000Z",
+      "pub_sort_dt": "2026-11-06 23:53:54"
     },
     {
       "source": "China Buzzing",
-      "title_en": "霍尔木兹海峡：伊朗官员称中国船只可自由通行 - South China Morning Post",
-      "title_cn": "霍尔木兹海峡：伊朗财政部称中国船只可自由通行 - 南华早报",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxQV0lwT0ZGeVZweFlDNk5kZEcyZWg5ZmJEby1wYzl2bkVXc1hTcWpGZEdBVlhMLW4wYmdNanpxVzNMeGNxaW9QVHNUUS1DbnBadlFKYklhVjhjT2h6U2NCY3BwaEV2aUpocmtBV1NDR2tYSTNEU3BONWlSYkVZMExjSUVBRjRPTkhfOG9HLThtQjJiS0x3cGJjSU9jXzhaVGRfMWIwRjhubzhMd0tO0gGsAUFVX3lxTE1FVVV2dGFOOUlZTjdZNDl4cVc1Y0xhYldrZF85cEhqclZ4dEdoNWVpYlFmSkpST0piWlQwSGh1OVZYcHV1Rm1lNUNtMmdSNkRBVUZGQnAxcGRGOG5IT3owMmtKNzR1Z21zREJIUHVDbUdjZFhwZU5IaEo0WmZDckQ3UkFxX1VJNXRPWDVTVEUyOWdhUkpxOW9FOXVCdDEzRWpzZXV2Uy1EWldhVWs?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T07:53:07.000Z",
-      "pub_sort_dt": "2026-11-06 15:53:07"
+      "title_en": "《Access Asia》——中国密切关注美国中期选举带来的格局变动 - France 24",
+      "title_cn": "《Access Asia》——中国密切关注美国股市波动的幅度波动-法国24",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxPZG10OUt6TmZZdXRuVzhFN1JWQTlIY1JvejdLc3M2SUVCR3dja2dYd1l6OUxDbFFwVUJsdUJ5WVhhbVpURjdMS3ZGMHhTeFVtTWFpU1lxYlExa0hJcVAtYzhpc3EwYkhKUWtKX19IZmdrQXk4bFVLMzl6a3VvaVpKSjN5WGpYYnRLV1A0Y3dkQ194VEtvTlRabEtzVkpTTXJXcmRHYUp3Zw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T15:03:23.000Z",
+      "pub_sort_dt": "2026-11-06 23:03:23"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国叫停与软银-ABB的第二笔重大人工智能交易——ABB行使否决权 - MLex",
-      "title_cn": "中国叫停与软银-ABB的第二笔重大人工智能交易——ABB行使否决权 - MLex",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxONGc4OFNMMVJ1MWY5STdORFJDQ0g1Zks1UmZhOHEwZ0JTb3R6RjZsYVRRQ1FvNGVmb3dvTEpNSFZNZ25laS1OOWVrZ3RWeGllUk8tbzVkLUxweWFQcU5jZU5wTW5lR0twRE1XYlRYTE1lMjhFTktkQjY2b0owbm5FcmxZNFNTLU9INmwzYk9fMVVPdkpROEpRQXpfYUIxXzJTSVRZbUVCQVpUaFFU0gFaQVVfeXFMT2lXdVltaHZSaUJ3bG1iRjZvczZPcjk1WTljMjl2dUJOUWJJUjRYdEdyNW1HeFpMckkyLVotSERSalBuU3hUOVpxOFBEa1ZTaHpQSE82QnNXOUFn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T07:50:24.000Z",
-      "pub_sort_dt": "2026-11-06 15:50:24"
+      "title_en": "姆巴佩的“毛”风波：中国情感主导力的扩张 - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "title_cn": "姆巴佩的“毛”风波：中国情感主导力的拓展 - 外交家 – 亚太时事杂志",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxOQl9Gcm9PdHJLNkwtRzRyZGhHa1N3UldkeXJtRXQxNG9RbEk4ZjhhQmh2d3QzN3U1bmszLWJnVDV1OHY0Wnl1eXQ1UndEMGxMaXZxbklJWUhmVzB1d214U0w3dE40WVJKc0xDWEFEdGpuTERpdDdjVmpSelhTUlAtU0dOVVktNS10Y1NyX2k5WDlDdlE5MFRTcnExcHg5dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:57:49.000Z",
+      "pub_sort_dt": "2026-11-06 22:57:49"
     },
     {
       "source": "China Buzzing",
-      "title_en": "下周亚洲经济展望：菲律宾GDP及中国、台湾和日本的关键数据 - ing think",
-      "title_cn": "下周亚洲经济展望：菲律宾GDP及中国、台湾和日本的关键数据 - ing think",
-      "url": "https://news.google.com/read/CBMiZEFVX3lxTE5oMzI4SFlaM1pTbjVmeU9pdFVDb3R0TjhROFhhc2hFVWNQLV9fOU1IWGRXOFo2MUhCQzAtZHNGc2R3eXlxdGFoRUVhTjI4ZlJOUnY0b0dwYXF1SXNiLVNwM1NYWGo?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T07:29:25.000Z",
-      "pub_sort_dt": "2026-11-06 15:29:25"
+      "title_en": "中国对稀土的巨大需求可能会让其他国家面临短缺 - InvestorNews",
+      "title_cn": "中国对稀土的巨大需求可能会让其他国家面临挑战 - 投资者新闻",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxPVC1yaWdaQjlmLTdrWmIxWUxoWTZHV3I5eUJqcTU3OXpobEFBaW43VHhCSWhQNTVSWDhXOXNtNFdJVnpqNURCTmEwMzg2NkdKTm56SEo4OGNMcVNkcWFoeHpkT0dNcjFXelVvckFuRERKX0E1UTltekg2ejdxMXo4ZzZRX1Znb29BZTlnck54V1BzeC1uWnlCZ05FQlItUmltU2hIN3FuY3VObldQU1YwS0pKM2RSZDA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:53:57.000Z",
+      "pub_sort_dt": "2026-11-06 22:53:57"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国创下空间站内最低温度的世界纪录 - China Daily Global Edition",
-      "title_cn": "中国创下空间站内最低温度的世界纪录 - China Daily Global Edition",
-      "url": "https://news.google.com/read/CBMiggFBVV95cUxOdFNXaGhXWVNVU3loVUlNakp1VFlyMGt6TldwRVFERTFuSGVvcVcwMExxVlN6dlpNMHRiZmVOMWtFRlJMWVBZTmxDOGlKNEdnLUVNMzBGeUtJdWVoT2hQMXhSeUNfUkZIbDBYM05VeVBnSnZjdEtJaTdQZ2VhOGRsRm9n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T07:05:54.000Z",
-      "pub_sort_dt": "2026-11-06 15:05:54"
+      "title_en": "香港的囚犯是中國向世界發出的信號：在其領土上，民主已無希望 - The Guardian",
+      "title_cn": "香港的纪念碑是中国向世界发出的信号：在其境内，民主已无 - The Guardian",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxOc0N2XzdsRkRhOEZmaWhNeFdOOU5xTWNjOW9RWjhNdkY2bWE4ZkFBbk5JY1YtTTNmWGxieEl1Rl8zYVhIcHNYeVhqekd4THdHWDJYTVllY0RxMWp6RTJhVWhPNFh2X1doSmVYWjQxTy1LX0RGX0owYWY2Qnk2Q3pZd2RxbndPQi04ZkYyVnNWNmExaTU0OWFoclJTRmtJaUFZbkJLSFl6NVl0Qk56?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:53:00.000Z",
+      "pub_sort_dt": "2026-11-06 22:53:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国四川省就反垄断风险向网约车协会发出警告 - MLex",
-      "title_cn": "中国四川省就反垄断风险向网约车协会发出警告 - MLex",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxObXVDTEdCTUs3UkQyOEtCUGVoeDZLakJmeTU1Tk14dGMyNTlsRDZ0QzZNc1g2ZVo1TzUwZzJON2hqUGlNQ3p4WS1DUXRQWWRuNnR5RGpGdVdncDdQV3RZeXlTN2s1MDR5OFRGMkNjVkt3ekJtVVllR05YcnVCYTJlblN0Q0ZRVEJwbklEWGEwa1g2MTFtN2xPOHNONzZ6OE5GYmdlNi1WbnVKcG5ZdDZ4Z3RQOTYxWTRIN2pV0gFaQVVfeXFMUDdMREY2Q3ZYN1htNGc4bHplNkNJZk05bGsxaS1kOFlYSXh6UmZZOUVvWE9uNFMtVUlubURxMlE4cUxhZ0JSYnhzWGc5UXFOWFlBSHdPd1l6Ylp3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T06:51:16.000Z",
-      "pub_sort_dt": "2026-11-06 14:51:16"
+      "title_en": "中国YMTC暂停49亿美元STAR首次公开募股，因监管机构放缓芯片企业上市步伐 - Dealroom",
+      "title_cn": "中国长江存储暂停49亿美元STAR首次公开募股，因监管机构欠芯片企业上市事件 - Dealroom",
+      "url": "https://news.google.com/read/CBMiowFBVV95cUxOaVczZEhhRmQ1RmppZ2VqN0g5dDlzUGRjTjRXeFR2TVI1TkVMQVl1SUc5MlR0YUpXRnlTbWM1MkVsMmZFMnRVZnlPSEdIZ3IzQ3JacUtVLVpXNnIzSzZtNEFEcV9yanRhWG9Fd0R6eGU0dEI3MmZzMG02cmFjUFdjYzRnM0xQeUppb0gyQ2ZxaWdINDNnS21KLVhiQU5NMk10ZC1z?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:27:39.000Z",
+      "pub_sort_dt": "2026-11-06 22:27:39"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着中国扩大领先优势，欧盟在东南亚的拓展计划遭遇资金短缺 - South China Morning Post",
-      "title_cn": "随着中国扩大领先优势，欧盟在东南亚的扩张计划面临资金未知 - 南华早报",
-      "url": "https://news.google.com/read/CBMiuAFBVV95cUxNN3dHTDl0TE9RN3lINFNUWGdFbFM4S1VLOGZpQThjbVVWeXNBUlN0OGZ0N3ZaTGVnVVQ3TWt4UEJVWlQtNkJvSVN0emZHTWladDZxUTNoelRmMGRLWVgtcmtZdWFYY2xyS0ZacnlaM2VrUDV2azFDY21OUVJVNkRvVVJia0VzV3JIOElZN2ZSSk9OWVpiTjdkeEF0MjdPNjJHS1ZZYTZNUmxIWU94dFpKS0Y3SE5Id3NU0gG4AUFVX3lxTE5qTk9UQkt1Tjc3V1IxcTlLR3VvY3hHamdRVkxtQ0FKV0NfOE5xX1FLQ3pKQl9yTFRGUEZrWmZlR1RSTm5JcXE5LTdibmdmVFY4Ni1QRUpYY3dvTjhmMjFRQjdmdkYxRGpqZHUwVW1ZbW83OEc2LWhTY3lieFBaS2JVa1lRWmc0Q0pXSkFmNDdDaUJpa09WWWlLXy1QSk5MbWhnUjVzbmJsVFdndmR4WWpkQjVxMlZVMVA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T06:30:22.000Z",
-      "pub_sort_dt": "2026-11-06 14:30:22"
+      "title_en": "奥运冠军沙伊多罗夫位列第五，三浦领跑花样滑冰“中国杯” - WOODTV.com",
+      "title_cn": "奥运冠军沙伊多罗夫位列第五，三浦领跑花样滑冰“中国杯” - WOODTV.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxNYlA4Zjd1OHdUeFVEekxXNGhHbkNzQzJEQnduc2E2d3pTNnZUYXZvYUZLWVNObHp1Ni0wc3hEcXl0a0M2WXhqaWpYaGluTzBPOVRTeUh4ZkpuTFJTalFDbFZPNnNkZ01ERFlhMW5ITlNqanRrc3NUZWV6dTJwWk1ORHgwMURUb2dTUGZ3d2hqdDkyQTMzZXlSYjBvcUFYOXZTQVMxcTlTLTJETHM0dmZaZHA4TkHSAboBQVVfeXFMUEZTbF82bVh2TllVTHNvOVBHRXBzV2VVS0g5OVBqLTViZTRTWk1MMVlCdVVKcFZHb1Y4ajBENWhxdEZRTTljU2pySW00M2ZMSWh3NlVEY0J4dTE0S0YzQXA0S1N5R2ZrZDZ6SS1jUDg0TGRjbTktZ0VjdXVqTVFXcEdZREtNOU1ld29NSk5xNjk5ekFybGsxUUYyanN3RDhiTDhJRVU0eUh5R3c3UFhvM2VQU0tNSWxvLUtn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:25:51.000Z",
+      "pub_sort_dt": "2026-11-06 22:25:51"
     },
     {
       "source": "China Buzzing",
-      "title_en": "2026年中国五大值得信赖的工业冷水机品牌：提供可靠的工业制冷解决方案 - The National Law Review",
-      "title_cn": "2026年中国五大值得信赖的工业冷水机品牌：提供可靠的工业制冷解决方案 - 国家法律评论",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxNay1WQVZLaG9LTXRTMExzTV9nNGR6T0dJR25RMzQxSm1oeGdMT0FGM01GSlplTlVrSHNmZThuMEk4Z2p6UERTT1Z0a2hkSkFhS29NMzhGLTlUMlNDc0wzZ2Q4RW1nQ1RKX194ajRzaXA3LUlpbmg5VEszUE5kTk8yOERWM0ZZZmJOYk12RlB2MWxQLTBSV2lzQVk3TTBWTTg4MTlQQll3Z3Jxak9fdUE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T06:28:16.000Z",
-      "pub_sort_dt": "2026-11-06 14:28:16"
+      "title_en": "中国海上（民兵）战略：与其说是独一无二，不如说是日益与众不同 安德鲁·S·埃里克森 - Andrew S. Erickson",
+      "title_cn": "中国海上（民兵）战略：与其说是实习，不如说是冒险与众不同 安德鲁·S·埃里克森 - Andrew S. Erickson",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxObkIzdklCRENQOHlUMGQ2N2N1dHJEbnBuRXFRS3lCOUNVVWd1VEgxb0xjTUJkOFBqM29fcFFNemZqNGpvTHdpZjg1S0hsWWZGSy1SQ0dMQmQ1UUZoTW9iUU1WOGFHVTlwS0FWR0ItNG5FeDlXRUx1c0JOMHBfay1ETGtMTTQ4S0w2dXMtb1Z2ZDZvTHB5OWhWTF9aUmxOakJpN1I5eXNuS3RBdDljUDQwSXBGeUlUdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:12:19.000Z",
+      "pub_sort_dt": "2026-11-06 22:12:19"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国选手朱元玲在2026年达喀尔青年奥林匹克运动会上夺得女子街头滑板冠军 - Global Times",
-      "title_cn": "中国选手朱元玲在2026年达喀尔青年锦标赛上参加女子街头滑板冠军 - 环球时报",
-      "url": "https://news.google.com/read/CBMiYkFVX3lxTE9idFRpaXZSUXF6M2l4UXFydUhCX251ZTBLMmZldlhMMmI0eTRLNDJJd2pzeFcyNEFLZmx3bTI0RGQxNHpMVkppTEhubjVhVFluWFduV2Nhb0dBYkF4OFRzVlBR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-06T06:26:00.000Z",
-      "pub_sort_dt": "2026-11-06 14:26:00"
+      "title_en": "在股市再度遭遇抛售后，北京方面呼吁加大努力以稳定股市 - South China Morning Post",
+      "title_cn": "在股市重新遭遇抛售后，北京方面呼吁加大努力以稳定股市 - 南华早报",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxNd0NBMjNlR2l6NUhCUmdmTUZ0aE1DX1dUUUhKYUpaZ3UzcHNodi1CYUtPYm5RWHE4dHo3Z3Rxam5VSGw5WjNLVGlfLVFEdXhubVNCQnE2REtVeXdJaWwySW1FckJvczY3YTByYVNDdklHQXVuZUVnckRXQ1VlakRqS1JQLUVKeHZHUzJTS0tIR1JsakZPdlE0c3Naalp2NDRheFUxZ1JpUzlRNVNjSlVUODhTaXFpcWZVYzBrX29xYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-06T14:00:21.000Z",
+      "pub_sort_dt": "2026-11-06 22:00:21"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国和朝鲜高级官员在北京会晤，呼吁加强双方关系",
+      "title_cn": "中国和朝鲜高级官员在北京会议上呼吁加强双边关系",
+      "url": "https://reut.rs/4BNOON3",
+      "pub_raw": "2026-11-06T14:17:59.964Z",
+      "pub_sort_dt": "2026-11-06 22:17:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国国务院呼吁加强股市稳定",
+      "title_cn": "中国国务院呼吁加强股市稳定",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-state-council-calls-for-stronger-stock-market-stability",
+      "pub_raw": "2026-11-06T13:14:07.952Z",
+      "pub_sort_dt": "2026-11-06 21:14:07"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国、英国等国谴责对香港活动人士黄之锋的判决",
+      "title_cn": "美国、英国等国谴责对香港活动人士黄之锋的处罚",
+      "url": "https://reut.rs/4BK3xbI",
+      "pub_raw": "2026-11-06T13:14:07.393Z",
+      "pub_sort_dt": "2026-11-06 21:14:07"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国清洁技术产业如何重塑全球气候行动格局",
+      "title_cn": "中国清洁技术产业如何完善全球气候行动格局",
+      "url": "https://reut.rs/4BMTuTo",
+      "pub_raw": "2026-11-06T13:14:07.390Z",
+      "pub_sort_dt": "2026-11-06 21:14:07"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "据当时参与谈判的谈判代表所述，中国是如何加入世贸组织的",
+      "title_cn": "据当时参与谈判的谈判代表称，中国是如何加入世贸组织的",
+      "url": "https://www.bloomberg.com/news/features/2026-11-06/how-china-joined-the-wto-according-to-the-negotiators-who-were-there",
+      "pub_raw": "2026-11-06T12:10:59.848Z",
+      "pub_sort_dt": "2026-11-06 20:10:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "25年前，中国加入世贸组织（WTO）的协议点燃了中国GDP增长的引擎",
+      "title_cn": "25年前，中国加入世贸组织（WTO）的协议点燃了中国GDP增长的引擎",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/china-gdp-growth-was-ignited-by-wto-deal-25-years-ago",
+      "pub_raw": "2026-11-06T12:10:59.845Z",
+      "pub_sort_dt": "2026-11-06 20:10:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国加入世贸组织如何最终重塑了美国",
+      "title_cn": "中国加入世贸组织如何最终成交了美国",
+      "url": "https://www.bloomberg.com/news/features/2026-11-06/how-china-s-wto-entry-ended-up-reshaping-the-us",
+      "pub_raw": "2026-11-06T12:10:59.828Z",
+      "pub_sort_dt": "2026-11-06 20:10:59"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在人工智能板块遭遇重挫后，台湾方面出手安抚投资者情绪",
+      "title_cn": "在人工智能板块遭遇重挫后，台湾方面出手安抚投资者情绪",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-imposes-short-selling-limit-after-stock-market-rout",
+      "pub_raw": "2026-11-06T11:55:58.610Z",
+      "pub_sort_dt": "2026-11-06 19:55:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "意大利检方将调查目标锁定在涉嫌追踪异见人士的、与中国有关联的网络组织",
+      "title_cn": "意大利检方将调查目标锁定在涉嫌追踪异见人士的、与中国有关联的网络组织",
+      "url": "https://reut.rs/4iZPmrE",
+      "pub_raw": "2026-11-06T11:39:45.935Z",
+      "pub_sort_dt": "2026-11-06 19:39:45"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "台湾将在股市暴跌后动用市场稳定基金",
+      "title_cn": "台湾将在股市暴跌后动用市场稳定基金",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-to-deploy-market-stabilization-fund-after-stock-rout",
+      "pub_raw": "2026-11-06T10:52:43.385Z",
+      "pub_sort_dt": "2026-11-06 18:52:43"
     },
     {
       "source": "Reuters",
@@ -413,86 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-06/china-to-cut-diesel-exports-on-tight-stocks-energy-aspects-says",
       "pub_raw": "2026-11-06T03:12:45.908Z",
       "pub_sort_dt": "2026-11-06 11:12:45"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "《英国经济人》称，中国由人工智能驱动的增长可能遭受“蓝色浪潮”冲击",
-      "title_cn": "《英国经济人》称，中国由人工智能驱动的增长可能会受到“蓝色浪潮”冲击",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-ai-propelled-growth-may-take-a-blue-wave-hit-be-says",
-      "pub_raw": "2026-11-06T02:09:58.705Z",
-      "pub_sort_dt": "2026-11-06 10:09:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受避险需求推动，中国10年期国债收益率盘中触及历史新低",
-      "title_cn": "受避险需求推动，中国10年期国债大幅盘中创历史新低",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-10-year-yield-hits-record-intraday-low-on-ample-cash",
-      "pub_raw": "2026-11-06T01:53:57.418Z",
-      "pub_sort_dt": "2026-11-06 09:53:57"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国某科技大都市为亚太经合组织峰会整顿了社会阴暗面",
-      "title_cn": "中国某科技大都市为亚太经合组织峰会整顿了社会阴暗面",
-      "url": "https://www.ft.com/content/ea2ab632-1f5c-4e22-8fe2-f513e36a6862?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-06T01:37:56.540Z",
-      "pub_sort_dt": "2026-11-06 09:37:56"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "美国议员因担忧中国间谍活动传唤黄仁勋",
-      "title_cn": "美国恐慌中国间谍活动传递黄仁勋",
-      "url": "https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-06T01:37:56.500Z",
-      "pub_sort_dt": "2026-11-06 09:37:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "文件显示：共和党关键人物就中国间谍指控一事要求英伟达首席执行官进行简报",
-      "title_cn": "文件展示：就中国间谍指控一事要求英伟达领导人进行简报",
-      "url": "https://reut.rs/4Ac1yeC",
-      "pub_raw": "2026-11-05T19:03:42.482Z",
-      "pub_sort_dt": "2026-11-06 03:03:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国的人工智能代理陷入困境",
-      "title_cn": "中国的人工智能代理陷入困境",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-11-05/china-s-ai-agents-are-trapped",
-      "pub_raw": "2026-11-05T18:16:05.135Z",
-      "pub_sort_dt": "2026-11-06 02:16:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Chainalysis称，币安遭黑客攻击的资金流向了中国洗钱者",
-      "title_cn": "Chainaanalysis称，币安遭受黑客攻击的资金流向了中国洗钱者",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-05/binance-hack-funds-flow-to-chinese-launderers-chainalysis-says",
-      "pub_raw": "2026-11-05T17:12:08.244Z",
-      "pub_sort_dt": "2026-11-06 01:12:08"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Robo Block 彰显中国在并购领域的深远影响力",
-      "title_cn": "Robo Block开创了中国在并购领域的必然影响力",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/robo-block-shows-china-s-long-reach-in-m-a",
-      "pub_raw": "2026-11-05T16:10:14.836Z",
-      "pub_sort_dt": "2026-11-06 00:10:14"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国大陆与台湾围绕孙中山展开争执",
-      "title_cn": "中国大陆与台湾围绕孙中山展开争执",
-      "url": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
-      "pub_raw": "2026-11-05T15:46:04.555Z",
-      "pub_sort_dt": "2026-11-05 23:46:04"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "负债累累的富豪们正困扰着中国的银行体系",
-      "title_cn": "存放累累的富豪们正困扰着中国的银行体系",
-      "url": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
-      "pub_raw": "2026-11-05T15:46:03.966Z",
-      "pub_sort_dt": "2026-11-05 23:46:03"
     }
   ]
 }
