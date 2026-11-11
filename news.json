@@ -1,101 +1,237 @@
 {
-  "update_cst": "2026-11-11 06:01:11 北京时间",
+  "update_cst": "2026-11-11 18:01:13 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 11,
+    "Bloomberg": 15,
     "Financial Times": 2,
-    "Wall Street Journal": 1,
-    "Reuters": 6
+    "Wall Street Journal": 0,
+    "Reuters": 3
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "国内供需失衡将制约中国经济前景 - RANE Worldview",
-      "title_cn": "供国内需失衡将否定中国经济前景 - RANE Worldview",
-      "url": "https://news.google.com/read/CBMi-gFBVV95cUxPTzRZZjh3SjJfVFNfcnNaTERIeGxjWWVWcmJGejNzb1JxZ3NpdVJ6R2U0aEJWVnYzeVZxbnBCVGQtTHBmN0NsbUtSMmc4Q0kyY3RuNkVaa24wMmlmUWtLaHBmbXlJOUJoMExwcXZQUlJwVVpsSk5xcFpUbW1LbldCaXhCd2pnVk1xTXdMNlFVM3pJVXdDaGNNdmU4OV9BX2E5NUV5cndDZ05jdzlrZzN6YzJsTUgwQW5Tdk9CaHVqbUZFaEo4MFBvZU9QakxoQ2RYRzlHQ3RYZjlIamRtNkNoT0lFSmZNTnpUQVJrMllJX0kxOEZqVGQ0c2hR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T21:40:00.000Z",
-      "pub_sort_dt": "2026-11-11 05:40:00"
+      "title_en": "10月中国乘用车出口激增，而国内需求依然疲软 - Newsday",
+      "title_cn": "10月中国乘用车出口激增，而国内需求依然疲软 - Newsday",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxQU3FyOXFGWXVyYV92eW5pSUs3ZXc1SE90RnlyZU45ejdnTjZCMjJabzBKbHBQMWlTU191ZHFaSmJQWkhTV2JHNHg0akJEenFCX21EQjBlcFdPMmp0cFFOY3Rvbm5HVU1UY1Z4YjY0azlwT2FwYzRkV0ZTVExkOC1JcWhGaURkZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T09:40:57.000Z",
+      "pub_sort_dt": "2026-11-11 17:40:57"
     },
     {
       "source": "China Buzzing",
-      "title_en": "伊朗议会议长称，中国可在结束伊朗与美国之间的“不战不和”局面方面发挥关键作用 - Anadolu Ajansı",
-      "title_cn": "伊朗议会议长称，中国可在结束伊朗与美国之间的“不战不和”统治方面发挥关键作用 - Anadolu Ajansı",
-      "url": "https://news.google.com/read/CBMi5wFBVV95cUxPQlRRNzRHN1VHTTB6WjdHSUxoazQtMG1kLVcydWxJQzBvRlFyMm9zOXJsSXBuOWkxb1B5UUZyZUU2eE5aWlV3ZW9vV0NRenREVWw3MTZwUlAxYXZrSGZTeWNVQk1yWnlJbVc1R3N3eFN5bG81LXU1S0Uyak1BcU1mZG50QlRidm9wQ2xwZ3ZTNHpCSUw3VXl2LURJeGhJRVBpb0FPYnFMcjNjMHV1T3Q4QndHN1FGZkZ6SE1xTUtNZTU1QV9fX1hHazRnSGVFWG1FaUtOSFFwSE5taVpxazZic0NPWVk5M0k?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T21:29:16.000Z",
-      "pub_sort_dt": "2026-11-11 05:29:16"
+      "title_en": "德国一项研究对比了来自中国、欧洲和美国的电动机 - electrive.com",
+      "title_cn": "德国一项研究对比了来自中国、欧洲和美国的电动机 - electrive.com",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxONE4wT051TkZMX205LUxBRFdSQnVRbWRlRGpYaEFmLXUxc3ZrRXIyM1p4WUswRVZQRDNXbnFuWmtrbWFGWlRRbVYwa1RlMmlsWmtEZlVNRXZlalN0QVl0c00xZHVJeDhCTndTUWlkYTFSbk5YS0RDX0szZXFnaE9wOVZtMjhCcUVpUDJvLWtqRy0zejIzdjJvaHdvbTZzVVZPY0xPWFpLREI?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T09:30:00.000Z",
+      "pub_sort_dt": "2026-11-11 17:30:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "观点 中国的黄仁勋事件 - WSJ",
-      "title_cn": "观点中国的黄仁勋事件 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMib0FVX3lxTE5wQmhqbGRLLU5jOVVuWHktSnR6NEIzZlMxdUUxS3IwV3NTWlg1U1JmZHQ2VjNlQ1J2U28yNXpGVEU3WTVNR1poaDhiTXEtNUtrTUlUck93N05JZ19lUFVacVo4amR2dzNWMjRaX0lDNA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T21:14:01.000Z",
-      "pub_sort_dt": "2026-11-11 05:14:01"
+      "title_en": "中国加强税收监管，从离岸信托中收回240亿美元 - Bloomberg.com",
+      "title_cn": "中国加强税收监管，从离岸信托中收回240亿美元 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxNT3hUbE9ER01hWTRwdG5DLWF5ejVrT2lIYkN0Z08xaF9xRlZ4d1JaYThDT0VQcUgwM1l1S0NUYVZrb0h6XzhpNzFLZXdybHlzZnpMMHlXMGhlQV9makgwSVFPQjZKUExGbEo5dDA2bWF2VXhraWNMMVJjSXY0MlhqQ0IyUTNoWVdKbW44S2daSWg2SGotQXhiNFExUXdneGJzYlktUWZyQmxydWlhSDFSUXpwNHA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T09:18:24.000Z",
+      "pub_sort_dt": "2026-11-11 17:18:24"
     },
     {
       "source": "China Buzzing",
-      "title_en": "“电动巨龙崛起”：随着中国电动汽车席卷全球，华为重写汽车市场规则 - Nippon.com",
-      "title_cn": "“电动巨龙崛起”：随着中国电动汽车席卷全球，华为重写汽车市场规则 - Nippon.com",
-      "url": "https://news.google.com/read/CBMiVEFVX3lxTFBhWWZLcHotajV5N3g1Q1plN29IaWNxTE56WjV2M1UxeEtaZkQ0R1AwLUM4UzRha05WdFBEcm9HVWtUd0Rvc0JiMjJsc1FrZ28wdGFFZQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T21:01:00.000Z",
-      "pub_sort_dt": "2026-11-11 05:01:00"
+      "title_en": "在蓬勃发展的液化天然气运输船市场中，中国船厂超越了韩国船厂 - South China Morning Post",
+      "title_cn": "在蓬勃发展的液化天然气运输船市场中，中国船厂超越了韩国船厂 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxObHM4RkQ0RnRQMFkxa05ta3NSYWZzOXdReGVJNXBfQThMczJFWnNVVGdQel9IUHdkb0J1WTlSZ2tkbHZIQ1hubUhKRUxlMGVVLWMzdFFKaVItMll0cmsxbEdIVHp5MXdGc1dkRzBRRGllLWEtUnk5bHhQTXcyVVIyeHpWR0RnN1NaclBibWMwbkRkRzlHOHFTbERJaHVRYVJjTG1wdDQxZ1lSNGZlbW5NMXhlUzFCcWvSAbcBQVVfeXFMTWpCa0RvcnNrMGwxTGgtX0pGM1RCT3NrLU9uXzJybG5nR0V1dkJYOWU3bXAtT0hfWVQyRTRxSEppZE1UTlR1M21LVDI0eWpndTlYSFpQMzlzcWViQXRsOWkyTVhTTjJ0OE04SXEyM1h3X205VVVWdjAzOVVnZjR5QlJ4V2wyUDJSUWJ1QkU2MXFSY0tLZEhhaFFoSEZhcmNwYUFoYlZfZ2YwSkd1UTgwMmpjamhMWlU0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T09:00:22.000Z",
+      "pub_sort_dt": "2026-11-11 17:00:22"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国在铁矿石采购方面的影响力使得每笔交易都成为市场焦点 - Bloomberg.com",
-      "title_cn": "中国在铁矿石采购方面的影响力使得每一笔交易都成为市场焦点 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxPRUtWQmpzTnAwUG5zbjNmb3V1c3dXeFJEUWgwbW9mMlVlT2lKZ1pJRm1vaFU5SUE5aktzcmhYVHh3YjJJU1p2Qk83LW92TDg1Ty0tY3g2bFVMLVFIVm1OZkRmQTRvVHF4Skp5RnRfc1pLNEtlR19JaW9qalVTRGZBVFZ6Y0hZejZZUE5ndDNlNTl6ME9GVGc4OUloTUxjSHM3Z0k0XzN6OW13UGE2LWFENQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T21:00:00.000Z",
-      "pub_sort_dt": "2026-11-11 05:00:00"
+      "title_en": "中国如何利用卫生外交扩大其在非洲的影响力 - The Africa Report",
+      "title_cn": "中国如何利用卫生外交扩大其在非洲的影响力 - The Africa Report",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxPZUo5aHBHaVYtUkowWTlxVzJ2Ynp0TnFhbU1hTXZyQ0lNRDlhdHdZekZHMm1RSnFCQ1d4alhzWkRCUUIyY3R3czBXc3JBYm5wSlJNdlVwR292U1VncWRxV2dUamVkSFdZQ1VUcGxKV0VlcUFlZk5NdTlaQWZuRFBPYU5uZHFaeEJUaHFKYnhhRC10WnBGaEJ0RkM4YjBUS2ZSV2ZhWklTMVk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T08:59:18.000Z",
+      "pub_sort_dt": "2026-11-11 16:59:18"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国嘲讽美国就多米尼加关闭一家由中国经营的工厂一事表示“祝贺” - South China Morning Post",
-      "title_cn": "中国嘲笑美国就多米尼加关闭一家由中国经营的工厂一事表示“祝贺” - 南华早报",
-      "url": "https://news.google.com/read/CBMiywFBVV95cUxQQnpMTFZjU2FtYVd3N3ZqXzh3NGJvTlJzZnF2S2d0dnh0S1NOUjJUVUlRUTJkVEo0bkhJXzNEWE5jVHF6dVMtbzlmX3drNXJPME9Vb19BTUVLSVJvSEYtR0poZXRnbjNLcDhScVF0RTI3UXpsWTVIN01RU2xoZFMtb0lsUEtJV1B3V252TUJWM1ZPdF90cmY1Qi1icFh2SDRYNDBrRlBSVEMwbmFMOFV5RFRmbmdJMGV2YlV2UWhHa0ExZWh1N0oyNWNqTQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T20:49:11.000Z",
-      "pub_sort_dt": "2026-11-11 04:49:11"
+      "title_en": "为什么中国1万亿美元的贸易顺差对经济来说并非全是好消息 - Al Jazeera",
+      "title_cn": "为什么中国1万亿美元的贸易顺差对经济来说并非全是好消息 - Al Jazeera",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxOZV95STRtMWZoX0pmMWxWa3JBcVZsRFdoNERTNU9uTTNFYjBRb2RYY2NFZ1R5cEtDV2R6Y0ZwMG42TVNGVk1NR3EzS0FLUmpJWDJoMVVNWXFSenU3Q2ZSYjJwb0taaVh2NmxkQ29jc2FSaGd2ZlpNYWk1Z0FGMUljSGo3UnBjVGEwYktIbjV6YndCcFNPU3EyM0VZMzRJendqUEpVVVdtdS02dUkxaXU5NG9uRnowUdIBuwFBVV95cUxPMHhkXzZLYjk1SDNuOF80RGNKdF9YVEVVd0hVb3lsbzRYU0NJRi1LRFUwN3ZWRjJ2V0o1Tldpa3Y0RTRYM0NjQ29TZEluNjZPRmxjMkg5UzVzUGxJMUhtdi1tSlBFS2J5Nnp6RlJKSjNVLWsycWhfSUtuWnBuOXpiODdKRE02TDF6T29NcWxxQ1RTX0F4Qm5JdXowUWZoN0JFRnN4SUNnN1lETFNHRmRLTWdlNTYydnNuSHRZ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T08:36:09.000Z",
+      "pub_sort_dt": "2026-11-11 16:36:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "詹姆斯·乌特迈尔以与古巴和中国的关联为由，向“民主社会主义者联盟”（DSA）发出传票 - Florida Politics",
-      "title_cn": "詹姆斯·乌特迈尔以与古巴和中国的关联为由，向“民主社会主义者联盟”（DSA）发行传票 - Florida Politics",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxNWmJtWnU1M0dUc00wejZ2MVNFSUlZS3MzaU00WnJuR2ppVHZBUS1wc0dMNy0tX185Nng5OUYxT2NKaS1xNnIzdFBpZkE5a1BHeWQ0SFo0eVByN1J1VHlUekdfS0dRVmUwaFlGdjNJMUpKX3BtVHBSS2NJTnpmX3d6a1RmWl9MNUR1ZWVYNUxlVkpoTlZDQmc3Z2gtV3JuS3dRQk5mWE5n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T20:09:57.000Z",
-      "pub_sort_dt": "2026-11-11 04:09:57"
+      "title_en": "观点 随着中国内地人口老龄化加剧并拥抱人工智能，香港必须迎头赶上 - South China Morning Post",
+      "title_cn": "观点 随着中国内地人口老龄化加剧并拥抱人工智能，香港必须迎头赶上 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQalBmZFc3cjlkTkhyTWphUlhaM3JGeFVUQ0xteXl4Uko1UHJXUVFYTEhWMFdQRDFYb3p3QnU1eGIzbmhNNTlGVUt5MHZ5NlM0SGJjU1RJSDhQUUo4WnUwUmItZTh3RkFyblBuVTRKV3ZVanFPZEtMUU9JWk9qZjA0bDBLX3dHM2U5Q09tbEtWeUs0SzZjRnZhSENvZk85aFdJVmJETHhNcTZXY3Q0U2JxcmZOc23SAbQBQVVfeXFMTmZhMnRPRXZranN2VTZxcm0tbUxSamNLc0t2aVdrcW8waU4xaEVPWklKa09namV3aW1ORlZ4LW1ZSTNoRVhjSklUNDFzNUh5c0xYMTk1QVUteHc2Z0F3SXZseXBHb0FhQXcyczJsa1d2WkJCbnNUUm5XRnU3eGV3WTBJd2FIcHBZOHlJRTc1MFZfYllZNTltOWQzNHU5emVZWTZZa2ZldUlzZHhoWGxSS3FkT0E2?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T08:30:27.000Z",
+      "pub_sort_dt": "2026-11-11 16:30:27"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国那些老派的间谍手段依然盛行 - Axios",
-      "title_cn": "中国那些老派的间谍手段依然盛行 - Axios",
-      "url": "https://news.google.com/read/CBMie0FVX3lxTE84ZmI1V0NzM0VQc2tzSlZJVm15RG9ZeG5wR2QtTmlVd3N3TUJ5OUc2NEd0TEZBVTlBa1pZMVQybFJPczJrRzJCSkJTZWQxTGdQbzA3VDNScVV6X2I2dS1TZzUxU1pObUJpbF9PTHFhU0lwRmZRR1NfbWFaZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T20:07:13.000Z",
-      "pub_sort_dt": "2026-11-11 04:07:13"
+      "title_en": "面对中国市场日益激烈的竞争，日产下调年度销量预期 - Anadolu Ajansı",
+      "title_cn": "面对中国市场日益激烈的竞争，日产下调年度销量预期 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxPTXA0N282OUZhWFcxNmJKTFJSM2NwcVZ6R1paRmp6eThIUTZPNDBtS3lGUzRQQnJ3ekNJaTdQTWNRVzJaZm5KVDVrWGItcWo0ZFJITVRwenBQVkMySjN5Smh5N0stdGpXVVR6ZzYwTHpfNnM0aXpYek9ValdiVUFlenF4aW9kNl8wRTFqQmZEcVRsT3NHaFZJT243bXYydE1tb3ktMVJIOA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T08:19:52.000Z",
+      "pub_sort_dt": "2026-11-11 16:19:52"
     },
     {
       "source": "China Buzzing",
-      "title_en": "尽管特朗普予以否认，但在访华期间，他确实被告知了关于监视英伟达高管的内情 - The New York Times",
-      "title_cn": "尽管特朗普拒绝否认，但在访华期间，他确实被告知了有关监视英伟达高管的内幕 - 纽约时报",
-      "url": "https://news.google.com/read/CBMigAFBVV95cUxNNC1PeXp3dElIZEN0SUdTQ2lnMGZoM2UzOUt4VWZkSnJfNy1nYkJLdW1KRkdtNFQwMUZEWlY0bnJZTFFnSjBnU1pxMWI4d2MwRlk0bmRydTJqbU95dXhEcDZIbDJod1dnMEQyOEZRTUY1Qy1wRGpwc0VYUEQ3NVAwRQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T19:27:59.000Z",
-      "pub_sort_dt": "2026-11-11 03:27:59"
+      "title_en": "独家：消息人士称，大众汽车在中国的电动汽车合资企业未来两年内暂无推出新车型的计划 - WTVB",
+      "title_cn": "独家：消息人士称，大众汽车在中国的电动汽车合资企业未来两年内暂无推出新车型的计划 - WTVB",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxOS0E0dkpwcG9LdUtoWFBOTXBEb2JWWGJUdDJicG1pQlUtNk9HTkZkSVlvUmRBTmZnc21CWVFySkNmWEd1MjZZVGRSYklkRGdpVC1ybElQT2dQNEx3MkZFWFo4dm1Ic0l5X1VjMTdBTE9NZVBEYjlCemFvOEQyNUcxX2kwbnAyMGg4dXpmWTZ6YmNveWFuSGZZWGhzdlJrZDVkMmV0bFpzYkNJaThuSGZaOENPcjcwZDUtV0pzZzBoUGNjVVNH?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T08:12:28.000Z",
+      "pub_sort_dt": "2026-11-11 16:12:28"
     },
     {
       "source": "China Buzzing",
-      "title_en": "一位前香港居民批评谢菲尔德与中国的结对安排 - BBC",
-      "title_cn": "一位前香港球员后卫谢菲尔德与中国的结对安排 - BBC",
-      "url": "https://news.google.com/read/CBMiW0FVX3lxTE9NSU90VG5TV3B1SjJxbERFU1FPWENmQTZiNE1VeElmVGhOQ0RSWTZkOGtKNHl5ZzJoa011OVRCMmlLRXlMS3dmRlRBcS1sNER1MmJoVGdMWU55a0k?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T19:01:56.000Z",
-      "pub_sort_dt": "2026-11-11 03:01:56"
+      "title_en": "中国“一石二鸟”的外交威胁如何迫使日本高市退让 - South China Morning Post",
+      "title_cn": "中国“一石二鸟”的外交威胁如何迫使日本高市退让 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi1wFBVV95cUxQODRkbkJ3R1RMTlljTnRVTHJKTTRMZGYwZHlrWnVIem83QTVPVDh2TVJwQmtlMTJ3MVBMbUJYcm41UHY5VHJmV3VNVVQ5eXc1b05FY1FSYnlWZkhabE5JUlMyaW5vTk03M2VlSDRmblFMcERCQjFKbXotVU1ObmpsUFlzZDhYWjdUekFrLWJnX1NLUldkZDYwSzlCZEdRVXcxMzBNU3o0eGYwUC15V0NkMzBnQi1WN0d4VXVUcGVnMVhsT2hMTmNIckRnNndNZFpXWTFjWnJ6TdIBxgFBVV95cUxNX3I5V0FIYV9nWkIxSkZ1aTRyMDRTVnRyV29MX0dlbmhUYVlTbXRwVmJZdGVsSElPalNqYjFyVWl0eFhaSHNXLTNuSjFaeWFrclJtQU1Ec1BTY2NSdC1QaURlaHJ5d3I2TkFibTdhNXZaRjNOSkl0QTJqMXdrbjRlV3NSRlFxU0ZBT1MxZlBaZXRHNWRTNGFUbHJUdS15ZU5qMHBuRHk4X25LNW44QW5KWVl2b2o5ZVpWaTRtcFBEQV9oODZocVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T08:00:37.000Z",
+      "pub_sort_dt": "2026-11-11 16:00:37"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "中国加强税收监管，从离岸信托中收回240亿美元",
+      "title_cn": "中国加强税收监管，从离岸信托中收回240亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-s-tax-clampdown-brings-in-24-billion-from-offshore-trusts",
+      "pub_raw": "2026-11-11T09:35:42.233Z",
+      "pub_sort_dt": "2026-11-11 17:35:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国锂业巨头称价格波动已变得极端",
+      "title_cn": "中国锂业巨头称价格波动已变得极端",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/chinese-lithium-giant-says-price-swings-have-turned-more-extreme",
+      "pub_raw": "2026-11-11T09:19:48.968Z",
+      "pub_sort_dt": "2026-11-11 17:19:48"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "新华社报道：中国支持古巴反对制裁和封锁，并承诺给予“坚定支持”",
+      "title_cn": "新华社报道：中国支持古巴反对制裁和封锁，并承诺给予“坚定支持”",
+      "url": "https://reut.rs/4eWZdMA",
+      "pub_raw": "2026-11-11T08:47:43.155Z",
+      "pub_sort_dt": "2026-11-11 16:47:43"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "大众汽车中国市场电动汽车销量攀升至历史新高，显示出业务好转的迹象",
+      "title_cn": "大众汽车中国市场电动汽车销量攀升至历史新高，显示出业务好转的迹象",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/vw-china-ev-sales-climb-to-monthly-record-in-sign-of-turnaround",
+      "pub_raw": "2026-11-11T08:15:47.227Z",
+      "pub_sort_dt": "2026-11-11 16:15:47"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "发展中国家8亿个就业岗位缺口引发新的风险",
+      "title_cn": "发展中国家8亿个就业岗位缺口引发新的风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/an-800-million-jobs-gap-in-the-developing-world-fans-new-risks",
+      "pub_raw": "2026-11-11T07:59:47.835Z",
+      "pub_sort_dt": "2026-11-11 15:59:47"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国评估债券利息税，债券收益率接近历史低点",
+      "title_cn": "中国评估债券利息税，债券收益率接近历史低点",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-gauges-tax-on-bond-interest-with-yields-near-record-low",
+      "pub_raw": "2026-11-11T07:59:47.811Z",
+      "pub_sort_dt": "2026-11-11 15:59:47"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "根据一项旨在加强双方关系的计划，美国联邦雇员将在台湾政府办公场所工作",
+      "title_cn": "根据一项旨在加强双方关系的计划，美国联邦雇员将在台湾政府办公场所工作",
+      "url": "https://reut.rs/48hP9Kr",
+      "pub_raw": "2026-11-11T07:27:56.984Z",
+      "pub_sort_dt": "2026-11-11 15:27:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "日产因中国市场竞争加剧下调汽车销量预期",
+      "title_cn": "日产因中国市场竞争加剧下调汽车销量预期",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/nissan-pares-car-sales-forecast-on-tougher-china-competition",
+      "pub_raw": "2026-11-11T07:11:39.726Z",
+      "pub_sort_dt": "2026-11-11 15:11:39"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "独家报道：记录显示，一家与中国人民解放军有关联的中国大学尽管被列入美国黑名单，仍购买了英伟达H200芯片",
+      "title_cn": "独家报道：记录显示，一家与中国人民解放军有关联的中国大学尽管被列入美国黑名单，仍购买了英伟达H200芯片",
+      "url": "https://reut.rs/4sPWGJO",
+      "pub_raw": "2026-11-11T05:35:49.308Z",
+      "pub_sort_dt": "2026-11-11 13:35:49"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "欧洲在与中国竞争方面的努力日益加剧",
+      "title_cn": "欧洲在与中国竞争方面的努力日益加剧",
+      "url": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-11T05:19:53.813Z",
+      "pub_sort_dt": "2026-11-11 13:19:53"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "英伟达间谍丑闻揭露了新加坡在中国人工智能芯片贸易中的作用",
+      "title_cn": "英伟达间谍丑闻揭露了新加坡在中国人工智能芯片贸易中的作用",
+      "url": "https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-11T05:19:53.510Z",
+      "pub_sort_dt": "2026-11-11 13:19:53"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "阿里巴巴旗下芯片设计部门T-Head提交香港IPO申请",
+      "title_cn": "阿里巴巴旗下芯片设计部门T-Head提交香港IPO申请",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing",
+      "pub_raw": "2026-11-11T03:11:46.475Z",
+      "pub_sort_dt": "2026-11-11 11:11:46"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国铜荒导致成本飙升，行业陷入被动",
+      "title_cn": "中国铜荒导致成本飙升，行业陷入被动",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-s-copper-crunch-puts-industry-on-defensive-as-costs-soar",
+      "pub_raw": "2026-11-11T02:39:44.207Z",
+      "pub_sort_dt": "2026-11-11 10:39:44"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国寄望于退休人员提振疲软的经济",
+      "title_cn": "中国寄望于退休人员提振疲软的经济",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-counts-on-retirees-to-boost-sluggish-economy",
+      "pub_raw": "2026-11-11T00:16:45.449Z",
+      "pub_sort_dt": "2026-11-11 08:16:45"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "《王者荣耀》与《白雪迷雾》助中国从美国手中夺得手游桂冠",
+      "title_cn": "《王者荣耀》与《白雪迷雾》助中国从美国手中夺得手游桂冠",
+      "url": "https://www.bloomberg.com/news/features/2026-11-10/honor-of-kings-whiteout-survival-help-china-seize-mobile-gaming-crown-from-us",
+      "pub_raw": "2026-11-10T23:13:42.939Z",
+      "pub_sort_dt": "2026-11-11 07:13:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在中国大型进口展上，卖家们正努力打入这个竞争激烈的市场",
+      "title_cn": "在中国大型进口展上，卖家们正努力打入这个竞争激烈的市场",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/at-china-s-big-import-fair-sellers-try-to-crack-a-tough-market",
+      "pub_raw": "2026-11-10T23:13:42.936Z",
+      "pub_sort_dt": "2026-11-11 07:13:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国电动汽车制造商发现，随着出口增长，人民币升值正侵蚀其利润",
+      "title_cn": "中国电动汽车制造商发现，随着出口增长，人民币升值正侵蚀其利润",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/china-ev-makers-see-yuan-rally-erode-profit-as-exports-grow",
+      "pub_raw": "2026-11-10T22:26:07.287Z",
+      "pub_sort_dt": "2026-11-11 06:26:07"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "英伟达看涨前景取决于CEO黄仁勋能否挺过中国间谍调查",
-      "title_cn": "英伟达看涨前景依赖CEO黄仁勋能否支撑中国间谍调查",
+      "title_cn": "英伟达看涨前景取决于CEO黄仁勋能否挺过中国间谍调查",
       "url": "https://www.bloomberg.com/news/articles/2026-11-10/nvidia-s-bull-case-hinges-on-ceo-huang-surviving-china-spy-probe",
       "pub_raw": "2026-11-10T21:21:55.865Z",
       "pub_sort_dt": "2026-11-11 05:21:55"
@@ -115,229 +251,229 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-10/china-s-chery-prepares-winter-adapted-electric-suv-for-canada",
       "pub_raw": "2026-11-10T17:22:16.173Z",
       "pub_sort_dt": "2026-11-11 01:22:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "药明康德被移出五角大楼的“中国军工企业名单”",
-      "title_cn": "药明康德被移出五角大楼的“中国军工企业名单”",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/wuxi-apptec-removed-from-pentagon-s-chinese-military-firms-list",
-      "pub_raw": "2026-11-10T16:49:51.924Z",
-      "pub_sort_dt": "2026-11-11 00:49:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "阿里巴巴旗下芯片设计部门T-Head提交香港上市申请",
-      "title_cn": "阿里巴巴推出芯片设计部门T-Head提交香港上市申请",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing",
-      "pub_raw": "2026-11-10T14:57:55.517Z",
-      "pub_sort_dt": "2026-11-10 22:57:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国那些“经营艰难但尚未倒闭”的汽车制造商给全球带来痛苦",
-      "title_cn": "中国那些“经营困难但尚未倒闭”的汽车制造商给全球带来痛苦",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/china-s-living-badly-but-not-dying-carmakers-spread-global-pain",
-      "pub_raw": "2026-11-10T12:18:58.595Z",
-      "pub_sort_dt": "2026-11-10 20:18:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国对台湾和世界的看法在于恢复“秩序”",
-      "title_cn": "中国对台湾和世界的房价恢复“秩序”",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/china-s-view-on-taiwan-and-the-world-is-about-restoring-order",
-      "pub_raw": "2026-11-10T12:18:58.585Z",
-      "pub_sort_dt": "2026-11-10 20:18:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国贸易顺差",
-      "title_cn": "中国贸易顺差",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/china-trade-surplus",
-      "pub_raw": "2026-11-10T12:18:58.582Z",
-      "pub_sort_dt": "2026-11-10 20:18:58"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据《Information》报道，英伟达首席执行官与一名涉嫌间谍的女子的婚外情，促成了价值75亿美元的中国芯片出货",
-      "title_cn": "据《资讯》报道，英伟达最终与一名涉嫌嫌疑女子的婚外情，最初获得了价值75亿美元的中国芯片出货量",
-      "url": "https://reut.rs/4k2972V",
-      "pub_raw": "2026-11-10T12:18:58.525Z",
-      "pub_sort_dt": "2026-11-10 20:18:58"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "随着中国迅猛的发展势头放缓，各国正加快发展可再生能源",
-      "title_cn": "随着中国迅猛的发展喘息，各地正加快发展可再生能源",
-      "url": "https://www.ft.com/content/71f35844-9635-4cfe-bf47-39a4014dc8ee?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-10T12:18:58.457Z",
-      "pub_sort_dt": "2026-11-10 20:18:58"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "10月，中国贸易顺差飙升至1万亿美元以上",
-      "title_cn": "10月，中国贸易顺差飙升至1万亿美元以上",
-      "url": "https://on.wsj.com/48fnFFg",
-      "pub_raw": "2026-11-10T12:18:57.912Z",
-      "pub_sort_dt": "2026-11-10 20:18:57"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "意大利检方就亚马逊销售中国商品一事对其展开调查",
-      "title_cn": "意大利检方就亚马逊销售中国商品一事就此展开调查",
-      "url": "https://reut.rs/3UtSd2W",
-      "pub_raw": "2026-11-10T10:58:36.284Z",
-      "pub_sort_dt": "2026-11-10 18:58:36"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "英伟达首席执行官黄仁勋的困境在其出生地台湾引发了同情与难以置信",
-      "title_cn": "英伟达领袖黄仁勋在其出生地台湾的困境引发了极大的共鸣",
-      "url": "https://reut.rs/4AkPfg6",
-      "pub_raw": "2026-11-10T10:58:36.280Z",
-      "pub_sort_dt": "2026-11-10 18:58:36"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受中国库存开始上升的消息影响，铝价下跌",
-      "title_cn": "受中国库存开始上升的消息影响，铝价下跌",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/copper-extends-rebound-as-global-technology-stocks-resume-rally",
-      "pub_raw": "2026-11-10T09:06:44.806Z",
-      "pub_sort_dt": "2026-11-10 17:06:44"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "缅甸游说美国投资其稀土行业，该行业目前由中国主导",
-      "title_cn": "中东游说美国投资其稀土行业，该行业目前由中国主导",
-      "url": "https://reut.rs/3Ulgk3O",
-      "pub_raw": "2026-11-10T07:14:45.491Z",
-      "pub_sort_dt": "2026-11-10 15:14:45"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国煤炭买家对印尼矿商的合同要求持保留态度",
-      "title_cn": "中国煤炭采购商对谈判矿商的合同要求保持态度",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/chinese-coal-buyers-balk-at-indonesian-miners-contract-demands-rkab",
-      "pub_raw": "2026-11-10T06:10:50.984Z",
-      "pub_sort_dt": "2026-11-10 14:10:50"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "黄爱丽是谁？这位与中国英伟达首席执行官有牵连的中国女商人是谁？",
-      "title_cn": "这位与中国英伟达总裁有牵连的中国女移植者是谁？",
-      "url": "https://reut.rs/3WAoOVl",
-      "pub_raw": "2026-11-10T05:54:51.309Z",
-      "pub_sort_dt": "2026-11-10 13:54:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "文件显示，Moonshot在中国租赁了英伟达的顶级AI芯片",
-      "title_cn": "文件显示，Moonshot在中国拥有英伟达的顶级AI芯片",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show",
-      "pub_raw": "2026-11-10T05:06:58.475Z",
-      "pub_sort_dt": "2026-11-10 13:06:58"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "受中东战争影响，中国10月原油进口量升至3月以来的最高水平",
-      "title_cn": "受中东战争影响，中国10月原油进口量创3月以来最高水平",
-      "url": "https://reut.rs/4iAOSYY",
-      "pub_raw": "2026-11-10T05:06:58.428Z",
-      "pub_sort_dt": "2026-11-10 13:06:58"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "大众汽车为何要向全球销售其在中国生产的汽车",
-      "title_cn": "大众汽车为何要向全球销售其在中国生产的汽车",
-      "url": "https://www.ft.com/content/1186c272-afc7-4561-9bf8-aa3bc0464a91?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-10T05:06:57.477Z",
-      "pub_sort_dt": "2026-11-10 13:06:57"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "国内供需失衡将制约中国经济前景 - RANE Worldview",
-      "title_cn": "供国内需失衡将否定中国经济前景 - RANE Worldview",
-      "url": "https://news.google.com/read/CBMi-gFBVV95cUxPTzRZZjh3SjJfVFNfcnNaTERIeGxjWWVWcmJGejNzb1JxZ3NpdVJ6R2U0aEJWVnYzeVZxbnBCVGQtTHBmN0NsbUtSMmc4Q0kyY3RuNkVaa24wMmlmUWtLaHBmbXlJOUJoMExwcXZQUlJwVVpsSk5xcFpUbW1LbldCaXhCd2pnVk1xTXdMNlFVM3pJVXdDaGNNdmU4OV9BX2E5NUV5cndDZ05jdzlrZzN6YzJsTUgwQW5Tdk9CaHVqbUZFaEo4MFBvZU9QakxoQ2RYRzlHQ3RYZjlIamRtNkNoT0lFSmZNTnpUQVJrMllJX0kxOEZqVGQ0c2hR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T21:40:00.000Z",
-      "pub_sort_dt": "2026-11-11 05:40:00"
+      "title_en": "10月中国乘用车出口激增，而国内需求依然疲软 - Newsday",
+      "title_cn": "10月中国乘用车出口激增，而国内需求依然疲软 - Newsday",
+      "url": "https://news.google.com/read/CBMihgFBVV95cUxQU3FyOXFGWXVyYV92eW5pSUs3ZXc1SE90RnlyZU45ejdnTjZCMjJabzBKbHBQMWlTU191ZHFaSmJQWkhTV2JHNHg0akJEenFCX21EQjBlcFdPMmp0cFFOY3Rvbm5HVU1UY1Z4YjY0azlwT2FwYzRkV0ZTVExkOC1JcWhGaURkZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T09:40:57.000Z",
+      "pub_sort_dt": "2026-11-11 17:40:57"
     },
     {
       "source": "China Buzzing",
-      "title_en": "伊朗议会议长称，中国可在结束伊朗与美国之间的“不战不和”局面方面发挥关键作用 - Anadolu Ajansı",
-      "title_cn": "伊朗议会议长称，中国可在结束伊朗与美国之间的“不战不和”统治方面发挥关键作用 - Anadolu Ajansı",
-      "url": "https://news.google.com/read/CBMi5wFBVV95cUxPQlRRNzRHN1VHTTB6WjdHSUxoazQtMG1kLVcydWxJQzBvRlFyMm9zOXJsSXBuOWkxb1B5UUZyZUU2eE5aWlV3ZW9vV0NRenREVWw3MTZwUlAxYXZrSGZTeWNVQk1yWnlJbVc1R3N3eFN5bG81LXU1S0Uyak1BcU1mZG50QlRidm9wQ2xwZ3ZTNHpCSUw3VXl2LURJeGhJRVBpb0FPYnFMcjNjMHV1T3Q4QndHN1FGZkZ6SE1xTUtNZTU1QV9fX1hHazRnSGVFWG1FaUtOSFFwSE5taVpxazZic0NPWVk5M0k?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T21:29:16.000Z",
-      "pub_sort_dt": "2026-11-11 05:29:16"
+      "title_en": "德国一项研究对比了来自中国、欧洲和美国的电动机 - electrive.com",
+      "title_cn": "德国一项研究对比了来自中国、欧洲和美国的电动机 - electrive.com",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxONE4wT051TkZMX205LUxBRFdSQnVRbWRlRGpYaEFmLXUxc3ZrRXIyM1p4WUswRVZQRDNXbnFuWmtrbWFGWlRRbVYwa1RlMmlsWmtEZlVNRXZlalN0QVl0c00xZHVJeDhCTndTUWlkYTFSbk5YS0RDX0szZXFnaE9wOVZtMjhCcUVpUDJvLWtqRy0zejIzdjJvaHdvbTZzVVZPY0xPWFpLREI?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T09:30:00.000Z",
+      "pub_sort_dt": "2026-11-11 17:30:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "观点 中国的黄仁勋事件 - WSJ",
-      "title_cn": "观点中国的黄仁勋事件 - 华尔街日报",
-      "url": "https://news.google.com/read/CBMib0FVX3lxTE5wQmhqbGRLLU5jOVVuWHktSnR6NEIzZlMxdUUxS3IwV3NTWlg1U1JmZHQ2VjNlQ1J2U28yNXpGVEU3WTVNR1poaDhiTXEtNUtrTUlUck93N05JZ19lUFVacVo4amR2dzNWMjRaX0lDNA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T21:14:01.000Z",
-      "pub_sort_dt": "2026-11-11 05:14:01"
+      "title_en": "中国加强税收监管，从离岸信托中收回240亿美元 - Bloomberg.com",
+      "title_cn": "中国加强税收监管，从离岸信托中收回240亿美元 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxNT3hUbE9ER01hWTRwdG5DLWF5ejVrT2lIYkN0Z08xaF9xRlZ4d1JaYThDT0VQcUgwM1l1S0NUYVZrb0h6XzhpNzFLZXdybHlzZnpMMHlXMGhlQV9makgwSVFPQjZKUExGbEo5dDA2bWF2VXhraWNMMVJjSXY0MlhqQ0IyUTNoWVdKbW44S2daSWg2SGotQXhiNFExUXdneGJzYlktUWZyQmxydWlhSDFSUXpwNHA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T09:18:24.000Z",
+      "pub_sort_dt": "2026-11-11 17:18:24"
     },
     {
       "source": "China Buzzing",
-      "title_en": "“电动巨龙崛起”：随着中国电动汽车席卷全球，华为重写汽车市场规则 - Nippon.com",
-      "title_cn": "“电动巨龙崛起”：随着中国电动汽车席卷全球，华为重写汽车市场规则 - Nippon.com",
-      "url": "https://news.google.com/read/CBMiVEFVX3lxTFBhWWZLcHotajV5N3g1Q1plN29IaWNxTE56WjV2M1UxeEtaZkQ0R1AwLUM4UzRha05WdFBEcm9HVWtUd0Rvc0JiMjJsc1FrZ28wdGFFZQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T21:01:00.000Z",
-      "pub_sort_dt": "2026-11-11 05:01:00"
+      "title_en": "在蓬勃发展的液化天然气运输船市场中，中国船厂超越了韩国船厂 - South China Morning Post",
+      "title_cn": "在蓬勃发展的液化天然气运输船市场中，中国船厂超越了韩国船厂 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxObHM4RkQ0RnRQMFkxa05ta3NSYWZzOXdReGVJNXBfQThMczJFWnNVVGdQel9IUHdkb0J1WTlSZ2tkbHZIQ1hubUhKRUxlMGVVLWMzdFFKaVItMll0cmsxbEdIVHp5MXdGc1dkRzBRRGllLWEtUnk5bHhQTXcyVVIyeHpWR0RnN1NaclBibWMwbkRkRzlHOHFTbERJaHVRYVJjTG1wdDQxZ1lSNGZlbW5NMXhlUzFCcWvSAbcBQVVfeXFMTWpCa0RvcnNrMGwxTGgtX0pGM1RCT3NrLU9uXzJybG5nR0V1dkJYOWU3bXAtT0hfWVQyRTRxSEppZE1UTlR1M21LVDI0eWpndTlYSFpQMzlzcWViQXRsOWkyTVhTTjJ0OE04SXEyM1h3X205VVVWdjAzOVVnZjR5QlJ4V2wyUDJSUWJ1QkU2MXFSY0tLZEhhaFFoSEZhcmNwYUFoYlZfZ2YwSkd1UTgwMmpjamhMWlU0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T09:00:22.000Z",
+      "pub_sort_dt": "2026-11-11 17:00:22"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国在铁矿石采购方面的影响力使得每笔交易都成为市场焦点 - Bloomberg.com",
-      "title_cn": "中国在铁矿石采购方面的影响力使得每一笔交易都成为市场焦点 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMisAFBVV95cUxPRUtWQmpzTnAwUG5zbjNmb3V1c3dXeFJEUWgwbW9mMlVlT2lKZ1pJRm1vaFU5SUE5aktzcmhYVHh3YjJJU1p2Qk83LW92TDg1Ty0tY3g2bFVMLVFIVm1OZkRmQTRvVHF4Skp5RnRfc1pLNEtlR19JaW9qalVTRGZBVFZ6Y0hZejZZUE5ndDNlNTl6ME9GVGc4OUloTUxjSHM3Z0k0XzN6OW13UGE2LWFENQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T21:00:00.000Z",
-      "pub_sort_dt": "2026-11-11 05:00:00"
+      "title_en": "中国如何利用卫生外交扩大其在非洲的影响力 - The Africa Report",
+      "title_cn": "中国如何利用卫生外交扩大其在非洲的影响力 - The Africa Report",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxPZUo5aHBHaVYtUkowWTlxVzJ2Ynp0TnFhbU1hTXZyQ0lNRDlhdHdZekZHMm1RSnFCQ1d4alhzWkRCUUIyY3R3czBXc3JBYm5wSlJNdlVwR292U1VncWRxV2dUamVkSFdZQ1VUcGxKV0VlcUFlZk5NdTlaQWZuRFBPYU5uZHFaeEJUaHFKYnhhRC10WnBGaEJ0RkM4YjBUS2ZSV2ZhWklTMVk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T08:59:18.000Z",
+      "pub_sort_dt": "2026-11-11 16:59:18"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国嘲讽美国就多米尼加关闭一家由中国经营的工厂一事表示“祝贺” - South China Morning Post",
-      "title_cn": "中国嘲笑美国就多米尼加关闭一家由中国经营的工厂一事表示“祝贺” - 南华早报",
-      "url": "https://news.google.com/read/CBMiywFBVV95cUxQQnpMTFZjU2FtYVd3N3ZqXzh3NGJvTlJzZnF2S2d0dnh0S1NOUjJUVUlRUTJkVEo0bkhJXzNEWE5jVHF6dVMtbzlmX3drNXJPME9Vb19BTUVLSVJvSEYtR0poZXRnbjNLcDhScVF0RTI3UXpsWTVIN01RU2xoZFMtb0lsUEtJV1B3V252TUJWM1ZPdF90cmY1Qi1icFh2SDRYNDBrRlBSVEMwbmFMOFV5RFRmbmdJMGV2YlV2UWhHa0ExZWh1N0oyNWNqTQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T20:49:11.000Z",
-      "pub_sort_dt": "2026-11-11 04:49:11"
+      "title_en": "为什么中国1万亿美元的贸易顺差对经济来说并非全是好消息 - Al Jazeera",
+      "title_cn": "为什么中国1万亿美元的贸易顺差对经济来说并非全是好消息 - Al Jazeera",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxOZV95STRtMWZoX0pmMWxWa3JBcVZsRFdoNERTNU9uTTNFYjBRb2RYY2NFZ1R5cEtDV2R6Y0ZwMG42TVNGVk1NR3EzS0FLUmpJWDJoMVVNWXFSenU3Q2ZSYjJwb0taaVh2NmxkQ29jc2FSaGd2ZlpNYWk1Z0FGMUljSGo3UnBjVGEwYktIbjV6YndCcFNPU3EyM0VZMzRJendqUEpVVVdtdS02dUkxaXU5NG9uRnowUdIBuwFBVV95cUxPMHhkXzZLYjk1SDNuOF80RGNKdF9YVEVVd0hVb3lsbzRYU0NJRi1LRFUwN3ZWRjJ2V0o1Tldpa3Y0RTRYM0NjQ29TZEluNjZPRmxjMkg5UzVzUGxJMUhtdi1tSlBFS2J5Nnp6RlJKSjNVLWsycWhfSUtuWnBuOXpiODdKRE02TDF6T29NcWxxQ1RTX0F4Qm5JdXowUWZoN0JFRnN4SUNnN1lETFNHRmRLTWdlNTYydnNuSHRZ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T08:36:09.000Z",
+      "pub_sort_dt": "2026-11-11 16:36:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "詹姆斯·乌特迈尔以与古巴和中国的关联为由，向“民主社会主义者联盟”（DSA）发出传票 - Florida Politics",
-      "title_cn": "詹姆斯·乌特迈尔以与古巴和中国的关联为由，向“民主社会主义者联盟”（DSA）发行传票 - Florida Politics",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxNWmJtWnU1M0dUc00wejZ2MVNFSUlZS3MzaU00WnJuR2ppVHZBUS1wc0dMNy0tX185Nng5OUYxT2NKaS1xNnIzdFBpZkE5a1BHeWQ0SFo0eVByN1J1VHlUekdfS0dRVmUwaFlGdjNJMUpKX3BtVHBSS2NJTnpmX3d6a1RmWl9MNUR1ZWVYNUxlVkpoTlZDQmc3Z2gtV3JuS3dRQk5mWE5n?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T20:09:57.000Z",
-      "pub_sort_dt": "2026-11-11 04:09:57"
+      "title_en": "观点 随着中国内地人口老龄化加剧并拥抱人工智能，香港必须迎头赶上 - South China Morning Post",
+      "title_cn": "观点 随着中国内地人口老龄化加剧并拥抱人工智能，香港必须迎头赶上 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQalBmZFc3cjlkTkhyTWphUlhaM3JGeFVUQ0xteXl4Uko1UHJXUVFYTEhWMFdQRDFYb3p3QnU1eGIzbmhNNTlGVUt5MHZ5NlM0SGJjU1RJSDhQUUo4WnUwUmItZTh3RkFyblBuVTRKV3ZVanFPZEtMUU9JWk9qZjA0bDBLX3dHM2U5Q09tbEtWeUs0SzZjRnZhSENvZk85aFdJVmJETHhNcTZXY3Q0U2JxcmZOc23SAbQBQVVfeXFMTmZhMnRPRXZranN2VTZxcm0tbUxSamNLc0t2aVdrcW8waU4xaEVPWklKa09namV3aW1ORlZ4LW1ZSTNoRVhjSklUNDFzNUh5c0xYMTk1QVUteHc2Z0F3SXZseXBHb0FhQXcyczJsa1d2WkJCbnNUUm5XRnU3eGV3WTBJd2FIcHBZOHlJRTc1MFZfYllZNTltOWQzNHU5emVZWTZZa2ZldUlzZHhoWGxSS3FkT0E2?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T08:30:27.000Z",
+      "pub_sort_dt": "2026-11-11 16:30:27"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国那些老派的间谍手段依然盛行 - Axios",
-      "title_cn": "中国那些老派的间谍手段依然盛行 - Axios",
-      "url": "https://news.google.com/read/CBMie0FVX3lxTE84ZmI1V0NzM0VQc2tzSlZJVm15RG9ZeG5wR2QtTmlVd3N3TUJ5OUc2NEd0TEZBVTlBa1pZMVQybFJPczJrRzJCSkJTZWQxTGdQbzA3VDNScVV6X2I2dS1TZzUxU1pObUJpbF9PTHFhU0lwRmZRR1NfbWFaZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T20:07:13.000Z",
-      "pub_sort_dt": "2026-11-11 04:07:13"
+      "title_en": "面对中国市场日益激烈的竞争，日产下调年度销量预期 - Anadolu Ajansı",
+      "title_cn": "面对中国市场日益激烈的竞争，日产下调年度销量预期 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxPTXA0N282OUZhWFcxNmJKTFJSM2NwcVZ6R1paRmp6eThIUTZPNDBtS3lGUzRQQnJ3ekNJaTdQTWNRVzJaZm5KVDVrWGItcWo0ZFJITVRwenBQVkMySjN5Smh5N0stdGpXVVR6ZzYwTHpfNnM0aXpYek9ValdiVUFlenF4aW9kNl8wRTFqQmZEcVRsT3NHaFZJT243bXYydE1tb3ktMVJIOA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T08:19:52.000Z",
+      "pub_sort_dt": "2026-11-11 16:19:52"
     },
     {
       "source": "China Buzzing",
-      "title_en": "尽管特朗普予以否认，但在访华期间，他确实被告知了关于监视英伟达高管的内情 - The New York Times",
-      "title_cn": "尽管特朗普拒绝否认，但在访华期间，他确实被告知了有关监视英伟达高管的内幕 - 纽约时报",
-      "url": "https://news.google.com/read/CBMigAFBVV95cUxNNC1PeXp3dElIZEN0SUdTQ2lnMGZoM2UzOUt4VWZkSnJfNy1nYkJLdW1KRkdtNFQwMUZEWlY0bnJZTFFnSjBnU1pxMWI4d2MwRlk0bmRydTJqbU95dXhEcDZIbDJod1dnMEQyOEZRTUY1Qy1wRGpwc0VYUEQ3NVAwRQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T19:27:59.000Z",
-      "pub_sort_dt": "2026-11-11 03:27:59"
+      "title_en": "独家：消息人士称，大众汽车在中国的电动汽车合资企业未来两年内暂无推出新车型的计划 - WTVB",
+      "title_cn": "独家：消息人士称，大众汽车在中国的电动汽车合资企业未来两年内暂无推出新车型的计划 - WTVB",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxOS0E0dkpwcG9LdUtoWFBOTXBEb2JWWGJUdDJicG1pQlUtNk9HTkZkSVlvUmRBTmZnc21CWVFySkNmWEd1MjZZVGRSYklkRGdpVC1ybElQT2dQNEx3MkZFWFo4dm1Ic0l5X1VjMTdBTE9NZVBEYjlCemFvOEQyNUcxX2kwbnAyMGg4dXpmWTZ6YmNveWFuSGZZWGhzdlJrZDVkMmV0bFpzYkNJaThuSGZaOENPcjcwZDUtV0pzZzBoUGNjVVNH?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T08:12:28.000Z",
+      "pub_sort_dt": "2026-11-11 16:12:28"
     },
     {
       "source": "China Buzzing",
-      "title_en": "一位前香港居民批评谢菲尔德与中国的结对安排 - BBC",
-      "title_cn": "一位前香港球员后卫谢菲尔德与中国的结对安排 - BBC",
-      "url": "https://news.google.com/read/CBMiW0FVX3lxTE9NSU90VG5TV3B1SjJxbERFU1FPWENmQTZiNE1VeElmVGhOQ0RSWTZkOGtKNHl5ZzJoa011OVRCMmlLRXlMS3dmRlRBcS1sNER1MmJoVGdMWU55a0k?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-10T19:01:56.000Z",
-      "pub_sort_dt": "2026-11-11 03:01:56"
+      "title_en": "中国“一石二鸟”的外交威胁如何迫使日本高市退让 - South China Morning Post",
+      "title_cn": "中国“一石二鸟”的外交威胁如何迫使日本高市退让 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi1wFBVV95cUxQODRkbkJ3R1RMTlljTnRVTHJKTTRMZGYwZHlrWnVIem83QTVPVDh2TVJwQmtlMTJ3MVBMbUJYcm41UHY5VHJmV3VNVVQ5eXc1b05FY1FSYnlWZkhabE5JUlMyaW5vTk03M2VlSDRmblFMcERCQjFKbXotVU1ObmpsUFlzZDhYWjdUekFrLWJnX1NLUldkZDYwSzlCZEdRVXcxMzBNU3o0eGYwUC15V0NkMzBnQi1WN0d4VXVUcGVnMVhsT2hMTmNIckRnNndNZFpXWTFjWnJ6TdIBxgFBVV95cUxNX3I5V0FIYV9nWkIxSkZ1aTRyMDRTVnRyV29MX0dlbmhUYVlTbXRwVmJZdGVsSElPalNqYjFyVWl0eFhaSHNXLTNuSjFaeWFrclJtQU1Ec1BTY2NSdC1QaURlaHJ5d3I2TkFibTdhNXZaRjNOSkl0QTJqMXdrbjRlV3NSRlFxU0ZBT1MxZlBaZXRHNWRTNGFUbHJUdS15ZU5qMHBuRHk4X25LNW44QW5KWVl2b2o5ZVpWaTRtcFBEQV9oODZocVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-11T08:00:37.000Z",
+      "pub_sort_dt": "2026-11-11 16:00:37"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国加强税收监管，从离岸信托中收回240亿美元",
+      "title_cn": "中国加强税收监管，从离岸信托中收回240亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-s-tax-clampdown-brings-in-24-billion-from-offshore-trusts",
+      "pub_raw": "2026-11-11T09:35:42.233Z",
+      "pub_sort_dt": "2026-11-11 17:35:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国锂业巨头称价格波动已变得极端",
+      "title_cn": "中国锂业巨头称价格波动已变得极端",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/chinese-lithium-giant-says-price-swings-have-turned-more-extreme",
+      "pub_raw": "2026-11-11T09:19:48.968Z",
+      "pub_sort_dt": "2026-11-11 17:19:48"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "新华社报道：中国支持古巴反对制裁和封锁，并承诺给予“坚定支持”",
+      "title_cn": "新华社报道：中国支持古巴反对制裁和封锁，并承诺给予“坚定支持”",
+      "url": "https://reut.rs/4eWZdMA",
+      "pub_raw": "2026-11-11T08:47:43.155Z",
+      "pub_sort_dt": "2026-11-11 16:47:43"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "大众汽车中国市场电动汽车销量攀升至历史新高，显示出业务好转的迹象",
+      "title_cn": "大众汽车中国市场电动汽车销量攀升至历史新高，显示出业务好转的迹象",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/vw-china-ev-sales-climb-to-monthly-record-in-sign-of-turnaround",
+      "pub_raw": "2026-11-11T08:15:47.227Z",
+      "pub_sort_dt": "2026-11-11 16:15:47"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "发展中国家8亿个就业岗位缺口引发新的风险",
+      "title_cn": "发展中国家8亿个就业岗位缺口引发新的风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/an-800-million-jobs-gap-in-the-developing-world-fans-new-risks",
+      "pub_raw": "2026-11-11T07:59:47.835Z",
+      "pub_sort_dt": "2026-11-11 15:59:47"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国评估债券利息税，债券收益率接近历史低点",
+      "title_cn": "中国评估债券利息税，债券收益率接近历史低点",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-gauges-tax-on-bond-interest-with-yields-near-record-low",
+      "pub_raw": "2026-11-11T07:59:47.811Z",
+      "pub_sort_dt": "2026-11-11 15:59:47"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "根据一项旨在加强双方关系的计划，美国联邦雇员将在台湾政府办公场所工作",
+      "title_cn": "根据一项旨在加强双方关系的计划，美国联邦雇员将在台湾政府办公场所工作",
+      "url": "https://reut.rs/48hP9Kr",
+      "pub_raw": "2026-11-11T07:27:56.984Z",
+      "pub_sort_dt": "2026-11-11 15:27:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "日产因中国市场竞争加剧下调汽车销量预期",
+      "title_cn": "日产因中国市场竞争加剧下调汽车销量预期",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/nissan-pares-car-sales-forecast-on-tougher-china-competition",
+      "pub_raw": "2026-11-11T07:11:39.726Z",
+      "pub_sort_dt": "2026-11-11 15:11:39"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "独家报道：记录显示，一家与中国人民解放军有关联的中国大学尽管被列入美国黑名单，仍购买了英伟达H200芯片",
+      "title_cn": "独家报道：记录显示，一家与中国人民解放军有关联的中国大学尽管被列入美国黑名单，仍购买了英伟达H200芯片",
+      "url": "https://reut.rs/4sPWGJO",
+      "pub_raw": "2026-11-11T05:35:49.308Z",
+      "pub_sort_dt": "2026-11-11 13:35:49"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "欧洲在与中国竞争方面的努力日益加剧",
+      "title_cn": "欧洲在与中国竞争方面的努力日益加剧",
+      "url": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-11T05:19:53.813Z",
+      "pub_sort_dt": "2026-11-11 13:19:53"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "英伟达间谍丑闻揭露了新加坡在中国人工智能芯片贸易中的作用",
+      "title_cn": "英伟达间谍丑闻揭露了新加坡在中国人工智能芯片贸易中的作用",
+      "url": "https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-11T05:19:53.510Z",
+      "pub_sort_dt": "2026-11-11 13:19:53"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "阿里巴巴旗下芯片设计部门T-Head提交香港IPO申请",
+      "title_cn": "阿里巴巴旗下芯片设计部门T-Head提交香港IPO申请",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing",
+      "pub_raw": "2026-11-11T03:11:46.475Z",
+      "pub_sort_dt": "2026-11-11 11:11:46"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国铜荒导致成本飙升，行业陷入被动",
+      "title_cn": "中国铜荒导致成本飙升，行业陷入被动",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-s-copper-crunch-puts-industry-on-defensive-as-costs-soar",
+      "pub_raw": "2026-11-11T02:39:44.207Z",
+      "pub_sort_dt": "2026-11-11 10:39:44"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国寄望于退休人员提振疲软的经济",
+      "title_cn": "中国寄望于退休人员提振疲软的经济",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-counts-on-retirees-to-boost-sluggish-economy",
+      "pub_raw": "2026-11-11T00:16:45.449Z",
+      "pub_sort_dt": "2026-11-11 08:16:45"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "《王者荣耀》与《白雪迷雾》助中国从美国手中夺得手游桂冠",
+      "title_cn": "《王者荣耀》与《白雪迷雾》助中国从美国手中夺得手游桂冠",
+      "url": "https://www.bloomberg.com/news/features/2026-11-10/honor-of-kings-whiteout-survival-help-china-seize-mobile-gaming-crown-from-us",
+      "pub_raw": "2026-11-10T23:13:42.939Z",
+      "pub_sort_dt": "2026-11-11 07:13:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在中国大型进口展上，卖家们正努力打入这个竞争激烈的市场",
+      "title_cn": "在中国大型进口展上，卖家们正努力打入这个竞争激烈的市场",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/at-china-s-big-import-fair-sellers-try-to-crack-a-tough-market",
+      "pub_raw": "2026-11-10T23:13:42.936Z",
+      "pub_sort_dt": "2026-11-11 07:13:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国电动汽车制造商发现，随着出口增长，人民币升值正侵蚀其利润",
+      "title_cn": "中国电动汽车制造商发现，随着出口增长，人民币升值正侵蚀其利润",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/china-ev-makers-see-yuan-rally-erode-profit-as-exports-grow",
+      "pub_raw": "2026-11-10T22:26:07.287Z",
+      "pub_sort_dt": "2026-11-11 06:26:07"
     },
     {
       "source": "Bloomberg",
       "title_en": "英伟达看涨前景取决于CEO黄仁勋能否挺过中国间谍调查",
-      "title_cn": "英伟达看涨前景依赖CEO黄仁勋能否支撑中国间谍调查",
+      "title_cn": "英伟达看涨前景取决于CEO黄仁勋能否挺过中国间谍调查",
       "url": "https://www.bloomberg.com/news/articles/2026-11-10/nvidia-s-bull-case-hinges-on-ceo-huang-surviving-china-spy-probe",
       "pub_raw": "2026-11-10T21:21:55.865Z",
       "pub_sort_dt": "2026-11-11 05:21:55"
@@ -357,142 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-10/china-s-chery-prepares-winter-adapted-electric-suv-for-canada",
       "pub_raw": "2026-11-10T17:22:16.173Z",
       "pub_sort_dt": "2026-11-11 01:22:16"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "药明康德被移出五角大楼的“中国军工企业名单”",
-      "title_cn": "药明康德被移出五角大楼的“中国军工企业名单”",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/wuxi-apptec-removed-from-pentagon-s-chinese-military-firms-list",
-      "pub_raw": "2026-11-10T16:49:51.924Z",
-      "pub_sort_dt": "2026-11-11 00:49:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "阿里巴巴旗下芯片设计部门T-Head提交香港上市申请",
-      "title_cn": "阿里巴巴推出芯片设计部门T-Head提交香港上市申请",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing",
-      "pub_raw": "2026-11-10T14:57:55.517Z",
-      "pub_sort_dt": "2026-11-10 22:57:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国那些“经营艰难但尚未倒闭”的汽车制造商给全球带来痛苦",
-      "title_cn": "中国那些“经营困难但尚未倒闭”的汽车制造商给全球带来痛苦",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/china-s-living-badly-but-not-dying-carmakers-spread-global-pain",
-      "pub_raw": "2026-11-10T12:18:58.595Z",
-      "pub_sort_dt": "2026-11-10 20:18:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国对台湾和世界的看法在于恢复“秩序”",
-      "title_cn": "中国对台湾和世界的房价恢复“秩序”",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/china-s-view-on-taiwan-and-the-world-is-about-restoring-order",
-      "pub_raw": "2026-11-10T12:18:58.585Z",
-      "pub_sort_dt": "2026-11-10 20:18:58"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国贸易顺差",
-      "title_cn": "中国贸易顺差",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/china-trade-surplus",
-      "pub_raw": "2026-11-10T12:18:58.582Z",
-      "pub_sort_dt": "2026-11-10 20:18:58"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "据《Information》报道，英伟达首席执行官与一名涉嫌间谍的女子的婚外情，促成了价值75亿美元的中国芯片出货",
-      "title_cn": "据《资讯》报道，英伟达最终与一名涉嫌嫌疑女子的婚外情，最初获得了价值75亿美元的中国芯片出货量",
-      "url": "https://reut.rs/4k2972V",
-      "pub_raw": "2026-11-10T12:18:58.525Z",
-      "pub_sort_dt": "2026-11-10 20:18:58"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "随着中国迅猛的发展势头放缓，各国正加快发展可再生能源",
-      "title_cn": "随着中国迅猛的发展喘息，各地正加快发展可再生能源",
-      "url": "https://www.ft.com/content/71f35844-9635-4cfe-bf47-39a4014dc8ee?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-10T12:18:58.457Z",
-      "pub_sort_dt": "2026-11-10 20:18:58"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "10月，中国贸易顺差飙升至1万亿美元以上",
-      "title_cn": "10月，中国贸易顺差飙升至1万亿美元以上",
-      "url": "https://on.wsj.com/48fnFFg",
-      "pub_raw": "2026-11-10T12:18:57.912Z",
-      "pub_sort_dt": "2026-11-10 20:18:57"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "意大利检方就亚马逊销售中国商品一事对其展开调查",
-      "title_cn": "意大利检方就亚马逊销售中国商品一事就此展开调查",
-      "url": "https://reut.rs/3UtSd2W",
-      "pub_raw": "2026-11-10T10:58:36.284Z",
-      "pub_sort_dt": "2026-11-10 18:58:36"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "英伟达首席执行官黄仁勋的困境在其出生地台湾引发了同情与难以置信",
-      "title_cn": "英伟达领袖黄仁勋在其出生地台湾的困境引发了极大的共鸣",
-      "url": "https://reut.rs/4AkPfg6",
-      "pub_raw": "2026-11-10T10:58:36.280Z",
-      "pub_sort_dt": "2026-11-10 18:58:36"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "受中国库存开始上升的消息影响，铝价下跌",
-      "title_cn": "受中国库存开始上升的消息影响，铝价下跌",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/copper-extends-rebound-as-global-technology-stocks-resume-rally",
-      "pub_raw": "2026-11-10T09:06:44.806Z",
-      "pub_sort_dt": "2026-11-10 17:06:44"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "缅甸游说美国投资其稀土行业，该行业目前由中国主导",
-      "title_cn": "中东游说美国投资其稀土行业，该行业目前由中国主导",
-      "url": "https://reut.rs/3Ulgk3O",
-      "pub_raw": "2026-11-10T07:14:45.491Z",
-      "pub_sort_dt": "2026-11-10 15:14:45"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国煤炭买家对印尼矿商的合同要求持保留态度",
-      "title_cn": "中国煤炭采购商对谈判矿商的合同要求保持态度",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/chinese-coal-buyers-balk-at-indonesian-miners-contract-demands-rkab",
-      "pub_raw": "2026-11-10T06:10:50.984Z",
-      "pub_sort_dt": "2026-11-10 14:10:50"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "黄爱丽是谁？这位与中国英伟达首席执行官有牵连的中国女商人是谁？",
-      "title_cn": "这位与中国英伟达总裁有牵连的中国女移植者是谁？",
-      "url": "https://reut.rs/3WAoOVl",
-      "pub_raw": "2026-11-10T05:54:51.309Z",
-      "pub_sort_dt": "2026-11-10 13:54:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "文件显示，Moonshot在中国租赁了英伟达的顶级AI芯片",
-      "title_cn": "文件显示，Moonshot在中国拥有英伟达的顶级AI芯片",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show",
-      "pub_raw": "2026-11-10T05:06:58.475Z",
-      "pub_sort_dt": "2026-11-10 13:06:58"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "受中东战争影响，中国10月原油进口量升至3月以来的最高水平",
-      "title_cn": "受中东战争影响，中国10月原油进口量创3月以来最高水平",
-      "url": "https://reut.rs/4iAOSYY",
-      "pub_raw": "2026-11-10T05:06:58.428Z",
-      "pub_sort_dt": "2026-11-10 13:06:58"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "大众汽车为何要向全球销售其在中国生产的汽车",
-      "title_cn": "大众汽车为何要向全球销售其在中国生产的汽车",
-      "url": "https://www.ft.com/content/1186c272-afc7-4561-9bf8-aa3bc0464a91?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-10T05:06:57.477Z",
-      "pub_sort_dt": "2026-11-10 13:06:57"
     }
   ]
 }
