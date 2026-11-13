@@ -1,99 +1,235 @@
 {
-  "update_cst": "2026-11-13 06:01:12 北京时间",
+  "update_cst": "2026-11-13 18:01:10 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 5,
-    "Bloomberg": 11,
-    "Financial Times": 0,
+    "The Economist": 0,
+    "Bloomberg": 16,
+    "Financial Times": 1,
     "Wall Street Journal": 0,
-    "Reuters": 4
+    "Reuters": 3
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "数字人民币仅是中国不断扩展的全球支付网络的一部分 - Atlantic Council",
-      "title_cn": "数字人民币只是中国不断扩展的全球支付网络的一部分 - 大西洋理事会",
-      "url": "https://news.google.com/read/CBMixAFBVV95cUxPRmhiVFVodVFMXzZrZTlqZW5hUnc0Qmt2VWRKWnB4WlczNUUzRzVLUmdwTXhCaEFZWEpkSzdBaVVCZDV3NVhsRkZHOS1haTYxdUlVcVgwUWc1cnhxaU02Sm9Bb3JWM2czOU0zUk1yaUR5YW5oTVR5enlMbGZpd0dLQkd6eEVhdUFCbnBqbzRCRnBEY3pSNThnMjUyZHR5MjdzM0hfLVVRd2V3NUM2UmlHMDZDRFpsUjBzOTNHWFJOS3FDWW9Z?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T21:37:00.000Z",
-      "pub_sort_dt": "2026-11-13 05:37:00"
+      "title_en": "中国价值30亿美元以上的英伟达驱动的人工智能数据中心项目储备 - Kansas City Star",
+      "title_cn": "中国价值30亿美元以上的英伟达驱动的人工智能数据中心项目储备 - Kansas City Star",
+      "url": "https://news.google.com/read/CBMib0FVX3lxTE02djY0U3RpNnU5UGR3VGFRZG05RnlwblRSanVna1BEY0VRT2pqUk4yRDhWMVI4U2J4dFptaGRfQWI4ZGlvR2prczB6eUNRcXAwdDVmM3J1NWdMOFN6MkpWekQ5QTdDZkh6QlJBcGFlYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T09:48:06.000Z",
+      "pub_sort_dt": "2026-11-13 17:48:06"
     },
     {
       "source": "China Buzzing",
-      "title_en": "马斯克的SpaceX-特斯拉帝国正日益紧密地融合，但中国和华盛顿的影响力依然不容小觑 - Yahoo Finance Singapore",
-      "title_cn": "马斯克的SpaceX-特斯拉帝国正在激烈地融合，但中国和华盛顿的影响力依然不容小觑 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMihgFBVV95cUxOQUVwMU9jSHVtQjZ6Y2paU0YzTGVMdW82dENpb3dKTTlqaVR6UG43MUN0SERONlJaQ2w1X0U4SUtKcUxGbEIzMHdaMWtMQlJ4M3lONHZhWkI4aUtYZHBjdHU3ME1zMmZsclpzd3I2Tm8weEFBRXB5QWFoc3hzd3Mxai05NWtXdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T20:53:33.000Z",
-      "pub_sort_dt": "2026-11-13 04:53:33"
+      "title_en": "特朗普在访华前对被解职的英伟达首席执行官的倚重引发质疑 - NPR",
+      "title_cn": "特朗普在访华前对被解职的英伟达首席执行官的倚重引发质疑 - NPR",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxQaWhJdVVqQ1hJNGhWVmsyTHpDQi1WRHBEdnZrM0dwZ05HZWF4TGJYbV9BQ3ZTR1lRbWRza2tJencwRlR3T2JvLV9EcHliSGFpbVNhaGViMlN0amV5RHVyS05ybnAxUVp3SnEtVHNrMEFqQnQ1UjRSMWRKbXVpMU9xd0NCM3Y4b2x1TEJzN1NfaHkyUUZrdk42QVozNndaWUtscTBMVTdleVk1OU1uLV9wLVZMNA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T09:43:21.000Z",
+      "pub_sort_dt": "2026-11-13 17:43:21"
     },
     {
       "source": "China Buzzing",
-      "title_en": "流亡藏人领袖对特朗普在对华交往中未保障藏人权利表示遗憾 - U.S. News & World Report",
-      "title_cn": "流亡藏人领袖对特朗普在对华援中未保障藏人权利表示遗憾 - 美国新闻与世界报道",
-      "url": "https://news.google.com/read/CBMiwgFBVV95cUxPbVIxeEZkekpQV1FJUE5OTDAyRjA4c3NSRk9zUkdMNG93SHpYUU96SUVYdV9ldjlyV1U2VTdVYnlUZTJyalRTLXlaTmdvMW5KY3BVcTVYRzZfajBEcU1BeVBkQnIyLW11eUxfOXk1ZWM1dU5FNTU4WXUxQm4wWUJLMkJHMnhTQVdQSVJKTy01aW9KNWpQMWZUM1VhaHA2a0pVMFY1U1RwcExZR3ZjN01kbmtCS0RoQTFXNGxQYWFvN19BZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T20:53:00.000Z",
-      "pub_sort_dt": "2026-11-13 04:53:00"
+      "title_en": "《财新》峰会：巴斯夫副总裁表示，外资企业将中国视为全球增长引擎 - Caixin Global",
+      "title_cn": "《财新》峰会：巴斯夫副总裁表示，外资企业将中国视为全球增长引擎 - Caixin Global",
+      "url": "https://news.google.com/read/CBMi2AFBVV95cUxQTUhRRzNMOTE2WXV3RlliTDZRTVhMY21zV09ESXNDMFg2OGZpb1lWdU0zX1M4Y1NFWFFwa19hdkNWdHh2WFBYTGZMOVpId2l0TGV3UzF3NUdmRGNvYV9BT1JxX2hUVmNQVkcwaGFpWVJUTFpQUFNkOHhSWGRvOHhXMGs1dy1TZS1jUmpjckJUbVZsaXgtU1h3ZXZEUDNWVXhmcWdTRE9jZlNyNkYzZkhROWl5V1YtcHNzUHhlN3NEbk5vODYzWVNuSHl1SGI3c1k3YVpTR0k3ZGw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T09:22:00.000Z",
+      "pub_sort_dt": "2026-11-13 17:22:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "寡头与中国间谍：谁对美国人构成的威胁更大？ - The American Prospect",
-      "title_cn": "寡头与中国间谍：谁对美国人构成的威胁更大？ - 美国展望",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxNMXJ1TElfQ0MwS1k3dTgzU19fYXJ2MjB2MHB0bktRSkJseTFCQWdIVnFGa1hhd1llM1VlUW53RTVMNk9SeklvTjZyX3dkb2dmVnR5R3ZIOHFkYVFVazQyZUlBMHV2djBQclExZ3hlczZkd1R3UFRyOTJZN2lNQ1ZpMHdWNjAyQUVIck0wN2JsWmxIVGNLb2FoZnlLU0s?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T20:44:52.000Z",
-      "pub_sort_dt": "2026-11-13 04:44:52"
+      "title_en": "尽管政策支持力度加大，但中国信贷增长仍未达预期 - Bloomberg.com",
+      "title_cn": "尽管政策支持力度加大，但中国信贷增长仍未达预期 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxNdUhwLWc0M2phT1daM2ttNTZvVXFWLTNidXROWFhwVURyVUcwWDdhLTJsNTFkWWVIa2F6V3JuX01EWlBHNmNnYksxbkVoN1U0MXRhNk1sOWFGX2N0QXhjc1M0OVFDVEQ3VzA0MFhSNlItUGViSEtXZW83cFBzX1g0WTEybjFWUTUyU2xhR1oteHpseGl1MTMtMHdCaDFJbjBlb014a3hKcXN4RHhlYjhaWXU4QWJuUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T09:12:53.000Z",
+      "pub_sort_dt": "2026-11-13 17:12:53"
     },
     {
       "source": "China Buzzing",
-      "title_en": "从古代亚洲到人工智能时代：中国的“美色之计”是否在英伟达的黄仁勋身上找到了新的受害者？ - The Conversation",
-      "title_cn": "从古代亚洲到人工智能时代：中国的“美色之计”是否在英伟达的黄仁勋身上找到了新的受害者？ - 对话",
-      "url": "https://news.google.com/read/CBMi0wFBVV95cUxOUDlmellmSFBVQ3VVWGQwLW5QV1lyeVdTX3AyTGFYM1NfS0tFNkRfMGM2MWdqN0NHX1VWNjZUMWkydTlVRG8yWFdQVjNpNlppNnREU2lwcmNUNDBHWWpQczVVeTFuZVVSaVRaeUNyNXBxeTc3ZDdTWklfazBfbDNLZWI2cG5LV0JqWVZESlZ1ZldZV0lXWGVQX0J5QXdIRkFoZVl0Qk5qYk9yR19EOElLR0hUVkJZc1BHVlA1RU9wZVBxcTdUYWZ3STBZcXpPUzIxSWhN?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T20:25:32.000Z",
-      "pub_sort_dt": "2026-11-13 04:25:32"
+      "title_en": "为什么中国的年轻人要装扮成被逐的妾？ - RADII",
+      "title_cn": "为什么中国的年轻人要装扮成被逐的妾？ - RADII",
+      "url": "https://news.google.com/read/CBMieEFVX3lxTFBFTkFqc3NsbVF3U0VtMGlrTmZmNUVEVzJBODk3VzRwLUMxdVJ2VUlKRGF3NlQ2eDFCVUs0aWtBdXFqYU1tcEdodmt0alRTOWdpcXg0SklkNnpaN18wU3NrMmNuVlE4bU1yVldFb3l5SFcxWVV3TFg2cA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T09:12:44.000Z",
+      "pub_sort_dt": "2026-11-13 17:12:44"
     },
     {
       "source": "China Buzzing",
-      "title_en": "职业前途如何影响了中国独生子女政策的执行 - Stanford Report",
-      "title_cn": "职业前景如何影响了中国独生子女政策的执行 - 斯坦福报告",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxQTzhOMEJfLTg1QTFmckxma3NqLTlISnVMdjBzMUFOR1JYb2lZdy1hRHNvOVlfZmROQlV1Z3FINWVFY2J3azI5cWZyR1VwWWswd2IwX2hrZXY4OFlCTkdORzNrT0d1SFVpX1Riakc1elViQnRqYVZENGpGTDFucDNaTjVmb1NpUWFodVJpTGN3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T20:15:31.000Z",
-      "pub_sort_dt": "2026-11-13 04:15:31"
+      "title_en": "中国总理期待推进中泰命运共同体建设 - CGTN",
+      "title_cn": "中国总理期待推进中泰命运共同体建设 - CGTN",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxPRlp5NU1Yc0hueUZ2UzFoS2ZIS2NJOVR0VjRSU0ZYNEZFM25Bd005c0t3WFpyemxDaHNjUURlX3FmRlZPd2pkRmhJOTJXOXo0bWtXOHF1R3g2cXV5Q1VmUW1fQ21mQWRvcnFhMVh3d2E3T1VjODhtTlVrdUJkeUR3bVBmN0dZaFg2dzFXcWtheUhnbWxyMGFWeVZOUi1uZUIzektZY2RhYzBPRV96UXlhRGFYeHUyTEVEbGd6SGJKZ1FBMlo3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T08:38:23.000Z",
+      "pub_sort_dt": "2026-11-13 16:38:23"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国在乌兹别克斯坦展开魅力攻势 - Eurasianet",
-      "title_cn": "中国在乌兹别克斯坦拓展魅力攻势 - 欧亚网",
-      "url": "https://news.google.com/read/CBMie0FVX3lxTE1MNTBoYjV1ZWhmNVFLUGEwaHZmRUhjTzBOQzJqNDdIS1pSa0I1QU9BZnFyeFhFZFZtZldOQkNPV1JhOE1WdU5yRXlLRlNua3oxTmR1T3VHZ1RxTEpqVVIyZmxfdFk1bFJIb1JfOW9YeXJycHEwUjN5Rlk2aw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T19:47:18.000Z",
-      "pub_sort_dt": "2026-11-13 03:47:18"
+      "title_en": "2026年中国五大信誉良好的游戏充值折扣服务提供商：推动数字游戏服务发展 - EIN Presswire",
+      "title_cn": "2026年中国五大信誉良好的游戏充值折扣服务提供商：推动数字游戏服务发展 - EIN Presswire",
+      "url": "https://news.google.com/read/CBMi4gFBVV95cUxOQWxlUjN4aUdMbVhPUF85YnI3Yi1mdkRoQWRTSEdhbktFOXR0MjVMUW9WSzZBNEJFa2lkUXNkSHVRWTR4NWZkZldHSkt6MGF0UU1TX1lUeHoweHQxd0dZTWkteXhIeF81ODZ4UV9Wa0ZEQTVoSGh4cnNfakVFYkgza2YtTDJDVUZKNXlBZDQyal9UMDB4ZmlLUTlBLUdQSGRwUVkxZEk0NTZ0SkFMSWlwRWNYakNOeUEtMkxJNzhsV1loQnJ0cW9oNW91aHdpTHQtUkJZSnpPOFF1WDJDbXVNNHN3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T08:38:00.000Z",
+      "pub_sort_dt": "2026-11-13 16:38:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "肉类加工商敦促美国贸易代表办公室优先考虑印尼、中国、越南和墨西哥的市场准入问题 - The National Provisioner",
-      "title_cn": "肉类加工商敦促美国贸易代表办公室优先考虑对话、中国、越南和墨西哥的市场准入问题 - The National Provisioner",
-      "url": "https://news.google.com/read/CBMi0AFBVV95cUxNLW9aazFiYUN6T01RMXFRWmU2RVVLLTFZakhVZlRFUWFKVEhEWjYzelllbkhKcTdzclJBUUpfQ3g3YmdWVFR2WGtOOElhQVV2OExHdGJZSFNyd1NMMWM5UnhBUzJyODI3VlluMXJFMTZUVjF6OUZqOWF6bTBxdmNvSG9zb1gzMXpYMENsMk5VTGdEVml1cng1dHRsX283LVNjM2txMjJ6ZDA2MEViM1hHQ2VScWpwWDlxemlIZE1iZjBPVHJCNXZZQmpjVl9mb3BO?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T19:15:38.000Z",
-      "pub_sort_dt": "2026-11-13 03:15:38"
+      "title_en": "奥地利运营商警告称，随着某些欧盟国家计划禁止使用中国设备，这将带来成本压力 - China Daily",
+      "title_cn": "奥地利运营商警告称，随着某些欧盟国家计划禁止使用中国设备，这将带来成本压力 - China Daily",
+      "url": "https://news.google.com/read/CBMiWEFVX3lxTFA1WWFoMG1kSTVITW54bmdhVXNhMVpGM29PNkp1N0RpMjdzMmkyZGNZZFNpY0lGMW5Sa0F2N1FaRGhHM2gtblFhUXZfSWxNUDRmYlk0V0RsdHo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T08:32:32.000Z",
+      "pub_sort_dt": "2026-11-13 16:32:32"
     },
     {
       "source": "China Buzzing",
-      "title_en": "官员称，美国几乎没有协助新加坡调查涉嫌的中国间谍 - The Washington Post",
-      "title_cn": "官员称，美国几乎没有协助新加坡调查涉嫌的中国间谍 - The Washington Post",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxPX3JMcWFsdHdHTTFFZnRSV09sUUxWQnlnTG9YYUNQSXNIUllrR0hVQTE1cnhJRlBOdUdLLW9PRHpsNDU2SmYyb1o4VVZtQUJxR0hKbWRndV85ZjJVNlpQeVk2V2x4OWcyWnVULTY1MjhZa3hpUWVTTFgxNlpaZ0tRUmZVV0pqSmowNGM0VGRBeTdNVUNEekIzLWJGS09XNDFWajJPdUE4U1RkUmgyMktOVnQ0OGtSOUg1RTMxQ0dQcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T18:57:55.000Z",
-      "pub_sort_dt": "2026-11-13 02:57:55"
+      "title_en": "随着一部由AI制作的历史题材热门短剧的出现，中国短剧的质量正发生转变 - Sixth Tone",
+      "title_cn": "随着一部由AI制作的历史题材热门短剧的出现，中国短剧的质量正发生转变 - Sixth Tone",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxPeHQwaGdyTWlZRXZJbkZya3NrOUNjSEljOTNXRkJzUGh0MDZCa2NCS1lpVGNqTlRoWlpVSkY4bXlDVzJENEQ1V2hGQmdkLUNTWTFxc1hQQ2c1TXdzWEdyMkVMRnNKMUJQa0FJc1hyQzhPb1BEc3d5Nl9TZFBFRk9CRFF1U3VndEE4d0NPcWc4TVlUYjN4U3l0eVZDNWdRT1pPaG5vXzlyUXU4QVcxVFd5cUV6bw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T08:28:41.000Z",
+      "pub_sort_dt": "2026-11-13 16:28:41"
     },
     {
       "source": "China Buzzing",
-      "title_en": "英伟达首席执行官辞职后，对向中国销售人工智能芯片的限制可能进一步收紧 - Reuters",
-      "title_cn": "英伟达辞职后，对中国销售人工智能芯片的限制可能进一步收紧 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxQRERObVhKZklNOEliOFhfQmhqMmZaQWktbkVWTXlxZU8zbUtxQ1cwZnZpaGJwZ1djUHFFVVlydTFsQUd3UUJEV0NOdUliUGY1ZGNKN1ZPWG1zYkpxcEgtNGJlSFVrTi1EVm84MnFFbWxmeXR1YmotNUdzVFBtUVU1VmhPR3ZGTHFUcHlSUnRQQmU0WUYyRi1fdnNHOHc3QUh2OWVsQURUb3BwVTVaMm9NRUdnbw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T18:56:33.000Z",
-      "pub_sort_dt": "2026-11-13 02:56:33"
+      "title_en": "德国电影节在中国颂扬电影多样性 - China Daily",
+      "title_cn": "德国电影节在中国颂扬电影多样性 - China Daily",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTFBWNm1zZk05ZHJzSjhHRFlpREdUb3J0RTdXdHNiYTdqN1Fybi01MTFTdTZJbTVUMWZmQ0lTNFZfTXBCdXl4cFlmbjlveFJXajJxRGxLMXBCM0V0ZGlOOFZtNlpYYmVIUDZSbDNqYnJOSlJ6WGN4STNYcl9QVG5rZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T08:19:57.000Z",
+      "pub_sort_dt": "2026-11-13 16:19:57"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "尽管政策支持力度加大，但中国信贷增长仍未达预期",
+      "title_cn": "尽管政策支持力度加大，但中国信贷增长仍未达预期",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-s-credit-growth-disappoints-despite-greater-policy-support",
+      "pub_raw": "2026-11-13T09:39:35.454Z",
+      "pub_sort_dt": "2026-11-13 17:39:35"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "独家报道：黄仁勋离职及美国监管审查，使依赖英伟达的30亿美元中国人工智能项目面临风险",
+      "title_cn": "独家报道：黄仁勋离职及美国监管审查，使依赖英伟达的30亿美元中国人工智能项目面临风险",
+      "url": "https://reut.rs/3Xo0wOA",
+      "pub_raw": "2026-11-13T09:39:35.417Z",
+      "pub_sort_dt": "2026-11-13 17:39:35"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港对经济前景更加乐观，经济增长预期上调",
+      "title_cn": "香港对经济前景更加乐观，经济增长预期上调",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/hong-kong-lifts-gdp-growth-outlook-again-as-ai-boom-spurs-export",
+      "pub_raw": "2026-11-13T09:07:56.264Z",
+      "pub_sort_dt": "2026-11-13 17:07:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国决定不申办2028年联合国气候谈判",
+      "title_cn": "中国决定不申办2028年联合国气候谈判",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-decides-against-bidding-to-host-2028-global-climate-talks",
+      "pub_raw": "2026-11-13T08:51:39.831Z",
+      "pub_sort_dt": "2026-11-13 16:51:39"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "因担忧英伟达芯片限制措施将进一步收紧，中国AI板块抛售潮加剧",
+      "title_cn": "因担忧英伟达芯片限制措施将进一步收紧，中国AI板块抛售潮加剧",
+      "url": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-13T08:05:05.155Z",
+      "pub_sort_dt": "2026-11-13 16:05:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国在刺激政策启动后迎来首份经济成绩单",
+      "title_cn": "中国在刺激政策启动后迎来首份经济成绩单",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-gets-first-economic-scorecard-with-stimulus-taps-turned-on",
+      "pub_raw": "2026-11-13T07:01:55.898Z",
+      "pub_sort_dt": "2026-11-13 15:01:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国通过为全球工厂提供设备，巩固了其出口优势",
+      "title_cn": "中国通过为全球工厂提供设备，巩固了其出口优势",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/china-locks-in-export-power-by-equipping-the-world-s-factories",
+      "pub_raw": "2026-11-13T05:57:50.084Z",
+      "pub_sort_dt": "2026-11-13 13:57:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "切断中国在芬太尼供应链中的环节，以遏制美国阿片类药物危机",
+      "title_cn": "切断中国在芬太尼供应链中的环节，以遏制美国阿片类药物危机",
+      "url": "https://www.bloomberg.com/news/features/2026-11-13/cracking-china-s-link-in-the-fentanyl-supply-chain-fueling-the-us-opioid-crisis",
+      "pub_raw": "2026-11-13T05:09:45.891Z",
+      "pub_sort_dt": "2026-11-13 13:09:45"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "黄仁勋被罢免使中国在美国失去了一位友善的声音",
+      "title_cn": "黄仁勋被罢免使中国在美国失去了一位友善的声音",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/jensen-huang-ouster-deprives-china-of-a-friendly-voice-in-us",
+      "pub_raw": "2026-11-13T05:09:45.879Z",
+      "pub_sort_dt": "2026-11-13 13:09:45"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "官员称，中国在太平洋地区举行了未事先宣布的军事演习，以此对台湾进行“无声威慑”",
+      "title_cn": "官员称，中国在太平洋地区举行了未事先宣布的军事演习，以此对台湾进行“无声威慑”",
+      "url": "https://reut.rs/4izT0bK",
+      "pub_raw": "2026-11-13T04:54:06.089Z",
+      "pub_sort_dt": "2026-11-13 12:54:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受税收担忧影响，中国政策性银行债券遭遇抛售",
+      "title_cn": "受税收担忧影响，中国政策性银行债券遭遇抛售",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-policy-bank-bonds-suffer-selloff-as-tax-worries-hit-market",
+      "pub_raw": "2026-11-13T04:21:55.254Z",
+      "pub_sort_dt": "2026-11-13 12:21:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "据称，中国芯片制造商SigmaStar计划以3亿美元在香港上市",
+      "title_cn": "据称，中国芯片制造商SigmaStar计划以3亿美元在香港上市",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing",
+      "pub_raw": "2026-11-13T02:31:09.333Z",
+      "pub_sort_dt": "2026-11-13 10:31:09"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受英伟达事件影响，中国互联网股涨势面临现实考验",
+      "title_cn": "受英伟达事件影响，中国互联网股涨势面临现实考验",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-internet-stock-gains-face-reality-check-in-nvidia-fallout",
+      "pub_raw": "2026-11-13T00:23:08.456Z",
+      "pub_sort_dt": "2026-11-13 08:23:08"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "交易公司IMC计划将香港员工人数翻一番",
+      "title_cn": "交易公司IMC计划将香港员工人数翻一番",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/quant-trading-firm-imc-plans-to-double-staff-in-hong-kong",
+      "pub_raw": "2026-11-13T00:23:08.389Z",
+      "pub_sort_dt": "2026-11-13 08:23:08"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "像阿克索这样的中国制药企业迎来了属于自己的“DeepSeek时刻”",
+      "title_cn": "像阿克索这样的中国制药企业迎来了属于自己的“DeepSeek时刻”",
+      "url": "https://www.bloomberg.com/news/features/2026-11-13/chinese-drugmakers-like-akeso-have-their-deepseek-moment",
+      "pub_raw": "2026-11-13T00:06:46.053Z",
+      "pub_sort_dt": "2026-11-13 08:06:46"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "研究显示，剧烈价格波动暴露了香港股市面临的压力",
+      "title_cn": "研究显示，剧烈价格波动暴露了香港股市面临的压力",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/wild-price-swings-expose-stress-in-hong-kong-stocks-study-shows",
+      "pub_raw": "2026-11-12T23:51:00.324Z",
+      "pub_sort_dt": "2026-11-13 07:51:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "从Jane Street到Point72，金融巨头推高香港写字楼租金",
+      "title_cn": "从Jane Street到Point72，金融巨头推高香港写字楼租金",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/from-jane-street-to-point72-finance-giants-drive-hong-kong-office-rents-higher",
+      "pub_raw": "2026-11-12T23:18:52.110Z",
+      "pub_sort_dt": "2026-11-13 07:18:52"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "黄仁勋离开英伟达的消息在华盛顿至中国引发广泛反响：《Big Take》播客",
       "title_cn": "黄仁勋离开英伟达的消息在华盛顿至中国引发广泛反响：《Big Take》播客",
       "url": "https://www.bloomberg.com/news/articles/2026-11-12/jensen-huang-s-exit-from-nvidia-reverberates-from-dc-to-china-big-take-podcast",
@@ -115,224 +251,224 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-12/trump-suggests-xi-unlikely-to-release-hong-kong-s-jimmy-lai",
       "pub_raw": "2026-11-12T21:11:07.688Z",
       "pub_sort_dt": "2026-11-13 05:11:07"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "英伟达CEO辞职后，对向中国销售AI芯片的限制可能进一步收紧",
-      "title_cn": "英伟达CEO辞职后，对向中国销售AI芯片的限制可能进一步收紧",
-      "url": "https://reut.rs/4BQM41o",
-      "pub_raw": "2026-11-12T19:18:52.274Z",
-      "pub_sort_dt": "2026-11-13 03:18:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "黄仁勋离任后，英伟达、中国及人工智能竞赛将何去何从？现场问答",
-      "title_cn": "黄仁勋离任后，英伟达、中国及人工智能竞赛何将去何去？现场问答",
-      "url": "https://www.bloomberg.com/sessions/2026-11-12/live-q-amp-a-with-jensen-huang-out-what-s-next-for-nvidia-china-and-ai-race",
-      "pub_raw": "2026-11-12T16:56:01.201Z",
-      "pub_sort_dt": "2026-11-13 00:56:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "纽森抨击特朗普在气候问题上的倒退，称此举将使中国占得先机",
-      "title_cn": "纽森峰会击中特朗普在气候问题上的倒退，称拜登对中国占得先机",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/democrats-vow-to-work-with-un-on-carbon-cutting-defying-trump",
-      "pub_raw": "2026-11-12T16:23:43.944Z",
-      "pub_sort_dt": "2026-11-13 00:23:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "花旗集团首席执行官简·弗雷泽谈人工智能股抛售潮及中国市场，投资推进持续进行",
-      "title_cn": "花旗集团起点简·弗雷泽谈人工智能股抛售潮及中国市场，投资推进持续进行",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/citi-ceo-jane-fraser-on-ai-selloff-china-as-investment-push-continues",
-      "pub_raw": "2026-11-12T15:19:46.137Z",
-      "pub_sort_dt": "2026-11-12 23:19:46"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国的二氧化碳排放量已开始下降",
-      "title_cn": "中国的洪水量已开始下降",
-      "url": "https://www.economist.com/china/2026/11/12/chinas-carbon-dioxide-emissions-have-begun-to-fall",
-      "pub_raw": "2026-11-12T15:03:50.153Z",
-      "pub_sort_dt": "2026-11-12 23:03:50"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国对东南亚的清洁技术出口正呈激增之势",
-      "title_cn": "中国对东南亚的清洁技术出口正呈激增之势",
-      "url": "https://www.economist.com/china/2026/11/12/chinas-exports-of-clean-tech-to-south-east-asia-are-soaring",
-      "pub_raw": "2026-11-12T15:03:50.139Z",
-      "pub_sort_dt": "2026-11-12 23:03:50"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "我们中国新闻报道的骨干人物泰德·普拉夫克已去世",
-      "title_cn": "我们中国新闻报道的骨干人物泰德·普拉夫克已去世",
-      "url": "https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
-      "pub_raw": "2026-11-12T15:03:50.105Z",
-      "pub_sort_dt": "2026-11-12 23:03:50"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国吸引制药巨头进驻，同时也引发了一些国家安全方面的担忧",
-      "title_cn": "中国吸引制药工会进驻，同时也引发了一些国家安全方面的担忧",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/china-draws-pharma-giants-and-some-national-security-concerns",
-      "pub_raw": "2026-11-12T15:03:50.102Z",
-      "pub_sort_dt": "2026-11-12 23:03:50"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "众议院议长约翰逊表示，国会正在就限制向中国出口芯片一事达成共识",
-      "title_cn": "长约翰逊表示，国会正在就限制中国出口筹码一事达成共识",
-      "url": "https://reut.rs/4zhdvPC",
-      "pub_raw": "2026-11-12T15:03:50.054Z",
-      "pub_sort_dt": "2026-11-12 23:03:50"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国正掀起一场特许经营革命",
-      "title_cn": "中国积极发起革命经营活动",
-      "url": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
-      "pub_raw": "2026-11-12T14:47:55.493Z",
-      "pub_sort_dt": "2026-11-12 22:47:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国是黄仁勋陨落的最大输家",
-      "title_cn": "中国是黄仁勋陨落的最大输家",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-11-12/china-is-the-biggest-loser-from-jensen-huang-s-downfall",
-      "pub_raw": "2026-11-12T14:31:49.472Z",
-      "pub_sort_dt": "2026-11-12 22:31:49"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国的排放量正在下降。这要归功于自身利益。",
-      "title_cn": "中国的排放量正在下降。这要寻求自身利益。",
-      "url": "https://www.economist.com/leaders/2026/11/12/chinas-emissions-are-falling-thank-self-interest",
-      "pub_raw": "2026-11-12T14:16:13.197Z",
-      "pub_sort_dt": "2026-11-12 22:16:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "《彭博商业周刊》中国特刊：聚焦中国迅猛崛起",
-      "title_cn": "《彭博商业周刊》中国特刊：聚焦中国迅猛崛起",
-      "url": "https://www.bloomberg.com/features/2026-china-issue/",
-      "pub_raw": "2026-11-12T13:43:46.444Z",
-      "pub_sort_dt": "2026-11-12 21:43:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "卡尼下周将在中国与习近平讨论电动汽车和关税问题",
-      "title_cn": "卡尼下周将在中国与习近平讨论电动汽车和关税问题",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/carney-to-discuss-evs-tariffs-with-xi-jinping-in-china-next-week",
-      "pub_raw": "2026-11-12T13:43:46.441Z",
-      "pub_sort_dt": "2026-11-12 21:43:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "《Next Africa》：中国汽车召回预示市场将面临更多动荡",
-      "title_cn": "《下一个非洲》：中国汽车召回市场将面临更多动荡",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/next-africa-chinese-car-recall-points-to-more-market-upheaval",
-      "pub_raw": "2026-11-12T13:11:43.420Z",
-      "pub_sort_dt": "2026-11-12 21:11:43"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国总理呼吁扩大社会保障覆盖范围，使其更加公平、更具可持续性",
-      "title_cn": "中国总理呼吁扩大社会保障覆盖范围，加大公平、增加持续性",
-      "url": "https://reut.rs/4f6IMgL",
-      "pub_raw": "2026-11-12T12:55:43.946Z",
-      "pub_sort_dt": "2026-11-12 20:55:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国如何培养新一代人工智能企业家",
-      "title_cn": "中国如何培养新一代人工智能企业家",
-      "url": "https://www.bloomberg.com/news/features/2026-11-12/how-china-is-creating-a-new-generation-of-ai-entrepreneurs",
-      "pub_raw": "2026-11-12T12:07:57.291Z",
-      "pub_sort_dt": "2026-11-12 20:07:57"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "数字人民币仅是中国不断扩展的全球支付网络的一部分 - Atlantic Council",
-      "title_cn": "数字人民币只是中国不断扩展的全球支付网络的一部分 - 大西洋理事会",
-      "url": "https://news.google.com/read/CBMixAFBVV95cUxPRmhiVFVodVFMXzZrZTlqZW5hUnc0Qmt2VWRKWnB4WlczNUUzRzVLUmdwTXhCaEFZWEpkSzdBaVVCZDV3NVhsRkZHOS1haTYxdUlVcVgwUWc1cnhxaU02Sm9Bb3JWM2czOU0zUk1yaUR5YW5oTVR5enlMbGZpd0dLQkd6eEVhdUFCbnBqbzRCRnBEY3pSNThnMjUyZHR5MjdzM0hfLVVRd2V3NUM2UmlHMDZDRFpsUjBzOTNHWFJOS3FDWW9Z?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T21:37:00.000Z",
-      "pub_sort_dt": "2026-11-13 05:37:00"
+      "title_en": "中国价值30亿美元以上的英伟达驱动的人工智能数据中心项目储备 - Kansas City Star",
+      "title_cn": "中国价值30亿美元以上的英伟达驱动的人工智能数据中心项目储备 - Kansas City Star",
+      "url": "https://news.google.com/read/CBMib0FVX3lxTE02djY0U3RpNnU5UGR3VGFRZG05RnlwblRSanVna1BEY0VRT2pqUk4yRDhWMVI4U2J4dFptaGRfQWI4ZGlvR2prczB6eUNRcXAwdDVmM3J1NWdMOFN6MkpWekQ5QTdDZkh6QlJBcGFlYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T09:48:06.000Z",
+      "pub_sort_dt": "2026-11-13 17:48:06"
     },
     {
       "source": "China Buzzing",
-      "title_en": "马斯克的SpaceX-特斯拉帝国正日益紧密地融合，但中国和华盛顿的影响力依然不容小觑 - Yahoo Finance Singapore",
-      "title_cn": "马斯克的SpaceX-特斯拉帝国正在激烈地融合，但中国和华盛顿的影响力依然不容小觑 - 雅虎财经",
-      "url": "https://news.google.com/read/CBMihgFBVV95cUxOQUVwMU9jSHVtQjZ6Y2paU0YzTGVMdW82dENpb3dKTTlqaVR6UG43MUN0SERONlJaQ2w1X0U4SUtKcUxGbEIzMHdaMWtMQlJ4M3lONHZhWkI4aUtYZHBjdHU3ME1zMmZsclpzd3I2Tm8weEFBRXB5QWFoc3hzd3Mxai05NWtXdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T20:53:33.000Z",
-      "pub_sort_dt": "2026-11-13 04:53:33"
+      "title_en": "特朗普在访华前对被解职的英伟达首席执行官的倚重引发质疑 - NPR",
+      "title_cn": "特朗普在访华前对被解职的英伟达首席执行官的倚重引发质疑 - NPR",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxQaWhJdVVqQ1hJNGhWVmsyTHpDQi1WRHBEdnZrM0dwZ05HZWF4TGJYbV9BQ3ZTR1lRbWRza2tJencwRlR3T2JvLV9EcHliSGFpbVNhaGViMlN0amV5RHVyS05ybnAxUVp3SnEtVHNrMEFqQnQ1UjRSMWRKbXVpMU9xd0NCM3Y4b2x1TEJzN1NfaHkyUUZrdk42QVozNndaWUtscTBMVTdleVk1OU1uLV9wLVZMNA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T09:43:21.000Z",
+      "pub_sort_dt": "2026-11-13 17:43:21"
     },
     {
       "source": "China Buzzing",
-      "title_en": "流亡藏人领袖对特朗普在对华交往中未保障藏人权利表示遗憾 - U.S. News & World Report",
-      "title_cn": "流亡藏人领袖对特朗普在对华援中未保障藏人权利表示遗憾 - 美国新闻与世界报道",
-      "url": "https://news.google.com/read/CBMiwgFBVV95cUxPbVIxeEZkekpQV1FJUE5OTDAyRjA4c3NSRk9zUkdMNG93SHpYUU96SUVYdV9ldjlyV1U2VTdVYnlUZTJyalRTLXlaTmdvMW5KY3BVcTVYRzZfajBEcU1BeVBkQnIyLW11eUxfOXk1ZWM1dU5FNTU4WXUxQm4wWUJLMkJHMnhTQVdQSVJKTy01aW9KNWpQMWZUM1VhaHA2a0pVMFY1U1RwcExZR3ZjN01kbmtCS0RoQTFXNGxQYWFvN19BZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T20:53:00.000Z",
-      "pub_sort_dt": "2026-11-13 04:53:00"
+      "title_en": "《财新》峰会：巴斯夫副总裁表示，外资企业将中国视为全球增长引擎 - Caixin Global",
+      "title_cn": "《财新》峰会：巴斯夫副总裁表示，外资企业将中国视为全球增长引擎 - Caixin Global",
+      "url": "https://news.google.com/read/CBMi2AFBVV95cUxQTUhRRzNMOTE2WXV3RlliTDZRTVhMY21zV09ESXNDMFg2OGZpb1lWdU0zX1M4Y1NFWFFwa19hdkNWdHh2WFBYTGZMOVpId2l0TGV3UzF3NUdmRGNvYV9BT1JxX2hUVmNQVkcwaGFpWVJUTFpQUFNkOHhSWGRvOHhXMGs1dy1TZS1jUmpjckJUbVZsaXgtU1h3ZXZEUDNWVXhmcWdTRE9jZlNyNkYzZkhROWl5V1YtcHNzUHhlN3NEbk5vODYzWVNuSHl1SGI3c1k3YVpTR0k3ZGw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T09:22:00.000Z",
+      "pub_sort_dt": "2026-11-13 17:22:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "寡头与中国间谍：谁对美国人构成的威胁更大？ - The American Prospect",
-      "title_cn": "寡头与中国间谍：谁对美国人构成的威胁更大？ - 美国展望",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxNMXJ1TElfQ0MwS1k3dTgzU19fYXJ2MjB2MHB0bktRSkJseTFCQWdIVnFGa1hhd1llM1VlUW53RTVMNk9SeklvTjZyX3dkb2dmVnR5R3ZIOHFkYVFVazQyZUlBMHV2djBQclExZ3hlczZkd1R3UFRyOTJZN2lNQ1ZpMHdWNjAyQUVIck0wN2JsWmxIVGNLb2FoZnlLU0s?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T20:44:52.000Z",
-      "pub_sort_dt": "2026-11-13 04:44:52"
+      "title_en": "尽管政策支持力度加大，但中国信贷增长仍未达预期 - Bloomberg.com",
+      "title_cn": "尽管政策支持力度加大，但中国信贷增长仍未达预期 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxNdUhwLWc0M2phT1daM2ttNTZvVXFWLTNidXROWFhwVURyVUcwWDdhLTJsNTFkWWVIa2F6V3JuX01EWlBHNmNnYksxbkVoN1U0MXRhNk1sOWFGX2N0QXhjc1M0OVFDVEQ3VzA0MFhSNlItUGViSEtXZW83cFBzX1g0WTEybjFWUTUyU2xhR1oteHpseGl1MTMtMHdCaDFJbjBlb014a3hKcXN4RHhlYjhaWXU4QWJuUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T09:12:53.000Z",
+      "pub_sort_dt": "2026-11-13 17:12:53"
     },
     {
       "source": "China Buzzing",
-      "title_en": "从古代亚洲到人工智能时代：中国的“美色之计”是否在英伟达的黄仁勋身上找到了新的受害者？ - The Conversation",
-      "title_cn": "从古代亚洲到人工智能时代：中国的“美色之计”是否在英伟达的黄仁勋身上找到了新的受害者？ - 对话",
-      "url": "https://news.google.com/read/CBMi0wFBVV95cUxOUDlmellmSFBVQ3VVWGQwLW5QV1lyeVdTX3AyTGFYM1NfS0tFNkRfMGM2MWdqN0NHX1VWNjZUMWkydTlVRG8yWFdQVjNpNlppNnREU2lwcmNUNDBHWWpQczVVeTFuZVVSaVRaeUNyNXBxeTc3ZDdTWklfazBfbDNLZWI2cG5LV0JqWVZESlZ1ZldZV0lXWGVQX0J5QXdIRkFoZVl0Qk5qYk9yR19EOElLR0hUVkJZc1BHVlA1RU9wZVBxcTdUYWZ3STBZcXpPUzIxSWhN?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T20:25:32.000Z",
-      "pub_sort_dt": "2026-11-13 04:25:32"
+      "title_en": "为什么中国的年轻人要装扮成被逐的妾？ - RADII",
+      "title_cn": "为什么中国的年轻人要装扮成被逐的妾？ - RADII",
+      "url": "https://news.google.com/read/CBMieEFVX3lxTFBFTkFqc3NsbVF3U0VtMGlrTmZmNUVEVzJBODk3VzRwLUMxdVJ2VUlKRGF3NlQ2eDFCVUs0aWtBdXFqYU1tcEdodmt0alRTOWdpcXg0SklkNnpaN18wU3NrMmNuVlE4bU1yVldFb3l5SFcxWVV3TFg2cA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T09:12:44.000Z",
+      "pub_sort_dt": "2026-11-13 17:12:44"
     },
     {
       "source": "China Buzzing",
-      "title_en": "职业前途如何影响了中国独生子女政策的执行 - Stanford Report",
-      "title_cn": "职业前景如何影响了中国独生子女政策的执行 - 斯坦福报告",
-      "url": "https://news.google.com/read/CBMijgFBVV95cUxQTzhOMEJfLTg1QTFmckxma3NqLTlISnVMdjBzMUFOR1JYb2lZdy1hRHNvOVlfZmROQlV1Z3FINWVFY2J3azI5cWZyR1VwWWswd2IwX2hrZXY4OFlCTkdORzNrT0d1SFVpX1Riakc1elViQnRqYVZENGpGTDFucDNaTjVmb1NpUWFodVJpTGN3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T20:15:31.000Z",
-      "pub_sort_dt": "2026-11-13 04:15:31"
+      "title_en": "中国总理期待推进中泰命运共同体建设 - CGTN",
+      "title_cn": "中国总理期待推进中泰命运共同体建设 - CGTN",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxPRlp5NU1Yc0hueUZ2UzFoS2ZIS2NJOVR0VjRSU0ZYNEZFM25Bd005c0t3WFpyemxDaHNjUURlX3FmRlZPd2pkRmhJOTJXOXo0bWtXOHF1R3g2cXV5Q1VmUW1fQ21mQWRvcnFhMVh3d2E3T1VjODhtTlVrdUJkeUR3bVBmN0dZaFg2dzFXcWtheUhnbWxyMGFWeVZOUi1uZUIzektZY2RhYzBPRV96UXlhRGFYeHUyTEVEbGd6SGJKZ1FBMlo3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T08:38:23.000Z",
+      "pub_sort_dt": "2026-11-13 16:38:23"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国在乌兹别克斯坦展开魅力攻势 - Eurasianet",
-      "title_cn": "中国在乌兹别克斯坦拓展魅力攻势 - 欧亚网",
-      "url": "https://news.google.com/read/CBMie0FVX3lxTE1MNTBoYjV1ZWhmNVFLUGEwaHZmRUhjTzBOQzJqNDdIS1pSa0I1QU9BZnFyeFhFZFZtZldOQkNPV1JhOE1WdU5yRXlLRlNua3oxTmR1T3VHZ1RxTEpqVVIyZmxfdFk1bFJIb1JfOW9YeXJycHEwUjN5Rlk2aw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T19:47:18.000Z",
-      "pub_sort_dt": "2026-11-13 03:47:18"
+      "title_en": "2026年中国五大信誉良好的游戏充值折扣服务提供商：推动数字游戏服务发展 - EIN Presswire",
+      "title_cn": "2026年中国五大信誉良好的游戏充值折扣服务提供商：推动数字游戏服务发展 - EIN Presswire",
+      "url": "https://news.google.com/read/CBMi4gFBVV95cUxOQWxlUjN4aUdMbVhPUF85YnI3Yi1mdkRoQWRTSEdhbktFOXR0MjVMUW9WSzZBNEJFa2lkUXNkSHVRWTR4NWZkZldHSkt6MGF0UU1TX1lUeHoweHQxd0dZTWkteXhIeF81ODZ4UV9Wa0ZEQTVoSGh4cnNfakVFYkgza2YtTDJDVUZKNXlBZDQyal9UMDB4ZmlLUTlBLUdQSGRwUVkxZEk0NTZ0SkFMSWlwRWNYakNOeUEtMkxJNzhsV1loQnJ0cW9oNW91aHdpTHQtUkJZSnpPOFF1WDJDbXVNNHN3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T08:38:00.000Z",
+      "pub_sort_dt": "2026-11-13 16:38:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "肉类加工商敦促美国贸易代表办公室优先考虑印尼、中国、越南和墨西哥的市场准入问题 - The National Provisioner",
-      "title_cn": "肉类加工商敦促美国贸易代表办公室优先考虑对话、中国、越南和墨西哥的市场准入问题 - The National Provisioner",
-      "url": "https://news.google.com/read/CBMi0AFBVV95cUxNLW9aazFiYUN6T01RMXFRWmU2RVVLLTFZakhVZlRFUWFKVEhEWjYzelllbkhKcTdzclJBUUpfQ3g3YmdWVFR2WGtOOElhQVV2OExHdGJZSFNyd1NMMWM5UnhBUzJyODI3VlluMXJFMTZUVjF6OUZqOWF6bTBxdmNvSG9zb1gzMXpYMENsMk5VTGdEVml1cng1dHRsX283LVNjM2txMjJ6ZDA2MEViM1hHQ2VScWpwWDlxemlIZE1iZjBPVHJCNXZZQmpjVl9mb3BO?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T19:15:38.000Z",
-      "pub_sort_dt": "2026-11-13 03:15:38"
+      "title_en": "奥地利运营商警告称，随着某些欧盟国家计划禁止使用中国设备，这将带来成本压力 - China Daily",
+      "title_cn": "奥地利运营商警告称，随着某些欧盟国家计划禁止使用中国设备，这将带来成本压力 - China Daily",
+      "url": "https://news.google.com/read/CBMiWEFVX3lxTFA1WWFoMG1kSTVITW54bmdhVXNhMVpGM29PNkp1N0RpMjdzMmkyZGNZZFNpY0lGMW5Sa0F2N1FaRGhHM2gtblFhUXZfSWxNUDRmYlk0V0RsdHo?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T08:32:32.000Z",
+      "pub_sort_dt": "2026-11-13 16:32:32"
     },
     {
       "source": "China Buzzing",
-      "title_en": "官员称，美国几乎没有协助新加坡调查涉嫌的中国间谍 - The Washington Post",
-      "title_cn": "官员称，美国几乎没有协助新加坡调查涉嫌的中国间谍 - The Washington Post",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxPX3JMcWFsdHdHTTFFZnRSV09sUUxWQnlnTG9YYUNQSXNIUllrR0hVQTE1cnhJRlBOdUdLLW9PRHpsNDU2SmYyb1o4VVZtQUJxR0hKbWRndV85ZjJVNlpQeVk2V2x4OWcyWnVULTY1MjhZa3hpUWVTTFgxNlpaZ0tRUmZVV0pqSmowNGM0VGRBeTdNVUNEekIzLWJGS09XNDFWajJPdUE4U1RkUmgyMktOVnQ0OGtSOUg1RTMxQ0dQcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T18:57:55.000Z",
-      "pub_sort_dt": "2026-11-13 02:57:55"
+      "title_en": "随着一部由AI制作的历史题材热门短剧的出现，中国短剧的质量正发生转变 - Sixth Tone",
+      "title_cn": "随着一部由AI制作的历史题材热门短剧的出现，中国短剧的质量正发生转变 - Sixth Tone",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxPeHQwaGdyTWlZRXZJbkZya3NrOUNjSEljOTNXRkJzUGh0MDZCa2NCS1lpVGNqTlRoWlpVSkY4bXlDVzJENEQ1V2hGQmdkLUNTWTFxc1hQQ2c1TXdzWEdyMkVMRnNKMUJQa0FJc1hyQzhPb1BEc3d5Nl9TZFBFRk9CRFF1U3VndEE4d0NPcWc4TVlUYjN4U3l0eVZDNWdRT1pPaG5vXzlyUXU4QVcxVFd5cUV6bw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T08:28:41.000Z",
+      "pub_sort_dt": "2026-11-13 16:28:41"
     },
     {
       "source": "China Buzzing",
-      "title_en": "英伟达首席执行官辞职后，对向中国销售人工智能芯片的限制可能进一步收紧 - Reuters",
-      "title_cn": "英伟达辞职后，对中国销售人工智能芯片的限制可能进一步收紧 - 路透中文网",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxQRERObVhKZklNOEliOFhfQmhqMmZaQWktbkVWTXlxZU8zbUtxQ1cwZnZpaGJwZ1djUHFFVVlydTFsQUd3UUJEV0NOdUliUGY1ZGNKN1ZPWG1zYkpxcEgtNGJlSFVrTi1EVm84MnFFbWxmeXR1YmotNUdzVFBtUVU1VmhPR3ZGTHFUcHlSUnRQQmU0WUYyRi1fdnNHOHc3QUh2OWVsQURUb3BwVTVaMm9NRUdnbw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-12T18:56:33.000Z",
-      "pub_sort_dt": "2026-11-13 02:56:33"
+      "title_en": "德国电影节在中国颂扬电影多样性 - China Daily",
+      "title_cn": "德国电影节在中国颂扬电影多样性 - China Daily",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTFBWNm1zZk05ZHJzSjhHRFlpREdUb3J0RTdXdHNiYTdqN1Fybi01MTFTdTZJbTVUMWZmQ0lTNFZfTXBCdXl4cFlmbjlveFJXajJxRGxLMXBCM0V0ZGlOOFZtNlpYYmVIUDZSbDNqYnJOSlJ6WGN4STNYcl9QVG5rZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-13T08:19:57.000Z",
+      "pub_sort_dt": "2026-11-13 16:19:57"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "尽管政策支持力度加大，但中国信贷增长仍未达预期",
+      "title_cn": "尽管政策支持力度加大，但中国信贷增长仍未达预期",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-s-credit-growth-disappoints-despite-greater-policy-support",
+      "pub_raw": "2026-11-13T09:39:35.454Z",
+      "pub_sort_dt": "2026-11-13 17:39:35"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "独家报道：黄仁勋离职及美国监管审查，使依赖英伟达的30亿美元中国人工智能项目面临风险",
+      "title_cn": "独家报道：黄仁勋离职及美国监管审查，使依赖英伟达的30亿美元中国人工智能项目面临风险",
+      "url": "https://reut.rs/3Xo0wOA",
+      "pub_raw": "2026-11-13T09:39:35.417Z",
+      "pub_sort_dt": "2026-11-13 17:39:35"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港对经济前景更加乐观，经济增长预期上调",
+      "title_cn": "香港对经济前景更加乐观，经济增长预期上调",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/hong-kong-lifts-gdp-growth-outlook-again-as-ai-boom-spurs-export",
+      "pub_raw": "2026-11-13T09:07:56.264Z",
+      "pub_sort_dt": "2026-11-13 17:07:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国决定不申办2028年联合国气候谈判",
+      "title_cn": "中国决定不申办2028年联合国气候谈判",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-decides-against-bidding-to-host-2028-global-climate-talks",
+      "pub_raw": "2026-11-13T08:51:39.831Z",
+      "pub_sort_dt": "2026-11-13 16:51:39"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "因担忧英伟达芯片限制措施将进一步收紧，中国AI板块抛售潮加剧",
+      "title_cn": "因担忧英伟达芯片限制措施将进一步收紧，中国AI板块抛售潮加剧",
+      "url": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-13T08:05:05.155Z",
+      "pub_sort_dt": "2026-11-13 16:05:05"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国在刺激政策启动后迎来首份经济成绩单",
+      "title_cn": "中国在刺激政策启动后迎来首份经济成绩单",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-gets-first-economic-scorecard-with-stimulus-taps-turned-on",
+      "pub_raw": "2026-11-13T07:01:55.898Z",
+      "pub_sort_dt": "2026-11-13 15:01:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国通过为全球工厂提供设备，巩固了其出口优势",
+      "title_cn": "中国通过为全球工厂提供设备，巩固了其出口优势",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/china-locks-in-export-power-by-equipping-the-world-s-factories",
+      "pub_raw": "2026-11-13T05:57:50.084Z",
+      "pub_sort_dt": "2026-11-13 13:57:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "切断中国在芬太尼供应链中的环节，以遏制美国阿片类药物危机",
+      "title_cn": "切断中国在芬太尼供应链中的环节，以遏制美国阿片类药物危机",
+      "url": "https://www.bloomberg.com/news/features/2026-11-13/cracking-china-s-link-in-the-fentanyl-supply-chain-fueling-the-us-opioid-crisis",
+      "pub_raw": "2026-11-13T05:09:45.891Z",
+      "pub_sort_dt": "2026-11-13 13:09:45"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "黄仁勋被罢免使中国在美国失去了一位友善的声音",
+      "title_cn": "黄仁勋被罢免使中国在美国失去了一位友善的声音",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/jensen-huang-ouster-deprives-china-of-a-friendly-voice-in-us",
+      "pub_raw": "2026-11-13T05:09:45.879Z",
+      "pub_sort_dt": "2026-11-13 13:09:45"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "官员称，中国在太平洋地区举行了未事先宣布的军事演习，以此对台湾进行“无声威慑”",
+      "title_cn": "官员称，中国在太平洋地区举行了未事先宣布的军事演习，以此对台湾进行“无声威慑”",
+      "url": "https://reut.rs/4izT0bK",
+      "pub_raw": "2026-11-13T04:54:06.089Z",
+      "pub_sort_dt": "2026-11-13 12:54:06"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受税收担忧影响，中国政策性银行债券遭遇抛售",
+      "title_cn": "受税收担忧影响，中国政策性银行债券遭遇抛售",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-policy-bank-bonds-suffer-selloff-as-tax-worries-hit-market",
+      "pub_raw": "2026-11-13T04:21:55.254Z",
+      "pub_sort_dt": "2026-11-13 12:21:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "据称，中国芯片制造商SigmaStar计划以3亿美元在香港上市",
+      "title_cn": "据称，中国芯片制造商SigmaStar计划以3亿美元在香港上市",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing",
+      "pub_raw": "2026-11-13T02:31:09.333Z",
+      "pub_sort_dt": "2026-11-13 10:31:09"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受英伟达事件影响，中国互联网股涨势面临现实考验",
+      "title_cn": "受英伟达事件影响，中国互联网股涨势面临现实考验",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-internet-stock-gains-face-reality-check-in-nvidia-fallout",
+      "pub_raw": "2026-11-13T00:23:08.456Z",
+      "pub_sort_dt": "2026-11-13 08:23:08"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "交易公司IMC计划将香港员工人数翻一番",
+      "title_cn": "交易公司IMC计划将香港员工人数翻一番",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/quant-trading-firm-imc-plans-to-double-staff-in-hong-kong",
+      "pub_raw": "2026-11-13T00:23:08.389Z",
+      "pub_sort_dt": "2026-11-13 08:23:08"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "像阿克索这样的中国制药企业迎来了属于自己的“DeepSeek时刻”",
+      "title_cn": "像阿克索这样的中国制药企业迎来了属于自己的“DeepSeek时刻”",
+      "url": "https://www.bloomberg.com/news/features/2026-11-13/chinese-drugmakers-like-akeso-have-their-deepseek-moment",
+      "pub_raw": "2026-11-13T00:06:46.053Z",
+      "pub_sort_dt": "2026-11-13 08:06:46"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "研究显示，剧烈价格波动暴露了香港股市面临的压力",
+      "title_cn": "研究显示，剧烈价格波动暴露了香港股市面临的压力",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/wild-price-swings-expose-stress-in-hong-kong-stocks-study-shows",
+      "pub_raw": "2026-11-12T23:51:00.324Z",
+      "pub_sort_dt": "2026-11-13 07:51:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "从Jane Street到Point72，金融巨头推高香港写字楼租金",
+      "title_cn": "从Jane Street到Point72，金融巨头推高香港写字楼租金",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/from-jane-street-to-point72-finance-giants-drive-hong-kong-office-rents-higher",
+      "pub_raw": "2026-11-12T23:18:52.110Z",
+      "pub_sort_dt": "2026-11-13 07:18:52"
     },
     {
       "source": "Bloomberg",
@@ -357,142 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-12/trump-suggests-xi-unlikely-to-release-hong-kong-s-jimmy-lai",
       "pub_raw": "2026-11-12T21:11:07.688Z",
       "pub_sort_dt": "2026-11-13 05:11:07"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "英伟达CEO辞职后，对向中国销售AI芯片的限制可能进一步收紧",
-      "title_cn": "英伟达CEO辞职后，对向中国销售AI芯片的限制可能进一步收紧",
-      "url": "https://reut.rs/4BQM41o",
-      "pub_raw": "2026-11-12T19:18:52.274Z",
-      "pub_sort_dt": "2026-11-13 03:18:52"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "黄仁勋离任后，英伟达、中国及人工智能竞赛将何去何从？现场问答",
-      "title_cn": "黄仁勋离任后，英伟达、中国及人工智能竞赛何将去何去？现场问答",
-      "url": "https://www.bloomberg.com/sessions/2026-11-12/live-q-amp-a-with-jensen-huang-out-what-s-next-for-nvidia-china-and-ai-race",
-      "pub_raw": "2026-11-12T16:56:01.201Z",
-      "pub_sort_dt": "2026-11-13 00:56:01"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "纽森抨击特朗普在气候问题上的倒退，称此举将使中国占得先机",
-      "title_cn": "纽森峰会击中特朗普在气候问题上的倒退，称拜登对中国占得先机",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/democrats-vow-to-work-with-un-on-carbon-cutting-defying-trump",
-      "pub_raw": "2026-11-12T16:23:43.944Z",
-      "pub_sort_dt": "2026-11-13 00:23:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "花旗集团首席执行官简·弗雷泽谈人工智能股抛售潮及中国市场，投资推进持续进行",
-      "title_cn": "花旗集团起点简·弗雷泽谈人工智能股抛售潮及中国市场，投资推进持续进行",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/citi-ceo-jane-fraser-on-ai-selloff-china-as-investment-push-continues",
-      "pub_raw": "2026-11-12T15:19:46.137Z",
-      "pub_sort_dt": "2026-11-12 23:19:46"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国的二氧化碳排放量已开始下降",
-      "title_cn": "中国的洪水量已开始下降",
-      "url": "https://www.economist.com/china/2026/11/12/chinas-carbon-dioxide-emissions-have-begun-to-fall",
-      "pub_raw": "2026-11-12T15:03:50.153Z",
-      "pub_sort_dt": "2026-11-12 23:03:50"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国对东南亚的清洁技术出口正呈激增之势",
-      "title_cn": "中国对东南亚的清洁技术出口正呈激增之势",
-      "url": "https://www.economist.com/china/2026/11/12/chinas-exports-of-clean-tech-to-south-east-asia-are-soaring",
-      "pub_raw": "2026-11-12T15:03:50.139Z",
-      "pub_sort_dt": "2026-11-12 23:03:50"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "我们中国新闻报道的骨干人物泰德·普拉夫克已去世",
-      "title_cn": "我们中国新闻报道的骨干人物泰德·普拉夫克已去世",
-      "url": "https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
-      "pub_raw": "2026-11-12T15:03:50.105Z",
-      "pub_sort_dt": "2026-11-12 23:03:50"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国吸引制药巨头进驻，同时也引发了一些国家安全方面的担忧",
-      "title_cn": "中国吸引制药工会进驻，同时也引发了一些国家安全方面的担忧",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/china-draws-pharma-giants-and-some-national-security-concerns",
-      "pub_raw": "2026-11-12T15:03:50.102Z",
-      "pub_sort_dt": "2026-11-12 23:03:50"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "众议院议长约翰逊表示，国会正在就限制向中国出口芯片一事达成共识",
-      "title_cn": "长约翰逊表示，国会正在就限制中国出口筹码一事达成共识",
-      "url": "https://reut.rs/4zhdvPC",
-      "pub_raw": "2026-11-12T15:03:50.054Z",
-      "pub_sort_dt": "2026-11-12 23:03:50"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国正掀起一场特许经营革命",
-      "title_cn": "中国积极发起革命经营活动",
-      "url": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
-      "pub_raw": "2026-11-12T14:47:55.493Z",
-      "pub_sort_dt": "2026-11-12 22:47:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国是黄仁勋陨落的最大输家",
-      "title_cn": "中国是黄仁勋陨落的最大输家",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-11-12/china-is-the-biggest-loser-from-jensen-huang-s-downfall",
-      "pub_raw": "2026-11-12T14:31:49.472Z",
-      "pub_sort_dt": "2026-11-12 22:31:49"
-    },
-    {
-      "source": "The Economist",
-      "title_en": "中国的排放量正在下降。这要归功于自身利益。",
-      "title_cn": "中国的排放量正在下降。这要寻求自身利益。",
-      "url": "https://www.economist.com/leaders/2026/11/12/chinas-emissions-are-falling-thank-self-interest",
-      "pub_raw": "2026-11-12T14:16:13.197Z",
-      "pub_sort_dt": "2026-11-12 22:16:13"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "《彭博商业周刊》中国特刊：聚焦中国迅猛崛起",
-      "title_cn": "《彭博商业周刊》中国特刊：聚焦中国迅猛崛起",
-      "url": "https://www.bloomberg.com/features/2026-china-issue/",
-      "pub_raw": "2026-11-12T13:43:46.444Z",
-      "pub_sort_dt": "2026-11-12 21:43:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "卡尼下周将在中国与习近平讨论电动汽车和关税问题",
-      "title_cn": "卡尼下周将在中国与习近平讨论电动汽车和关税问题",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/carney-to-discuss-evs-tariffs-with-xi-jinping-in-china-next-week",
-      "pub_raw": "2026-11-12T13:43:46.441Z",
-      "pub_sort_dt": "2026-11-12 21:43:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "《Next Africa》：中国汽车召回预示市场将面临更多动荡",
-      "title_cn": "《下一个非洲》：中国汽车召回市场将面临更多动荡",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/next-africa-chinese-car-recall-points-to-more-market-upheaval",
-      "pub_raw": "2026-11-12T13:11:43.420Z",
-      "pub_sort_dt": "2026-11-12 21:11:43"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国总理呼吁扩大社会保障覆盖范围，使其更加公平、更具可持续性",
-      "title_cn": "中国总理呼吁扩大社会保障覆盖范围，加大公平、增加持续性",
-      "url": "https://reut.rs/4f6IMgL",
-      "pub_raw": "2026-11-12T12:55:43.946Z",
-      "pub_sort_dt": "2026-11-12 20:55:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国如何培养新一代人工智能企业家",
-      "title_cn": "中国如何培养新一代人工智能企业家",
-      "url": "https://www.bloomberg.com/news/features/2026-11-12/how-china-is-creating-a-new-generation-of-ai-entrepreneurs",
-      "pub_raw": "2026-11-12T12:07:57.291Z",
-      "pub_sort_dt": "2026-11-12 20:07:57"
     }
   ]
 }
