@@ -1,97 +1,129 @@
 {
-  "update_cst": "2026-11-14 06:01:14 北京时间",
+  "update_cst": "2026-11-14 18:01:07 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 13,
-    "Financial Times": 3,
+    "Bloomberg": 12,
+    "Financial Times": 2,
     "Wall Street Journal": 0,
-    "Reuters": 4
+    "Reuters": 6
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "中美停火掩盖了亚太经合组织（APEC）峰会前习近平与特朗普再度会晤之际日益加剧的紧张局势 - Nikkei Asia",
-      "title_cn": "中美停火掩盖了亚太经合组织（APEC）峰会前习近平与特朗普再度会晤之际日益加剧的紧张局势 - Nikkei Asia",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxOX21nUmZaaEUzemtwQUk3VnJGQktXQjE1YU9JYzJUSy12ZWlCaFFVR1I2UTFQQXlTSjFTX0k3eEU1VWNtX0wtSl9ybmRrbkhFNUpwQ2RPNjdqYURrSFI0LW1aaXpuYk01dWVPOUpIRko3MkxTM2l6Z3ZYMmZVTjdnYVFMT3p2eGRHUnF2dTBRemhFR29JODFuZXZIYUY5SmYyVUNqR2ZVS09Eb0VPVUtPYWd1LVU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T21:00:00.000Z",
-      "pub_sort_dt": "2026-11-14 05:00:00"
+      "title_en": "台湾地区针对中国批评者的暴力袭击事件引发了对跨国镇压的担忧 - The Washington Post",
+      "title_cn": "台湾地区针对中国批评者的暴力袭击事件引发了对跨国镇压的担忧 - The Washington Post",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxPazNZZ292dUE2RkNDSmEzSFJVV2JYRDBMTzVCbGphX2ZyVXVJVXZJcXIwZ1NLcFRtb3k3MUd2ZjJvZ2FLXzVaTmJOVll1X2k5RGRldklhWHpxU1BvaVRFMWFLU2ZnZ0VBR2hyRmltbExCVG5wYXZUeEVXcmxLQzRobi1RM2tNcUJCdENTZE9OSmY4NzBjVVZONnpIUVUwTWhqR256YlhKcVpQbER6NHhsbGxLb0lsaktOT2VEWkdkdFkzRDJmLWxhMjhRMmVadw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T03:19:28.000Z",
+      "pub_sort_dt": "2026-11-14 11:19:28"
     },
     {
       "source": "China Buzzing",
-      "title_en": "扭转中国在稀土市场上的主导地位是可能的。以下是实现这一目标所需的条件 - Fast Company",
-      "title_cn": "扭转中国在稀土市场上的主导地位是可能的。以下是实现这一目标所需的条件 - Fast Company",
-      "url": "https://news.google.com/read/CBMi9gJBVV95cUxPYjlIYWU2c1BpS01kbkM5dlVqdDVTUmRzb2c5Q01NN3NXcnhsYXZIUzVPMkNPN1o4N3JnYmZVMmo0dXk0X2ZzNVlRWE82cGlidTBMdS1DODdrYU4yVGduWE5aNUkycTFqWkNqNkRRbWlaTTVVUlNXM2NLTkVCM1JUZmRXUDdsNTZJMWZWa3VxUkNxOG1NT1RINGtvTkhfYTJ2bFkzMGRUdHd3YTNzb3BXclUwQVc1d1hrZS1VcG1NbDAxOGpTNVI1NWxtYnJFN21zN1NmZnNMdUZ0Y0VKLW9QV0E2a3JuMGoxS1k5aVIwT2VVZXFGOVVid2RmWmRzRU0zdEFWTS1RNjk5U0RZYlo2UmkyakdxWEJDSmFKamw2dkl6cFVYa3UzakZ5ZkliRncyWkNzem1sNFItZkNrSnhlbHgwQ2kyQjlDaXFTQkJ6SkdXUnFocDB3LWpMQk04N3o1TkYzcjJQLWYta0V2X0REWmpNT2N3Zw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T20:37:33.000Z",
-      "pub_sort_dt": "2026-11-14 04:37:33"
+      "title_en": "台湾地区针对中国批评者的暴力袭击事件引发了对跨国镇压的担忧 - WRAL",
+      "title_cn": "台湾地区针对中国批评者的暴力袭击事件引发了对跨国镇压的担忧 - WRAL",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNcFl4ZWxvTm00Wmo5cTZaaWFDeUszczRKMWtVMF9uRzJEaFNvZU9MaEFfRDJGRkd2Zy1ZTm42YUlqNGdlM0VYeURockNhbjBTWEYyaldmX1RNbVNZU3NsSHBDUTlEeGJrV2RZYjA0M3hyZi1BUHBNVmpMWDNSRzZuTGUtUEJ5Q0MyTzByQURncFhQOTRsRHJOOUpKVmloTl95dURSSW9EalowUXlmUWUzVVg5M3RBVWE1NXBGU1J0Ul9ucVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T03:09:10.000Z",
+      "pub_sort_dt": "2026-11-14 11:09:10"
     },
     {
       "source": "China Buzzing",
-      "title_en": "黄仁勋的倒台对中美关系意味着什么 - Foreign Policy",
-      "title_cn": "黄仁勋的倒台对中美关系意味着什么 - Foreign Policy",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxNYzAxNWE5VXNONkJVRnRTQllQSEtwS0tDRF80T3F2Z2dOYVhzWUdncnNpZTE3RWI2ZnlheHYzM1ZtUmtPb2RTRm1tb240UWd0ajlyLWkzNE82Zm1ZN0wwU0pVSUFZWS1HNlpxaU9LdHNBMHAxSDFrbEVuYnpXX184bm9XMm9ib0RRM0lQNUZDMGl1a0xpcW8xaw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T19:51:52.000Z",
-      "pub_sort_dt": "2026-11-14 03:51:52"
+      "title_en": "中国“金鸡奖”与“百花奖”电影节的5大看点 - The Hollywood Reporter",
+      "title_cn": "中国“金鸡奖”与“百花奖”电影节的5大看点 - The Hollywood Reporter",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxOQzZQMGhRbjBxb1Jac2hWQURFQWdtWkNDRVhJcWpaY3lwaXRXd19Rb2cwM2RkMkFxbGtzTWhJZnhRT0ctQ2RSTnRWeUd0QkwzbG5LRUVMM1N0UnJNVHFvblF2UWtGLXVOcGM1dDdaSlkwaE83Sk9NdUI2c1U4VDk0MTNadEx5LWowWVpsQUpSSHJLX2xHMmtGbE1WYzlLbHJBVHV4R0t6QmhXTEpNWHVLd0x2QUVlSzRMMmdUb2hxNjhDUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T02:19:39.000Z",
+      "pub_sort_dt": "2026-11-14 10:19:39"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国呼吁比利时、卢森堡协助改善中欧贸易关系 - Law360",
-      "title_cn": "中国呼吁比利时、卢森堡协助改善中欧贸易关系 - Law360",
-      "url": "https://news.google.com/read/CBMimwFBVV95cUxPOG5wZXFlNnNxN2NacHNyODlyLVhlN1hhdlZzdWdBVlQwY3lZWTdrRzd3c2dkT0NDWS1HeHBkLTBFU3NiTkdpblNYck1IVDFSWjAwWUdfSzZiUkxJMUxVa1pVMjhEZUVFWktqbHFLUDBjZUo2R00xREYtNUJ6UnNuYldMaXk5OGx2elhmMHVBYTRwN3dtTXdudUg2SdIBVkFVX3lxTE44dHF0Qk14V19DUXFxSTZfWXBfUmJWOGkyN3dzeXR4NXpRVW9hdS1kVGhkend3NGlTdHE5dVN6TXhlbEQ2TTJtbFIwd3NOUXQtOHg3cml3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T19:30:05.000Z",
-      "pub_sort_dt": "2026-11-14 03:30:05"
+      "title_en": "中国铁路客运量创下41.3亿人次的历史新高 - China Daily Global Edition",
+      "title_cn": "中国铁路客运量创下41.3亿人次的历史新高 - China Daily Global Edition",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxNYzhtSzBCSFZPV3ljSWR3aXZaQlZJaDdqWGIwZTNhN3RRSlBlOVdRMFFBV3VQQVM5aVpKNC02MnVodnU1RE83QjhDYS14VkE4U050N21TeWRhZGV1UGxqd3JrRzBGd0FtQXpjOXcwVzBISG9XV3J4MG8yWXZtekd0YmxB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T02:08:38.000Z",
+      "pub_sort_dt": "2026-11-14 10:08:38"
     },
     {
       "source": "China Buzzing",
-      "title_en": "受出口禁令限制的英伟达芯片，正是中国最强大的人工智能模型背后的核心——哎呀，詹森！ - TechCrunch",
-      "title_cn": "受出口禁令限制的英伟达芯片，正是中国最强大的人工智能模型背后的核心——哎呀，詹森！ - TechCrunch",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T18:40:30.000Z",
-      "pub_sort_dt": "2026-11-14 02:40:30"
+      "title_en": "中国铁路10个月客运量达41.3亿人次，创下新纪录 - Bloomberg.com",
+      "title_cn": "中国铁路10个月客运量达41.3亿人次，创下新纪录 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxQNVJHSXViVDVYQ2ZucjZBTnR2NW4yRTVCTDdESEtZUXhMYkN3NXVzdjhxMWx4UWI2OUZBdllFdnhoSGlzbEZzaDYxekx0M1pnVTRlVmhJMVBNb0MzNmNOSV92YkJ2YnVwY3ZrODVrYlZjTFJlNnZ6Ml84Q2hZWS1aSFFia3kwUmRUT2RwSWZXdE43RnVHY1pHTnh5T0VhemYzUUZDZWlhLTJ4S1Rtb1cybWNSYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T02:04:00.000Z",
+      "pub_sort_dt": "2026-11-14 10:04:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "水贝、曼谷及更远的地方：中国买家如何重塑全球珠宝贸易 - JCK",
-      "title_cn": "水贝、曼谷及更远的地方：中国买家如何重塑全球珠宝贸易 - JCK",
-      "url": "https://news.google.com/read/CBMifkFVX3lxTE93ZVVOYmZ5UHVOSlhIUG5heWFfNG1HSFdlaGp0M3dEdWg3N2wxUmlvQUZ6Y2M0cXdxNFlUZ0pnS2Y4dW9RTnppa2liX1B4Y25ySUpwX1BTMmlJbW1fRGliRjhULVdSMXBmVFNRZlFiNHlYV3JQSXZNN2MyZEs1UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T18:39:38.000Z",
-      "pub_sort_dt": "2026-11-14 02:39:38"
+      "title_en": "中国月嫂与宝宝的感人告别令家人和网友动容 - South China Morning Post",
+      "title_cn": "中国月嫂与宝宝的感人告别令家人和网友动容 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi9gFBVV95cUxOSG5zbVh2ZnhteDExMTZVQjcxS21SenNKVUctQm5qd1JnNWl2U3R4LVpOOVJWQ2VleTFScjA2bUJlNUV6WUQ2Y0JVSElDUXUwLXpKRVhWZEZ5OWIySkduMG1GVGw1czZiM0poWXZ5NTVmX0dkVmczc0Ezdk91QVluRmdCN3NGbndmVEgtazdUVTJVZzdXTk43bk90Wk1RbG9vRFk1dE1lbm1uS0RPVjdMY2lSQVJ6VGhVeGVfcjVZVm01WVozcDVLbWxpQmNvTGotYU9IT3pRV3BLWkhGQk1VNl9FS1cyekVFMjROWDRHcHo3VGVPaXfSAfYBQVVfeXFMTm9qQ003SkRmWmxIVlpjRlpkdm41dzRxa1F2M1pNZnVaTHFaNU5BUkNvMWV1ZmcyS0FCTHdrWDZpU01nX29SWkk0Wkc5a0dGMkIzdmt5ZktIdnR6VFlQckFxZk5qY1B2SFRNaGVNTFlSS0t1bGNuNDBxdmNJejIxZnJDa0hwbjJVSkZxMjc4S0pVSnVsUnlrNTNOcWFBUDh3LTBaYlBVc0JpU1hCN2tEeG04c25QNldnSXY1cWpKRnNZRUkwM003WTdILXJGczlRSGJ1M3pBbHpNMERucUJxd0FjcV9LSHMzWTJ0dW1pNHlIYm5EQVBn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T02:00:14.000Z",
+      "pub_sort_dt": "2026-11-14 10:00:14"
     },
     {
       "source": "China Buzzing",
-      "title_en": "关于中国在台湾周边举行的军事演习，我们了解哪些情况 - France 24",
-      "title_cn": "关于中国在台湾周边举行的军事演习，我们了解哪些情况 - France 24",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxOVVh5VFVIQ3JkQ3FDR0Y5OFdieHZCY3BpbnhQd2dzWjhNLVJiTHhqSnp0Um1LdGlQeWlQMWZSYzNrMVZUZEdjcWRleWd4a3hsMUdXaU1FU1pNU1VXUE5UMF83RnhESkQ4d0wtdTFVLTB2ZjlYT3B3WTV4VzFfSWV4S2x2cmVuMG5LUEVyRFFySWRjQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T18:19:19.000Z",
-      "pub_sort_dt": "2026-11-14 02:19:19"
+      "title_en": "特朗普将在中国与普京和习近平会晤，议程将包括核扩散问题 - The New York Times",
+      "title_cn": "特朗普将在中国与普京和习近平会晤，议程将包括核扩散问题 - The New York Times",
+      "url": "https://news.google.com/read/CBMimgFBVV95cUxNaWlZUDZrQV9aZ2RzMS04ZERzWXlNWHp4THBtR1pyZ3NBbjZkcm1PMF9PLUhuTzJzZzRZT2Nlb1p5NVJ3Ul9EaWVVTHQtb1Ytb1loSHRvYkU2ajBBZ3hPdW1YdTY1Smd5WDRRdWNFMl85cVBVRGJBbl9fRTAtZ0lBUFctdFZXVWlYdGdPb2paa3piNzRwbHVrQ2RR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T01:56:54.000Z",
+      "pub_sort_dt": "2026-11-14 09:56:54"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国寻求就《深圳宣言》达成共识，以期亚太经合组织峰会取得“切实”成果 - Anadolu Ajansı",
-      "title_cn": "中国寻求就《深圳宣言》达成共识，以期亚太经合组织峰会取得“切实”成果 - Anadolu Ajansı",
-      "url": "https://news.google.com/read/CBMiyAFBVV95cUxONDBLX3RiUXJocjNKbzlNd2wtTWxvTmVoSnBITS1HOGFvSzY3and0aXRwQ0Q3WW8yMUNXYm94bkhzMnVTN25obEdzSEpFcEp1OWhQdDNCS1R6a0tzSERWcTFjU21PX0hoRVMxY3c0alFrNmxOLUxQemdaX3REcWxrbTBaR09wXzE5eWM2am5EMVdKcnJuTDdsWldWeHFsN25zS0praXpSbl9vZDJkaUJPVnZ1U2ZIVWhlaC1tdE1iOUFRT2p3WjhRcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T18:10:34.000Z",
-      "pub_sort_dt": "2026-11-14 02:10:34"
+      "title_en": "巧克力让人一次一口地品味到中国的独特风味 - China Daily Global Edition",
+      "title_cn": "巧克力让人一次一口地品味到中国的独特风味 - China Daily Global Edition",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxPLTh6T3Vtc19xRDdWbE84VS1OX2oyNnp5V1hSUzlIVmZCYjJIVDJaSEdtUlJLQkREX1dOU2I2TGZNRDNZWnFIVkpUbDQwZU1iNnhGQlJYd2Rsa3Y5bkFDUmVqeGF3bDZiV3QwdnNrUGhRQkc4V21sQXJ4VXNFZGZFYQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T01:46:34.000Z",
+      "pub_sort_dt": "2026-11-14 09:46:34"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中美举行首届贸易委员会会议 - Reuters",
-      "title_cn": "中美举行首届贸易委员会会议 - Reuters",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxNc01lX1pFekl6SmdEY1p3SHlENVI0MkZCT2RCLV95bWt5UThVblZpRFNGTVBHZDk4d3JoM0txYzUxRGtQS3dxRTc4MlZzaklnMGJXWFRCVHN4SS11RUdELUZnVXlsMmZQV0szQlNxS3M3Mi1lVHRUVzRJSVB1LWlfa3VvRHkzV1EzTjVUUm1iRVM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T18:02:11.000Z",
-      "pub_sort_dt": "2026-11-14 02:02:11"
+      "title_en": "在中国爆出人工智能间谍丑闻后，空中交通管制、电话系统和电子邮件均已瘫痪——对此是否有共同的应对之策？ - Fortune",
+      "title_cn": "在中国爆出人工智能间谍丑闻后，空中交通管制、电话系统和电子邮件均已瘫痪——对此是否有共同的应对之策？ - Fortune",
+      "url": "https://news.google.com/read/CBMirgFBVV95cUxPckd1VlJSaFo4LXZlenY0VkZoRGJmbFBWZUE0WHB2ZzlPSy1Wa255MXc3SjR2NDFLQ21uSHpEd2pBcWhlcEdUdkR1NVMzdWFKMTdWR1NGYVpEWFMyM3hLaFQ3VElrc0w5MzVCWGg1Rnl2ZUx0WDllUk9hb1o0ZnB4Um16aVZENjJQUU9hZDZ1Z2lPalpjc3JBNG5JSzQ0WEFoaTRZNGgwRlVxa0pfYWc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T01:29:00.000Z",
+      "pub_sort_dt": "2026-11-14 09:29:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中美举行首届贸易委员会会议 - U.S. News & World Report",
-      "title_cn": "中美举行首届贸易委员会会议 - U.S. News & World Report",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxOUlpmSW5EcWZIZmdUTTJ6UEdHVml3cmc0UWFxV2s0dThkWldMYklHUi01STZEVkN1NU9kalFicThadnZaQy1fUnNiNGdGbGQ3TjUzR0xDbEt2azh2cWVTd2N0U3dOMEotZk15QTMybWJjdTVSVzBha0N0OFpNZERUSXBMNm5ydV94Nk9aVkd3RUxLUnZYYUVDdWducHIyU1Zn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T18:01:00.000Z",
-      "pub_sort_dt": "2026-11-14 02:01:00"
+      "title_en": "中国将在2026-2030年期间大力发展新型储能 - Global Times",
+      "title_cn": "中国将在2026-2030年期间大力发展新型储能 - Global Times",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTFB6TVNudkVEOW9Rck5uRUpnT2JMNWpxYktrcTc5Vk9vUHQtRXBCb05iOFdNRzFURV9uMWYyb0UxU0lsdlo0TV90WXZFdGk2ekNsZDd0MGc4b3hhVW9MZTZ2aDZ3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T01:01:00.000Z",
+      "pub_sort_dt": "2026-11-14 09:01:00"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "我们所了解的中国女企业家黄爱丽丝",
+      "title_cn": "我们所了解的中国女企业家黄爱丽丝",
+      "url": "https://reut.rs/4iHhsrJ",
+      "pub_raw": "2026-11-14T01:35:41.331Z",
+      "pub_sort_dt": "2026-11-14 09:35:41"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "独家报道：消息人士称，英伟达前首席执行官就其与中国女商人的婚外情一事误导了公司首席律师",
+      "title_cn": "独家报道：消息人士称，英伟达前首席执行官就其与中国女商人的婚外情一事误导了公司首席律师",
+      "url": "https://reut.rs/4C8cpZc",
+      "pub_raw": "2026-11-14T00:48:41.902Z",
+      "pub_sort_dt": "2026-11-14 08:48:41"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普将于11月19日在中国与习近平、普京举行会谈",
+      "title_cn": "特朗普将于11月19日在中国与习近平、普京举行会谈",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/trump-to-meet-with-xi-putin-nov-19-in-china-white-house-says",
+      "pub_raw": "2026-11-14T00:32:50.968Z",
+      "pub_sort_dt": "2026-11-14 08:32:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Nook 将香港的怀旧情怀化作一场在太平顶举行的精致晚宴",
+      "title_cn": "Nook 将香港的怀旧情怀化作一场在太平顶举行的精致晚宴",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/nook-turns-hong-kong-nostalgia-into-a-polished-dinner-on-the-peak",
+      "pub_raw": "2026-11-14T00:16:48.735Z",
+      "pub_sort_dt": "2026-11-14 08:16:48"
+    },
     {
       "source": "Bloomberg",
       "title_en": "英伟达丑闻引发了对中国间谍活动规模的新担忧",
@@ -219,120 +251,120 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-13/hong-kong-lifts-gdp-growth-outlook-again-as-ai-boom-spurs-export",
       "pub_raw": "2026-11-13T09:07:56.264Z",
       "pub_sort_dt": "2026-11-13 17:07:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国决定不申办2028年联合国气候谈判",
-      "title_cn": "中国决定不申办2028年联合国气候谈判",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-decides-against-bidding-to-host-2028-global-climate-talks",
-      "pub_raw": "2026-11-13T08:51:39.831Z",
-      "pub_sort_dt": "2026-11-13 16:51:39"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "因担忧英伟达芯片限制措施将进一步收紧，中国AI板块抛售潮加剧",
-      "title_cn": "因担忧英伟达芯片限制措施将进一步收紧，中国AI板块抛售潮加剧",
-      "url": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-13T08:05:05.155Z",
-      "pub_sort_dt": "2026-11-13 16:05:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国在刺激政策启动后迎来首份经济成绩单",
-      "title_cn": "中国在刺激政策启动后迎来首份经济成绩单",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-gets-first-economic-scorecard-with-stimulus-taps-turned-on",
-      "pub_raw": "2026-11-13T07:01:55.898Z",
-      "pub_sort_dt": "2026-11-13 15:01:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国通过为全球工厂提供设备，巩固了其出口优势",
-      "title_cn": "中国通过为全球工厂提供设备，巩固了其出口优势",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/china-locks-in-export-power-by-equipping-the-world-s-factories",
-      "pub_raw": "2026-11-13T05:57:50.084Z",
-      "pub_sort_dt": "2026-11-13 13:57:50"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "中美停火掩盖了亚太经合组织（APEC）峰会前习近平与特朗普再度会晤之际日益加剧的紧张局势 - Nikkei Asia",
-      "title_cn": "中美停火掩盖了亚太经合组织（APEC）峰会前习近平与特朗普再度会晤之际日益加剧的紧张局势 - Nikkei Asia",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxOX21nUmZaaEUzemtwQUk3VnJGQktXQjE1YU9JYzJUSy12ZWlCaFFVR1I2UTFQQXlTSjFTX0k3eEU1VWNtX0wtSl9ybmRrbkhFNUpwQ2RPNjdqYURrSFI0LW1aaXpuYk01dWVPOUpIRko3MkxTM2l6Z3ZYMmZVTjdnYVFMT3p2eGRHUnF2dTBRemhFR29JODFuZXZIYUY5SmYyVUNqR2ZVS09Eb0VPVUtPYWd1LVU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T21:00:00.000Z",
-      "pub_sort_dt": "2026-11-14 05:00:00"
+      "title_en": "台湾地区针对中国批评者的暴力袭击事件引发了对跨国镇压的担忧 - The Washington Post",
+      "title_cn": "台湾地区针对中国批评者的暴力袭击事件引发了对跨国镇压的担忧 - The Washington Post",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxPazNZZ292dUE2RkNDSmEzSFJVV2JYRDBMTzVCbGphX2ZyVXVJVXZJcXIwZ1NLcFRtb3k3MUd2ZjJvZ2FLXzVaTmJOVll1X2k5RGRldklhWHpxU1BvaVRFMWFLU2ZnZ0VBR2hyRmltbExCVG5wYXZUeEVXcmxLQzRobi1RM2tNcUJCdENTZE9OSmY4NzBjVVZONnpIUVUwTWhqR256YlhKcVpQbER6NHhsbGxLb0lsaktOT2VEWkdkdFkzRDJmLWxhMjhRMmVadw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T03:19:28.000Z",
+      "pub_sort_dt": "2026-11-14 11:19:28"
     },
     {
       "source": "China Buzzing",
-      "title_en": "扭转中国在稀土市场上的主导地位是可能的。以下是实现这一目标所需的条件 - Fast Company",
-      "title_cn": "扭转中国在稀土市场上的主导地位是可能的。以下是实现这一目标所需的条件 - Fast Company",
-      "url": "https://news.google.com/read/CBMi9gJBVV95cUxPYjlIYWU2c1BpS01kbkM5dlVqdDVTUmRzb2c5Q01NN3NXcnhsYXZIUzVPMkNPN1o4N3JnYmZVMmo0dXk0X2ZzNVlRWE82cGlidTBMdS1DODdrYU4yVGduWE5aNUkycTFqWkNqNkRRbWlaTTVVUlNXM2NLTkVCM1JUZmRXUDdsNTZJMWZWa3VxUkNxOG1NT1RINGtvTkhfYTJ2bFkzMGRUdHd3YTNzb3BXclUwQVc1d1hrZS1VcG1NbDAxOGpTNVI1NWxtYnJFN21zN1NmZnNMdUZ0Y0VKLW9QV0E2a3JuMGoxS1k5aVIwT2VVZXFGOVVid2RmWmRzRU0zdEFWTS1RNjk5U0RZYlo2UmkyakdxWEJDSmFKamw2dkl6cFVYa3UzakZ5ZkliRncyWkNzem1sNFItZkNrSnhlbHgwQ2kyQjlDaXFTQkJ6SkdXUnFocDB3LWpMQk04N3o1TkYzcjJQLWYta0V2X0REWmpNT2N3Zw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T20:37:33.000Z",
-      "pub_sort_dt": "2026-11-14 04:37:33"
+      "title_en": "台湾地区针对中国批评者的暴力袭击事件引发了对跨国镇压的担忧 - WRAL",
+      "title_cn": "台湾地区针对中国批评者的暴力袭击事件引发了对跨国镇压的担忧 - WRAL",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNcFl4ZWxvTm00Wmo5cTZaaWFDeUszczRKMWtVMF9uRzJEaFNvZU9MaEFfRDJGRkd2Zy1ZTm42YUlqNGdlM0VYeURockNhbjBTWEYyaldmX1RNbVNZU3NsSHBDUTlEeGJrV2RZYjA0M3hyZi1BUHBNVmpMWDNSRzZuTGUtUEJ5Q0MyTzByQURncFhQOTRsRHJOOUpKVmloTl95dURSSW9EalowUXlmUWUzVVg5M3RBVWE1NXBGU1J0Ul9ucVE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T03:09:10.000Z",
+      "pub_sort_dt": "2026-11-14 11:09:10"
     },
     {
       "source": "China Buzzing",
-      "title_en": "黄仁勋的倒台对中美关系意味着什么 - Foreign Policy",
-      "title_cn": "黄仁勋的倒台对中美关系意味着什么 - Foreign Policy",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxNYzAxNWE5VXNONkJVRnRTQllQSEtwS0tDRF80T3F2Z2dOYVhzWUdncnNpZTE3RWI2ZnlheHYzM1ZtUmtPb2RTRm1tb240UWd0ajlyLWkzNE82Zm1ZN0wwU0pVSUFZWS1HNlpxaU9LdHNBMHAxSDFrbEVuYnpXX184bm9XMm9ib0RRM0lQNUZDMGl1a0xpcW8xaw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T19:51:52.000Z",
-      "pub_sort_dt": "2026-11-14 03:51:52"
+      "title_en": "中国“金鸡奖”与“百花奖”电影节的5大看点 - The Hollywood Reporter",
+      "title_cn": "中国“金鸡奖”与“百花奖”电影节的5大看点 - The Hollywood Reporter",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxOQzZQMGhRbjBxb1Jac2hWQURFQWdtWkNDRVhJcWpaY3lwaXRXd19Rb2cwM2RkMkFxbGtzTWhJZnhRT0ctQ2RSTnRWeUd0QkwzbG5LRUVMM1N0UnJNVHFvblF2UWtGLXVOcGM1dDdaSlkwaE83Sk9NdUI2c1U4VDk0MTNadEx5LWowWVpsQUpSSHJLX2xHMmtGbE1WYzlLbHJBVHV4R0t6QmhXTEpNWHVLd0x2QUVlSzRMMmdUb2hxNjhDUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T02:19:39.000Z",
+      "pub_sort_dt": "2026-11-14 10:19:39"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国呼吁比利时、卢森堡协助改善中欧贸易关系 - Law360",
-      "title_cn": "中国呼吁比利时、卢森堡协助改善中欧贸易关系 - Law360",
-      "url": "https://news.google.com/read/CBMimwFBVV95cUxPOG5wZXFlNnNxN2NacHNyODlyLVhlN1hhdlZzdWdBVlQwY3lZWTdrRzd3c2dkT0NDWS1HeHBkLTBFU3NiTkdpblNYck1IVDFSWjAwWUdfSzZiUkxJMUxVa1pVMjhEZUVFWktqbHFLUDBjZUo2R00xREYtNUJ6UnNuYldMaXk5OGx2elhmMHVBYTRwN3dtTXdudUg2SdIBVkFVX3lxTE44dHF0Qk14V19DUXFxSTZfWXBfUmJWOGkyN3dzeXR4NXpRVW9hdS1kVGhkend3NGlTdHE5dVN6TXhlbEQ2TTJtbFIwd3NOUXQtOHg3cml3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T19:30:05.000Z",
-      "pub_sort_dt": "2026-11-14 03:30:05"
+      "title_en": "中国铁路客运量创下41.3亿人次的历史新高 - China Daily Global Edition",
+      "title_cn": "中国铁路客运量创下41.3亿人次的历史新高 - China Daily Global Edition",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxNYzhtSzBCSFZPV3ljSWR3aXZaQlZJaDdqWGIwZTNhN3RRSlBlOVdRMFFBV3VQQVM5aVpKNC02MnVodnU1RE83QjhDYS14VkE4U050N21TeWRhZGV1UGxqd3JrRzBGd0FtQXpjOXcwVzBISG9XV3J4MG8yWXZtekd0YmxB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T02:08:38.000Z",
+      "pub_sort_dt": "2026-11-14 10:08:38"
     },
     {
       "source": "China Buzzing",
-      "title_en": "受出口禁令限制的英伟达芯片，正是中国最强大的人工智能模型背后的核心——哎呀，詹森！ - TechCrunch",
-      "title_cn": "受出口禁令限制的英伟达芯片，正是中国最强大的人工智能模型背后的核心——哎呀，詹森！ - TechCrunch",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T18:40:30.000Z",
-      "pub_sort_dt": "2026-11-14 02:40:30"
+      "title_en": "中国铁路10个月客运量达41.3亿人次，创下新纪录 - Bloomberg.com",
+      "title_cn": "中国铁路10个月客运量达41.3亿人次，创下新纪录 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxQNVJHSXViVDVYQ2ZucjZBTnR2NW4yRTVCTDdESEtZUXhMYkN3NXVzdjhxMWx4UWI2OUZBdllFdnhoSGlzbEZzaDYxekx0M1pnVTRlVmhJMVBNb0MzNmNOSV92YkJ2YnVwY3ZrODVrYlZjTFJlNnZ6Ml84Q2hZWS1aSFFia3kwUmRUT2RwSWZXdE43RnVHY1pHTnh5T0VhemYzUUZDZWlhLTJ4S1Rtb1cybWNSYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T02:04:00.000Z",
+      "pub_sort_dt": "2026-11-14 10:04:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "水贝、曼谷及更远的地方：中国买家如何重塑全球珠宝贸易 - JCK",
-      "title_cn": "水贝、曼谷及更远的地方：中国买家如何重塑全球珠宝贸易 - JCK",
-      "url": "https://news.google.com/read/CBMifkFVX3lxTE93ZVVOYmZ5UHVOSlhIUG5heWFfNG1HSFdlaGp0M3dEdWg3N2wxUmlvQUZ6Y2M0cXdxNFlUZ0pnS2Y4dW9RTnppa2liX1B4Y25ySUpwX1BTMmlJbW1fRGliRjhULVdSMXBmVFNRZlFiNHlYV3JQSXZNN2MyZEs1UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T18:39:38.000Z",
-      "pub_sort_dt": "2026-11-14 02:39:38"
+      "title_en": "中国月嫂与宝宝的感人告别令家人和网友动容 - South China Morning Post",
+      "title_cn": "中国月嫂与宝宝的感人告别令家人和网友动容 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi9gFBVV95cUxOSG5zbVh2ZnhteDExMTZVQjcxS21SenNKVUctQm5qd1JnNWl2U3R4LVpOOVJWQ2VleTFScjA2bUJlNUV6WUQ2Y0JVSElDUXUwLXpKRVhWZEZ5OWIySkduMG1GVGw1czZiM0poWXZ5NTVmX0dkVmczc0Ezdk91QVluRmdCN3NGbndmVEgtazdUVTJVZzdXTk43bk90Wk1RbG9vRFk1dE1lbm1uS0RPVjdMY2lSQVJ6VGhVeGVfcjVZVm01WVozcDVLbWxpQmNvTGotYU9IT3pRV3BLWkhGQk1VNl9FS1cyekVFMjROWDRHcHo3VGVPaXfSAfYBQVVfeXFMTm9qQ003SkRmWmxIVlpjRlpkdm41dzRxa1F2M1pNZnVaTHFaNU5BUkNvMWV1ZmcyS0FCTHdrWDZpU01nX29SWkk0Wkc5a0dGMkIzdmt5ZktIdnR6VFlQckFxZk5qY1B2SFRNaGVNTFlSS0t1bGNuNDBxdmNJejIxZnJDa0hwbjJVSkZxMjc4S0pVSnVsUnlrNTNOcWFBUDh3LTBaYlBVc0JpU1hCN2tEeG04c25QNldnSXY1cWpKRnNZRUkwM003WTdILXJGczlRSGJ1M3pBbHpNMERucUJxd0FjcV9LSHMzWTJ0dW1pNHlIYm5EQVBn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T02:00:14.000Z",
+      "pub_sort_dt": "2026-11-14 10:00:14"
     },
     {
       "source": "China Buzzing",
-      "title_en": "关于中国在台湾周边举行的军事演习，我们了解哪些情况 - France 24",
-      "title_cn": "关于中国在台湾周边举行的军事演习，我们了解哪些情况 - France 24",
-      "url": "https://news.google.com/read/CBMikgFBVV95cUxOVVh5VFVIQ3JkQ3FDR0Y5OFdieHZCY3BpbnhQd2dzWjhNLVJiTHhqSnp0Um1LdGlQeWlQMWZSYzNrMVZUZEdjcWRleWd4a3hsMUdXaU1FU1pNU1VXUE5UMF83RnhESkQ4d0wtdTFVLTB2ZjlYT3B3WTV4VzFfSWV4S2x2cmVuMG5LUEVyRFFySWRjQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T18:19:19.000Z",
-      "pub_sort_dt": "2026-11-14 02:19:19"
+      "title_en": "特朗普将在中国与普京和习近平会晤，议程将包括核扩散问题 - The New York Times",
+      "title_cn": "特朗普将在中国与普京和习近平会晤，议程将包括核扩散问题 - The New York Times",
+      "url": "https://news.google.com/read/CBMimgFBVV95cUxNaWlZUDZrQV9aZ2RzMS04ZERzWXlNWHp4THBtR1pyZ3NBbjZkcm1PMF9PLUhuTzJzZzRZT2Nlb1p5NVJ3Ul9EaWVVTHQtb1Ytb1loSHRvYkU2ajBBZ3hPdW1YdTY1Smd5WDRRdWNFMl85cVBVRGJBbl9fRTAtZ0lBUFctdFZXVWlYdGdPb2paa3piNzRwbHVrQ2RR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T01:56:54.000Z",
+      "pub_sort_dt": "2026-11-14 09:56:54"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国寻求就《深圳宣言》达成共识，以期亚太经合组织峰会取得“切实”成果 - Anadolu Ajansı",
-      "title_cn": "中国寻求就《深圳宣言》达成共识，以期亚太经合组织峰会取得“切实”成果 - Anadolu Ajansı",
-      "url": "https://news.google.com/read/CBMiyAFBVV95cUxONDBLX3RiUXJocjNKbzlNd2wtTWxvTmVoSnBITS1HOGFvSzY3and0aXRwQ0Q3WW8yMUNXYm94bkhzMnVTN25obEdzSEpFcEp1OWhQdDNCS1R6a0tzSERWcTFjU21PX0hoRVMxY3c0alFrNmxOLUxQemdaX3REcWxrbTBaR09wXzE5eWM2am5EMVdKcnJuTDdsWldWeHFsN25zS0praXpSbl9vZDJkaUJPVnZ1U2ZIVWhlaC1tdE1iOUFRT2p3WjhRcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T18:10:34.000Z",
-      "pub_sort_dt": "2026-11-14 02:10:34"
+      "title_en": "巧克力让人一次一口地品味到中国的独特风味 - China Daily Global Edition",
+      "title_cn": "巧克力让人一次一口地品味到中国的独特风味 - China Daily Global Edition",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxPLTh6T3Vtc19xRDdWbE84VS1OX2oyNnp5V1hSUzlIVmZCYjJIVDJaSEdtUlJLQkREX1dOU2I2TGZNRDNZWnFIVkpUbDQwZU1iNnhGQlJYd2Rsa3Y5bkFDUmVqeGF3bDZiV3QwdnNrUGhRQkc4V21sQXJ4VXNFZGZFYQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T01:46:34.000Z",
+      "pub_sort_dt": "2026-11-14 09:46:34"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中美举行首届贸易委员会会议 - Reuters",
-      "title_cn": "中美举行首届贸易委员会会议 - Reuters",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxNc01lX1pFekl6SmdEY1p3SHlENVI0MkZCT2RCLV95bWt5UThVblZpRFNGTVBHZDk4d3JoM0txYzUxRGtQS3dxRTc4MlZzaklnMGJXWFRCVHN4SS11RUdELUZnVXlsMmZQV0szQlNxS3M3Mi1lVHRUVzRJSVB1LWlfa3VvRHkzV1EzTjVUUm1iRVM?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T18:02:11.000Z",
-      "pub_sort_dt": "2026-11-14 02:02:11"
+      "title_en": "在中国爆出人工智能间谍丑闻后，空中交通管制、电话系统和电子邮件均已瘫痪——对此是否有共同的应对之策？ - Fortune",
+      "title_cn": "在中国爆出人工智能间谍丑闻后，空中交通管制、电话系统和电子邮件均已瘫痪——对此是否有共同的应对之策？ - Fortune",
+      "url": "https://news.google.com/read/CBMirgFBVV95cUxPckd1VlJSaFo4LXZlenY0VkZoRGJmbFBWZUE0WHB2ZzlPSy1Wa255MXc3SjR2NDFLQ21uSHpEd2pBcWhlcEdUdkR1NVMzdWFKMTdWR1NGYVpEWFMyM3hLaFQ3VElrc0w5MzVCWGg1Rnl2ZUx0WDllUk9hb1o0ZnB4Um16aVZENjJQUU9hZDZ1Z2lPalpjc3JBNG5JSzQ0WEFoaTRZNGgwRlVxa0pfYWc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T01:29:00.000Z",
+      "pub_sort_dt": "2026-11-14 09:29:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中美举行首届贸易委员会会议 - U.S. News & World Report",
-      "title_cn": "中美举行首届贸易委员会会议 - U.S. News & World Report",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxOUlpmSW5EcWZIZmdUTTJ6UEdHVml3cmc0UWFxV2s0dThkWldMYklHUi01STZEVkN1NU9kalFicThadnZaQy1fUnNiNGdGbGQ3TjUzR0xDbEt2azh2cWVTd2N0U3dOMEotZk15QTMybWJjdTVSVzBha0N0OFpNZERUSXBMNm5ydV94Nk9aVkd3RUxLUnZYYUVDdWducHIyU1Zn?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-13T18:01:00.000Z",
-      "pub_sort_dt": "2026-11-14 02:01:00"
+      "title_en": "中国将在2026-2030年期间大力发展新型储能 - Global Times",
+      "title_cn": "中国将在2026-2030年期间大力发展新型储能 - Global Times",
+      "url": "https://news.google.com/read/CBMiYkFVX3lxTFB6TVNudkVEOW9Rck5uRUpnT2JMNWpxYktrcTc5Vk9vUHQtRXBCb05iOFdNRzFURV9uMWYyb0UxU0lsdlo0TV90WXZFdGk2ekNsZDd0MGc4b3hhVW9MZTZ2aDZ3?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-14T01:01:00.000Z",
+      "pub_sort_dt": "2026-11-14 09:01:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "我们所了解的中国女企业家黄爱丽丝",
+      "title_cn": "我们所了解的中国女企业家黄爱丽丝",
+      "url": "https://reut.rs/4iHhsrJ",
+      "pub_raw": "2026-11-14T01:35:41.331Z",
+      "pub_sort_dt": "2026-11-14 09:35:41"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "独家报道：消息人士称，英伟达前首席执行官就其与中国女商人的婚外情一事误导了公司首席律师",
+      "title_cn": "独家报道：消息人士称，英伟达前首席执行官就其与中国女商人的婚外情一事误导了公司首席律师",
+      "url": "https://reut.rs/4C8cpZc",
+      "pub_raw": "2026-11-14T00:48:41.902Z",
+      "pub_sort_dt": "2026-11-14 08:48:41"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普将于11月19日在中国与习近平、普京举行会谈",
+      "title_cn": "特朗普将于11月19日在中国与习近平、普京举行会谈",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/trump-to-meet-with-xi-putin-nov-19-in-china-white-house-says",
+      "pub_raw": "2026-11-14T00:32:50.968Z",
+      "pub_sort_dt": "2026-11-14 08:32:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Nook 将香港的怀旧情怀化作一场在太平顶举行的精致晚宴",
+      "title_cn": "Nook 将香港的怀旧情怀化作一场在太平顶举行的精致晚宴",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/nook-turns-hong-kong-nostalgia-into-a-polished-dinner-on-the-peak",
+      "pub_raw": "2026-11-14T00:16:48.735Z",
+      "pub_sort_dt": "2026-11-14 08:16:48"
     },
     {
       "source": "Bloomberg",
@@ -461,38 +493,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-13/hong-kong-lifts-gdp-growth-outlook-again-as-ai-boom-spurs-export",
       "pub_raw": "2026-11-13T09:07:56.264Z",
       "pub_sort_dt": "2026-11-13 17:07:56"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国决定不申办2028年联合国气候谈判",
-      "title_cn": "中国决定不申办2028年联合国气候谈判",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-decides-against-bidding-to-host-2028-global-climate-talks",
-      "pub_raw": "2026-11-13T08:51:39.831Z",
-      "pub_sort_dt": "2026-11-13 16:51:39"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "因担忧英伟达芯片限制措施将进一步收紧，中国AI板块抛售潮加剧",
-      "title_cn": "因担忧英伟达芯片限制措施将进一步收紧，中国AI板块抛售潮加剧",
-      "url": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-13T08:05:05.155Z",
-      "pub_sort_dt": "2026-11-13 16:05:05"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国在刺激政策启动后迎来首份经济成绩单",
-      "title_cn": "中国在刺激政策启动后迎来首份经济成绩单",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-gets-first-economic-scorecard-with-stimulus-taps-turned-on",
-      "pub_raw": "2026-11-13T07:01:55.898Z",
-      "pub_sort_dt": "2026-11-13 15:01:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国通过为全球工厂提供设备，巩固了其出口优势",
-      "title_cn": "中国通过为全球工厂提供设备，巩固了其出口优势",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/china-locks-in-export-power-by-equipping-the-world-s-factories",
-      "pub_raw": "2026-11-13T05:57:50.084Z",
-      "pub_sort_dt": "2026-11-13 13:57:50"
     }
   ]
 }
