@@ -1,99 +1,123 @@
 {
-  "update_cst": "2026-11-15 06:01:06 北京时间",
+  "update_cst": "2026-11-15 18:01:15 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 10,
+    "Bloomberg": 9,
     "Financial Times": 3,
-    "Wall Street Journal": 2,
+    "Wall Street Journal": 3,
     "Reuters": 5
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国核电行业正朝着更智能、更绿色的发展方向迈进 - Macau Business",
-      "title_cn": "中国核电行业正朝着更智能、更绿色的发展方向迈进 - Macau Business",
-      "url": "https://news.google.com/read/CBMimwFBVV95cUxPNHhjRE92UzJidWQ0b2YtUnlhbXNBTVFYbzR4THR0czBJaEwxSl9wd1FpVEpfMk81aHBGbF9wOFZUNmRta2g5U3NSenp1UjlKLWVCQ3IwamNneEtzbGlyRTBPaURib0FqM2dWYU83OU9GS1gtbjE2V3VTb1JvdVc2aHpBSGFremRmMG5kTFZqRWl5SmJXRVFrS3NDaw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T19:46:25.000Z",
-      "pub_sort_dt": "2026-11-15 03:46:25"
+      "title_en": "在深圳亚太经合组织峰会召开前夕，中国呼吁与美国在人工智能领域开展合作 - South China Morning Post",
+      "title_cn": "在深圳亚太经合组织峰会召开前夕，中国呼吁与美国在人工智能领域开展合作 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxOT1NHVXdIdFNQNThiVVp4RTltM0U5WjM3LVhKbkMwYWJDR3liTzJrQTRrYkdxRHZsRVRFLVJYbURfQnhkOWdGUF9DZGhkT2xac2pvNG9HdVVNb3Q5VDhITG80RC14cUViTC12dUttVE9CWDE2TzdyNlU3ZEZPVTAySUwxSTZHVjQ0R1JseG1QejR6NTJVNjg4Ump2Rm40dTg1Vnk1RV91dHBKeF9sX0NDczl6bjPSAbQBQVVfeXFMTnpRamhRUGxRLXBLZy1UWW00T3hzNm0yX3I0MTN3ZU9Cdmc1UnZnNjd6eHB6d3BuY1dCcUpvcGVLMUpSS2tzWlZVTUFBN21YcmVZNkxVTV8taDVUbU1wdG1ack16RkxuWjFJMmVmSU9ZYmx2MWtNRk8tU19ONC1kb2JncExSMnBubnF3a194Z3BKSHRvVU9NN0ptY3RKTEpobVcydHVxbVF2em92ZmNmakM5T3Vi?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T09:00:10.000Z",
+      "pub_sort_dt": "2026-11-15 17:00:10"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国不希望放缓人工智能的发展 - Yahoo",
-      "title_cn": "中国不希望放缓人工智能的发展 - Yahoo",
-      "url": "https://news.google.com/read/CBMif0FVX3lxTFBKY1FyU2Zhb1R3R1ZtZUhCR3gxcjJCVGJDYWtFMWNfZUxxNzFQR0cwUUFfdWNkTGNaRHpVdmxrTzhJN2o4bkxrbTlHcGlFRVBhRWdMY05hSVpYdGNqb3dISGpoWjJtZjhtSjJUdC1uang0am14STdhMkoxNnNRS0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T18:10:53.000Z",
-      "pub_sort_dt": "2026-11-15 02:10:53"
+      "title_en": "东盟领导人齐聚一堂，但就南海行为准则达成协议的可能性不大 - Al Jazeera",
+      "title_cn": "东盟领导人齐聚一堂，但就南海行为准则达成协议的可能性不大 - Al Jazeera",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxNLWtfU0tTallmSTNzSmZKOU9KVlRyalhxM1ZJaWphN3c0eHRIalJaUVNpWTdvTzRQWmZ4WHl6YW9qYmJwMUl1aDZIQlA3UGFBY21ka0xsbjNnWExMMWRJdzNkcFFjRnJpZVVoQmNLbm9xT0R0U2l0U3IzWlVEX3RENXNIQmJYWDQ0dnEyV2EzVFNVeS1rQWxMcTNuazVuODVtci02VmNvenFiSlg4em1PaWIwRkpkR0JH0gG-AUFVX3lxTE1XeVBEYmozamdmTXpQc2h1Tnp5TVZJeEU0dVVnQnd0VnRCc1dPU19FSHpjM0J1WjJVUWFLUE5SZjV5MzNnbks0R2Vmd3lXQTRsd1hLeTF2ZjdvTkNJZ1RwYi1UcGRhU09pZS0zVXlvN3NfaW92WEZ3MGdHWlJ6ek10TjZ1MzM2MzN5VXc4QlhuTXVhS0pyM0N6NmtfdTRubmkyamJabHBOVklVemM1S1dJUHZHUTYzZXpMd3k3X3c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T08:07:33.000Z",
+      "pub_sort_dt": "2026-11-15 16:07:33"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国绿色能源的蓬勃发展 - Novara Media",
-      "title_cn": "中国绿色能源的蓬勃发展 - Novara Media",
-      "url": "https://news.google.com/read/CBMibEFVX3lxTE1yM0drTzhwa2FLOUxtRzVlcGtTbXdvSloyNGJDN3ZkVTF6RkVHR25Bc2llQUVTT0FENWVvZnMwNW5acXRUQmVCX2gydnhkMDhaQkVzUEo1TklZRVZZYlRJelpTcU9lV3FhOC1iNA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T18:00:54.000Z",
-      "pub_sort_dt": "2026-11-15 02:00:54"
+      "title_en": "中国升级版VT-4B坦克在珠海航展前搭载了第四代100式技术 - South China Morning Post",
+      "title_cn": "中国升级版VT-4B坦克在珠海航展前搭载了第四代100式技术 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi1AFBVV95cUxONHl5R09pVnl0LVI5SmViUEo1REtPSENoTUdqZnVlNUNfLTliX3dYby1Nc0Y5WndiQXRCbjRsVlpCLVJESHN1VzdfMWhJbE9DTTg0NFg1UTlTYjM1LVp1LVJUQ1QzcjVvaXZXR3d3b2V5UXlZQ1FEOW1VODQ5V213bjFRVURoQTNHOHZFNUluZzFoX3Rkc0VrMkFyQnlaVlBpNlhaSjF0cFZGQ1NDVmJXeWtLM0Y2RlRKdHk5LWR1dTlJdWVfdlNIYUUwTXdsX3FFdWkwMdIB1AFBVV95cUxQaWhfMWctZmE3cl9xT2FpQTR1c214bGx3VEVmWkF3LVNTVXN3OXdZM2UwakRDbXVPTmQyU2R4ZnJGWTdoNUdOYkZPdFUwWWtEMV9RTG1XckJZWlNmNjgySTIyakVwSVNmdzV3Y1g1X0Z2UkJZT080UTR2S1VlM09LWmJnZ041WVhrWi1acEZnTHhBWENlcWFnYjg5T3hOaTdQVnJMa1JWZHBrendaVWs0ZUFCZ1NHeHZNWXQzZGxET1pSVnc3Sk9PNUtwVW9kZVlTeUlMaA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T08:01:49.000Z",
+      "pub_sort_dt": "2026-11-15 16:01:49"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在特朗普访华前夕，英伟达丑闻正加剧美国与中国在人工智能领域的竞争 - Anchorage Daily News",
-      "title_cn": "在特朗普访华前夕，英伟达丑闻正加剧美国与中国在人工智能领域的竞争 - Anchorage Daily News",
-      "url": "https://news.google.com/read/CBMiywFBVV95cUxQcEs3MHY1eFJqanNXZ3VCQVZIa1ZEVDJwLU1vMjhEaUFza0c0d05MdFpONUxGa1hvbEZ4QUhiMDVGVlU1eTUxeXdlYzBrMG5TTGtrYVplNWtpd19pdllfNlhpdnIwUzZYOXFuNjFqaUNZanJEZzFLQ0M1R1JSRDRDb2F0VFZMSlg4RGxYdHdLa25QYmY4VWxRREVxaHh5MWRzaFJjUFdzS2NIRVEtN1owNXFCSzY2OU51RmJYc1Riek9ROVNUd3NfWm0zcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T17:27:20.000Z",
-      "pub_sort_dt": "2026-11-15 01:27:20"
+      "title_en": "中国的北极航运正日益兴盛——但面临的挑战也在增加 - South China Morning Post",
+      "title_cn": "中国的北极航运正日益兴盛——但面临的挑战也在增加 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi2gFBVV95cUxNWWt1SzZNSFdsWkZlUGRyOEZTTzA3RVEtM056T203Y3liVl95dGVzZWNUdG9tTFI1TmNlWEMwZE1VY2phQlZrRks1bm5OR1VpOTV2YlZ2YlZOZlRnVnU5NUNxV3hPM2VhYl9udUc1N2xNd3JsSkRpZmptSzNSVFk3UkRuN19MS1lSMlRtOGpSZjBJTkJ6eFFkMkdCQXoxdUFTaF80TTBSQ0hLZi1NZUg0M0lNQy10alhjSXJhcjZyRldXa0trQjdTZ3lkQU94MzkwM3BtX2ZveGNSZ9IB2gFBVV95cUxPeW5kLU5MeDBSbEpnc2pRTEc5OXV0UUszWlVGS3p3UnFZcVlEbC05c3lMUUtrdEY0dWRjd1B5UEl0SWJLSnNqMlJNUzdmeHREUHFqMEVmeEdoUUJSbWNjcVhtN016LVJwTWJWZl9HOTNpdFRjVXM2eFd4eTUwV19xeDVjT0s3bnJyWkY5NzdVZWtGOHFyUXBsWDhPOU8xcUFWTnJzNVZBTXBkSkRTTGo1N1g1akRZaHhvWUMxRWstT1EwTzUzS29LNEJQNE0wMnNPcEFCb3l1QzFVQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T08:00:09.000Z",
+      "pub_sort_dt": "2026-11-15 16:00:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国在人工智能战争中的情报胜利 - The Atlantic",
-      "title_cn": "中国在人工智能战争中的情报胜利 - The Atlantic",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxQTG0welA5eGpFX1hPbWUzS2ZNUEc3U21NLXhrM0NoMlNRZG5EdGpmdmZXQUxPVDhyci01TmF2QU5wdl9HWTBPd3lvSEhfQk9NZ0E5cHlvTEtMWTRSbFp1NlA3cTBpblVJRDlYOTJrMEo3OTh3c3VFc1IyTlV5OGhOZzdGZ0R1LWpiT203YWYzSE94WE1YQ3Y3R0pLUFRYRktTd0hLSA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T17:15:32.000Z",
-      "pub_sort_dt": "2026-11-15 01:15:32"
+      "title_en": "专访：韩国学者称，中韩合作为亚太地区增长注入动力 - 新华报业网",
+      "title_cn": "专访：韩国学者称，中韩合作为亚太地区增长注入动力 - 新华报业网",
+      "url": "https://news.google.com/read/CBMia0FVX3lxTE16VHpWRjJXa3dEUEhxNk1LT1pGT2IzbWNJRFVNWjQ3S29DbmJoUkFkN0dHbEN1MUtGSTBiV2Y2Qm94QTVUUDlYV3QyRUFYbEVsY1FLeVV4WkJ4cUJXSkctSWZWaDdsQlBlbHVr?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T07:36:27.000Z",
+      "pub_sort_dt": "2026-11-15 15:36:27"
     },
     {
       "source": "China Buzzing",
-      "title_en": "亚洲的“欧洲歌唱大赛”缺少了一些该地区的重量级选手 - The New York Times",
-      "title_cn": "亚洲的“欧洲歌唱大赛”缺少了一些该地区的重量级选手 - The New York Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQcDVBcUJqamUyU0xZQ2xQdHRjelBld092NkdMNzFEQ1dQeTNuNEFHWm14UmxvZ21aaXpib3NXQW12MUx1RFdiMDdFdXZkMVRBZnp1anhyU1d3bVNlVTBseXlOS0pUYVk5cGV4X3d5WVV2bDJ0LWVBb1BjX3AybVBxNG9ZV0Q?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T15:06:40.000Z",
-      "pub_sort_dt": "2026-11-14 23:06:40"
+      "title_en": "国际能源署（IEA）署长赞扬中国在支持全球能源转型方面发挥的作用 - CGTN",
+      "title_cn": "国际能源署（IEA）署长赞扬中国在支持全球能源转型方面发挥的作用 - CGTN",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxOd0dkRHFhVkl4QnZIRXZkeUJkMEhLZGJPbVVtd2NKY29tV2NVVlUxT2p6d0MtTXNSTUlzeUVZbkc5TkRTaHRybGo3cEIxSDZWTUQxcl8wQUlZU0hXOEdBQmJXZm5vanczWGFqaExsTmI3Nmp6WWFMTHU3QzRrVjhBdmQ3WVV2Q3FTQ2dEczd6dnJyRS1HT1R3d2VETXJwaUFVeHNZMW9neFB6cWZOMExFVjBraEp2cUhIbTF5R0NiTVhHQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T07:06:43.000Z",
+      "pub_sort_dt": "2026-11-15 15:06:43"
     },
     {
       "source": "China Buzzing",
-      "title_en": "英伟达丑闻如何揭开了让中国得以获取美国芯片的漏洞之谜 - CNN",
-      "title_cn": "英伟达丑闻如何揭开了让中国得以获取美国芯片的漏洞之谜 - CNN",
-      "url": "https://news.google.com/read/CBMigAFBVV95cUxNUElic3FIZV9PSkhtTmZzSzlnYjdWa1BPWnBrM2s2Z201c2xvMUdMTk8tcUtKRU4zUnl2WnJMSFdJZlBxNzFubVpkbW4zRm5rcWYtNlVRWVNpSXNZOWJNSndtQWRLRzB2bzJUb2I5Ql9vTmZ2b25ObG4ybS1GUFdlVA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T15:00:15.000Z",
-      "pub_sort_dt": "2026-11-14 23:00:15"
+      "title_en": "为何中国那些经营困难的书店靠卖咖啡来维持生计 - South China Morning Post",
+      "title_cn": "为何中国那些经营困难的书店靠卖咖啡来维持生计 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxOaVBFNTJJeWllak1GRGVRWVVfaFgxb3p0a2tBUHkwbFlKVnJHbUFTR1daY0tIQnV2dXljc003NlhkWTFyaDd1WldlU3Q0QjF5Y2pQMVhzV0JhMEtUS3RDVXFOY0kwdFNHTW5VZE9NTEpJQ0pPdU1jNkVGVVd1UEhrcGRaUGhXMldxODNFZGc5bzFBTDRYU2Q1elh2dVdUaVZEemlENTFjRkUyMk9TNTNiRkZIeVg4VW12YVRLZFRCOFpOdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T06:00:12.000Z",
+      "pub_sort_dt": "2026-11-15 14:00:12"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国贸易顺差连续第二年突破1万亿美元 - The North State Journal",
-      "title_cn": "中国贸易顺差连续第二年突破1万亿美元 - The North State Journal",
-      "url": "https://news.google.com/read/CBMieEFVX3lxTE0wQTlLZWc3WU12eTlUZ256MFFlV0h3RXVoMlhOU2d6RmlSQVZRZ3lPS3ZGOXNZU3l3UjRDX21TWUk1XzlDTVpyRFdjOVlFY3FWY0IwOU1DY0g3VzFKTEtORHRmbll2cTA1V0ZKV2pHRjhKa0FtV1ZyUg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T14:55:00.000Z",
-      "pub_sort_dt": "2026-11-14 22:55:00"
+      "title_en": "澳大利亚和菲律宾加强防务合作，重点针对中国 - The Japan Times",
+      "title_cn": "澳大利亚和菲律宾加强防务合作，重点针对中国 - The Japan Times",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxNa0tBMVU0blpkM0gzY3FGbEFaMWZ2UmZVOV9sclMwQUpYMWphcmdoWFhOb1JHRVdjeVFtUVBTZzlYNzNxTjNvcnBuMVIzaXNjMFFMNG0tN2w0ek5jTnBPZmcxTHdMZU5KMFZ0OXNyX3dhTjVDdWdCZndlQkV5VjB2a0xic0ZfVFlfRVhpZ1MxbmpKSkJSc3duY0hva1lGQnc3d3lZdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T05:23:00.000Z",
+      "pub_sort_dt": "2026-11-15 13:23:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "全球最大的无人货运飞机在中国完成首飞 - CGTN",
-      "title_cn": "全球最大的无人货运飞机在中国完成首飞 - CGTN",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQdmJqR2c1RlR2Qm9iUUtYa2RmWUNxbEhPcVNWeS00clNmTWItYzFJUTNaUGRLUFlRMzVQVDhxMU1Id3A2aDhHY1Z1V1VsUzZnTWpFaW1hWF9hRDFPb2I0V3gxRmEwZGVYX2JZTEc4M3dkc0JVZFM2eXJ6czdGa1ZESHJPNUJQZ21KaGRsRXlNbWVsaklaNDdYR1V1WWN6NU1MV3lCT2dqYjdhUGw5SFZFaUZ1TXc4Wjl2V1I2YWtRX2pacWs?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T14:23:03.000Z",
-      "pub_sort_dt": "2026-11-14 22:23:03"
+      "title_en": "菲律宾与中国在南海问题上的分歧日益加深 - U.S. News & World Report",
+      "title_cn": "菲律宾与中国在南海问题上的分歧日益加深 - U.S. News & World Report",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxQaEpjeUtaVG8wcDBoLWdXalcxZDViSXNrTGhIcHBUamhYMlRzdnZPRGhiTXdHazVoRlVzbzU0Mm0wcEpEX0VsLWhMOTAydFlUc1VpbWtfT3JJdzR6LVRGSjBkLWYwcGxWb01UUF80dGlWaEFUZmZOd3FnM0QxVGEyUVY3QnZVQkpBeGFyUFRFY09tdGdudUhfRjNKdzZMN0xENWhvb2pBV0xqSW1xWkhac1J4MU84WHg1?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T05:21:00.000Z",
+      "pub_sort_dt": "2026-11-15 13:21:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "播客：美国联邦航空管理局恢复航班，特朗普计划在中国举行核谈判，以及“SS United States”号的最后一次航行 - Reuters",
-      "title_cn": "播客：美国联邦航空管理局恢复航班，特朗普计划在中国举行核谈判，以及“SS United States”号的最后一次航行 - Reuters",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPcUdVM0xpU1lDOWpfYVNHVlRVOTBGTzZNVGdwenljck5OdkRsNTNkOHUxV3l5LUpON0ZuZzFheEstSlU2VHhNcXQ5SFBZN0RYVzNleGU2bk5KM21sQzd5ZVRqZ3hKckZQUWsybzNMWlJlZFpaZ1N1c0djVjhBWnNPWndyODJMbnZqTzQ0VUktRHNjT1VPNk1uVmZha3czTURzQnhzV3ctZjlKUmtZQUVtYjdvd0JsRjlBQW1iRA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T14:06:37.000Z",
-      "pub_sort_dt": "2026-11-14 22:06:37"
+      "title_en": "菲律宾与中国在南海问题上的分歧加剧 - Reuters",
+      "title_cn": "菲律宾与中国在南海问题上的分歧加剧 - Reuters",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxPd2EtbGxOOHhuLWg4RzQzeTdhcXlKbFIzU1g3S3BlOE1wMWxlRngzTUgtTzFVY0o0azIxc2tqWWdDWXNQSV9ld04wRjExVVUwbHVqbmhaQmt4NFlPZkczWUhwU05aUWtZZVlYX3dIQ3FET1lBUXJaZkVTTkFfbWhURUJGOVBxMkF1RnJWUjV1T1VuUkluM0NsNEU5ZFlRejlUUXcwM3c0MnAwYTg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T05:21:00.000Z",
+      "pub_sort_dt": "2026-11-15 13:21:00"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "美国对台湾的支持显得令人担忧地脆弱",
+      "title_cn": "美国对台湾的支持显得令人担忧地脆弱",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-11-15/american-support-for-taiwan-looks-alarmingly-fragile",
+      "pub_raw": "2026-11-15T07:17:41.408Z",
+      "pub_sort_dt": "2026-11-15 15:17:41"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国眼中的世界",
+      "title_cn": "中国眼中的世界",
+      "url": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-15T03:20:56.164Z",
+      "pub_sort_dt": "2026-11-15 11:20:56"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "黄仁勋是如何开辟一条“后门”通道，让北京得以继续参与人工智能竞赛的。",
+      "title_cn": "黄仁勋是如何开辟一条“后门”通道，让北京得以继续参与人工智能竞赛的。",
+      "url": "https://on.wsj.com/4kAJEht",
+      "pub_raw": "2026-11-15T02:48:40.164Z",
+      "pub_sort_dt": "2026-11-15 10:48:40"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "美仕、瑞幸、Heytea 俘获了痴迷中国文化的美国青少年",
       "title_cn": "美仕、瑞幸、Heytea 俘获了痴迷中国文化的美国青少年",
       "url": "https://www.bloomberg.com/news/articles/2026-11-14/mixue-luckin-heytea-win-over-chinamaxxing-american-teens",
@@ -227,112 +251,112 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/young-chinese-shoppers-redefine-luxury-s-value",
       "pub_raw": "2026-11-13T14:11:52.884Z",
       "pub_sort_dt": "2026-11-13 22:11:52"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "黄仁勋为拉近与中国关系的多年努力",
-      "title_cn": "黄仁勋为拉近与中国关系的多年努力",
-      "url": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-13T12:51:46.807Z",
-      "pub_sort_dt": "2026-11-13 20:51:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国汽车品牌小米和比亚迪凭借低价电动汽车蓬勃发展",
-      "title_cn": "中国汽车品牌小米和比亚迪凭借低价电动汽车蓬勃发展",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/chinese-car-brands-xiaomi-and-byd-are-booming-with-cheap-electric-vehicles",
-      "pub_raw": "2026-11-13T12:20:07.507Z",
-      "pub_sort_dt": "2026-11-13 20:20:07"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "黄仁勋的英伟达（NVDA）丑闻助长了呼吁对中国芯片实施更严格限制的声浪",
-      "title_cn": "黄仁勋的英伟达（NVDA）丑闻助长了呼吁对中国芯片实施更严格限制的声浪",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/jensen-huang-s-nvidia-nvda-scandal-fuels-push-for-tighter-china-chip-curbs",
-      "pub_raw": "2026-11-13T12:03:45.359Z",
-      "pub_sort_dt": "2026-11-13 20:03:45"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国核电行业正朝着更智能、更绿色的发展方向迈进 - Macau Business",
-      "title_cn": "中国核电行业正朝着更智能、更绿色的发展方向迈进 - Macau Business",
-      "url": "https://news.google.com/read/CBMimwFBVV95cUxPNHhjRE92UzJidWQ0b2YtUnlhbXNBTVFYbzR4THR0czBJaEwxSl9wd1FpVEpfMk81aHBGbF9wOFZUNmRta2g5U3NSenp1UjlKLWVCQ3IwamNneEtzbGlyRTBPaURib0FqM2dWYU83OU9GS1gtbjE2V3VTb1JvdVc2aHpBSGFremRmMG5kTFZqRWl5SmJXRVFrS3NDaw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T19:46:25.000Z",
-      "pub_sort_dt": "2026-11-15 03:46:25"
+      "title_en": "在深圳亚太经合组织峰会召开前夕，中国呼吁与美国在人工智能领域开展合作 - South China Morning Post",
+      "title_cn": "在深圳亚太经合组织峰会召开前夕，中国呼吁与美国在人工智能领域开展合作 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxOT1NHVXdIdFNQNThiVVp4RTltM0U5WjM3LVhKbkMwYWJDR3liTzJrQTRrYkdxRHZsRVRFLVJYbURfQnhkOWdGUF9DZGhkT2xac2pvNG9HdVVNb3Q5VDhITG80RC14cUViTC12dUttVE9CWDE2TzdyNlU3ZEZPVTAySUwxSTZHVjQ0R1JseG1QejR6NTJVNjg4Ump2Rm40dTg1Vnk1RV91dHBKeF9sX0NDczl6bjPSAbQBQVVfeXFMTnpRamhRUGxRLXBLZy1UWW00T3hzNm0yX3I0MTN3ZU9Cdmc1UnZnNjd6eHB6d3BuY1dCcUpvcGVLMUpSS2tzWlZVTUFBN21YcmVZNkxVTV8taDVUbU1wdG1ack16RkxuWjFJMmVmSU9ZYmx2MWtNRk8tU19ONC1kb2JncExSMnBubnF3a194Z3BKSHRvVU9NN0ptY3RKTEpobVcydHVxbVF2em92ZmNmakM5T3Vi?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T09:00:10.000Z",
+      "pub_sort_dt": "2026-11-15 17:00:10"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国不希望放缓人工智能的发展 - Yahoo",
-      "title_cn": "中国不希望放缓人工智能的发展 - Yahoo",
-      "url": "https://news.google.com/read/CBMif0FVX3lxTFBKY1FyU2Zhb1R3R1ZtZUhCR3gxcjJCVGJDYWtFMWNfZUxxNzFQR0cwUUFfdWNkTGNaRHpVdmxrTzhJN2o4bkxrbTlHcGlFRVBhRWdMY05hSVpYdGNqb3dISGpoWjJtZjhtSjJUdC1uang0am14STdhMkoxNnNRS0E?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T18:10:53.000Z",
-      "pub_sort_dt": "2026-11-15 02:10:53"
+      "title_en": "东盟领导人齐聚一堂，但就南海行为准则达成协议的可能性不大 - Al Jazeera",
+      "title_cn": "东盟领导人齐聚一堂，但就南海行为准则达成协议的可能性不大 - Al Jazeera",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxNLWtfU0tTallmSTNzSmZKOU9KVlRyalhxM1ZJaWphN3c0eHRIalJaUVNpWTdvTzRQWmZ4WHl6YW9qYmJwMUl1aDZIQlA3UGFBY21ka0xsbjNnWExMMWRJdzNkcFFjRnJpZVVoQmNLbm9xT0R0U2l0U3IzWlVEX3RENXNIQmJYWDQ0dnEyV2EzVFNVeS1rQWxMcTNuazVuODVtci02VmNvenFiSlg4em1PaWIwRkpkR0JH0gG-AUFVX3lxTE1XeVBEYmozamdmTXpQc2h1Tnp5TVZJeEU0dVVnQnd0VnRCc1dPU19FSHpjM0J1WjJVUWFLUE5SZjV5MzNnbks0R2Vmd3lXQTRsd1hLeTF2ZjdvTkNJZ1RwYi1UcGRhU09pZS0zVXlvN3NfaW92WEZ3MGdHWlJ6ek10TjZ1MzM2MzN5VXc4QlhuTXVhS0pyM0N6NmtfdTRubmkyamJabHBOVklVemM1S1dJUHZHUTYzZXpMd3k3X3c?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T08:07:33.000Z",
+      "pub_sort_dt": "2026-11-15 16:07:33"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国绿色能源的蓬勃发展 - Novara Media",
-      "title_cn": "中国绿色能源的蓬勃发展 - Novara Media",
-      "url": "https://news.google.com/read/CBMibEFVX3lxTE1yM0drTzhwa2FLOUxtRzVlcGtTbXdvSloyNGJDN3ZkVTF6RkVHR25Bc2llQUVTT0FENWVvZnMwNW5acXRUQmVCX2gydnhkMDhaQkVzUEo1TklZRVZZYlRJelpTcU9lV3FhOC1iNA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T18:00:54.000Z",
-      "pub_sort_dt": "2026-11-15 02:00:54"
+      "title_en": "中国升级版VT-4B坦克在珠海航展前搭载了第四代100式技术 - South China Morning Post",
+      "title_cn": "中国升级版VT-4B坦克在珠海航展前搭载了第四代100式技术 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi1AFBVV95cUxONHl5R09pVnl0LVI5SmViUEo1REtPSENoTUdqZnVlNUNfLTliX3dYby1Nc0Y5WndiQXRCbjRsVlpCLVJESHN1VzdfMWhJbE9DTTg0NFg1UTlTYjM1LVp1LVJUQ1QzcjVvaXZXR3d3b2V5UXlZQ1FEOW1VODQ5V213bjFRVURoQTNHOHZFNUluZzFoX3Rkc0VrMkFyQnlaVlBpNlhaSjF0cFZGQ1NDVmJXeWtLM0Y2RlRKdHk5LWR1dTlJdWVfdlNIYUUwTXdsX3FFdWkwMdIB1AFBVV95cUxQaWhfMWctZmE3cl9xT2FpQTR1c214bGx3VEVmWkF3LVNTVXN3OXdZM2UwakRDbXVPTmQyU2R4ZnJGWTdoNUdOYkZPdFUwWWtEMV9RTG1XckJZWlNmNjgySTIyakVwSVNmdzV3Y1g1X0Z2UkJZT080UTR2S1VlM09LWmJnZ041WVhrWi1acEZnTHhBWENlcWFnYjg5T3hOaTdQVnJMa1JWZHBrendaVWs0ZUFCZ1NHeHZNWXQzZGxET1pSVnc3Sk9PNUtwVW9kZVlTeUlMaA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T08:01:49.000Z",
+      "pub_sort_dt": "2026-11-15 16:01:49"
     },
     {
       "source": "China Buzzing",
-      "title_en": "在特朗普访华前夕，英伟达丑闻正加剧美国与中国在人工智能领域的竞争 - Anchorage Daily News",
-      "title_cn": "在特朗普访华前夕，英伟达丑闻正加剧美国与中国在人工智能领域的竞争 - Anchorage Daily News",
-      "url": "https://news.google.com/read/CBMiywFBVV95cUxQcEs3MHY1eFJqanNXZ3VCQVZIa1ZEVDJwLU1vMjhEaUFza0c0d05MdFpONUxGa1hvbEZ4QUhiMDVGVlU1eTUxeXdlYzBrMG5TTGtrYVplNWtpd19pdllfNlhpdnIwUzZYOXFuNjFqaUNZanJEZzFLQ0M1R1JSRDRDb2F0VFZMSlg4RGxYdHdLa25QYmY4VWxRREVxaHh5MWRzaFJjUFdzS2NIRVEtN1owNXFCSzY2OU51RmJYc1Riek9ROVNUd3NfWm0zcw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T17:27:20.000Z",
-      "pub_sort_dt": "2026-11-15 01:27:20"
+      "title_en": "中国的北极航运正日益兴盛——但面临的挑战也在增加 - South China Morning Post",
+      "title_cn": "中国的北极航运正日益兴盛——但面临的挑战也在增加 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi2gFBVV95cUxNWWt1SzZNSFdsWkZlUGRyOEZTTzA3RVEtM056T203Y3liVl95dGVzZWNUdG9tTFI1TmNlWEMwZE1VY2phQlZrRks1bm5OR1VpOTV2YlZ2YlZOZlRnVnU5NUNxV3hPM2VhYl9udUc1N2xNd3JsSkRpZmptSzNSVFk3UkRuN19MS1lSMlRtOGpSZjBJTkJ6eFFkMkdCQXoxdUFTaF80TTBSQ0hLZi1NZUg0M0lNQy10alhjSXJhcjZyRldXa0trQjdTZ3lkQU94MzkwM3BtX2ZveGNSZ9IB2gFBVV95cUxPeW5kLU5MeDBSbEpnc2pRTEc5OXV0UUszWlVGS3p3UnFZcVlEbC05c3lMUUtrdEY0dWRjd1B5UEl0SWJLSnNqMlJNUzdmeHREUHFqMEVmeEdoUUJSbWNjcVhtN016LVJwTWJWZl9HOTNpdFRjVXM2eFd4eTUwV19xeDVjT0s3bnJyWkY5NzdVZWtGOHFyUXBsWDhPOU8xcUFWTnJzNVZBTXBkSkRTTGo1N1g1akRZaHhvWUMxRWstT1EwTzUzS29LNEJQNE0wMnNPcEFCb3l1QzFVQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T08:00:09.000Z",
+      "pub_sort_dt": "2026-11-15 16:00:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国在人工智能战争中的情报胜利 - The Atlantic",
-      "title_cn": "中国在人工智能战争中的情报胜利 - The Atlantic",
-      "url": "https://news.google.com/read/CBMipAFBVV95cUxQTG0welA5eGpFX1hPbWUzS2ZNUEc3U21NLXhrM0NoMlNRZG5EdGpmdmZXQUxPVDhyci01TmF2QU5wdl9HWTBPd3lvSEhfQk9NZ0E5cHlvTEtMWTRSbFp1NlA3cTBpblVJRDlYOTJrMEo3OTh3c3VFc1IyTlV5OGhOZzdGZ0R1LWpiT203YWYzSE94WE1YQ3Y3R0pLUFRYRktTd0hLSA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T17:15:32.000Z",
-      "pub_sort_dt": "2026-11-15 01:15:32"
+      "title_en": "专访：韩国学者称，中韩合作为亚太地区增长注入动力 - 新华报业网",
+      "title_cn": "专访：韩国学者称，中韩合作为亚太地区增长注入动力 - 新华报业网",
+      "url": "https://news.google.com/read/CBMia0FVX3lxTE16VHpWRjJXa3dEUEhxNk1LT1pGT2IzbWNJRFVNWjQ3S29DbmJoUkFkN0dHbEN1MUtGSTBiV2Y2Qm94QTVUUDlYV3QyRUFYbEVsY1FLeVV4WkJ4cUJXSkctSWZWaDdsQlBlbHVr?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T07:36:27.000Z",
+      "pub_sort_dt": "2026-11-15 15:36:27"
     },
     {
       "source": "China Buzzing",
-      "title_en": "亚洲的“欧洲歌唱大赛”缺少了一些该地区的重量级选手 - The New York Times",
-      "title_cn": "亚洲的“欧洲歌唱大赛”缺少了一些该地区的重量级选手 - The New York Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQcDVBcUJqamUyU0xZQ2xQdHRjelBld092NkdMNzFEQ1dQeTNuNEFHWm14UmxvZ21aaXpib3NXQW12MUx1RFdiMDdFdXZkMVRBZnp1anhyU1d3bVNlVTBseXlOS0pUYVk5cGV4X3d5WVV2bDJ0LWVBb1BjX3AybVBxNG9ZV0Q?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T15:06:40.000Z",
-      "pub_sort_dt": "2026-11-14 23:06:40"
+      "title_en": "国际能源署（IEA）署长赞扬中国在支持全球能源转型方面发挥的作用 - CGTN",
+      "title_cn": "国际能源署（IEA）署长赞扬中国在支持全球能源转型方面发挥的作用 - CGTN",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxOd0dkRHFhVkl4QnZIRXZkeUJkMEhLZGJPbVVtd2NKY29tV2NVVlUxT2p6d0MtTXNSTUlzeUVZbkc5TkRTaHRybGo3cEIxSDZWTUQxcl8wQUlZU0hXOEdBQmJXZm5vanczWGFqaExsTmI3Nmp6WWFMTHU3QzRrVjhBdmQ3WVV2Q3FTQ2dEczd6dnJyRS1HT1R3d2VETXJwaUFVeHNZMW9neFB6cWZOMExFVjBraEp2cUhIbTF5R0NiTVhHQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T07:06:43.000Z",
+      "pub_sort_dt": "2026-11-15 15:06:43"
     },
     {
       "source": "China Buzzing",
-      "title_en": "英伟达丑闻如何揭开了让中国得以获取美国芯片的漏洞之谜 - CNN",
-      "title_cn": "英伟达丑闻如何揭开了让中国得以获取美国芯片的漏洞之谜 - CNN",
-      "url": "https://news.google.com/read/CBMigAFBVV95cUxNUElic3FIZV9PSkhtTmZzSzlnYjdWa1BPWnBrM2s2Z201c2xvMUdMTk8tcUtKRU4zUnl2WnJMSFdJZlBxNzFubVpkbW4zRm5rcWYtNlVRWVNpSXNZOWJNSndtQWRLRzB2bzJUb2I5Ql9vTmZ2b25ObG4ybS1GUFdlVA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T15:00:15.000Z",
-      "pub_sort_dt": "2026-11-14 23:00:15"
+      "title_en": "为何中国那些经营困难的书店靠卖咖啡来维持生计 - South China Morning Post",
+      "title_cn": "为何中国那些经营困难的书店靠卖咖啡来维持生计 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxOaVBFNTJJeWllak1GRGVRWVVfaFgxb3p0a2tBUHkwbFlKVnJHbUFTR1daY0tIQnV2dXljc003NlhkWTFyaDd1WldlU3Q0QjF5Y2pQMVhzV0JhMEtUS3RDVXFOY0kwdFNHTW5VZE9NTEpJQ0pPdU1jNkVGVVd1UEhrcGRaUGhXMldxODNFZGc5bzFBTDRYU2Q1elh2dVdUaVZEemlENTFjRkUyMk9TNTNiRkZIeVg4VW12YVRLZFRCOFpOdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T06:00:12.000Z",
+      "pub_sort_dt": "2026-11-15 14:00:12"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国贸易顺差连续第二年突破1万亿美元 - The North State Journal",
-      "title_cn": "中国贸易顺差连续第二年突破1万亿美元 - The North State Journal",
-      "url": "https://news.google.com/read/CBMieEFVX3lxTE0wQTlLZWc3WU12eTlUZ256MFFlV0h3RXVoMlhOU2d6RmlSQVZRZ3lPS3ZGOXNZU3l3UjRDX21TWUk1XzlDTVpyRFdjOVlFY3FWY0IwOU1DY0g3VzFKTEtORHRmbll2cTA1V0ZKV2pHRjhKa0FtV1ZyUg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T14:55:00.000Z",
-      "pub_sort_dt": "2026-11-14 22:55:00"
+      "title_en": "澳大利亚和菲律宾加强防务合作，重点针对中国 - The Japan Times",
+      "title_cn": "澳大利亚和菲律宾加强防务合作，重点针对中国 - The Japan Times",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxNa0tBMVU0blpkM0gzY3FGbEFaMWZ2UmZVOV9sclMwQUpYMWphcmdoWFhOb1JHRVdjeVFtUVBTZzlYNzNxTjNvcnBuMVIzaXNjMFFMNG0tN2w0ek5jTnBPZmcxTHdMZU5KMFZ0OXNyX3dhTjVDdWdCZndlQkV5VjB2a0xic0ZfVFlfRVhpZ1MxbmpKSkJSc3duY0hva1lGQnc3d3lZdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T05:23:00.000Z",
+      "pub_sort_dt": "2026-11-15 13:23:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "全球最大的无人货运飞机在中国完成首飞 - CGTN",
-      "title_cn": "全球最大的无人货运飞机在中国完成首飞 - CGTN",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQdmJqR2c1RlR2Qm9iUUtYa2RmWUNxbEhPcVNWeS00clNmTWItYzFJUTNaUGRLUFlRMzVQVDhxMU1Id3A2aDhHY1Z1V1VsUzZnTWpFaW1hWF9hRDFPb2I0V3gxRmEwZGVYX2JZTEc4M3dkc0JVZFM2eXJ6czdGa1ZESHJPNUJQZ21KaGRsRXlNbWVsaklaNDdYR1V1WWN6NU1MV3lCT2dqYjdhUGw5SFZFaUZ1TXc4Wjl2V1I2YWtRX2pacWs?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T14:23:03.000Z",
-      "pub_sort_dt": "2026-11-14 22:23:03"
+      "title_en": "菲律宾与中国在南海问题上的分歧日益加深 - U.S. News & World Report",
+      "title_cn": "菲律宾与中国在南海问题上的分歧日益加深 - U.S. News & World Report",
+      "url": "https://news.google.com/read/CBMiuAFBVV95cUxQaEpjeUtaVG8wcDBoLWdXalcxZDViSXNrTGhIcHBUamhYMlRzdnZPRGhiTXdHazVoRlVzbzU0Mm0wcEpEX0VsLWhMOTAydFlUc1VpbWtfT3JJdzR6LVRGSjBkLWYwcGxWb01UUF80dGlWaEFUZmZOd3FnM0QxVGEyUVY3QnZVQkpBeGFyUFRFY09tdGdudUhfRjNKdzZMN0xENWhvb2pBV0xqSW1xWkhac1J4MU84WHg1?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T05:21:00.000Z",
+      "pub_sort_dt": "2026-11-15 13:21:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "播客：美国联邦航空管理局恢复航班，特朗普计划在中国举行核谈判，以及“SS United States”号的最后一次航行 - Reuters",
-      "title_cn": "播客：美国联邦航空管理局恢复航班，特朗普计划在中国举行核谈判，以及“SS United States”号的最后一次航行 - Reuters",
-      "url": "https://news.google.com/read/CBMivAFBVV95cUxPcUdVM0xpU1lDOWpfYVNHVlRVOTBGTzZNVGdwenljck5OdkRsNTNkOHUxV3l5LUpON0ZuZzFheEstSlU2VHhNcXQ5SFBZN0RYVzNleGU2bk5KM21sQzd5ZVRqZ3hKckZQUWsybzNMWlJlZFpaZ1N1c0djVjhBWnNPWndyODJMbnZqTzQ0VUktRHNjT1VPNk1uVmZha3czTURzQnhzV3ctZjlKUmtZQUVtYjdvd0JsRjlBQW1iRA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-14T14:06:37.000Z",
-      "pub_sort_dt": "2026-11-14 22:06:37"
+      "title_en": "菲律宾与中国在南海问题上的分歧加剧 - Reuters",
+      "title_cn": "菲律宾与中国在南海问题上的分歧加剧 - Reuters",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxPd2EtbGxOOHhuLWg4RzQzeTdhcXlKbFIzU1g3S3BlOE1wMWxlRngzTUgtTzFVY0o0azIxc2tqWWdDWXNQSV9ld04wRjExVVUwbHVqbmhaQmt4NFlPZkczWUhwU05aUWtZZVlYX3dIQ3FET1lBUXJaZkVTTkFfbWhURUJGOVBxMkF1RnJWUjV1T1VuUkluM0NsNEU5ZFlRejlUUXcwM3c0MnAwYTg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-15T05:21:00.000Z",
+      "pub_sort_dt": "2026-11-15 13:21:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国对台湾的支持显得令人担忧地脆弱",
+      "title_cn": "美国对台湾的支持显得令人担忧地脆弱",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-11-15/american-support-for-taiwan-looks-alarmingly-fragile",
+      "pub_raw": "2026-11-15T07:17:41.408Z",
+      "pub_sort_dt": "2026-11-15 15:17:41"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "中国眼中的世界",
+      "title_cn": "中国眼中的世界",
+      "url": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-15T03:20:56.164Z",
+      "pub_sort_dt": "2026-11-15 11:20:56"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "黄仁勋是如何开辟一条“后门”通道，让北京得以继续参与人工智能竞赛的。",
+      "title_cn": "黄仁勋是如何开辟一条“后门”通道，让北京得以继续参与人工智能竞赛的。",
+      "url": "https://on.wsj.com/4kAJEht",
+      "pub_raw": "2026-11-15T02:48:40.164Z",
+      "pub_sort_dt": "2026-11-15 10:48:40"
     },
     {
       "source": "Bloomberg",
@@ -469,30 +493,6 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/young-chinese-shoppers-redefine-luxury-s-value",
       "pub_raw": "2026-11-13T14:11:52.884Z",
       "pub_sort_dt": "2026-11-13 22:11:52"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "黄仁勋为拉近与中国关系的多年努力",
-      "title_cn": "黄仁勋为拉近与中国关系的多年努力",
-      "url": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-13T12:51:46.807Z",
-      "pub_sort_dt": "2026-11-13 20:51:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国汽车品牌小米和比亚迪凭借低价电动汽车蓬勃发展",
-      "title_cn": "中国汽车品牌小米和比亚迪凭借低价电动汽车蓬勃发展",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/chinese-car-brands-xiaomi-and-byd-are-booming-with-cheap-electric-vehicles",
-      "pub_raw": "2026-11-13T12:20:07.507Z",
-      "pub_sort_dt": "2026-11-13 20:20:07"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "黄仁勋的英伟达（NVDA）丑闻助长了呼吁对中国芯片实施更严格限制的声浪",
-      "title_cn": "黄仁勋的英伟达（NVDA）丑闻助长了呼吁对中国芯片实施更严格限制的声浪",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/jensen-huang-s-nvidia-nvda-scandal-fuels-push-for-tighter-china-chip-curbs",
-      "pub_raw": "2026-11-13T12:03:45.359Z",
-      "pub_sort_dt": "2026-11-13 20:03:45"
     }
   ]
 }
