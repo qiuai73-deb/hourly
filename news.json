@@ -1,97 +1,241 @@
 {
-  "update_cst": "2026-11-16 06:01:08 北京时间",
+  "update_cst": "2026-11-16 18:01:12 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 5,
-    "Financial Times": 6,
-    "Wall Street Journal": 3,
-    "Reuters": 6
+    "Bloomberg": 12,
+    "Financial Times": 3,
+    "Wall Street Journal": 1,
+    "Reuters": 4
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "美国食品药品监督管理局（FDA）驳回了Summit公司一款源自中国的肺癌药 - The Spokesman-Review",
-      "title_cn": "美国食品药品监督管理局（FDA）驳回了Summit公司一款源自中国的肺癌药 - The Spokesman-Review",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxQVEt3TnBOU2ZvRk1pOTY0OWRlb3ZpREJjcmwzNkZYdUliaHZhT3RzdVpDendnSUFDNDZfVHp6MllqTk5xQU9qRVozbWtzWnphcG9mNHdwSjcwc01HeGJEQzluT1dLTmswTkJEZGM3dmtsVXhpajNmbWc3Q3lOcDRubGhoQ1A5anJkbjhIeUhObFFvY2RNdnRBU0VLcFVRUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T21:44:40.000Z",
-      "pub_sort_dt": "2026-11-16 05:44:40"
+      "title_en": "BeOne和恒瑞荣登中国最具实力制药企业榜首 - STAT",
+      "title_cn": "BeOne和恒瑞荣登中国最具实力制药企业榜首 - STAT",
+      "url": "https://news.google.com/read/CBMimgFBVV95cUxQR3Z6a2hWQTFWT29BZm5OLUJKLUpvYU9DLXdmUHdRbVJBUU0wZ190UWNnenF1YVhFeDZlLUtmOHlDZnJDYTkzZWNwZ2lPS3JHVDBlZ1ZTcmg3UzdFajBtTzVfVElRUWNQcEMteC1WRjBXR09oUlFNdldzbGxWeUE1VjFSX1Zoc1BLZE9sY0RGaW9WUVFINzBpT0Fn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:35:50.000Z",
+      "pub_sort_dt": "2026-11-16 17:35:50"
     },
     {
       "source": "China Buzzing",
-      "title_en": "东南亚各国领导人拉开峰会序幕，南海问题和能源议题列入议程 - The Washington Post",
-      "title_cn": "东南亚各国领导人拉开峰会序幕，南海问题和能源议题列入议程 - The Washington Post",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQb2NaMlQ5bGZaZlBnVnpWQWVxYjhXdjhZS0NBM054Zm5BbXRyX19DRDBrd2xXVEx0Z2VQX1h5YzNpMWRQM1BrWEJmeVBaRHNRTF9xRkNiYkZ5SVhRNkhkcmVSb1BnY3VZRVlTZHBlTGpvNXhMU2ZDdDBfdGdGQWswd2NXMjRPVEIxcnFlaUs2YUlUc0RJNU9YTjJFUWptemxxeElOc0xFQ3dubTcwYTBBbFBtaTZROS14MVhxWFMyWHV4cW8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T20:33:02.000Z",
-      "pub_sort_dt": "2026-11-16 04:33:02"
+      "title_en": "中石油投运中国最长的二氧化碳管道 - Carbon Herald",
+      "title_cn": "中石油投运中国最长的二氧化碳管道 - Carbon Herald",
+      "url": "https://news.google.com/read/CBMiekFVX3lxTFBIWDhuM3o0cU1SVWVwcU1FNWhiaWRldHJPYkhFX3pwVVIxRzNBUXRmNXlHMUJHT0pTUUhkRzdYUGw1OHR1WkNmNFd2QTROSXZGLWdLbzExSGJnN2dZSFFCbTlJN2lNOXBDVHVMTUY1ejFkWGE0WEdHRjFB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:35:28.000Z",
+      "pub_sort_dt": "2026-11-16 17:35:28"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普启程前往亚洲，希望扭转局面——此前中期选举的失利使他在国内处境不利 - Spectrum News",
-      "title_cn": "特朗普启程前往亚洲，希望扭转局面——此前中期选举的失利使他在国内处境不利 - Spectrum News",
-      "url": "https://news.google.com/read/CBMi5gFBVV95cUxNb0ZQWG8zakNub1BiQWlfUE1tNGVzRV9sLUtjT2gzNE5vV2dObHNCV3h2cFlIYzdDSUtseEFpUkl5dzBETVZrRkNJZV9UTEotVmNLNXVKUDhjb0tvb1VmX0l5UVltTmc4N2VuNy02ckN4MDBIdnloaFNGTUsza2pJVnNwa0I3NnBPaTI4OElwd3ZKcUJtNmg0bDIyVEdTbS1hSWJNTk5ObmVwRGM2Y1NJZXVab1Npdkd1VkpOcmpyYlloZ0R6VHp0VWxNdGQ2YV9WRW9OMUVjWGFYT0pZODNKV3MtNU02Zw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T18:50:00.000Z",
-      "pub_sort_dt": "2026-11-16 02:50:00"
+      "title_en": "受供应限额影响，中国主要稀土企业利润激增 - Reuters",
+      "title_cn": "受供应限额影响，中国主要稀土企业利润激增 - Reuters",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxPNWE0c2x0ZU5WRUdQZGxCSXFfQU5lenV4TGtPTE9yT3R3WlJvRnE5dlBabzZMTklhZHhSTWpxV2RjLVlSN0gtWkZKN25EMzFfWEVLZzlPVkFtbkdEZnFtM1NZMVFvMVJoN01sS01hOEU2VC1iMl9mdXlRYzNreGhKMzV0TmlRSVJiUmVNaTJqMzI3YWE2QzVMTkN6ZmtHNzd0OEZRaQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:23:50.000Z",
+      "pub_sort_dt": "2026-11-16 17:23:50"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国及其盟友签署协议，旨在保护人工智能供应链免受中国影响 - Financial Times",
-      "title_cn": "美国及其盟友签署协议，旨在保护人工智能供应链免受中国影响 - Financial Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPeVM3Y2hkVkZKUTFFcUhkRUJlX3pWbFBGZlZ6QW1tMjJTUUZ5WUgtS0lWMmh5V3YweURabUtma0pDeTBNM0M1cTYtUkQwcDhrODFmM0RPdmoxYzNZYldpdmxKN0ROTVNmMFhOZ3dpVFpnQ2VSUkRyOWtnaG9udTNpbTdRemg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T17:47:43.000Z",
-      "pub_sort_dt": "2026-11-16 01:47:43"
+      "title_en": "在美国与中国竞争的背景下，美国及其盟友联手保护人工智能技术和基础设施 - Reuters",
+      "title_cn": "在美国与中国竞争的背景下，美国及其盟友联手保护人工智能技术和基础设施 - Reuters",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxQME9ldVY0V0JLTVYyLTZZcXZlVmZwNnNlcWw5MHYwa0F4VUdRbGFueXVXX29SaXdiWTR4LWpfbDY5dV9sclVXNHBhakdiMUlBeWc5S1M0dmZTMW5IcmYwV2REZ1hUYnhyWFJDT2t5dkFuRlh6Q3RMYUxfVFh2X3JCR3VxMENuYzdMMWxFZzFSOV80OC10ZFNyMldjR1dyOTNOYlY5Y3JyTDJRSEV4anRmaHFidnJ0dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:04:16.000Z",
+      "pub_sort_dt": "2026-11-16 17:04:16"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国食品药品监督管理局（FDA）驳回了一款在中国研发的抗癌药物，这对北京的生物技术行业来说是一个打击 - Financial Times",
-      "title_cn": "美国食品药品监督管理局（FDA）驳回了一款在中国研发的抗癌药物，这对北京的生物技术行业来说是一个打击 - Financial Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQSF81czliZUJkMnRRbzNpUENZS2NDTm5QNzd5UkI3Qk10R1hmcnIyNnJfQVY1SkJlZkJnc2RMUzhobDh5VTI4cUs2NjIwN3FPdVhHSV9taHRhaDBJWjlNZUFHLThTd01vZGZzVklhLVV4NlFOTlZZWjEzN2s4RW1peDF5N0w?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T17:07:06.000Z",
-      "pub_sort_dt": "2026-11-16 01:07:06"
+      "title_en": "中国警告称，在人工智能发展中应避免意识形态分裂和排他性集团的形成 - Anadolu Ajansı",
+      "title_cn": "中国警告称，在人工智能发展中应避免意识形态分裂和排他性集团的形成 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxQcXlMWVVIX0pRUGtqYzJWbXo3MHJ4WThaakdTSXRuZW9mS1lCb3dhUlM0M1Q4SVpQSjV0eG5yaE82RFRsUnZFb3pPRkRmd3V2MldPaXJkUkc2MzljdWZNdU5tUU1wclBEUC1FbzhkamdNdDlMNW12T2I0QndvYU1OZW9PaFl3dVN5dnRMLXZkZjdlUDR5bllKYjNsYlBqX3VzSFR0UkREWHBsODhyX0FiU3hNSlZVZ09aZ2Fobm1B?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:01:59.000Z",
+      "pub_sort_dt": "2026-11-16 17:01:59"
     },
     {
       "source": "China Buzzing",
-      "title_en": "黄仁勋如何打造一家企业，以满足中国市场对美国芯片的需求 - WSJ",
-      "title_cn": "黄仁勋如何打造一家企业，以满足中国市场对美国芯片的需求 - WSJ",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxQTFJYdnc1enJkNHlnR1AwRGlNUTNCT09IeTVDbzBBd1FGYnpBYUFSemtpUUROOVEzQ29WTTBwbXZuc3ZFTWhiU01vTGExNDQySnVHUG9IRVRpQW1FdE5WOVNqbUJfQ3dNNFZ0cUVaQmw4NmQycENqY2VNbThmNmZaTjJ2OVRkXzJUbV9XNWNDMGJtMlJjcW5HRjlwLU1qMng2TGNzdVNnX2pmYUN4NS1rUk5XMklVUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T16:51:00.000Z",
-      "pub_sort_dt": "2026-11-16 00:51:00"
+      "title_en": "中国正在为低碳未来重塑其工厂 - Bloomberg.com",
+      "title_cn": "中国正在为低碳未来重塑其工厂 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxQN1phdjB3dnYwcVU1aE5RSnR6SXR0ZnlFMGtHR2RGQWpxSm1jTjFzdXI4VGswUTJvQVhyb2RCS01MeGRXWGVJNmJjMTBZZF8wVUxPSkF3Ulh3NUxMOVk5VjZEdzcxbU9IVW5aR3BtSFdfSGxwNDJKbzM3elp6a2hMWGUwdmktQ3JpX0lYN3l5SFBYRWdBTkZCQg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:00:09.000Z",
+      "pub_sort_dt": "2026-11-16 17:00:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "澳大利亚和菲律宾签署协议，以深化军事关系 - Euronews.com",
-      "title_cn": "澳大利亚和菲律宾签署协议，以深化军事关系 - Euronews.com",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxPUmkyVDZlU3huX056bTNzT25ja3lEYVZDak8tZTFCYTRXMUNXZVR5Wk9PdkN3LWdBQ0RyUWFEeVlwbnEtWFBUcHhJaWRFY1ZtcjUzQ1RHb29iMkdfTXVMY2NJeFZJRzY0SnRzTDJ2bWNZY2d1TG16Z01mZ0s4YmJqeXVLbG1TNEhUMjJIUG9talNLejlkMmV3LTlPQ0E3MjllcmZOeUpza2U3aUhYbzdVUDBXSQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T16:42:39.000Z",
-      "pub_sort_dt": "2026-11-16 00:42:39"
+      "title_en": "中国不希望出现核军备竞赛 - Foreign Affairs",
+      "title_cn": "中国不希望出现核军备竞赛 - Foreign Affairs",
+      "url": "https://news.google.com/read/CBMifEFVX3lxTE1zeE5QcnZPQ2dMTEdfblZ1eFFsYlVMejM4dVRzM1BzaXJ3UDdidHA2Q2VZZmgxOEkybzlhVGxQcngxV251aTRKNDJiRTZzRFNwRG1LbG82eEg3eFYtUXFaWTN5OFlzdnM2aEZKUGcyVUFud05GcnBhNzlDdzE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:00:00.000Z",
+      "pub_sort_dt": "2026-11-16 17:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普将在中国举行的亚太经合组织峰会上与习近平、普京会晤 - WPEC",
-      "title_cn": "特朗普将在中国举行的亚太经合组织峰会上与习近平、普京会晤 - WPEC",
-      "url": "https://news.google.com/read/CBMihwFBVV95cUxONzhIYUdsWVdMVlNYX0VkZVZ2eUxfRlBadzBWMnNfX0o2X1c3aFVMQW16N2RrNlY2TnVpV0t1dTh3Qm5fOGp4cjd1WWdhdHFRbUc3NmtOVTI3YWdkN1Bnc1VNLV9BYVc0UzBpUmhhdUJiODNTWVBNaFpwd014a2I1SER1T3VEOUk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T15:10:54.000Z",
-      "pub_sort_dt": "2026-11-15 23:10:54"
+      "title_en": "中美推动人工智能安全措施之际，芯片问题阴云笼罩特朗普与习近平峰会 - Reuters",
+      "title_cn": "中美推动人工智能安全措施之际，芯片问题阴云笼罩特朗普与习近平峰会 - Reuters",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxNYkh0ckZncVlZLW10eldobVVJNEs3SHAwbGNnakh3bExOZ2t6SEtpNjloRHZndS13UTBFUXZMUVA4RGZCZE9DTUVxRWJBMmxRdndNX1Y3YXJ3NWMwUm5JQXlkdEFxMEZJcVhmaUZtd0tGTk4yRFBKOWtjT2pJaXQyX1JxZi1Sd2FTS0VWS3A0bDFmdk1RQTE3MnptQTVIa1o1UUFiRXExaFNETEtLcV9OV0dzWTBUcV9DNmptN1lEREgxd0dZLWdV?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T08:57:20.000Z",
+      "pub_sort_dt": "2026-11-16 16:57:20"
     },
     {
       "source": "China Buzzing",
-      "title_en": "Megaspeed称，一名涉嫌为中国从事间谍活动的嫌疑人曾与英伟达前高管有过联系，该嫌疑人已于2025年离职 - BBC",
-      "title_cn": "Megaspeed称，一名涉嫌为中国从事间谍活动的嫌疑人曾与英伟达前高管有过联系，该嫌疑人已于2025年离职 - BBC",
-      "url": "https://news.google.com/read/CBMiW0FVX3lxTFBJV1pWdW9NZ0tRcjE1U21pVTVyUnpvSGVqZ2RqZ2VpSlNER3Q0WGcta0piOEp3NmZURS1DT3BEd0ZPM3p1Q2pBM3B0ZkttNVRLc0hCaGlqSXlwRUU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T14:56:21.000Z",
-      "pub_sort_dt": "2026-11-15 22:56:21"
+      "title_en": "2026年中国五家信誉良好的耳鼻喉二极管激光器制造商：推动医疗激光技术发展 - The National Law Review",
+      "title_cn": "2026年中国五家信誉良好的耳鼻喉二极管激光器制造商：推动医疗激光技术发展 - The National Law Review",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxPR0szSEhZcTdnOWl2S3NjRmZlR3ZvTWlUU04wZmo1UmtnZ1NQODZwbjFwVjRJVTluYmViLUk2QWh1MmV2WWRLVEw1NWY3akFYbC0yajFDR0lvNXdubktaVFQ5alZwdGxuYXpTbzBtUDBhNHh6dkFiQTlVdmxkSzdoYnZZamg3ZXJkZG8teG9TdXozc2FNOWM5aDA4SWhsRWJHMFN3M3ZOMjdrQ1hNX3RGNHFfSQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T08:49:42.000Z",
+      "pub_sort_dt": "2026-11-16 16:49:42"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国电动客机时代以一架19座、航程400公里的飞机拉开序幕 - Electrek",
-      "title_cn": "中国电动客机时代以一架19座、航程400公里的飞机拉开序幕 - Electrek",
-      "url": "https://news.google.com/read/CBMihgFBVV95cUxPaHBTeUxldGJqaEZfOHlMODBTdXJJNVAwcWowdnJuTGRVa20zUWM5OGJSaTZLaGN0NWhnUTNFZ0ZyWjFkbXdWYWZGZHlqSVlSQ2tXNG5vQkxxdlJOUVZ2X1NHSjhiZ21MN2g3dHlQNHpMQ0xjMWhUTEZsM1QtMlBrdmJMX2lzQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T14:43:00.000Z",
-      "pub_sort_dt": "2026-11-15 22:43:00"
+      "title_en": "为何习近平和高市早苗不会重现2014年亚太经合组织峰会时中日关系解冻的局面 - South China Morning Post",
+      "title_cn": "为何习近平和高市早苗不会重现2014年亚太经合组织峰会时中日关系解冻的局面 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi1gFBVV95cUxPWmEtVnNianM4czNLTFZwX2RrSGNmN0Jncm9OX2RoTEMzQnBIRXgyUXZGSjBqZDFyMkZ2cnFqNUttQzlFZ25GMXhHNnZnU3NCVDc4ZGpSZ0ItTE1Tbmw1UGxBT0QzWTJNX25aTnh1ZS04bE5PMWk5UnNyaU5zY0ZsUC16QmZVaFFBNnZJT3N4Tm5zLU00SmRGX0oyclRzMmZlRnZET2I2bUNXc3BEYzB5U1I5TVp6aXAwSFZ2c0x6cGl4S3AwbHdicWpNNDNhSmtsenJIWUdn0gHWAUFVX3lxTE9ZbGdIY0pzUzIwVjFDLVNCZlJuaDNmQVVHc3JWdHl0akdsakhCaXBvdUJQM2NLOW42R214V0xwcWJSeXNEZGs1S1VyY1pEV3ZrVm0wcV96VGx3cUdHVHZUN0lmZG1zMGo2OXpmV3R6TUZMZzVxNDZUbXRVRXVHMWQ1Z1JxTzB2TUZxMzBTTUkzWDRiQmpSTXUxODN2cTN1X3p4TVdUZmNUV0lHazlTX0tWUXM5TXB5ZDFnbnhVSjF6ZjNuWk5OeVg2VE8xal9QeEZKa3JFbkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T08:23:49.000Z",
+      "pub_sort_dt": "2026-11-16 16:23:49"
     }
   ],
   "media_news": [
+    {
+      "source": "Reuters",
+      "title_en": "中国总理在特朗普访华前称赞中东盟关系“非凡”",
+      "title_cn": "中国总理在特朗普访华前称赞中东盟关系“非凡”",
+      "url": "https://reut.rs/3Vwd1XQ",
+      "pub_raw": "2026-11-16T09:35:40.929Z",
+      "pub_sort_dt": "2026-11-16 17:35:40"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国押注于零碳工业园区",
+      "title_cn": "中国押注于零碳工业园区",
+      "url": "https://www.bloomberg.com/news/features/2026-11-16/china-bets-on-zero-carbon-industrial-parks",
+      "pub_raw": "2026-11-16T09:20:01.580Z",
+      "pub_sort_dt": "2026-11-16 17:20:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受科技股暴跌及中国经济增长疲软影响，铜价跌至四个月低点",
+      "title_cn": "受科技股暴跌及中国经济增长疲软影响，铜价跌至四个月低点",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/copper-sinks-to-four-month-low-on-tech-rout-china-growth-woes",
+      "pub_raw": "2026-11-16T09:20:01.562Z",
+      "pub_sort_dt": "2026-11-16 17:20:01"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国称习近平、普京、特朗普会晤具有“开创性意义”",
+      "title_cn": "中国称习近平、普京、特朗普会晤具有“开创性意义”",
+      "url": "https://reut.rs/3Xc5gH3",
+      "pub_raw": "2026-11-16T08:31:50.526Z",
+      "pub_sort_dt": "2026-11-16 16:31:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国人民银行回笼中期资金，向市场发出对宽松预期应保持警惕的信号",
+      "title_cn": "中国人民银行回笼中期资金，向市场发出对宽松预期应保持警惕的信号",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/pboc-withdraws-medium-term-funds-in-warning-sign-to-easing-bets",
+      "pub_raw": "2026-11-16T08:16:43.080Z",
+      "pub_sort_dt": "2026-11-16 16:16:43"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "深度解析：中国培养“AI原生一代”的行动内幕",
+      "title_cn": "深度解析：中国培养“AI原生一代”的行动内幕",
+      "url": "https://reut.rs/4sYxD7m",
+      "pub_raw": "2026-11-16T08:16:43.037Z",
+      "pub_sort_dt": "2026-11-16 16:16:43"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国经济表现令人失望，新一轮刺激措施尚未见效",
+      "title_cn": "中国经济表现令人失望，新一轮刺激措施尚未见效",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push",
+      "pub_raw": "2026-11-16T07:44:33.435Z",
+      "pub_sort_dt": "2026-11-16 15:44:33"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "美国盟友签署协议，旨在将中国排除在人工智能供应链之外",
+      "title_cn": "美国盟友签署协议，旨在将中国排除在人工智能供应链之外",
+      "url": "https://www.ft.com/content/00501acf-8cfc-483d-bbd6-154013e4ca4b?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-16T05:53:00.395Z",
+      "pub_sort_dt": "2026-11-16 13:53:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "高盛称，中国在铁矿石市场上的影响力可能使澳大利亚矿企损失80亿美元",
+      "title_cn": "高盛称，中国在铁矿石市场上的影响力可能使澳大利亚矿企损失80亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-iron-ore-clout-may-cost-australian-miners-8-billion-goldman-says",
+      "pub_raw": "2026-11-16T04:48:42.948Z",
+      "pub_sort_dt": "2026-11-16 12:48:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受钢铁行业前景疲软影响，中国铁矿石期货跌至四年低点",
+      "title_cn": "受钢铁行业前景疲软影响，中国铁矿石期货跌至四年低点",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-iron-ore-futures-hit-four-year-low-on-weak-steel-outlook",
+      "pub_raw": "2026-11-16T04:48:42.944Z",
+      "pub_sort_dt": "2026-11-16 12:48:42"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "哎呀，我可能正和一名中国间谍上床呢",
+      "title_cn": "哎呀，我可能正和一名中国间谍上床呢",
+      "url": "https://www.ft.com/content/c21130ff-f8bf-45dc-bea7-1a38b53ab4b2",
+      "pub_raw": "2026-11-16T04:16:51.639Z",
+      "pub_sort_dt": "2026-11-16 12:16:51"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "10月份中国经济活动放缓幅度超出预期",
+      "title_cn": "10月份中国经济活动放缓幅度超出预期",
+      "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-16T03:44:42.631Z",
+      "pub_sort_dt": "2026-11-16 11:44:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受绿色能源热潮推动，中国化石燃料发电量或将出现年度下滑",
+      "title_cn": "受绿色能源热潮推动，中国化石燃料发电量或将出现年度下滑",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-fossil-fuel-power-tips-toward-annual-drop-on-green-boom",
+      "pub_raw": "2026-11-16T03:28:42.616Z",
+      "pub_sort_dt": "2026-11-16 11:28:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国铝产量虽有下降，但仍有望创下历史新高",
+      "title_cn": "中国铝产量虽有下降，但仍有望创下历史新高",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-aluminum-output-drops-but-still-on-course-for-record",
+      "pub_raw": "2026-11-16T02:40:38.556Z",
+      "pub_sort_dt": "2026-11-16 10:40:38"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "中国挖走了这位哈佛顶尖教授。现在，他希望其他人也能加入他的行列。",
+      "title_cn": "中国挖走了这位哈佛顶尖教授。现在，他希望其他人也能加入他的行列。",
+      "url": "https://on.wsj.com/3XrZhxQ",
+      "pub_raw": "2026-11-16T02:40:38.502Z",
+      "pub_sort_dt": "2026-11-16 10:40:38"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "尽管近期推出了新一轮刺激措施，中国房价跌势仍在持续",
+      "title_cn": "尽管近期推出了新一轮刺激措施，中国房价跌势仍在持续",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-home-price-slump-drags-on-despite-latest-stimulus-push",
+      "pub_raw": "2026-11-16T02:24:49.907Z",
+      "pub_sort_dt": "2026-11-16 10:24:49"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "澳大利亚警告称，中国推动铁矿石进口可能违反贸易规则",
+      "title_cn": "澳大利亚警告称，中国推动铁矿石进口可能违反贸易规则",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/australia-warns-china-iron-ore-push-could-breach-trade-rules",
+      "pub_raw": "2026-11-16T00:02:28.931Z",
+      "pub_sort_dt": "2026-11-16 08:02:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "充满未来感的深圳让特朗普看到了遏制习近平领导下的中国所面临的困难",
+      "title_cn": "充满未来感的深圳让特朗普看到了遏制习近平领导下的中国所面临的困难",
+      "url": "https://www.bloomberg.com/news/features/2026-11-15/futuristic-shenzhen-shows-trump-the-difficulty-of-stopping-xi-jinping-s-china",
+      "pub_raw": "2026-11-15T23:13:58.486Z",
+      "pub_sort_dt": "2026-11-16 07:13:58"
+    },
     {
       "source": "Bloomberg",
       "title_en": "《金融时报》称，美国及其盟友同意保护人工智能供应链免受中国影响",
@@ -107,232 +251,232 @@
       "url": "https://reut.rs/3WIXy7c",
       "pub_raw": "2026-11-15T18:26:58.984Z",
       "pub_sort_dt": "2026-11-16 02:26:58"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "美国及其盟友签署协议，旨在保护人工智能供应链免受中国影响",
-      "title_cn": "美国及其盟友签署协议，旨在保护人工智能供应链免受中国影响",
-      "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-15T17:54:50.949Z",
-      "pub_sort_dt": "2026-11-16 01:54:50"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "美国食品药品监督管理局（FDA）驳回了一款中国研发的抗癌药，这对北京的生物技术行业来说是一个打击",
-      "title_cn": "美国食品药品监督管理局（FDA）驳回了一款中国研发的抗癌药，这对北京的生物技术行业来说是一个打击",
-      "url": "https://www.ft.com/content/390948a3-429c-410a-b5fe-54cc5a380b99?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-15T17:38:42.036Z",
-      "pub_sort_dt": "2026-11-16 01:38:42"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国驻伦敦“巨型”大使馆周边的居民难以出售公寓",
-      "title_cn": "中国驻伦敦“巨型”大使馆周边的居民难以出售公寓",
-      "url": "https://www.ft.com/content/38f869f7-2523-4f4f-b1ea-9e0b2ced8c74?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-15T17:38:41.989Z",
-      "pub_sort_dt": "2026-11-16 01:38:41"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "香港开发商新世界宣布32亿美元配股计划",
-      "title_cn": "香港开发商新世界宣布32亿美元配股计划",
-      "url": "https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-15T15:48:51.170Z",
-      "pub_sort_dt": "2026-11-15 23:48:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国食品药品监督管理局（FDA）驳回了Summit公司一款源自中国的肺癌药物",
-      "title_cn": "美国食品药品监督管理局（FDA）驳回了Summit公司一款源自中国的肺癌药物",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-15/us-fda-rejects-summit-s-china-originated-lung-cancer-drug",
-      "pub_raw": "2026-11-15T14:44:42.504Z",
-      "pub_sort_dt": "2026-11-15 22:44:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在与习近平会谈前夕，特朗普推动的矿产计划尚未动摇中国的掌控地位",
-      "title_cn": "在与习近平会谈前夕，特朗普推动的矿产计划尚未动摇中国的掌控地位",
-      "url": "https://reut.rs/4zml2wu",
-      "pub_raw": "2026-11-15T13:56:56.786Z",
-      "pub_sort_dt": "2026-11-15 21:56:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "菲律宾与中国在南海问题上的分歧加剧",
-      "title_cn": "菲律宾与中国在南海问题上的分歧加剧",
-      "url": "https://reut.rs/4iSJ7oh",
-      "pub_raw": "2026-11-15T10:45:40.111Z",
-      "pub_sort_dt": "2026-11-15 18:45:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国对台湾的支持显得令人担忧地脆弱",
-      "title_cn": "美国对台湾的支持显得令人担忧地脆弱",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-11-15/american-support-for-taiwan-looks-alarmingly-fragile",
-      "pub_raw": "2026-11-15T07:17:41.408Z",
-      "pub_sort_dt": "2026-11-15 15:17:41"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国眼中的世界",
-      "title_cn": "中国眼中的世界",
-      "url": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-15T03:20:56.164Z",
-      "pub_sort_dt": "2026-11-15 11:20:56"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "黄仁勋是如何开辟一条“后门”通道，让北京得以继续参与人工智能竞赛的。",
-      "title_cn": "黄仁勋是如何开辟一条“后门”通道，让北京得以继续参与人工智能竞赛的。",
-      "url": "https://on.wsj.com/4kAJEht",
-      "pub_raw": "2026-11-15T02:48:40.164Z",
-      "pub_sort_dt": "2026-11-15 10:48:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美仕、瑞幸、Heytea 俘获了痴迷中国文化的美国青少年",
-      "title_cn": "美仕、瑞幸、Heytea 俘获了痴迷中国文化的美国青少年",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/mixue-luckin-heytea-win-over-chinamaxxing-american-teens",
-      "pub_raw": "2026-11-14T12:13:43.392Z",
-      "pub_sort_dt": "2026-11-14 20:13:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国和欧洲首席执行官在中国经商时最感意外的是什么",
-      "title_cn": "美国和欧洲首席执行官在中国经商时最感意外的是什么",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/what-surprises-us-european-ceos-most-about-doing-business-in-china",
-      "pub_raw": "2026-11-14T12:13:43.388Z",
-      "pub_sort_dt": "2026-11-14 20:13:43"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "韩国外长表示，韩国不应惧怕中国的崛起",
-      "title_cn": "韩国外长表示，韩国不应惧怕中国的崛起",
-      "url": "https://reut.rs/4zMBLu0",
-      "pub_raw": "2026-11-14T10:32:48.476Z",
-      "pub_sort_dt": "2026-11-14 18:32:48"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国那些遭重挫的科技股，或许能以相对平稳的方式布局人工智能",
-      "title_cn": "中国那些遭重挫的科技股，或许能以相对平稳的方式布局人工智能",
-      "url": "https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-14T10:32:48.282Z",
-      "pub_sort_dt": "2026-11-14 18:32:48"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "独家报道 特朗普的强力盟友协助了一家中国电子烟企业",
-      "title_cn": "独家报道 特朗普的强力盟友协助了一家中国电子烟企业",
-      "url": "https://on.wsj.com/4zSgGhS",
-      "pub_raw": "2026-11-14T10:32:46.159Z",
-      "pub_sort_dt": "2026-11-14 18:32:46"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "英伟达事件背后隐藏着庞大的中国间谍网络",
-      "title_cn": "英伟达事件背后隐藏着庞大的中国间谍网络",
-      "url": "https://on.wsj.com/48Z88tn",
-      "pub_raw": "2026-11-14T10:32:46.155Z",
-      "pub_sort_dt": "2026-11-14 18:32:46"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "我们所了解的中国女企业家黄爱丽丝",
-      "title_cn": "我们所了解的中国女企业家黄爱丽丝",
-      "url": "https://reut.rs/4iHhsrJ",
-      "pub_raw": "2026-11-14T01:35:41.331Z",
-      "pub_sort_dt": "2026-11-14 09:35:41"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家报道：消息人士称，英伟达前首席执行官就其与中国女商人的婚外情一事误导了公司首席律师",
-      "title_cn": "独家报道：消息人士称，英伟达前首席执行官就其与中国女商人的婚外情一事误导了公司首席律师",
-      "url": "https://reut.rs/4C8cpZc",
-      "pub_raw": "2026-11-14T00:48:41.902Z",
-      "pub_sort_dt": "2026-11-14 08:48:41"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "美国食品药品监督管理局（FDA）驳回了Summit公司一款源自中国的肺癌药 - The Spokesman-Review",
-      "title_cn": "美国食品药品监督管理局（FDA）驳回了Summit公司一款源自中国的肺癌药 - The Spokesman-Review",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxQVEt3TnBOU2ZvRk1pOTY0OWRlb3ZpREJjcmwzNkZYdUliaHZhT3RzdVpDendnSUFDNDZfVHp6MllqTk5xQU9qRVozbWtzWnphcG9mNHdwSjcwc01HeGJEQzluT1dLTmswTkJEZGM3dmtsVXhpajNmbWc3Q3lOcDRubGhoQ1A5anJkbjhIeUhObFFvY2RNdnRBU0VLcFVRUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T21:44:40.000Z",
-      "pub_sort_dt": "2026-11-16 05:44:40"
+      "title_en": "BeOne和恒瑞荣登中国最具实力制药企业榜首 - STAT",
+      "title_cn": "BeOne和恒瑞荣登中国最具实力制药企业榜首 - STAT",
+      "url": "https://news.google.com/read/CBMimgFBVV95cUxQR3Z6a2hWQTFWT29BZm5OLUJKLUpvYU9DLXdmUHdRbVJBUU0wZ190UWNnenF1YVhFeDZlLUtmOHlDZnJDYTkzZWNwZ2lPS3JHVDBlZ1ZTcmg3UzdFajBtTzVfVElRUWNQcEMteC1WRjBXR09oUlFNdldzbGxWeUE1VjFSX1Zoc1BLZE9sY0RGaW9WUVFINzBpT0Fn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:35:50.000Z",
+      "pub_sort_dt": "2026-11-16 17:35:50"
     },
     {
       "source": "China Buzzing",
-      "title_en": "东南亚各国领导人拉开峰会序幕，南海问题和能源议题列入议程 - The Washington Post",
-      "title_cn": "东南亚各国领导人拉开峰会序幕，南海问题和能源议题列入议程 - The Washington Post",
-      "url": "https://news.google.com/read/CBMiwwFBVV95cUxQb2NaMlQ5bGZaZlBnVnpWQWVxYjhXdjhZS0NBM054Zm5BbXRyX19DRDBrd2xXVEx0Z2VQX1h5YzNpMWRQM1BrWEJmeVBaRHNRTF9xRkNiYkZ5SVhRNkhkcmVSb1BnY3VZRVlTZHBlTGpvNXhMU2ZDdDBfdGdGQWswd2NXMjRPVEIxcnFlaUs2YUlUc0RJNU9YTjJFUWptemxxeElOc0xFQ3dubTcwYTBBbFBtaTZROS14MVhxWFMyWHV4cW8?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T20:33:02.000Z",
-      "pub_sort_dt": "2026-11-16 04:33:02"
+      "title_en": "中石油投运中国最长的二氧化碳管道 - Carbon Herald",
+      "title_cn": "中石油投运中国最长的二氧化碳管道 - Carbon Herald",
+      "url": "https://news.google.com/read/CBMiekFVX3lxTFBIWDhuM3o0cU1SVWVwcU1FNWhiaWRldHJPYkhFX3pwVVIxRzNBUXRmNXlHMUJHT0pTUUhkRzdYUGw1OHR1WkNmNFd2QTROSXZGLWdLbzExSGJnN2dZSFFCbTlJN2lNOXBDVHVMTUY1ejFkWGE0WEdHRjFB?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:35:28.000Z",
+      "pub_sort_dt": "2026-11-16 17:35:28"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普启程前往亚洲，希望扭转局面——此前中期选举的失利使他在国内处境不利 - Spectrum News",
-      "title_cn": "特朗普启程前往亚洲，希望扭转局面——此前中期选举的失利使他在国内处境不利 - Spectrum News",
-      "url": "https://news.google.com/read/CBMi5gFBVV95cUxNb0ZQWG8zakNub1BiQWlfUE1tNGVzRV9sLUtjT2gzNE5vV2dObHNCV3h2cFlIYzdDSUtseEFpUkl5dzBETVZrRkNJZV9UTEotVmNLNXVKUDhjb0tvb1VmX0l5UVltTmc4N2VuNy02ckN4MDBIdnloaFNGTUsza2pJVnNwa0I3NnBPaTI4OElwd3ZKcUJtNmg0bDIyVEdTbS1hSWJNTk5ObmVwRGM2Y1NJZXVab1Npdkd1VkpOcmpyYlloZ0R6VHp0VWxNdGQ2YV9WRW9OMUVjWGFYT0pZODNKV3MtNU02Zw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T18:50:00.000Z",
-      "pub_sort_dt": "2026-11-16 02:50:00"
+      "title_en": "受供应限额影响，中国主要稀土企业利润激增 - Reuters",
+      "title_cn": "受供应限额影响，中国主要稀土企业利润激增 - Reuters",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxPNWE0c2x0ZU5WRUdQZGxCSXFfQU5lenV4TGtPTE9yT3R3WlJvRnE5dlBabzZMTklhZHhSTWpxV2RjLVlSN0gtWkZKN25EMzFfWEVLZzlPVkFtbkdEZnFtM1NZMVFvMVJoN01sS01hOEU2VC1iMl9mdXlRYzNreGhKMzV0TmlRSVJiUmVNaTJqMzI3YWE2QzVMTkN6ZmtHNzd0OEZRaQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:23:50.000Z",
+      "pub_sort_dt": "2026-11-16 17:23:50"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国及其盟友签署协议，旨在保护人工智能供应链免受中国影响 - Financial Times",
-      "title_cn": "美国及其盟友签署协议，旨在保护人工智能供应链免受中国影响 - Financial Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPeVM3Y2hkVkZKUTFFcUhkRUJlX3pWbFBGZlZ6QW1tMjJTUUZ5WUgtS0lWMmh5V3YweURabUtma0pDeTBNM0M1cTYtUkQwcDhrODFmM0RPdmoxYzNZYldpdmxKN0ROTVNmMFhOZ3dpVFpnQ2VSUkRyOWtnaG9udTNpbTdRemg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T17:47:43.000Z",
-      "pub_sort_dt": "2026-11-16 01:47:43"
+      "title_en": "在美国与中国竞争的背景下，美国及其盟友联手保护人工智能技术和基础设施 - Reuters",
+      "title_cn": "在美国与中国竞争的背景下，美国及其盟友联手保护人工智能技术和基础设施 - Reuters",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxQME9ldVY0V0JLTVYyLTZZcXZlVmZwNnNlcWw5MHYwa0F4VUdRbGFueXVXX29SaXdiWTR4LWpfbDY5dV9sclVXNHBhakdiMUlBeWc5S1M0dmZTMW5IcmYwV2REZ1hUYnhyWFJDT2t5dkFuRlh6Q3RMYUxfVFh2X3JCR3VxMENuYzdMMWxFZzFSOV80OC10ZFNyMldjR1dyOTNOYlY5Y3JyTDJRSEV4anRmaHFidnJ0dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:04:16.000Z",
+      "pub_sort_dt": "2026-11-16 17:04:16"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国食品药品监督管理局（FDA）驳回了一款在中国研发的抗癌药物，这对北京的生物技术行业来说是一个打击 - Financial Times",
-      "title_cn": "美国食品药品监督管理局（FDA）驳回了一款在中国研发的抗癌药物，这对北京的生物技术行业来说是一个打击 - Financial Times",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQSF81czliZUJkMnRRbzNpUENZS2NDTm5QNzd5UkI3Qk10R1hmcnIyNnJfQVY1SkJlZkJnc2RMUzhobDh5VTI4cUs2NjIwN3FPdVhHSV9taHRhaDBJWjlNZUFHLThTd01vZGZzVklhLVV4NlFOTlZZWjEzN2s4RW1peDF5N0w?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T17:07:06.000Z",
-      "pub_sort_dt": "2026-11-16 01:07:06"
+      "title_en": "中国警告称，在人工智能发展中应避免意识形态分裂和排他性集团的形成 - Anadolu Ajansı",
+      "title_cn": "中国警告称，在人工智能发展中应避免意识形态分裂和排他性集团的形成 - Anadolu Ajansı",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxQcXlMWVVIX0pRUGtqYzJWbXo3MHJ4WThaakdTSXRuZW9mS1lCb3dhUlM0M1Q4SVpQSjV0eG5yaE82RFRsUnZFb3pPRkRmd3V2MldPaXJkUkc2MzljdWZNdU5tUU1wclBEUC1FbzhkamdNdDlMNW12T2I0QndvYU1OZW9PaFl3dVN5dnRMLXZkZjdlUDR5bllKYjNsYlBqX3VzSFR0UkREWHBsODhyX0FiU3hNSlZVZ09aZ2Fobm1B?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:01:59.000Z",
+      "pub_sort_dt": "2026-11-16 17:01:59"
     },
     {
       "source": "China Buzzing",
-      "title_en": "黄仁勋如何打造一家企业，以满足中国市场对美国芯片的需求 - WSJ",
-      "title_cn": "黄仁勋如何打造一家企业，以满足中国市场对美国芯片的需求 - WSJ",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxQTFJYdnc1enJkNHlnR1AwRGlNUTNCT09IeTVDbzBBd1FGYnpBYUFSemtpUUROOVEzQ29WTTBwbXZuc3ZFTWhiU01vTGExNDQySnVHUG9IRVRpQW1FdE5WOVNqbUJfQ3dNNFZ0cUVaQmw4NmQycENqY2VNbThmNmZaTjJ2OVRkXzJUbV9XNWNDMGJtMlJjcW5HRjlwLU1qMng2TGNzdVNnX2pmYUN4NS1rUk5XMklVUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T16:51:00.000Z",
-      "pub_sort_dt": "2026-11-16 00:51:00"
+      "title_en": "中国正在为低碳未来重塑其工厂 - Bloomberg.com",
+      "title_cn": "中国正在为低碳未来重塑其工厂 - Bloomberg.com",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxQN1phdjB3dnYwcVU1aE5RSnR6SXR0ZnlFMGtHR2RGQWpxSm1jTjFzdXI4VGswUTJvQVhyb2RCS01MeGRXWGVJNmJjMTBZZF8wVUxPSkF3Ulh3NUxMOVk5VjZEdzcxbU9IVW5aR3BtSFdfSGxwNDJKbzM3elp6a2hMWGUwdmktQ3JpX0lYN3l5SFBYRWdBTkZCQg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:00:09.000Z",
+      "pub_sort_dt": "2026-11-16 17:00:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "澳大利亚和菲律宾签署协议，以深化军事关系 - Euronews.com",
-      "title_cn": "澳大利亚和菲律宾签署协议，以深化军事关系 - Euronews.com",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxPUmkyVDZlU3huX056bTNzT25ja3lEYVZDak8tZTFCYTRXMUNXZVR5Wk9PdkN3LWdBQ0RyUWFEeVlwbnEtWFBUcHhJaWRFY1ZtcjUzQ1RHb29iMkdfTXVMY2NJeFZJRzY0SnRzTDJ2bWNZY2d1TG16Z01mZ0s4YmJqeXVLbG1TNEhUMjJIUG9talNLejlkMmV3LTlPQ0E3MjllcmZOeUpza2U3aUhYbzdVUDBXSQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T16:42:39.000Z",
-      "pub_sort_dt": "2026-11-16 00:42:39"
+      "title_en": "中国不希望出现核军备竞赛 - Foreign Affairs",
+      "title_cn": "中国不希望出现核军备竞赛 - Foreign Affairs",
+      "url": "https://news.google.com/read/CBMifEFVX3lxTE1zeE5QcnZPQ2dMTEdfblZ1eFFsYlVMejM4dVRzM1BzaXJ3UDdidHA2Q2VZZmgxOEkybzlhVGxQcngxV251aTRKNDJiRTZzRFNwRG1LbG82eEg3eFYtUXFaWTN5OFlzdnM2aEZKUGcyVUFud05GcnBhNzlDdzE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T09:00:00.000Z",
+      "pub_sort_dt": "2026-11-16 17:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普将在中国举行的亚太经合组织峰会上与习近平、普京会晤 - WPEC",
-      "title_cn": "特朗普将在中国举行的亚太经合组织峰会上与习近平、普京会晤 - WPEC",
-      "url": "https://news.google.com/read/CBMihwFBVV95cUxONzhIYUdsWVdMVlNYX0VkZVZ2eUxfRlBadzBWMnNfX0o2X1c3aFVMQW16N2RrNlY2TnVpV0t1dTh3Qm5fOGp4cjd1WWdhdHFRbUc3NmtOVTI3YWdkN1Bnc1VNLV9BYVc0UzBpUmhhdUJiODNTWVBNaFpwd014a2I1SER1T3VEOUk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T15:10:54.000Z",
-      "pub_sort_dt": "2026-11-15 23:10:54"
+      "title_en": "中美推动人工智能安全措施之际，芯片问题阴云笼罩特朗普与习近平峰会 - Reuters",
+      "title_cn": "中美推动人工智能安全措施之际，芯片问题阴云笼罩特朗普与习近平峰会 - Reuters",
+      "url": "https://news.google.com/read/CBMixwFBVV95cUxNYkh0ckZncVlZLW10eldobVVJNEs3SHAwbGNnakh3bExOZ2t6SEtpNjloRHZndS13UTBFUXZMUVA4RGZCZE9DTUVxRWJBMmxRdndNX1Y3YXJ3NWMwUm5JQXlkdEFxMEZJcVhmaUZtd0tGTk4yRFBKOWtjT2pJaXQyX1JxZi1Sd2FTS0VWS3A0bDFmdk1RQTE3MnptQTVIa1o1UUFiRXExaFNETEtLcV9OV0dzWTBUcV9DNmptN1lEREgxd0dZLWdV?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T08:57:20.000Z",
+      "pub_sort_dt": "2026-11-16 16:57:20"
     },
     {
       "source": "China Buzzing",
-      "title_en": "Megaspeed称，一名涉嫌为中国从事间谍活动的嫌疑人曾与英伟达前高管有过联系，该嫌疑人已于2025年离职 - BBC",
-      "title_cn": "Megaspeed称，一名涉嫌为中国从事间谍活动的嫌疑人曾与英伟达前高管有过联系，该嫌疑人已于2025年离职 - BBC",
-      "url": "https://news.google.com/read/CBMiW0FVX3lxTFBJV1pWdW9NZ0tRcjE1U21pVTVyUnpvSGVqZ2RqZ2VpSlNER3Q0WGcta0piOEp3NmZURS1DT3BEd0ZPM3p1Q2pBM3B0ZkttNVRLc0hCaGlqSXlwRUU?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T14:56:21.000Z",
-      "pub_sort_dt": "2026-11-15 22:56:21"
+      "title_en": "2026年中国五家信誉良好的耳鼻喉二极管激光器制造商：推动医疗激光技术发展 - The National Law Review",
+      "title_cn": "2026年中国五家信誉良好的耳鼻喉二极管激光器制造商：推动医疗激光技术发展 - The National Law Review",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxPR0szSEhZcTdnOWl2S3NjRmZlR3ZvTWlUU04wZmo1UmtnZ1NQODZwbjFwVjRJVTluYmViLUk2QWh1MmV2WWRLVEw1NWY3akFYbC0yajFDR0lvNXdubktaVFQ5alZwdGxuYXpTbzBtUDBhNHh6dkFiQTlVdmxkSzdoYnZZamg3ZXJkZG8teG9TdXozc2FNOWM5aDA4SWhsRWJHMFN3M3ZOMjdrQ1hNX3RGNHFfSQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T08:49:42.000Z",
+      "pub_sort_dt": "2026-11-16 16:49:42"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国电动客机时代以一架19座、航程400公里的飞机拉开序幕 - Electrek",
-      "title_cn": "中国电动客机时代以一架19座、航程400公里的飞机拉开序幕 - Electrek",
-      "url": "https://news.google.com/read/CBMihgFBVV95cUxPaHBTeUxldGJqaEZfOHlMODBTdXJJNVAwcWowdnJuTGRVa20zUWM5OGJSaTZLaGN0NWhnUTNFZ0ZyWjFkbXdWYWZGZHlqSVlSQ2tXNG5vQkxxdlJOUVZ2X1NHSjhiZ21MN2g3dHlQNHpMQ0xjMWhUTEZsM1QtMlBrdmJMX2lzQQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-15T14:43:00.000Z",
-      "pub_sort_dt": "2026-11-15 22:43:00"
+      "title_en": "为何习近平和高市早苗不会重现2014年亚太经合组织峰会时中日关系解冻的局面 - South China Morning Post",
+      "title_cn": "为何习近平和高市早苗不会重现2014年亚太经合组织峰会时中日关系解冻的局面 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi1gFBVV95cUxPWmEtVnNianM4czNLTFZwX2RrSGNmN0Jncm9OX2RoTEMzQnBIRXgyUXZGSjBqZDFyMkZ2cnFqNUttQzlFZ25GMXhHNnZnU3NCVDc4ZGpSZ0ItTE1Tbmw1UGxBT0QzWTJNX25aTnh1ZS04bE5PMWk5UnNyaU5zY0ZsUC16QmZVaFFBNnZJT3N4Tm5zLU00SmRGX0oyclRzMmZlRnZET2I2bUNXc3BEYzB5U1I5TVp6aXAwSFZ2c0x6cGl4S3AwbHdicWpNNDNhSmtsenJIWUdn0gHWAUFVX3lxTE9ZbGdIY0pzUzIwVjFDLVNCZlJuaDNmQVVHc3JWdHl0akdsakhCaXBvdUJQM2NLOW42R214V0xwcWJSeXNEZGs1S1VyY1pEV3ZrVm0wcV96VGx3cUdHVHZUN0lmZG1zMGo2OXpmV3R6TUZMZzVxNDZUbXRVRXVHMWQ1Z1JxTzB2TUZxMzBTTUkzWDRiQmpSTXUxODN2cTN1X3p4TVdUZmNUV0lHazlTX0tWUXM5TXB5ZDFnbnhVSjF6ZjNuWk5OeVg2VE8xal9QeEZKa3JFbkE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-16T08:23:49.000Z",
+      "pub_sort_dt": "2026-11-16 16:23:49"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国总理在特朗普访华前称赞中东盟关系“非凡”",
+      "title_cn": "中国总理在特朗普访华前称赞中东盟关系“非凡”",
+      "url": "https://reut.rs/3Vwd1XQ",
+      "pub_raw": "2026-11-16T09:35:40.929Z",
+      "pub_sort_dt": "2026-11-16 17:35:40"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国押注于零碳工业园区",
+      "title_cn": "中国押注于零碳工业园区",
+      "url": "https://www.bloomberg.com/news/features/2026-11-16/china-bets-on-zero-carbon-industrial-parks",
+      "pub_raw": "2026-11-16T09:20:01.580Z",
+      "pub_sort_dt": "2026-11-16 17:20:01"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受科技股暴跌及中国经济增长疲软影响，铜价跌至四个月低点",
+      "title_cn": "受科技股暴跌及中国经济增长疲软影响，铜价跌至四个月低点",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/copper-sinks-to-four-month-low-on-tech-rout-china-growth-woes",
+      "pub_raw": "2026-11-16T09:20:01.562Z",
+      "pub_sort_dt": "2026-11-16 17:20:01"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国称习近平、普京、特朗普会晤具有“开创性意义”",
+      "title_cn": "中国称习近平、普京、特朗普会晤具有“开创性意义”",
+      "url": "https://reut.rs/3Xc5gH3",
+      "pub_raw": "2026-11-16T08:31:50.526Z",
+      "pub_sort_dt": "2026-11-16 16:31:50"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国人民银行回笼中期资金，向市场发出对宽松预期应保持警惕的信号",
+      "title_cn": "中国人民银行回笼中期资金，向市场发出对宽松预期应保持警惕的信号",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/pboc-withdraws-medium-term-funds-in-warning-sign-to-easing-bets",
+      "pub_raw": "2026-11-16T08:16:43.080Z",
+      "pub_sort_dt": "2026-11-16 16:16:43"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "深度解析：中国培养“AI原生一代”的行动内幕",
+      "title_cn": "深度解析：中国培养“AI原生一代”的行动内幕",
+      "url": "https://reut.rs/4sYxD7m",
+      "pub_raw": "2026-11-16T08:16:43.037Z",
+      "pub_sort_dt": "2026-11-16 16:16:43"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国经济表现令人失望，新一轮刺激措施尚未见效",
+      "title_cn": "中国经济表现令人失望，新一轮刺激措施尚未见效",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push",
+      "pub_raw": "2026-11-16T07:44:33.435Z",
+      "pub_sort_dt": "2026-11-16 15:44:33"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "美国盟友签署协议，旨在将中国排除在人工智能供应链之外",
+      "title_cn": "美国盟友签署协议，旨在将中国排除在人工智能供应链之外",
+      "url": "https://www.ft.com/content/00501acf-8cfc-483d-bbd6-154013e4ca4b?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-16T05:53:00.395Z",
+      "pub_sort_dt": "2026-11-16 13:53:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "高盛称，中国在铁矿石市场上的影响力可能使澳大利亚矿企损失80亿美元",
+      "title_cn": "高盛称，中国在铁矿石市场上的影响力可能使澳大利亚矿企损失80亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-iron-ore-clout-may-cost-australian-miners-8-billion-goldman-says",
+      "pub_raw": "2026-11-16T04:48:42.948Z",
+      "pub_sort_dt": "2026-11-16 12:48:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受钢铁行业前景疲软影响，中国铁矿石期货跌至四年低点",
+      "title_cn": "受钢铁行业前景疲软影响，中国铁矿石期货跌至四年低点",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-iron-ore-futures-hit-four-year-low-on-weak-steel-outlook",
+      "pub_raw": "2026-11-16T04:48:42.944Z",
+      "pub_sort_dt": "2026-11-16 12:48:42"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "哎呀，我可能正和一名中国间谍上床呢",
+      "title_cn": "哎呀，我可能正和一名中国间谍上床呢",
+      "url": "https://www.ft.com/content/c21130ff-f8bf-45dc-bea7-1a38b53ab4b2",
+      "pub_raw": "2026-11-16T04:16:51.639Z",
+      "pub_sort_dt": "2026-11-16 12:16:51"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "10月份中国经济活动放缓幅度超出预期",
+      "title_cn": "10月份中国经济活动放缓幅度超出预期",
+      "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-16T03:44:42.631Z",
+      "pub_sort_dt": "2026-11-16 11:44:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受绿色能源热潮推动，中国化石燃料发电量或将出现年度下滑",
+      "title_cn": "受绿色能源热潮推动，中国化石燃料发电量或将出现年度下滑",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-fossil-fuel-power-tips-toward-annual-drop-on-green-boom",
+      "pub_raw": "2026-11-16T03:28:42.616Z",
+      "pub_sort_dt": "2026-11-16 11:28:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国铝产量虽有下降，但仍有望创下历史新高",
+      "title_cn": "中国铝产量虽有下降，但仍有望创下历史新高",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-aluminum-output-drops-but-still-on-course-for-record",
+      "pub_raw": "2026-11-16T02:40:38.556Z",
+      "pub_sort_dt": "2026-11-16 10:40:38"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_en": "中国挖走了这位哈佛顶尖教授。现在，他希望其他人也能加入他的行列。",
+      "title_cn": "中国挖走了这位哈佛顶尖教授。现在，他希望其他人也能加入他的行列。",
+      "url": "https://on.wsj.com/3XrZhxQ",
+      "pub_raw": "2026-11-16T02:40:38.502Z",
+      "pub_sort_dt": "2026-11-16 10:40:38"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "尽管近期推出了新一轮刺激措施，中国房价跌势仍在持续",
+      "title_cn": "尽管近期推出了新一轮刺激措施，中国房价跌势仍在持续",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-home-price-slump-drags-on-despite-latest-stimulus-push",
+      "pub_raw": "2026-11-16T02:24:49.907Z",
+      "pub_sort_dt": "2026-11-16 10:24:49"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "澳大利亚警告称，中国推动铁矿石进口可能违反贸易规则",
+      "title_cn": "澳大利亚警告称，中国推动铁矿石进口可能违反贸易规则",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/australia-warns-china-iron-ore-push-could-breach-trade-rules",
+      "pub_raw": "2026-11-16T00:02:28.931Z",
+      "pub_sort_dt": "2026-11-16 08:02:28"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "充满未来感的深圳让特朗普看到了遏制习近平领导下的中国所面临的困难",
+      "title_cn": "充满未来感的深圳让特朗普看到了遏制习近平领导下的中国所面临的困难",
+      "url": "https://www.bloomberg.com/news/features/2026-11-15/futuristic-shenzhen-shows-trump-the-difficulty-of-stopping-xi-jinping-s-china",
+      "pub_raw": "2026-11-15T23:13:58.486Z",
+      "pub_sort_dt": "2026-11-16 07:13:58"
     },
     {
       "source": "Bloomberg",
@@ -349,150 +493,6 @@
       "url": "https://reut.rs/3WIXy7c",
       "pub_raw": "2026-11-15T18:26:58.984Z",
       "pub_sort_dt": "2026-11-16 02:26:58"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "美国及其盟友签署协议，旨在保护人工智能供应链免受中国影响",
-      "title_cn": "美国及其盟友签署协议，旨在保护人工智能供应链免受中国影响",
-      "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-15T17:54:50.949Z",
-      "pub_sort_dt": "2026-11-16 01:54:50"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "美国食品药品监督管理局（FDA）驳回了一款中国研发的抗癌药，这对北京的生物技术行业来说是一个打击",
-      "title_cn": "美国食品药品监督管理局（FDA）驳回了一款中国研发的抗癌药，这对北京的生物技术行业来说是一个打击",
-      "url": "https://www.ft.com/content/390948a3-429c-410a-b5fe-54cc5a380b99?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-15T17:38:42.036Z",
-      "pub_sort_dt": "2026-11-16 01:38:42"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国驻伦敦“巨型”大使馆周边的居民难以出售公寓",
-      "title_cn": "中国驻伦敦“巨型”大使馆周边的居民难以出售公寓",
-      "url": "https://www.ft.com/content/38f869f7-2523-4f4f-b1ea-9e0b2ced8c74?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-15T17:38:41.989Z",
-      "pub_sort_dt": "2026-11-16 01:38:41"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "香港开发商新世界宣布32亿美元配股计划",
-      "title_cn": "香港开发商新世界宣布32亿美元配股计划",
-      "url": "https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-15T15:48:51.170Z",
-      "pub_sort_dt": "2026-11-15 23:48:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国食品药品监督管理局（FDA）驳回了Summit公司一款源自中国的肺癌药物",
-      "title_cn": "美国食品药品监督管理局（FDA）驳回了Summit公司一款源自中国的肺癌药物",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-15/us-fda-rejects-summit-s-china-originated-lung-cancer-drug",
-      "pub_raw": "2026-11-15T14:44:42.504Z",
-      "pub_sort_dt": "2026-11-15 22:44:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "在与习近平会谈前夕，特朗普推动的矿产计划尚未动摇中国的掌控地位",
-      "title_cn": "在与习近平会谈前夕，特朗普推动的矿产计划尚未动摇中国的掌控地位",
-      "url": "https://reut.rs/4zml2wu",
-      "pub_raw": "2026-11-15T13:56:56.786Z",
-      "pub_sort_dt": "2026-11-15 21:56:56"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "菲律宾与中国在南海问题上的分歧加剧",
-      "title_cn": "菲律宾与中国在南海问题上的分歧加剧",
-      "url": "https://reut.rs/4iSJ7oh",
-      "pub_raw": "2026-11-15T10:45:40.111Z",
-      "pub_sort_dt": "2026-11-15 18:45:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国对台湾的支持显得令人担忧地脆弱",
-      "title_cn": "美国对台湾的支持显得令人担忧地脆弱",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-11-15/american-support-for-taiwan-looks-alarmingly-fragile",
-      "pub_raw": "2026-11-15T07:17:41.408Z",
-      "pub_sort_dt": "2026-11-15 15:17:41"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国眼中的世界",
-      "title_cn": "中国眼中的世界",
-      "url": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-15T03:20:56.164Z",
-      "pub_sort_dt": "2026-11-15 11:20:56"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "黄仁勋是如何开辟一条“后门”通道，让北京得以继续参与人工智能竞赛的。",
-      "title_cn": "黄仁勋是如何开辟一条“后门”通道，让北京得以继续参与人工智能竞赛的。",
-      "url": "https://on.wsj.com/4kAJEht",
-      "pub_raw": "2026-11-15T02:48:40.164Z",
-      "pub_sort_dt": "2026-11-15 10:48:40"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美仕、瑞幸、Heytea 俘获了痴迷中国文化的美国青少年",
-      "title_cn": "美仕、瑞幸、Heytea 俘获了痴迷中国文化的美国青少年",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/mixue-luckin-heytea-win-over-chinamaxxing-american-teens",
-      "pub_raw": "2026-11-14T12:13:43.392Z",
-      "pub_sort_dt": "2026-11-14 20:13:43"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "美国和欧洲首席执行官在中国经商时最感意外的是什么",
-      "title_cn": "美国和欧洲首席执行官在中国经商时最感意外的是什么",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/what-surprises-us-european-ceos-most-about-doing-business-in-china",
-      "pub_raw": "2026-11-14T12:13:43.388Z",
-      "pub_sort_dt": "2026-11-14 20:13:43"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "韩国外长表示，韩国不应惧怕中国的崛起",
-      "title_cn": "韩国外长表示，韩国不应惧怕中国的崛起",
-      "url": "https://reut.rs/4zMBLu0",
-      "pub_raw": "2026-11-14T10:32:48.476Z",
-      "pub_sort_dt": "2026-11-14 18:32:48"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国那些遭重挫的科技股，或许能以相对平稳的方式布局人工智能",
-      "title_cn": "中国那些遭重挫的科技股，或许能以相对平稳的方式布局人工智能",
-      "url": "https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-14T10:32:48.282Z",
-      "pub_sort_dt": "2026-11-14 18:32:48"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "独家报道 特朗普的强力盟友协助了一家中国电子烟企业",
-      "title_cn": "独家报道 特朗普的强力盟友协助了一家中国电子烟企业",
-      "url": "https://on.wsj.com/4zSgGhS",
-      "pub_raw": "2026-11-14T10:32:46.159Z",
-      "pub_sort_dt": "2026-11-14 18:32:46"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_en": "英伟达事件背后隐藏着庞大的中国间谍网络",
-      "title_cn": "英伟达事件背后隐藏着庞大的中国间谍网络",
-      "url": "https://on.wsj.com/48Z88tn",
-      "pub_raw": "2026-11-14T10:32:46.155Z",
-      "pub_sort_dt": "2026-11-14 18:32:46"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "我们所了解的中国女企业家黄爱丽丝",
-      "title_cn": "我们所了解的中国女企业家黄爱丽丝",
-      "url": "https://reut.rs/4iHhsrJ",
-      "pub_raw": "2026-11-14T01:35:41.331Z",
-      "pub_sort_dt": "2026-11-14 09:35:41"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家报道：消息人士称，英伟达前首席执行官就其与中国女商人的婚外情一事误导了公司首席律师",
-      "title_cn": "独家报道：消息人士称，英伟达前首席执行官就其与中国女商人的婚外情一事误导了公司首席律师",
-      "url": "https://reut.rs/4C8cpZc",
-      "pub_raw": "2026-11-14T00:48:41.902Z",
-      "pub_sort_dt": "2026-11-14 08:48:41"
     }
   ]
 }
