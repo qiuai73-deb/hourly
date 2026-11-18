@@ -1,104 +1,224 @@
 {
-  "update_cst": "2026-11-18 18:01:17 北京时间",
+  "update_cst": "2026-11-19 06:01:13 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
-    "The Economist": 0,
-    "Bloomberg": 7,
-    "Financial Times": 2,
+    "The Economist": 1,
+    "Bloomberg": 9,
+    "Financial Times": 0,
     "Wall Street Journal": 0,
-    "Reuters": 11
+    "Reuters": 10
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "特朗普试图向中国展示强硬姿态，但一系列技术失误却引发了国内的担忧 - The Boston Globe",
-      "title_cn": "特朗普试图向中国展示强硬姿态，但一系列技术逆转却引发了国内的担忧 - 波士顿环球报",
-      "url": "https://news.google.com/read/CBMib0FVX3lxTE9SQWo1bUplZGVRa2RMRDdFcE9nNjlaMlNIczNOcTVtMnIxTTFVYmhJemxYU2ZjbUtCUHdQa2FLVGNTSk9xZGo5bFg2cFk2ZVZEdG1PeTFyWGRxQXZHYTJlMlA0QktMVmZyclB5Y1hybw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T09:45:00.000Z",
-      "pub_sort_dt": "2026-11-18 17:45:00"
+      "title_en": "美国官员警告称，来自华盛顿“对手”的威胁日益加剧 - Radio Free Europe/Radio Liberty",
+      "title_cn": "美国官员警告称，来自华盛顿“对手”的威胁日益加剧 - Radio Free Europe/Radio Liberty",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOWVp0aUxOREJRRU1Wekd2RVJEN21QOFI4dkx5ZzZOQzhFT2VPMUJMeVZiZUEyaXBRSmpPbHRmYmRSQjh6UDE3V1dkbTB0VkJRUm1BWUp4Qm5fbGcyQ2NRdTRzZGNpWk5aYUhqYzkwVmdoVDRYWDMzaUkwRlNtb3R0OE9jU0zSAYcBQVVfeXFMUFdqT1VEWXZrcVVLcFRJVHhSYWZkaUFqMF9uYjBwZnR2V3U5WHAzRFpwTFNBQUh3blRjaTFPNFJMTmUxc3lueDc4ZUxKMXYzYVhBaExWM1doc18zVVJ2NWhtNzhHcmJnakU1enhuZkVSU29BeTZYcWxrV0pEVkZVYldFMmtodjhN?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T21:07:49.000Z",
+      "pub_sort_dt": "2026-11-19 05:07:49"
     },
     {
       "source": "China Buzzing",
-      "title_en": "全文：中国国家主席习近平在2026年亚太经合组织（APEC）首席执行官峰会上发表的主旨演讲 - CCTV.com English",
-      "title_cn": "全文：中国国家主席习近平在2026年亚太经合组织（APEC）峰会上发表主旨演讲 - CCTV.com",
-      "url": "https://news.google.com/read/CBMifEFVX3lxTFBVTWJEcG9EQU1KSC1ONGdtbTVfOEJQR0RJbmw0SlhlQ2hnYjZ0WW9kX0N4V0pxdnZXTzhoY3AwbWgybnRPOHNpb3JnZkRwU01CN0ZodEZPMEVFb0JsRFVyeVVFZVR0UHZROTZRazZjRmtHT2J3UUVMZGlMV0o?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T09:20:11.000Z",
-      "pub_sort_dt": "2026-11-18 17:20:11"
+      "title_en": "A2 Milk在中国市场的婴幼儿配方奶粉销量正缓慢回升 - Finimize",
+      "title_cn": "A2 Milk在中国市场的婴幼儿配方奶粉销量正缓慢回升 - Finimize",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxOaG5SMjB4MGJhbHFJMVh4SkNGMWFzU0ZjRVFUQ1JZb01YSkxtb3ppRndfY29rMlFxR2dJcDVDWlVhNERfMll1X21VbEI4Rnptb3JxZWIwMW8wa2M0NjcxaEhZM1dHbEU4Z3dDeFFzQ0o3QWh2Nk81TmRqSzJQa3hjTDBra2RvZW5acG1uakVn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T21:02:11.000Z",
+      "pub_sort_dt": "2026-11-19 05:02:11"
     },
     {
       "source": "China Buzzing",
-      "title_en": "1月至10月，中国与其他亚太经合组织（APEC）成员经济体的贸易额猛增25.4% - chinadailyhk",
-      "title_cn": "1月至10月，中国与其他亚太经合组织（APEC）成员经济体贸易额猛增25.4% - 中国日报网",
-      "url": "https://news.google.com/read/CBMiWEFVX3lxTE5SYU1JWWVwdWI3ZkRlQ1psdUVRakFlNkRDZTctT0hSRFJ1X2V3OWlDRXB5bjMzRV9FSHB1aVFkV1BfcWl1TlItRnIwRzVhclhfeTMwZ0RDUkc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T09:19:15.000Z",
-      "pub_sort_dt": "2026-11-18 17:19:15"
+      "title_en": "耐克正在重新审视其在中国市场的销售策略。以下是具体变化： - USA Today",
+      "title_cn": "耐克正在重新审视其在中国市场的销售策略。以下是具体变化： - USA Today",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxOb2o3ZEpMRTNvTzcwcmVGamFVd0tPR0QyQ3NjRHFaTGNYcE14NS1KWE0wbXdGczIza19SUHluOTBIQXVlQWVpOG5XcDM0d0tlb3NOcDNNZlNrZVBwX1l1ZUZsd2xaNDhUVGxlNGlmRDJ0UldYb3k4MG4zZkRaZE9FaE92czBoMm0ycmp0dlBWY3U?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T20:42:00.000Z",
+      "pub_sort_dt": "2026-11-19 04:42:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "GlobalData：至2030年，中国将引领全球聚丙烯产能增长 - Hydrocarbon Engineering",
-      "title_cn": "GlobalData：至2030年，中国将引领全球煤炭产能增长 - Hydrocarbon Engineering",
-      "url": "https://news.google.com/read/CBMi1AFBVV95cUxPSXdBS3JIakRVV3BhVHhKMmx4ZGFRU0FsaGZfYTdsSmo2V2o5SHJnNW5ILVhsSWpmSXg4NWR1VkpYQlhucm9wc0JhQTl1bmNfOXJQM1dVTm1ld0FDajBTLUFkTlhlQ3hWMUJZcnFlaFRLcExQbHlwRUtUSFpQblZrbEFqcWhON3VpdFBvd3VOcWtTVGF4MnItRk1UakRyZG1JV2MzMkc4c0lITUVCOFRkbUNpS3JsV0d6VUY3dHJIbV9Sd1pveklTbmRwUjBTYjFUWGpFVw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T09:10:38.000Z",
-      "pub_sort_dt": "2026-11-18 17:10:38"
+      "title_en": "美国众议院一个委员会要求微软就据称与中国的字节跳动就人工智能交易进行的谈判进行简报 - Reuters",
+      "title_cn": "美国众议院一个委员会要求微软就据称与中国的字节跳动就人工智能交易进行的谈判进行简报 - Reuters",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxNdEpRTFc4Q3Nsa085U2xoZldyY1BXSmlhSy0yT00tRzF4eU5QekdiUENlSTQyajA0eU5PVWl0MUpoejlXdXJMVVFPbHRVaGFlZmxoWFA5SHN5VXBpWHJvLUFLMjZISk96bVRuWWs0V3NSblpmWTM3VVZNQ3VHQVNpQTNUOFM5VzdwZ0ZOcHlFX3hmcEJ5ZDhRVXlCS0dCZEwxbXZ3Z09zVjB4N1FGMHo4Qkc4WWEwTG5LdHNWbk14NA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T20:27:29.000Z",
+      "pub_sort_dt": "2026-11-19 04:27:29"
     },
     {
       "source": "China Buzzing",
-      "title_en": "卡尼表示，加拿大与中国的贸易关系日益密切，这并非特朗普的首要关切 - U.S. News & World Report",
-      "title_cn": "卡尼表示，加拿大与中国的贸易关系紧张，这并非特朗普的担忧 - 美国新闻与世界报道",
-      "url": "https://news.google.com/read/CBMi1AFBVV95cUxQNllNbE9iM2MwUFZ5RHFSbldROGI5YTFPS0pGQTdXeVhXTWdZekVjMDdHN05BTlN0Wkw4eWF2eUJpeUw0X19XanM3WFNmOFdYVzV4VjJOZ1NPWGJVd1pCOXNyRlZrUVlVZ08yLW1Qbm80WlI4ZHRweW9WWHB4bVVoQ2FOZHZSZnV5X0RGUnA2ODRwN0xTX2poQkdUek52NnRreFk5dEhYN0lCcUJkMnB6VFQwdk05X2E2VnBNbEd4eHJQUnRPRE95U1ZaRWhmYmxlU3pCeQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T09:08:00.000Z",
-      "pub_sort_dt": "2026-11-18 17:08:00"
+      "title_en": "美国和中国正试图改变双方的经济协议 - Foreign Policy",
+      "title_cn": "美国和中国正试图改变双方的经济协议 - Foreign Policy",
+      "url": "https://news.google.com/read/CBMigwFBVV95cUxOaUdxakh5RDN1cTBXdG02SnZ6MDN0Zk5TdU5oVlMxX1JJRGxwMnowTGhBVm1HM0VYVmdYVFFqQWpLTWZyRTZQYk1SNVZzWUh4MjFvWjNOWXh6NHVSbUFWczZ0QmdDMGh1NVZzaWNtM0JQdVFuWnFhZGF4cEU4ZlhCbXR5SQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T20:24:10.000Z",
+      "pub_sort_dt": "2026-11-19 04:24:10"
     },
     {
       "source": "China Buzzing",
-      "title_en": "唐纳德·特朗普抵达中国，即将与普京和习近平举行峰会 - Financial Times",
-      "title_cn": "唐纳德·特朗普即将与习近平和习近平举行峰会 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNMDBFWUtRcU9fdVhpZS13SDZ0aGR1QnpBM00xVXlHeFQ5ZUQyNWhoV1BMcF82V0taOUhiYWZEWkVndlk0Z0tZU2IwMnh0UlI0aERSUU1OX3k1ODRneG1ib3l4aVBKXzY3ckdHS0N5MVpaX2tQV1k4bFpIWVMxcm14VUZkcmk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T09:01:25.000Z",
-      "pub_sort_dt": "2026-11-18 17:01:25"
+      "title_en": "在人工智能引发紧张局势之际，特朗普和习近平即将在中国会晤。以下是您需要了解的情况。 - CBS News",
+      "title_cn": "在人工智能引发紧张局势之际，特朗普和习近平即将在中国会晤。以下是您需要了解的情况。 - CBS News",
+      "url": "https://news.google.com/read/CBMiakFVX3lxTE1iWVRuaHFYdDlCZDJENzhBUW9mOXNRb012RDd1VlVzSXhjRUtqQzRpNFN6VGgteE1KVDNNNG42OG5IaTRXRkdBajlNVldxUXZJWXF2c0U2Wi1tb1hHcUoydTlTM3N2NTZXRnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T20:22:00.000Z",
+      "pub_sort_dt": "2026-11-19 04:22:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "突发新闻：特朗普抵达中国深圳，参加亚太经合组织（APEC）会议，并将与习近平、普京举行峰会 - Japan Wire by Kyodo News",
-      "title_cn": "突发新闻：特朗普总统中国深圳，参加亚太经合组织（APEC）会议，并与习近平、第八次峰会 - Japan Wire by Kyodo News",
-      "url": "https://news.google.com/read/CBMiWkFVX3lxTFAyZkJPY3NvVGdsWE5scGF0MUlJQUdfd3NkeEFiTUlyeVU0a0pLeXQyS3E5WlZ2R1k2SHNqM0I5WHNGLWdVWUJzN0RzVXlJRzV4WlRNNWhuNWc2Zw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T08:55:53.000Z",
-      "pub_sort_dt": "2026-11-18 16:55:53"
+      "title_en": "卡尼表示，加拿大与中国的贸易关系日益密切，这并非特朗普最关心的问题 - WCAX",
+      "title_cn": "卡尼表示，加拿大与中国的贸易关系日益密切，这并非特朗普最关心的问题 - WCAX",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxOeTF1cmJQZ2lHcG44aXE2SGh4M3BaTlYyenJNU2pJa2RxYVlJRUlKUE5QbFhoWW81SlhxRnJ4cmFqX1AtMEdPYzRGVnMzaUdzM1BVdVdlT2tQbVlfb0k5eGJtdFhNaWVxMHZNVmc5WEN4anR3RVcwZ1Q4czM5S2I0MjY0M1o5SURaTjU4c1R3REZia0hDUTJhN2UwNHNnMlU0WG12aWtvaEhmbXZm?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T20:18:00.000Z",
+      "pub_sort_dt": "2026-11-19 04:18:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普抵达中国，准备于周四与美国的对手——俄罗斯总统普京和中国国家主席习近平——举行历史性的三方会晤 - KTVN",
-      "title_cn": "特朗普总统中国，准备于周四与美国的对手——俄罗斯总统普京和中国国家主席习近平——举行历史性的三方会晤 - KTVN",
-      "url": "https://news.google.com/read/CBMiiAJBVV95cUxORS1OZUx1VXQ4ckd0TEhZTXRHTmRVQkpHSUVnTVA4Z2luM3dNVzJTSTItTlhfcElUOVpTTUZpR3cxc0E1emh1ak0yNFIxM0k0bzRZMHRIS2t0Mms5Z3RMcHBjZGU2cWdDYzJPOXN0MTdPWWFjZWFsUFp0T1ZKcG42SzFFTGpUcjlsUnBCeVVDbnR6V0RPMENNYWl3RnQ3dUZoWmlWR29mZGduV0pTWHEyNFBIRXZUSVdBaUwteHhWVEJtUE14TzdxSm5xeVFLSWZSNjg1SVg1blp4ZTNXMTYwRnF0TE1ldE5rNTR3WVV4Q2hPdVBIc0kwSGRaTG9nM29raG9ocTBiMm0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T08:46:18.000Z",
-      "pub_sort_dt": "2026-11-18 16:46:18"
+      "title_en": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场可能带来的挑战做准备 - Sacramento Bee",
+      "title_cn": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场可能带来的挑战做准备 - Sacramento Bee",
+      "url": "https://news.google.com/read/CBMiakFVX3lxTE93LTVGbTYyYnZNZEFpaXRBRlFYS3lOZjd3dUFfRWdSUXppV1hNOXljY0hhMWpQbG9TQUFFQ1BnTEtTVi1xTHRyMG1FQjB6MGYzY3pybFNscG8wUEZtQ1JkbkY1RmI4eE5uOHc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T20:02:08.000Z",
+      "pub_sort_dt": "2026-11-19 04:02:08"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普抵达中国，将与习近平、普京举行历史性会晤 - CNBC",
-      "title_cn": "特朗普中国，将与习近平、习近平举行历史性会晤 - CNBC",
-      "url": "https://news.google.com/read/CBMib0FVX3lxTE9IeDZBMG0tbFVVVEloVDFOLWF0dXJmYXRDenMyZ2RYODQ5aTdGV0M2eHo4S3RaRVRzWmRSUUxGVXF2TV9VM3NPZFhUS292WGVEQ08zX3dZeDdCUnN4Mno1clcwV1RrbU83QWEtODR5UdIBdEFVX3lxTFBPc2VUaUhhbjdQWHZhX0J6VFNQdmZDTlNTNlZBZDREZlEzMjZWbFFOdDRWbnY1RkNidHFrY1p1RGJMSmxPQ1BFd0dTNEVXZmlKajVDVDhkU0N5SnFBVUlSV2o0VXRKdkNDT08zUGlMMmg5TkZf?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T08:45:33.000Z",
-      "pub_sort_dt": "2026-11-18 16:45:33"
+      "title_en": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场的潜在挑战做准备 - US News Money",
+      "title_cn": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场的潜在挑战做准备 - US News Money",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxOeG9ZM2g5TWVKYjBxZkl2cl9HM3I1ZC1yUldCa3Y0SDV3c1dvQVlsQWZ5dG9NSWVvSmItOG5SM0FSb1RILV9CdkRHekNGSnJnb1NXZ3htN3N4eGdaaDBHT3dUWWYwLWN3Vmt6TUxWTk94bE1rTlpyNHJrUHREM0dCdlRUZDJRRXR1S3pUQXVPX2NoYTlIU0liQ2JTQ0FfU0hPZ3JCbC1NRTFnZXE4SzZHQWhGSGtRa0lUQ0p0MEZiaw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T19:48:29.000Z",
+      "pub_sort_dt": "2026-11-19 03:48:29"
     },
     {
       "source": "China Buzzing",
-      "title_en": "习近平呼吁韩国与中国在人工智能和供应链领域开展合作 - South China Morning Post",
-      "title_cn": "习近平呼吁韩国与中国在人工智能和供应链领域开展合作 - 南华早报",
-      "url": "https://news.google.com/read/CBMiwAFBVV95cUxPOGFvTkVLV1RVM1ctNmltc0oya1F5NTd0R0VMTDRLbVRzUFg1Rmk2V3lKNjJyc0ZRNkdiYmVFNjV2OFJFekl4c2NhTzZtSWVHS2NMTzJLcW04SkFSeE1VTE5feW84MnloX1VJV1ZBWHBNOGdEVG5aaEpPeVRtZGZ0X3lOYUZLUzhUMmRMeWgxSDJWTnVMY1hfVmFJTkRFUFUwMXpMU3hETE8zYXladDBVY29pWElCSzFjVlh5X2w2OUjSAcABQVVfeXFMTnViOTBDMGptTFdPOWxFTzdtSTItWG9FWGZFVGRSRzAzd010OFEzYXNaaWNUR21FQkRXQWwwMy1NQV92dFk2NnlYOElSUHFVU0xoMjVvc21wQVg5VTdXZkRLekl6UmZfZ0NyaDlaZjZaREpGWjVhWDk2LURaOHI3Q2x0bkRVUzZTSHRYcnhQdEtyTmloMnRnZWxUVUxLMGZVRkVOMEV2WXFkQW5nQWlxWVVuLTdoZ2txYVFraURZTFhL?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T08:42:47.000Z",
-      "pub_sort_dt": "2026-11-18 16:42:47"
+      "title_en": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场可能带来的挑战做准备 - Reuters",
+      "title_cn": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场可能带来的挑战做准备 - Reuters",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxPb1FtX25paV9WSXNwNmp2b3p5WGg4MW5kTmhUZUo5UVlwaUh1NWd4WDlWTGQ0M1VRSm5zSTdjY1ktVW56dGhqR0NQSGZmWVR1TkRubldxRHoyVnUxRlNaVWRlTUwwdDRFTXBoeGdsZUJRLXVQYXRmdnZtdmdSak9EZkdBMzZoZ1VFdHh2b1c1SnBwTmVEMDFBcWpoWkxRWHlkaVh4TTZvMG03YjNUelY3bldHUl9DT0VTbnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T19:41:58.000Z",
+      "pub_sort_dt": "2026-11-19 03:41:58"
     }
   ],
   "media_news": [
     {
+      "source": "Reuters",
+      "title_en": "美国众议院一个委员会要求微软就其据称与中国字节跳动就人工智能达成交易的谈判一事进行简报",
+      "title_cn": "美国众议院一个委员会要求微软就其据称与中国字节跳动就人工智能达成交易的谈判一事进行简报",
+      "url": "https://reut.rs/4t5N4uu",
+      "pub_raw": "2026-11-18T21:03:49.384Z",
+      "pub_sort_dt": "2026-11-19 05:03:49"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场可能带来的挑战做准备",
+      "title_cn": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场可能带来的挑战做准备",
+      "url": "https://reut.rs/4iZg2YC",
+      "pub_raw": "2026-11-18T20:47:44.085Z",
+      "pub_sort_dt": "2026-11-19 04:47:44"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "美国必须认真对待中国在芯片领域的间谍活动",
+      "title_cn": "美国必须认真对待中国在芯片领域的间谍活动",
+      "url": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
+      "pub_raw": "2026-11-18T20:16:06.276Z",
+      "pub_sort_dt": "2026-11-19 04:16:06"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "古人类物种直立人（Homo erectus）在中国雨林中游刃有余",
+      "title_cn": "古人类物种直立人（Homo erectus）在中国雨林中游刃有余",
+      "url": "https://reut.rs/48mdSNP",
+      "pub_raw": "2026-11-18T16:49:01.657Z",
+      "pub_sort_dt": "2026-11-19 00:49:01"
+    },
+    {
       "source": "Bloomberg",
-      "title_en": "中国国家主席习近平在深圳机场迎接特朗普，此举实属罕见",
-      "title_cn": "中国国家主席习近平在深圳机场迎接特朗普，布拉格实属罕见",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/china-s-xi-greets-trump-at-airport-in-shenzhen-in-rare-move",
-      "pub_raw": "2026-11-18T09:40:52.438Z",
-      "pub_sort_dt": "2026-11-18 17:40:52"
+      "title_en": "耐克押注板球运动，力争将印度销售额提升至三倍，而中国市场则表现疲软",
+      "title_cn": "耐克押注板球运动，力争将印度销售额提升至三倍，而中国市场则表现疲软",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/nike-bets-on-cricket-to-triple-india-sales-as-china-sputters",
+      "pub_raw": "2026-11-18T15:45:43.559Z",
+      "pub_sort_dt": "2026-11-18 23:45:43"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普、普京计划周四在中国分别举行会晤",
+      "title_cn": "特朗普、普京计划周四在中国分别举行会晤",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-putin-plan-to-hold-separate-meeting-thursday-in-china",
+      "pub_raw": "2026-11-18T15:45:43.556Z",
+      "pub_sort_dt": "2026-11-18 23:45:43"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "腾讯利润承压凸显中国人工智能投入的困境",
+      "title_cn": "腾讯利润承压凸显中国人工智能投入的困境",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/tencent-s-sales-miss-estimates-in-setback-for-founder-s-ai-push",
+      "pub_raw": "2026-11-18T13:54:00.854Z",
+      "pub_sort_dt": "2026-11-18 21:54:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "腾讯称，美国对芯片的限制将在短期内放缓中国人工智能的发展",
+      "title_cn": "腾讯称，美国对芯片的限制将在短期内放缓中国人工智能的发展",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/tencent-says-us-chip-curbs-to-slow-chinese-ai-in-the-short-run",
+      "pub_raw": "2026-11-18T13:39:02.282Z",
+      "pub_sort_dt": "2026-11-18 21:39:02"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "播客：英伟达冷落黄仁勋、中国AI以及《GTA VI》",
+      "title_cn": "播客：英伟达冷落黄仁勋、中国AI以及《GTA VI》",
+      "url": "https://reut.rs/3VsIavn",
+      "pub_raw": "2026-11-18T13:22:55.349Z",
+      "pub_sort_dt": "2026-11-18 21:22:55"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "联合国机构称，2025年全球专利申请量创下历史新高，中国是推动增长的主要动力",
+      "title_cn": "联合国机构称，2025年全球专利申请量创下历史新高，中国是推动增长的主要动力",
+      "url": "https://reut.rs/4zOGlI5",
+      "pub_raw": "2026-11-18T13:22:55.345Z",
+      "pub_sort_dt": "2026-11-18 21:22:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "卡尼与习近平达成协议后，在中国会见了特朗普",
+      "title_cn": "卡尼与习近平达成协议后，在中国会见了特朗普",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/carney-says-he-ll-meet-with-trump-later-today-in-shenzhen",
+      "pub_raw": "2026-11-18T13:07:14.217Z",
+      "pub_sort_dt": "2026-11-18 21:07:14"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "报道称，尽管面临美国限制，中国仍在寻求用于人工智能武器的先进英伟达芯片",
+      "title_cn": "报道称，尽管面临美国限制，中国仍在寻求用于人工智能武器的先进英伟达芯片",
+      "url": "https://reut.rs/4eKyC5o",
+      "pub_raw": "2026-11-18T13:07:14.190Z",
+      "pub_sort_dt": "2026-11-18 21:07:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国机器人的进步为人工智能提供了更多以硬件为导向的发展路径",
+      "title_cn": "中国机器人的进步为人工智能提供了更多以硬件为导向的发展路径",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/china-robot-advances-offer-more-hardware-forward-path-for-ai",
+      "pub_raw": "2026-11-18T12:18:49.647Z",
+      "pub_sort_dt": "2026-11-18 20:18:49"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在中国举行的亚太经合组织（APEC）会议",
+      "title_cn": "在中国举行的亚太经合组织（APEC）会议",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/apec-talks-in-china",
+      "pub_raw": "2026-11-18T12:18:49.644Z",
+      "pub_sort_dt": "2026-11-18 20:18:49"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国央行将测试私营信贷市场如何加剧冲击",
+      "title_cn": "中国央行将测试私营信贷市场如何加剧冲击",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/boe-to-test-how-private-credit-market-could-amplify-shocks",
+      "pub_raw": "2026-11-18T12:03:27.526Z",
+      "pub_sort_dt": "2026-11-18 20:03:27"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "独家报道：特朗普政府正考虑强制美国企业披露其人工智能技术在中国的应用情况",
+      "title_cn": "独家报道：特朗普政府正考虑强制美国企业披露其人工智能技术在中国的应用情况",
+      "url": "https://reut.rs/4t87K55",
+      "pub_raw": "2026-11-18T11:46:50.120Z",
+      "pub_sort_dt": "2026-11-18 19:46:50"
     },
     {
       "source": "Reuters",
@@ -111,23 +231,15 @@
     {
       "source": "Bloomberg",
       "title_en": "墨西哥领导人因乘坐21小时的经济舱航班在中国引发热议",
-      "title_cn": "墨西哥领导人因乘坐21小时经济舱航班在中国引发热议",
+      "title_cn": "墨西哥领导人因乘坐21小时的经济舱航班在中国引发热议",
       "url": "https://www.bloomberg.com/news/articles/2026-11-18/mexico-leader-goes-viral-in-china-for-flying-21-hours-in-economy",
       "pub_raw": "2026-11-18T09:25:39.246Z",
       "pub_sort_dt": "2026-11-18 17:25:39"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "卡尼在与习近平达成关税协议后，将在中国与特朗普会面",
-      "title_cn": "卡尼在与习近平达成关税协议后，将在中国与特朗普会面",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/carney-says-he-ll-meet-with-trump-later-today-in-shenzhen",
-      "pub_raw": "2026-11-18T09:09:43.029Z",
-      "pub_sort_dt": "2026-11-18 17:09:43"
-    },
-    {
       "source": "Reuters",
       "title_en": "直播：特朗普抵达中国参加亚太经合组织峰会",
-      "title_cn": "直播：特朗普特朗普中国参加亚太经合组织峰会",
+      "title_cn": "直播：特朗普抵达中国参加亚太经合组织峰会",
       "url": "https://www.youtube.com/live/Od0xcS2QrGs",
       "pub_raw": "2026-11-18T09:09:42.977Z",
       "pub_sort_dt": "2026-11-18 17:09:42"
@@ -135,212 +247,220 @@
     {
       "source": "Reuters",
       "title_en": "卡尼表示，加拿大正在调整与中国的关系，旨在与美国达成合适的协议",
-      "title_cn": "卡尼表示，加拿大正在调整与中国的关系，旨在与美国达成适当的协议",
+      "title_cn": "卡尼表示，加拿大正在调整与中国的关系，旨在与美国达成合适的协议",
       "url": "https://reut.rs/4khUaKf",
       "pub_raw": "2026-11-18T09:09:42.974Z",
       "pub_sort_dt": "2026-11-18 17:09:42"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "特朗普抵达中国，即将与普京和习近平举行峰会",
-      "title_cn": "特朗普中国，即将与习近平和习近平举行峰会",
-      "url": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-18T09:09:42.939Z",
-      "pub_sort_dt": "2026-11-18 17:09:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "尽管尚未获得销售许可，Rockstar仍在中国推广《GTA VI》",
-      "title_cn": "尽管尚未获得销售许可，Rockstar仍在中国推广《GTA VI》",
-      "url": "https://reut.rs/4j1pZor",
-      "pub_raw": "2026-11-18T08:53:45.527Z",
-      "pub_sort_dt": "2026-11-18 16:53:45"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国燃气与Venture Global签署为期20年的液化天然气协议，供气量翻倍",
-      "title_cn": "中国燃气与Venture Global签署20年的液化天然气协议，供气量翻倍",
-      "url": "https://reut.rs/4kYAjQo",
-      "pub_raw": "2026-11-18T08:22:53.849Z",
-      "pub_sort_dt": "2026-11-18 16:22:53"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾亚太经合组织（APEC）特使表示，他将在中国主办的峰会上与其他成员国代表进行交流",
-      "title_cn": "台湾亚太经合组织（APEC）特使表示，他将在中国主办的峰会上与其他世界代表进行交流",
-      "url": "https://reut.rs/4j4ry53",
-      "pub_raw": "2026-11-18T07:50:44.719Z",
-      "pub_sort_dt": "2026-11-18 15:50:44"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "耐克计划将其在中国销售的运动服装产品中，有一半由当地团队设计",
-      "title_cn": "耐克计划将其在中国销售的运动服装产品中，有一半由当地团队设计",
-      "url": "https://reut.rs/490m8mG",
-      "pub_raw": "2026-11-18T07:02:51.560Z",
-      "pub_sort_dt": "2026-11-18 15:02:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国收紧芯片监管漏洞，数十亿资金面临风险",
-      "title_cn": "中国收款紧芯片监管漏洞，募集亿资金面临风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/clampdown-on-china-chip-loophole-puts-billions-in-loans-at-risk",
-      "pub_raw": "2026-11-18T06:46:57.969Z",
-      "pub_sort_dt": "2026-11-18 14:46:57"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "加拿大部长表示，在关系停滞多年后，加拿大正寻求与中国在贸易领域重启合作",
-      "title_cn": "加拿大领导人表示，在关系消费多年后，加拿大正寻求与中国在贸易领域重启合作",
-      "url": "https://reut.rs/4t4gWr8",
-      "pub_raw": "2026-11-18T06:30:51.401Z",
-      "pub_sort_dt": "2026-11-18 14:30:51"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "韩国总统表示，韩国希望与中国合作，共同维护朝鲜半岛和平",
-      "title_cn": "韩国总统表示，韩国希望与中国合作，共同维护朝鲜半岛和平",
-      "url": "https://reut.rs/4CeBlhC",
-      "pub_raw": "2026-11-18T05:26:58.115Z",
-      "pub_sort_dt": "2026-11-18 13:26:58"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "探索湾仔——这里，旧时的香港依然魅力不减",
-      "title_cn": "探索湾仔——这里，旧时的香港依然魅力不减",
-      "url": "https://www.ft.com/content/a5e0e84d-a782-47e3-abcb-3dff1bf4e835",
-      "pub_raw": "2026-11-18T05:26:57.832Z",
-      "pub_sort_dt": "2026-11-18 13:26:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "韩国总统李某寻求中国支持，以实现朝鲜半岛和平",
-      "title_cn": "韩国总统李某寻求中国支持，以实现朝鲜半岛和平",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/south-korea-s-lee-seeks-china-support-for-peace-on-peninsula",
-      "pub_raw": "2026-11-18T05:10:48.073Z",
-      "pub_sort_dt": "2026-11-18 13:10:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：特朗普在马尼拉与中国举行会谈前会见马科斯",
-      "title_cn": "直播：特朗普在波兰与中国达成共识前会见马科斯",
-      "url": "https://www.youtube.com/watch?v=xS_0EFETurc",
-      "pub_raw": "2026-11-18T04:54:39.548Z",
-      "pub_sort_dt": "2026-11-18 12:54:39"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "亚瑟士加大对中国市场的布局力度，目标是将门店数量增加一倍以上",
-      "title_cn": "亚瑟士加大了对中国市场的布局力度，目标是港口数量增加一倍以上",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/asics-steps-up-china-push-with-goal-to-more-than-double-stores",
-      "pub_raw": "2026-11-18T04:22:41.079Z",
-      "pub_sort_dt": "2026-11-18 12:22:41"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国家主席习近平在亚太经合组织峰会上呼吁实现自由开放的贸易",
-      "title_cn": "中国国家主席习近平在亚太经合组织峰会上呼吁实现贸易自由开放",
-      "url": "https://reut.rs/4j4ruC9",
-      "pub_raw": "2026-11-18T03:50:46.305Z",
-      "pub_sort_dt": "2026-11-18 11:50:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普计划在中国访问期间会见墨西哥的谢恩鲍姆",
-      "title_cn": "特朗普计划在中国访问期间会见墨西哥的谢恩·鲍姆",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-plans-to-meet-mexico-s-sheinbaum-during-stop-in-china",
-      "pub_raw": "2026-11-18T03:02:57.639Z",
-      "pub_sort_dt": "2026-11-18 11:02:57"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "特朗普试图向中国展示强硬姿态，但一系列技术失误却引发了国内的担忧 - The Boston Globe",
-      "title_cn": "特朗普试图向中国展示强硬姿态，但一系列技术逆转却引发了国内的担忧 - 波士顿环球报",
-      "url": "https://news.google.com/read/CBMib0FVX3lxTE9SQWo1bUplZGVRa2RMRDdFcE9nNjlaMlNIczNOcTVtMnIxTTFVYmhJemxYU2ZjbUtCUHdQa2FLVGNTSk9xZGo5bFg2cFk2ZVZEdG1PeTFyWGRxQXZHYTJlMlA0QktMVmZyclB5Y1hybw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T09:45:00.000Z",
-      "pub_sort_dt": "2026-11-18 17:45:00"
+      "title_en": "美国官员警告称，来自华盛顿“对手”的威胁日益加剧 - Radio Free Europe/Radio Liberty",
+      "title_cn": "美国官员警告称，来自华盛顿“对手”的威胁日益加剧 - Radio Free Europe/Radio Liberty",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxOWVp0aUxOREJRRU1Wekd2RVJEN21QOFI4dkx5ZzZOQzhFT2VPMUJMeVZiZUEyaXBRSmpPbHRmYmRSQjh6UDE3V1dkbTB0VkJRUm1BWUp4Qm5fbGcyQ2NRdTRzZGNpWk5aYUhqYzkwVmdoVDRYWDMzaUkwRlNtb3R0OE9jU0zSAYcBQVVfeXFMUFdqT1VEWXZrcVVLcFRJVHhSYWZkaUFqMF9uYjBwZnR2V3U5WHAzRFpwTFNBQUh3blRjaTFPNFJMTmUxc3lueDc4ZUxKMXYzYVhBaExWM1doc18zVVJ2NWhtNzhHcmJnakU1enhuZkVSU29BeTZYcWxrV0pEVkZVYldFMmtodjhN?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T21:07:49.000Z",
+      "pub_sort_dt": "2026-11-19 05:07:49"
     },
     {
       "source": "China Buzzing",
-      "title_en": "全文：中国国家主席习近平在2026年亚太经合组织（APEC）首席执行官峰会上发表的主旨演讲 - CCTV.com English",
-      "title_cn": "全文：中国国家主席习近平在2026年亚太经合组织（APEC）峰会上发表主旨演讲 - CCTV.com",
-      "url": "https://news.google.com/read/CBMifEFVX3lxTFBVTWJEcG9EQU1KSC1ONGdtbTVfOEJQR0RJbmw0SlhlQ2hnYjZ0WW9kX0N4V0pxdnZXTzhoY3AwbWgybnRPOHNpb3JnZkRwU01CN0ZodEZPMEVFb0JsRFVyeVVFZVR0UHZROTZRazZjRmtHT2J3UUVMZGlMV0o?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T09:20:11.000Z",
-      "pub_sort_dt": "2026-11-18 17:20:11"
+      "title_en": "A2 Milk在中国市场的婴幼儿配方奶粉销量正缓慢回升 - Finimize",
+      "title_cn": "A2 Milk在中国市场的婴幼儿配方奶粉销量正缓慢回升 - Finimize",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxOaG5SMjB4MGJhbHFJMVh4SkNGMWFzU0ZjRVFUQ1JZb01YSkxtb3ppRndfY29rMlFxR2dJcDVDWlVhNERfMll1X21VbEI4Rnptb3JxZWIwMW8wa2M0NjcxaEhZM1dHbEU4Z3dDeFFzQ0o3QWh2Nk81TmRqSzJQa3hjTDBra2RvZW5acG1uakVn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T21:02:11.000Z",
+      "pub_sort_dt": "2026-11-19 05:02:11"
     },
     {
       "source": "China Buzzing",
-      "title_en": "1月至10月，中国与其他亚太经合组织（APEC）成员经济体的贸易额猛增25.4% - chinadailyhk",
-      "title_cn": "1月至10月，中国与其他亚太经合组织（APEC）成员经济体贸易额猛增25.4% - 中国日报网",
-      "url": "https://news.google.com/read/CBMiWEFVX3lxTE5SYU1JWWVwdWI3ZkRlQ1psdUVRakFlNkRDZTctT0hSRFJ1X2V3OWlDRXB5bjMzRV9FSHB1aVFkV1BfcWl1TlItRnIwRzVhclhfeTMwZ0RDUkc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T09:19:15.000Z",
-      "pub_sort_dt": "2026-11-18 17:19:15"
+      "title_en": "耐克正在重新审视其在中国市场的销售策略。以下是具体变化： - USA Today",
+      "title_cn": "耐克正在重新审视其在中国市场的销售策略。以下是具体变化： - USA Today",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxOb2o3ZEpMRTNvTzcwcmVGamFVd0tPR0QyQ3NjRHFaTGNYcE14NS1KWE0wbXdGczIza19SUHluOTBIQXVlQWVpOG5XcDM0d0tlb3NOcDNNZlNrZVBwX1l1ZUZsd2xaNDhUVGxlNGlmRDJ0UldYb3k4MG4zZkRaZE9FaE92czBoMm0ycmp0dlBWY3U?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T20:42:00.000Z",
+      "pub_sort_dt": "2026-11-19 04:42:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "GlobalData：至2030年，中国将引领全球聚丙烯产能增长 - Hydrocarbon Engineering",
-      "title_cn": "GlobalData：至2030年，中国将引领全球煤炭产能增长 - Hydrocarbon Engineering",
-      "url": "https://news.google.com/read/CBMi1AFBVV95cUxPSXdBS3JIakRVV3BhVHhKMmx4ZGFRU0FsaGZfYTdsSmo2V2o5SHJnNW5ILVhsSWpmSXg4NWR1VkpYQlhucm9wc0JhQTl1bmNfOXJQM1dVTm1ld0FDajBTLUFkTlhlQ3hWMUJZcnFlaFRLcExQbHlwRUtUSFpQblZrbEFqcWhON3VpdFBvd3VOcWtTVGF4MnItRk1UakRyZG1JV2MzMkc4c0lITUVCOFRkbUNpS3JsV0d6VUY3dHJIbV9Sd1pveklTbmRwUjBTYjFUWGpFVw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T09:10:38.000Z",
-      "pub_sort_dt": "2026-11-18 17:10:38"
+      "title_en": "美国众议院一个委员会要求微软就据称与中国的字节跳动就人工智能交易进行的谈判进行简报 - Reuters",
+      "title_cn": "美国众议院一个委员会要求微软就据称与中国的字节跳动就人工智能交易进行的谈判进行简报 - Reuters",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxNdEpRTFc4Q3Nsa085U2xoZldyY1BXSmlhSy0yT00tRzF4eU5QekdiUENlSTQyajA0eU5PVWl0MUpoejlXdXJMVVFPbHRVaGFlZmxoWFA5SHN5VXBpWHJvLUFLMjZISk96bVRuWWs0V3NSblpmWTM3VVZNQ3VHQVNpQTNUOFM5VzdwZ0ZOcHlFX3hmcEJ5ZDhRVXlCS0dCZEwxbXZ3Z09zVjB4N1FGMHo4Qkc4WWEwTG5LdHNWbk14NA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T20:27:29.000Z",
+      "pub_sort_dt": "2026-11-19 04:27:29"
     },
     {
       "source": "China Buzzing",
-      "title_en": "卡尼表示，加拿大与中国的贸易关系日益密切，这并非特朗普的首要关切 - U.S. News & World Report",
-      "title_cn": "卡尼表示，加拿大与中国的贸易关系紧张，这并非特朗普的担忧 - 美国新闻与世界报道",
-      "url": "https://news.google.com/read/CBMi1AFBVV95cUxQNllNbE9iM2MwUFZ5RHFSbldROGI5YTFPS0pGQTdXeVhXTWdZekVjMDdHN05BTlN0Wkw4eWF2eUJpeUw0X19XanM3WFNmOFdYVzV4VjJOZ1NPWGJVd1pCOXNyRlZrUVlVZ08yLW1Qbm80WlI4ZHRweW9WWHB4bVVoQ2FOZHZSZnV5X0RGUnA2ODRwN0xTX2poQkdUek52NnRreFk5dEhYN0lCcUJkMnB6VFQwdk05X2E2VnBNbEd4eHJQUnRPRE95U1ZaRWhmYmxlU3pCeQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T09:08:00.000Z",
-      "pub_sort_dt": "2026-11-18 17:08:00"
+      "title_en": "美国和中国正试图改变双方的经济协议 - Foreign Policy",
+      "title_cn": "美国和中国正试图改变双方的经济协议 - Foreign Policy",
+      "url": "https://news.google.com/read/CBMigwFBVV95cUxOaUdxakh5RDN1cTBXdG02SnZ6MDN0Zk5TdU5oVlMxX1JJRGxwMnowTGhBVm1HM0VYVmdYVFFqQWpLTWZyRTZQYk1SNVZzWUh4MjFvWjNOWXh6NHVSbUFWczZ0QmdDMGh1NVZzaWNtM0JQdVFuWnFhZGF4cEU4ZlhCbXR5SQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T20:24:10.000Z",
+      "pub_sort_dt": "2026-11-19 04:24:10"
     },
     {
       "source": "China Buzzing",
-      "title_en": "唐纳德·特朗普抵达中国，即将与普京和习近平举行峰会 - Financial Times",
-      "title_cn": "唐纳德·特朗普即将与习近平和习近平举行峰会 - 金融时报",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxNMDBFWUtRcU9fdVhpZS13SDZ0aGR1QnpBM00xVXlHeFQ5ZUQyNWhoV1BMcF82V0taOUhiYWZEWkVndlk0Z0tZU2IwMnh0UlI0aERSUU1OX3k1ODRneG1ib3l4aVBKXzY3ckdHS0N5MVpaX2tQV1k4bFpIWVMxcm14VUZkcmk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T09:01:25.000Z",
-      "pub_sort_dt": "2026-11-18 17:01:25"
+      "title_en": "在人工智能引发紧张局势之际，特朗普和习近平即将在中国会晤。以下是您需要了解的情况。 - CBS News",
+      "title_cn": "在人工智能引发紧张局势之际，特朗普和习近平即将在中国会晤。以下是您需要了解的情况。 - CBS News",
+      "url": "https://news.google.com/read/CBMiakFVX3lxTE1iWVRuaHFYdDlCZDJENzhBUW9mOXNRb012RDd1VlVzSXhjRUtqQzRpNFN6VGgteE1KVDNNNG42OG5IaTRXRkdBajlNVldxUXZJWXF2c0U2Wi1tb1hHcUoydTlTM3N2NTZXRnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T20:22:00.000Z",
+      "pub_sort_dt": "2026-11-19 04:22:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "突发新闻：特朗普抵达中国深圳，参加亚太经合组织（APEC）会议，并将与习近平、普京举行峰会 - Japan Wire by Kyodo News",
-      "title_cn": "突发新闻：特朗普总统中国深圳，参加亚太经合组织（APEC）会议，并与习近平、第八次峰会 - Japan Wire by Kyodo News",
-      "url": "https://news.google.com/read/CBMiWkFVX3lxTFAyZkJPY3NvVGdsWE5scGF0MUlJQUdfd3NkeEFiTUlyeVU0a0pLeXQyS3E5WlZ2R1k2SHNqM0I5WHNGLWdVWUJzN0RzVXlJRzV4WlRNNWhuNWc2Zw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T08:55:53.000Z",
-      "pub_sort_dt": "2026-11-18 16:55:53"
+      "title_en": "卡尼表示，加拿大与中国的贸易关系日益密切，这并非特朗普最关心的问题 - WCAX",
+      "title_cn": "卡尼表示，加拿大与中国的贸易关系日益密切，这并非特朗普最关心的问题 - WCAX",
+      "url": "https://news.google.com/read/CBMirAFBVV95cUxOeTF1cmJQZ2lHcG44aXE2SGh4M3BaTlYyenJNU2pJa2RxYVlJRUlKUE5QbFhoWW81SlhxRnJ4cmFqX1AtMEdPYzRGVnMzaUdzM1BVdVdlT2tQbVlfb0k5eGJtdFhNaWVxMHZNVmc5WEN4anR3RVcwZ1Q4czM5S2I0MjY0M1o5SURaTjU4c1R3REZia0hDUTJhN2UwNHNnMlU0WG12aWtvaEhmbXZm?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T20:18:00.000Z",
+      "pub_sort_dt": "2026-11-19 04:18:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普抵达中国，准备于周四与美国的对手——俄罗斯总统普京和中国国家主席习近平——举行历史性的三方会晤 - KTVN",
-      "title_cn": "特朗普总统中国，准备于周四与美国的对手——俄罗斯总统普京和中国国家主席习近平——举行历史性的三方会晤 - KTVN",
-      "url": "https://news.google.com/read/CBMiiAJBVV95cUxORS1OZUx1VXQ4ckd0TEhZTXRHTmRVQkpHSUVnTVA4Z2luM3dNVzJTSTItTlhfcElUOVpTTUZpR3cxc0E1emh1ak0yNFIxM0k0bzRZMHRIS2t0Mms5Z3RMcHBjZGU2cWdDYzJPOXN0MTdPWWFjZWFsUFp0T1ZKcG42SzFFTGpUcjlsUnBCeVVDbnR6V0RPMENNYWl3RnQ3dUZoWmlWR29mZGduV0pTWHEyNFBIRXZUSVdBaUwteHhWVEJtUE14TzdxSm5xeVFLSWZSNjg1SVg1blp4ZTNXMTYwRnF0TE1ldE5rNTR3WVV4Q2hPdVBIc0kwSGRaTG9nM29raG9ocTBiMm0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T08:46:18.000Z",
-      "pub_sort_dt": "2026-11-18 16:46:18"
+      "title_en": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场可能带来的挑战做准备 - Sacramento Bee",
+      "title_cn": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场可能带来的挑战做准备 - Sacramento Bee",
+      "url": "https://news.google.com/read/CBMiakFVX3lxTE93LTVGbTYyYnZNZEFpaXRBRlFYS3lOZjd3dUFfRWdSUXppV1hNOXljY0hhMWpQbG9TQUFFQ1BnTEtTVi1xTHRyMG1FQjB6MGYzY3pybFNscG8wUEZtQ1JkbkY1RmI4eE5uOHc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T20:02:08.000Z",
+      "pub_sort_dt": "2026-11-19 04:02:08"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普抵达中国，将与习近平、普京举行历史性会晤 - CNBC",
-      "title_cn": "特朗普中国，将与习近平、习近平举行历史性会晤 - CNBC",
-      "url": "https://news.google.com/read/CBMib0FVX3lxTE9IeDZBMG0tbFVVVEloVDFOLWF0dXJmYXRDenMyZ2RYODQ5aTdGV0M2eHo4S3RaRVRzWmRSUUxGVXF2TV9VM3NPZFhUS292WGVEQ08zX3dZeDdCUnN4Mno1clcwV1RrbU83QWEtODR5UdIBdEFVX3lxTFBPc2VUaUhhbjdQWHZhX0J6VFNQdmZDTlNTNlZBZDREZlEzMjZWbFFOdDRWbnY1RkNidHFrY1p1RGJMSmxPQ1BFd0dTNEVXZmlKajVDVDhkU0N5SnFBVUlSV2o0VXRKdkNDT08zUGlMMmg5TkZf?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T08:45:33.000Z",
-      "pub_sort_dt": "2026-11-18 16:45:33"
+      "title_en": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场的潜在挑战做准备 - US News Money",
+      "title_cn": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场的潜在挑战做准备 - US News Money",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxOeG9ZM2g5TWVKYjBxZkl2cl9HM3I1ZC1yUldCa3Y0SDV3c1dvQVlsQWZ5dG9NSWVvSmItOG5SM0FSb1RILV9CdkRHekNGSnJnb1NXZ3htN3N4eGdaaDBHT3dUWWYwLWN3Vmt6TUxWTk94bE1rTlpyNHJrUHREM0dCdlRUZDJRRXR1S3pUQXVPX2NoYTlIU0liQ2JTQ0FfU0hPZ3JCbC1NRTFnZXE4SzZHQWhGSGtRa0lUQ0p0MEZiaw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T19:48:29.000Z",
+      "pub_sort_dt": "2026-11-19 03:48:29"
     },
     {
       "source": "China Buzzing",
-      "title_en": "习近平呼吁韩国与中国在人工智能和供应链领域开展合作 - South China Morning Post",
-      "title_cn": "习近平呼吁韩国与中国在人工智能和供应链领域开展合作 - 南华早报",
-      "url": "https://news.google.com/read/CBMiwAFBVV95cUxPOGFvTkVLV1RVM1ctNmltc0oya1F5NTd0R0VMTDRLbVRzUFg1Rmk2V3lKNjJyc0ZRNkdiYmVFNjV2OFJFekl4c2NhTzZtSWVHS2NMTzJLcW04SkFSeE1VTE5feW84MnloX1VJV1ZBWHBNOGdEVG5aaEpPeVRtZGZ0X3lOYUZLUzhUMmRMeWgxSDJWTnVMY1hfVmFJTkRFUFUwMXpMU3hETE8zYXladDBVY29pWElCSzFjVlh5X2w2OUjSAcABQVVfeXFMTnViOTBDMGptTFdPOWxFTzdtSTItWG9FWGZFVGRSRzAzd010OFEzYXNaaWNUR21FQkRXQWwwMy1NQV92dFk2NnlYOElSUHFVU0xoMjVvc21wQVg5VTdXZkRLekl6UmZfZ0NyaDlaZjZaREpGWjVhWDk2LURaOHI3Q2x0bkRVUzZTSHRYcnhQdEtyTmloMnRnZWxUVUxLMGZVRkVOMEV2WXFkQW5nQWlxWVVuLTdoZ2txYVFraURZTFhL?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-18T08:42:47.000Z",
-      "pub_sort_dt": "2026-11-18 16:42:47"
+      "title_en": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场可能带来的挑战做准备 - Reuters",
+      "title_cn": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场可能带来的挑战做准备 - Reuters",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxPb1FtX25paV9WSXNwNmp2b3p5WGg4MW5kTmhUZUo5UVlwaUh1NWd4WDlWTGQ0M1VRSm5zSTdjY1ktVW56dGhqR0NQSGZmWVR1TkRubldxRHoyVnUxRlNaVWRlTUwwdDRFTXBoeGdsZUJRLXVQYXRmdnZtdmdSak9EZkdBMzZoZ1VFdHh2b1c1SnBwTmVEMDFBcWpoWkxRWHlkaVh4TTZvMG03YjNUelY3bldHUl9DT0VTbnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-18T19:41:58.000Z",
+      "pub_sort_dt": "2026-11-19 03:41:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "美国众议院一个委员会要求微软就其据称与中国字节跳动就人工智能达成交易的谈判一事进行简报",
+      "title_cn": "美国众议院一个委员会要求微软就其据称与中国字节跳动就人工智能达成交易的谈判一事进行简报",
+      "url": "https://reut.rs/4t5N4uu",
+      "pub_raw": "2026-11-18T21:03:49.384Z",
+      "pub_sort_dt": "2026-11-19 05:03:49"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场可能带来的挑战做准备",
+      "title_cn": "日产利用墨西哥市场，为应对中国汽车品牌在美国市场可能带来的挑战做准备",
+      "url": "https://reut.rs/4iZg2YC",
+      "pub_raw": "2026-11-18T20:47:44.085Z",
+      "pub_sort_dt": "2026-11-19 04:47:44"
+    },
+    {
+      "source": "The Economist",
+      "title_en": "美国必须认真对待中国在芯片领域的间谍活动",
+      "title_cn": "美国必须认真对待中国在芯片领域的间谍活动",
+      "url": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
+      "pub_raw": "2026-11-18T20:16:06.276Z",
+      "pub_sort_dt": "2026-11-19 04:16:06"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "古人类物种直立人（Homo erectus）在中国雨林中游刃有余",
+      "title_cn": "古人类物种直立人（Homo erectus）在中国雨林中游刃有余",
+      "url": "https://reut.rs/48mdSNP",
+      "pub_raw": "2026-11-18T16:49:01.657Z",
+      "pub_sort_dt": "2026-11-19 00:49:01"
     },
     {
       "source": "Bloomberg",
-      "title_en": "中国国家主席习近平在深圳机场迎接特朗普，此举实属罕见",
-      "title_cn": "中国国家主席习近平在深圳机场迎接特朗普，布拉格实属罕见",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/china-s-xi-greets-trump-at-airport-in-shenzhen-in-rare-move",
-      "pub_raw": "2026-11-18T09:40:52.438Z",
-      "pub_sort_dt": "2026-11-18 17:40:52"
+      "title_en": "耐克押注板球运动，力争将印度销售额提升至三倍，而中国市场则表现疲软",
+      "title_cn": "耐克押注板球运动，力争将印度销售额提升至三倍，而中国市场则表现疲软",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/nike-bets-on-cricket-to-triple-india-sales-as-china-sputters",
+      "pub_raw": "2026-11-18T15:45:43.559Z",
+      "pub_sort_dt": "2026-11-18 23:45:43"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "特朗普、普京计划周四在中国分别举行会晤",
+      "title_cn": "特朗普、普京计划周四在中国分别举行会晤",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-putin-plan-to-hold-separate-meeting-thursday-in-china",
+      "pub_raw": "2026-11-18T15:45:43.556Z",
+      "pub_sort_dt": "2026-11-18 23:45:43"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "腾讯利润承压凸显中国人工智能投入的困境",
+      "title_cn": "腾讯利润承压凸显中国人工智能投入的困境",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/tencent-s-sales-miss-estimates-in-setback-for-founder-s-ai-push",
+      "pub_raw": "2026-11-18T13:54:00.854Z",
+      "pub_sort_dt": "2026-11-18 21:54:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "腾讯称，美国对芯片的限制将在短期内放缓中国人工智能的发展",
+      "title_cn": "腾讯称，美国对芯片的限制将在短期内放缓中国人工智能的发展",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/tencent-says-us-chip-curbs-to-slow-chinese-ai-in-the-short-run",
+      "pub_raw": "2026-11-18T13:39:02.282Z",
+      "pub_sort_dt": "2026-11-18 21:39:02"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "播客：英伟达冷落黄仁勋、中国AI以及《GTA VI》",
+      "title_cn": "播客：英伟达冷落黄仁勋、中国AI以及《GTA VI》",
+      "url": "https://reut.rs/3VsIavn",
+      "pub_raw": "2026-11-18T13:22:55.349Z",
+      "pub_sort_dt": "2026-11-18 21:22:55"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "联合国机构称，2025年全球专利申请量创下历史新高，中国是推动增长的主要动力",
+      "title_cn": "联合国机构称，2025年全球专利申请量创下历史新高，中国是推动增长的主要动力",
+      "url": "https://reut.rs/4zOGlI5",
+      "pub_raw": "2026-11-18T13:22:55.345Z",
+      "pub_sort_dt": "2026-11-18 21:22:55"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "卡尼与习近平达成协议后，在中国会见了特朗普",
+      "title_cn": "卡尼与习近平达成协议后，在中国会见了特朗普",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/carney-says-he-ll-meet-with-trump-later-today-in-shenzhen",
+      "pub_raw": "2026-11-18T13:07:14.217Z",
+      "pub_sort_dt": "2026-11-18 21:07:14"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "报道称，尽管面临美国限制，中国仍在寻求用于人工智能武器的先进英伟达芯片",
+      "title_cn": "报道称，尽管面临美国限制，中国仍在寻求用于人工智能武器的先进英伟达芯片",
+      "url": "https://reut.rs/4eKyC5o",
+      "pub_raw": "2026-11-18T13:07:14.190Z",
+      "pub_sort_dt": "2026-11-18 21:07:14"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国机器人的进步为人工智能提供了更多以硬件为导向的发展路径",
+      "title_cn": "中国机器人的进步为人工智能提供了更多以硬件为导向的发展路径",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/china-robot-advances-offer-more-hardware-forward-path-for-ai",
+      "pub_raw": "2026-11-18T12:18:49.647Z",
+      "pub_sort_dt": "2026-11-18 20:18:49"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "在中国举行的亚太经合组织（APEC）会议",
+      "title_cn": "在中国举行的亚太经合组织（APEC）会议",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/apec-talks-in-china",
+      "pub_raw": "2026-11-18T12:18:49.644Z",
+      "pub_sort_dt": "2026-11-18 20:18:49"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国央行将测试私营信贷市场如何加剧冲击",
+      "title_cn": "中国央行将测试私营信贷市场如何加剧冲击",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/boe-to-test-how-private-credit-market-could-amplify-shocks",
+      "pub_raw": "2026-11-18T12:03:27.526Z",
+      "pub_sort_dt": "2026-11-18 20:03:27"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "独家报道：特朗普政府正考虑强制美国企业披露其人工智能技术在中国的应用情况",
+      "title_cn": "独家报道：特朗普政府正考虑强制美国企业披露其人工智能技术在中国的应用情况",
+      "url": "https://reut.rs/4t87K55",
+      "pub_raw": "2026-11-18T11:46:50.120Z",
+      "pub_sort_dt": "2026-11-18 19:46:50"
     },
     {
       "source": "Reuters",
@@ -353,23 +473,15 @@
     {
       "source": "Bloomberg",
       "title_en": "墨西哥领导人因乘坐21小时的经济舱航班在中国引发热议",
-      "title_cn": "墨西哥领导人因乘坐21小时经济舱航班在中国引发热议",
+      "title_cn": "墨西哥领导人因乘坐21小时的经济舱航班在中国引发热议",
       "url": "https://www.bloomberg.com/news/articles/2026-11-18/mexico-leader-goes-viral-in-china-for-flying-21-hours-in-economy",
       "pub_raw": "2026-11-18T09:25:39.246Z",
       "pub_sort_dt": "2026-11-18 17:25:39"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "卡尼在与习近平达成关税协议后，将在中国与特朗普会面",
-      "title_cn": "卡尼在与习近平达成关税协议后，将在中国与特朗普会面",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/carney-says-he-ll-meet-with-trump-later-today-in-shenzhen",
-      "pub_raw": "2026-11-18T09:09:43.029Z",
-      "pub_sort_dt": "2026-11-18 17:09:43"
-    },
-    {
       "source": "Reuters",
       "title_en": "直播：特朗普抵达中国参加亚太经合组织峰会",
-      "title_cn": "直播：特朗普特朗普中国参加亚太经合组织峰会",
+      "title_cn": "直播：特朗普抵达中国参加亚太经合组织峰会",
       "url": "https://www.youtube.com/live/Od0xcS2QrGs",
       "pub_raw": "2026-11-18T09:09:42.977Z",
       "pub_sort_dt": "2026-11-18 17:09:42"
@@ -377,122 +489,10 @@
     {
       "source": "Reuters",
       "title_en": "卡尼表示，加拿大正在调整与中国的关系，旨在与美国达成合适的协议",
-      "title_cn": "卡尼表示，加拿大正在调整与中国的关系，旨在与美国达成适当的协议",
+      "title_cn": "卡尼表示，加拿大正在调整与中国的关系，旨在与美国达成合适的协议",
       "url": "https://reut.rs/4khUaKf",
       "pub_raw": "2026-11-18T09:09:42.974Z",
       "pub_sort_dt": "2026-11-18 17:09:42"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "特朗普抵达中国，即将与普京和习近平举行峰会",
-      "title_cn": "特朗普中国，即将与习近平和习近平举行峰会",
-      "url": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-18T09:09:42.939Z",
-      "pub_sort_dt": "2026-11-18 17:09:42"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "尽管尚未获得销售许可，Rockstar仍在中国推广《GTA VI》",
-      "title_cn": "尽管尚未获得销售许可，Rockstar仍在中国推广《GTA VI》",
-      "url": "https://reut.rs/4j1pZor",
-      "pub_raw": "2026-11-18T08:53:45.527Z",
-      "pub_sort_dt": "2026-11-18 16:53:45"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国燃气与Venture Global签署为期20年的液化天然气协议，供气量翻倍",
-      "title_cn": "中国燃气与Venture Global签署20年的液化天然气协议，供气量翻倍",
-      "url": "https://reut.rs/4kYAjQo",
-      "pub_raw": "2026-11-18T08:22:53.849Z",
-      "pub_sort_dt": "2026-11-18 16:22:53"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "台湾亚太经合组织（APEC）特使表示，他将在中国主办的峰会上与其他成员国代表进行交流",
-      "title_cn": "台湾亚太经合组织（APEC）特使表示，他将在中国主办的峰会上与其他世界代表进行交流",
-      "url": "https://reut.rs/4j4ry53",
-      "pub_raw": "2026-11-18T07:50:44.719Z",
-      "pub_sort_dt": "2026-11-18 15:50:44"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "耐克计划将其在中国销售的运动服装产品中，有一半由当地团队设计",
-      "title_cn": "耐克计划将其在中国销售的运动服装产品中，有一半由当地团队设计",
-      "url": "https://reut.rs/490m8mG",
-      "pub_raw": "2026-11-18T07:02:51.560Z",
-      "pub_sort_dt": "2026-11-18 15:02:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国收紧芯片监管漏洞，数十亿资金面临风险",
-      "title_cn": "中国收款紧芯片监管漏洞，募集亿资金面临风险",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/clampdown-on-china-chip-loophole-puts-billions-in-loans-at-risk",
-      "pub_raw": "2026-11-18T06:46:57.969Z",
-      "pub_sort_dt": "2026-11-18 14:46:57"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "加拿大部长表示，在关系停滞多年后，加拿大正寻求与中国在贸易领域重启合作",
-      "title_cn": "加拿大领导人表示，在关系消费多年后，加拿大正寻求与中国在贸易领域重启合作",
-      "url": "https://reut.rs/4t4gWr8",
-      "pub_raw": "2026-11-18T06:30:51.401Z",
-      "pub_sort_dt": "2026-11-18 14:30:51"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "韩国总统表示，韩国希望与中国合作，共同维护朝鲜半岛和平",
-      "title_cn": "韩国总统表示，韩国希望与中国合作，共同维护朝鲜半岛和平",
-      "url": "https://reut.rs/4CeBlhC",
-      "pub_raw": "2026-11-18T05:26:58.115Z",
-      "pub_sort_dt": "2026-11-18 13:26:58"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "探索湾仔——这里，旧时的香港依然魅力不减",
-      "title_cn": "探索湾仔——这里，旧时的香港依然魅力不减",
-      "url": "https://www.ft.com/content/a5e0e84d-a782-47e3-abcb-3dff1bf4e835",
-      "pub_raw": "2026-11-18T05:26:57.832Z",
-      "pub_sort_dt": "2026-11-18 13:26:57"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "韩国总统李某寻求中国支持，以实现朝鲜半岛和平",
-      "title_cn": "韩国总统李某寻求中国支持，以实现朝鲜半岛和平",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/south-korea-s-lee-seeks-china-support-for-peace-on-peninsula",
-      "pub_raw": "2026-11-18T05:10:48.073Z",
-      "pub_sort_dt": "2026-11-18 13:10:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "直播：特朗普在马尼拉与中国举行会谈前会见马科斯",
-      "title_cn": "直播：特朗普在波兰与中国达成共识前会见马科斯",
-      "url": "https://www.youtube.com/watch?v=xS_0EFETurc",
-      "pub_raw": "2026-11-18T04:54:39.548Z",
-      "pub_sort_dt": "2026-11-18 12:54:39"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "亚瑟士加大对中国市场的布局力度，目标是将门店数量增加一倍以上",
-      "title_cn": "亚瑟士加大了对中国市场的布局力度，目标是港口数量增加一倍以上",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/asics-steps-up-china-push-with-goal-to-more-than-double-stores",
-      "pub_raw": "2026-11-18T04:22:41.079Z",
-      "pub_sort_dt": "2026-11-18 12:22:41"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国国家主席习近平在亚太经合组织峰会上呼吁实现自由开放的贸易",
-      "title_cn": "中国国家主席习近平在亚太经合组织峰会上呼吁实现贸易自由开放",
-      "url": "https://reut.rs/4j4ruC9",
-      "pub_raw": "2026-11-18T03:50:46.305Z",
-      "pub_sort_dt": "2026-11-18 11:50:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "特朗普计划在中国访问期间会见墨西哥的谢恩鲍姆",
-      "title_cn": "特朗普计划在中国访问期间会见墨西哥的谢恩·鲍姆",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-plans-to-meet-mexico-s-sheinbaum-during-stop-in-china",
-      "pub_raw": "2026-11-18T03:02:57.639Z",
-      "pub_sort_dt": "2026-11-18 11:02:57"
     }
   ]
 }
