@@ -1,97 +1,185 @@
 {
-  "update_cst": "2026-11-21 06:01:21 北京时间",
+  "update_cst": "2026-11-21 18:01:14 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 11,
+    "Bloomberg": 9,
     "Financial Times": 2,
     "Wall Street Journal": 1,
-    "Reuters": 6
+    "Reuters": 8
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国与台湾最新动态，2026年11月20日 - American Enterprise Institute - AEI",
-      "title_cn": "中国与台湾最新动态，2026年11月20日 - 美国企业研究所 - AEI",
-      "url": "https://news.google.com/read/CBMid0FVX3lxTE1UZkJpNTduQ1pHWjB4WDNubXFUVmpjSUgtZUxDeTNMenR0dGJUbkVRTjY2dVdBVW9YZWFrakJBSFpveGZLZFJsck5UWjlERWRlMEN3SEo4dVpUUVZCXzMzSzNWT2YwTTNrSUVyaVhOdVpPS2ZBX1k0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T21:08:23.000Z",
-      "pub_sort_dt": "2026-11-21 05:08:23"
+      "title_en": "分析——当特朗普沉浸于峰会的盛况时，中国国家主席习近平却巩固了自己的优势 - U.S. News & World Report",
+      "title_cn": "分析——当特朗普沉浸于峰会的盛况时，中国国家主席习近平却巩固了自己的优势 - U.S. News & World Report",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxOZmNKNFJTdVA0RGZVcmRTWDRQZ21saldCWHBHemVZNGV1RVhoRV9tZHIwR01YcjdWMXdGektTODZreHZRRlRZSy1aTENMYktVd05pS3FPS3JNc1Qyb1Jtal9rNXgtUVZIZndaV19BRFdDbUluZ2tDSG9hOUxCajYwcDJoMl9aTjhPX1NrLUx3MXR0eTdXcjE4ZjBGQWxkTFh5NzZoVlZEMTNJVV90UkhTUmdMNHk5X25ybHRLYjExVDY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T08:44:31.000Z",
+      "pub_sort_dt": "2026-11-21 16:44:31"
     },
     {
       "source": "China Buzzing",
-      "title_en": "卡尼对华政策的转变如何成为陷入僵局的美国贸易谈判中的筹码 - Time Magazine",
-      "title_cn": "卡尼对华政策的转变如何成为陷入僵局的美国贸易谈判中的筹码 - 时代杂志",
-      "url": "https://news.google.com/read/CBMiogFBVV95cUxQMExCZjI3M2txVy1tMm90TTg5VmpnTWtoUUxGZFN4OTRoSHN3OUNYQXp6QUJjR2lEa0pJNE5EeFJ3Qkxad0E0NlIwMHhmWUhCTjRYVV9BeGQ2UGQwU1JpYzgycDh5YTZtY3N1dUdwSGJKUTJzWWtPMGt5YXBicVhrekxYTjdfNER0V1RybC1GcjZYOXMtRkhGenBLOHBLMGh0NlE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T20:59:33.000Z",
-      "pub_sort_dt": "2026-11-21 04:59:33"
+      "title_en": "当特朗普沉浸在峰会的盛况中时，中国的习近平则巩固了自己的优势 - Reuters",
+      "title_cn": "当特朗普沉浸在峰会的盛况中时，中国的习近平则巩固了自己的优势 - Reuters",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxPWm1waHdJRVp4M2dKRlhKSHRHQmpEOFZZdGJRRndnR3ZXb0pmc1d6cUNmZWcwX3VwTHBzY1VMVmh3RDJBNVYtV2tDV1pDX25kNFhMWlE4a3N0RVpIMV80alNzRl9VQ0NMNF81UzVXTUJWVk1ZSmkwSFZDOHFNNHBLZ2RlNWloalpTOWs5UXFVQWJqenE4RGFXLWZRN1JlS1l6MnJlWQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T08:40:34.000Z",
+      "pub_sort_dt": "2026-11-21 16:40:34"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普在与习近平会晤次日表示，中国的核武建设“如火如荼” - The Washington Post",
-      "title_cn": "特朗普在与习近平会晤次日表示，中国的核武建设“如火如荼” - The Washington Post",
-      "url": "https://news.google.com/read/CBMiyAFBVV95cUxNR2JDZkhHc3FaVmUzVE9mVDRJcVI5VTV2RmdWNTFkM055cElXQ2kyLU55bjVfRFpsalR0WGhTb3hMRnpYQkgzVWJjbWF4clJXTjRiZllLaUp1R1JHRXVjTlhLcUxlMkJEekVLSmhiajBEUThkMkhhTFd0dVNsM0lFb2xJTjMzbko4NEE4em90N216MXBNZ1BVOWZ4WXVvQjBJYVRMQVlfU25Ud0JmbkRnWHZrTWIxY2Z3Z0VqYWtCTUswUVZuam01SA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T20:42:55.000Z",
-      "pub_sort_dt": "2026-11-21 04:42:55"
+      "title_en": "观点 中国确实面临经济困境，但“日本化”并不在其中 - South China Morning Post",
+      "title_cn": "观点 中国确实面临经济困境，但“日本化”并不在其中 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxNMGQzZGtManRzemwwd21CbGJnYXVEMU5UVlluR2IyZVVLWmdaZ2NSVXR0N3lES2lVZjZrdUZyd3ltLVdHbW5NTWV3ZTJCZ19YbTVURVhwSDRCZzYtMXNNSGlMNEZzeWg0MFFBUG5UakhjZEJMa2swUXlXTmdlS0Vwck56eE5GcE1rWFZlc252V2JpbldkazM0MGFTOExSNDJnZkJxM0dlanVhMVRtWWM2SEV5V2FnTUFGbk9jb0t30gG-AUFVX3lxTE9ab3ZmOWY1NkZEbEE2QWhRQzVZdmdLWEhyZTZfQmlzRHFoSXBfY080LVJ0SkRRVlNvMXJuRVp1WF9iYzBZQ01lOElsNWM1aFA4eXJwV0F5NmtDMW9QcGpjU2dkYXJZcFRxR3I2LU1MVlAzVW91eGRpZnp6U2ZpNTZqTmZwa20yaGRFV0NVRXFod2Y5Q3ZOMklaTHhwZnllVXg2dmQ5Z05NbTRtenYtLURuQTVzQ0ppSTY5bzZRSmc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T08:30:06.000Z",
+      "pub_sort_dt": "2026-11-21 16:30:06"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国对百度处以75,000美元罚款，终结了旷视科技这起旷日持久的反垄断案 - PYMNTS.com",
-      "title_cn": "中国对百度处以75,000美元罚款，终结了旷视科技这起旷日持久的反垄断案 - PYMNTS.com",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxNTkxoZXQtYVI4aWlZYWZyUHlmSFZfZE9lX25OTC1ka24wZ0pILTE2VXdzNWZiRXhWZW5YNjNfd2lMUDJjWERzRzBpLThGaU9GWDFhbmJSNHktMzFOcXFpQVkxelFPa3JXYm1Kb2pBRnJSVHNvZW5BU2p2RDdJcXZDVkpHR2Z6YXV3YXd3V3dYQUhpblUzaVFtSGlVYkpiZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T20:26:36.000Z",
-      "pub_sort_dt": "2026-11-21 04:26:36"
+      "title_en": "铁路培训如何助力中国与非洲伙伴的关系保持正轨 - South China Morning Post",
+      "title_cn": "铁路培训如何助力中国与非洲伙伴的关系保持正轨 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxPeDhsQU5TZ2RrMGRQZThIVEFXZzlsNTZSOExhb1JJNU9ETjlwc0FOanA5NWdCeTlZRi1oVDV3MGhKWjZSTTY0a2tYbW5TWjE0LUQxbkpwMXlZTHN2NnY5OVM1Wm5YNnhZbXNFd3M0TnlWdTViVFpXQmdYdU1IZ0R4aDRaWmpoTDg0VHM4OE5MZFBzekl3THAxQXFSRXh0OVhoT0NOZmFwN0xHVG9jeFBiYlE5ZGNYVkV1UWVNOHQ5V1l0d9IBwgFBVV95cUxQYV9pZmVMNG9HZUdWN0c3T0UtSkhzaVdJSW5lS3VTb2dvbHg5NnhOREZIeW9ZYmRvVVo2RHhYbFNRRzJsRlVCbVZoT25tREJIalBxX243dURtLWlxMXAweWVzUFhFQk5QYWlMTi0yelEzNmN3NFZOMjd4LXE0YUFoWENCcnlNNTlmTUdZX0hkSG1Sc1JTWVlHbUE5dE91ZnNPS3pTcFpTUEtaajJrNmUxdTZBVnJwdTZFX3F0NzB3RHh0QQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T08:00:15.000Z",
+      "pub_sort_dt": "2026-11-21 16:00:15"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普在与习近平会晤次日表示，中国的核武建设“如火如荼” - WRAL",
-      "title_cn": "特朗普在与习近平会晤时表示，中国的核武建设“如火如荼” - WRAL",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQR2ZOY19POEZQNFp5OW9fcm83ako2dG9ObC1xeGZ4X2p3eE5rbFBGN1FpeWhRT1M0RmEwYjE5VGtnR0NFX2VnYTF4QS1VU21yVDNqM3d6TXpWVE1GaGQ0Y3dEZTRPUHFybExuT3VDWk5jZ1daVEJxSzJmNHl1aXcybEdtS1RqZjNTSlNFUm5HTmdDQ0tyMk5zZ0dZMTV4VVZINTJ0SlJfMC1XU2RWMzlxQzlPRVo?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T20:16:09.000Z",
-      "pub_sort_dt": "2026-11-21 04:16:09"
+      "title_en": "中国大陆游客出行次数增多，但消费更加谨慎 - South China Morning Post",
+      "title_cn": "中国大陆游客出行次数增多，但消费更加谨慎 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi3AFBVV95cUxPZE9Gc1kwTk5zZk9iNmZvT1J0RnFON2pNaDZUUWNhSkdsbmdhX3dtaGo5YkZVVnVYWE5yY19HVjhvN1BjTUZQZzBPZG1zZFp0OUJBOVVrUnh4TlNxdUdsTHVkVERZUTExR2hwdXlyRHZoMERLZU16bGZDSk1qa0dJRm96d0tRdnIyS0hoWUxINXY3OE5taXozWFVfRHNDcFdyRDB5VFhGNkhMN0ZmZF9hVmZVby1tM0VaVkJWNHJTcXItbmJsZTlGSmVyQXI0RVQyOFRWdDJ0d2JycHM0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T08:00:12.000Z",
+      "pub_sort_dt": "2026-11-21 16:00:12"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普在与习近平会晤次日表示，中国的核武建设“如火如荼” - AP News",
-      "title_cn": "特朗普在与习近平会晤时表示，中国的核武建设“如火如荼” - 美联社新闻",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxQYTktQ3FNMU5KTldxU1VTOF8tZDBvdEF0MlNLZVVfeENlbl9zSDNuZ056b1lRTWs5X0dHM0NUZzBjOF94OWl5VDBBWVZXYzJIRm1FZ01aZnktQkVfVE5jU3FxSjVSSXhOcjNURVNhYTZfQkcxQS1JWm1RZk96aUp4eHVTcUcxYW1JdEpPSThySm52cVpY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T20:12:00.000Z",
-      "pub_sort_dt": "2026-11-21 04:12:00"
+      "title_en": "中国冬季必备单品？山姆会员店一款60美元的羽绒服 - South China Morning Post",
+      "title_cn": "中国冬季必备单品？山姆会员店一款60美元的羽绒服 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxPamtLc0l1eEYydkhHVkItSGlwbngtN0stbmxDVjRDZXhCMGpXREVZNEt5ZllGN3VKSXpoNmJYYmtkSjhNa05WYkNMTkdCclhlOGp1VDNjcndweGNfbWFvdDdZLVNtNGtBcDUxd2RudTVxajMxWW8wbkJ1M1JKNnk3Vi1Wc2l5N0pnSmd1TnpMOXdTTC1POUN3TjFPMmRZUnBzNGR0WTZFcnNGX19KNjJ1RVNyWmgwOFhNNDd6Rmg0bXBaQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T08:00:11.000Z",
+      "pub_sort_dt": "2026-11-21 16:00:11"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国的债务危机：新闻报道 - Independent Institute",
-      "title_cn": "中国的债务危机：新闻报道 - Independent Institute",
-      "url": "https://news.google.com/read/CBMieEFVX3lxTE9Bc1pDX0ExQjlnM1Nkbm9kei04VGc3ZmJKczNiWEpDc1lrMlFQaUt5dUNZQTZ1ejV2aGNMWFpENjE1cHp1WDFudmt4blpPYl9VeGlTb2swWGhSNEhxdzJQWHJERVNuSWRES1ZFMWRBbFBjQWlkOW1wWA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T20:02:44.000Z",
-      "pub_sort_dt": "2026-11-21 04:02:44"
+      "title_en": "评论：西方凭借不起眼的钨挑战中国在关键矿产领域的霸主地位 - Reuters",
+      "title_cn": "评论：西方凭借不起眼的钨挑战中国在关键矿产领域的霸主地位 - Reuters",
+      "url": "https://news.google.com/read/CBMi3gFBVV95cUxOMlRQcTdOLUU4SUtDTFBsaC1ncUJyTUNoRFRkNFNiWng5UFotbmFwTmxONjktMF9uT2RqM1JTZUswWXA0Q0pBZ29PcGVIMnFyckZkaGpGUUdQaHdjc0Etb2NoUUh3dXRtMlhMcG1WbXVwcXA4NkpTQmI2Wnc0emdXaXNXdTBrU3BVSDJGZ1FWRWpObmhFalpQcFlLMC1nLXE4SHd5T3RkU3FLc3dEX1BReVc1N0cxaHJCMHF5a3c5NEhuSWg2WHFYbGNsZ3VVSU52NkktaHZqanZRenJfUEE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T07:00:00.000Z",
+      "pub_sort_dt": "2026-11-21 15:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "此时正是向中国表达感激之情的好时节 - Financial Times",
-      "title_cn": "此时正是向中国表达感激之情的好时节 - 英国《金融时报》",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPQ3pBNkRaaS0zX3diU3Y1a2FKVXpUblNYbHNWTlgteml2eTRDNnJxQ1U2SDZFaWRSa09Ic1k3MkJQbGhiTkZKUThsR2doSEVGU001bmpWNDJPTEp5UnpPOW11ekdkY2tuZ2g0TmpJdkFoNEhSNEVDZWJteExjcXYyQ0NlSTA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T18:57:07.000Z",
-      "pub_sort_dt": "2026-11-21 02:57:07"
+      "title_en": "预计中国智能计算将占总计算能力的90%以上 - China Daily Global Edition",
+      "title_cn": "预计中国智能计算将占总计算能力的90%以上 - China Daily Global Edition",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxNVkFzMENXbENnUHVLai1RQVRsMWdTVmlDbzZkVXFEaWRQTFMyQ2hpeEhUb1poeUVyMmpTWnBid3l3WEFEUWx6RzZoT3JTWGpSZDh4WGNka0J6R3RtOWtiVUNKcTd6YnlLaldMR0ZIN3F1TkhLaGhHWXJPbzV2NUczbGRn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T06:09:56.000Z",
+      "pub_sort_dt": "2026-11-21 14:09:56"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普表示，只应向中国出售老旧芯片 - Reuters",
-      "title_cn": "特朗普表示，只应向中国出售旧芯片 - 路透社",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxQOFEtNXdjeFdVNFdzb2gyY0R6cENORm5IRHNyNWY0RWVYcEY0SHRpQ2RTZEEzT0RnTnhWUVNHNV9qaVl0N1RjaExzcUtCdmFybmwzSUFKUG42T1ZLT19UTm1YbFdESzVtQWxQeHhaZWVBSXA3aGdSVDB4NTd6ZzdRS1NKbl80YVV4RlpiYXE3VVRFMXVvVktaQ2pwcDk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T18:40:12.000Z",
-      "pub_sort_dt": "2026-11-21 02:40:12"
+      "title_en": "中国市场电动汽车销量占比超70%，燃油车则首当其冲受到销量下滑冲击 - South China Morning Post",
+      "title_cn": "中国市场电动汽车销量占比超70%，燃油车则首当其冲受到销量下滑冲击 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxQQjFRWEtaRnh6Z3E0dXdKVERmTWJEcHp2TVR5dkUzRUZwa2JmTHcyRnVpQ3c2V0k1OEdJVUN6bGo4X2Y4U3VaNVZxbGRUelB0X1ByVElfYUVNY2F6LUhSY1JuRHVFRnZ5c3NGU2lva3BMMlBVbldEMEJvOUJ6OVB0czlXQ2VTejVTMlFRQmtDakxFWm5aZVlkaUVsbFR5b2hOaGt6WDVaLUMzd0dBNTlVenotMDNRV3Itckp1NjlGdUtrQ1pNOFhRWUxzckxJZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T06:00:09.000Z",
+      "pub_sort_dt": "2026-11-21 14:00:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "间谍案嫌疑人的芯片网络与中国军方供应商有关联 - The New York Times",
-      "title_cn": "间谍案嫌疑人的芯片网络与中国军方供应商有关联 - The New York Times",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxNVjhXZ2xYTDVHWE9xVzhIZVdLOVF3XzB2WEcxNnRlUFNCZzNvSDFtZG81UFZRTnJyLWJzTXdKbER1MExJcVhlUy11ckx1X1hnQjM0Z3NLNm1RMHlBSmdacjdOMHlfSDBSSUVHeVQ2bDQ1SWFVTUlHb2g5aVZWTGluWGt4TUtkMU5nSXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T18:05:36.000Z",
-      "pub_sort_dt": "2026-11-21 02:05:36"
+      "title_en": "中国如何利用峰会扩大其全球影响力 - CNBC",
+      "title_cn": "中国如何利用峰会扩大其全球影响力 - CNBC",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxOZWMxMzhGQWx2Z0ZFcl9uc0ZhQjJuYUt3amt1TDdqSkpPa0xRVl9ITG42TW5VeENLd2xoYnA1WGlZdFlmNlM1SmNuSGF2N3NOd0JPLV9rZXJENmx2ZTVITzNPeFhTM0R1RDdDZ2IzbldRVzVmVkMtcjFRVHVYdW5BVEZaUVNpX1lyaTlv0gGQAUFVX3lxTE0wV3Bsby1xNE13eVc4dHZ5YVl1UzJJbDBIVDZRbkpabHlEcVlaQm5XUHp1cWUxZ2pYX3lQSGppQzNIYnZWazQwQWdWTW1oLUpOaFRDN1hpQU1USTNwZ2hRa015Y0w1SFB6OU5UMHVPRF8yQldEYlZHTjk4TUQ1eFpvOE9kcjUwOHBQc25LbzNXRg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T06:00:02.000Z",
+      "pub_sort_dt": "2026-11-21 14:00:02"
     }
   ],
   "media_news": [
+    {
+      "source": "Bloomberg",
+      "title_en": "人工智能如何迫使中国重塑产业政策",
+      "title_cn": "人工智能如何迫使中国重塑产业政策",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
+      "pub_raw": "2026-11-21T09:09:51.881Z",
+      "pub_sort_dt": "2026-11-21 17:09:51"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受人工智能担忧影响股价暴跌，台湾扩大做空限制",
+      "title_cn": "受人工智能担忧影响股价暴跌，台湾扩大做空限制",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets",
+      "pub_raw": "2026-11-21T09:09:51.871Z",
+      "pub_sort_dt": "2026-11-21 17:09:51"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "当特朗普沉浸在峰会的盛况中时，中国的习近平则巩固了自己的优势",
+      "title_cn": "当特朗普沉浸在峰会的盛况中时，中国的习近平则巩固了自己的优势",
+      "url": "https://reut.rs/4terzrt",
+      "pub_raw": "2026-11-21T08:54:48.379Z",
+      "pub_sort_dt": "2026-11-21 16:54:48"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "英伟达事件让中国间谍成为焦点",
+      "title_cn": "英伟达事件让中国间谍成为焦点",
+      "url": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-21T05:10:42.493Z",
+      "pub_sort_dt": "2026-11-21 13:10:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国打击离岸避税行为使预算出现罕见盈余",
+      "title_cn": "中国打击离岸避税行为使预算出现罕见盈余",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/china-s-offshore-tax-clampdown-pushes-budget-into-rare-surplus",
+      "pub_raw": "2026-11-21T03:50:50.155Z",
+      "pub_sort_dt": "2026-11-21 11:50:50"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "刚结束中国之行，特朗普在一场自由随性的记者会上左躲右闪",
+      "title_cn": "刚结束中国之行，特朗普在一场自由随性的记者会上左躲右闪",
+      "url": "https://reut.rs/4l4ZbpG",
+      "pub_raw": "2026-11-21T02:14:51.987Z",
+      "pub_sort_dt": "2026-11-21 10:14:51"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港餐厅点评：人气中餐酒吧连锁店Commune Maison",
+      "title_cn": "香港餐厅点评：人气中餐酒吧连锁店Commune Maison",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/hong-kong-restaurant-review-popular-chinese-dining-bar-chain-commune-maison",
+      "pub_raw": "2026-11-21T00:06:54.179Z",
+      "pub_sort_dt": "2026-11-21 08:06:54"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "特朗普表示，只应向中国出售老旧芯片",
+      "title_cn": "特朗普表示，只应向中国出售老旧芯片",
+      "url": "https://reut.rs/4CaBzGB",
+      "pub_raw": "2026-11-20T23:19:00.931Z",
+      "pub_sort_dt": "2026-11-21 07:19:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "荷兰法院以与中国产SUV外观相似于路虎卫士为由，禁止该车型在欧洲销售",
+      "title_cn": "荷兰法院以与中国产SUV外观相似于路虎卫士为由，禁止该车型在欧洲销售",
+      "url": "https://reut.rs/3V4s6jk",
+      "pub_raw": "2026-11-20T23:02:56.420Z",
+      "pub_sort_dt": "2026-11-21 07:02:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "莫雷诺称，议员们即将就禁止中国汽车达成协议",
+      "title_cn": "莫雷诺称，议员们即将就禁止中国汽车达成协议",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/lawmakers-on-verge-of-deal-to-ban-chinese-cars-moreno-says",
+      "pub_raw": "2026-11-20T22:15:53.136Z",
+      "pub_sort_dt": "2026-11-21 06:15:53"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "特朗普访华后，美国众议院共和党人推动制定人工智能战略以对抗北京",
+      "title_cn": "特朗普访华后，美国众议院共和党人推动制定人工智能战略以对抗北京",
+      "url": "https://reut.rs/3VdTprt",
+      "pub_raw": "2026-11-20T21:59:44.030Z",
+      "pub_sort_dt": "2026-11-21 05:59:44"
+    },
     {
       "source": "Financial Times",
       "title_en": "此时正是向中国表达感激之情的好时节",
@@ -103,7 +191,7 @@
     {
       "source": "Wall Street Journal",
       "title_en": "共和党资深参议员称卢特尼克无视了他关于中国芯片问题的警告",
-      "title_cn": "卢特尼克无视了他关于中国芯片问题的警告",
+      "title_cn": "共和党资深参议员称卢特尼克无视了他关于中国芯片问题的警告",
       "url": "https://on.wsj.com/4zun9hJ",
       "pub_raw": "2026-11-20T18:17:02.960Z",
       "pub_sort_dt": "2026-11-21 02:17:02"
@@ -119,7 +207,7 @@
     {
       "source": "Reuters",
       "title_en": "中国为何不愿成为世界下一任气候领导者",
-      "title_cn": "中国为何不愿成为世界下一届气候变化领导者",
+      "title_cn": "中国为何不愿成为世界下一任气候领导者",
       "url": "https://reut.rs/4CgRlj6",
       "pub_raw": "2026-11-20T17:12:38.257Z",
       "pub_sort_dt": "2026-11-21 01:12:38"
@@ -127,7 +215,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国机器人、汽车和半导体的出口令竞争对手陷入困境",
-      "title_cn": "中国机器人、汽车和半导体的出口令陷入困境",
+      "title_cn": "中国机器人、汽车和半导体的出口令竞争对手陷入困境",
       "url": "https://www.bloomberg.com/news/features/2026-11-20/china-s-exports-of-robots-cars-semiconductors-make-life-hard-for-rivals",
       "pub_raw": "2026-11-20T15:20:54.036Z",
       "pub_sort_dt": "2026-11-20 23:20:54"
@@ -151,7 +239,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国脱口秀热潮考验着言论自由的界限",
-      "title_cn": "中国脱口秀热潮考验着自由的界限",
+      "title_cn": "中国脱口秀热潮考验着言论自由的界限",
       "url": "https://www.bloomberg.com/news/articles/2026-11-20/china-s-stand-up-comedy-boom-tests-the-limits-of-free-expression",
       "pub_raw": "2026-11-20T12:08:48.518Z",
       "pub_sort_dt": "2026-11-20 20:08:48"
@@ -159,180 +247,180 @@
     {
       "source": "Bloomberg",
       "title_en": "宁德时代、立讯精密将入选香港科技指数，该指数将进行重大调整",
-      "title_cn": "宁德时代、立讯精密将旗下香港科技指数，该指数将进行重大调整",
+      "title_cn": "宁德时代、立讯精密将入选香港科技指数，该指数将进行重大调整",
       "url": "https://www.bloomberg.com/news/articles/2026-11-20/catl-luxshare-to-join-hong-kong-tech-index-in-major-revamp",
       "pub_raw": "2026-11-20T11:05:55.465Z",
       "pub_sort_dt": "2026-11-20 19:05:55"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：消息人士称，北京将禁止年轻的“红筹”企业在大陆以外地区上市",
-      "title_cn": "独家：消息人士称，北京将禁止年轻“红筹”企业在大陆以外地区上市",
-      "url": "https://reut.rs/4CfFZMf",
-      "pub_raw": "2026-11-20T11:05:55.425Z",
-      "pub_sort_dt": "2026-11-20 19:05:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "一家美国人工智能公司如何利用中国开放权重模型",
-      "title_cn": "一家美国人工智能公司如何利用中国开放权重模型",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/how-an-american-ai-company-uses-chinese-open-weight-models",
-      "pub_raw": "2026-11-20T09:13:46.280Z",
-      "pub_sort_dt": "2026-11-20 17:13:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "历史性的亚太经合组织（APEC）会议后，中国、美国及其他各国的立场如何",
-      "title_cn": "历史性的亚太经合组织（APEC）会议后，中国、美国及其他各国的分析如何",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-20/where-china-the-us-and-everyone-else-stand-after-historic-apec",
-      "pub_raw": "2026-11-20T08:42:09.238Z",
-      "pub_sort_dt": "2026-11-20 16:42:09"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着抛售潮加剧，香港股市跌至熊市边缘",
-      "title_cn": "随着抛售浪潮加剧，香港股市跌至熊市边缘",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market",
-      "pub_raw": "2026-11-20T08:42:09.221Z",
-      "pub_sort_dt": "2026-11-20 16:42:09"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "印尼的普拉博沃与中国国家主席习近平商讨未来在南海的合作事宜",
-      "title_cn": "外交家的普拉博沃与中国国家主席习近平商讨未来在南海的合作模式",
-      "url": "https://reut.rs/4zQBoOW",
-      "pub_raw": "2026-11-20T08:09:48.364Z",
-      "pub_sort_dt": "2026-11-20 16:09:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "路透社调查显示，2027年中国房价预计将再次下跌",
-      "title_cn": "路透社调查显示，2027年中国房价预计将再次下跌",
-      "url": "https://reut.rs/4A00vPB",
-      "pub_raw": "2026-11-20T08:09:48.361Z",
-      "pub_sort_dt": "2026-11-20 16:09:48"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "澳大利亚领导人将就贸易与安全问题与中国展开磋商",
-      "title_cn": "澳大利亚领导人将就贸易与安全问题与中国展开对话",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/australia-s-leader-to-navigate-trade-security-in-talks-with-xi",
-      "pub_raw": "2026-11-20T07:21:54.421Z",
-      "pub_sort_dt": "2026-11-20 15:21:54"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "台湾股市基准指数暴跌18%，创下自1991年以来最糟糕的一周",
-      "title_cn": "台湾股市基准指数暴跌18%，至少自1991年以来最糟糕的一周",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
-      "pub_raw": "2026-11-20T06:17:53.992Z",
-      "pub_sort_dt": "2026-11-20 14:17:53"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国如何让高市在全球舞台上显得无关紧要",
-      "title_cn": "中国如何让高市在全球舞台上保持密切关联",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-20/how-china-made-takaichi-look-irrelevant-at-the-global-stage",
-      "pub_raw": "2026-11-20T06:02:28.372Z",
-      "pub_sort_dt": "2026-11-20 14:02:28"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国为习近平在“雅尔塔2.0”上的高风险赌注而欢欣鼓舞",
-      "title_cn": "中国为习近平在“雅尔塔2.0”上的高风险赌注而欣欣鼓舞",
-      "url": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-20T06:02:27.460Z",
-      "pub_sort_dt": "2026-11-20 14:02:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国有能力增加燃料出口，但可能缺乏这一意愿",
-      "title_cn": "中国有能力增加燃料出口，但可能缺乏这种意愿",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/china-has-capacity-but-maybe-not-the-will-to-boost-fuel-exports",
-      "pub_raw": "2026-11-20T05:13:50.295Z",
-      "pub_sort_dt": "2026-11-20 13:13:50"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国与台湾最新动态，2026年11月20日 - American Enterprise Institute - AEI",
-      "title_cn": "中国与台湾最新动态，2026年11月20日 - 美国企业研究所 - AEI",
-      "url": "https://news.google.com/read/CBMid0FVX3lxTE1UZkJpNTduQ1pHWjB4WDNubXFUVmpjSUgtZUxDeTNMenR0dGJUbkVRTjY2dVdBVW9YZWFrakJBSFpveGZLZFJsck5UWjlERWRlMEN3SEo4dVpUUVZCXzMzSzNWT2YwTTNrSUVyaVhOdVpPS2ZBX1k0?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T21:08:23.000Z",
-      "pub_sort_dt": "2026-11-21 05:08:23"
+      "title_en": "分析——当特朗普沉浸于峰会的盛况时，中国国家主席习近平却巩固了自己的优势 - U.S. News & World Report",
+      "title_cn": "分析——当特朗普沉浸于峰会的盛况时，中国国家主席习近平却巩固了自己的优势 - U.S. News & World Report",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxOZmNKNFJTdVA0RGZVcmRTWDRQZ21saldCWHBHemVZNGV1RVhoRV9tZHIwR01YcjdWMXdGektTODZreHZRRlRZSy1aTENMYktVd05pS3FPS3JNc1Qyb1Jtal9rNXgtUVZIZndaV19BRFdDbUluZ2tDSG9hOUxCajYwcDJoMl9aTjhPX1NrLUx3MXR0eTdXcjE4ZjBGQWxkTFh5NzZoVlZEMTNJVV90UkhTUmdMNHk5X25ybHRLYjExVDY?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T08:44:31.000Z",
+      "pub_sort_dt": "2026-11-21 16:44:31"
     },
     {
       "source": "China Buzzing",
-      "title_en": "卡尼对华政策的转变如何成为陷入僵局的美国贸易谈判中的筹码 - Time Magazine",
-      "title_cn": "卡尼对华政策的转变如何成为陷入僵局的美国贸易谈判中的筹码 - 时代杂志",
-      "url": "https://news.google.com/read/CBMiogFBVV95cUxQMExCZjI3M2txVy1tMm90TTg5VmpnTWtoUUxGZFN4OTRoSHN3OUNYQXp6QUJjR2lEa0pJNE5EeFJ3Qkxad0E0NlIwMHhmWUhCTjRYVV9BeGQ2UGQwU1JpYzgycDh5YTZtY3N1dUdwSGJKUTJzWWtPMGt5YXBicVhrekxYTjdfNER0V1RybC1GcjZYOXMtRkhGenBLOHBLMGh0NlE?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T20:59:33.000Z",
-      "pub_sort_dt": "2026-11-21 04:59:33"
+      "title_en": "当特朗普沉浸在峰会的盛况中时，中国的习近平则巩固了自己的优势 - Reuters",
+      "title_cn": "当特朗普沉浸在峰会的盛况中时，中国的习近平则巩固了自己的优势 - Reuters",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxPWm1waHdJRVp4M2dKRlhKSHRHQmpEOFZZdGJRRndnR3ZXb0pmc1d6cUNmZWcwX3VwTHBzY1VMVmh3RDJBNVYtV2tDV1pDX25kNFhMWlE4a3N0RVpIMV80alNzRl9VQ0NMNF81UzVXTUJWVk1ZSmkwSFZDOHFNNHBLZ2RlNWloalpTOWs5UXFVQWJqenE4RGFXLWZRN1JlS1l6MnJlWQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T08:40:34.000Z",
+      "pub_sort_dt": "2026-11-21 16:40:34"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普在与习近平会晤次日表示，中国的核武建设“如火如荼” - The Washington Post",
-      "title_cn": "特朗普在与习近平会晤次日表示，中国的核武建设“如火如荼” - The Washington Post",
-      "url": "https://news.google.com/read/CBMiyAFBVV95cUxNR2JDZkhHc3FaVmUzVE9mVDRJcVI5VTV2RmdWNTFkM055cElXQ2kyLU55bjVfRFpsalR0WGhTb3hMRnpYQkgzVWJjbWF4clJXTjRiZllLaUp1R1JHRXVjTlhLcUxlMkJEekVLSmhiajBEUThkMkhhTFd0dVNsM0lFb2xJTjMzbko4NEE4em90N216MXBNZ1BVOWZ4WXVvQjBJYVRMQVlfU25Ud0JmbkRnWHZrTWIxY2Z3Z0VqYWtCTUswUVZuam01SA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T20:42:55.000Z",
-      "pub_sort_dt": "2026-11-21 04:42:55"
+      "title_en": "观点 中国确实面临经济困境，但“日本化”并不在其中 - South China Morning Post",
+      "title_cn": "观点 中国确实面临经济困境，但“日本化”并不在其中 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxNMGQzZGtManRzemwwd21CbGJnYXVEMU5UVlluR2IyZVVLWmdaZ2NSVXR0N3lES2lVZjZrdUZyd3ltLVdHbW5NTWV3ZTJCZ19YbTVURVhwSDRCZzYtMXNNSGlMNEZzeWg0MFFBUG5UakhjZEJMa2swUXlXTmdlS0Vwck56eE5GcE1rWFZlc252V2JpbldkazM0MGFTOExSNDJnZkJxM0dlanVhMVRtWWM2SEV5V2FnTUFGbk9jb0t30gG-AUFVX3lxTE9ab3ZmOWY1NkZEbEE2QWhRQzVZdmdLWEhyZTZfQmlzRHFoSXBfY080LVJ0SkRRVlNvMXJuRVp1WF9iYzBZQ01lOElsNWM1aFA4eXJwV0F5NmtDMW9QcGpjU2dkYXJZcFRxR3I2LU1MVlAzVW91eGRpZnp6U2ZpNTZqTmZwa20yaGRFV0NVRXFod2Y5Q3ZOMklaTHhwZnllVXg2dmQ5Z05NbTRtenYtLURuQTVzQ0ppSTY5bzZRSmc?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T08:30:06.000Z",
+      "pub_sort_dt": "2026-11-21 16:30:06"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国对百度处以75,000美元罚款，终结了旷视科技这起旷日持久的反垄断案 - PYMNTS.com",
-      "title_cn": "中国对百度处以75,000美元罚款，终结了旷视科技这起旷日持久的反垄断案 - PYMNTS.com",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxNTkxoZXQtYVI4aWlZYWZyUHlmSFZfZE9lX25OTC1ka24wZ0pILTE2VXdzNWZiRXhWZW5YNjNfd2lMUDJjWERzRzBpLThGaU9GWDFhbmJSNHktMzFOcXFpQVkxelFPa3JXYm1Kb2pBRnJSVHNvZW5BU2p2RDdJcXZDVkpHR2Z6YXV3YXd3V3dYQUhpblUzaVFtSGlVYkpiZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T20:26:36.000Z",
-      "pub_sort_dt": "2026-11-21 04:26:36"
+      "title_en": "铁路培训如何助力中国与非洲伙伴的关系保持正轨 - South China Morning Post",
+      "title_cn": "铁路培训如何助力中国与非洲伙伴的关系保持正轨 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxPeDhsQU5TZ2RrMGRQZThIVEFXZzlsNTZSOExhb1JJNU9ETjlwc0FOanA5NWdCeTlZRi1oVDV3MGhKWjZSTTY0a2tYbW5TWjE0LUQxbkpwMXlZTHN2NnY5OVM1Wm5YNnhZbXNFd3M0TnlWdTViVFpXQmdYdU1IZ0R4aDRaWmpoTDg0VHM4OE5MZFBzekl3THAxQXFSRXh0OVhoT0NOZmFwN0xHVG9jeFBiYlE5ZGNYVkV1UWVNOHQ5V1l0d9IBwgFBVV95cUxQYV9pZmVMNG9HZUdWN0c3T0UtSkhzaVdJSW5lS3VTb2dvbHg5NnhOREZIeW9ZYmRvVVo2RHhYbFNRRzJsRlVCbVZoT25tREJIalBxX243dURtLWlxMXAweWVzUFhFQk5QYWlMTi0yelEzNmN3NFZOMjd4LXE0YUFoWENCcnlNNTlmTUdZX0hkSG1Sc1JTWVlHbUE5dE91ZnNPS3pTcFpTUEtaajJrNmUxdTZBVnJwdTZFX3F0NzB3RHh0QQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T08:00:15.000Z",
+      "pub_sort_dt": "2026-11-21 16:00:15"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普在与习近平会晤次日表示，中国的核武建设“如火如荼” - WRAL",
-      "title_cn": "特朗普在与习近平会晤时表示，中国的核武建设“如火如荼” - WRAL",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxQR2ZOY19POEZQNFp5OW9fcm83ako2dG9ObC1xeGZ4X2p3eE5rbFBGN1FpeWhRT1M0RmEwYjE5VGtnR0NFX2VnYTF4QS1VU21yVDNqM3d6TXpWVE1GaGQ0Y3dEZTRPUHFybExuT3VDWk5jZ1daVEJxSzJmNHl1aXcybEdtS1RqZjNTSlNFUm5HTmdDQ0tyMk5zZ0dZMTV4VVZINTJ0SlJfMC1XU2RWMzlxQzlPRVo?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T20:16:09.000Z",
-      "pub_sort_dt": "2026-11-21 04:16:09"
+      "title_en": "中国大陆游客出行次数增多，但消费更加谨慎 - South China Morning Post",
+      "title_cn": "中国大陆游客出行次数增多，但消费更加谨慎 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMi3AFBVV95cUxPZE9Gc1kwTk5zZk9iNmZvT1J0RnFON2pNaDZUUWNhSkdsbmdhX3dtaGo5YkZVVnVYWE5yY19HVjhvN1BjTUZQZzBPZG1zZFp0OUJBOVVrUnh4TlNxdUdsTHVkVERZUTExR2hwdXlyRHZoMERLZU16bGZDSk1qa0dJRm96d0tRdnIyS0hoWUxINXY3OE5taXozWFVfRHNDcFdyRDB5VFhGNkhMN0ZmZF9hVmZVby1tM0VaVkJWNHJTcXItbmJsZTlGSmVyQXI0RVQyOFRWdDJ0d2JycHM0?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T08:00:12.000Z",
+      "pub_sort_dt": "2026-11-21 16:00:12"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普在与习近平会晤次日表示，中国的核武建设“如火如荼” - AP News",
-      "title_cn": "特朗普在与习近平会晤时表示，中国的核武建设“如火如荼” - 美联社新闻",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxQYTktQ3FNMU5KTldxU1VTOF8tZDBvdEF0MlNLZVVfeENlbl9zSDNuZ056b1lRTWs5X0dHM0NUZzBjOF94OWl5VDBBWVZXYzJIRm1FZ01aZnktQkVfVE5jU3FxSjVSSXhOcjNURVNhYTZfQkcxQS1JWm1RZk96aUp4eHVTcUcxYW1JdEpPSThySm52cVpY?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T20:12:00.000Z",
-      "pub_sort_dt": "2026-11-21 04:12:00"
+      "title_en": "中国冬季必备单品？山姆会员店一款60美元的羽绒服 - South China Morning Post",
+      "title_cn": "中国冬季必备单品？山姆会员店一款60美元的羽绒服 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMiwgFBVV95cUxPamtLc0l1eEYydkhHVkItSGlwbngtN0stbmxDVjRDZXhCMGpXREVZNEt5ZllGN3VKSXpoNmJYYmtkSjhNa05WYkNMTkdCclhlOGp1VDNjcndweGNfbWFvdDdZLVNtNGtBcDUxd2RudTVxajMxWW8wbkJ1M1JKNnk3Vi1Wc2l5N0pnSmd1TnpMOXdTTC1POUN3TjFPMmRZUnBzNGR0WTZFcnNGX19KNjJ1RVNyWmgwOFhNNDd6Rmg0bXBaQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T08:00:11.000Z",
+      "pub_sort_dt": "2026-11-21 16:00:11"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国的债务危机：新闻报道 - Independent Institute",
-      "title_cn": "中国的债务危机：新闻报道 - Independent Institute",
-      "url": "https://news.google.com/read/CBMieEFVX3lxTE9Bc1pDX0ExQjlnM1Nkbm9kei04VGc3ZmJKczNiWEpDc1lrMlFQaUt5dUNZQTZ1ejV2aGNMWFpENjE1cHp1WDFudmt4blpPYl9VeGlTb2swWGhSNEhxdzJQWHJERVNuSWRES1ZFMWRBbFBjQWlkOW1wWA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T20:02:44.000Z",
-      "pub_sort_dt": "2026-11-21 04:02:44"
+      "title_en": "评论：西方凭借不起眼的钨挑战中国在关键矿产领域的霸主地位 - Reuters",
+      "title_cn": "评论：西方凭借不起眼的钨挑战中国在关键矿产领域的霸主地位 - Reuters",
+      "url": "https://news.google.com/read/CBMi3gFBVV95cUxOMlRQcTdOLUU4SUtDTFBsaC1ncUJyTUNoRFRkNFNiWng5UFotbmFwTmxONjktMF9uT2RqM1JTZUswWXA0Q0pBZ29PcGVIMnFyckZkaGpGUUdQaHdjc0Etb2NoUUh3dXRtMlhMcG1WbXVwcXA4NkpTQmI2Wnc0emdXaXNXdTBrU3BVSDJGZ1FWRWpObmhFalpQcFlLMC1nLXE4SHd5T3RkU3FLc3dEX1BReVc1N0cxaHJCMHF5a3c5NEhuSWg2WHFYbGNsZ3VVSU52NkktaHZqanZRenJfUEE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T07:00:00.000Z",
+      "pub_sort_dt": "2026-11-21 15:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "此时正是向中国表达感激之情的好时节 - Financial Times",
-      "title_cn": "此时正是向中国表达感激之情的好时节 - 英国《金融时报》",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxPQ3pBNkRaaS0zX3diU3Y1a2FKVXpUblNYbHNWTlgteml2eTRDNnJxQ1U2SDZFaWRSa09Ic1k3MkJQbGhiTkZKUThsR2doSEVGU001bmpWNDJPTEp5UnpPOW11ekdkY2tuZ2g0TmpJdkFoNEhSNEVDZWJteExjcXYyQ0NlSTA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T18:57:07.000Z",
-      "pub_sort_dt": "2026-11-21 02:57:07"
+      "title_en": "预计中国智能计算将占总计算能力的90%以上 - China Daily Global Edition",
+      "title_cn": "预计中国智能计算将占总计算能力的90%以上 - China Daily Global Edition",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxNVkFzMENXbENnUHVLai1RQVRsMWdTVmlDbzZkVXFEaWRQTFMyQ2hpeEhUb1poeUVyMmpTWnBid3l3WEFEUWx6RzZoT3JTWGpSZDh4WGNka0J6R3RtOWtiVUNKcTd6YnlLaldMR0ZIN3F1TkhLaGhHWXJPbzV2NUczbGRn?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T06:09:56.000Z",
+      "pub_sort_dt": "2026-11-21 14:09:56"
     },
     {
       "source": "China Buzzing",
-      "title_en": "特朗普表示，只应向中国出售老旧芯片 - Reuters",
-      "title_cn": "特朗普表示，只应向中国出售旧芯片 - 路透社",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxQOFEtNXdjeFdVNFdzb2gyY0R6cENORm5IRHNyNWY0RWVYcEY0SHRpQ2RTZEEzT0RnTnhWUVNHNV9qaVl0N1RjaExzcUtCdmFybmwzSUFKUG42T1ZLT19UTm1YbFdESzVtQWxQeHhaZWVBSXA3aGdSVDB4NTd6ZzdRS1NKbl80YVV4RlpiYXE3VVRFMXVvVktaQ2pwcDk?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T18:40:12.000Z",
-      "pub_sort_dt": "2026-11-21 02:40:12"
+      "title_en": "中国市场电动汽车销量占比超70%，燃油车则首当其冲受到销量下滑冲击 - South China Morning Post",
+      "title_cn": "中国市场电动汽车销量占比超70%，燃油车则首当其冲受到销量下滑冲击 - South China Morning Post",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxQQjFRWEtaRnh6Z3E0dXdKVERmTWJEcHp2TVR5dkUzRUZwa2JmTHcyRnVpQ3c2V0k1OEdJVUN6bGo4X2Y4U3VaNVZxbGRUelB0X1ByVElfYUVNY2F6LUhSY1JuRHVFRnZ5c3NGU2lva3BMMlBVbldEMEJvOUJ6OVB0czlXQ2VTejVTMlFRQmtDakxFWm5aZVlkaUVsbFR5b2hOaGt6WDVaLUMzd0dBNTlVenotMDNRV3Itckp1NjlGdUtrQ1pNOFhRWUxzckxJZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T06:00:09.000Z",
+      "pub_sort_dt": "2026-11-21 14:00:09"
     },
     {
       "source": "China Buzzing",
-      "title_en": "间谍案嫌疑人的芯片网络与中国军方供应商有关联 - The New York Times",
-      "title_cn": "间谍案嫌疑人的芯片网络与中国军方供应商有关联 - The New York Times",
-      "url": "https://news.google.com/read/CBMiigFBVV95cUxNVjhXZ2xYTDVHWE9xVzhIZVdLOVF3XzB2WEcxNnRlUFNCZzNvSDFtZG81UFZRTnJyLWJzTXdKbER1MExJcVhlUy11ckx1X1hnQjM0Z3NLNm1RMHlBSmdacjdOMHlfSDBSSUVHeVQ2bDQ1SWFVTUlHb2g5aVZWTGluWGt4TUtkMU5nSXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-20T18:05:36.000Z",
-      "pub_sort_dt": "2026-11-21 02:05:36"
+      "title_en": "中国如何利用峰会扩大其全球影响力 - CNBC",
+      "title_cn": "中国如何利用峰会扩大其全球影响力 - CNBC",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxOZWMxMzhGQWx2Z0ZFcl9uc0ZhQjJuYUt3amt1TDdqSkpPa0xRVl9ITG42TW5VeENLd2xoYnA1WGlZdFlmNlM1SmNuSGF2N3NOd0JPLV9rZXJENmx2ZTVITzNPeFhTM0R1RDdDZ2IzbldRVzVmVkMtcjFRVHVYdW5BVEZaUVNpX1lyaTlv0gGQAUFVX3lxTE0wV3Bsby1xNE13eVc4dHZ5YVl1UzJJbDBIVDZRbkpabHlEcVlaQm5XUHp1cWUxZ2pYX3lQSGppQzNIYnZWazQwQWdWTW1oLUpOaFRDN1hpQU1USTNwZ2hRa015Y0w1SFB6OU5UMHVPRF8yQldEYlZHTjk4TUQ1eFpvOE9kcjUwOHBQc25LbzNXRg?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-21T06:00:02.000Z",
+      "pub_sort_dt": "2026-11-21 14:00:02"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "人工智能如何迫使中国重塑产业政策",
+      "title_cn": "人工智能如何迫使中国重塑产业政策",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
+      "pub_raw": "2026-11-21T09:09:51.881Z",
+      "pub_sort_dt": "2026-11-21 17:09:51"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "受人工智能担忧影响股价暴跌，台湾扩大做空限制",
+      "title_cn": "受人工智能担忧影响股价暴跌，台湾扩大做空限制",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets",
+      "pub_raw": "2026-11-21T09:09:51.871Z",
+      "pub_sort_dt": "2026-11-21 17:09:51"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "当特朗普沉浸在峰会的盛况中时，中国的习近平则巩固了自己的优势",
+      "title_cn": "当特朗普沉浸在峰会的盛况中时，中国的习近平则巩固了自己的优势",
+      "url": "https://reut.rs/4terzrt",
+      "pub_raw": "2026-11-21T08:54:48.379Z",
+      "pub_sort_dt": "2026-11-21 16:54:48"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "英伟达事件让中国间谍成为焦点",
+      "title_cn": "英伟达事件让中国间谍成为焦点",
+      "url": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
+      "pub_raw": "2026-11-21T05:10:42.493Z",
+      "pub_sort_dt": "2026-11-21 13:10:42"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "中国打击离岸避税行为使预算出现罕见盈余",
+      "title_cn": "中国打击离岸避税行为使预算出现罕见盈余",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/china-s-offshore-tax-clampdown-pushes-budget-into-rare-surplus",
+      "pub_raw": "2026-11-21T03:50:50.155Z",
+      "pub_sort_dt": "2026-11-21 11:50:50"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "刚结束中国之行，特朗普在一场自由随性的记者会上左躲右闪",
+      "title_cn": "刚结束中国之行，特朗普在一场自由随性的记者会上左躲右闪",
+      "url": "https://reut.rs/4l4ZbpG",
+      "pub_raw": "2026-11-21T02:14:51.987Z",
+      "pub_sort_dt": "2026-11-21 10:14:51"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "香港餐厅点评：人气中餐酒吧连锁店Commune Maison",
+      "title_cn": "香港餐厅点评：人气中餐酒吧连锁店Commune Maison",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/hong-kong-restaurant-review-popular-chinese-dining-bar-chain-commune-maison",
+      "pub_raw": "2026-11-21T00:06:54.179Z",
+      "pub_sort_dt": "2026-11-21 08:06:54"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "特朗普表示，只应向中国出售老旧芯片",
+      "title_cn": "特朗普表示，只应向中国出售老旧芯片",
+      "url": "https://reut.rs/4CaBzGB",
+      "pub_raw": "2026-11-20T23:19:00.931Z",
+      "pub_sort_dt": "2026-11-21 07:19:00"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "荷兰法院以与中国产SUV外观相似于路虎卫士为由，禁止该车型在欧洲销售",
+      "title_cn": "荷兰法院以与中国产SUV外观相似于路虎卫士为由，禁止该车型在欧洲销售",
+      "url": "https://reut.rs/3V4s6jk",
+      "pub_raw": "2026-11-20T23:02:56.420Z",
+      "pub_sort_dt": "2026-11-21 07:02:56"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "莫雷诺称，议员们即将就禁止中国汽车达成协议",
+      "title_cn": "莫雷诺称，议员们即将就禁止中国汽车达成协议",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/lawmakers-on-verge-of-deal-to-ban-chinese-cars-moreno-says",
+      "pub_raw": "2026-11-20T22:15:53.136Z",
+      "pub_sort_dt": "2026-11-21 06:15:53"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "特朗普访华后，美国众议院共和党人推动制定人工智能战略以对抗北京",
+      "title_cn": "特朗普访华后，美国众议院共和党人推动制定人工智能战略以对抗北京",
+      "url": "https://reut.rs/3VdTprt",
+      "pub_raw": "2026-11-20T21:59:44.030Z",
+      "pub_sort_dt": "2026-11-21 05:59:44"
     },
     {
       "source": "Financial Times",
@@ -345,7 +433,7 @@
     {
       "source": "Wall Street Journal",
       "title_en": "共和党资深参议员称卢特尼克无视了他关于中国芯片问题的警告",
-      "title_cn": "卢特尼克无视了他关于中国芯片问题的警告",
+      "title_cn": "共和党资深参议员称卢特尼克无视了他关于中国芯片问题的警告",
       "url": "https://on.wsj.com/4zun9hJ",
       "pub_raw": "2026-11-20T18:17:02.960Z",
       "pub_sort_dt": "2026-11-21 02:17:02"
@@ -361,7 +449,7 @@
     {
       "source": "Reuters",
       "title_en": "中国为何不愿成为世界下一任气候领导者",
-      "title_cn": "中国为何不愿成为世界下一届气候变化领导者",
+      "title_cn": "中国为何不愿成为世界下一任气候领导者",
       "url": "https://reut.rs/4CgRlj6",
       "pub_raw": "2026-11-20T17:12:38.257Z",
       "pub_sort_dt": "2026-11-21 01:12:38"
@@ -369,7 +457,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国机器人、汽车和半导体的出口令竞争对手陷入困境",
-      "title_cn": "中国机器人、汽车和半导体的出口令陷入困境",
+      "title_cn": "中国机器人、汽车和半导体的出口令竞争对手陷入困境",
       "url": "https://www.bloomberg.com/news/features/2026-11-20/china-s-exports-of-robots-cars-semiconductors-make-life-hard-for-rivals",
       "pub_raw": "2026-11-20T15:20:54.036Z",
       "pub_sort_dt": "2026-11-20 23:20:54"
@@ -393,7 +481,7 @@
     {
       "source": "Bloomberg",
       "title_en": "中国脱口秀热潮考验着言论自由的界限",
-      "title_cn": "中国脱口秀热潮考验着自由的界限",
+      "title_cn": "中国脱口秀热潮考验着言论自由的界限",
       "url": "https://www.bloomberg.com/news/articles/2026-11-20/china-s-stand-up-comedy-boom-tests-the-limits-of-free-expression",
       "pub_raw": "2026-11-20T12:08:48.518Z",
       "pub_sort_dt": "2026-11-20 20:08:48"
@@ -401,98 +489,10 @@
     {
       "source": "Bloomberg",
       "title_en": "宁德时代、立讯精密将入选香港科技指数，该指数将进行重大调整",
-      "title_cn": "宁德时代、立讯精密将旗下香港科技指数，该指数将进行重大调整",
+      "title_cn": "宁德时代、立讯精密将入选香港科技指数，该指数将进行重大调整",
       "url": "https://www.bloomberg.com/news/articles/2026-11-20/catl-luxshare-to-join-hong-kong-tech-index-in-major-revamp",
       "pub_raw": "2026-11-20T11:05:55.465Z",
       "pub_sort_dt": "2026-11-20 19:05:55"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "独家：消息人士称，北京将禁止年轻的“红筹”企业在大陆以外地区上市",
-      "title_cn": "独家：消息人士称，北京将禁止年轻“红筹”企业在大陆以外地区上市",
-      "url": "https://reut.rs/4CfFZMf",
-      "pub_raw": "2026-11-20T11:05:55.425Z",
-      "pub_sort_dt": "2026-11-20 19:05:55"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "一家美国人工智能公司如何利用中国开放权重模型",
-      "title_cn": "一家美国人工智能公司如何利用中国开放权重模型",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/how-an-american-ai-company-uses-chinese-open-weight-models",
-      "pub_raw": "2026-11-20T09:13:46.280Z",
-      "pub_sort_dt": "2026-11-20 17:13:46"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "历史性的亚太经合组织（APEC）会议后，中国、美国及其他各国的立场如何",
-      "title_cn": "历史性的亚太经合组织（APEC）会议后，中国、美国及其他各国的分析如何",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-20/where-china-the-us-and-everyone-else-stand-after-historic-apec",
-      "pub_raw": "2026-11-20T08:42:09.238Z",
-      "pub_sort_dt": "2026-11-20 16:42:09"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "随着抛售潮加剧，香港股市跌至熊市边缘",
-      "title_cn": "随着抛售浪潮加剧，香港股市跌至熊市边缘",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market",
-      "pub_raw": "2026-11-20T08:42:09.221Z",
-      "pub_sort_dt": "2026-11-20 16:42:09"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "印尼的普拉博沃与中国国家主席习近平商讨未来在南海的合作事宜",
-      "title_cn": "外交家的普拉博沃与中国国家主席习近平商讨未来在南海的合作模式",
-      "url": "https://reut.rs/4zQBoOW",
-      "pub_raw": "2026-11-20T08:09:48.364Z",
-      "pub_sort_dt": "2026-11-20 16:09:48"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "路透社调查显示，2027年中国房价预计将再次下跌",
-      "title_cn": "路透社调查显示，2027年中国房价预计将再次下跌",
-      "url": "https://reut.rs/4A00vPB",
-      "pub_raw": "2026-11-20T08:09:48.361Z",
-      "pub_sort_dt": "2026-11-20 16:09:48"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "澳大利亚领导人将就贸易与安全问题与中国展开磋商",
-      "title_cn": "澳大利亚领导人将就贸易与安全问题与中国展开对话",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/australia-s-leader-to-navigate-trade-security-in-talks-with-xi",
-      "pub_raw": "2026-11-20T07:21:54.421Z",
-      "pub_sort_dt": "2026-11-20 15:21:54"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "台湾股市基准指数暴跌18%，创下自1991年以来最糟糕的一周",
-      "title_cn": "台湾股市基准指数暴跌18%，至少自1991年以来最糟糕的一周",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
-      "pub_raw": "2026-11-20T06:17:53.992Z",
-      "pub_sort_dt": "2026-11-20 14:17:53"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国如何让高市在全球舞台上显得无关紧要",
-      "title_cn": "中国如何让高市在全球舞台上保持密切关联",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-20/how-china-made-takaichi-look-irrelevant-at-the-global-stage",
-      "pub_raw": "2026-11-20T06:02:28.372Z",
-      "pub_sort_dt": "2026-11-20 14:02:28"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国为习近平在“雅尔塔2.0”上的高风险赌注而欢欣鼓舞",
-      "title_cn": "中国为习近平在“雅尔塔2.0”上的高风险赌注而欣欣鼓舞",
-      "url": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-20T06:02:27.460Z",
-      "pub_sort_dt": "2026-11-20 14:02:27"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国有能力增加燃料出口，但可能缺乏这一意愿",
-      "title_cn": "中国有能力增加燃料出口，但可能缺乏这种意愿",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/china-has-capacity-but-maybe-not-the-will-to-boost-fuel-exports",
-      "pub_raw": "2026-11-20T05:13:50.295Z",
-      "pub_sort_dt": "2026-11-20 13:13:50"
     }
   ]
 }
