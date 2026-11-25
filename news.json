@@ -1,99 +1,179 @@
 {
-  "update_cst": "2026-11-25 18:01:09 北京时间",
+  "update_cst": "2026-11-26 06:01:07 北京时间",
   "total_count": 30,
   "source_stat": {
     "China Buzzing": 10,
     "The Economist": 0,
-    "Bloomberg": 7,
-    "Financial Times": 3,
+    "Bloomberg": 5,
+    "Financial Times": 1,
     "Wall Street Journal": 0,
-    "Reuters": 10
+    "Reuters": 14
   },
   "china_news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国华为因银行欺诈及与伊朗的关联在美国被判有罪 - Time Magazine",
-      "title_cn": "中国华为因银行欺诈及与伊朗的关联在美国被判有罪 - Time Magazine",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxQTEpCVDBTbmUyM2hOckpXSFNPMVQyM3p1MkFxWVlZbXVuMDVMbFZZOFVfVTNkQTNsb29NdFZ2d2hzN2lxX05VU0FHbzFNb0JOcFhDek1ia0NRYTR5dTJ3UTRiWFdfU2otdHpiYU5hMGN5MW5tTHhOOFZDbDVvczRPbjNld1g0SmE0bHM3Vlk1SDJqZFhPaHdBbg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T09:30:00.000Z",
-      "pub_sort_dt": "2026-11-25 17:30:00"
+      "title_en": "美国官员称，没有证据表明中国曾协调黄仁勋的婚外情 - WSJ",
+      "title_cn": "美国官员称，没有证据表明中国曾协调黄仁勋的婚外情 - WSJ",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxNcGFwS1ZEYWlBX1g2RF9CX3h5ZmxFQm9ESHR2TURRZ0ZscGFtdk9UaFZabHNiQ1JYOTNmbHlpZWZfcy1qZWM4MXhwOVo1U0g0VWFoODdZckdvTUdBLVAtbk1UYU5BNHVQX2VUUktMMHNHWjIyZE1BNHhpYnE1d2p3MVVjTjNuN05GdXhrbEFXNXNJVGx3X0xXbGVpQ2xUdkp6SnZGbm9ENDVFTU5fZzVvcTBLUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T21:48:00.000Z",
+      "pub_sort_dt": "2026-11-26 05:48:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "盖布吕德·魏斯将威士忌物流业务扩展至中国 - Logistics Business",
-      "title_cn": "盖布吕德·魏斯将威士忌物流业务扩展至中国 - Logistics Business",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxPRTRwd0w3S3lTU1RhRFd3Q0ttbzBiTUdpQk8xUkZLVHRzRXRJUVZyQTQ4N3NzRzZWeERVbF9kV0ZpVHBCcHctak16QllJcHE3dEdyRFJSa1FKdDROYkZuenhFb3VqZE1FVlgwcUhUNE8wOEI5NnQ1OWxpUmRsdTlCRGJkbkFsbTdRWGV2cFE5aUFVSkhmcjV3Ym8xSGVCd3Vm?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T09:00:46.000Z",
-      "pub_sort_dt": "2026-11-25 17:00:46"
+      "title_en": "美国宣布加征关税后，中国做好应对准备 - Bloomberg",
+      "title_cn": "美国宣布加征关税后，中国做好应对准备 - Bloomberg",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxNS3NyOFFZY3BES2RUSW1SemdaTWUwNGplTjBWQ2drSjc0cy1RV0pIdEMzbmdadV8wbUViUXI1eEFDQlNjN3pCT2M1LWVYYU42OEtYTU1meEZKT2ZqeFVrUlU5cUdia1pJMHlFNDVYZGRGWmE1WDZmQWcxQTl6UkstWElHbmlKSXpHNHdna2x5OXlsTlg0eWRuZ1B6ejhwdF9nM1o2ZGNIMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T21:44:45.000Z",
+      "pub_sort_dt": "2026-11-26 05:44:45"
     },
     {
       "source": "China Buzzing",
-      "title_en": "阿斯利康的中国战略：减少销售人员，增加投资？ - South China Morning Post",
-      "title_cn": "阿斯利康的中国战略：减少销售人员，增加投资？ - South China Morning Post",
-      "url": "https://news.google.com/read/CBMi4wFBVV95cUxNalVVRkcyTS1lR3pWeEFWcUtOa1RGQ0FRWDU1M0JEcnphRDZ0UjcyOHlOWXBJRldOU1hDYzUzZ1VYR0xSQjZjdTJBcG12c2I4RjljX2E5Tk5VYnZJYWNMS0hrRzFJeExCZ0tPbl96Ri1RLVVlakpNb1ZYNXI1SXdZY19ZckYxLTU5MVlQdWVmejl1RGM0Z0ZDS0lYWDkxNHZUNkVIMHNBU2dJa2RENXlDXy1XTjIzSFlBQ3pBSUhfZnN4UkphaC0ycm8ydWZmckthZVkzaVNUbGZFeF9xQXJ1SmR2NA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T09:00:06.000Z",
-      "pub_sort_dt": "2026-11-25 17:00:06"
+      "title_en": "微软：中国的“Salt Typhoon”黑客组织正在使用Artex - The Record from Recorded Future News",
+      "title_cn": "微软：中国的“Salt Typhoon”黑客组织正在使用Artex - The Record from Recorded Future News",
+      "url": "https://news.google.com/read/CBMifEFVX3lxTE5fTzRPVmxMSk9Ua2tyb2s0a05sVVJuS280ZDU0dkZOVnFIbm91TkNaT0NvSHAxRHdlUGFENlI3bGRsbHNQSVQ0U0FRQm1mU0NpejlQcFJWd2hmWUVmaTVMdm9nTmg5Z3lyTkxzSF81aWh3cjdjRHFsY0hGTVU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T21:28:48.000Z",
+      "pub_sort_dt": "2026-11-26 05:28:48"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国乐队“Horseshoe Road”在中国甘肃省敦煌通过音乐架起文化桥梁 - People's Daily Online",
-      "title_cn": "美国乐队“Horseshoe Road”在中国甘肃省敦煌通过音乐架起文化桥梁 - People's Daily Online",
-      "url": "https://news.google.com/read/CBMiY0FVX3lxTE9MZEFuOE9XVHJ2cVBRMzR5VWxpa1Vtc2p1LTZRU3pVbFhWRVpqVWJURUZ4NjN3N3duWTNUUmxCZDh0VDR6MnVLdEtodzdpODR2Wk52d3A3emluZl9mRk1QUnBaUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T08:58:00.000Z",
-      "pub_sort_dt": "2026-11-25 16:58:00"
+      "title_en": "特朗普提议对中、欧及其他贸易伙伴加征新关税 - The Washington Post",
+      "title_cn": "特朗普提议对中、欧及其他贸易伙伴加征新关税 - The Washington Post",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T21:12:18.000Z",
+      "pub_sort_dt": "2026-11-26 05:12:18"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着印度转向棕榈油，中国大豆油出口的意外热潮趋于降温 - Bloomberg.com",
-      "title_cn": "随着印度转向棕榈油，中国大豆油出口的意外热潮趋于降温 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxPNDlMWTB4WXNXeUY2QTBpVlNrU3o2Q3BwRE1oMXFIQmFKTUVhSV9ZcThKbmlhRU4zV005RUMzVWpJbzRFRWxXa2l2T3VNbVJFaHhIMzdrb3lfTmRsMksxb093c1piVVVxU1l5N0NPbVp3MXBGOWYxLV9MUVFoMkQtT3pkQWFLeDU4OGJIeEp6NnZ5Q05NU19uTEI2d1NpZHBlbnM1dXlVZ2VfQ1plVE5wUGFNREF3UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T08:53:51.000Z",
-      "pub_sort_dt": "2026-11-25 16:53:51"
+      "title_en": "欧盟混合动力配额削减了中国的配额，增加了日本和土耳其的配额 - Automotive News",
+      "title_cn": "欧盟混合动力配额削减了中国的配额，增加了日本和土耳其的配额 - Automotive News",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxOT0FqREZITDNqOFpRc0hzWmRQUk04b0ZuUldGakV2WmxhRkNxSGZlMzJJV0ZfdWN3TmxaMkZzSDlCRGxwZVBPaTVhNDlobEtRR01pN25OMmZGd0dqMTBpa0o0ZXpRbDQtMjBqRUVDN25xVlQ2Z3lhWEYzMkRxZlJVcm5HNGgtSVJWeW04?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T20:48:00.000Z",
+      "pub_sort_dt": "2026-11-26 04:48:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国新疆批准了一项价值2.85亿美元的电解制氢项目 - Renewables Now",
-      "title_cn": "中国新疆批准了一项价值2.85亿美元的电解制氢项目 - Renewables Now",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxOS1V4WmNnN1JqVmg4Tl9STUdmX0w3d2Rrc0ExWWJnLUxJdk1TaklEU29TUW1zc1RXT2FEWTdvTVBNbUVSbXlLalRJSlVhWUx4NnR1a2xlelc3YjFzZFduM0w3UDFSWUlpMkZsT3BjZG41YUxTc2VqcXp6NzhkUi1xTHgzUjhuczNQOG9SbnQzZElPTXV4ODhYTXU4X3pVMEc1Q3B1OER3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T08:51:23.000Z",
-      "pub_sort_dt": "2026-11-25 16:51:23"
+      "title_en": "在中國迎頭趕上之前，核武器控制工作將暫停 - The Economist",
+      "title_cn": "在中國迎頭趕上之前，核武器控制工作將暫停 - The Economist",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxQTmpSekMybnFNVjBFcVN2NWhGenhaRFZUNFhNaVBVSXpPZmRHNjZNUkxaLU94WXR4WlQ4ck1wVmF2OWZIQWp0NXJ2YmhGS1Y1YU9Jbm5YMlpTYUV3VFVEZjdMUi11bnpBVnFqQ29wQldIREF0aWJXSW9CWm1OTWlCVUNVZFlIa2F1Q1VDcjlWV2NIUFZEUWNuMnp1UzFydw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T19:48:17.000Z",
+      "pub_sort_dt": "2026-11-26 03:48:17"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国“神舟24号”飞船与空间站对接，首次搭载外籍宇航员 - NBC News",
-      "title_cn": "中国“神舟24号”飞船与空间站对接，首次搭载外籍宇航员 - NBC News",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxPbVhIMFFLSkVWQ3FQVUJZYl83OTF4N3BxR2pReVpwal9iMzg5a1VFQnVqQnNRTVJZZ0I0RWVMMHpZZ0pvclJoN25tSzhwSjRzaXNWdFJRQVlpZm9xSVl2YW40STZiSTdFVmJTbmlXVkN5eUV2a1FfNkRaLXZMSjFDY2RhZHNsNUowdkpQUzFMREl1b0NQdmczQUpXZHJQb0VNb01meGFUb3d2b1I0Z2VwVVpiVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T08:30:46.000Z",
-      "pub_sort_dt": "2026-11-25 16:30:46"
+      "title_en": "据报道，随着美国收紧针对中国的出口漏洞，英伟达芯片销售商正争相寻找新买家 - Yahoo Finance",
+      "title_cn": "据报道，随着美国收紧针对中国的出口漏洞，英伟达芯片销售商正争相寻找新买家 - Yahoo Finance",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxPeGpXUGNVWTZLU2ZRbGtlR1RJSTRQdng2N2hnWW94aS1reGJVRVp1MXpSQUg5Qi1WSE1MYzJJTTZOS0xFRnRMRUhZbklQM2k1SF9mYzRDeXl3emdoVW5IN055NC1RV1liREs0SlFkWXA2Q3M3VlZmc0pnall4SGJXX0Q2V1RIMVRyUGF5YnJ3U3RvOV9pZFhSRzdUUkVFdzBzZkVtX3hR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T19:02:23.000Z",
+      "pub_sort_dt": "2026-11-26 03:02:23"
     },
     {
       "source": "China Buzzing",
-      "title_en": "Leapmotor 成为中国首家下线第200万辆汽车的新能源初创企业 - Future Transport-News",
-      "title_cn": "Leapmotor 成为中国首家下线第200万辆汽车的新能源初创企业 - Future Transport-News",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQX1Zzc1hObXhWRjVDcDU2NGs2TlY1MlkxdVctam16TFJNRUVzTUdWYWJZdzg3SDZuRlBrY000b2RzUHVGelo1TjBDeC1VbmZpZFpleG5WQ0tsSlF2UWFwUXFRWkZGOEVmRU1pZ3RKN01ETlR3a21iV3Q3TW5PUDVLMFcxbWM3azZwUFZDRmJuVDFLdEtsNFlPLXh3NmRoOF9YelZ5ZVRZOHA4Qno1UWZRb2xYWFBPTXhpNXRz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T07:40:47.000Z",
-      "pub_sort_dt": "2026-11-25 15:40:47"
+      "title_en": "芯片和稀土使中美停火局面仍显脆弱 - Bloomberg",
+      "title_cn": "芯片和稀土使中美停火局面仍显脆弱 - Bloomberg",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxNRVY1NjlncFBpOU5YaElBZ1hwSThSVWZyRTFJeHN1eW1KWVQ3MmNWUDc1eURzbUczWWNlVG80TDZGcGN2ZWU2bnh0TmlDWmJOSHVqNzZ5Q0JnRnQ4TGIwYWRNUDgxU0xMTGlCQUUtYU40cFZkMnJHWjBpN2llMGJuX18wRXZySzM2QjNOV2l5NFpuTEdhWEhBZ2ZHWkJQWDR3cUg4aWRsTjlraDA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T19:01:22.000Z",
+      "pub_sort_dt": "2026-11-26 03:01:22"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中巴载人航天任务筹备了十年：部长表示 - South China Morning Post",
-      "title_cn": "中巴载人航天任务筹备了十年：部长表示 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxNNkxYd20zUXdqam4yY0ZOcFRmcFV4VmRVQzRyTTJvT2ZsNXN1WkY0d3BzZktVWUJCeVZXZHJNczdJYVEwbVdESXZWcnFQTmlYSGR2RVhwcVZzM2htZE80REZMU3RBQ3otMUFUS0l3Mm5Qa0NpZ0VIRUZqQ2xUNS16SkN3eEhhdnpVcXNFSnpwU05hSGtKSE1SZWRRYktndTNNQ1puSkNFWDNzeVdsa0hTYnZPSHdRTTZPY2o1REtUdUR5RmYweTZ3TnZR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T07:11:14.000Z",
-      "pub_sort_dt": "2026-11-25 15:11:14"
+      "title_en": "分析：美国授予习近平“主席”头衔 - Nikkei Asia",
+      "title_cn": "分析：美国授予习近平“主席”头衔 - Nikkei Asia",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxNenNQbEN4aE91Rkp3Z09wNkdkelpUcUI1VVZyN3YybDg2NzUzaG5lR0M5RFhaajRrdmNFV2Ftc3FlZ0tLb0lBVWNLTHNCb2dkcHlqcHF6RExWYS12bWJlZWJSX0xCR28wWUNBRHc5T0dST1pzbEJyWDlSN05Cckp5REcyMzVvQy1WTmJQazJCY1dDSEJlemctcEVJVmxyMDVIbzU2X1pZalJUQmZZeWJ0cV9lSnk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T19:00:00.000Z",
+      "pub_sort_dt": "2026-11-26 03:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "从中国到欧盟，塞尔维亚已成为制冷剂黑市交易的枢纽 - Balkan Insight",
-      "title_cn": "从中国到欧盟，塞尔维亚已成为制冷剂黑市交易的枢纽 - Balkan Insight",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxOUEtwSWhFa2ZfMXY2bmFFVmloYWk3bmU3OFQ3MWF5UjZjRHFBSG1iWFg1cUhoUVQ4RHkzZEs0UG1ZdWxnM0NRdGdzZnpGREY4cGF2NlpzdlpWQk1oNldLZjRGVWlCY085cWR2VTJHMm10dkZXWThjTTd3RWN4OThyUXVNUnBSNTFDVVhhR2hzbFVCSFpGOHducWppNlZpcG5IQklWUlVxSE5RR244bTNpUGV2N3Z0RXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T06:56:15.000Z",
-      "pub_sort_dt": "2026-11-25 14:56:15"
+      "title_en": "新泉机器人通过机器人零部件交易获得中国长班5%的股权 - Dealroom",
+      "title_cn": "新泉机器人通过机器人零部件交易获得中国长班5%的股权 - Dealroom",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxPbzFrbElzR0JNWFJfMjdoTTdzMDJGU0h1UmQ5TDdtRi04LU5lNlZMNUlFNGxweFJXS1pKUUN5clFnTHV3UkFOMmUySzV4WnZRU2JubWRXV1c4eUo1SEtqYm5ueHM3VVVLYm1FUGJaWFI5dWNVOVc1MV9iVm1VSjBKMDFEbGtEa1dfaE91Zzg1MVpzaHhMUDRfMU5aT2FtQUE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T18:27:16.000Z",
+      "pub_sort_dt": "2026-11-26 02:27:16"
     }
   ],
   "media_news": [
     {
       "source": "Bloomberg",
+      "title_en": "美国宣布加征关税后，中国做好应对准备",
+      "title_cn": "美国宣布加征关税后，中国做好应对准备",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/china-braces-for-tariff-hike-after-us-announcement",
+      "pub_raw": "2026-11-25T21:51:55.858Z",
+      "pub_sort_dt": "2026-11-26 05:51:55"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国汉索制药与拜耳旗下子公司达成一笔价值近33亿美元的药品交易",
+      "title_cn": "中国汉索制药与拜耳旗下子公司达成一笔价值近33亿美元的药品交易",
+      "url": "https://reut.rs/4CmFfFd",
+      "pub_raw": "2026-11-25T20:00:04.371Z",
+      "pub_sort_dt": "2026-11-26 04:00:04"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "在中国与恩智浦（Nexperia）的纠纷中，中国敦促荷兰提供公平、可预见的商业环境",
+      "title_cn": "在中国与恩智浦（Nexperia）的纠纷中，中国敦促荷兰提供公平、可预见的商业环境",
+      "url": "https://reut.rs/4AUt9S5",
+      "pub_raw": "2026-11-25T18:56:44.913Z",
+      "pub_sort_dt": "2026-11-26 02:56:44"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "习近平对上海一位冉冉升起的新星展开的贪腐调查，颠覆了中国传统的权力晋升路径",
+      "title_cn": "习近平对上海一位冉冉升起的新星展开的贪腐调查，颠覆了中国传统的权力晋升路径",
+      "url": "https://reut.rs/4A9oc87",
+      "pub_raw": "2026-11-25T16:18:08.513Z",
+      "pub_sort_dt": "2026-11-26 00:18:08"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "英伟达事件暴露了中国在前沿人工智能领域的脆弱性",
+      "title_cn": "英伟达事件暴露了中国在前沿人工智能领域的脆弱性",
+      "url": "https://www.ft.com/content/e6557cf5-1c02-4ff7-abdd-f0682298b8c1",
+      "pub_raw": "2026-11-25T16:18:08.437Z",
+      "pub_sort_dt": "2026-11-26 00:18:08"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "黄仁勋重返英伟达，加剧了华盛顿围绕中国获取芯片权的争斗",
+      "title_cn": "黄仁勋重返英伟达，加剧了华盛顿围绕中国获取芯片权的争斗",
+      "url": "https://reut.rs/4tjlwlJ",
+      "pub_raw": "2026-11-25T14:57:52.790Z",
+      "pub_sort_dt": "2026-11-25 22:57:52"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "特朗普关税政策实施：美国提议提高对中国、印度及其他主要贸易伙伴的关税",
+      "title_cn": "特朗普关税政策实施：美国提议提高对中国、印度及其他主要贸易伙伴的关税",
+      "url": "https://reut.rs/4zFEdl6",
+      "pub_raw": "2026-11-25T14:09:46.287Z",
+      "pub_sort_dt": "2026-11-25 22:09:46"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "习近平突然撤换一位冉冉升起的新星，在中国引发“地震”",
+      "title_cn": "习近平突然撤换一位冉冉升起的新星，在中国引发“地震”",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/xi-unleashes-china-earthquake-with-shock-ouster-of-rising-star",
+      "pub_raw": "2026-11-25T12:33:44.616Z",
+      "pub_sort_dt": "2026-11-25 20:33:44"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "亚马逊瞄准被中国品牌吸引的英国购车者",
+      "title_cn": "亚马逊瞄准被中国品牌吸引的英国购车者",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/amazon-targets-uk-car-buyers-being-reeled-in-by-chinese-brands",
+      "pub_raw": "2026-11-25T11:30:58.651Z",
+      "pub_sort_dt": "2026-11-25 19:30:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "随着反腐行动的扩大，中国政治局规模缩减",
+      "title_cn": "随着反腐行动的扩大，中国政治局规模缩减",
+      "url": "https://reut.rs/4j2TBmt",
+      "pub_raw": "2026-11-25T10:10:51.775Z",
+      "pub_sort_dt": "2026-11-25 18:10:51"
+    },
+    {
+      "source": "Bloomberg",
       "title_en": "随着印度转向棕榈油，中国大豆油出口的意外热潮趋于降温",
       "title_cn": "随着印度转向棕榈油，中国大豆油出口的意外热潮趋于降温",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-s-surprise-soyoil-export-boom-cools-as-india-turns-to-palm",
@@ -165,174 +245,174 @@
       "pub_sort_dt": "2026-11-25 15:31:55"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "亚马逊瞄准被中国品牌吸引的英国购车者",
-      "title_cn": "亚马逊瞄准被中国品牌吸引的英国购车者",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/amazon-targets-uk-car-buyers-being-reeled-in-by-chinese-brands",
-      "pub_raw": "2026-11-25T06:27:45.208Z",
-      "pub_sort_dt": "2026-11-25 14:27:45"
-    },
-    {
       "source": "Reuters",
       "title_en": "上海领导层向北京表忠心，与此同时一名高级官员正面临调查",
       "title_cn": "上海领导层向北京表忠心，与此同时一名高级官员正面临调查",
       "url": "https://reut.rs/4APBfLA",
       "pub_raw": "2026-11-25T06:27:44.757Z",
       "pub_sort_dt": "2026-11-25 14:27:44"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "“神舟-24”号直播：中国向空间站发射载人飞船，乘组中包括一名巴基斯坦人",
-      "title_cn": "“神舟-24”号直播：中国向空间站发射载人飞船，乘组中包括一名巴基斯坦人",
-      "url": "https://reut.rs/4eUr2oO",
-      "pub_raw": "2026-11-25T06:12:07.501Z",
-      "pub_sort_dt": "2026-11-25 14:12:07"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国就欧盟贸易谈判向布鲁塞尔提出要求清单",
-      "title_cn": "中国就欧盟贸易谈判向布鲁塞尔提出要求清单",
-      "url": "https://www.ft.com/content/b32f9488-aa02-47f8-bebf-a97805a076e4?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-25T06:12:07.266Z",
-      "pub_sort_dt": "2026-11-25 14:12:07"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "欧盟计划设立500亿欧元科技基金，以对抗美国和中国",
-      "title_cn": "欧盟计划设立500亿欧元科技基金，以对抗美国和中国",
-      "url": "https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-25T05:39:34.679Z",
-      "pub_sort_dt": "2026-11-25 13:39:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "尽管2026年前景黯淡，中国太阳能行业仍保持月度增长势头",
-      "title_cn": "尽管2026年前景黯淡，中国太阳能行业仍保持月度增长势头",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-maintains-monthly-solar-momentum-despite-weak-2026-outlook",
-      "pub_raw": "2026-11-25T05:07:51.441Z",
-      "pub_sort_dt": "2026-11-25 13:07:51"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国“神舟-24”号航天任务成功发射，一名巴基斯坦公民成为首位外籍宇航员",
-      "title_cn": "中国“神舟-24”号航天任务成功发射，一名巴基斯坦公民成为首位外籍宇航员",
-      "url": "https://reut.rs/4CnLNDl",
-      "pub_raw": "2026-11-25T04:20:59.991Z",
-      "pub_sort_dt": "2026-11-25 12:20:59"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国首次发射搭载外国宇航员的航天任务",
-      "title_cn": "中国首次发射搭载外国宇航员的航天任务",
-      "url": "https://www.ft.com/content/a1d7d4bd-ecd0-4726-8f62-de75ce2b034c?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-25T04:04:51.633Z",
-      "pub_sort_dt": "2026-11-25 12:04:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "澳大利亚在所罗门群岛将中国挤出太平洋据点",
-      "title_cn": "澳大利亚在所罗门群岛将中国挤出太平洋据点",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific",
-      "pub_raw": "2026-11-25T01:57:14.852Z",
-      "pub_sort_dt": "2026-11-25 09:57:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国出口的强劲增长掩盖了国内经济的压力",
-      "title_cn": "中国出口的强劲增长掩盖了国内经济的压力",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-s-booming-exports-obscure-domestic-economic-strains",
-      "pub_raw": "2026-11-25T00:20:42.019Z",
-      "pub_sort_dt": "2026-11-25 08:20:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "为何香港怀旧风潮正推动着电影、旅游和文化发展",
-      "title_cn": "为何香港怀旧风潮正推动着电影、旅游和文化发展",
-      "url": "https://www.bloomberg.com/news/features/2026-11-25/why-hong-kong-nostalgia-is-driving-movies-tourism-and-culture",
-      "pub_raw": "2026-11-25T00:20:42.016Z",
-      "pub_sort_dt": "2026-11-25 08:20:42"
     }
   ],
   "news": [
     {
       "source": "China Buzzing",
-      "title_en": "中国华为因银行欺诈及与伊朗的关联在美国被判有罪 - Time Magazine",
-      "title_cn": "中国华为因银行欺诈及与伊朗的关联在美国被判有罪 - Time Magazine",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxQTEpCVDBTbmUyM2hOckpXSFNPMVQyM3p1MkFxWVlZbXVuMDVMbFZZOFVfVTNkQTNsb29NdFZ2d2hzN2lxX05VU0FHbzFNb0JOcFhDek1ia0NRYTR5dTJ3UTRiWFdfU2otdHpiYU5hMGN5MW5tTHhOOFZDbDVvczRPbjNld1g0SmE0bHM3Vlk1SDJqZFhPaHdBbg?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T09:30:00.000Z",
-      "pub_sort_dt": "2026-11-25 17:30:00"
+      "title_en": "美国官员称，没有证据表明中国曾协调黄仁勋的婚外情 - WSJ",
+      "title_cn": "美国官员称，没有证据表明中国曾协调黄仁勋的婚外情 - WSJ",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxNcGFwS1ZEYWlBX1g2RF9CX3h5ZmxFQm9ESHR2TURRZ0ZscGFtdk9UaFZabHNiQ1JYOTNmbHlpZWZfcy1qZWM4MXhwOVo1U0g0VWFoODdZckdvTUdBLVAtbk1UYU5BNHVQX2VUUktMMHNHWjIyZE1BNHhpYnE1d2p3MVVjTjNuN05GdXhrbEFXNXNJVGx3X0xXbGVpQ2xUdkp6SnZGbm9ENDVFTU5fZzVvcTBLUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T21:48:00.000Z",
+      "pub_sort_dt": "2026-11-26 05:48:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "盖布吕德·魏斯将威士忌物流业务扩展至中国 - Logistics Business",
-      "title_cn": "盖布吕德·魏斯将威士忌物流业务扩展至中国 - Logistics Business",
-      "url": "https://news.google.com/read/CBMioAFBVV95cUxPRTRwd0w3S3lTU1RhRFd3Q0ttbzBiTUdpQk8xUkZLVHRzRXRJUVZyQTQ4N3NzRzZWeERVbF9kV0ZpVHBCcHctak16QllJcHE3dEdyRFJSa1FKdDROYkZuenhFb3VqZE1FVlgwcUhUNE8wOEI5NnQ1OWxpUmRsdTlCRGJkbkFsbTdRWGV2cFE5aUFVSkhmcjV3Ym8xSGVCd3Vm?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T09:00:46.000Z",
-      "pub_sort_dt": "2026-11-25 17:00:46"
+      "title_en": "美国宣布加征关税后，中国做好应对准备 - Bloomberg",
+      "title_cn": "美国宣布加征关税后，中国做好应对准备 - Bloomberg",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxNS3NyOFFZY3BES2RUSW1SemdaTWUwNGplTjBWQ2drSjc0cy1RV0pIdEMzbmdadV8wbUViUXI1eEFDQlNjN3pCT2M1LWVYYU42OEtYTU1meEZKT2ZqeFVrUlU5cUdia1pJMHlFNDVYZGRGWmE1WDZmQWcxQTl6UkstWElHbmlKSXpHNHdna2x5OXlsTlg0eWRuZ1B6ejhwdF9nM1o2ZGNIMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T21:44:45.000Z",
+      "pub_sort_dt": "2026-11-26 05:44:45"
     },
     {
       "source": "China Buzzing",
-      "title_en": "阿斯利康的中国战略：减少销售人员，增加投资？ - South China Morning Post",
-      "title_cn": "阿斯利康的中国战略：减少销售人员，增加投资？ - South China Morning Post",
-      "url": "https://news.google.com/read/CBMi4wFBVV95cUxNalVVRkcyTS1lR3pWeEFWcUtOa1RGQ0FRWDU1M0JEcnphRDZ0UjcyOHlOWXBJRldOU1hDYzUzZ1VYR0xSQjZjdTJBcG12c2I4RjljX2E5Tk5VYnZJYWNMS0hrRzFJeExCZ0tPbl96Ri1RLVVlakpNb1ZYNXI1SXdZY19ZckYxLTU5MVlQdWVmejl1RGM0Z0ZDS0lYWDkxNHZUNkVIMHNBU2dJa2RENXlDXy1XTjIzSFlBQ3pBSUhfZnN4UkphaC0ycm8ydWZmckthZVkzaVNUbGZFeF9xQXJ1SmR2NA?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T09:00:06.000Z",
-      "pub_sort_dt": "2026-11-25 17:00:06"
+      "title_en": "微软：中国的“Salt Typhoon”黑客组织正在使用Artex - The Record from Recorded Future News",
+      "title_cn": "微软：中国的“Salt Typhoon”黑客组织正在使用Artex - The Record from Recorded Future News",
+      "url": "https://news.google.com/read/CBMifEFVX3lxTE5fTzRPVmxMSk9Ua2tyb2s0a05sVVJuS280ZDU0dkZOVnFIbm91TkNaT0NvSHAxRHdlUGFENlI3bGRsbHNQSVQ0U0FRQm1mU0NpejlQcFJWd2hmWUVmaTVMdm9nTmg5Z3lyTkxzSF81aWh3cjdjRHFsY0hGTVU?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T21:28:48.000Z",
+      "pub_sort_dt": "2026-11-26 05:28:48"
     },
     {
       "source": "China Buzzing",
-      "title_en": "美国乐队“Horseshoe Road”在中国甘肃省敦煌通过音乐架起文化桥梁 - People's Daily Online",
-      "title_cn": "美国乐队“Horseshoe Road”在中国甘肃省敦煌通过音乐架起文化桥梁 - People's Daily Online",
-      "url": "https://news.google.com/read/CBMiY0FVX3lxTE9MZEFuOE9XVHJ2cVBRMzR5VWxpa1Vtc2p1LTZRU3pVbFhWRVpqVWJURUZ4NjN3N3duWTNUUmxCZDh0VDR6MnVLdEtodzdpODR2Wk52d3A3emluZl9mRk1QUnBaUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T08:58:00.000Z",
-      "pub_sort_dt": "2026-11-25 16:58:00"
+      "title_en": "特朗普提议对中、欧及其他贸易伙伴加征新关税 - The Washington Post",
+      "title_cn": "特朗普提议对中、欧及其他贸易伙伴加征新关税 - The Washington Post",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T21:12:18.000Z",
+      "pub_sort_dt": "2026-11-26 05:12:18"
     },
     {
       "source": "China Buzzing",
-      "title_en": "随着印度转向棕榈油，中国大豆油出口的意外热潮趋于降温 - Bloomberg.com",
-      "title_cn": "随着印度转向棕榈油，中国大豆油出口的意外热潮趋于降温 - Bloomberg.com",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxPNDlMWTB4WXNXeUY2QTBpVlNrU3o2Q3BwRE1oMXFIQmFKTUVhSV9ZcThKbmlhRU4zV005RUMzVWpJbzRFRWxXa2l2T3VNbVJFaHhIMzdrb3lfTmRsMksxb093c1piVVVxU1l5N0NPbVp3MXBGOWYxLV9MUVFoMkQtT3pkQWFLeDU4OGJIeEp6NnZ5Q05NU19uTEI2d1NpZHBlbnM1dXlVZ2VfQ1plVE5wUGFNREF3UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T08:53:51.000Z",
-      "pub_sort_dt": "2026-11-25 16:53:51"
+      "title_en": "欧盟混合动力配额削减了中国的配额，增加了日本和土耳其的配额 - Automotive News",
+      "title_cn": "欧盟混合动力配额削减了中国的配额，增加了日本和土耳其的配额 - Automotive News",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxOT0FqREZITDNqOFpRc0hzWmRQUk04b0ZuUldGakV2WmxhRkNxSGZlMzJJV0ZfdWN3TmxaMkZzSDlCRGxwZVBPaTVhNDlobEtRR01pN25OMmZGd0dqMTBpa0o0ZXpRbDQtMjBqRUVDN25xVlQ2Z3lhWEYzMkRxZlJVcm5HNGgtSVJWeW04?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T20:48:00.000Z",
+      "pub_sort_dt": "2026-11-26 04:48:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国新疆批准了一项价值2.85亿美元的电解制氢项目 - Renewables Now",
-      "title_cn": "中国新疆批准了一项价值2.85亿美元的电解制氢项目 - Renewables Now",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxOS1V4WmNnN1JqVmg4Tl9STUdmX0w3d2Rrc0ExWWJnLUxJdk1TaklEU29TUW1zc1RXT2FEWTdvTVBNbUVSbXlLalRJSlVhWUx4NnR1a2xlelc3YjFzZFduM0w3UDFSWUlpMkZsT3BjZG41YUxTc2VqcXp6NzhkUi1xTHgzUjhuczNQOG9SbnQzZElPTXV4ODhYTXU4X3pVMEc1Q3B1OER3?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T08:51:23.000Z",
-      "pub_sort_dt": "2026-11-25 16:51:23"
+      "title_en": "在中國迎頭趕上之前，核武器控制工作將暫停 - The Economist",
+      "title_cn": "在中國迎頭趕上之前，核武器控制工作將暫停 - The Economist",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxQTmpSekMybnFNVjBFcVN2NWhGenhaRFZUNFhNaVBVSXpPZmRHNjZNUkxaLU94WXR4WlQ4ck1wVmF2OWZIQWp0NXJ2YmhGS1Y1YU9Jbm5YMlpTYUV3VFVEZjdMUi11bnpBVnFqQ29wQldIREF0aWJXSW9CWm1OTWlCVUNVZFlIa2F1Q1VDcjlWV2NIUFZEUWNuMnp1UzFydw?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T19:48:17.000Z",
+      "pub_sort_dt": "2026-11-26 03:48:17"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中国“神舟24号”飞船与空间站对接，首次搭载外籍宇航员 - NBC News",
-      "title_cn": "中国“神舟24号”飞船与空间站对接，首次搭载外籍宇航员 - NBC News",
-      "url": "https://news.google.com/read/CBMiswFBVV95cUxPbVhIMFFLSkVWQ3FQVUJZYl83OTF4N3BxR2pReVpwal9iMzg5a1VFQnVqQnNRTVJZZ0I0RWVMMHpZZ0pvclJoN25tSzhwSjRzaXNWdFJRQVlpZm9xSVl2YW40STZiSTdFVmJTbmlXVkN5eUV2a1FfNkRaLXZMSjFDY2RhZHNsNUowdkpQUzFMREl1b0NQdmczQUpXZHJQb0VNb01meGFUb3d2b1I0Z2VwVVpiVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T08:30:46.000Z",
-      "pub_sort_dt": "2026-11-25 16:30:46"
+      "title_en": "据报道，随着美国收紧针对中国的出口漏洞，英伟达芯片销售商正争相寻找新买家 - Yahoo Finance",
+      "title_cn": "据报道，随着美国收紧针对中国的出口漏洞，英伟达芯片销售商正争相寻找新买家 - Yahoo Finance",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxPeGpXUGNVWTZLU2ZRbGtlR1RJSTRQdng2N2hnWW94aS1reGJVRVp1MXpSQUg5Qi1WSE1MYzJJTTZOS0xFRnRMRUhZbklQM2k1SF9mYzRDeXl3emdoVW5IN055NC1RV1liREs0SlFkWXA2Q3M3VlZmc0pnall4SGJXX0Q2V1RIMVRyUGF5YnJ3U3RvOV9pZFhSRzdUUkVFdzBzZkVtX3hR?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T19:02:23.000Z",
+      "pub_sort_dt": "2026-11-26 03:02:23"
     },
     {
       "source": "China Buzzing",
-      "title_en": "Leapmotor 成为中国首家下线第200万辆汽车的新能源初创企业 - Future Transport-News",
-      "title_cn": "Leapmotor 成为中国首家下线第200万辆汽车的新能源初创企业 - Future Transport-News",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxQX1Zzc1hObXhWRjVDcDU2NGs2TlY1MlkxdVctam16TFJNRUVzTUdWYWJZdzg3SDZuRlBrY000b2RzUHVGelo1TjBDeC1VbmZpZFpleG5WQ0tsSlF2UWFwUXFRWkZGOEVmRU1pZ3RKN01ETlR3a21iV3Q3TW5PUDVLMFcxbWM3azZwUFZDRmJuVDFLdEtsNFlPLXh3NmRoOF9YelZ5ZVRZOHA4Qno1UWZRb2xYWFBPTXhpNXRz?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T07:40:47.000Z",
-      "pub_sort_dt": "2026-11-25 15:40:47"
+      "title_en": "芯片和稀土使中美停火局面仍显脆弱 - Bloomberg",
+      "title_cn": "芯片和稀土使中美停火局面仍显脆弱 - Bloomberg",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxNRVY1NjlncFBpOU5YaElBZ1hwSThSVWZyRTFJeHN1eW1KWVQ3MmNWUDc1eURzbUczWWNlVG80TDZGcGN2ZWU2bnh0TmlDWmJOSHVqNzZ5Q0JnRnQ4TGIwYWRNUDgxU0xMTGlCQUUtYU40cFZkMnJHWjBpN2llMGJuX18wRXZySzM2QjNOV2l5NFpuTEdhWEhBZ2ZHWkJQWDR3cUg4aWRsTjlraDA?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T19:01:22.000Z",
+      "pub_sort_dt": "2026-11-26 03:01:22"
     },
     {
       "source": "China Buzzing",
-      "title_en": "中巴载人航天任务筹备了十年：部长表示 - South China Morning Post",
-      "title_cn": "中巴载人航天任务筹备了十年：部长表示 - South China Morning Post",
-      "url": "https://news.google.com/read/CBMiygFBVV95cUxNNkxYd20zUXdqam4yY0ZOcFRmcFV4VmRVQzRyTTJvT2ZsNXN1WkY0d3BzZktVWUJCeVZXZHJNczdJYVEwbVdESXZWcnFQTmlYSGR2RVhwcVZzM2htZE80REZMU3RBQ3otMUFUS0l3Mm5Qa0NpZ0VIRUZqQ2xUNS16SkN3eEhhdnpVcXNFSnpwU05hSGtKSE1SZWRRYktndTNNQ1puSkNFWDNzeVdsa0hTYnZPSHdRTTZPY2o1REtUdUR5RmYweTZ3TnZR?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T07:11:14.000Z",
-      "pub_sort_dt": "2026-11-25 15:11:14"
+      "title_en": "分析：美国授予习近平“主席”头衔 - Nikkei Asia",
+      "title_cn": "分析：美国授予习近平“主席”头衔 - Nikkei Asia",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxNenNQbEN4aE91Rkp3Z09wNkdkelpUcUI1VVZyN3YybDg2NzUzaG5lR0M5RFhaajRrdmNFV2Ftc3FlZ0tLb0lBVWNLTHNCb2dkcHlqcHF6RExWYS12bWJlZWJSX0xCR28wWUNBRHc5T0dST1pzbEJyWDlSN05Cckp5REcyMzVvQy1WTmJQazJCY1dDSEJlemctcEVJVmxyMDVIbzU2X1pZalJUQmZZeWJ0cV9lSnk?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T19:00:00.000Z",
+      "pub_sort_dt": "2026-11-26 03:00:00"
     },
     {
       "source": "China Buzzing",
-      "title_en": "从中国到欧盟，塞尔维亚已成为制冷剂黑市交易的枢纽 - Balkan Insight",
-      "title_cn": "从中国到欧盟，塞尔维亚已成为制冷剂黑市交易的枢纽 - Balkan Insight",
-      "url": "https://news.google.com/read/CBMitwFBVV95cUxOUEtwSWhFa2ZfMXY2bmFFVmloYWk3bmU3OFQ3MWF5UjZjRHFBSG1iWFg1cUhoUVQ4RHkzZEs0UG1ZdWxnM0NRdGdzZnpGREY4cGF2NlpzdlpWQk1oNldLZjRGVWlCY085cWR2VTJHMm10dkZXWThjTTd3RWN4OThyUXVNUnBSNTFDVVhhR2hzbFVCSFpGOHducWppNlZpcG5IQklWUlVxSE5RR244bTNpUGV2N3Z0RXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "pub_raw": "2026-11-25T06:56:15.000Z",
-      "pub_sort_dt": "2026-11-25 14:56:15"
+      "title_en": "新泉机器人通过机器人零部件交易获得中国长班5%的股权 - Dealroom",
+      "title_cn": "新泉机器人通过机器人零部件交易获得中国长班5%的股权 - Dealroom",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxPbzFrbElzR0JNWFJfMjdoTTdzMDJGU0h1UmQ5TDdtRi04LU5lNlZMNUlFNGxweFJXS1pKUUN5clFnTHV3UkFOMmUySzV4WnZRU2JubWRXV1c4eUo1SEtqYm5ueHM3VVVLYm1FUGJaWFI5dWNVOVc1MV9iVm1VSjBKMDFEbGtEa1dfaE91Zzg1MVpzaHhMUDRfMU5aT2FtQUE?hl=en-US&gl=US&ceid=US%3Aen",
+      "pub_raw": "2026-11-25T18:27:16.000Z",
+      "pub_sort_dt": "2026-11-26 02:27:16"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "美国宣布加征关税后，中国做好应对准备",
+      "title_cn": "美国宣布加征关税后，中国做好应对准备",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/china-braces-for-tariff-hike-after-us-announcement",
+      "pub_raw": "2026-11-25T21:51:55.858Z",
+      "pub_sort_dt": "2026-11-26 05:51:55"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "中国汉索制药与拜耳旗下子公司达成一笔价值近33亿美元的药品交易",
+      "title_cn": "中国汉索制药与拜耳旗下子公司达成一笔价值近33亿美元的药品交易",
+      "url": "https://reut.rs/4CmFfFd",
+      "pub_raw": "2026-11-25T20:00:04.371Z",
+      "pub_sort_dt": "2026-11-26 04:00:04"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "在中国与恩智浦（Nexperia）的纠纷中，中国敦促荷兰提供公平、可预见的商业环境",
+      "title_cn": "在中国与恩智浦（Nexperia）的纠纷中，中国敦促荷兰提供公平、可预见的商业环境",
+      "url": "https://reut.rs/4AUt9S5",
+      "pub_raw": "2026-11-25T18:56:44.913Z",
+      "pub_sort_dt": "2026-11-26 02:56:44"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "习近平对上海一位冉冉升起的新星展开的贪腐调查，颠覆了中国传统的权力晋升路径",
+      "title_cn": "习近平对上海一位冉冉升起的新星展开的贪腐调查，颠覆了中国传统的权力晋升路径",
+      "url": "https://reut.rs/4A9oc87",
+      "pub_raw": "2026-11-25T16:18:08.513Z",
+      "pub_sort_dt": "2026-11-26 00:18:08"
+    },
+    {
+      "source": "Financial Times",
+      "title_en": "英伟达事件暴露了中国在前沿人工智能领域的脆弱性",
+      "title_cn": "英伟达事件暴露了中国在前沿人工智能领域的脆弱性",
+      "url": "https://www.ft.com/content/e6557cf5-1c02-4ff7-abdd-f0682298b8c1",
+      "pub_raw": "2026-11-25T16:18:08.437Z",
+      "pub_sort_dt": "2026-11-26 00:18:08"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "黄仁勋重返英伟达，加剧了华盛顿围绕中国获取芯片权的争斗",
+      "title_cn": "黄仁勋重返英伟达，加剧了华盛顿围绕中国获取芯片权的争斗",
+      "url": "https://reut.rs/4tjlwlJ",
+      "pub_raw": "2026-11-25T14:57:52.790Z",
+      "pub_sort_dt": "2026-11-25 22:57:52"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "特朗普关税政策实施：美国提议提高对中国、印度及其他主要贸易伙伴的关税",
+      "title_cn": "特朗普关税政策实施：美国提议提高对中国、印度及其他主要贸易伙伴的关税",
+      "url": "https://reut.rs/4zFEdl6",
+      "pub_raw": "2026-11-25T14:09:46.287Z",
+      "pub_sort_dt": "2026-11-25 22:09:46"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "习近平突然撤换一位冉冉升起的新星，在中国引发“地震”",
+      "title_cn": "习近平突然撤换一位冉冉升起的新星，在中国引发“地震”",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/xi-unleashes-china-earthquake-with-shock-ouster-of-rising-star",
+      "pub_raw": "2026-11-25T12:33:44.616Z",
+      "pub_sort_dt": "2026-11-25 20:33:44"
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "亚马逊瞄准被中国品牌吸引的英国购车者",
+      "title_cn": "亚马逊瞄准被中国品牌吸引的英国购车者",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/amazon-targets-uk-car-buyers-being-reeled-in-by-chinese-brands",
+      "pub_raw": "2026-11-25T11:30:58.651Z",
+      "pub_sort_dt": "2026-11-25 19:30:58"
+    },
+    {
+      "source": "Reuters",
+      "title_en": "随着反腐行动的扩大，中国政治局规模缩减",
+      "title_cn": "随着反腐行动的扩大，中国政治局规模缩减",
+      "url": "https://reut.rs/4j2TBmt",
+      "pub_raw": "2026-11-25T10:10:51.775Z",
+      "pub_sort_dt": "2026-11-25 18:10:51"
     },
     {
       "source": "Bloomberg",
@@ -407,92 +487,12 @@
       "pub_sort_dt": "2026-11-25 15:31:55"
     },
     {
-      "source": "Bloomberg",
-      "title_en": "亚马逊瞄准被中国品牌吸引的英国购车者",
-      "title_cn": "亚马逊瞄准被中国品牌吸引的英国购车者",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/amazon-targets-uk-car-buyers-being-reeled-in-by-chinese-brands",
-      "pub_raw": "2026-11-25T06:27:45.208Z",
-      "pub_sort_dt": "2026-11-25 14:27:45"
-    },
-    {
       "source": "Reuters",
       "title_en": "上海领导层向北京表忠心，与此同时一名高级官员正面临调查",
       "title_cn": "上海领导层向北京表忠心，与此同时一名高级官员正面临调查",
       "url": "https://reut.rs/4APBfLA",
       "pub_raw": "2026-11-25T06:27:44.757Z",
       "pub_sort_dt": "2026-11-25 14:27:44"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "“神舟-24”号直播：中国向空间站发射载人飞船，乘组中包括一名巴基斯坦人",
-      "title_cn": "“神舟-24”号直播：中国向空间站发射载人飞船，乘组中包括一名巴基斯坦人",
-      "url": "https://reut.rs/4eUr2oO",
-      "pub_raw": "2026-11-25T06:12:07.501Z",
-      "pub_sort_dt": "2026-11-25 14:12:07"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国就欧盟贸易谈判向布鲁塞尔提出要求清单",
-      "title_cn": "中国就欧盟贸易谈判向布鲁塞尔提出要求清单",
-      "url": "https://www.ft.com/content/b32f9488-aa02-47f8-bebf-a97805a076e4?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-25T06:12:07.266Z",
-      "pub_sort_dt": "2026-11-25 14:12:07"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "欧盟计划设立500亿欧元科技基金，以对抗美国和中国",
-      "title_cn": "欧盟计划设立500亿欧元科技基金，以对抗美国和中国",
-      "url": "https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-25T05:39:34.679Z",
-      "pub_sort_dt": "2026-11-25 13:39:34"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "尽管2026年前景黯淡，中国太阳能行业仍保持月度增长势头",
-      "title_cn": "尽管2026年前景黯淡，中国太阳能行业仍保持月度增长势头",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-maintains-monthly-solar-momentum-despite-weak-2026-outlook",
-      "pub_raw": "2026-11-25T05:07:51.441Z",
-      "pub_sort_dt": "2026-11-25 13:07:51"
-    },
-    {
-      "source": "Reuters",
-      "title_en": "中国“神舟-24”号航天任务成功发射，一名巴基斯坦公民成为首位外籍宇航员",
-      "title_cn": "中国“神舟-24”号航天任务成功发射，一名巴基斯坦公民成为首位外籍宇航员",
-      "url": "https://reut.rs/4CnLNDl",
-      "pub_raw": "2026-11-25T04:20:59.991Z",
-      "pub_sort_dt": "2026-11-25 12:20:59"
-    },
-    {
-      "source": "Financial Times",
-      "title_en": "中国首次发射搭载外国宇航员的航天任务",
-      "title_cn": "中国首次发射搭载外国宇航员的航天任务",
-      "url": "https://www.ft.com/content/a1d7d4bd-ecd0-4726-8f62-de75ce2b034c?syn-25a6b1a6=1",
-      "pub_raw": "2026-11-25T04:04:51.633Z",
-      "pub_sort_dt": "2026-11-25 12:04:51"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "澳大利亚在所罗门群岛将中国挤出太平洋据点",
-      "title_cn": "澳大利亚在所罗门群岛将中国挤出太平洋据点",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific",
-      "pub_raw": "2026-11-25T01:57:14.852Z",
-      "pub_sort_dt": "2026-11-25 09:57:14"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "中国出口的强劲增长掩盖了国内经济的压力",
-      "title_cn": "中国出口的强劲增长掩盖了国内经济的压力",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-s-booming-exports-obscure-domestic-economic-strains",
-      "pub_raw": "2026-11-25T00:20:42.019Z",
-      "pub_sort_dt": "2026-11-25 08:20:42"
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "为何香港怀旧风潮正推动着电影、旅游和文化发展",
-      "title_cn": "为何香港怀旧风潮正推动着电影、旅游和文化发展",
-      "url": "https://www.bloomberg.com/news/features/2026-11-25/why-hong-kong-nostalgia-is-driving-movies-tourism-and-culture",
-      "pub_raw": "2026-11-25T00:20:42.016Z",
-      "pub_sort_dt": "2026-11-25 08:20:42"
     }
   ]
 }
